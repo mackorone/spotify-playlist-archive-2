@@ -1,12 +1,12 @@
 {
   "description": "you look so cool. Cover: The 1975",
-  "num_followers": 173104,
+  "num_followers": 173112,
   "original_name": "reblog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL4Qz5mVgDhD6MYbe/RpOkmZYfrD",
+  "snapshot_id": "AAAAAJeeQhubfxGMqPDY/4elCBpe3vqe",
   "tracks": [
     {
       "added_at": "2025-06-23 15:40:57",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-06-23 15:40:57",
       "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
+    },
+    {
+      "added_at": "2025-06-23 15:40:57",
+      "album": {
         "name": "Settle (Special Edition)",
         "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 255631,
       "name": "Latch",
       "url": "https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr"
-    },
-    {
-      "added_at": "2025-06-23 15:40:57",
-      "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
     },
     {
       "added_at": "2025-06-23 15:40:57",

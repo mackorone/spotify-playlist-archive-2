@@ -1,12 +1,12 @@
 {
   "description": "La colonna sonora perfetta per le giornate di lavoro da casa, alla scrivania o sul divano! \ud83d\udcaa",
-  "num_followers": 1043,
+  "num_followers": 1045,
   "original_name": "Smart Working",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFP+gmRIfJL7eCTaXkTwEFTc7hiU",
+  "snapshot_id": "AAAAAJC6jixm7jrZiH/CaftUwXStNrSb",
   "tracks": [
     {
       "added_at": "2024-10-08 16:22:20",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-10-08 16:22:20",
       "album": {
-        "name": "More of The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "I'm a Believer - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
-    },
-    {
-      "added_at": "2024-10-08 16:22:20",
-      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 185186,
       "name": "Tears Dry On Their Own",
       "url": "https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF"
+    },
+    {
+      "added_at": "2024-10-08 16:22:20",
+      "album": {
+        "name": "More of The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "I'm a Believer - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
     },
     {
       "added_at": "2024-10-08 16:22:20",

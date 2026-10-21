@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 
 > ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: PUN, THE TOYS
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,448 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,481 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 | 49 | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/track/4GMsgN54SdPxMamKu9qQam) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/album/5Y9UBuDr9YrjFoRvfuO6fb) | 3:56 |
 | 50 | [One Of My Life](https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [K6Y](https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt) | [One Of My Life](https://open.spotify.com/album/1CoVcH5nmOxaKBc6Z6TJMQ) | 3:36 |
 
-Snapshot ID: `AAAAAKsWWz7yd6lUTBaCQRHic7sdiVqr`
+Snapshot ID: `AAAAAM0BkQjhG1q63LsdfF9Syp+e0Z0k`

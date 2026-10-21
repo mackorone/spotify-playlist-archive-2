@@ -1,12 +1,12 @@
 {
   "description": "Rock with a drop. Cover: HVDES \\m/",
-  "num_followers": 359181,
+  "num_followers": 359227,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACJ9DgdL+zOwWfMgspdUAdthybup",
+  "snapshot_id": "AAAAAPcn3BgPmCZmC2e/cp9l9FUX7prY",
   "tracks": [
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "Higher Ground (Part 1)",
-        "url": "https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 226896,
-      "name": "Industrial Strain",
-      "url": "https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Hole",
         "url": "https://open.spotify.com/album/04qteXG2NESXxT2sykzNz8"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 212413,
       "name": "Hole",
       "url": "https://open.spotify.com/track/0AEIeS5gS15ET3iy8jW6QY"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Higher Ground (Part 1)",
+        "url": "https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 226896,
+      "name": "Industrial Strain",
+      "url": "https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -1743,30 +1743,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "MELLODEATH Tapes Vol. I",
-        "url": "https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        },
-        {
-          "name": "Crown The Empire",
-          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Fireball",
-      "url": "https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
       },
@@ -1787,6 +1763,30 @@
       "duration_ms": 246400,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "MELLODEATH Tapes Vol. I",
+        "url": "https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "Crown The Empire",
+          "url": "https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Fireball",
+      "url": "https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "Going Down",
         "url": "https://open.spotify.com/album/5NeIIC2AIQOFJNawPbLCAb"
       },
@@ -2091,24 +2107,8 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
-      },
-      "artists": [
-        {
-          "name": "Omri",
-          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
-        }
-      ],
-      "duration_ms": 219789,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "Save The Cat",
-        "url": "https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k"
+        "name": "Colourfast",
+        "url": "https://open.spotify.com/album/1Rln7JVD0fSfbpBDzl2ylq"
       },
       "artists": [
         {
@@ -2116,9 +2116,9 @@
           "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
         }
       ],
-      "duration_ms": 172404,
-      "name": "Save The Cat",
-      "url": "https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9"
+      "duration_ms": 226606,
+      "name": "Colourfast",
+      "url": "https://open.spotify.com/track/2MoWNYaX0UT7TKbCCx2DsP"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2311,6 +2311,26 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "RAVEN",
+        "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
+      },
+      "artists": [
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        },
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "RAVEN",
+      "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
       },
@@ -2355,42 +2375,6 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
-        "name": "RAVEN",
-        "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
-      },
-      "artists": [
-        {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
-        },
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "RAVEN",
-      "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK"
-      },
-      "artists": [
-        {
-          "name": "ALT BLK ERA",
-          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
-        }
-      ],
-      "duration_ms": 186822,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
         "name": "R-TYPE II",
         "url": "https://open.spotify.com/album/4pGTuGc0EqYrTBK25Lyf29"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 175533,
       "name": "ANTIDOTE (FT. PIXEL GRIP) - AMORTAL RMX",
       "url": "https://open.spotify.com/track/3YnnPZM0mVpfbWydph1pDR"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "duration_ms": 186822,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N"
     },
     {
       "added_at": "2026-09-18 15:22:42",
@@ -2455,6 +2455,30 @@
     {
       "added_at": "2026-09-18 15:22:42",
       "album": {
+        "name": "SO FAR SO FAKE",
+        "url": "https://open.spotify.com/album/0jWVyAzO2ZLi3GeWIPGpQf"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Manly",
+          "url": "https://open.spotify.com/artist/2u1sGcaPV4lkA9eZSOtxfX"
+        },
+        {
+          "name": "SweetTooth",
+          "url": "https://open.spotify.com/artist/2G3LxpQ9lxzDq9pea6hCle"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "SO FAR SO FAKE",
+      "url": "https://open.spotify.com/track/4rRWDVA9kmRwbnXuon269O"
+    },
+    {
+      "added_at": "2026-09-18 15:22:42",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq"
       },
@@ -2491,30 +2515,6 @@
       "duration_ms": 197334,
       "name": "Bad Blood - Weird Genius Remix",
       "url": "https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ"
-    },
-    {
-      "added_at": "2026-09-18 15:22:42",
-      "album": {
-        "name": "SO FAR SO FAKE",
-        "url": "https://open.spotify.com/album/0jWVyAzO2ZLi3GeWIPGpQf"
-      },
-      "artists": [
-        {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        },
-        {
-          "name": "Manly",
-          "url": "https://open.spotify.com/artist/2u1sGcaPV4lkA9eZSOtxfX"
-        },
-        {
-          "name": "SweetTooth",
-          "url": "https://open.spotify.com/artist/2G3LxpQ9lxzDq9pea6hCle"
-        }
-      ],
-      "duration_ms": 260571,
-      "name": "SO FAR SO FAKE",
-      "url": "https://open.spotify.com/track/4rRWDVA9kmRwbnXuon269O"
     }
   ],
   "unique_name": "Rocktronic",

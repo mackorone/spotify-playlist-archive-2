@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 
 > Guembri, rhythmic krakebs and soulful chants.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,585 likes - 50 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,611 likes - 50 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 10 | [Ya lil](https://open.spotify.com/track/5HT5SUVxHOG3cCCjnorj45) | [Saad Tiouly](https://open.spotify.com/artist/6u7nvgtDtB0CG3vra0mBfB) | [Ya lil](https://open.spotify.com/album/515pzLELLkIv2VuxqlWv7S) | 4:12 |
 | 11 | [Soudani Manayou](https://open.spotify.com/track/2erBxmWBvqxXqQiGo4Sp8q) | [Maalem Said Damir & Gnawa Allstars](https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS) | [Gnawa or Never](https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT) | 4:54 |
 | 12 | [Sandiya](https://open.spotify.com/track/0dOrMZUgxBpT2SlKT2dTcp) | [Karim Ziad](https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8) | [Ifrikya](https://open.spotify.com/album/4ZxEG0vF1yh3EPoO7BWmUw) | 4:37 |
-| 13 | [Guembrified](https://open.spotify.com/track/1ET3SkndcTAOMrP97mlPUn) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Guembrified](https://open.spotify.com/album/23zMAgsnRrnZcygmEYW9bY) | 3:54 |
+| 13 | [Lalla Mira](https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf) | [Fehd Benchemsi](https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky) | [Live in Casablanca](https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR) | 9:29 |
 | 14 | [Bouhali](https://open.spotify.com/track/6IEDKu0MAwj1qZ8cznuzkp) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Roots & Plugged](https://open.spotify.com/album/16MciLmcGXDmpmZZmlJUNn) | 5:20 |
-| 15 | [Lalla Mira](https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf) | [Fehd Benchemsi](https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky) | [Live in Casablanca](https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR) | 9:29 |
+| 15 | [Guembrified](https://open.spotify.com/track/1ET3SkndcTAOMrP97mlPUn) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Guembrified](https://open.spotify.com/album/23zMAgsnRrnZcygmEYW9bY) | 3:54 |
 | 16 | [La Ilaha Illa Allah](https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf) | [Maalem Said Damir & Gnawa Allstars](https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS) | [Gnawa or Never](https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT) | 10:17 |
 | 17 | [Goumari](https://open.spotify.com/track/3JDC2CqjkLvuRTNFelfZks) | [Habib Belk](https://open.spotify.com/artist/682K5C67MQhU1K56gA5wJc) | [Sidi Kmmy](https://open.spotify.com/album/4R9ejsPkbyxzaPvuGS8MTR) | 4:01 |
-| 18 | [La Illaha Illa Allah](https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1) | [Hamid El Gnawi](https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG) | [Gnawa Fusion, Vol\. 4](https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef) | 8:54 |
+| 18 | [Katibala \(Live\)](https://open.spotify.com/track/5tUsKspXvhtuEvIuzbKCpO) | [Fehd Benchemsi](https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky) | [Live at Village Studios](https://open.spotify.com/album/127psl2zvTt8MVUvnyrqnL) | 6:25 |
 | 19 | [Hamdouchia](https://open.spotify.com/track/297ADzLE7uIT5OhZeA7TvS) | [Hamid El Kasri](https://open.spotify.com/artist/4dLuwltQIkqt9NOeRrco61) | [Gnawa Home Songs](https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu) | 4:09 |
-| 20 | [Katibala \(Live\)](https://open.spotify.com/track/5tUsKspXvhtuEvIuzbKCpO) | [Fehd Benchemsi](https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky) | [Live at Village Studios](https://open.spotify.com/album/127psl2zvTt8MVUvnyrqnL) | 6:25 |
+| 20 | [La Illaha Illa Allah](https://open.spotify.com/track/1rUFXxtuyZj0Q83e3qUvN1) | [Hamid El Gnawi](https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG) | [Gnawa Fusion, Vol\. 4](https://open.spotify.com/album/5SLDSuYflfHqcwoMY7ozef) | 8:54 |
 | 21 | [Bania Bambara](https://open.spotify.com/track/0xWdeE1STnWxPJdpbcl3cs) | [Maalem Said Damir & Gnawa Allstars](https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS) | [Gnawa or Never](https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT) | 7:20 |
 | 22 | [Chalaba](https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E) | [Gnawa de Marrakech](https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj), [Maalem Mahjoub](https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp) | [Lila](https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq) | 6:37 |
 | 23 | [Bangara](https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3) | [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Innov Gnawa](https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF) | 5:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 49 | [Arabiato](https://open.spotify.com/track/2THND2AOdM0UKRIi5RJNZk) | [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK) | [Africa Soyo](https://open.spotify.com/album/0TS8sECdyoJTL0n7aKozrx) | 6:28 |
 | 50 | [Baba Arabi](https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN) | [Gnawa Njoum Experience](https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l) | [Gnawa Njoum Experience](https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh) | 6:15 |
 
-Snapshot ID: `AAAAAHvnJ/6o3dggPZVMewGaJmZWZ/DG`
+Snapshot ID: `AAAAAAuJdMSSjlML6+NV3S/ajRoOGnPe`

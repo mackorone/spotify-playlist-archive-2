@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Nsqk, Dei V, Anuel AA, Silvana Estrada, Rawayana and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,238 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,239 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 49 | [Como Yo](https://open.spotify.com/track/4r92GfYvKjePrQmHYYG8CN) | [Penélope Santacruz](https://open.spotify.com/artist/1QlqS12K73y5zruVIzo37D) | [Como Yo](https://open.spotify.com/album/42dQ4OLWiKBF8dxsq616oQ) | 3:05 |
 | 50 | [Cuando me rompas el corazón](https://open.spotify.com/track/30yyA8PsYsn3dpIrOek5IE) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Cuando me rompas el corazón](https://open.spotify.com/album/5Y7XtAz9oSiQdhMDwqJjRZ) | 2:41 |
 
-Snapshot ID: `AAAAAOL224ZeZDWE19x+5BGJmKCHE2Z2`
+Snapshot ID: `AAAAAGP/RcpBcnZ4f2zs83vauEeY0gFC`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With NUDNIK, post-punk'er, Ursula and more",
+  "description": "With NUDNIK, A Shrine to Failure, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 141010,
       "name": "25 Medium",
       "url": "https://open.spotify.com/track/4wZkurfUQhCxzBm85qThzr"
@@ -3878,7 +3878,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 197000,
       "name": "CLAW MACHINE",
       "url": "https://open.spotify.com/track/7rHOkT1T72TEQYBduComAY"
@@ -4084,7 +4084,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 300466,
       "name": "Come on Moon",
       "url": "https://open.spotify.com/track/4PsrTSuZWI93sOFsX0NMnf"
@@ -7420,7 +7420,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 205008,
       "name": "Fascinating Me",
       "url": "https://open.spotify.com/track/2sAz58nXQoQTSwsxCdHVWg"
@@ -7582,7 +7582,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 245527,
       "name": "Feels Like Heaven - White Horses",
       "url": "https://open.spotify.com/track/27iEHpWLExtnoRI1pPoyyq"
@@ -8906,7 +8906,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 263000,
       "name": "Happy",
       "url": "https://open.spotify.com/track/0e73V4IkTodEYyuvgQMRYg"
@@ -11090,7 +11090,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 138705,
       "name": "is it enough?",
       "url": "https://open.spotify.com/track/6vMWHxbtL2u34lk510XQv3"
@@ -11198,7 +11198,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/12suIX22O7suMz8l37riiP"
@@ -12162,7 +12162,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 173792,
       "name": "LBS",
       "url": "https://open.spotify.com/track/4Ml081k9JSdOfSPfzcwyS1"
@@ -14421,6 +14421,24 @@
     },
     {
       "album": {
+        "name": "NDRI",
+        "url": "https://open.spotify.com/album/5gmg5JqKXIOyAEEwGx4TCJ"
+      },
+      "artists": [
+        {
+          "name": "Some Days Are Darker",
+          "url": "https://open.spotify.com/artist/5wbLdfDQwuzP4mOD2ETKo2"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "NDRI",
+      "url": "https://open.spotify.com/track/6llrscdKto2TxEdIgzbgTD"
+    },
+    {
+      "album": {
         "name": "Necromantic",
         "url": "https://open.spotify.com/album/0qOSIdifVoHqc1DHRUDybK"
       },
@@ -16480,7 +16498,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 258249,
       "name": "Red Rock Sunshine",
       "url": "https://open.spotify.com/track/5QfmSPJ4oVCgUfST8VW5Qs"
@@ -19872,7 +19890,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 261696,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6MhcROf37o3rAqVnGpVFQK"
@@ -21162,7 +21180,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 198504,
       "name": "The low",
       "url": "https://open.spotify.com/track/6plhzudEeMjal1cTj1MqaV"
@@ -22086,7 +22104,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 192200,
       "name": "Through The Sand - LP Edition",
       "url": "https://open.spotify.com/track/2FNoeqF9xXuLHSRyKXItO7"
@@ -22930,6 +22948,24 @@
       "duration_ms": 168716,
       "name": "Unbound",
       "url": "https://open.spotify.com/track/12KKoSZN4BkrAD3Z6B4dMj"
+    },
+    {
+      "album": {
+        "name": "Undead",
+        "url": "https://open.spotify.com/album/3Dq2uea0mXGC35nwguWIS5"
+      },
+      "artists": [
+        {
+          "name": "Ruebi",
+          "url": "https://open.spotify.com/artist/0M7Fjef4dLBwOI6Akb8kh9"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237888,
+      "name": "Undead",
+      "url": "https://open.spotify.com/track/5KA1lM5sdwMzuKn386tb1Q"
     },
     {
       "album": {
@@ -24022,7 +24058,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 259813,
       "name": "We Were Young",
       "url": "https://open.spotify.com/track/5i2R6mynkMNZncrwishbGJ"
@@ -24618,7 +24654,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"
@@ -25170,7 +25206,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 314181,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"

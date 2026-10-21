@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > "She'll Never Be Me" on streaming is the ultimate main pop girl emergency✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,917 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,045 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 99 | [Your Love Is My Drug \(Like A Version\)](https://open.spotify.com/track/35FIIqFiSUu8WLhVfOYDip) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Your Love Is My Drug \(Like A Version\)](https://open.spotify.com/album/4EAcNSUHnrUbat7K86bEqd) | 3:15 |
 | 100 | [Sex, Etc.](https://open.spotify.com/track/0dP58NNCmEiNRd8Irh6aBM) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Male Validation and Other Drugs](https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM) | 3:40 |
 
-Snapshot ID: `AAAAADJ482516fRY7iBa1OqpIQJqAAAX`
+Snapshot ID: `AAAAAOQcN0HinfEPEZPQBihJuHxSono2`

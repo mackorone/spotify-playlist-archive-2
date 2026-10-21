@@ -1,12 +1,12 @@
 {
   "description": "se for pra sofrer, que seja com trilha sonora",
-  "num_followers": 498908,
+  "num_followers": 498856,
   "original_name": "Cora\u00e7\u00e3o Partido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADBwitoQ6t6QmlOyF6EGH04NQksM",
+  "snapshot_id": "AAAAAODjJd5Q9Nw1mbvrfzzUGVrzsQEv",
   "tracks": [
     {
       "added_at": "2025-11-28 20:38:53",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-11-28 20:38:53",
       "album": {
+        "name": "DEPOIS DO UNIVERSO",
+        "url": "https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 184160,
+      "name": "DEPOIS DO UNIVERSO",
+      "url": "https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o"
+    },
+    {
+      "added_at": "2025-11-28 20:38:53",
+      "album": {
         "name": "Senhas",
         "url": "https://open.spotify.com/album/7avsLM0HPiAyW1nxjDPHYp"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 239373,
       "name": "One Last Breath",
       "url": "https://open.spotify.com/track/3F1qkJx3flPUWadfFQcOEj"
-    },
-    {
-      "added_at": "2025-11-28 20:38:53",
-      "album": {
-        "name": "DEPOIS DO UNIVERSO",
-        "url": "https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "DEPOIS DO UNIVERSO",
-      "url": "https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o"
     },
     {
       "added_at": "2025-11-28 20:38:53",

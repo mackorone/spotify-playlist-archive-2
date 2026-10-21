@@ -373,6 +373,28 @@
     },
     {
       "album": {
+        "name": "Agano",
+        "url": "https://open.spotify.com/album/3fJ0i6P7682sMpekvkB4p7"
+      },
+      "artists": [
+        {
+          "name": "\u5e73\u7530\u5fd7\u7a42\u5b50",
+          "url": "https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX"
+        },
+        {
+          "name": "Kuniyuki Takahashi",
+          "url": "https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376196,
+      "name": "Agano",
+      "url": "https://open.spotify.com/track/2Plq7frO8stTGqjaSRVGYP"
+    },
+    {
+      "album": {
         "name": "Ake",
         "url": "https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk"
       },
@@ -1600,7 +1622,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 130280,
       "name": "Dear - Haruhisa Tanaka Remix",
       "url": "https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15"
@@ -1676,6 +1698,28 @@
       "duration_ms": 174000,
       "name": "Dim Light",
       "url": "https://open.spotify.com/track/2EmAidvtoBJ2FghwnhmMh5"
+    },
+    {
+      "album": {
+        "name": "Doodle Notes #15",
+        "url": "https://open.spotify.com/album/2wK0iVDXEkgqwS90F1yGhK"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        },
+        {
+          "name": "Shingo Mimura",
+          "url": "https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210943,
+      "name": "Doodle Notes #15",
+      "url": "https://open.spotify.com/track/7DJeZMinIXhAnciBDcLVwn"
     },
     {
       "album": {
@@ -2296,10 +2340,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 211625,
       "name": "Gallery window",
       "url": "https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM"
+    },
+    {
+      "album": {
+        "name": "Gate",
+        "url": "https://open.spotify.com/album/3SOKw9Qs2ahZAqAvzVklGv"
+      },
+      "artists": [
+        {
+          "name": "Keiichiro Shibuya",
+          "url": "https://open.spotify.com/artist/3GgEjl6j7ky6U13LvKa5vy"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200609,
+      "name": "Gate",
+      "url": "https://open.spotify.com/track/0Q1AMRqln2R39n2qU2i3Gf"
     },
     {
       "album": {
@@ -2447,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "caesura",
+        "url": "https://open.spotify.com/album/6MOyxkbWmupn3Wj2k7oniW"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107746,
+      "name": "HALATION",
+      "url": "https://open.spotify.com/track/05RqvNls2PLgJqJGmGGOsb"
+    },
+    {
+      "album": {
         "name": "Hallucination",
         "url": "https://open.spotify.com/album/7uC2fIb54TkrcnXIWm0b3y"
       },
@@ -2476,7 +2556,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 416266,
       "name": "Hana",
       "url": "https://open.spotify.com/track/3BEtkDxDmgwVVpTRbL89nX"
@@ -2753,6 +2833,24 @@
     },
     {
       "album": {
+        "name": "How Far",
+        "url": "https://open.spotify.com/album/5sTxso5rBLD0zGTwtsrgSz"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168240,
+      "name": "How Far",
+      "url": "https://open.spotify.com/track/4JSKrd1ZRBJwvl5CI19pvG"
+    },
+    {
+      "album": {
         "name": "hue",
         "url": "https://open.spotify.com/album/1iZPZAw6xNwXuQfRgx5EB4"
       },
@@ -2873,6 +2971,32 @@
     },
     {
       "album": {
+        "name": "images on loan",
+        "url": "https://open.spotify.com/album/1y3tpf16OEOfBkX3O3fDo0"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u7530 \u60a0\u771f",
+          "url": "https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47"
+        },
+        {
+          "name": "Jan Urila Sas",
+          "url": "https://open.spotify.com/artist/7BPQ8eUXJcCAVOyJ7vxn5n"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339893,
+      "name": "images on loan",
+      "url": "https://open.spotify.com/track/3cCwrAFdIQz8OcDRzGrHfO"
+    },
+    {
+      "album": {
         "name": "MOON GARDEN",
         "url": "https://open.spotify.com/album/0j6HWiO4nQi5vR866jGjk5"
       },
@@ -2892,7 +3016,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 570594,
       "name": "In The Forest of Syrinx",
       "url": "https://open.spotify.com/track/7MsE9rH9EZH8AlocDpHQ0N"
@@ -3612,7 +3736,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 181829,
       "name": "londonderry air",
       "url": "https://open.spotify.com/track/0L7Xe1keIzxfM5Hvj6GYxD"
@@ -4352,7 +4476,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 121146,
       "name": "Nord",
       "url": "https://open.spotify.com/track/4gfvhMlB73sCF51Se0e29F"
@@ -4482,6 +4606,24 @@
       "duration_ms": 305969,
       "name": "ONE",
       "url": "https://open.spotify.com/track/3zOhZDocdY3Rfk9usRPBBt"
+    },
+    {
+      "album": {
+        "name": "Oneiric Aero",
+        "url": "https://open.spotify.com/album/2vXzVWbOD62Es2TR5BValR"
+      },
+      "artists": [
+        {
+          "name": "N nulls",
+          "url": "https://open.spotify.com/artist/6w7driOaO7unWQ2b2FaZcS"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132670,
+      "name": "Oneiric Aero",
+      "url": "https://open.spotify.com/track/1HLSt6dVLWZvFM4ZlJt1R1"
     },
     {
       "album": {
@@ -4622,7 +4764,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 267500,
       "name": "Palimpsest",
       "url": "https://open.spotify.com/track/0znvgH1Kl2JZ3UZtfLYAfF"
@@ -4698,7 +4840,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 362000,
       "name": "Placement Of The Drops",
       "url": "https://open.spotify.com/track/6QzDNQr4ao4OOBC1qES0CC"
@@ -4962,6 +5104,24 @@
       "duration_ms": 517427,
       "name": "Purple Sunshine",
       "url": "https://open.spotify.com/track/0bNgicoJDD9CZagB9FH5fL"
+    },
+    {
+      "album": {
+        "name": "Quietly Becoming Clear",
+        "url": "https://open.spotify.com/album/2KaoqQuKyiKKbnhgRSGNlN"
+      },
+      "artists": [
+        {
+          "name": "KENJI KIHARA",
+          "url": "https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Quietly Becoming Clear",
+      "url": "https://open.spotify.com/track/2RQZrenY8m7XpxNV2Wkhr2"
     },
     {
       "album": {
@@ -6314,7 +6474,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 214266,
       "name": "The Light of the Moon",
       "url": "https://open.spotify.com/track/2mSK2CRkuK2S00KS4cPrFq"
@@ -6484,6 +6644,24 @@
       "duration_ms": 175500,
       "name": "tinySketch #83",
       "url": "https://open.spotify.com/track/0L8py0PpygFk92BpTM35Wr"
+    },
+    {
+      "album": {
+        "name": "tinySketch #92",
+        "url": "https://open.spotify.com/album/2Ks99uvjqZgkqfKOHfFPGz"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "tinySketch #92",
+      "url": "https://open.spotify.com/track/0WlfY3lQeWeglx8Qz2QtQi"
     },
     {
       "album": {
@@ -7161,6 +7339,24 @@
     },
     {
       "album": {
+        "name": "Division",
+        "url": "https://open.spotify.com/album/3ymiieAWG0T1odu3lzpuKy"
+      },
+      "artists": [
+        {
+          "name": "Sweet William",
+          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285068,
+      "name": "Westward",
+      "url": "https://open.spotify.com/track/24ajN6XZ1FNb2UIfZWJljv"
+    },
+    {
+      "album": {
         "name": "Whales",
         "url": "https://open.spotify.com/album/4ygVI4fHfhfECUPwVy75ZP"
       },
@@ -7266,7 +7462,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 181880,
       "name": "When the Planets Align2040 To the next future",
       "url": "https://open.spotify.com/track/0XEfObHLoTTHWSw5hGzcZs"

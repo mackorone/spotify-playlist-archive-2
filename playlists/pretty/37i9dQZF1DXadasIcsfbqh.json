@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Dasha",
-  "num_followers": 256977,
+  "num_followers": 256997,
   "original_name": "Pop Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFDQb0xa79fjvmfw9+LBw0VjXN0N",
+  "snapshot_id": "AAAAAM208+Kkqkw8Wi/SxkekyA+aLnRf",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:38",
@@ -1555,22 +1555,18 @@
     {
       "added_at": "2026-08-14 04:01:38",
       "album": {
-        "name": "Good Beer",
-        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
+        "name": "Better Liar",
+        "url": "https://open.spotify.com/album/6GQ5SLUlVBc95MZiDJrU2j"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        },
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
         }
       ],
-      "duration_ms": 174111,
-      "name": "Good Beer",
-      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
+      "duration_ms": 169736,
+      "name": "Better Liar",
+      "url": "https://open.spotify.com/track/4HykouKy5aX0JT3oplCi1O"
     },
     {
       "added_at": "2026-08-14 04:01:38",
@@ -1591,18 +1587,22 @@
     {
       "added_at": "2026-08-14 04:01:38",
       "album": {
-        "name": "Better Liar",
-        "url": "https://open.spotify.com/album/6GQ5SLUlVBc95MZiDJrU2j"
+        "name": "Good Beer",
+        "url": "https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q"
       },
       "artists": [
         {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 169736,
-      "name": "Better Liar",
-      "url": "https://open.spotify.com/track/4HykouKy5aX0JT3oplCi1O"
+      "duration_ms": 174111,
+      "name": "Good Beer",
+      "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
     },
     {
       "added_at": "2026-08-14 04:01:38",

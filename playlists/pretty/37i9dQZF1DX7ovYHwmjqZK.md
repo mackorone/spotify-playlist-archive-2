@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,832 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,859 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 28 | [Samba Doce](https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf) | [Jorge Helder](https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg) | [Samba Doce](https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh) | 3:33 |
 | 29 | [Estate](https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 7:22 |
 | 30 | [Choro Pro Zé](https://open.spotify.com/track/3OXUEy3N0ZsQKcxy5x1VwG) | [Guinga](https://open.spotify.com/artist/5eTFGhsuJJrmwAF2ttmgOl), [Dudu Sperb](https://open.spotify.com/artist/4jYtPDKiCaUGHZWwua1uSf) | [Navegante \- Dudu Sperb Recebe Guinga](https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT) | 4:45 |
-| 31 | [Sambete](https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I) | [Zé Paulo Becker](https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2) | [Semente Chorojazz](https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9) | 4:27 |
-| 32 | [Brasil Geral](https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P) | [Carla Casarim](https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL) | [Terra\-Mãe](https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW) | 3:36 |
+| 31 | [Brasil Geral](https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P) | [Carla Casarim](https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL) | [Terra\-Mãe](https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW) | 3:36 |
+| 32 | [Sambete](https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I) | [Zé Paulo Becker](https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2) | [Semente Chorojazz](https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9) | 4:27 |
 | 33 | [Além da Bossa](https://open.spotify.com/track/7eoYRn9t2a0XprCvLLW7lZ) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS) | [Além da Bossa](https://open.spotify.com/album/19GvUGWM0Nxpeu9tAT3fnq) | 3:45 |
 | 34 | [Ataraxia](https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Ataraxia](https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk) | 3:03 |
 | 35 | [Marinheiro](https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY) | [Giordano Rosa](https://open.spotify.com/artist/3iapiuDh6JQb6xxMsZA0TU) | [Giordano Rosa](https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni) | 2:31 |
 | 36 | [Um Dia No Mar](https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Um Dia No Mar](https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U) | 2:41 |
-| 37 | [O Melhor Carinho](https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw) | [Elisa Gudin](https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I) | [O Melhor Carinho](https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o) | 3:13 |
+| 37 | [Girls from Bela Vista](https://open.spotify.com/track/1av15BaMO4D40o7ndvriul) | [Petit Comité](https://open.spotify.com/artist/3gSyEcwH7JrMJPubpcHiIK), [Maurício Tagliari](https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml), [Luca Raele](https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3) | [Bossa nova \- Girls from Bela Vista](https://open.spotify.com/album/5askH1Yqbbwr3fRcFHawxT) | 4:24 |
 | 38 | [Caminhos Cruzados](https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Caminhos Cruzados](https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo) | 2:32 |
-| 39 | [Girls from Bela Vista](https://open.spotify.com/track/1av15BaMO4D40o7ndvriul) | [Petit Comité](https://open.spotify.com/artist/3gSyEcwH7JrMJPubpcHiIK), [Maurício Tagliari](https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml), [Luca Raele](https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3) | [Bossa nova \- Girls from Bela Vista](https://open.spotify.com/album/5askH1Yqbbwr3fRcFHawxT) | 4:24 |
+| 39 | [O Melhor Carinho](https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw) | [Elisa Gudin](https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I) | [O Melhor Carinho](https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o) | 3:13 |
 | 40 | [As Cores das Flores](https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Márcio Moreira](https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg) | [As Cores das Flores](https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL) | 3:01 |
 | 41 | [Duro Na Queda](https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH) | [Mano Que Zuera](https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK) | 4:30 |
 | 42 | [O Barquinho](https://open.spotify.com/track/3gHziDterpyWKTHnawogcZ) | [Urca Bossa Jazz](https://open.spotify.com/artist/4rUUf62R0iykkPKJO2SsxS), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Matheus VK](https://open.spotify.com/artist/4agPByDLehnJiSLBWK1Csl) | [O Barquinho](https://open.spotify.com/album/3622VWYaBU5dTNqajJ4F5g) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 99 | [Um Caso Perdido](https://open.spotify.com/track/5IAoNNSqOtbApvFarcAXSq) | [Zé Renato](https://open.spotify.com/artist/4qKsdS2IGIfnj00bQRP2mL) | [O Amor é um Segredo \- Zé Renato Canta Paulinho da Viola](https://open.spotify.com/album/0jdtilr4ow2LiQXW0A6ecm) | 2:52 |
 | 100 | [Ternura do Saber \- Acústico](https://open.spotify.com/track/2vkdSiCSkzW8ErQMozBdIq) | [Roberta Barce](https://open.spotify.com/artist/5Yfs31tJHWAVo4fuzckdLr) | [Ternura do Saber \(Acústico\)](https://open.spotify.com/album/1cgMMSaWIL1P1ZSvctLgeo) | 4:25 |
 
-Snapshot ID: `AAAAAIcGhg6+PM+SSr+7lAJdihXgpwDL`
+Snapshot ID: `AAAAAPcU1KY855jeJ/q7dD75/nFUn/3Q`

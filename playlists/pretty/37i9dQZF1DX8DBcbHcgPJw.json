@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Emanero & Bandana",
-  "num_followers": 1086174,
+  "num_followers": 1086031,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJQ1/gNDP1zCrOimfJhQ+WT93cxX",
+  "snapshot_id": "AAAAAOgQnEANpQpRHiUHr91jy5WWdI/5",
   "tracks": [
     {
       "added_at": "2026-09-25 03:00:47",
@@ -371,26 +371,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "FINGI DEMENCIA",
-        "url": "https://open.spotify.com/album/3gbWzrqyQqjMc4g8TdRVWk"
-      },
-      "artists": [
-        {
-          "name": "RAMKY EN LOS CONTROLES",
-          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 126705,
-      "name": "FINGI DEMENCIA",
-      "url": "https://open.spotify.com/track/6JAaPxRPeElmUGPqyIkhCS"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "Inocente",
         "url": "https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 171500,
       "name": "Inocente",
       "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "FINGI DEMENCIA",
+        "url": "https://open.spotify.com/album/3gbWzrqyQqjMc4g8TdRVWk"
+      },
+      "artists": [
+        {
+          "name": "RAMKY EN LOS CONTROLES",
+          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 126705,
+      "name": "FINGI DEMENCIA",
+      "url": "https://open.spotify.com/track/6JAaPxRPeElmUGPqyIkhCS"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/1nkAFp2Pk9kOj6hP0tF7SI"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 156422,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/0v7ahDn1L5j60YZZHeVocU"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
         "name": "DE PE A PA",
         "url": "https://open.spotify.com/album/35eTVPVSs5D7VFOjUFsHHh"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 153260,
       "name": "DE PE A PA",
       "url": "https://open.spotify.com/track/4UXZQJEMZMhTDiZfDRJJQ0"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "Domingo",
-        "url": "https://open.spotify.com/album/1nkAFp2Pk9kOj6hP0tF7SI"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 156422,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/0v7ahDn1L5j60YZZHeVocU"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "BORRACHO",
-        "url": "https://open.spotify.com/album/406X9ac7umALSOCKc9NKs1"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 181740,
-      "name": "BORRACHO",
-      "url": "https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "Somos o no somos?",
         "url": "https://open.spotify.com/album/2WZMuMeSmu4RQyGx5fWGLU"
       },
@@ -631,6 +615,22 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
+        "name": "BORRACHO",
+        "url": "https://open.spotify.com/album/406X9ac7umALSOCKc9NKs1"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 181740,
+      "name": "BORRACHO",
+      "url": "https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
         "name": "Cuando Se Pone a Bailar",
         "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
       },
@@ -643,26 +643,6 @@
       "duration_ms": 195274,
       "name": "Cuando Se Pone a Bailar",
       "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
-        "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 153665,
-      "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
-      "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -683,6 +663,26 @@
       "duration_ms": 194690,
       "name": "No Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
+        "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 153665,
+      "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
+      "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -835,6 +835,30 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
+        "name": "Una Condena",
+        "url": "https://open.spotify.com/album/0pWk2Zw0cz9PnuNHyxmMWr"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 157131,
+      "name": "Una Condena",
+      "url": "https://open.spotify.com/track/3o0ixYcpGqYjHpXJb7vgN3"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
         "name": "Quiero Creer",
         "url": "https://open.spotify.com/album/5PzpQ3Wx1dU16rRdQHVSCx"
       },
@@ -871,30 +895,6 @@
       "duration_ms": 356261,
       "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
       "url": "https://open.spotify.com/track/455hX0tW8TGEzwAuuhWfbd"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "Una Condena",
-        "url": "https://open.spotify.com/album/0pWk2Zw0cz9PnuNHyxmMWr"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Amigo de Artistas",
-          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        }
-      ],
-      "duration_ms": 157131,
-      "name": "Una Condena",
-      "url": "https://open.spotify.com/track/3o0ixYcpGqYjHpXJb7vgN3"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Contrato",
-        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 204391,
-      "name": "Contrato",
-      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "Chica Brasile\u00f1a Remix",
         "url": "https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 167553,
       "name": "Chica Brasile\u00f1a Remix",
       "url": "https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "Contrato",
+        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 204391,
+      "name": "Contrato",
+      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1383,6 +1383,34 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
+        "name": "Promet\u00ed",
+        "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
+      },
+      "artists": [
+        {
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+        },
+        {
+          "name": "Chili Fernandez",
+          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
+        },
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        },
+        {
+          "name": "ZHAE",
+          "url": "https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9"
+        }
+      ],
+      "duration_ms": 156325,
+      "name": "Promet\u00ed",
+      "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
         "name": "CUMBIA DE BARRIO",
         "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
       },
@@ -1411,34 +1439,6 @@
       "duration_ms": 242400,
       "name": "Maravillosa Esta Noche",
       "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "Promet\u00ed",
-        "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
-      },
-      "artists": [
-        {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
-        },
-        {
-          "name": "Chili Fernandez",
-          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
-        },
-        {
-          "name": "Candu Dom\u00cdnguez",
-          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
-        },
-        {
-          "name": "ZHAE",
-          "url": "https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9"
-        }
-      ],
-      "duration_ms": 156325,
-      "name": "Promet\u00ed",
-      "url": "https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
-        "name": "Ayer / Quiere Beber / OA",
-        "url": "https://open.spotify.com/album/1OnLHm1FqU0kjuzI5klHjS"
-      },
-      "artists": [
-        {
-          "name": "El Rodri",
-          "url": "https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm"
-        }
-      ],
-      "duration_ms": 317666,
-      "name": "Ayer / Quiere Beber / OA",
-      "url": "https://open.spotify.com/track/1UGtRPa4OnNWsLIEF4YZxa"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
         "name": "Aunque Te Enamores",
         "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 130212,
       "name": "Aunque Te Enamores",
       "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
+        "name": "Ayer / Quiere Beber / OA",
+        "url": "https://open.spotify.com/album/1OnLHm1FqU0kjuzI5klHjS"
+      },
+      "artists": [
+        {
+          "name": "El Rodri",
+          "url": "https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm"
+        }
+      ],
+      "duration_ms": 317666,
+      "name": "Ayer / Quiere Beber / OA",
+      "url": "https://open.spotify.com/track/1UGtRPa4OnNWsLIEF4YZxa"
     },
     {
       "added_at": "2026-09-25 03:00:47",
@@ -1859,6 +1859,30 @@
     {
       "added_at": "2026-09-25 03:00:47",
       "album": {
+        "name": "Tu Re Amor",
+        "url": "https://open.spotify.com/album/75gkJC5PQXpp8NTWn2nTpR"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "Nuke",
+          "url": "https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu"
+        },
+        {
+          "name": "Dj Ronel",
+          "url": "https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Tu Re Amor",
+      "url": "https://open.spotify.com/track/5PDBDuocnXPAI2OMr41XzD"
+    },
+    {
+      "added_at": "2026-09-25 03:00:47",
+      "album": {
         "name": "Copacabana (Remix)",
         "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
       },
@@ -1895,30 +1919,6 @@
       "duration_ms": 152942,
       "name": "Noche de Party",
       "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
-    },
-    {
-      "added_at": "2026-09-25 03:00:47",
-      "album": {
-        "name": "Tu Re Amor",
-        "url": "https://open.spotify.com/album/75gkJC5PQXpp8NTWn2nTpR"
-      },
-      "artists": [
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        },
-        {
-          "name": "Nuke",
-          "url": "https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu"
-        },
-        {
-          "name": "Dj Ronel",
-          "url": "https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Tu Re Amor",
-      "url": "https://open.spotify.com/track/5PDBDuocnXPAI2OMr41XzD"
     },
     {
       "added_at": "2026-09-25 03:00:47",

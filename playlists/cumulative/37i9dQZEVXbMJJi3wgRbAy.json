@@ -4840,7 +4840,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 125906,
       "name": "Carita Triste",
       "url": "https://open.spotify.com/track/7cncPk3pgG1lNTUIiKxGev"
@@ -5692,7 +5692,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 186000,
       "name": "Columbia",
       "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
@@ -6182,7 +6182,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 289760,
       "name": "Creo",
       "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
@@ -13870,7 +13870,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 196250,
       "name": "La Noche Sin Ti",
       "url": "https://open.spotify.com/track/51WfVrsmxeDYXtYcl4hxFU"
@@ -18612,7 +18612,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 188723,
       "name": "No Te Da",
       "url": "https://open.spotify.com/track/2w6Mm4S6HarxtLDDPr5eSp"
@@ -19884,7 +19884,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 342485,
       "name": "PARADIXE",
       "url": "https://open.spotify.com/track/1SibbsD9N244CWhIL9FzjN"
@@ -21438,6 +21438,28 @@
       "duration_ms": 248093,
       "name": "Porcelana",
       "url": "https://open.spotify.com/track/3hETtcSLmNncBjPMLHtVZs"
+    },
+    {
+      "album": {
+        "name": "Porfa no te vayas :(",
+        "url": "https://open.spotify.com/album/4yTqKjfYADEUOBHB9i7ei4"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150652,
+      "name": "Porfa no te vayas :(",
+      "url": "https://open.spotify.com/track/2TDMetYJAwtfMLWTUdnSgt"
     },
     {
       "album": {
@@ -24498,7 +24520,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"

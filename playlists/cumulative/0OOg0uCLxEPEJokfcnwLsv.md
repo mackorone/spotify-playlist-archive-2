@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-683 songs - 1 day 18 hr 2 min
+685 songs - 1 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [NORMIE FUCK](https://open.spotify.com/track/5HJyslBPhejHh1p2VlPWuC) | [Meerkat](https://open.spotify.com/artist/5LmeYGFo0QRpiiJpYdtRal) | [NORMIE FUCK](https://open.spotify.com/album/0mvePeDg6YsuHXEkJ8RqQH) | 2:25 | 2026-05-05 | 2026-05-26 |
 | [Nostalgia](https://open.spotify.com/track/6jVrywFRidATOA5opVWDAg) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Soul](https://open.spotify.com/album/5sObpToTONHJqsGCV7KMe6) | 14:06 | 2026-05-30 | 2026-08-08 |
 | [Notopia](https://open.spotify.com/track/2cuabAoFvJj2yx1xDhjxee) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 3:55 | 2025-10-27 | 2025-11-22 |
+| [November Shadows](https://open.spotify.com/track/04wmlqCv6iZRQz6uEY58GR) | [Bad Valentines](https://open.spotify.com/artist/3xVdUhudpYUp6NH3Pim0sd) | [November Shadows](https://open.spotify.com/album/4GlWT1vdrc3P8a1VkrbnZw) | 3:14 | 2026-10-20 |  |
 | [Nuestro Camino](https://open.spotify.com/track/0UpD8nhlWeDDmGIsbhEYVj) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [Nuestro Camino](https://open.spotify.com/album/0YkzKQaESw6nPRyOHTfZWy) | 4:44 | 2025-11-04 | 2025-12-12 |
 | [O Acaso Não Costuma Falhar](https://open.spotify.com/track/1WQAo4Nb2oH19AgOSSJ11Z) | [LAVOLTA](https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i) | [O Acaso Não Costuma Falhar](https://open.spotify.com/album/4tAeWlcuSKukgwJ49NhSRG) | 3:32 | 2026-05-22 | 2026-08-08 |
 | [Objects in the Mirrors](https://open.spotify.com/track/7FgMPd1QmYQlcCTu2yMum3) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Objects in the Mirrors](https://open.spotify.com/album/5iZG0EZiKBMSlomcPjxdVF) | 4:23 | 2026-01-29 | 2026-02-18 |
@@ -503,6 +504,7 @@
 | [Shipwreck](https://open.spotify.com/track/0IQSAjyhwSk9xrwlwDFOvM) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Shipwreck](https://open.spotify.com/album/6AlUStpu1jaarNt1yb6CUi) | 3:12 | 2026-02-09 | 2026-03-04 |
 | [Shooting Star](https://open.spotify.com/track/5ZiuZxpPWvcJOLy2iPxHC0) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [Shooting Star](https://open.spotify.com/album/3OMd5uD6jB93C2H0Pn3Umx) | 3:16 | 2025-10-30 | 2025-11-22 |
 | [Shooting Star](https://open.spotify.com/track/2oK9ZdADZdxl1LuIipN4xD) | [The Liquid](https://open.spotify.com/artist/5Hw2PyccNJkCzkhlTwmJZp) | [Shooting Star](https://open.spotify.com/album/432iuO2jJuUQ6FR6llvpa6) | 2:40 | 2026-01-22 | 2026-02-18 |
+| [Should Have Seen It Coming](https://open.spotify.com/track/2HXO6wTQQgbIJ7VHTyjTty) | [Jonny Morgan & The Moral Support](https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD) | [Should Have Seen It Coming](https://open.spotify.com/album/6jQFnuBkPMBnQxIvivFECT) | 3:17 | 2026-10-20 |  |
 | [Sick!](https://open.spotify.com/track/2A00B4SjJEASXKfu4zJ8c8) | [Pet Taxi](https://open.spotify.com/artist/2nQkFrDhzQcQVI2ZIW8n5A) | [Sick!](https://open.spotify.com/album/1lXKY85pNjdwFbkpAy4Nj5) | 2:59 | 2026-07-06 | 2026-08-08 |
 | [sidewalk](https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [sidewalk](https://open.spotify.com/album/08UfJUC1e5YkwXNbo3xAZI) | 2:48 | 2026-05-07 | 2026-05-26 |
 | [Siempre Estaré](https://open.spotify.com/track/7e8MvyqagvlJOJaQDNdh5m) | [Viejo Furgon](https://open.spotify.com/artist/4WyH8DQAXLGiVTtqniULWG) | [Reloj Espiritual](https://open.spotify.com/album/3LYQCmohEV9m7cVWhpWuam) | 3:17 | 2026-04-23 | 2026-06-13 |

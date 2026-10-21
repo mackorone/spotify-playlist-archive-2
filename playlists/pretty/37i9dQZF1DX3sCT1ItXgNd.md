@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 995,215 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 995,138 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [CONEXIÓN PSÍQUICA](https://open.spotify.com/track/6rWIHEedAYET828v7QY22S) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:40 |
 | 50 | [Ayer La Vi \(BPA26\)](https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Ayer La Vi \(BPA26\)](https://open.spotify.com/album/7zasVgESdwTXibF73T9QE6) | 2:50 |
 
-Snapshot ID: `AAAAALlIwKjdAuJXL/h/+hcFfSe8mAfz`
+Snapshot ID: `AAAAAF+bN5dYJTfUq3HZegYrRy5PBozF`

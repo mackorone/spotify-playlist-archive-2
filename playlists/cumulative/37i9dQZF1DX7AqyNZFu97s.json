@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Burglar",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Clara Mann",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -1110,6 +1110,24 @@
       "duration_ms": 196853,
       "name": "4MINE",
       "url": "https://open.spotify.com/track/3ywz3CQiPyTVfngSCR2w40"
+    },
+    {
+      "album": {
+        "name": "Tragic Magic",
+        "url": "https://open.spotify.com/album/5UBacXAOMhAWmp4GXTUT51"
+      },
+      "artists": [
+        {
+          "name": "if i was a pony",
+          "url": "https://open.spotify.com/artist/3t3zwTenPUimx09zxB0hRA"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181687,
+      "name": "5 billion years",
+      "url": "https://open.spotify.com/track/7BioOuzaJKGdMhHXmvajTS"
     },
     {
       "album": {
@@ -3218,6 +3236,24 @@
       "duration_ms": 201283,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1C8V8IPSb9pL3VErlpsi61"
+    },
+    {
+      "album": {
+        "name": "angel numbers",
+        "url": "https://open.spotify.com/album/0u5tSXcEwScydXt4gfqzuF"
+      },
+      "artists": [
+        {
+          "name": "Lucy Moon",
+          "url": "https://open.spotify.com/artist/6BjCCDXQuq3o7MrziyvGja"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147863,
+      "name": "angel numbers",
+      "url": "https://open.spotify.com/track/6qccfaOfaC9WUUE0WW3BEn"
     },
     {
       "album": {
@@ -11350,7 +11386,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 204812,
       "name": "Closer - Edit",
       "url": "https://open.spotify.com/track/45DSWIxm0YIuy9lXjdmm2O"
@@ -13234,7 +13270,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 140211,
       "name": "Creepy",
       "url": "https://open.spotify.com/track/5FyVzyckWhLmWrlYACfoFW"
@@ -17367,6 +17403,28 @@
     },
     {
       "album": {
+        "name": "DUTTY STINKA",
+        "url": "https://open.spotify.com/album/0PTlVmOePO6LHCQ54pKIn4"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        },
+        {
+          "name": "Sam Curran",
+          "url": "https://open.spotify.com/artist/4BBFBtFx8apgzn34zfXIdA"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150344,
+      "name": "DUTTY STINKA",
+      "url": "https://open.spotify.com/track/7HimhOjQvWllVcq3dB6tgT"
+    },
+    {
+      "album": {
         "name": "Duty Free",
         "url": "https://open.spotify.com/album/0tVcx5nCsm3YUpmFUIk3fT"
       },
@@ -18988,6 +19046,24 @@
       "duration_ms": 226901,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/4SHgZySOqyih9VIhoe239c"
+    },
+    {
+      "album": {
+        "name": "Eyes On Us",
+        "url": "https://open.spotify.com/album/1WvPx3iKweoLPne95JKyMz"
+      },
+      "artists": [
+        {
+          "name": "IFULKI",
+          "url": "https://open.spotify.com/artist/5R4QEGd2PqiDdBQjcsaR0T"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183762,
+      "name": "Eyes On Us",
+      "url": "https://open.spotify.com/track/4fpREBvPFKAuSqdp1pK9HJ"
     },
     {
       "album": {
@@ -24544,7 +24620,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 186540,
       "name": "Green",
       "url": "https://open.spotify.com/track/0a87nx2e9JdXHbn2Cjhhvp"
@@ -31386,7 +31462,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 195692,
       "name": "In My Veins",
       "url": "https://open.spotify.com/track/0148ol9yjygNNjiofkwx7w"
@@ -40980,7 +41056,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 266566,
       "name": "Move Inside",
       "url": "https://open.spotify.com/track/0prrS9EJ7yWz9ekKYp9MLb"
@@ -42584,7 +42660,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 134068,
       "name": "Niko Bellic",
       "url": "https://open.spotify.com/track/3VD1G2qUG70lTlh44Df1yq"
@@ -44214,6 +44290,24 @@
       "duration_ms": 160880,
       "name": "Obligations",
       "url": "https://open.spotify.com/track/0JP7lokt6eLt0KpEJtxApe"
+    },
+    {
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/3gb5oPPQojvrcvvKSXEyAD"
+      },
+      "artists": [
+        {
+          "name": "Clara Mann",
+          "url": "https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301893,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/1lpOHHOroR14aSuJIPTSd5"
     },
     {
       "album": {
@@ -45916,6 +46010,24 @@
       "duration_ms": 248354,
       "name": "Over Now",
       "url": "https://open.spotify.com/track/5kuDEe2eXN8CeJ5t3Ehhwd"
+    },
+    {
+      "album": {
+        "name": "Over The Edge",
+        "url": "https://open.spotify.com/album/6fDxgbYTdcdVeEXX5x7HLp"
+      },
+      "artists": [
+        {
+          "name": "Jake Whiskin",
+          "url": "https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208064,
+      "name": "Over The Edge",
+      "url": "https://open.spotify.com/track/5C3TslhRlpV2zIPPg2sW26"
     },
     {
       "album": {
@@ -55586,6 +55698,24 @@
       "duration_ms": 245704,
       "name": "Something About Stars",
       "url": "https://open.spotify.com/track/0ika7ap14WDoDuwtfsW4aw"
+    },
+    {
+      "album": {
+        "name": "Something Better",
+        "url": "https://open.spotify.com/album/1Ce8aTWMNTbxJe72xLINRa"
+      },
+      "artists": [
+        {
+          "name": "Caleb Kunle",
+          "url": "https://open.spotify.com/artist/3ummHhJhcQSykZfeZlw4MY"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182354,
+      "name": "Something Better",
+      "url": "https://open.spotify.com/track/6ddH3uoGw1WDmj98Eny9wO"
     },
     {
       "album": {
@@ -65648,7 +65778,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 200372,
       "name": "Weight",
       "url": "https://open.spotify.com/track/0Vy5lBIis9n1yw4nwh1rE9"

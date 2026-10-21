@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 
 > Old school jams to kick nostalgia up a notch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,747 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,757 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 49 | [Adwoa Yankey, Pt\. 1](https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87) | [C\. K\. Mann](https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi) | [Best of C\. K\. Mann](https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa) | 8:47 |
 | 50 | [Soroku Special](https://open.spotify.com/track/1HIzAGOVvUIf1U7L2NUolW) | [Kaakyire Kwame Appiah](https://open.spotify.com/artist/6Pmxco13PCCjhPCwxKeUic) | [Soroku](https://open.spotify.com/album/56OAJsISgvpTsUv3PrkVJ3) | 7:36 |
 
-Snapshot ID: `AAAAAGqGV6tZ4lxCpjeC6yBPiSXNpTR0`
+Snapshot ID: `AAAAAEH8tawp+C56ZxYCcYjcLZ2VRE7N`

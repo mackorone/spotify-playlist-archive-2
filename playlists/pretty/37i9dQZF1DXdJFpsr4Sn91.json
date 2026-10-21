@@ -1,12 +1,12 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59445,
+  "num_followers": 59431,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGMGhUwJs11C2ELHLhdLUMfnIoQF",
+  "snapshot_id": "AAAAAGoPRD4qHiaTKR71zmt+NAlH7k4H",
   "tracks": [
     {
       "added_at": "2026-10-15 21:00:24",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-10-15 21:00:24",
       "album": {
-        "name": "Paremmin ku ikin",
-        "url": "https://open.spotify.com/album/1mLf8g07UrbwP6f1yHfXoE"
-      },
-      "artists": [
-        {
-          "name": "Roosa",
-          "url": "https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Paremmin ku ikin",
-      "url": "https://open.spotify.com/track/1fwY8uM3w4yf5WefXgLFTJ"
-    },
-    {
-      "added_at": "2026-10-15 21:00:24",
-      "album": {
         "name": "BOUJEE",
         "url": "https://open.spotify.com/album/2a9G4o3WlvzPpley7XFkcp"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 181600,
       "name": "BOUJEE",
       "url": "https://open.spotify.com/track/1h444FCFESqo0Uy9WI7iGg"
+    },
+    {
+      "added_at": "2026-10-15 21:00:24",
+      "album": {
+        "name": "Paremmin ku ikin",
+        "url": "https://open.spotify.com/album/1mLf8g07UrbwP6f1yHfXoE"
+      },
+      "artists": [
+        {
+          "name": "Roosa",
+          "url": "https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Paremmin ku ikin",
+      "url": "https://open.spotify.com/track/1fwY8uM3w4yf5WefXgLFTJ"
     },
     {
       "added_at": "2026-10-15 21:00:24",
@@ -719,6 +719,26 @@
     {
       "added_at": "2026-10-15 21:00:24",
       "album": {
+        "name": "Pilvenpiirt\u00e4j\u00e4t",
+        "url": "https://open.spotify.com/album/5sWMhpLwiIa2mnzEGRv9bk"
+      },
+      "artists": [
+        {
+          "name": "Ruletti",
+          "url": "https://open.spotify.com/artist/4gwwt7saKvdjebQgIHRyaC"
+        },
+        {
+          "name": "Melissa",
+          "url": "https://open.spotify.com/artist/2Ad6Z1GThSF2pyR0A4HKLn"
+        }
+      ],
+      "duration_ms": 213934,
+      "name": "Pilvenpiirt\u00e4j\u00e4t",
+      "url": "https://open.spotify.com/track/73I9BEWL543fECv8svC4Ag"
+    },
+    {
+      "added_at": "2026-10-15 21:00:24",
+      "album": {
         "name": "Liian nuorii kuolinilmotuksiin",
         "url": "https://open.spotify.com/album/5m6lvgjL8XC0YzsylK4kEJ"
       },
@@ -751,78 +771,6 @@
     {
       "added_at": "2026-10-15 21:00:24",
       "album": {
-        "name": "KUKA T\u00c4\u00c4 MIMMI ON?",
-        "url": "https://open.spotify.com/album/3d2lm9RKwDOkcXZhbrxztY"
-      },
-      "artists": [
-        {
-          "name": "Hassan Maikal",
-          "url": "https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u"
-        }
-      ],
-      "duration_ms": 178846,
-      "name": "KUKA T\u00c4\u00c4 MIMMI ON?",
-      "url": "https://open.spotify.com/track/2k6OIHOtt5Btwy4cuAAdOI"
-    },
-    {
-      "added_at": "2026-10-15 21:00:24",
-      "album": {
-        "name": "Pilvenpiirt\u00e4j\u00e4t",
-        "url": "https://open.spotify.com/album/5sWMhpLwiIa2mnzEGRv9bk"
-      },
-      "artists": [
-        {
-          "name": "Ruletti",
-          "url": "https://open.spotify.com/artist/4gwwt7saKvdjebQgIHRyaC"
-        },
-        {
-          "name": "Melissa",
-          "url": "https://open.spotify.com/artist/2Ad6Z1GThSF2pyR0A4HKLn"
-        }
-      ],
-      "duration_ms": 213934,
-      "name": "Pilvenpiirt\u00e4j\u00e4t",
-      "url": "https://open.spotify.com/track/73I9BEWL543fECv8svC4Ag"
-    },
-    {
-      "added_at": "2026-10-15 21:00:24",
-      "album": {
-        "name": "Huvipuisto",
-        "url": "https://open.spotify.com/album/3ghZuBW3U57EdcmEmM4Mro"
-      },
-      "artists": [
-        {
-          "name": "EEMELI",
-          "url": "https://open.spotify.com/artist/71lHRJ8M9JmE3uZ5ZrTMiL"
-        }
-      ],
-      "duration_ms": 203541,
-      "name": "Huvipuisto",
-      "url": "https://open.spotify.com/track/3hE4jxLr5p29CynrK4zg4F"
-    },
-    {
-      "added_at": "2026-10-15 21:00:24",
-      "album": {
-        "name": "Pullomeri",
-        "url": "https://open.spotify.com/album/5ol0SGEohvaATPsXY3bQ1V"
-      },
-      "artists": [
-        {
-          "name": "P\u00e4k\u00e4",
-          "url": "https://open.spotify.com/artist/4xrzA9GQLSSuQ9fKqHd0SE"
-        },
-        {
-          "name": "PETRELL",
-          "url": "https://open.spotify.com/artist/0AaCEhTBpPWnfVNK4kLiYS"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "\u00c4l\u00e4 lannistu",
-      "url": "https://open.spotify.com/track/50OEJKYCC6Z8bF2c8TyIs4"
-    },
-    {
-      "added_at": "2026-10-15 21:00:24",
-      "album": {
         "name": "DANTE",
         "url": "https://open.spotify.com/album/2l3EUC4Q5ddiwS6PEiBKKm"
       },
@@ -847,22 +795,70 @@
     {
       "added_at": "2026-10-15 21:00:24",
       "album": {
-        "name": "Tehty el\u00e4\u00e4 (feat. Asla Jo)",
-        "url": "https://open.spotify.com/album/2nzCAGid389eK1QYzRN84d"
+        "name": "KUKA T\u00c4\u00c4 MIMMI ON?",
+        "url": "https://open.spotify.com/album/3d2lm9RKwDOkcXZhbrxztY"
       },
       "artists": [
         {
-          "name": "yaya",
-          "url": "https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z"
-        },
-        {
-          "name": "Asla Jo",
-          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+          "name": "Hassan Maikal",
+          "url": "https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u"
         }
       ],
-      "duration_ms": 175108,
-      "name": "Tehty el\u00e4\u00e4 (feat. Asla Jo)",
-      "url": "https://open.spotify.com/track/3AZor9wxZ9G4UmW38dK0cG"
+      "duration_ms": 178846,
+      "name": "KUKA T\u00c4\u00c4 MIMMI ON?",
+      "url": "https://open.spotify.com/track/2k6OIHOtt5Btwy4cuAAdOI"
+    },
+    {
+      "added_at": "2026-10-15 21:00:24",
+      "album": {
+        "name": "Pullomeri",
+        "url": "https://open.spotify.com/album/5ol0SGEohvaATPsXY3bQ1V"
+      },
+      "artists": [
+        {
+          "name": "P\u00e4k\u00e4",
+          "url": "https://open.spotify.com/artist/4xrzA9GQLSSuQ9fKqHd0SE"
+        },
+        {
+          "name": "PETRELL",
+          "url": "https://open.spotify.com/artist/0AaCEhTBpPWnfVNK4kLiYS"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "\u00c4l\u00e4 lannistu",
+      "url": "https://open.spotify.com/track/50OEJKYCC6Z8bF2c8TyIs4"
+    },
+    {
+      "added_at": "2026-10-15 21:00:24",
+      "album": {
+        "name": "Huvipuisto",
+        "url": "https://open.spotify.com/album/3ghZuBW3U57EdcmEmM4Mro"
+      },
+      "artists": [
+        {
+          "name": "EEMELI",
+          "url": "https://open.spotify.com/artist/71lHRJ8M9JmE3uZ5ZrTMiL"
+        }
+      ],
+      "duration_ms": 203541,
+      "name": "Huvipuisto",
+      "url": "https://open.spotify.com/track/3hE4jxLr5p29CynrK4zg4F"
+    },
+    {
+      "added_at": "2026-10-15 21:00:24",
+      "album": {
+        "name": "Tytt\u00f6 vaihtopenkill\u00e4",
+        "url": "https://open.spotify.com/album/1mQjFFYbcBSKt4SONGFerO"
+      },
+      "artists": [
+        {
+          "name": "martta",
+          "url": "https://open.spotify.com/artist/0MiaKVPx1j2fJr4A37YhLW"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Tytt\u00f6 vaihtopenkill\u00e4",
+      "url": "https://open.spotify.com/track/4vTyUCs9WKZ0FeR3Vxwgdr"
     }
   ],
   "unique_name": "Nousussa",

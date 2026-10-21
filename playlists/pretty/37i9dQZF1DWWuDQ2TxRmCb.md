@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,805 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,812 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 44 | [Rebirth](https://open.spotify.com/track/4hwKgB4bjYFQ53u1nnTKbJ) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Tu Hai](https://open.spotify.com/album/79RksAuwCLYQdhFnk2HpT6) | 9:12 |
 | 45 | [Chhap Tilak](https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Chhap Tilak](https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme) | 4:31 |
 | 46 | [Ghat Ghat](https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3) | [Kabir Cafe Live](https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq) | 4:20 |
-| 47 | [Jag Baurana](https://open.spotify.com/track/7a2juqZ6j3kJCFWNSjeJRT) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jag Baurana](https://open.spotify.com/album/2vRcMybYtopm2yxiMwDnEM) | 5:52 |
-| 48 | [Bhammariyo](https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Bhammariyo](https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D) | 3:53 |
+| 47 | [Bhammariyo](https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Bhammariyo](https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D) | 3:53 |
+| 48 | [Jag Baurana](https://open.spotify.com/track/7a2juqZ6j3kJCFWNSjeJRT) | [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jag Baurana](https://open.spotify.com/album/2vRcMybYtopm2yxiMwDnEM) | 5:52 |
 | 49 | [Dwarika Darbaar \(From "Bhoomi 2025"\)](https://open.spotify.com/track/5l9EwrB0WVAJ1T4EErBe0m) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Parthiv Gohil](https://open.spotify.com/artist/3TPlDqL7bezoe6zi0wb0P7), [Parth Tarpara](https://open.spotify.com/artist/1dC9LMLRmhqgIxnBXi0Var) | [Dwarika Darbaar \(From "Bhoomi 2025"\)](https://open.spotify.com/album/2LurX1DIo5jyBNjGbBgKhr) | 5:05 |
 | 50 | [Chaand Sakha Re](https://open.spotify.com/track/20eBHJbz6cx0PwaK3SNR1N) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Rishith Desikan](https://open.spotify.com/artist/2gO1mIJ6u7Ao4bBIMIKGrD) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:25 |
 
-Snapshot ID: `AAAAAMjkvvDa0mGwtafBmR6/hDeEKHlZ`
+Snapshot ID: `AAAAAC1uIF0ss5oo8jRHX772ip8DdyAC`

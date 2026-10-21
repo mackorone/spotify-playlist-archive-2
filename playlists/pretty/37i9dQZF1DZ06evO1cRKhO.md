@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cRKhO.md) - [plain]
 
 > This is Pauline Oliveros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000 likes - 50 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001 likes - 50 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

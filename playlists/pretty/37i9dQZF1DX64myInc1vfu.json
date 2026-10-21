@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Camilo",
-  "num_followers": 107161,
+  "num_followers": 107184,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM62PFtxiXjuqof3kNvUVL3WmCC5",
+  "snapshot_id": "AAAAAKJ1Vp8rr+UAWyr9i3+V0wdKKHeF",
   "tracks": [
     {
       "added_at": "2026-09-25 04:03:05",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-09-25 04:03:05",
       "album": {
-        "name": "El Verdugo",
-        "url": "https://open.spotify.com/album/7pL9pdUY8j7CnTSJlppQ2m"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "El Verdugo",
-      "url": "https://open.spotify.com/track/5LOPIEbkLGsgmn4KfLuNAq"
-    },
-    {
-      "added_at": "2026-09-25 04:03:05",
-      "album": {
         "name": "Trebol (II)",
         "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 84558,
       "name": "Aunque Me Cueste La Vida",
       "url": "https://open.spotify.com/track/4CyyyUAuUaNbR5v2nRtwMz"
+    },
+    {
+      "added_at": "2026-09-25 04:03:05",
+      "album": {
+        "name": "El Verdugo",
+        "url": "https://open.spotify.com/album/7pL9pdUY8j7CnTSJlppQ2m"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "El Verdugo",
+      "url": "https://open.spotify.com/track/5LOPIEbkLGsgmn4KfLuNAq"
     },
     {
       "added_at": "2026-09-25 04:03:05",

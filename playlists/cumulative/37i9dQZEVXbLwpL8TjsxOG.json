@@ -2205,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "Strange Muse",
+        "url": "https://open.spotify.com/album/68dI3yXiCXbAHRbW2T09Uy"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Birthday Wish",
+      "url": "https://open.spotify.com/track/6cnhP7JmTV1CHJJEonNC4b"
+    },
+    {
+      "album": {
         "name": "DARK BLOOD",
         "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
       },
@@ -5676,7 +5694,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 223935,
       "name": "expectations (feat. Chappell Roan)",
       "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
@@ -8465,6 +8483,24 @@
     },
     {
       "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "album": {
         "name": "How could you?",
         "url": "https://open.spotify.com/album/6bSQQeQsouM4cBwxnOYHW2"
       },
@@ -11141,6 +11177,24 @@
     },
     {
       "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/6DStYRq1Xvia2jXG2XQv6g"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195559,
+      "name": "Looks Can Kill",
+      "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
+    },
+    {
+      "album": {
         "name": "Lose My Breath",
         "url": "https://open.spotify.com/album/4sVlv4qektcY4zi9Osspbl"
       },
@@ -13030,12 +13084,12 @@
       },
       "artists": [
         {
-          "name": "A2O",
-          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
-        },
-        {
           "name": "A2O LITE",
           "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
         }
       ],
       "date_added": "2026-10-15",
@@ -15122,7 +15176,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 178241,
       "name": "Rude Boy",
       "url": "https://open.spotify.com/track/0QVZGqjKyP0rQveBZsCdEm"
@@ -15356,7 +15410,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -21882,7 +21936,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 216428,
       "name": "\u4e0d\u5728\u5834",
       "url": "https://open.spotify.com/track/0kYbkq1BCKauevYLrY9fi9"
@@ -26828,7 +26882,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 181619,
       "name": "\u672a\u6df1\u5165\u4f46\u4e86\u89e3",
       "url": "https://open.spotify.com/track/0r0VLsvWv7jo2HGfvlt5xh"
@@ -27766,7 +27820,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 214200,
       "name": "\u7070\u59d1\u5a18",
       "url": "https://open.spotify.com/track/6VGlD9ot0bY1AeLqA5w0Ps"
@@ -28722,7 +28776,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 251960,
       "name": "\u795d\u541b\u597d",
       "url": "https://open.spotify.com/track/5ec27Ym7ZaztYDpoNZf9wG"

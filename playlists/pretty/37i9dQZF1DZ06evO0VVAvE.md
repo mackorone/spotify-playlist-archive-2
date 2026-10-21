@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,863 likes - 48 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,878 likes - 48 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 15 | [Mario](https://open.spotify.com/track/5Ck0RUDWbZs5npuXRmjIKU) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:14 |
 | 16 | [Kilo](https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:12 |
 | 17 | [Good Life](https://open.spotify.com/track/0U41OjwzjJEiyTUgAMqn9Y) | [Marleykiddo](https://open.spotify.com/artist/09gRSQOoMvuN6nxM5B7LlK), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Good Life](https://open.spotify.com/album/0HxAGJYlpgABL4M0m8EqCK) | 2:52 |
-| 18 | [DUPE](https://open.spotify.com/track/0hMqF6NlfWoxLAHe0OkIBw) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Temadey](https://open.spotify.com/artist/655vDDQSEnUaFqWzWqBaEv) | [DUPE](https://open.spotify.com/album/1BynWE5Yx8FyyGeBITcuEh) | 3:08 |
-| 19 | [Eko](https://open.spotify.com/track/34THJ2Fhw8dgLBCb1fMyvG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:31 |
+| 18 | [Eko](https://open.spotify.com/track/34THJ2Fhw8dgLBCb1fMyvG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:31 |
+| 19 | [DUPE](https://open.spotify.com/track/0hMqF6NlfWoxLAHe0OkIBw) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Temadey](https://open.spotify.com/artist/655vDDQSEnUaFqWzWqBaEv) | [DUPE](https://open.spotify.com/album/1BynWE5Yx8FyyGeBITcuEh) | 3:08 |
 | 20 | [My Brother](https://open.spotify.com/track/7pzHI4SRRFgXBrmUoILjbi) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:57 |
 | 21 | [My Life](https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:11 |
 | 22 | [Wonder](https://open.spotify.com/track/03gv6Nvv66Ugkee2TX1b1x) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 3:50 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 24 | [Pay Me](https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI) | [Panaache](https://open.spotify.com/artist/3q9TNTIJZqPW6xVgFpUH27), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Pay Me](https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll) | 2:07 |
 | 25 | [Lock Up](https://open.spotify.com/track/4mMPMgxDded2eGZdwbRwET) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:14 |
 | 26 | [Jericho](https://open.spotify.com/track/4h9P6fvFrgB0bmUdTB6hBm) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:32 |
-| 27 | [Feel Free](https://open.spotify.com/track/5i3makGa6P8FFuqoJC6N1l) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 2:27 |
-| 28 | [Popori](https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:15 |
+| 27 | [Popori](https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:15 |
+| 28 | [Feel Free](https://open.spotify.com/track/5i3makGa6P8FFuqoJC6N1l) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 2:27 |
 | 29 | [Good Life](https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:40 |
 | 30 | [Dodge](https://open.spotify.com/track/1fyhqGc41gcZ587gqBrvqA) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:28 |
 | 31 | [Run from God](https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:21 |

@@ -1,12 +1,12 @@
 {
   "description": "El t\u00edtulo says it all, a whole mood! ",
-  "num_followers": 431650,
+  "num_followers": 431786,
   "original_name": "Fiesta y Desmadre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADKIVH8f6hiP+GtSYDUWKMXd3KuM",
+  "snapshot_id": "AAAAABLprmFHP+3a9RSNLs+6oKwBP7Op",
   "tracks": [
     {
       "added_at": "2026-09-28 07:52:34",
@@ -447,26 +447,6 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "Si No Quieres No",
-        "url": "https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 147011,
-      "name": "Si No Quieres No",
-      "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
         "name": "Seguro Le Doli\u00f3",
         "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 149459,
       "name": "Seguro Le Doli\u00f3",
       "url": "https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
+        "name": "Si No Quieres No",
+        "url": "https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 147011,
+      "name": "Si No Quieres No",
+      "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "Me Gusto Vivir La Vida",
-        "url": "https://open.spotify.com/album/4fVV0Tq3p0RTp05Wx9uVE9"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 224069,
-      "name": "Me Gusto Vivir La Vida",
-      "url": "https://open.spotify.com/track/2belCyWNI01poSMRgRKfLM"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
         "name": "Redenci\u00f3n",
         "url": "https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 184743,
       "name": "Vita Fer",
       "url": "https://open.spotify.com/track/3jS9G4KmuOwuawj3k4Smpc"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
+        "name": "Me Gusto Vivir La Vida",
+        "url": "https://open.spotify.com/album/4fVV0Tq3p0RTp05Wx9uVE9"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 224069,
+      "name": "Me Gusto Vivir La Vida",
+      "url": "https://open.spotify.com/track/2belCyWNI01poSMRgRKfLM"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 196864,
       "name": "Fuga Pa Cali 2",
       "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1203,18 +1203,26 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "Recuerden Mi Estilo",
-        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+        "name": "AMG",
+        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
       "artists": [
         {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 203068,
-      "name": "DEL Negociante",
-      "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
+      "duration_ms": 174942,
+      "name": "AMG",
+      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1239,26 +1247,18 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "AMG",
-        "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 174942,
-      "name": "AMG",
-      "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
+      "duration_ms": 203068,
+      "name": "DEL Negociante",
+      "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "Aprevenido",
-        "url": "https://open.spotify.com/album/69d0wnvfwhrMOc1AbdTBeK"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 169402,
-      "name": "Aprevenido",
-      "url": "https://open.spotify.com/track/0grLDu7Ix5QvYfBPJctCpm"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
+        "name": "Aprevenido",
+        "url": "https://open.spotify.com/album/69d0wnvfwhrMOc1AbdTBeK"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 169402,
+      "name": "Aprevenido",
+      "url": "https://open.spotify.com/track/0grLDu7Ix5QvYfBPJctCpm"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "Andamos Triunfando",
-        "url": "https://open.spotify.com/album/3GohRnAdahedoEBNCAjIEU"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 148506,
-      "name": "Andamos Triunfando",
-      "url": "https://open.spotify.com/track/23t0H71t1k6QqrYYRLjXk5"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
         "name": "Se\u00f1alado por Costumbre",
         "url": "https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 176000,
       "name": "La Escuela No Me Gust\u00f3",
       "url": "https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
+        "name": "Andamos Triunfando",
+        "url": "https://open.spotify.com/album/3GohRnAdahedoEBNCAjIEU"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 148506,
+      "name": "Andamos Triunfando",
+      "url": "https://open.spotify.com/track/23t0H71t1k6QqrYYRLjXk5"
     },
     {
       "added_at": "2026-09-28 07:52:34",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2026-09-28 07:52:34",
       "album": {
-        "name": "VACAS FLACAS",
-        "url": "https://open.spotify.com/album/112Y8wuHDub7svC4bdwkrQ"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 216288,
-      "name": "VACAS FLACAS",
-      "url": "https://open.spotify.com/track/4KdSWdSz7Un3JIEWkOXPQ2"
-    },
-    {
-      "added_at": "2026-09-28 07:52:34",
-      "album": {
         "name": "Poco A Poco",
         "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 156040,
       "name": "Poco A Poco",
       "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
+    },
+    {
+      "added_at": "2026-09-28 07:52:34",
+      "album": {
+        "name": "VACAS FLACAS",
+        "url": "https://open.spotify.com/album/112Y8wuHDub7svC4bdwkrQ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 216288,
+      "name": "VACAS FLACAS",
+      "url": "https://open.spotify.com/track/4KdSWdSz7Un3JIEWkOXPQ2"
     }
   ],
   "unique_name": "Fiesta y Desmadre",

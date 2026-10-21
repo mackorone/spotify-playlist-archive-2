@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2585326,
+  "num_followers": 2585203,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD1bf+xpq3043HcLsVPRvxdlM3tV",
+  "snapshot_id": "AAAAAH+vze4khbaPiVWqodf8DacpGz2D",
   "tracks": [
     {
       "added_at": "2026-10-16 04:00:57",
@@ -743,18 +743,22 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
-        "name": "Palm Of Your Hands",
-        "url": "https://open.spotify.com/album/1yLtTqA4d5uJroIi4WBRpM"
+        "name": "Before You Know It",
+        "url": "https://open.spotify.com/album/09MFYa0kaj2G2LpRZfKUyo"
       },
       "artists": [
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 205063,
-      "name": "Palm Of Your Hands",
-      "url": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
+      "duration_ms": 173202,
+      "name": "Before You Know It",
+      "url": "https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"
     },
     {
       "added_at": "2026-10-16 04:00:57",
@@ -779,22 +783,18 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
-        "name": "Before You Know It",
-        "url": "https://open.spotify.com/album/09MFYa0kaj2G2LpRZfKUyo"
+        "name": "Palm Of Your Hands",
+        "url": "https://open.spotify.com/album/1yLtTqA4d5uJroIi4WBRpM"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
         }
       ],
-      "duration_ms": 173202,
-      "name": "Before You Know It",
-      "url": "https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"
+      "duration_ms": 205063,
+      "name": "Palm Of Your Hands",
+      "url": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
     },
     {
       "added_at": "2026-10-16 04:00:57",
@@ -1055,26 +1055,22 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
-        "name": "Keep Up",
-        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
+        "name": "Fight For Love",
+        "url": "https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T"
       },
       "artists": [
         {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+          "name": "Kaitlin Aragon",
+          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
         }
       ],
-      "duration_ms": 158181,
-      "name": "Keep Up",
-      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
+      "duration_ms": 180461,
+      "name": "Fight For Love",
+      "url": "https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz"
     },
     {
       "added_at": "2026-10-16 04:00:57",
@@ -1095,6 +1091,30 @@
       "duration_ms": 372480,
       "name": "Ghost Dance",
       "url": "https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe"
+    },
+    {
+      "added_at": "2026-10-16 04:00:57",
+      "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
     },
     {
       "added_at": "2026-10-16 04:00:57",
@@ -1159,26 +1179,6 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
-        "name": "Fight For Love",
-        "url": "https://open.spotify.com/album/4UI0gVstrcRStFLYrsCD2T"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Kaitlin Aragon",
-          "url": "https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs"
-        }
-      ],
-      "duration_ms": 180461,
-      "name": "Fight For Love",
-      "url": "https://open.spotify.com/track/3Ke6mheKxEbsfuP2p0W2Kz"
-    },
-    {
-      "added_at": "2026-10-16 04:00:57",
-      "album": {
         "name": "Help I'm Alive (BYNX Rework)",
         "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/20T8xImt6u3qe2NvJxwSBL"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH"
-    },
-    {
-      "added_at": "2026-10-16 04:00:57",
-      "album": {
         "name": "sound di alarm",
         "url": "https://open.spotify.com/album/6BIVBxODB2ZY7Xmt9HuyPf"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 220444,
       "name": "sound di alarm",
       "url": "https://open.spotify.com/track/6kNLgs7ioyGMDN027wnKng"
+    },
+    {
+      "added_at": "2026-10-16 04:00:57",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/20T8xImt6u3qe2NvJxwSBL"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/2gMEsJfYojkFVlOC9gYhxH"
     },
     {
       "added_at": "2026-10-16 04:00:57",
@@ -1295,30 +1295,6 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
-        "name": "Like A Child",
-        "url": "https://open.spotify.com/album/21kP7foJu4VQRhlnkVgrgC"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Marlo Rex",
-          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
-        }
-      ],
-      "duration_ms": 183181,
-      "name": "Like A Child",
-      "url": "https://open.spotify.com/track/0wGlXAZU2OQlOiCghAOCqm"
-    },
-    {
-      "added_at": "2026-10-16 04:00:57",
-      "album": {
         "name": "When The Light Breaks",
         "url": "https://open.spotify.com/album/1TUAfWl3NJj9yG1Bv9LwvA"
       },
@@ -1343,6 +1319,30 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
+        "name": "Like A Child",
+        "url": "https://open.spotify.com/album/21kP7foJu4VQRhlnkVgrgC"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Marlo Rex",
+          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
+        }
+      ],
+      "duration_ms": 183181,
+      "name": "Like A Child",
+      "url": "https://open.spotify.com/track/0wGlXAZU2OQlOiCghAOCqm"
+    },
+    {
+      "added_at": "2026-10-16 04:00:57",
+      "album": {
         "name": "AURA",
         "url": "https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd"
       },
@@ -1355,6 +1355,30 @@
       "duration_ms": 257571,
       "name": "drift away",
       "url": "https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm"
+    },
+    {
+      "added_at": "2026-10-16 04:00:57",
+      "album": {
+        "name": "Divine Intervention",
+        "url": "https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Alt8",
+          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
+        },
+        {
+          "name": "Saint Monet",
+          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Feel 4 U (feat. Saint Monet)",
+      "url": "https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V"
     },
     {
       "added_at": "2026-10-16 04:00:57",
@@ -1415,30 +1439,6 @@
       "duration_ms": 155666,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw"
-    },
-    {
-      "added_at": "2026-10-16 04:00:57",
-      "album": {
-        "name": "Divine Intervention",
-        "url": "https://open.spotify.com/album/3TZ4XJmyRk7Tf5SWGeWyXC"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        },
-        {
-          "name": "Alt8",
-          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
-        },
-        {
-          "name": "Saint Monet",
-          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Feel 4 U (feat. Saint Monet)",
-      "url": "https://open.spotify.com/track/4G7SaOQ8RFtvmCKVhIeN1V"
     },
     {
       "added_at": "2026-10-16 04:00:57",
@@ -1811,26 +1811,18 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
-        "name": "On My Own (Feat. Darla Jade)",
-        "url": "https://open.spotify.com/album/5H8LVL9u4hjO3pm9QzJB9m"
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        },
-        {
-          "name": "Darla Jade",
-          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
         }
       ],
-      "duration_ms": 220439,
-      "name": "On My Own (Feat. Darla Jade)",
-      "url": "https://open.spotify.com/track/6hIrJ88yxwqnvdvnnXHVkC"
+      "duration_ms": 204324,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
     },
     {
       "added_at": "2026-10-16 04:00:57",
@@ -1859,18 +1851,26 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP"
+        "name": "On My Own (Feat. Darla Jade)",
+        "url": "https://open.spotify.com/album/5H8LVL9u4hjO3pm9QzJB9m"
       },
       "artists": [
         {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
         }
       ],
-      "duration_ms": 204324,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
+      "duration_ms": 220439,
+      "name": "On My Own (Feat. Darla Jade)",
+      "url": "https://open.spotify.com/track/6hIrJ88yxwqnvdvnnXHVkC"
     },
     {
       "added_at": "2026-10-16 04:00:57",
@@ -1915,30 +1915,6 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
-        "name": "Gravity (feat. SACHA)",
-        "url": "https://open.spotify.com/album/79aF8LZe8qAienSve3qjTo"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        }
-      ],
-      "duration_ms": 180849,
-      "name": "Gravity (feat. SACHA)",
-      "url": "https://open.spotify.com/track/05vUCrcaRvSjLzb0WbmVDk"
-    },
-    {
-      "added_at": "2026-10-16 04:00:57",
-      "album": {
         "name": "Don't Want Your Love (R\u00d8Z Remix)",
         "url": "https://open.spotify.com/album/3xrbpZqyJXzxyJeo6kI7DZ"
       },
@@ -1979,6 +1955,30 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
+        "name": "Gravity (feat. SACHA)",
+        "url": "https://open.spotify.com/album/79aF8LZe8qAienSve3qjTo"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 180849,
+      "name": "Gravity (feat. SACHA)",
+      "url": "https://open.spotify.com/track/05vUCrcaRvSjLzb0WbmVDk"
+    },
+    {
+      "added_at": "2026-10-16 04:00:57",
+      "album": {
         "name": "Every Single Day (feat. Dhany)",
         "url": "https://open.spotify.com/album/5qH7ySbYFHOaB50ZiQNurO"
       },
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
-        "name": "Eivissa",
-        "url": "https://open.spotify.com/album/2a5Z4hCQQuABXGcJb6Oyou"
-      },
-      "artists": [
-        {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
-        }
-      ],
-      "duration_ms": 178150,
-      "name": "Eivissa",
-      "url": "https://open.spotify.com/track/78aSXq1cACveTur0cN10og"
-    },
-    {
-      "added_at": "2026-10-16 04:00:57",
-      "album": {
         "name": "Arp12",
         "url": "https://open.spotify.com/album/7Co7HPNp3CaE10oPWCGth4"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 260053,
       "name": "Arp12",
       "url": "https://open.spotify.com/track/1uAqEwBLKdJw8N5T7qAWMX"
+    },
+    {
+      "added_at": "2026-10-16 04:00:57",
+      "album": {
+        "name": "Eivissa",
+        "url": "https://open.spotify.com/album/2a5Z4hCQQuABXGcJb6Oyou"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        }
+      ],
+      "duration_ms": 178150,
+      "name": "Eivissa",
+      "url": "https://open.spotify.com/track/78aSXq1cACveTur0cN10og"
     },
     {
       "added_at": "2026-10-16 04:00:57",
@@ -2119,26 +2119,26 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
-        "name": "1998",
-        "url": "https://open.spotify.com/album/3V9TSSLdxLoe1aAOIJBsd5"
+        "name": "High On A Feeling",
+        "url": "https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR"
       },
       "artists": [
         {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+          "name": "Layla Benitez",
+          "url": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
         },
         {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+          "name": "FR3ADY",
+          "url": "https://open.spotify.com/artist/2peUHQAGgVjVEI5vW8FJya"
         },
         {
-          "name": "Binary Finary",
-          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+          "name": "JULIANNA",
+          "url": "https://open.spotify.com/artist/3ging4yOPy9F9itepV403Q"
         }
       ],
-      "duration_ms": 218482,
-      "name": "1998",
-      "url": "https://open.spotify.com/track/7emb2qTYBDUqrmVMBZjJPb"
+      "duration_ms": 211535,
+      "name": "High On A Feeling",
+      "url": "https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML"
     },
     {
       "added_at": "2026-10-16 04:00:57",
@@ -2163,26 +2163,26 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
-        "name": "High On A Feeling",
-        "url": "https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR"
+        "name": "1998",
+        "url": "https://open.spotify.com/album/3V9TSSLdxLoe1aAOIJBsd5"
       },
       "artists": [
         {
-          "name": "Layla Benitez",
-          "url": "https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE"
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
         },
         {
-          "name": "FR3ADY",
-          "url": "https://open.spotify.com/artist/2peUHQAGgVjVEI5vW8FJya"
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
         },
         {
-          "name": "JULIANNA",
-          "url": "https://open.spotify.com/artist/3ging4yOPy9F9itepV403Q"
+          "name": "Binary Finary",
+          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
         }
       ],
-      "duration_ms": 211535,
-      "name": "High On A Feeling",
-      "url": "https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML"
+      "duration_ms": 218482,
+      "name": "1998",
+      "url": "https://open.spotify.com/track/7emb2qTYBDUqrmVMBZjJPb"
     },
     {
       "added_at": "2026-10-16 04:00:57",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
-        "name": "Risk Everything",
-        "url": "https://open.spotify.com/album/5wZzRMlFZIv96G99JHqZw9"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Risk Everything",
-      "url": "https://open.spotify.com/track/6QDIcY4mD3Ziney6N06Z1p"
-    },
-    {
-      "added_at": "2026-10-16 04:00:57",
-      "album": {
         "name": "Dark Darker",
         "url": "https://open.spotify.com/album/6z3GWVJaAqYQj2WhqcAwpl"
       },
@@ -2275,6 +2259,38 @@
       "duration_ms": 191953,
       "name": "Dark Darker",
       "url": "https://open.spotify.com/track/7hMrm2fpw48sjOFZbzbT05"
+    },
+    {
+      "added_at": "2026-10-16 04:00:57",
+      "album": {
+        "name": "Risk Everything",
+        "url": "https://open.spotify.com/album/5wZzRMlFZIv96G99JHqZw9"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Risk Everything",
+      "url": "https://open.spotify.com/track/6QDIcY4mD3Ziney6N06Z1p"
+    },
+    {
+      "added_at": "2026-10-16 04:00:57",
+      "album": {
+        "name": "Motel",
+        "url": "https://open.spotify.com/album/28YOATj8fmRniN5K6W3pok"
+      },
+      "artists": [
+        {
+          "name": "Lisa Korver",
+          "url": "https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH"
+        }
+      ],
+      "duration_ms": 225405,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/2xLA3OXFudJwPgdpdEkIiS"
     },
     {
       "added_at": "2026-10-16 04:00:57",
@@ -2311,18 +2327,18 @@
     {
       "added_at": "2026-10-16 04:00:57",
       "album": {
-        "name": "Motel",
-        "url": "https://open.spotify.com/album/28YOATj8fmRniN5K6W3pok"
+        "name": "Reckless 69",
+        "url": "https://open.spotify.com/album/4jJOoFJHVqN2Qnohqe9bZP"
       },
       "artists": [
         {
-          "name": "Lisa Korver",
-          "url": "https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH"
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
         }
       ],
-      "duration_ms": 225405,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/2xLA3OXFudJwPgdpdEkIiS"
+      "duration_ms": 153529,
+      "name": "Reckless 69",
+      "url": "https://open.spotify.com/track/1E0ZDpi7dXbZAM5LuSG5uk"
     },
     {
       "added_at": "2026-10-16 04:00:57",
@@ -2363,22 +2379,6 @@
       "duration_ms": 306500,
       "name": "It's Chemical",
       "url": "https://open.spotify.com/track/6httD7xB1MLxBcSw7q4fVD"
-    },
-    {
-      "added_at": "2026-10-16 04:00:57",
-      "album": {
-        "name": "Reckless 69",
-        "url": "https://open.spotify.com/album/4jJOoFJHVqN2Qnohqe9bZP"
-      },
-      "artists": [
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        }
-      ],
-      "duration_ms": 153529,
-      "name": "Reckless 69",
-      "url": "https://open.spotify.com/track/1E0ZDpi7dXbZAM5LuSG5uk"
     },
     {
       "added_at": "2026-10-16 04:00:57",

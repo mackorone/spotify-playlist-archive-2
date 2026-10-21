@@ -1,12 +1,12 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 113578,
+  "num_followers": 113573,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKfw39iVywaVkXmIzKQqlNkPtHt4",
+  "snapshot_id": "AAAAAA5CPpLargglIxPBNGlLjJBhxeyU",
   "tracks": [
     {
       "added_at": "2025-07-10 21:06:57",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
+        "name": "FIRTINAYT",
+        "url": "https://open.spotify.com/album/2SNhVRSfq609FJVJqcq4zS"
+      },
+      "artists": [
+        {
+          "name": "B\u00fcy\u00fck Ev Ablukada",
+          "url": "https://open.spotify.com/artist/7pUjWNH0hKYpRzWDdNLzAi"
+        }
+      ],
+      "duration_ms": 180147,
+      "name": "BO\u015eLUK",
+      "url": "https://open.spotify.com/track/7nnW9qKcLQi98ghW42lsAX"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
         "name": "Leyla & Mecnun",
         "url": "https://open.spotify.com/album/0qYuZyddQa4XOlroSkxkLc"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 182544,
       "name": "Leyla & Mecnun",
       "url": "https://open.spotify.com/track/6npz2LNhco8qYAloW7lTMS"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
-        "name": "FIRTINAYT",
-        "url": "https://open.spotify.com/album/2SNhVRSfq609FJVJqcq4zS"
-      },
-      "artists": [
-        {
-          "name": "B\u00fcy\u00fck Ev Ablukada",
-          "url": "https://open.spotify.com/artist/7pUjWNH0hKYpRzWDdNLzAi"
-        }
-      ],
-      "duration_ms": 180147,
-      "name": "BO\u015eLUK",
-      "url": "https://open.spotify.com/track/7nnW9qKcLQi98ghW42lsAX"
     },
     {
       "added_at": "2025-07-10 21:06:57",

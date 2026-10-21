@@ -1,12 +1,12 @@
 {
   "description": "New music from Ernie Zakri, Mimifly, Sheila Majid, Ashe, Sarah Suhairi, Rex Orange County, and more!",
-  "num_followers": 76164,
+  "num_followers": 76148,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACxeDWkCWDVkvq1U/tGb0NwWXIEQ",
+  "snapshot_id": "AAAAAKzHRJvV2LWKtHf9FsX5xWez+6Jn",
   "tracks": [
     {
       "added_at": "2026-10-16 00:39:08",
@@ -1388,12 +1388,12 @@
       },
       "artists": [
         {
-          "name": "A2O",
-          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
-        },
-        {
           "name": "A2O LITE",
           "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
         }
       ],
       "duration_ms": 208000,
@@ -1728,12 +1728,12 @@
       },
       "artists": [
         {
-          "name": "A2O",
-          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
-        },
-        {
           "name": "A2O SOUL",
           "url": "https://open.spotify.com/artist/1sqWFSwBcJ6eunJRrCsmYb"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
         }
       ],
       "duration_ms": 248000,

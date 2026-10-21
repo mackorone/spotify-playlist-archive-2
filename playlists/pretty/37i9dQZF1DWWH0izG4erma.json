@@ -1,12 +1,12 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 681902,
+  "num_followers": 681982,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKhP9XtrDt338FrXuT573gryT2iC",
+  "snapshot_id": "AAAAAFe1EBhzdD+dSZ1islK7dRhj2N1t",
   "tracks": [
     {
       "added_at": "2026-10-16 04:01:41",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "INSIGNIFICANT OTHER",
-        "url": "https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        }
-      ],
-      "duration_ms": 207230,
-      "name": "INSIGNIFICANT OTHER - feat. Sam Canty & Lance Vanley",
-      "url": "https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac"
-    },
-    {
-      "added_at": "2026-10-16 04:01:41",
-      "album": {
         "name": "Tabasco & Sweet Tea",
         "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 280065,
       "name": "Tabasco & Sweet Tea",
       "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
+    },
+    {
+      "added_at": "2026-10-16 04:01:41",
+      "album": {
+        "name": "INSIGNIFICANT OTHER",
+        "url": "https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 207230,
+      "name": "INSIGNIFICANT OTHER - feat. Sam Canty & Lance Vanley",
+      "url": "https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
+        "name": "The Tenth Album (Side A)",
+        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "duration_ms": 144790,
+      "name": "Death Of Me",
+      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
+    },
+    {
+      "added_at": "2026-10-16 04:01:41",
+      "album": {
         "name": "From Me",
         "url": "https://open.spotify.com/album/4xLZVz9xvzTqlfj3oFXgsZ"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 170157,
       "name": "Back in the Bottle",
       "url": "https://open.spotify.com/track/2wcCdp73IiOnFlQxPnmIMF"
-    },
-    {
-      "added_at": "2026-10-16 04:01:41",
-      "album": {
-        "name": "I Met This Girl",
-        "url": "https://open.spotify.com/album/5MmRIWd7OT3U15cRdfyPbz"
-      },
-      "artists": [
-        {
-          "name": "Logan Michael",
-          "url": "https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "I Met This Girl",
-      "url": "https://open.spotify.com/track/2Nj0zxGrFoyK7s3KCf2uFl"
     }
   ],
   "unique_name": "Country Rocks",

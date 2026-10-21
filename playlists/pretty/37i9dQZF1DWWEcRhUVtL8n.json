@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Sydney Ross Mitchell",
-  "num_followers": 1660418,
+  "num_followers": 1660343,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACuLmfFdFGzjDfxAxKtjKiRZvHXI",
+  "snapshot_id": "AAAAAB5bnXmPBV2ax2DoYOR/n30reWSs",
   "tracks": [
     {
       "added_at": "2026-10-09 04:02:47",
@@ -289,6 +289,22 @@
       "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
     },
     {
+      "added_at": "2026-10-16 04:01:49",
+      "album": {
+        "name": "Dopamine Chamber",
+        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 194205,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ"
+    },
+    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "Greetings From Bleak St.",
@@ -303,22 +319,6 @@
       "duration_ms": 226041,
       "name": "Chemical Light",
       "url": "https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 191003,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/6xvFXJsIgOC70xQMwho7do"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 191003,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
         "name": "Bottle",
         "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 258353,
       "name": "Bottle",
       "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
-    },
-    {
-      "added_at": "2026-10-16 04:01:49",
-      "album": {
-        "name": "Dopamine Chamber",
-        "url": "https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 194205,
-      "name": "Japan",
-      "url": "https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "I Won't Cry",
-        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 260146,
-      "name": "I Won\u2019t Cry",
-      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Whatever You Wanna",
         "url": "https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Broken chair",
-        "url": "https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w"
+        "name": "I Won't Cry",
+        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 220677,
-      "name": "Broken chair",
-      "url": "https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd"
+      "duration_ms": 260146,
+      "name": "I Won\u2019t Cry",
+      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -483,6 +467,22 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
+        "name": "Broken chair",
+        "url": "https://open.spotify.com/album/6BuY0ylaghbGdm5ohYl30w"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 220677,
+      "name": "Broken chair",
+      "url": "https://open.spotify.com/track/7tkVtE5Tf2vM2W4oZD0hqd"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
         "name": "Shelly 2",
         "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Twiggy",
-        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 209258,
-      "name": "Twiggy",
-      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "From Down Here",
         "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 241470,
       "name": "From Down Here",
       "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Twiggy",
+        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 209258,
+      "name": "Twiggy",
+      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "One song away from crying",
-        "url": "https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 219609,
-      "name": "One song away from crying",
-      "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Doggy (feat. Love Spells and Truly Young)",
         "url": "https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV"
       },
@@ -643,22 +627,18 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Dream House",
-        "url": "https://open.spotify.com/album/6axHKsr3XutYidaQ8GtHM6"
+        "name": "One song away from crying",
+        "url": "https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3"
       },
       "artists": [
         {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 188493,
-      "name": "Blue Light (feat. Blood Orange)",
-      "url": "https://open.spotify.com/track/1J8wS07uP0uerunK3vnyRP"
+      "duration_ms": 219609,
+      "name": "One song away from crying",
+      "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -675,6 +655,26 @@
       "duration_ms": 216729,
       "name": "in the middle of the night",
       "url": "https://open.spotify.com/track/4jmJRk8jb4hH4cmEXFhBET"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Dream House",
+        "url": "https://open.spotify.com/album/6axHKsr3XutYidaQ8GtHM6"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Blue Light (feat. Blood Orange)",
+      "url": "https://open.spotify.com/track/1J8wS07uP0uerunK3vnyRP"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -709,6 +709,22 @@
       "url": "https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8"
     },
     {
+      "added_at": "2026-10-16 04:01:49",
+      "album": {
+        "name": "Blood Brothers",
+        "url": "https://open.spotify.com/album/14y4V2QHlAI2bQeznVe97z"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 226726,
+      "name": "Blood Brothers",
+      "url": "https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C"
+    },
+    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "In Every Lifetime (From the Prime Original Series, Off Campus)",
@@ -741,22 +757,6 @@
       "url": "https://open.spotify.com/track/4tcLxWZs2YYmggQRWGsYTZ"
     },
     {
-      "added_at": "2026-10-16 04:01:49",
-      "album": {
-        "name": "Blood Brothers",
-        "url": "https://open.spotify.com/album/14y4V2QHlAI2bQeznVe97z"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 226726,
-      "name": "Blood Brothers",
-      "url": "https://open.spotify.com/track/7aMdmpShbYFRbdJigosY7C"
-    },
-    {
       "added_at": "2026-10-09 04:02:47",
       "album": {
         "name": "Do You Really Love Her",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Lucky[Hymn]",
-        "url": "https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 228492,
-      "name": "Lucky[Hymn]",
-      "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Equus Caballus",
         "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 207500,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Lucky[Hymn]",
+        "url": "https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 228492,
+      "name": "Lucky[Hymn]",
+      "url": "https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "drama queens",
-        "url": "https://open.spotify.com/album/1xFSIoX8WD1IttHFr5TFio"
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/2fWLjKOm4gIFsJmWGt1lzC"
       },
       "artists": [
         {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+          "name": "Golden Cats",
+          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
         }
       ],
-      "duration_ms": 170503,
-      "name": "drama queens",
-      "url": "https://open.spotify.com/track/5x244J13Sq97dXy9cYU1Dh"
+      "duration_ms": 218433,
+      "name": "The Fall - Shadow",
+      "url": "https://open.spotify.com/track/3jEU3tTP9uOMPSfySPRcJk"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1107,34 +1107,18 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "The Fall",
-        "url": "https://open.spotify.com/album/2fWLjKOm4gIFsJmWGt1lzC"
+        "name": "drama queens",
+        "url": "https://open.spotify.com/album/1xFSIoX8WD1IttHFr5TFio"
       },
       "artists": [
         {
-          "name": "Golden Cats",
-          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
         }
       ],
-      "duration_ms": 218433,
-      "name": "The Fall - Shadow",
-      "url": "https://open.spotify.com/track/3jEU3tTP9uOMPSfySPRcJk"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 239377,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
+      "duration_ms": 170503,
+      "name": "drama queens",
+      "url": "https://open.spotify.com/track/5x244J13Sq97dXy9cYU1Dh"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1151,6 +1135,22 @@
       "duration_ms": 208997,
       "name": "collagen",
       "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 239377,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/1WYaTvNXdVLd6nl9IUFdn6"
-      },
-      "artists": [
-        {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/7B7V5Ul8kKGkSZ5lk7YwwZ"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Vampire at the Beach",
         "url": "https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 221000,
       "name": "Vampire at the Beach",
       "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/1WYaTvNXdVLd6nl9IUFdn6"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/7B7V5Ul8kKGkSZ5lk7YwwZ"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "She\u2019s the Best",
-      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Keep It To Yourself",
         "url": "https://open.spotify.com/album/3FQ8bzLV3poKkW6thJ04Tw"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 257644,
       "name": "Keep It To Yourself",
       "url": "https://open.spotify.com/track/0UUnMVRHGJKFq4mlsld8GV"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "Take A Drive",
-        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
+        "name": "let the feeling die",
+        "url": "https://open.spotify.com/album/1IJpjSrKuQfsjkTzFNkXLV"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "Jessie Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Take A Drive",
-      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
+      "duration_ms": 176435,
+      "name": "EVERY THOUGHT I\u2019VE EVER HAD",
+      "url": "https://open.spotify.com/track/3ihXuxpiMXLQRk4hknvXFN"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1367,34 +1367,18 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "let the feeling die",
-        "url": "https://open.spotify.com/album/1IJpjSrKuQfsjkTzFNkXLV"
+        "name": "Take A Drive",
+        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
       },
       "artists": [
         {
-          "name": "Jessie Mazin",
-          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 176435,
-      "name": "EVERY THOUGHT I\u2019VE EVER HAD",
-      "url": "https://open.spotify.com/track/3ihXuxpiMXLQRk4hknvXFN"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
-        "name": "my bad",
-        "url": "https://open.spotify.com/album/0WTwR9yK3wgqxRAybdNlpE"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 179780,
-      "name": "superstar",
-      "url": "https://open.spotify.com/track/5Cgh3h1oWm0xdGhK76HHOi"
+      "duration_ms": 225000,
+      "name": "Take A Drive",
+      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1415,6 +1399,22 @@
       "duration_ms": 165078,
       "name": "Liar Liar",
       "url": "https://open.spotify.com/track/0WzxYGZi9lr3UQLMjbVUdI"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "my bad",
+        "url": "https://open.spotify.com/album/0WTwR9yK3wgqxRAybdNlpE"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 179780,
+      "name": "superstar",
+      "url": "https://open.spotify.com/track/5Cgh3h1oWm0xdGhK76HHOi"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "HOLE",
-        "url": "https://open.spotify.com/album/5N4v5j462H81Sumq9GcniL"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 153906,
-      "name": "HOLE",
-      "url": "https://open.spotify.com/track/0tYDtbOBF1v8qM1ZPyPlv3"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Dust Settles and So Will I",
         "url": "https://open.spotify.com/album/4f9ajG7yABePyI59OhmRQH"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 173003,
       "name": "All I See Is The Sky",
       "url": "https://open.spotify.com/track/2tyfn5zPNpAa8IyF0sszGj"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "HOLE",
+        "url": "https://open.spotify.com/album/5N4v5j462H81Sumq9GcniL"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 153906,
+      "name": "HOLE",
+      "url": "https://open.spotify.com/track/0tYDtbOBF1v8qM1ZPyPlv3"
     },
     {
       "added_at": "2026-10-09 04:02:47",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-10-09 04:02:47",
       "album": {
-        "name": "FLOWERS",
-        "url": "https://open.spotify.com/album/6BVYE5jv8v6QjO6p5Wthj4"
-      },
-      "artists": [
-        {
-          "name": "Ruti",
-          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
-        }
-      ],
-      "duration_ms": 194592,
-      "name": "FLOWERS",
-      "url": "https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE"
-    },
-    {
-      "added_at": "2026-10-09 04:02:47",
-      "album": {
         "name": "Geezer",
         "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 169776,
       "name": "Geezer",
       "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
+    },
+    {
+      "added_at": "2026-10-09 04:02:47",
+      "album": {
+        "name": "FLOWERS",
+        "url": "https://open.spotify.com/album/6BVYE5jv8v6QjO6p5Wthj4"
+      },
+      "artists": [
+        {
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+        }
+      ],
+      "duration_ms": 194592,
+      "name": "FLOWERS",
+      "url": "https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE"
     },
     {
       "added_at": "2026-10-09 04:02:47",

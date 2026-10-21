@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover:  Kid Milli, TRADE L\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,950 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,880 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 99 | [KrOWN\_ZICO](https://open.spotify.com/track/1vvFhj3WfJYm5pJ2ZaxceL) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [KrOWN Audio Liner](https://open.spotify.com/album/3d3jltiS1KqSBH12oQUWuE) | 0:01 |
 | 100 | [Villain](https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q) | [1ANDON](https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf), [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih), [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Phantom Pain](https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS) | 3:15 |
 
-Snapshot ID: `AAAAACXQLfJMGgDhoPK4gxtz+bs8cKSa`
+Snapshot ID: `AAAAANWeyQkILpDcdGqfTAFTTyQDlZ8y`

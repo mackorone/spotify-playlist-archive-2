@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. El De Las R's, El Rabbanito en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 990,828 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 990,871 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 6 | [5.0](https://open.spotify.com/track/0BejUNH4ngpniDIkwZTAzi) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [No Fue Suerte](https://open.spotify.com/album/2Xz564ZzP6YLcPBwQT6UPV) | 2:23 |
 | 7 | [Cabezón](https://open.spotify.com/track/6y7YORyjqzue1YZUzc1fLn) | [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b), [Clemente y su Elexion Privada](https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7) | [Cabezón](https://open.spotify.com/album/0Nyco4fXjYeSGecS7eC4QB) | 2:56 |
 | 8 | [PJM](https://open.spotify.com/track/0YopquwKvnkylezOWZmHat) | [El Randal](https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [PJM](https://open.spotify.com/album/0qKaJwbXwmZ9AmxnGsQCYK) | 2:11 |
-| 9 | [Vida Rockstar](https://open.spotify.com/track/3fWXbatRWjTInoLpPu8bNS) | [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [Reconectarme](https://open.spotify.com/album/1ujXy9iFbpDEF34zKYbSVW) | 2:16 |
+| 9 | [Vida de Rockstar](https://open.spotify.com/track/3fWXbatRWjTInoLpPu8bNS) | [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [Reconectarme](https://open.spotify.com/album/1ujXy9iFbpDEF34zKYbSVW) | 2:16 |
 | 10 | [Mi Civilización](https://open.spotify.com/track/64iMcqtWuxcoatirwuEIsi) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [Abel Bustillos](https://open.spotify.com/artist/2YlgpU3Bj4LLN2RclY6RSE) | [Mi Civilización](https://open.spotify.com/album/6WuFuI17rKq6buRcfv049d) | 3:42 |
 | 11 | [Jc Hats](https://open.spotify.com/track/4lJwQtUzMRKsIj0SR8xIpI) | [Lui Santo](https://open.spotify.com/artist/2QoMCjd4XA9bZKXWWLSxGq) | [Como No](https://open.spotify.com/album/3LBq5noZaEzv3El5lX4hjA) | 3:31 |
 | 12 | [La Silverado](https://open.spotify.com/track/2FqsYzZfvWgm9UJZeFEWtv) | [El De Las R's](https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j), [''El Obama'' Carlos Anderson](https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1) | [Enfocado's](https://open.spotify.com/album/6KXcxx3POGHgaHYnaPYeO3) | 2:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 99 | [FREESTYLE](https://open.spotify.com/track/7FcV9ysZVFnmAOYwipRSGp) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [LINAJE](https://open.spotify.com/album/1IUyPkacFHORWwLM9SBbOy) | 5:36 |
 | 100 | [Aguas](https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [Aguas](https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K) | 2:52 |
 
-Snapshot ID: `AAAAAIerRw3ai7JyMXHIvzCEyEONu+RL`
+Snapshot ID: `AAAAALHGVLQurwThxg/XQhnfoggq3cfU`

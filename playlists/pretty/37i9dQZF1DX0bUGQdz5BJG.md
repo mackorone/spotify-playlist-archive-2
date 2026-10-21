@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Wyatt McCubbin
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,999 likes - 200 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,035 likes - 200 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [Too Far Gone](https://open.spotify.com/track/4yQkY0H62mICj7tXIb44Ir) | [Emma Smalley](https://open.spotify.com/artist/0aS7MPo8k8PNxOAJmRVcDw) | [Too Far Gone](https://open.spotify.com/album/638F3gObkZXTuJQI3FkBt5) | 3:43 |
 | 200 | [High Water](https://open.spotify.com/track/5ltXSLSagc9mlHsVNV6TEp) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Suede](https://open.spotify.com/album/1G4oYWXbw8Yji0qNRcXnWO) | 3:31 |
 
-Snapshot ID: `AAAAAAu/cl3llifbFtfqQr99Oxfgfx6d`
+Snapshot ID: `AAAAAEaDBAX7cEkbDc4CM23HW8pSqMZr`

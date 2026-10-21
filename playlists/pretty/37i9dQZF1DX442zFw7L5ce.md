@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Sreeleela
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,318 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,342 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 21 | [Nee Kannu Neeli Samudram \- Telugu](https://open.spotify.com/track/1C9SYGI40nNYh98gN87Fwr) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Uppena](https://open.spotify.com/album/0vHE0cmA8orbBgzIWz9T3D) | 5:12 |
 | 22 | [Evaraina Chustuntara](https://open.spotify.com/track/7vHmN4UodN2EGwQJMIvTe0) | [Smita](https://open.spotify.com/artist/4qCRlu0jozfPsnmnxuWPve) | [Anukokunda Oka Roju \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PiAeBEGIWDTRinfBVRqdt) | 3:15 |
 | 23 | [Adireti](https://open.spotify.com/track/5lsstDSoCsN8SRh5NxwGcK) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Bharateeyudu](https://open.spotify.com/album/5wbNqlJ4LukhEsQcqty9Po) | 5:51 |
-| 24 | [Nandanandanaa \(From "The Family Star"\)](https://open.spotify.com/track/0tyHtkMv3PMWIUbK0ZqOHi) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [Nandanandanaa \(From "The Family Star"\)](https://open.spotify.com/album/5qYCzmTt8Vnw9B0Ok95HtI) | 4:59 |
-| 25 | [Bride Song \- From "Gaayapadda Simham"](https://open.spotify.com/track/6TtJAaCHEiVBxxp1FBGN5W) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Sreemani](https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza) | [Bride Song \(From "Gaayapadda Simham"\)](https://open.spotify.com/album/1FWny0iRfgIDRB8BegX9WU) | 3:16 |
+| 24 | [Bride Song \- From "Gaayapadda Simham"](https://open.spotify.com/track/6TtJAaCHEiVBxxp1FBGN5W) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Sreemani](https://open.spotify.com/artist/4FMXVUiqvq8093FT0KBRza) | [Bride Song \(From "Gaayapadda Simham"\)](https://open.spotify.com/album/1FWny0iRfgIDRB8BegX9WU) | 3:16 |
+| 25 | [Nandanandanaa \(From "The Family Star"\)](https://open.spotify.com/track/0tyHtkMv3PMWIUbK0ZqOHi) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [Nandanandanaa \(From "The Family Star"\)](https://open.spotify.com/album/5qYCzmTt8Vnw9B0Ok95HtI) | 4:59 |
 | 26 | [Ohho Puththadi Bommaa](https://open.spotify.com/track/3WaggvoQP7BjMXTeIQp8mV) | [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Thika Maka Thanda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hsMB3LBXnEB9yHTvN0Qa2) | 3:35 |
 | 27 | [Ladiyo](https://open.spotify.com/track/2QFFI5i22rkoF14Qpwwok3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [I \- Manoharudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8) | 4:41 |
 | 28 | [Deva Raaja \(From "Baby"\)](https://open.spotify.com/track/6KUAJvrLISj8EytPvGu7Yu) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Deva Raaja \(From "Baby"\)](https://open.spotify.com/album/0aSxprg9rrJscWulKritHu) | 5:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 49 | [Yentha Sakkagunnave](https://open.spotify.com/track/6ZwkWDAoj6aDCbng3xnGSl) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Rangasthalam](https://open.spotify.com/album/7tSkAxhqw7Gb2lvnAjxvwF) | 4:22 |
 | 50 | [Buggey Bangarama](https://open.spotify.com/track/18RUE4llLj46NIQKojerlw) | [Rajesh](https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK) | [Chandamama](https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC) | 4:32 |
 
-Snapshot ID: `AAAAAKsxBsqjI5mpcZIe3Mi2kwFO95p8`
+Snapshot ID: `AAAAADaJFPBsghl1TiYDJblRR7QBfhg1`

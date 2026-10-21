@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : Fanny J
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,806 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,826 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Concentré](https://open.spotify.com/track/5YKsiqYkohePZ4bGYJaOq2) | [Yena Blue](https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4) | [Concentré](https://open.spotify.com/album/6A3mkIUADdtgnK7MYLObeY) | 2:20 |
 | 40 | [Doudou](https://open.spotify.com/track/4wrmC3OaHWFqhZeDMzZxeu) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Doudou](https://open.spotify.com/album/5W6Mvoi9S8CgEh24EbpTX5) | 2:56 |
 
-Snapshot ID: `AAAAAI7Ti3p3fkcZaMzWhXxmtrvP8alO`
+Snapshot ID: `AAAAAIOZ2jOuwjHn7gdRQeS8rwMQegmz`

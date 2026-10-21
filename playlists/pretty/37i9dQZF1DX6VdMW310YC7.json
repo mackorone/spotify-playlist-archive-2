@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 4016582,
+  "num_followers": 4016439,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACk3r5sKmzELPrF9twtnYMhOnIpb",
+  "snapshot_id": "AAAAAKJyMBoqJC0YiqS+KH7hgqAoD6O+",
   "tracks": [
     {
       "added_at": "2026-10-16 04:00:50",
@@ -355,6 +355,26 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
+        "name": "WIDE AWAKE",
+        "url": "https://open.spotify.com/album/1cuYuhlcRa6TomHkICwTL6"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "WIDE AWAKE",
+      "url": "https://open.spotify.com/track/4YX65szuyA3cu2EGMdIrRo"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/7b2xbeiyfj5UsT4G06ac8G"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 166666,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
-        "name": "WIDE AWAKE",
-        "url": "https://open.spotify.com/album/1cuYuhlcRa6TomHkICwTL6"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "WIDE AWAKE",
-      "url": "https://open.spotify.com/track/4YX65szuyA3cu2EGMdIrRo"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -827,26 +827,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Here Again / Wild Again",
-        "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
-      },
-      "artists": [
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "Kazmyn",
-          "url": "https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu"
-        }
-      ],
-      "duration_ms": 227069,
-      "name": "Here Again",
-      "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "Change of Driver",
         "url": "https://open.spotify.com/album/1eOiRwEPNOmeENq1PEy5ia"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 231024,
       "name": "Change of Driver",
       "url": "https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "Here Again / Wild Again",
+        "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
+      },
+      "artists": [
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "Kazmyn",
+          "url": "https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu"
+        }
+      ],
+      "duration_ms": 227069,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Spirit Bird",
-        "url": "https://open.spotify.com/album/5MBwoEnKyfli2K1l76HVpZ"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Spirit Bird",
-      "url": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "BLINK",
         "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 237938,
       "name": "Keep Love Waiting",
       "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "Spirit Bird",
+        "url": "https://open.spotify.com/album/5MBwoEnKyfli2K1l76HVpZ"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Spirit Bird",
+      "url": "https://open.spotify.com/track/3y5Ufbqnrdpp2wUsaDpPuS"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "Flow Free",
         "url": "https://open.spotify.com/album/1lSb4HADfBQ422Z89G0Ovg"
       },
@@ -1239,22 +1223,18 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Electric Soul (YOTTO Remix)",
-        "url": "https://open.spotify.com/album/6Yih2X7fM2oyY2WEfxG6Hs"
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
       },
       "artists": [
         {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
         }
       ],
-      "duration_ms": 226300,
-      "name": "Electric Soul - YOTTO Remix",
-      "url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf"
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1271,6 +1251,26 @@
       "duration_ms": 265250,
       "name": "drops of oil",
       "url": "https://open.spotify.com/track/7xgZIzO9ErlxhnL2KQ8qhp"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "Electric Soul (YOTTO Remix)",
+        "url": "https://open.spotify.com/album/6Yih2X7fM2oyY2WEfxG6Hs"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 226300,
+      "name": "Electric Soul - YOTTO Remix",
+      "url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
+        "name": "Of Joy",
+        "url": "https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "ARY",
+          "url": "https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM"
+        }
+      ],
+      "duration_ms": 199636,
+      "name": "Of Joy",
+      "url": "https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 212000,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
-        "name": "Of Joy",
-        "url": "https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "ARY",
-          "url": "https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM"
-        }
-      ],
-      "duration_ms": 199636,
-      "name": "Of Joy",
-      "url": "https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
+        "name": "NAKED",
+        "url": "https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6ARNHLoAsHe4Xv1TTKQaYG"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
         "name": "Call You Mine",
         "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
       },
@@ -1415,6 +1435,42 @@
       "duration_ms": 209696,
       "name": "Call You Mine",
       "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 251303,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "One Love (Nobody Else)",
+        "url": "https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "duration_ms": 217487,
+      "name": "One Love (Nobody Else)",
+      "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1455,26 +1511,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "Rabbit Hole",
-        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 251303,
-      "name": "Rabbit Hole",
-      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
       },
@@ -1491,22 +1527,6 @@
       "duration_ms": 248000,
       "name": "Hours",
       "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
-        "name": "One Love (Nobody Else)",
-        "url": "https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        }
-      ],
-      "duration_ms": 217487,
-      "name": "One Love (Nobody Else)",
-      "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1563,22 +1583,6 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "The Ladder",
-        "url": "https://open.spotify.com/album/0BnvRhQDmp6pPITNv9jqAs"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 249846,
-      "name": "The Ladder",
-      "url": "https://open.spotify.com/track/1nZu07VvySocuOdQ1jQuUg"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
         "name": "Fading Out",
         "url": "https://open.spotify.com/album/0HrNoFYHg4dNuosyMjmbZy"
       },
@@ -1595,22 +1599,34 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "To Love Again",
-        "url": "https://open.spotify.com/album/72kTximzJov9lBqocYYphE"
+        "name": "The Ladder",
+        "url": "https://open.spotify.com/album/0BnvRhQDmp6pPITNv9jqAs"
       },
       "artists": [
         {
-          "name": "Blonde Maze",
-          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
         }
       ],
-      "duration_ms": 228125,
-      "name": "To Love Again",
-      "url": "https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg"
+      "duration_ms": 249846,
+      "name": "The Ladder",
+      "url": "https://open.spotify.com/track/1nZu07VvySocuOdQ1jQuUg"
+    },
+    {
+      "added_at": "2026-10-16 04:00:50",
+      "album": {
+        "name": "All Is Right",
+        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
+      },
+      "artists": [
+        {
+          "name": "Thysma",
+          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "All Is Right",
+      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1635,38 +1651,22 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "NAKED",
-        "url": "https://open.spotify.com/album/70Hbe2Xp1PgnfkPEkK07L5"
+        "name": "To Love Again",
+        "url": "https://open.spotify.com/album/72kTximzJov9lBqocYYphE"
       },
       "artists": [
         {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+          "name": "Blonde Maze",
+          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
         },
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
         }
       ],
-      "duration_ms": 185714,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6ARNHLoAsHe4Xv1TTKQaYG"
-    },
-    {
-      "added_at": "2026-10-16 04:00:50",
-      "album": {
-        "name": "All Is Right",
-        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
-      },
-      "artists": [
-        {
-          "name": "Thysma",
-          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "All Is Right",
-      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
+      "duration_ms": 228125,
+      "name": "To Love Again",
+      "url": "https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg"
     },
     {
       "added_at": "2026-10-16 04:00:50",
@@ -1919,22 +1919,26 @@
     {
       "added_at": "2026-10-16 04:00:50",
       "album": {
-        "name": "The Thought of You",
-        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
+        "name": "alone",
+        "url": "https://open.spotify.com/album/2dbqZ73x35PhZrEGiDgCXL"
       },
       "artists": [
         {
-          "name": "Blonde Maze",
-          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
         },
         {
-          "name": "James French",
-          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "Robertson",
+          "url": "https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums"
         }
       ],
-      "duration_ms": 262008,
-      "name": "The Thought of You",
-      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
+      "duration_ms": 265408,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ"
     }
   ],
   "unique_name": "Chill Tracks",

@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: kaogaii(\uac00\uc624\uac00\uc774)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221465,
+  "num_followers": 221456,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP4zqigNPMceeIYFa5yDupJahc9d",
+  "snapshot_id": "AAAAAFqeW5iwHZSQwQlmk8Ekl0pFdf8D",
   "tracks": [
     {
       "added_at": "2026-10-15 01:30:34",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-10-15 01:30:34",
       "album": {
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 205999,
+      "name": "Infrared Camera",
+      "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
+    },
+    {
+      "added_at": "2026-10-15 01:30:34",
+      "album": {
         "name": "DAFT LOVE",
         "url": "https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 166026,
       "name": "Breezy~ (feat. BIG Naughty & Kid Milli)",
       "url": "https://open.spotify.com/track/2lJmi3TMCA28VbvXID8HIM"
-    },
-    {
-      "added_at": "2026-10-15 01:30:34",
-      "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 205999,
-      "name": "Infrared Camera",
-      "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
     },
     {
       "added_at": "2026-10-15 01:30:34",
@@ -1267,18 +1267,26 @@
     {
       "added_at": "2026-10-15 01:30:34",
       "album": {
-        "name": "chukchuk (demo)",
-        "url": "https://open.spotify.com/album/0CKAGyVSfkjqQ7cHDIZpO1"
+        "name": "Blow Your Mind",
+        "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
       },
       "artists": [
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "Yorch",
+          "url": "https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
         }
       ],
-      "duration_ms": 191622,
-      "name": "chukchuk - demo",
-      "url": "https://open.spotify.com/track/02T2UJuSftQ5JceWO5GhJd"
+      "duration_ms": 215000,
+      "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
+      "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
     },
     {
       "added_at": "2026-10-15 01:30:34",
@@ -1303,6 +1311,22 @@
     {
       "added_at": "2026-10-15 01:30:34",
       "album": {
+        "name": "chukchuk (demo)",
+        "url": "https://open.spotify.com/album/0CKAGyVSfkjqQ7cHDIZpO1"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 191622,
+      "name": "chukchuk - demo",
+      "url": "https://open.spotify.com/track/02T2UJuSftQ5JceWO5GhJd"
+    },
+    {
+      "added_at": "2026-10-15 01:30:34",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO"
       },
@@ -1319,30 +1343,6 @@
       "duration_ms": 189720,
       "name": "Baby",
       "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
-    },
-    {
-      "added_at": "2026-10-15 01:30:34",
-      "album": {
-        "name": "Blow Your Mind",
-        "url": "https://open.spotify.com/album/1D1qNLuTQCq0jhXCrefnJ9"
-      },
-      "artists": [
-        {
-          "name": "Yorch",
-          "url": "https://open.spotify.com/artist/5okdmXsuAKNIXebXJ5MyIl"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Bryan Chase",
-          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Blow Your Mind (feat. Sik-K, Bryan Chase)",
-      "url": "https://open.spotify.com/track/4XdW9YaG8lXOYXswzxmuEB"
     },
     {
       "added_at": "2026-10-15 01:30:34",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-10-15 01:30:34",
       "album": {
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
+    },
+    {
+      "added_at": "2026-10-15 01:30:34",
+      "album": {
         "name": "6SEOUL",
         "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 186000,
       "name": "PLAYER (feat. Crush)",
       "url": "https://open.spotify.com/track/0aKxRmN8Dv6KAWuYwLbKim"
-    },
-    {
-      "added_at": "2026-10-15 01:30:34",
-      "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "Vancouver",
-      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
     },
     {
       "added_at": "2026-10-15 01:30:34",

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/2wKEplM0fJagFSsFAXGpnD?si=834c32c643624e2d">Love, Tumi</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj?si=00d069521ea54324">vuyo viwe</a>\. Artwork: Isu Kim.
 
 1,541 songs - 3 day 5 hr 12 min
 

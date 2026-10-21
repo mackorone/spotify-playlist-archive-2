@@ -10585,6 +10585,24 @@
     },
     {
       "album": {
+        "name": "Bar N\u00eemes - Primi",
+        "url": "https://open.spotify.com/album/06AGXEqbJ1UENdFc72MHwt"
+      },
+      "artists": [
+        {
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152564,
+      "name": "En sida kvar",
+      "url": "https://open.spotify.com/track/7owM8j72H8DL82iaeKWzfQ"
+    },
+    {
+      "album": {
         "name": "En sista chans",
         "url": "https://open.spotify.com/album/2XNWpmR1BKjvtohL5be22u"
       },
@@ -29276,7 +29294,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 200413,
       "name": "Orden",
       "url": "https://open.spotify.com/track/2aC9qznWCc6EzDkJ07Oo8T"

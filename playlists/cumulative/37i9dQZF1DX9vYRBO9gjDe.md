@@ -2,7 +2,7 @@
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。10月18日付。
+> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。10月19日付。
 
 7,914 songs - 19 day 15 hr 44 min
 
@@ -2437,7 +2437,7 @@
 | [Last Time I Saw You](https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Last Time I Saw You](https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1) | 3:36 | 2023-09-05 | 2023-09-09 |
 | [Last Virgin](https://open.spotify.com/track/6zX46LrWq8DMGhd70ip4h4) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Batsu to Maru to Tsumi to](https://open.spotify.com/album/4akhlx4zsYqDDApjFP38m3) | 5:15 | 2024-02-19 | 2024-02-29 |
 | [lazy cat](https://open.spotify.com/track/4xDqHrsJ7Cb6LgO1UKrvtB) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Under Blue](https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd) | 2:35 | 2024-12-02 | 2024-12-18 |
-| [LA･LA･LA LOVE SONG](https://open.spotify.com/track/2NFKSwzaNKXAqBqlXgeTEo) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput), [Naomi Campbell](https://open.spotify.com/artist/4IKQKM9T5OIshijgLD8ZyK) | [LA･LA･LA LOVE THANG](https://open.spotify.com/album/3sqTfrcrrVXqmquAQ5LqGc) | 4:46 | 2023-05-14 |  |
+| [LA･LA･LA LOVE SONG](https://open.spotify.com/track/2NFKSwzaNKXAqBqlXgeTEo) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput), [Naomi Campbell](https://open.spotify.com/artist/4IKQKM9T5OIshijgLD8ZyK) | [LA･LA･LA LOVE THANG](https://open.spotify.com/album/3sqTfrcrrVXqmquAQ5LqGc) | 4:46 | 2023-05-14 | 2026-10-21 |
 | [LEAP HIGH! 〜明日へ、めいっぱい〜](https://open.spotify.com/track/5M1sJDGYb2r1hT7TL0r59i) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/artist/2JT0j7bIpVTyhyv4h9aEOe) | [LEAP HIGH! 〜明日へ、めいっぱい〜](https://open.spotify.com/album/2mZWhBDmTToNUu0zz6YukM) | 3:27 | 2023-10-17 | 2023-12-20 |
 | [Leave Me Alone](https://open.spotify.com/track/6XqByEYtFrbH2OPwQuGn8q) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 6:03 | 2026-05-11 | 2026-05-14 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:34 | 2023-06-11 | 2024-09-19 |
@@ -5169,7 +5169,7 @@
 | [あぁ、もう。](https://open.spotify.com/track/5HchsPAkAd6oIeTlr2TaaU) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [サニーボトル](https://open.spotify.com/album/6sPrkCZpRlmGIC65Y1mMtO) | 4:44 | 2026-02-23 | 2026-03-03 |
 | [あいうぉん \(feat\. ゆーり, はしメロ\)](https://open.spotify.com/track/7rf2LuOzv2b11zdjskaH2m) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [ゆーり](https://open.spotify.com/artist/5qUT9YBghleRCXg0WifEzf), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [あいうぉん \(feat\. ゆーり, はしメロ\)](https://open.spotify.com/album/301yhonqL3kuPhgSTQp36k) | 2:01 | 2024-09-27 | 2024-09-30 |
 | [あいつの事](https://open.spotify.com/track/3dDRvS2FoYunh0TksYdxSW) | [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [LAST](https://open.spotify.com/album/1QDrgcnHNmh2GhKugETQCz) | 2:58 | 2024-12-02 | 2024-12-03 |
-| [あいつら全員同窓会](https://open.spotify.com/track/7rzoBRR4LbJZH5t7Q6qeTn) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 4:14 | 2025-02-21 | 2026-10-20 |
+| [あいつら全員同窓会](https://open.spotify.com/track/7rzoBRR4LbJZH5t7Q6qeTn) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 4:14 | 2025-02-21 |  |
 | [あいでいて](https://open.spotify.com/track/0XzMfqZiPCBhYwxVsMucAZ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [あいでいて](https://open.spotify.com/album/53YklyrO8bFinY6wDgv8jn) | 3:24 | 2025-11-14 | 2025-11-21 |
 | [あいまいみーまいん](https://open.spotify.com/track/6vxMxfuSw34ylN70IGK54B) | [浪漫派マシュマロ](https://open.spotify.com/artist/0Y2vXzpo1eVUcgIku1UQIn) | [あいまいみーまいん](https://open.spotify.com/album/3kYYem7CalTI1o1r5RnCfF) | 3:36 | 2026-04-17 | 2026-04-24 |
 | [あいるびーばっく feat\. Hiro from MY FIRST STORY](https://open.spotify.com/track/1jcCGgDRrDsma4AXoEcrHW) | [BAK](https://open.spotify.com/artist/1WmnQSoQxUa4x14IWgHCiD), [Hiro from MY FIRST STORY](https://open.spotify.com/artist/7BYZgMC85TULFyMg1KFNZO) | [あいるびーばっく feat\. Hiro from MY FIRST STORY](https://open.spotify.com/album/7sRTzMavhZki7bNQM3ae3s) | 2:58 | 2023-06-23 | 2023-06-26 |
@@ -7539,7 +7539,7 @@
 | [笑門来福](https://open.spotify.com/track/4NiT0LuUmNFNwH5kJNDtzP) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY) | [笑門来福](https://open.spotify.com/album/3hM8ZEVg2OFZ0Qe0hqOK5e) | 3:21 | 2025-02-04 | 2025-02-11 |
 | [笑顔](https://open.spotify.com/track/2xV9yak8TmlqSpmbPKpNZp) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 4:57 | 2026-03-24 | 2026-03-26 |
 | [笑顔が好き](https://open.spotify.com/track/1muxCGtQERNhQ3H6igITPJ) | [V6](https://open.spotify.com/artist/5fFuLHZyw9d28AIVa3pG6h) | [笑顔が好き](https://open.spotify.com/album/3j77ksbPbJqs8e7EHIfap9) | 4:15 | 2025-11-03 | 2025-11-05 |
-| [第ゼロ感](https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 4:46 | 2023-01-31 |  |
+| [第ゼロ感](https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 4:46 | 2023-01-31 | 2026-10-21 |
 | [筆舌](https://open.spotify.com/track/3JGXUsiAlw0FsgWhtBu9bB) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [あにゅー](https://open.spotify.com/album/6FPxMWiR2LQvKDuVU0ifEH) | 5:55 | 2025-10-16 | 2025-12-06 |
 | [管理欲](https://open.spotify.com/track/2iTibkPnKr7CwFvNNNsim7) | [香椎モイミ](https://open.spotify.com/artist/09bfsJNaKxdLPpxiX1kfwZ) | [管理欲](https://open.spotify.com/album/53VqPOXfjB1d01VubOm4Hq) | 2:27 | 2026-04-06 | 2026-04-08 |
 | [箱庭の灯](https://open.spotify.com/track/6XvxmbCjBRAwFzFKcg27Hh) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [箱庭の灯](https://open.spotify.com/album/7kmEI6snJw0yLMjYMmZngQ) | 4:08 | 2024-07-19 | 2024-07-23 |

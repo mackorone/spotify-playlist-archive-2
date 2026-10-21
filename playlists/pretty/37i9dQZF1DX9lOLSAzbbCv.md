@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 
 > Хіти українського репу\. Обкладинка: МС Петя
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,695 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,698 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Я Канівес](https://open.spotify.com/track/3SfhVeb6ZD943m8nCITwJV) | [Третя Штурмова](https://open.spotify.com/artist/5PchdBWAnESzmi6rBbxq4M), [MC Петя](https://open.spotify.com/artist/1SchPhijfagZ6C1yQcvqd6) | [Я Канівес](https://open.spotify.com/album/2Jjbvg2jtLXSDBAAL1j4Ih) | 2:12 |
+| 1 | [Я Канівес](https://open.spotify.com/track/3SfhVeb6ZD943m8nCITwJV) | [Трійка](https://open.spotify.com/artist/5PchdBWAnESzmi6rBbxq4M), [MC Петя](https://open.spotify.com/artist/1SchPhijfagZ6C1yQcvqd6) | [Я Канівес](https://open.spotify.com/album/2Jjbvg2jtLXSDBAAL1j4Ih) | 2:12 |
 | 2 | [в темноті](https://open.spotify.com/track/5meoORfKXycfF87Hg03tRl) | [askwhen](https://open.spotify.com/artist/0GsArlDO65z8mj3McTCliI), [The Budchuk](https://open.spotify.com/artist/0uGzb9yQNvlHef5jl7JDZ9) | [в темноті](https://open.spotify.com/album/6iHQ5zZ0zrH3a0fsyMgU0M) | 3:02 |
 | 3 | [Діагноз](https://open.spotify.com/track/4CU3FhBlhrhPRp3san9ItE) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [Діагноз](https://open.spotify.com/album/4Tynh5zCGW9Kuv7Oxh4BHq) | 2:48 |
 | 4 | [Вбий свою голову](https://open.spotify.com/track/4qtgY1FiTUE58SYqu3j594) | [рома майк](https://open.spotify.com/artist/7pvzcDzXjFcXK40r9yzBiY) | [Не в тому Rich](https://open.spotify.com/album/6q4tz51g0C7oBwRoW9mDAR) | 2:36 |
 | 5 | [Мені казали](https://open.spotify.com/track/7c9n2FuYWbgFg5mhkQpN7n) | [Freel](https://open.spotify.com/artist/5S5NJWLABOEivRPTrcqVgd) | [Мені казали](https://open.spotify.com/album/2IDDZQqpK48lIG8chHOfQk) | 2:30 |
-| 6 | [4III](https://open.spotify.com/track/3UlZggmTqzS80UBz9TTxqK) | [Третя Штурмова](https://open.spotify.com/artist/5PchdBWAnESzmi6rBbxq4M), [BRATSKE KOLO](https://open.spotify.com/artist/030kSGsAHwqgPEzWXZAP2R) | [4III](https://open.spotify.com/album/2tHPCGdVd2DA42fWvFDgoM) | 3:22 |
+| 6 | [4III](https://open.spotify.com/track/3UlZggmTqzS80UBz9TTxqK) | [Трійка](https://open.spotify.com/artist/5PchdBWAnESzmi6rBbxq4M), [BRATSKE KOLO](https://open.spotify.com/artist/030kSGsAHwqgPEzWXZAP2R) | [4III](https://open.spotify.com/album/2tHPCGdVd2DA42fWvFDgoM) | 3:22 |
 | 7 | [Lifestyle](https://open.spotify.com/track/7CiCljQJePGJH61prawDHC) | [MANY](https://open.spotify.com/artist/0JsbG8WDvKgbZ1VPm6ybEO) | [Lifestyle](https://open.spotify.com/album/2aqdm8CGXElrg8FC73iN4M) | 2:21 |
 | 8 | [До сонця](https://open.spotify.com/track/3SwYwEcZ0wL8OYy8lYieyd) | [Santorin](https://open.spotify.com/artist/1SYBAu2JCuPBGo30N5sX7Q) | [До сонця](https://open.spotify.com/album/4Jb6imadoeIcwrBxkbAaqw) | 3:12 |
 | 9 | [Все Це Колись Мине](https://open.spotify.com/track/4cFJ3xSXkZbAshcmSQzbio) | [Sasha Chemerov](https://open.spotify.com/artist/6EkxNdVClS3VI3zVWbDch9), [Hidden Element](https://open.spotify.com/artist/07HMFXUTyJBf7XRsSCNIrk) | [Все Це Колись Мине](https://open.spotify.com/album/62CBlUJOIAkDN1mmlkZDvH) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 | 49 | [ГАДДЕМІТ](https://open.spotify.com/track/4OX375hbVOIIYYOVKqGWKO) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [ГАДДЕМІТ](https://open.spotify.com/album/1yg8JJLkBXE93Y6dDya9Tr) | 2:31 |
 | 50 | [Марічка](https://open.spotify.com/track/2WoksKIDPQ8o90cqDbgE7L) | [Patsyki Z Franeka](https://open.spotify.com/artist/0fB3vIwNC9q3MCIBugQ5o9) | [Марічка](https://open.spotify.com/album/2vuy3wk0EUUUPJejUuAF43) | 3:26 |
 
-Snapshot ID: `AAAAAEBiScUdCbHkUtHm+2nxuN1BN40z`
+Snapshot ID: `AAAAAESj8iYd3QWlkRwF9V/Y2oQKghg7`

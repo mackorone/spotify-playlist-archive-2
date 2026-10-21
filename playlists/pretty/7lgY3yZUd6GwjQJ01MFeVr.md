@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music! Cover: Cameron Whitcomb, Zach Bryan &amp; Cody Johnson
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,482 likes - 146 songs - 7 hr 40 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,483 likes - 148 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,5 +154,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 144 | [Raining Inside](https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Pink Pocket Pistol](https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v) | 3:40 |
 | 145 | [Marry You Again](https://open.spotify.com/track/7GW3ySPXF49BKJ6HQQ1FiJ) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Marry You Again](https://open.spotify.com/album/0d8GtPFvul3BhoSAvT98ID) | 3:06 |
 | 146 | [Hard Liquor](https://open.spotify.com/track/3X5AFec3grDuQGGjkdBjPT) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Hard Liquor](https://open.spotify.com/album/5vrWuDMShk9otf2NPFh8N5) | 2:40 |
+| 147 | [Lodi When](https://open.spotify.com/track/1mzJsnHWXIthrJQKwe8Yci) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Young Manhood and Other Donatable Organs](https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u) | 3:56 |
+| 148 | [Robot Killed The Working Man](https://open.spotify.com/track/5RFAHNlIOFW4zitMltbOBI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Young Manhood and Other Donatable Organs](https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u) | 4:35 |
 
-Snapshot ID: `AAAf5pcjSEE5Hfl6o0VTW2bt30h6KlZc`
+Snapshot ID: `AAAf6Ee0qcET0S2YYFFLgF2dixVi4NY/`

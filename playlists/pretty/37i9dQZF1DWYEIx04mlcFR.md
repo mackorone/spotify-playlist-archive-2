@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con EMJAY en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,402 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,401 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 3 | [Cuando La Besas](https://open.spotify.com/track/3qQmHrQQlAXd9UqqOfH09R) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Cuando La Besas](https://open.spotify.com/album/4aRG8e7FvSWelTvmE7I3Gq) | 3:46 |
 | 4 | [herida](https://open.spotify.com/track/4ciDfbeWFzTWysIMj406Lc) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [herida](https://open.spotify.com/album/1KGxflnzWJqRuXLMgOPqzo) | 2:31 |
 | 5 | [los putos robots](https://open.spotify.com/track/1QQK4kthVUCmo190CrqjqX) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [los putos robots](https://open.spotify.com/album/4VDVTz2f5kPvJYUOR8iZ0U) | 3:27 |
-| 6 | [amapola](https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [amapola](https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx) | 3:00 |
+| 6 | [amapola](https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m) | [maia reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [amapola](https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx) | 3:00 |
 | 7 | [superstar](https://open.spotify.com/track/3R6AF7X5xaJOce04wRvV4c) | [bri!!o](https://open.spotify.com/artist/26htoE4F3CuVTp2MFG1sSN) | [BRILLO COMO SUPERSTAR](https://open.spotify.com/album/6bvXuE8s1RpkOB0wwPQzci) | 2:55 |
 | 8 | [Celibato](https://open.spotify.com/track/4UbOCSASPnm7PWdfsrkrTe) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Celibato](https://open.spotify.com/album/4527PtwkeZ42bE6g5on6mr) | 2:42 |
 | 9 | [filo](https://open.spotify.com/track/7ohCuIYhXzHYCetS2kSQQv) | [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv) | [filo](https://open.spotify.com/album/6hUPD4zsXSEwQCOWeoBHjv) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 49 | [Me gustas 1.1](https://open.spotify.com/track/2rt28dAHQibVUP6fQuTDRP) | [Jacqueline Prochet](https://open.spotify.com/artist/16e8iY0aAVoNzaV1sG4rKr) | [Creo que siempre te voy a querer](https://open.spotify.com/album/6mVUmMSwfxGdkEQUwXUNuR) | 2:52 |
 | 50 | [Estás DISTANTE](https://open.spotify.com/track/6tYwbdJWWrHo1l7OrymbUS) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo) | [DISTANTE & tarde !!!](https://open.spotify.com/album/2EYql05GEvhAARlphRH6xH) | 3:02 |
 
-Snapshot ID: `AAAAADm99wq65S4NS5RcfqoWL3A7DpcT`
+Snapshot ID: `AAAAAEXCPJZcSeeuvky5rjZTgFrRZ39I`

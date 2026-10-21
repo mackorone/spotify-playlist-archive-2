@@ -1,12 +1,12 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 35194,
+  "num_followers": 35197,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALs/a9yfX8q7ce4P/ZnswIq08Dv4",
+  "snapshot_id": "AAAAANYOuQLxGXlYzV06SLWSw0kUozKQ",
   "tracks": [
     {
       "added_at": "2026-10-02 08:14:11",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "10 situazioni",
-        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
-      },
-      "artists": [
-        {
-          "name": "Sestetto Dino Piana & Oscar Valdambrini",
-          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
-        }
-      ],
-      "duration_ms": 167694,
-      "name": "Omaca",
-      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Milestones - Un Incontro In Jazz",
         "url": "https://open.spotify.com/album/7CvHJLd6qmyVhoIRnwlbNQ"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Vacation and Probation",
-        "url": "https://open.spotify.com/album/3xZeHsf0cMMvI2EXx8F4yv"
+        "name": "10 situazioni",
+        "url": "https://open.spotify.com/album/5HjQjM3FqZJPcFmlA4wfht"
       },
       "artists": [
         {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+          "name": "Sestetto Dino Piana & Oscar Valdambrini",
+          "url": "https://open.spotify.com/artist/5Fks3bjzF9cMXYsUbJGK48"
         }
       ],
-      "duration_ms": 154480,
-      "name": "Vacation and Probation",
-      "url": "https://open.spotify.com/track/0dTH4fsHjj5fG9yvzco2J7"
+      "duration_ms": 167694,
+      "name": "Omaca",
+      "url": "https://open.spotify.com/track/3xqbdVPULGQjcxnNmWpTNd"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -939,6 +923,22 @@
       "duration_ms": 233160,
       "name": "Ziza",
       "url": "https://open.spotify.com/track/6WdTIDGuebUIlkQsWPJZpr"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Vacation and Probation",
+        "url": "https://open.spotify.com/album/3xZeHsf0cMMvI2EXx8F4yv"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 154480,
+      "name": "Vacation and Probation",
+      "url": "https://open.spotify.com/track/0dTH4fsHjj5fG9yvzco2J7"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
-      },
-      "artists": [
-        {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 245200,
       "name": "Southern Dub",
       "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
+      },
+      "artists": [
+        {
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1731,38 +1731,6 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "New York Days",
-        "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
-      },
-      "artists": [
-        {
-          "name": "Enrico Rava",
-          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
-        },
-        {
-          "name": "Stefano Bollani",
-          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
-        },
-        {
-          "name": "Mark Turner",
-          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
-        },
-        {
-          "name": "Larry Grenadier",
-          "url": "https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV"
-        },
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        }
-      ],
-      "duration_ms": 653973,
-      "name": "Certi angoli segreti",
-      "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
-    },
-    {
-      "added_at": "2026-10-02 08:14:11",
-      "album": {
         "name": "Freaky People",
         "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
       },
@@ -1795,18 +1763,34 @@
     {
       "added_at": "2026-10-02 08:14:11",
       "album": {
-        "name": "Mister Magic",
-        "url": "https://open.spotify.com/album/3KazG335xSdg28ntQU1XsJ"
+        "name": "New York Days",
+        "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
       },
       "artists": [
         {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "Stefano Bollani",
+          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
+        },
+        {
+          "name": "Mark Turner",
+          "url": "https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP"
+        },
+        {
+          "name": "Larry Grenadier",
+          "url": "https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
         }
       ],
-      "duration_ms": 221660,
-      "name": "Mister Magic",
-      "url": "https://open.spotify.com/track/4rpPAx8ukinniDROqa7GGG"
+      "duration_ms": 653973,
+      "name": "Certi angoli segreti",
+      "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
     },
     {
       "added_at": "2026-10-02 08:14:11",
@@ -1839,6 +1823,22 @@
       "duration_ms": 377930,
       "name": "Tempo al Tempo",
       "url": "https://open.spotify.com/track/5fJPhL4bpFTElmkDwjaOME"
+    },
+    {
+      "added_at": "2026-10-02 08:14:11",
+      "album": {
+        "name": "Mister Magic",
+        "url": "https://open.spotify.com/album/3KazG335xSdg28ntQU1XsJ"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 221660,
+      "name": "Mister Magic",
+      "url": "https://open.spotify.com/track/4rpPAx8ukinniDROqa7GGG"
     },
     {
       "added_at": "2026-10-02 08:14:11",

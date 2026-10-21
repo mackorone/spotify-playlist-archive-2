@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: GREY D
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,455 likes - 32 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,460 likes - 32 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 | 31 | [Dịu Dàng Dịu Dàng](https://open.spotify.com/track/1Ey8kzGN2TJyjkiPvBUQ5s) | [Ái Phương](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Dịu Dàng Dịu Dàng](https://open.spotify.com/album/63tLvLUbTrK3dt61ly72UH) | 2:59 |
 | 32 | [Nói Cho Anh Nghe \(feat\. Chi Xê\)](https://open.spotify.com/track/7908yltwq4c9TZ0RpmsBCF) | [Truant Fu](https://open.spotify.com/artist/59ZFr32z5JkuNsVkB2KCPb), [Chi Xê](https://open.spotify.com/artist/3TInd7W6K9AZ6lKYA3dviJ) | [Nói Cho Anh Nghe \(feat\. Chi Xê\)](https://open.spotify.com/album/2czKWJZHbQocH6wNoPOIJU) | 2:37 |
 
-Snapshot ID: `AAAAAEkLLNHOkcV9Ry3HMCsd6GX++CVZ`
+Snapshot ID: `AAAAAAVFV17iy1UUHnztcE1UpodsaYY+`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 
 > The sweetest bops\. Cover: no na
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,723 likes - 65 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,752 likes - 65 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [party in the +62](https://open.spotify.com/track/4AQX2lTPY1H7x473fjCzIt) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [island girl](https://open.spotify.com/album/3SqmsePfS5FsfyrqzREGfR) | 2:26 |
-| 2 | [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 |
+| 2 | [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 |
 | 3 | [SUN KISS](https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy) | [TUIDE](https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf) | [TUNE & PLAY](https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN) | 3:01 |
 | 4 | [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 |
 | 5 | [Made My Night](https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night](https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt) | 2:06 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZlwhy05h4Og.md) - [plain]
 | 64 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 65 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 |
 
-Snapshot ID: `AAAAAEIyV/N45ApYoQjnAQtnOySokolm`
+Snapshot ID: `AAAAAIJY9EXgfT8f1zAVw52I3tc5+UBW`

@@ -138,7 +138,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 218600,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/2ASddVW0JXCecLbOcXrNV3"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 178031,
       "name": "Brooklyn Heights",
       "url": "https://open.spotify.com/track/3RRh8g2tpQESZQO2LrzsA1"
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 266733,
       "name": "Crashing Down - Bonus Track 1",
       "url": "https://open.spotify.com/track/4PCpR3RuHIzSuzY6WQ464d"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 182833,
       "name": "Days Of Your Lifetime",
       "url": "https://open.spotify.com/track/0S7aEe4H8ppreRlcZ5DSbX"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 179288,
       "name": "Fame For President",
       "url": "https://open.spotify.com/track/4eRfNBuj4EyOmGHvvPmTsd"
@@ -2240,7 +2240,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 168364,
       "name": "Hero",
       "url": "https://open.spotify.com/track/6yTv6yhbPdR013Ag4WyJ3u"
@@ -2274,7 +2274,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 270875,
       "name": "Hip Hop Hooligans",
       "url": "https://open.spotify.com/track/3Nbg69ywb43cwO3TmZ6oSs"
@@ -2888,6 +2888,32 @@
       "duration_ms": 184178,
       "name": "Life Music",
       "url": "https://open.spotify.com/track/5vUAkIte24KEoS1tFBQ4EY"
+    },
+    {
+      "album": {
+        "name": "Richmond Hill (Instrumentals)",
+        "url": "https://open.spotify.com/album/3uLKCsb0ArKgZU0gNR5LvZ"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185249,
+      "name": "Life Music - Instrumental",
+      "url": "https://open.spotify.com/track/7l4jxQOFSW6q9dHtxgz5y7"
     },
     {
       "album": {
@@ -4960,7 +4986,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 221933,
       "name": "Time & Place",
       "url": "https://open.spotify.com/track/4e2MPdX2X0deixujuRp1RT"
@@ -5160,7 +5186,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 150786,
       "name": "What Is The Question",
       "url": "https://open.spotify.com/track/4aBGO8mF1pJhdmzvy7S7ro"

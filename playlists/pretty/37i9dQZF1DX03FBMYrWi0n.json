@@ -1,12 +1,12 @@
 {
   "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Nectar Palace",
-  "num_followers": 10221,
+  "num_followers": 10224,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ1kMNss3UxgVoSXZ3tbHAQeowKd",
+  "snapshot_id": "AAAAAGtCu8kXj15691zzl0gEKMOUIU+s",
   "tracks": [
     {
       "added_at": "2026-10-16 04:03:11",
@@ -331,18 +331,18 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "half smile",
-        "url": "https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A"
+        "name": "Bon Enfant",
+        "url": "https://open.spotify.com/album/1P7IsjNlc4iV1uVnkswe7a"
       },
       "artists": [
         {
-          "name": "Hockitay",
-          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
         }
       ],
-      "duration_ms": 228240,
-      "name": "half smile",
-      "url": "https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk"
+      "duration_ms": 270174,
+      "name": "Magie",
+      "url": "https://open.spotify.com/track/75bADfbznyB12DPm6Ggn2K"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -363,18 +363,18 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "Bon Enfant",
-        "url": "https://open.spotify.com/album/1P7IsjNlc4iV1uVnkswe7a"
+        "name": "half smile",
+        "url": "https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A"
       },
       "artists": [
         {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
         }
       ],
-      "duration_ms": 270174,
-      "name": "Magie",
-      "url": "https://open.spotify.com/track/75bADfbznyB12DPm6Ggn2K"
+      "duration_ms": 228240,
+      "name": "half smile",
+      "url": "https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -395,18 +395,18 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "higher! higher! (for Paul)",
-        "url": "https://open.spotify.com/album/7sZvaGDXY06bTVO9gK5BkQ"
+        "name": "La fin",
+        "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
       },
       "artists": [
         {
-          "name": "nowhere else to be",
-          "url": "https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw"
+          "name": "Grace of Arc",
+          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
         }
       ],
-      "duration_ms": 168110,
-      "name": "higher! higher! (for Paul)",
-      "url": "https://open.spotify.com/track/2lL1H5ZW8MxFYAylEKDHjg"
+      "duration_ms": 220493,
+      "name": "La fin",
+      "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "La fin",
-        "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
-      },
-      "artists": [
-        {
-          "name": "Grace of Arc",
-          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "La fin",
-      "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
         "name": "t.o.m. ou la trajectoire des pers\u00e9ides",
         "url": "https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 219800,
       "name": "l'avenir et moi",
       "url": "https://open.spotify.com/track/1QOlHb6o44ke1EYGTmGn1s"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "higher! higher! (for Paul)",
+        "url": "https://open.spotify.com/album/7sZvaGDXY06bTVO9gK5BkQ"
+      },
+      "artists": [
+        {
+          "name": "nowhere else to be",
+          "url": "https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw"
+        }
+      ],
+      "duration_ms": 168110,
+      "name": "higher! higher! (for Paul)",
+      "url": "https://open.spotify.com/track/2lL1H5ZW8MxFYAylEKDHjg"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
+        "name": "Tastes like Filth",
+        "url": "https://open.spotify.com/album/2T7AmwXtrQaIssOzS50HsC"
+      },
+      "artists": [
+        {
+          "name": "Beautiful Hotnes",
+          "url": "https://open.spotify.com/artist/3O7qHWRBG6Z6jlYMgYDXWD"
+        }
+      ],
+      "duration_ms": 139570,
+      "name": "Dah Bahs",
+      "url": "https://open.spotify.com/track/2LD4nLt5XuNcuvuEX3bmKz"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
         "name": "BASS WOMB ROOM: My \u201890s 4-Track Demos x Field Recordings",
         "url": "https://open.spotify.com/album/6fjU91qQwCfo7tlQ2yQx8p"
       },
@@ -871,26 +887,6 @@
       "duration_ms": 152481,
       "name": "RICH!",
       "url": "https://open.spotify.com/track/034J9CitLjXmZZSqZhY1VK"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
-        "name": "infinite money glitch",
-        "url": "https://open.spotify.com/album/49mZnQbpDD6NM58ZVG8gIa"
-      },
-      "artists": [
-        {
-          "name": "Peypo",
-          "url": "https://open.spotify.com/artist/7D7yN2p2MviPXKWhem5dNc"
-        },
-        {
-          "name": ".ape",
-          "url": "https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju"
-        }
-      ],
-      "duration_ms": 107540,
-      "name": "29",
-      "url": "https://open.spotify.com/track/0KWEkdgat6KgL7P64D1Z0Y"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -927,34 +923,22 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "Tastes like Filth",
-        "url": "https://open.spotify.com/album/2T7AmwXtrQaIssOzS50HsC"
+        "name": "infinite money glitch",
+        "url": "https://open.spotify.com/album/49mZnQbpDD6NM58ZVG8gIa"
       },
       "artists": [
         {
-          "name": "Beautiful Hotnes",
-          "url": "https://open.spotify.com/artist/3O7qHWRBG6Z6jlYMgYDXWD"
-        }
-      ],
-      "duration_ms": 139570,
-      "name": "Dah Bahs",
-      "url": "https://open.spotify.com/track/2LD4nLt5XuNcuvuEX3bmKz"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
-        "name": "Doldrums, Doldrums, Eviler Than the Devil",
-        "url": "https://open.spotify.com/album/2vacwkvhTf36j9UIbxkONL"
-      },
-      "artists": [
+          "name": "Peypo",
+          "url": "https://open.spotify.com/artist/7D7yN2p2MviPXKWhem5dNc"
+        },
         {
-          "name": "Yoo Doo Right",
-          "url": "https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW"
+          "name": ".ape",
+          "url": "https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju"
         }
       ],
-      "duration_ms": 367386,
-      "name": "Doldrums, Doldrums, Eviler Than the Devil",
-      "url": "https://open.spotify.com/track/21B5u01vKRfYXg8jQqrO2g"
+      "duration_ms": 107540,
+      "name": "29",
+      "url": "https://open.spotify.com/track/0KWEkdgat6KgL7P64D1Z0Y"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -975,6 +959,22 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
+        "name": "Doldrums, Doldrums, Eviler Than the Devil",
+        "url": "https://open.spotify.com/album/2vacwkvhTf36j9UIbxkONL"
+      },
+      "artists": [
+        {
+          "name": "Yoo Doo Right",
+          "url": "https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW"
+        }
+      ],
+      "duration_ms": 367386,
+      "name": "Doldrums, Doldrums, Eviler Than the Devil",
+      "url": "https://open.spotify.com/track/21B5u01vKRfYXg8jQqrO2g"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
         "name": "Symphonie publicitaire sous influence",
         "url": "https://open.spotify.com/album/2TpxfjXkxMIsmpIUeFd6cw"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 160866,
       "name": "2h15",
       "url": "https://open.spotify.com/track/0JYHRy1wawAjPTox171Rt6"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
-        "name": "across the line",
-        "url": "https://open.spotify.com/album/5BYIa7vnIZKaBPeP63VyDH"
-      },
-      "artists": [
-        {
-          "name": "nowhere else to be",
-          "url": "https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw"
-        }
-      ],
-      "duration_ms": 213740,
-      "name": "across the line",
-      "url": "https://open.spotify.com/track/1HAcWxQUHS5iKhAjW41XH6"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "M\u00e9t\u00e9ore",
-        "url": "https://open.spotify.com/album/1ZsojG5afqwXS0Nj6ZazDC"
+        "name": "across the line",
+        "url": "https://open.spotify.com/album/5BYIa7vnIZKaBPeP63VyDH"
       },
       "artists": [
         {
-          "name": "Lewis Dice",
-          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
+          "name": "nowhere else to be",
+          "url": "https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw"
         }
       ],
-      "duration_ms": 137379,
-      "name": "M\u00e9t\u00e9ore",
-      "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
+      "duration_ms": 213740,
+      "name": "across the line",
+      "url": "https://open.spotify.com/track/1HAcWxQUHS5iKhAjW41XH6"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1055,6 +1039,22 @@
       "duration_ms": 255333,
       "name": "Lisbonne",
       "url": "https://open.spotify.com/track/4xo1V1DvrBvgrgizr5b2m0"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "M\u00e9t\u00e9ore",
+        "url": "https://open.spotify.com/album/1ZsojG5afqwXS0Nj6ZazDC"
+      },
+      "artists": [
+        {
+          "name": "Lewis Dice",
+          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
+        }
+      ],
+      "duration_ms": 137379,
+      "name": "M\u00e9t\u00e9ore",
+      "url": "https://open.spotify.com/track/6cQZr8TWFyf36sQE7yM4Ld"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1091,18 +1091,22 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "Got It Bad",
-        "url": "https://open.spotify.com/album/1XjiogaRYttwHOaA0Y6QEd"
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t"
       },
       "artists": [
         {
-          "name": "Nicholas Cangiano",
-          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
+        },
+        {
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
         }
       ],
-      "duration_ms": 108136,
-      "name": "Got It Bad",
-      "url": "https://open.spotify.com/track/6g637SZdJY7UM0kqFSu94k"
+      "duration_ms": 238983,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1123,22 +1127,18 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/1NxSaYXzNFn0sg53ZhSa6t"
+        "name": "Got It Bad",
+        "url": "https://open.spotify.com/album/1XjiogaRYttwHOaA0Y6QEd"
       },
       "artists": [
         {
-          "name": "La Force",
-          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
-        },
-        {
-          "name": "Unessential Oils",
-          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+          "name": "Nicholas Cangiano",
+          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
         }
       ],
-      "duration_ms": 238983,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/5WvotXJOlAi5KsonjA5Pwl"
+      "duration_ms": 108136,
+      "name": "Got It Bad",
+      "url": "https://open.spotify.com/track/6g637SZdJY7UM0kqFSu94k"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1171,6 +1171,22 @@
       "duration_ms": 164240,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/30rmOWu5OHa9uP6nw8wRhJ"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "Attendre - mstr 01",
+        "url": "https://open.spotify.com/album/68WOAV6KPFZQj3z1f9YZ0Y"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Hunt",
+          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
+        }
+      ],
+      "duration_ms": 357013,
+      "name": "Attendre - mstr 01",
+      "url": "https://open.spotify.com/track/0EdGzrAXzvOaBXGB5NjI41"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1223,6 +1239,22 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
+        "name": "Kathleen",
+        "url": "https://open.spotify.com/album/0320GwlmSLBxrV80JSA2CL"
+      },
+      "artists": [
+        {
+          "name": "SOMET",
+          "url": "https://open.spotify.com/artist/37pNkcmGemurl5LhkDwjak"
+        }
+      ],
+      "duration_ms": 270461,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/4X1GOBjOLKUc90poQMT0eX"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
         "name": "Good Sport",
         "url": "https://open.spotify.com/album/0UZd74pAgp2NFl8b2nBpYm"
       },
@@ -1255,22 +1287,6 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/4WVRH77DCjp3xXHnge5FPu"
-      },
-      "artists": [
-        {
-          "name": "Joseph Lorange",
-          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
-        }
-      ],
-      "duration_ms": 118309,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/4DOZysitSgJCJ9C1XoDHA5"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
         "name": "Unessential Oils",
         "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
       },
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "Kathleen",
-        "url": "https://open.spotify.com/album/0320GwlmSLBxrV80JSA2CL"
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/4WVRH77DCjp3xXHnge5FPu"
       },
       "artists": [
         {
-          "name": "SOMET",
-          "url": "https://open.spotify.com/artist/37pNkcmGemurl5LhkDwjak"
+          "name": "Joseph Lorange",
+          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
         }
       ],
-      "duration_ms": 270461,
-      "name": "Kathleen",
-      "url": "https://open.spotify.com/track/4X1GOBjOLKUc90poQMT0eX"
+      "duration_ms": 118309,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4DOZysitSgJCJ9C1XoDHA5"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1315,22 +1331,6 @@
       "duration_ms": 235613,
       "name": "Les vagues",
       "url": "https://open.spotify.com/track/1bahlqlm8z6G0L1fIyQ2w6"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
-        "name": "Attendre - mstr 01",
-        "url": "https://open.spotify.com/album/68WOAV6KPFZQj3z1f9YZ0Y"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Hunt",
-          "url": "https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2"
-        }
-      ],
-      "duration_ms": 357013,
-      "name": "Attendre - mstr 01",
-      "url": "https://open.spotify.com/track/0EdGzrAXzvOaBXGB5NjI41"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "Since I Told You How I Feel",
-        "url": "https://open.spotify.com/album/6mt59xQ927BXwp7MTfe3Z1"
-      },
-      "artists": [
-        {
-          "name": "2120",
-          "url": "https://open.spotify.com/artist/0VsoloLwSIiLZ3AeoYjWSR"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Since I Told You How I Feel",
-      "url": "https://open.spotify.com/track/2kTDrTqg7lAzShydspX4Ib"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
         "name": "Moindre Mal",
         "url": "https://open.spotify.com/album/0VxQ4mEKzj1WmMZmCYPyuL"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 209838,
       "name": "Effigie",
       "url": "https://open.spotify.com/track/1R1r4Ki69qkng1gkXv46eR"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "Since I Told You How I Feel",
+        "url": "https://open.spotify.com/album/6mt59xQ927BXwp7MTfe3Z1"
+      },
+      "artists": [
+        {
+          "name": "2120",
+          "url": "https://open.spotify.com/artist/0VsoloLwSIiLZ3AeoYjWSR"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Since I Told You How I Feel",
+      "url": "https://open.spotify.com/track/2kTDrTqg7lAzShydspX4Ib"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
+        "name": "PROTOTYPE",
+        "url": "https://open.spotify.com/album/4l0IEz2k1Lb3RfmbbZ681o"
+      },
+      "artists": [
+        {
+          "name": "Madior",
+          "url": "https://open.spotify.com/artist/3cdwLYdGtZInbXDeKrFy2b"
+        }
+      ],
+      "duration_ms": 136470,
+      "name": "PROTOTYPE",
+      "url": "https://open.spotify.com/track/4ncsO7T7LmoFHMYoKwmKJr"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
         "name": "I Got A Pill",
         "url": "https://open.spotify.com/album/1K5KVqfWsvPizNr2J6RHhA"
       },
@@ -1447,18 +1463,18 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "PROTOTYPE",
-        "url": "https://open.spotify.com/album/4l0IEz2k1Lb3RfmbbZ681o"
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/6cdUcv8WVnmOPY3L9LBeFo"
       },
       "artists": [
         {
-          "name": "Madior",
-          "url": "https://open.spotify.com/artist/3cdwLYdGtZInbXDeKrFy2b"
+          "name": "Lewis Dice",
+          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
         }
       ],
-      "duration_ms": 136470,
-      "name": "PROTOTYPE",
-      "url": "https://open.spotify.com/track/4ncsO7T7LmoFHMYoKwmKJr"
+      "duration_ms": 171455,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/3OEQakVwazPEzEMz6UvPYP"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1495,38 +1511,6 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/6cdUcv8WVnmOPY3L9LBeFo"
-      },
-      "artists": [
-        {
-          "name": "Lewis Dice",
-          "url": "https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea"
-        }
-      ],
-      "duration_ms": 171455,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/3OEQakVwazPEzEMz6UvPYP"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
-        "name": "So Smart",
-        "url": "https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ"
-      },
-      "artists": [
-        {
-          "name": "Magi Merlin",
-          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
-        }
-      ],
-      "duration_ms": 169431,
-      "name": "So Smart",
-      "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
-    },
-    {
-      "added_at": "2026-10-16 04:03:11",
-      "album": {
         "name": "you left me alone",
         "url": "https://open.spotify.com/album/1PvBVr8Z7zaeZHzQq3EXBo"
       },
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/6SjdcfhxNxeeweKfbmLnWc"
+        "name": "So Smart",
+        "url": "https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ"
       },
       "artists": [
         {
-          "name": "bombe",
-          "url": "https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ"
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
         }
       ],
-      "duration_ms": 177000,
-      "name": "l'amour aux temps des samoura\u00efs",
-      "url": "https://open.spotify.com/track/1LRSwBWbPzKuErSvgxDASg"
+      "duration_ms": 169431,
+      "name": "So Smart",
+      "url": "https://open.spotify.com/track/5rV446j06aqas9T74HHBfE"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2026-10-16 04:03:11",
       "album": {
-        "name": "Alfa Romeo",
-        "url": "https://open.spotify.com/album/69Ve5JWbx0O6oIBAJQc62M"
+        "name": "un",
+        "url": "https://open.spotify.com/album/6SjdcfhxNxeeweKfbmLnWc"
       },
       "artists": [
         {
-          "name": "Wizaard",
-          "url": "https://open.spotify.com/artist/1z4KX6U3ieDwUjKDwMz4IK"
+          "name": "bombe",
+          "url": "https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ"
         }
       ],
-      "duration_ms": 170188,
-      "name": "Alfa Romeo",
-      "url": "https://open.spotify.com/track/61JgdSbCnw1XDM95DZOh3u"
+      "duration_ms": 177000,
+      "name": "l'amour aux temps des samoura\u00efs",
+      "url": "https://open.spotify.com/track/1LRSwBWbPzKuErSvgxDASg"
     },
     {
       "added_at": "2026-10-16 04:03:11",
@@ -1623,6 +1607,22 @@
       "duration_ms": 199278,
       "name": "octobre, encore",
       "url": "https://open.spotify.com/track/2cCeOGVRK2dnJ9G5TQvH7u"
+    },
+    {
+      "added_at": "2026-10-16 04:03:11",
+      "album": {
+        "name": "Alfa Romeo",
+        "url": "https://open.spotify.com/album/69Ve5JWbx0O6oIBAJQc62M"
+      },
+      "artists": [
+        {
+          "name": "Wizaard",
+          "url": "https://open.spotify.com/artist/1z4KX6U3ieDwUjKDwMz4IK"
+        }
+      ],
+      "duration_ms": 170188,
+      "name": "Alfa Romeo",
+      "url": "https://open.spotify.com/track/61JgdSbCnw1XDM95DZOh3u"
     },
     {
       "added_at": "2026-10-16 04:03:11",

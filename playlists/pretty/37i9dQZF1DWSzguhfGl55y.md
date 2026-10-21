@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > In Gedenken an XATAR 🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,568 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,578 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [...Hab' gehört...](https://open.spotify.com/track/4hAGWRdmxSyi1NEfhgSO61) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Samy Deluxe](https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx) | 3:45 |
 | 50 | [Ladies & Gentlemen](https://open.spotify.com/track/0UKJzXJ7ffg6kHguTEAVfr) | [Dynamite Deluxe](https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u) | [Deluxe Soundsystem](https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL) | 3:46 |
 
-Snapshot ID: `AAAAALkS1/DCtbn6ZJP8scIDx4GTP44c`
+Snapshot ID: `AAAAAOrXQfXme63DTq9IC/6XLba51at4`

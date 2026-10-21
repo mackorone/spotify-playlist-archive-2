@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 809892,
+  "num_followers": 809887,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ8EnRII0msluvS7LTvPeJ+JXK91",
+  "snapshot_id": "AAAAAIJVMnd8A83rA3BMu6tfwZE2++Qb",
   "tracks": [
     {
       "added_at": "2026-10-09 17:07:23",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2026-10-09 17:07:23",
       "album": {
+        "name": "Saudade Demais",
+        "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
+      },
+      "artists": [
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        },
+        {
+          "name": "Sanny Alves",
+          "url": "https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Isabel Tchau",
+      "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
+    },
+    {
+      "added_at": "2026-10-09 17:07:23",
+      "album": {
         "name": "A Morte de um Deus de Sal",
         "url": "https://open.spotify.com/album/019T33OgzsIGyamxapvv6V"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 203810,
       "name": "A Morte de um Deus de Sal",
       "url": "https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy"
-    },
-    {
-      "added_at": "2026-10-09 17:07:23",
-      "album": {
-        "name": "Saudade Demais",
-        "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
-      },
-      "artists": [
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        },
-        {
-          "name": "Sanny Alves",
-          "url": "https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Isabel Tchau",
-      "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
     },
     {
       "added_at": "2026-10-09 17:07:23",

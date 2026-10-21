@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-985 songs - 2 day 16 hr 49 min
+987 songs - 2 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Baby So in Love](https://open.spotify.com/track/4Pvxx8Df8cAgKZSMgTZ2RK) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Baby So in Love](https://open.spotify.com/album/0JnANJ963m0PwSBXY0C1zO) | 3:43 | 2023-03-30 | 2023-04-05 |
 | [Back To You \(feat\. Millie Snow, Nenashi\)](https://open.spotify.com/track/3bpFB3XID7OHHxW4OrC6vA) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Millie Snow](https://open.spotify.com/artist/1zDAwrdFgBlU5vD632xvcy), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Back To You \(feat\. Millie Snow, Nenashi\)](https://open.spotify.com/album/4JlQtHVVjXZdm68BDDi72q) | 3:31 | 2022-10-11 | 2022-11-30 |
 | [Backseat \(feat\. G.RINA, Kick a Show, ZEN\-LA\-ROCK & JUVENILE\)](https://open.spotify.com/track/0KHRem2sNG7J5vCFhEdjTT) | [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg), [G.RINA](https://open.spotify.com/artist/0r51Lcwiq3z84XVlXDFeWS), [Kick a Show](https://open.spotify.com/artist/7BuZBNitsq4uD9eoQwJPCG), [ZEN\-LA\-ROCK](https://open.spotify.com/artist/3VYznekAAwwqZpiYwuE34v), [JUVENILE](https://open.spotify.com/artist/2Wj83ZkeRUYtTq0kaPOoQW) | [Backseat](https://open.spotify.com/album/6b6mqFLPPyzkJZLWBxqJud) | 4:02 | 2023-12-26 | 2024-03-23 |
-| [Barano Hana](https://open.spotify.com/track/3AhvuDPnf7UKc0GS7iw2ze) | [Tomoyo Harada](https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1) | [Barano Hana](https://open.spotify.com/album/4NYPDerbBbc6bnpJOCrSUO) | 4:47 | 2026-10-06 |  |
+| [Barano Hana](https://open.spotify.com/track/3AhvuDPnf7UKc0GS7iw2ze) | [Tomoyo Harada](https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1) | [Barano Hana](https://open.spotify.com/album/4NYPDerbBbc6bnpJOCrSUO) | 4:47 | 2026-10-06 | 2026-10-21 |
 | [BAY](https://open.spotify.com/track/22LvmPeDK2OR7L8NKhtRPk) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [JCT](https://open.spotify.com/album/2fVEKsHOAfozCSTHYtq1d8) | 4:17 | 2023-07-11 | 2023-07-30 |
 | [Be With You \(feat\. Ai Furihata\)](https://open.spotify.com/track/6HvEzakmTEFhxjllDK8wPl) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [Be With You \(feat\. Ai Furihata\)](https://open.spotify.com/album/5ioiVEiv0AwDetSIgZs3is) | 3:27 | 2022-11-03 | 2023-03-31 |
 | [Be With You feat\. Ai Furihata](https://open.spotify.com/track/6xn2ssISFxIGrWHf0pKrWm) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [降幡愛](https://open.spotify.com/artist/7svLWJb6OOknGzexOOwNNY) | [Be With You feat\. Ai Furihata](https://open.spotify.com/album/79Zl8cuLlP6qWTIZIwpfch) | 3:27 | 2022-11-03 | 2022-11-05 |
@@ -673,7 +673,7 @@
 | [あなたの形の霧の中で](https://open.spotify.com/track/45BS4oogIChJr66wJtiYuz) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [あなたの形の霧の中で](https://open.spotify.com/album/18X1VeLsXy0TtwayYiUm5r) | 4:14 | 2026-05-26 | 2026-08-26 |
 | [あなたはトリコ](https://open.spotify.com/track/2gkYR4SyJu4TDHz8r39B7y) | [RYUSENKEI](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [あなたはトリコ](https://open.spotify.com/album/6FceyUYmiyCgs67TWi3OhA) | 4:45 | 2024-04-23 | 2024-08-03 |
 | [あなたゆずり](https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Living Room](https://open.spotify.com/album/17wsj6ok978OcBQhmNexce) | 4:11 | 2022-05-24 |  |
-| [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 | 2024-01-30 |  |
+| [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 | 2024-01-30 | 2026-10-21 |
 | [あらわれないで](https://open.spotify.com/track/64SO6pPvPRA1MrdyepGx1p) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:57 | 2024-05-14 | 2024-07-31 |
 | [あれはたしかSEPTEMBER](https://open.spotify.com/track/791HxlnHPH2qEATdus4Uyq) | [ジャンク フジヤマ](https://open.spotify.com/artist/3Adpfee3Od5HH729hCQM7p) | [DREAMIN'](https://open.spotify.com/album/6ycN0LEaNvitT5fHFWopvI) | 3:49 | 2023-08-01 | 2023-08-03 |
 | [いい感じ](https://open.spotify.com/track/1ytu8pRfwWtTErXWxTZOMQ) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ) | [いい感じ](https://open.spotify.com/album/2z2Jhh9WXjaFOhJWlJJlcv) | 3:03 | 2022-06-28 | 2022-07-25 |
@@ -750,6 +750,7 @@
 | [サマーレモネード](https://open.spotify.com/track/4KcAqMwqFBUOQxNlTuwK7O) | [Zenya](https://open.spotify.com/artist/6XaIIyEQtuyCbBsPdt6TyY) | [サマーレモネード](https://open.spotify.com/album/1MrOfdXIBZdkGm3gKYNR9x) | 3:18 | 2023-07-18 | 2023-07-26 |
 | [サマー・イズ・オーバー](https://open.spotify.com/track/5qnqGyCTpod2Gly4mI6SYd) | [下町ノ夏](https://open.spotify.com/artist/5KaPkUZq3z8WTXjvGkAR84) | [Ramune](https://open.spotify.com/album/1IpPbsEQuEobATCp5TJZsS) | 4:16 | 2023-08-01 | 2023-08-09 |
 | [サンシャイン・ベイ](https://open.spotify.com/track/7u50rPr1co7HgH2mJcaET3) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [フリークエンシー・イン・ブルー](https://open.spotify.com/album/47MBRYj48CUS5rk0LrPCxE) | 3:16 | 2022-05-24 | 2022-07-29 |
+| [シチュエーション](https://open.spotify.com/track/40gPi8UNfc4Ko3Xfrvdext) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [ファーストキス](https://open.spotify.com/album/42sSmCLnwvYil97LsWOc4m) | 3:20 | 2026-10-20 |  |
 | [シティホテル](https://open.spotify.com/track/3L2RXDGiE3CdalnwpJiE6s) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [シティホテル](https://open.spotify.com/album/34ITjp6W3YHh8AGyQiwvJW) | 3:53 | 2026-04-14 | 2026-09-23 |
 | [シュプール](https://open.spotify.com/track/5jbEk0qaloLbLSp2MInRzl) | [DEEN](https://open.spotify.com/artist/1Tg3cYxIGONHrwVagR1QlG) | [シュプール](https://open.spotify.com/album/2vfxMDrwJPp5W2c3shcE2D) | 3:47 | 2022-05-24 | 2022-07-14 |
 | [シューズは脱がないで](https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [シューズは脱がないで](https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ) | 4:08 | 2022-12-13 | 2025-10-01 |
@@ -835,6 +836,7 @@
 | [中央フリーウェイ](https://open.spotify.com/track/1w3BXhVl88xDJOcrNh5sQH) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 3:22 | 2023-12-19 |  |
 | [中央フリーウェイ \- 2022 mix](https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳！〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:40 | 2022-10-04 |  |
 | [丸ノ内サディスティック](https://open.spotify.com/track/06PEfLlv6z45MkCKemgyXM) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [丸ノ内サディスティック](https://open.spotify.com/album/0SVLXumBBt6UUTALwxn67y) | 4:09 | 2023-11-10 | 2024-04-19 |
+| [乙女の剣](https://open.spotify.com/track/0EFmTwjsSouWxuWpSpnbjh) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [乙女の剣](https://open.spotify.com/album/54rGAYE7lUEKMIDE2zdLt1) | 3:36 | 2026-10-20 |  |
 | [低気圧ボーイ](https://open.spotify.com/track/4vZMcTObOGq67qN6aiDgim) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [低気圧ボーイ](https://open.spotify.com/album/12wpyZQ1Y3JKoQPhUrECsW) | 4:33 | 2022-06-21 | 2022-07-13 |
 | [優しい手 \~ Gentle Hands](https://open.spotify.com/track/0YtAKyxd5xiEmYllml5b5S) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm) | [優しい手 \~ Gentle Hands](https://open.spotify.com/album/411gDNgCzrBfYYiQgxMdu3) | 4:12 | 2022-07-26 | 2022-07-29 |
 | [入江にて](https://open.spotify.com/track/5xHubhwMi8QcbEz6ZpinEa) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [Sunset Rain](https://open.spotify.com/album/22BSXUMxOXc7ld5DxexT6J) | 4:08 | 2023-03-21 | 2023-03-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: June McDoom
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,000 likes - 170 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,030 likes - 170 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 169 | [Jaded Songbirds](https://open.spotify.com/track/4Rq65TqCn47STqWZZPfPzf) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [America's Greatest Burnout](https://open.spotify.com/album/6Dt8xZegPiDE6unSE0n7rM) | 3:06 |
 | 170 | [Ugly things](https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Ugly things](https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv) | 3:29 |
 
-Snapshot ID: `AAAAAOXr42JXNli3fdLpPQudGjSQzywT`
+Snapshot ID: `AAAAAFAO+CHea7oGOecnc2PFoNA3cGB5`

@@ -1,12 +1,12 @@
 {
   "description": "Meticulously selected by Spotify music experts.",
-  "num_followers": 96555,
+  "num_followers": 96541,
   "original_name": "Editors' Picks: Best Songs of 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJL4jFO6der/kV0JCGSlsHeCcTjW",
+  "snapshot_id": "AAAAAOT0lZRoQSKk1PBKvFElpTDBlRah",
   "tracks": [
     {
       "added_at": "2026-02-04 14:24:46",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "Culpable",
-        "url": "https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 261071,
-      "name": "Culpable",
-      "url": "https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "BELOVED",
         "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 222530,
       "name": "KEEPER",
       "url": "https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "Culpable",
+        "url": "https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 261071,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc"
     },
     {
       "added_at": "2026-02-04 14:24:46",

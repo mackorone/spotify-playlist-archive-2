@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Cover: Ilusion Eterno
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,789 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,788 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,15 +75,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 65 | [Blanca Navidad](https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:37 |
 | 66 | [Navidad Sin tí](https://open.spotify.com/track/1UHmIm6jj1EncEXcNfPSv1) | [Claudio Alcaraz](https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz) | [Navidad Sin tí](https://open.spotify.com/album/445k2DkZWd5Fv24xPPMjq0) | 3:23 |
 | 67 | [Amarga Navidad](https://open.spotify.com/track/70GSsd2TYikh9QMQy8BR2P) | [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac), [Banda Lirio](https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8) | [Amarga Navidad](https://open.spotify.com/album/3MNqibanIKz1fwJtIoSnqF) | 3:06 |
-| 68 | [Dame Un Beso En Noche Buena](https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:38 |
-| 69 | [Cumbión Navideño](https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:27 |
+| 68 | [Cumbión Navideño](https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:27 |
+| 69 | [Dame Un Beso En Noche Buena](https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:38 |
 | 70 | [Regalo De Navidad](https://open.spotify.com/track/1E5oEmlbeddoiDxp3Z8eHI) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Navidad En Mi Pueblo](https://open.spotify.com/album/6O3hBHlY9oheHqeGXZ8lUX) | 3:33 |
 | 71 | [Rodolfo El Reno](https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:23 |
-| 72 | [Dulce Navidad](https://open.spotify.com/track/3NjkQv4ZlMxYfEgQSEnxQM) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Dulce Navidad](https://open.spotify.com/album/1GZ1HpsACMcttVe1u5D6o0) | 2:47 |
-| 73 | [Los Peces En El Río](https://open.spotify.com/track/1fg5yTwVBmUFWIVRTvZDT5) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:46 |
+| 72 | [Los Peces En El Río](https://open.spotify.com/track/1fg5yTwVBmUFWIVRTvZDT5) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:46 |
+| 73 | [Dulce Navidad](https://open.spotify.com/track/3NjkQv4ZlMxYfEgQSEnxQM) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Dulce Navidad](https://open.spotify.com/album/1GZ1HpsACMcttVe1u5D6o0) | 2:47 |
 | 74 | [La Güera Salomé](https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [La Güera Salomé](https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5) | 3:44 |
-| 75 | [Blanca Navidad](https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Blanca Navidad](https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc) | 2:29 |
-| 76 | [El Burrito Sabanero](https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p), [SanJuan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [El Burrito Sabanero](https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU) | 3:51 |
+| 75 | [El Burrito Sabanero](https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p), [SanJuan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [El Burrito Sabanero](https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU) | 3:51 |
+| 76 | [Blanca Navidad](https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Blanca Navidad](https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc) | 2:29 |
 | 77 | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe) | 2:35 |
 | 78 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/5kEHTKyHAq67kLHA7K8Ueh) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Navidad Fiesta Universal](https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb) | 3:14 |
 | 79 | [Ven A Cantar](https://open.spotify.com/track/7hq4SaGBw2QVe5jo9XHYa7) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 99 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Kenia Ríos](https://open.spotify.com/artist/7ib9pXPbXbKpokIVlUQwwr), [Anahi Ríos](https://open.spotify.com/artist/1wAbvXy6o5nu8b9TvzKt7l) | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/album/6o2RTlfB7fblC9rUBihTSa) | 2:00 |
 | 100 | [Santa Quiero](https://open.spotify.com/track/2pPT6xpYHd6GQTEDfJxb1g) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Amor Navideño](https://open.spotify.com/album/2OvnTHTkyITkfhUl0kZ9hV) | 3:45 |
 
-Snapshot ID: `AAAAABL026awTqgYgS80lbjm/p2E+RwQ`
+Snapshot ID: `AAAAAG+xJAEAKXmYu8gDcKBa6XN9WV2e`

@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 74938,
+  "num_followers": 74951,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMiL1rdkin1klIv2HT7pSuBmY8NZ",
+  "snapshot_id": "AAAAAHt1KksQJOFE0G0QAeNd02Ib/vrh",
   "tracks": [
     {
       "added_at": "2026-09-25 04:01:37",
@@ -711,6 +711,26 @@
     {
       "added_at": "2026-09-25 04:01:37",
       "album": {
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/2ecywJZyq9FeZWhKUT0kIq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 95893,
+      "name": "Goldberg Variations, BWV 988: Var. 2",
+      "url": "https://open.spotify.com/track/2fJzKofJ6V88glBAOVpyGb"
+    },
+    {
+      "added_at": "2026-09-25 04:01:37",
+      "album": {
         "name": "Bach",
         "url": "https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 453880,
       "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 1. [No Tempo Indication] (performed on two pianos)",
       "url": "https://open.spotify.com/track/6XRjvKXktFulH9foC7teqH"
-    },
-    {
-      "added_at": "2026-09-25 04:01:37",
-      "album": {
-        "name": "Bach: Goldberg Variations, BWV 988",
-        "url": "https://open.spotify.com/album/2ecywJZyq9FeZWhKUT0kIq"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 95893,
-      "name": "Goldberg Variations, BWV 988: Var. 2",
-      "url": "https://open.spotify.com/track/2fJzKofJ6V88glBAOVpyGb"
     },
     {
       "added_at": "2026-09-25 04:01:37",
@@ -827,6 +827,26 @@
     {
       "added_at": "2026-09-25 04:01:37",
       "album": {
+        "name": "Johann Sebastian Bach",
+        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 105853,
+      "name": "Prelude & Fugue in D Major (Well-Tempered Clavier, Book I, No. 5), BWV 850: II. Fugue",
+      "url": "https://open.spotify.com/track/3v1gviJrAtaIoLK41JSy8s"
+    },
+    {
+      "added_at": "2026-09-25 04:01:37",
+      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 187800,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: II. Largo",
       "url": "https://open.spotify.com/track/04jRwe67y8gkExGnRV1Zck"
-    },
-    {
-      "added_at": "2026-09-25 04:01:37",
-      "album": {
-        "name": "Johann Sebastian Bach",
-        "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 105853,
-      "name": "Prelude & Fugue in D Major (Well-Tempered Clavier, Book I, No. 5), BWV 850: II. Fugue",
-      "url": "https://open.spotify.com/track/3v1gviJrAtaIoLK41JSy8s"
     },
     {
       "added_at": "2026-09-25 04:01:37",

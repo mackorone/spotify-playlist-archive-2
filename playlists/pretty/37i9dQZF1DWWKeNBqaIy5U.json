@@ -1,12 +1,12 @@
 {
   "description": "Soft Jazz vocals and smooth instrumentals to soundtrack your dinner - perfect for cooking, hosting a dinner party, or a relaxed evening at home.",
-  "num_followers": 95599,
+  "num_followers": 95623,
   "original_name": "Dinner Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGqHvJ/8LoeDsgdUFSASS9H3g1oX",
+  "snapshot_id": "AAAAAIv4Ly75t5AZDPw4HGbl2xvM9+7K",
   "tracks": [
     {
       "added_at": "2026-07-20 13:57:14",
@@ -67,22 +67,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Benny Golson And The Philadelphians",
-        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/4ojZuJ575GlwN2weuWDr8z"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Swingin' Easy",
         "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
       },
@@ -99,18 +83,18 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "The Hawk Relaxes",
-        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+        "name": "Benny Golson And The Philadelphians",
+        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
         }
       ],
-      "duration_ms": 276266,
-      "name": "Under A Blanket Of Blue",
-      "url": "https://open.spotify.com/track/2WesYvXttArUlbpOGDCwR3"
+      "duration_ms": 182426,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/4ojZuJ575GlwN2weuWDr8z"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -127,6 +111,22 @@
       "duration_ms": 211079,
       "name": "Mystic Moonlight Groove",
       "url": "https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "The Hawk Relaxes",
+        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 276266,
+      "name": "Under A Blanket Of Blue",
+      "url": "https://open.spotify.com/track/2WesYvXttArUlbpOGDCwR3"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 290160,
-      "name": "I Wish I Knew",
-      "url": "https://open.spotify.com/track/3oGqQ3Ly4wzilxFo4puTn9"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Leapin' And Lopin'",
         "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 402799,
       "name": "Deep In A Dream",
       "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 290160,
+      "name": "I Wish I Knew",
+      "url": "https://open.spotify.com/track/3oGqQ3Ly4wzilxFo4puTn9"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "For You, For Me, Forevermore",
-        "url": "https://open.spotify.com/album/2I8URD6JXKYwtMByw90GVq"
-      },
-      "artists": [
-        {
-          "name": "Morgana King",
-          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Everything I Love",
-      "url": "https://open.spotify.com/track/0oyC1bC2cla2ZKL6majqbh"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Ella Sings Gershwin",
         "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 167293,
       "name": "Soon",
       "url": "https://open.spotify.com/track/6FWtmmLX3pJEhKdS0OwPTc"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "For You, For Me, Forevermore",
+        "url": "https://open.spotify.com/album/2I8URD6JXKYwtMByw90GVq"
+      },
+      "artists": [
+        {
+          "name": "Morgana King",
+          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
+        }
+      ],
+      "duration_ms": 199400,
+      "name": "Everything I Love",
+      "url": "https://open.spotify.com/track/0oyC1bC2cla2ZKL6majqbh"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Alexandria The Great",
-        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
-      },
-      "artists": [
-        {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
-        }
-      ],
-      "duration_ms": 325493,
-      "name": "I'm Through With Love",
-      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Live At The Village Vanguard",
         "url": "https://open.spotify.com/album/5uDPYrht89D3qNCmR2Slco"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 411666,
       "name": "Autumn In New York - Live",
       "url": "https://open.spotify.com/track/0J2J0CdJOfwAtVBeF8MyEK"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Alexandria The Great",
+        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
+      },
+      "artists": [
+        {
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
+        }
+      ],
+      "duration_ms": 325493,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
+        "name": "New York City Dreamin'",
+        "url": "https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "duration_ms": 253337,
+      "name": "Falling For Love",
+      "url": "https://open.spotify.com/track/2qWNjbqDTXBGRdcmZDcUXg"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "New York City Dreamin'",
-        "url": "https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U"
-      },
-      "artists": [
-        {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
-        }
-      ],
-      "duration_ms": 253337,
-      "name": "Falling For Love",
-      "url": "https://open.spotify.com/track/2qWNjbqDTXBGRdcmZDcUXg"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Soulville",
         "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 271893,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Your Laugh",
+        "url": "https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 207931,
+      "name": "Right Now Right Here",
+      "url": "https://open.spotify.com/track/0ruQME0dBzzcbdYCqD6x0j"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -955,18 +971,18 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Your Laugh",
-        "url": "https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL"
+        "name": "Blues-A-Plenty",
+        "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
       },
       "artists": [
         {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+          "name": "Johnny Hodges & His Orchestra",
+          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
         }
       ],
-      "duration_ms": 207931,
-      "name": "Right Now Right Here",
-      "url": "https://open.spotify.com/track/0ruQME0dBzzcbdYCqD6x0j"
+      "duration_ms": 219680,
+      "name": "Don't Take Your Love From Me",
+      "url": "https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -999,22 +1015,6 @@
       "duration_ms": 243773,
       "name": "Polka Dots And Moonbeams - Remastered 1994",
       "url": "https://open.spotify.com/track/3Wadbk42UtsJOT5mCx9Bb0"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
-        "name": "Blues-A-Plenty",
-        "url": "https://open.spotify.com/album/43tAFmiohGIyehQQdd3Fps"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges & His Orchestra",
-          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
-        }
-      ],
-      "duration_ms": 219680,
-      "name": "Don't Take Your Love From Me",
-      "url": "https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Love Is Here To Stay",
-        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "But Not For Me",
-      "url": "https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Bathtub Bourbon",
         "url": "https://open.spotify.com/album/3QPvb7pwKL9PdIqhOpmm1G"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 268894,
       "name": "Bathtub Bourbon",
       "url": "https://open.spotify.com/track/6LGK2OFycwxM4ulvpEYNdt"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Love Is Here To Stay",
+        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "But Not For Me",
+      "url": "https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "My Ideal",
-        "url": "https://open.spotify.com/album/24UkLtCJQy7LB4BMYpmszg"
-      },
-      "artists": [
-        {
-          "name": "Mandevilla",
-          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "My Ideal",
-      "url": "https://open.spotify.com/track/74JcbkYE5pCo2aDwfvSZK0"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Nostalgic Days",
         "url": "https://open.spotify.com/album/20ld6T3TYuPvsjQx1dI3U6"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 353927,
       "name": "Nostalgic Days",
       "url": "https://open.spotify.com/track/5b2BUoXRVmB9fqNsIPyNy0"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/24UkLtCJQy7LB4BMYpmszg"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "duration_ms": 192750,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/74JcbkYE5pCo2aDwfvSZK0"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Blues for Holly",
-        "url": "https://open.spotify.com/album/4v4mQlJWtS6ahy9UsW5YUU"
-      },
-      "artists": [
-        {
-          "name": "Mornington",
-          "url": "https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Blues for Holly",
-      "url": "https://open.spotify.com/track/6jhcZfuETnsWYNPOETpfao"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Onward",
         "url": "https://open.spotify.com/album/2OVitFXJkPbXLZqRb75OuF"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 234226,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/3C7iZbonpl8guBGDOaZw5V"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Blues for Holly",
+        "url": "https://open.spotify.com/album/4v4mQlJWtS6ahy9UsW5YUU"
+      },
+      "artists": [
+        {
+          "name": "Mornington",
+          "url": "https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Blues for Holly",
+      "url": "https://open.spotify.com/track/6jhcZfuETnsWYNPOETpfao"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Fortune Favor",
-        "url": "https://open.spotify.com/album/7gbsBmLPC2Guw1oQ9rue5l"
-      },
-      "artists": [
-        {
-          "name": "The Levon Trio",
-          "url": "https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ"
-        }
-      ],
-      "duration_ms": 206347,
-      "name": "Sure Hand",
-      "url": "https://open.spotify.com/track/33pZ3o2dAmECa2SFmrvEuH"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/0KFZ6Ao2cF2fAoOdD0hEsf"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 401546,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/0pH6I6QkzMteLP5hN4jBNW"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Fortune Favor",
+        "url": "https://open.spotify.com/album/7gbsBmLPC2Guw1oQ9rue5l"
+      },
+      "artists": [
+        {
+          "name": "The Levon Trio",
+          "url": "https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ"
+        }
+      ],
+      "duration_ms": 206347,
+      "name": "Sure Hand",
+      "url": "https://open.spotify.com/track/33pZ3o2dAmECa2SFmrvEuH"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-07-20 13:57:14",
       "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/7Iy7v5tD2N6Q4uHCKU4H7F"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz Quartet",
-          "url": "https://open.spotify.com/artist/6c2FFoYYHufG0gxmk790Vj"
-        }
-      ],
-      "duration_ms": 235346,
-      "name": "Stephanie",
-      "url": "https://open.spotify.com/track/0kuEM0rW8eZgIEXoaqISxD"
-    },
-    {
-      "added_at": "2026-07-20 13:57:14",
-      "album": {
         "name": "My Heart Is A Prism",
         "url": "https://open.spotify.com/album/3qakmpWIbDJHI8zXNN3Fkc"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 278437,
       "name": "Remembering Oscar",
       "url": "https://open.spotify.com/track/0DOhuUBCVvemIubPWQMh3p"
+    },
+    {
+      "added_at": "2026-07-20 13:57:14",
+      "album": {
+        "name": "Tranquility",
+        "url": "https://open.spotify.com/album/7Iy7v5tD2N6Q4uHCKU4H7F"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz Quartet",
+          "url": "https://open.spotify.com/artist/6c2FFoYYHufG0gxmk790Vj"
+        }
+      ],
+      "duration_ms": 235346,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/0kuEM0rW8eZgIEXoaqISxD"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -1928,9 +1928,9 @@
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 209160,
-      "name": "Satin Doll",
-      "url": "https://open.spotify.com/track/5TqaDRC0TlnMIRr4ABblZk"
+      "duration_ms": 320920,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/5Gd6s2kDdEsHpOFPCNrSuG"
     },
     {
       "added_at": "2026-07-20 13:57:14",
@@ -2016,9 +2016,9 @@
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 320920,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/5Gd6s2kDdEsHpOFPCNrSuG"
+      "duration_ms": 209160,
+      "name": "Satin Doll",
+      "url": "https://open.spotify.com/track/5TqaDRC0TlnMIRr4ABblZk"
     },
     {
       "added_at": "2026-07-20 13:57:14",

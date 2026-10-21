@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134,154 likes - 200 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134,426 likes - 200 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 199 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 |
 | 200 | [wetlands](https://open.spotify.com/track/0RMhdbMSfq33b3rdaRPa30) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [wetlands](https://open.spotify.com/album/0bNEUSQSKjAAMoxpm9ldrb) | 2:06 |
 
-Snapshot ID: `AAAAAMULpDihdbmwFHjUJ5sMa0O0tmWy`
+Snapshot ID: `AAAAAJK73XVsy1v0AeSnzQvH3HK/nV/W`

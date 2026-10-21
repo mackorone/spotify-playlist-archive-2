@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,916 likes - 170 songs - 10 hr 49 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,915 likes - 172 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,5 +178,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 168 | [The Cradle](https://open.spotify.com/track/6eiOtSNioBwip16hIkgKqc) | [Novena For Gina](https://open.spotify.com/artist/4Ga5dJx1IHEbk1ozRJQILO) | [The Cradle](https://open.spotify.com/album/2QFhdCnFPSpWbCU9SIw1v3) | 3:07 |
 | 169 | [La terapia](https://open.spotify.com/track/7zIPUAXQSaELwFSYlSqfO2) | [Rokdëbil](https://open.spotify.com/artist/6XwejHVkpCvWg3DTD249Lf) | [Lo que hagamos con el alma](https://open.spotify.com/album/7CwzpV39PCpXmPIKFszjKp) | 5:36 |
 | 170 | [Where the Wind Blows](https://open.spotify.com/track/044bAUHW1CjxG1fRnW4zP7) | [The Safety Word](https://open.spotify.com/artist/0ACJc7XJoVM9j1HeuAtLRX) | [Where the Wind Blows](https://open.spotify.com/album/2HtgsNzBXTnrXMlPQXOBq5) | 5:06 |
+| 171 | [House Of Mirrors](https://open.spotify.com/track/68HVJiPKmFJerXLPLFkzfr) | [Seamless Hope](https://open.spotify.com/artist/1eUNJIV8T4pGj1mbvxVTZn) | [Illuminating Darkness](https://open.spotify.com/album/3cELUplGLGQgHiflkgR5qz) | 4:04 |
+| 172 | [Don't Count On Me](https://open.spotify.com/track/3kVdhVxmzNjX0JGoklTyLJ) | [Manuel the Band](https://open.spotify.com/artist/53QeCVwCAOdxJ3p7BG4ZUn) | [Don't Count On Me](https://open.spotify.com/album/5sGpj8Y0eFEdR3uKIsaN0t) | 2:50 |
 
-Snapshot ID: `AAAM18Xv73lyL8+HqsNWadqzBj2jf3OI`
+Snapshot ID: `AAAM2cuHnm2kd50uA1ChptmJyi+hvJ87`

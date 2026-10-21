@@ -6,32 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAADVvRdTuRTXmNV/IL+VF2zG",
+  "snapshot_id": "atVdgAAAAAC4LNBp2aiWW9bC5/GswtTb",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deus Ainda Fala (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ZCykss6k4UbmVxAaMjlYI"
-      },
-      "artists": [
-        {
-          "name": "Misaias Oliveira",
-          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 400285,
-      "name": "Deus Ainda Fala - Ao Vivo",
-      "url": "https://open.spotify.com/track/47k7urz4okhpml9ivBXaAV"
-    },
     {
       "added_at": null,
       "album": {
@@ -603,6 +579,30 @@
       "duration_ms": 305992,
       "name": "Muita Un\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus Ainda Fala (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ZCykss6k4UbmVxAaMjlYI"
+      },
+      "artists": [
+        {
+          "name": "Misaias Oliveira",
+          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 400285,
+      "name": "Deus Ainda Fala - Ao Vivo",
+      "url": "https://open.spotify.com/track/47k7urz4okhpml9ivBXaAV"
     },
     {
       "added_at": null,

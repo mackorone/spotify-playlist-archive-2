@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-921 songs - 2 day 16 hr 56 min
+922 songs - 2 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Aguacero Tropical](https://open.spotify.com/track/5mhYs8LilsurjSLIibxCgn) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Aguacero Tropical](https://open.spotify.com/album/5v2hEZH52HxulMloCJDY8A) | 3:45 | 2022-01-21 | 2022-04-21 |
 | [Aguancó](https://open.spotify.com/track/4yQao18rUx4vdhzenobQGN) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Aguancó](https://open.spotify.com/album/6WhkRbDmTpfNYdAv8lkMpw) | 2:30 | 2021-10-06 | 2022-07-18 |
 | [Ah, folie](https://open.spotify.com/track/24JM4ud3syVE9zLYwC0m9s) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG) | [Behind the eyes](https://open.spotify.com/album/2ojQT2TnoNTGYxmHmaIpqr) | 3:33 | 2026-02-20 | 2026-03-06 |
+| [Ahşap Kutu](https://open.spotify.com/track/0ldb6REGn8guDjkpA21tJx) | [Peki Momés](https://open.spotify.com/artist/3Jz0VJbZRA8hOXxNXGF2Uf) | [Ahşap Kutu](https://open.spotify.com/album/1WHy01IQtPQB59RTms1wXL) | 2:18 | 2026-10-20 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/7EpsZtS2HGGgEqPLfhxY9J) | [The Soul Fantastics](https://open.spotify.com/artist/15V6aFPE8vKkOLLu7wMvSY) | [Panama! 2: Latin Sounds, Cumbia, Tropical & Calypso Funk on the Isthmus 1967\-77](https://open.spotify.com/album/7CZ9cGjSjWHyCYaeh2ZmcA) | 3:13 | 2022-03-09 | 2022-06-10 |
 | [Ain't No Sunshine \- Cover](https://open.spotify.com/track/5s4jbY8pUhdkLc4ATqmtTi) | [Nautilus](https://open.spotify.com/artist/2jl9g1q4H325ckCuUkiuxq) | [Ain't No Sunshine](https://open.spotify.com/album/47AtkpIDQ0OFIRQPTEW7N6) | 5:22 | 2021-10-06 | 2022-05-12 |
 | [Ajala \- Single Edit](https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Ajala](https://open.spotify.com/album/1kAexOnDyQcgwvMM3mFkjX) | 4:21 | 2024-05-02 | 2025-03-06 |
@@ -258,7 +259,7 @@
 | [Enjoy Your Life](https://open.spotify.com/track/17bOaBhRJUI7kobIhukvdC) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/2kEqaFXOjqbwd6nKci9pEX) | 6:16 | 2021-10-06 | 2022-07-28 |
 | [Enkèn Yèlélèbesh](https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI) | [Girma Bèyènè](https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj), [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn) | [Mistakes on Purpose \(Ethiopiques 30\)](https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW) | 3:58 | 2022-04-17 |  |
 | [Enlevez\-moi ça](https://open.spotify.com/track/49AjaOxHXX3AOAGnyTbC1x) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 5:14 | 2021-10-06 | 2022-06-28 |
-| [Entardecer](https://open.spotify.com/track/2E3J6m0Q4uyKC2eMVonWfC) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Back To Bahia](https://open.spotify.com/album/7EtY3NqhDQ4XAqZg5l06Zd) | 5:26 | 2021-10-06 |  |
+| [Entardecer](https://open.spotify.com/track/2E3J6m0Q4uyKC2eMVonWfC) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Back To Bahia](https://open.spotify.com/album/7EtY3NqhDQ4XAqZg5l06Zd) | 5:26 | 2021-10-06 | 2026-10-21 |
 | [Entazerni](https://open.spotify.com/track/5AlZF5TmT4CRwqQSSQSTxl) | [Ferkat Al Ard](https://open.spotify.com/artist/1Rf1hYrWaOiHIL2u8VJxfW) | [Oghneya \(Habibi Funk 019\)](https://open.spotify.com/album/6QBVtB2OYklJWLNBkgcaXe) | 4:16 | 2022-08-03 | 2022-09-09 |
 | [Entazerni \(Habibi Funk 019\)](https://open.spotify.com/track/1sWsh2rdhAzVCJmfNhGg82) | [Ferkat Al Ard](https://open.spotify.com/artist/1Rf1hYrWaOiHIL2u8VJxfW) | [Entazerni \(Habibi Funk 019\)](https://open.spotify.com/album/2WNVojV0IBBmkQ459RFi8U) | 4:16 | 2022-05-24 | 2022-06-04 |
 | [Erhal Keef Alsham Tgheeb](https://open.spotify.com/track/7mWc2MRHGcBIckm4jjOzDh) | [Shahd](https://open.spotify.com/artist/6M6fg9coBu9VHeW8SfiGIo) | [Erhal Keef Alsham Tgheeb](https://open.spotify.com/album/2b43Wf0fOVg2igXZKZbTTQ) | 5:35 | 2025-06-13 | 2025-11-04 |

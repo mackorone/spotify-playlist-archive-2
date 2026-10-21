@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,568 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,563 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oyOhG.md) - [plain]
 | 43 | [これ青春アンダースタンド](https://open.spotify.com/track/5KVyLT4jZZ2JQXwyEfzIKq) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [sana](https://open.spotify.com/artist/1RKmJpVze3oVKCzRldAiJa) | [恋色に咲け](https://open.spotify.com/album/1qWaa3f4gixmVJS1JTU38z) | 4:12 |
 | 44 | [きっと別れるよ](https://open.spotify.com/track/5x9XCM92S3G3U8CD1dKiA7) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ｉは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:44 |
 | 45 | [ヒストリア](https://open.spotify.com/track/0nzaNIkYGdZ8zI97ZT1Q1u) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [プライド革命](https://open.spotify.com/album/6I2PYDBXF1GpzXZeagvFo8) | 3:29 |
-| 46 | [STAY WITH YOU \-CHiCO only ver.\-](https://open.spotify.com/track/0XmeNXFJvwDIdC40yn4tOY) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [君のせいで愛してる](https://open.spotify.com/album/22m7A8KJxhzOwsi8z6Ossv) | 3:21 |
-| 47 | [人生のオーケストラ](https://open.spotify.com/track/49QaYX0XchfWTTldxGinEj) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [くすぐったい。](https://open.spotify.com/album/3OV9LPuJd3C6cALSGhIUdy) | 3:10 |
-| 48 | [ラブホイッスル Alert！](https://open.spotify.com/track/5eSzaeDXNvFWvUZgl8vKyZ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ラブホイッスル Special edition](https://open.spotify.com/album/69BC6aULa8qJQ7CrpIVcHZ) | 2:56 |
-| 49 | [BGM](https://open.spotify.com/track/2X3dXxQ0Bj4bAIE9oDVAJr) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 5:02 |
+| 46 | [人生のオーケストラ](https://open.spotify.com/track/49QaYX0XchfWTTldxGinEj) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [くすぐったい。](https://open.spotify.com/album/3OV9LPuJd3C6cALSGhIUdy) | 3:10 |
+| 47 | [STAY WITH YOU \-CHiCO only ver.\-](https://open.spotify.com/track/0XmeNXFJvwDIdC40yn4tOY) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [君のせいで愛してる](https://open.spotify.com/album/22m7A8KJxhzOwsi8z6Ossv) | 3:21 |
+| 48 | [BGM](https://open.spotify.com/track/2X3dXxQ0Bj4bAIE9oDVAJr) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 5:02 |
+| 49 | [ラブホイッスル Alert！](https://open.spotify.com/track/5eSzaeDXNvFWvUZgl8vKyZ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ラブホイッスル Special edition](https://open.spotify.com/album/69BC6aULa8qJQ7CrpIVcHZ) | 2:56 |
 | 50 | [乙女どもよ。（TV size）](https://open.spotify.com/track/0UIL22vPHoye8EtsWXTnVk) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [乙女どもよ。（TV size）](https://open.spotify.com/album/26zxdP1K5NGFkIhdDUXLkd) | 1:30 |
 
-Snapshot ID: `atQMAAAAAACHRmPVU9MtApaoFgQFClJd`
+Snapshot ID: `atQMAAAAAAA3+79LdEp5JLOOJKDNFJLn`

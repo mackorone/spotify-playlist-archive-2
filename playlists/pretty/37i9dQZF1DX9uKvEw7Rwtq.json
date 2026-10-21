@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 128558,
+  "num_followers": 128596,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACcXaxqYVM14jmhZZUDNmQ89QA3r",
+  "snapshot_id": "AAAAAD2V1aRAprPUoLMhhzBTzb51McqN",
   "tracks": [
     {
       "added_at": "2026-10-05 15:36:40",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Twenty Twenty One",
-        "url": "https://open.spotify.com/album/3kxULtiWNnkaGxyuJzxLc9"
-      },
-      "artists": [
-        {
-          "name": "City of the Sun",
-          "url": "https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k"
-        }
-      ],
-      "duration_ms": 416000,
-      "name": "Twenty Twenty One",
-      "url": "https://open.spotify.com/track/2aAvUVqDqmo1Xo7l6MBEbd"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "The Second Coming Was a Moonrise",
         "url": "https://open.spotify.com/album/3zOh4n2WhCxwwDkuET0i4G"
       },
@@ -343,18 +327,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/5oImgyFgLAwsfkWKu5EWE5"
+        "name": "Twenty Twenty One",
+        "url": "https://open.spotify.com/album/3kxULtiWNnkaGxyuJzxLc9"
       },
       "artists": [
         {
-          "name": "This Will Destroy You",
-          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
+          "name": "City of the Sun",
+          "url": "https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k"
         }
       ],
-      "duration_ms": 350228,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/63AXbG0B9D4g0ZHzfu4jLn"
+      "duration_ms": 416000,
+      "name": "Twenty Twenty One",
+      "url": "https://open.spotify.com/track/2aAvUVqDqmo1Xo7l6MBEbd"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -371,6 +355,22 @@
       "duration_ms": 160465,
       "name": "Goodbye Sierra",
       "url": "https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/5oImgyFgLAwsfkWKu5EWE5"
+      },
+      "artists": [
+        {
+          "name": "This Will Destroy You",
+          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
+        }
+      ],
+      "duration_ms": 350228,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/63AXbG0B9D4g0ZHzfu4jLn"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -539,6 +539,26 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
+        "name": "41 Longfield Street Late \u201880s",
+        "url": "https://open.spotify.com/album/481bf9qdap2XkqmAxdVVZG"
+      },
+      "artists": [
+        {
+          "name": "Kieran Hebden",
+          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
+        },
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "duration_ms": 474353,
+      "name": "Secret City",
+      "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
         "name": "Invisible Cities",
         "url": "https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 260346,
       "name": "Total Perspective Vortex",
       "url": "https://open.spotify.com/track/32OKcAVCcfhDgojrd7ZMSI"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
-        "name": "41 Longfield Street Late \u201880s",
-        "url": "https://open.spotify.com/album/481bf9qdap2XkqmAxdVVZG"
-      },
-      "artists": [
-        {
-          "name": "Kieran Hebden",
-          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
-        },
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
-        }
-      ],
-      "duration_ms": 474353,
-      "name": "Secret City",
-      "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Samadhi",
-        "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
-      },
-      "artists": [
-        {
-          "name": "Rain No Rain",
-          "url": "https://open.spotify.com/artist/1EQXBmMgr5cBfilIaRXwut"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Samadhi",
-      "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/1bGo7G5JOcy9jE8S4uNo0H"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 173705,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/2ttXU3cfx8unAngSRQ60CK"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Samadhi",
+        "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
+      },
+      "artists": [
+        {
+          "name": "Rain No Rain",
+          "url": "https://open.spotify.com/artist/1EQXBmMgr5cBfilIaRXwut"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Samadhi",
+      "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "nothing is real, part XI",
-        "url": "https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD"
-      },
-      "artists": [
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        }
-      ],
-      "duration_ms": 187406,
-      "name": "i meet myself, again",
-      "url": "https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "Into The Mountains",
         "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Things We Leave Behind",
-        "url": "https://open.spotify.com/album/2zrQDqIJLQtqG0MS6YJkpl"
+        "name": "nothing is real, part XI",
+        "url": "https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD"
       },
       "artists": [
         {
-          "name": "Friend from Work",
-          "url": "https://open.spotify.com/artist/6DxNs0iTkF0hSaFoqc3C2z"
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         }
       ],
-      "duration_ms": 167909,
-      "name": "Things We Leave Behind",
-      "url": "https://open.spotify.com/track/2P0aYTKE36gztfQPXrXlOP"
+      "duration_ms": 187406,
+      "name": "i meet myself, again",
+      "url": "https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -823,6 +807,22 @@
       "duration_ms": 184424,
       "name": "I Can't Lock In",
       "url": "https://open.spotify.com/track/0AZu7PlRQmgzncJh4nGzrB"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Things We Leave Behind",
+        "url": "https://open.spotify.com/album/2zrQDqIJLQtqG0MS6YJkpl"
+      },
+      "artists": [
+        {
+          "name": "Friend from Work",
+          "url": "https://open.spotify.com/artist/6DxNs0iTkF0hSaFoqc3C2z"
+        }
+      ],
+      "duration_ms": 167909,
+      "name": "Things We Leave Behind",
+      "url": "https://open.spotify.com/track/2P0aYTKE36gztfQPXrXlOP"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Keep The Orange Sun",
-        "url": "https://open.spotify.com/album/6MLLMv5uFphvY2eXVEHB4X"
-      },
-      "artists": [
-        {
-          "name": "awakened souls",
-          "url": "https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU"
-        },
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Keep The Orange Sun",
-      "url": "https://open.spotify.com/track/40rVSnon5rqxnNbZoyMwWG"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "Dust Bowl",
         "url": "https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5"
       },
@@ -911,18 +891,22 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Mockingbird Love",
-        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
+        "name": "Keep The Orange Sun",
+        "url": "https://open.spotify.com/album/6MLLMv5uFphvY2eXVEHB4X"
       },
       "artists": [
         {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+          "name": "awakened souls",
+          "url": "https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU"
+        },
+        {
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
         }
       ],
-      "duration_ms": 173853,
-      "name": "My Courtesan",
-      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
+      "duration_ms": 254000,
+      "name": "Keep The Orange Sun",
+      "url": "https://open.spotify.com/track/40rVSnon5rqxnNbZoyMwWG"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -947,6 +931,22 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
+        "name": "Mockingbird Love",
+        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 173853,
+      "name": "My Courtesan",
+      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
         "name": "VIII",
         "url": "https://open.spotify.com/album/4GZGWKhIii0zxZZWOnBQB5"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 123000,
       "name": "VIII",
       "url": "https://open.spotify.com/track/5iucxdKLbKZG3Q5KbjQpBK"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 392374,
+      "name": "I Would Stare into the Sun with You Forever",
+      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -979,22 +995,6 @@
       "duration_ms": 360006,
       "name": "Love is a Shelter",
       "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
-        "name": "Love in the Void",
-        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 392374,
-      "name": "I Would Stare into the Sun with You Forever",
-      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "The American Dollar",
-        "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
-      },
-      "artists": [
-        {
-          "name": "The American Dollar",
-          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "Peterson",
-      "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
         "name": "you are now listening to a tender spring",
         "url": "https://open.spotify.com/album/2ymV75wRLGGSeO45vwGU6X"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
+        "name": "The American Dollar",
+        "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
+      },
+      "artists": [
+        {
+          "name": "The American Dollar",
+          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
+        }
+      ],
+      "duration_ms": 199813,
+      "name": "Peterson",
+      "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
         "name": "Those Winter Sundays",
         "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 229333,
       "name": "Those Winter Sundays",
       "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
-    },
-    {
-      "added_at": "2026-10-05 15:36:40",
-      "album": {
-        "name": "Acknowledge Kindness",
-        "url": "https://open.spotify.com/album/3O67YGfabTWR14jjIsh9ib"
-      },
-      "artists": [
-        {
-          "name": "The Reds, Pinks and Purples",
-          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
-        }
-      ],
-      "duration_ms": 178428,
-      "name": "Blue Heron Lake",
-      "url": "https://open.spotify.com/track/7z8pyJ6l7eAvJr6ZMvKcne"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "soft silence",
-        "url": "https://open.spotify.com/album/6S7i0D8aM2SsbxRcLQwIUA"
+        "name": "Acknowledge Kindness",
+        "url": "https://open.spotify.com/album/3O67YGfabTWR14jjIsh9ib"
       },
       "artists": [
         {
-          "name": "Not Enough Silence",
-          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+          "name": "The Reds, Pinks and Purples",
+          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
         }
       ],
-      "duration_ms": 80937,
-      "name": "soft silence",
-      "url": "https://open.spotify.com/track/6uekqJ8hkOSiqUlxK7XYzU"
+      "duration_ms": 178428,
+      "name": "Blue Heron Lake",
+      "url": "https://open.spotify.com/track/7z8pyJ6l7eAvJr6ZMvKcne"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1347,22 +1331,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Lifelike",
-        "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
+        "name": "soft silence",
+        "url": "https://open.spotify.com/album/6S7i0D8aM2SsbxRcLQwIUA"
       },
       "artists": [
         {
-          "name": "Amulets",
-          "url": "https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt"
-        },
-        {
-          "name": "Midwife",
-          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+          "name": "Not Enough Silence",
+          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
         }
       ],
-      "duration_ms": 278067,
-      "name": "Lifelike",
-      "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
+      "duration_ms": 80937,
+      "name": "soft silence",
+      "url": "https://open.spotify.com/track/6uekqJ8hkOSiqUlxK7XYzU"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1379,6 +1359,26 @@
       "duration_ms": 227975,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
+    },
+    {
+      "added_at": "2026-10-05 15:36:40",
+      "album": {
+        "name": "Lifelike",
+        "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
+      },
+      "artists": [
+        {
+          "name": "Amulets",
+          "url": "https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt"
+        },
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "duration_ms": 278067,
+      "name": "Lifelike",
+      "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
+        "name": "Hy-Brasil",
+        "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
       },
       "artists": [
         {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+          "name": "LIGHTS OUT ASIA",
+          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Astronomer",
-      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
+      "duration_ms": 235213,
+      "name": "Abell 1835",
+      "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
     },
     {
       "added_at": "2026-10-05 15:36:40",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2026-10-05 15:36:40",
       "album": {
-        "name": "Hy-Brasil",
-        "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
       },
       "artists": [
         {
-          "name": "LIGHTS OUT ASIA",
-          "url": "https://open.spotify.com/artist/1jtXwxapRCfIUoU6gbGWzi"
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
         }
       ],
-      "duration_ms": 235213,
-      "name": "Abell 1835",
-      "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
+      "duration_ms": 230000,
+      "name": "Astronomer",
+      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
     },
     {
       "added_at": "2026-10-05 15:36:40",

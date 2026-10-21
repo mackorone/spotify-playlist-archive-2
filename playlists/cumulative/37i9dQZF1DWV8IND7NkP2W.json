@@ -7037,6 +7037,28 @@
     },
     {
       "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/2xcLsKxQjmoGzRs0JVEWC0"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155471,
+      "name": "Kurokami",
+      "url": "https://open.spotify.com/track/1sQP8aR3mzSVOhVdIQEhaB"
+    },
+    {
+      "album": {
         "name": "Mentatea",
         "url": "https://open.spotify.com/album/0kyAObNeOcC4abeGJkLW0K"
       },
@@ -11688,7 +11710,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 123658,
       "name": "Rock",
       "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
@@ -13998,7 +14020,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 142022,
       "name": "Tayutau",
       "url": "https://open.spotify.com/track/1ZiDure4S90WRUJ1CP17p5"
@@ -14056,6 +14078,28 @@
       "duration_ms": 218000,
       "name": "temptation",
       "url": "https://open.spotify.com/track/4JPnlef6iWbmpmDoEXZcRe"
+    },
+    {
+      "album": {
+        "name": "Tender Rose (Mr. K\u00e4fer Remix)",
+        "url": "https://open.spotify.com/album/4xSiUPonw1Cdn5n8nRkj73"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        },
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170508,
+      "name": "Tender Rose (Mr. K\u00e4fer Remix)",
+      "url": "https://open.spotify.com/track/6x9shM2o8AeiTnHbPTkVtN"
     },
     {
       "album": {

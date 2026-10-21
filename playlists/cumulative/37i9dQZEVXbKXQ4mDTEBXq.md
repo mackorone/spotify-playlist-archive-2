@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-876 songs - 2 day 6 hr 19 min
+877 songs - 2 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Naked Heart](https://open.spotify.com/track/2cTaSKEc8OZdF6Tpg2QQsS) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Heard that there's good pasta](https://open.spotify.com/album/4r59WawogtpQYeO8tcBBcA) | 4:56 | 2026-08-27 | 2026-10-01 |
 | [napori](https://open.spotify.com/track/5Ym4egUmT9wHEvZM2anGG8) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6v1LcUpY4GNjQ1pQ4SJCDY) | 3:23 | 2021-03-27\* | 2021-12-11 |
 | [napori](https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy) | 3:23 | 2021-12-11 | 2021-12-22 |
-| [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 | 2026-10-17 |  |
+| [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 | 2026-10-17 |  |
 | [Never Grow Up](https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:16 | 2026-02-18 | 2026-03-22 |
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-08 | 2024-06-25 |
 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-09-12 | 2023-10-04 |
@@ -468,6 +468,7 @@
 | [Toki Koete Universe](https://open.spotify.com/track/4KzvEQIuSiRjv6n03kSbyW) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [LOVE ENG!NE](https://open.spotify.com/album/4Jtnccgcjg6B2g6DO1E4lj) | 3:31 | 2026-09-21 |  |
 | [Toki Koete Universe](https://open.spotify.com/track/6MWX3FJDKQf8Treubxy2sN) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Toki Koete Universe](https://open.spotify.com/album/1ijXhkgJho7t4WHhirZHKH) | 3:31 | 2026-09-08 | 2026-09-18 |
 | [Tot Musica](https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:15 | 2022-08-11 | 2022-11-13 |
+| [Touch](https://open.spotify.com/track/27zRRREQi2sYd5VsDUcFhF) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Touch](https://open.spotify.com/album/7fuPzEGiLwEjGAzd7JzUze) | 3:25 | 2026-10-20 |  |
 | [TOXIC](https://open.spotify.com/track/08j6YjQCkCyRFXoKmh8e0H) | [Charm Holic](https://open.spotify.com/artist/393fHru9HcKGQIf6T0P7Nh) | [PRODUCE 101 JAPAN THE GIRLS](https://open.spotify.com/album/6GuOuQEgcOAyfNHCDtSRAk) | 3:13 | 2023-12-20 | 2024-01-03 |
 | [TOXIC](https://open.spotify.com/track/3ifV9AR4rpcXAsCtAtybna) | [Charm Holic](https://open.spotify.com/artist/393fHru9HcKGQIf6T0P7Nh) | [35 GIRLS 5 CONCEPTS](https://open.spotify.com/album/71j8lMKmc5TfBOH9ws6yuT) | 3:13 | 2023-12-19 | 2023-12-21 |
 | [Tremolo](https://open.spotify.com/track/2vHTplkaynYJm0flZBZIoE) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Dear Jubilee \-RADWIMPS TRIBUTE\-](https://open.spotify.com/album/7a13he5J8Xc4xBhNehDntV) | 3:19 | 2025-11-20 | 2025-12-06 |
@@ -577,7 +578,7 @@
 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 | 2024-10-05 | 2025-02-07 |
 | [オトノケ \- Otonoke](https://open.spotify.com/track/185mDjE865QpjA4MtzAzgs) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [LEGION](https://open.spotify.com/album/5lnXktiHS3ays84EqOYAVw) | 3:06 | 2025-02-06 | 2025-05-16 |
 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-19 | 2024-07-12 |
-| [オールドファッション](https://open.spotify.com/track/0Xn30nT5EKFPsWvpiJ2Iav) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [MAGIC](https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn) | 4:14 | 2025-12-17 |  |
+| [オールドファッション](https://open.spotify.com/track/0Xn30nT5EKFPsWvpiJ2Iav) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [MAGIC](https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn) | 4:14 | 2025-12-17 | 2026-10-21 |
 | [カイト](https://open.spotify.com/track/5lo3L98nR2VpN2dM9UFJu0) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [This is 嵐](https://open.spotify.com/album/1aGPwO93UYZ3OMtnVcekI6) | 4:43 | 2026-06-02 | 2026-06-18 |
 | [カナタハルカ](https://open.spotify.com/track/4Fh1CzvLHIUn26tjbZZ1mR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [すずめの戸締まり](https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp) | 5:55 | 2022-11-13 | 2023-02-16 |
 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 | 2022-03-01 | 2024-02-20 |

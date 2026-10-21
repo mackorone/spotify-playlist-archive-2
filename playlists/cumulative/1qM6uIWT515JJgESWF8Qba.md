@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-336 songs - 21 hr 2 min
+338 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 | 2026-03-04 | 2026-10-11 |
 | [Ignite Devil](https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Ignite Devil](https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5) | 2:57 | 2025-11-06 | 2025-12-28 |
 | [Ikaros](https://open.spotify.com/track/41C7vXxAMx2h2kt3Q9cp1C) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Ikaros](https://open.spotify.com/album/6Qado2dLei7Ds5PNmstEc2) | 4:21 | 2026-07-06 | 2026-08-08 |
+| [In The Red](https://open.spotify.com/track/7hJfu7KZC5XuadNyHNejzF) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:21 | 2026-10-20 |  |
 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 | 2025-11-27 | 2025-12-28 |
 | [Inside](https://open.spotify.com/track/2OfhgQDlDez0yPOQZEc60G) | [Teku Syndrom](https://open.spotify.com/artist/12eOrtKAt4e2lbggJqrNZB) | [Inside](https://open.spotify.com/album/3CAp4acIzCXeGfpmQ8zqUo) | 5:02 | 2026-10-07 |  |
 | [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 | 2026-05-27 | 2026-10-11 |
@@ -253,6 +254,7 @@
 | [Pumping on Your Stereo](https://open.spotify.com/track/0XBCiN9V5wtPDTtAZjwXlX) | [The Funky Ducklings](https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ) | [Album.1](https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg) | 2:38 | 2025-11-03 | 2025-12-28 |
 | [Purple Wings](https://open.spotify.com/track/3FrWG2dq5dAvQVidWt3ORC) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [Purple Wings](https://open.spotify.com/album/6Yvrw0NredYIxJaxFjST52) | 5:41 | 2026-02-09 | 2026-05-19 |
 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 | 2025-12-05 |  |
+| [Quiero irme de aca](https://open.spotify.com/track/76MovDHLzCfqKoPZRxLPWG) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [Disco Chulengo](https://open.spotify.com/album/33rrbWOnJKy0pEDCQDbFDH) | 1:56 | 2026-10-20 |  |
 | [Quién](https://open.spotify.com/track/5LNNpntodSuvNVLkHiU7er) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [El Poder del Miedo](https://open.spotify.com/album/2rAAKdhd7RbMimKLMEdPrK) | 3:31 | 2026-10-13 |  |
 | [Rain Falls In The Night.](https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Rain Falls In The Night.](https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8) | 4:16 | 2026-06-09 |  |
 | [Record Queen](https://open.spotify.com/track/44CQduAvXGeiQ74n9hMmIk) | [Sturgeon](https://open.spotify.com/artist/1q6x5uIGlVUeF1vZoyQDRF) | [Record Queen](https://open.spotify.com/album/2PZ4AIEKtnUXGgZwRuQdRJ) | 2:35 | 2026-08-21 |  |

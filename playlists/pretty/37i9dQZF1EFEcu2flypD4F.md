@@ -280,8 +280,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 270 | [Mister Sister](https://open.spotify.com/track/2j1j7ErJJDpUPiLcL4xv9c) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Sexual Harassment](https://open.spotify.com/album/4fsdLpd40uZXSlOkcAvQqQ) | 3:49 |
 | 271 | [Throw Down the Roses](https://open.spotify.com/track/6cBBqi10U9Nxrab5aFtGxJ) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:28 |
 | 272 | [Sober and Unkissed](https://open.spotify.com/track/6ll48HRbmGzB5zFK6LwBnJ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 4:01 |
-| 273 | [I Am Sound](https://open.spotify.com/track/3EVkoL8q7HJTSTXrBuXeGe) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/1QKL1Z8iNiS4G2XW37c7fF) | 3:59 |
-| 274 | [Chakzilla](https://open.spotify.com/track/7dbkt5orbeFZD6Kx3kYtG2) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chakzilla](https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF) | 3:27 |
+| 273 | [Chakzilla](https://open.spotify.com/track/7dbkt5orbeFZD6Kx3kYtG2) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chakzilla](https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF) | 3:27 |
+| 274 | [I Am Sound](https://open.spotify.com/track/3EVkoL8q7HJTSTXrBuXeGe) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/1QKL1Z8iNiS4G2XW37c7fF) | 3:59 |
 | 275 | [Healing Is Difficult](https://open.spotify.com/track/1L5HyFVKEBVhIix8jjsnCn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 5:24 |
 | 276 | [A l'infini](https://open.spotify.com/track/7oHVGXUDXt8BzyRUQl41nN) | [TAL](https://open.spotify.com/artist/6JLwyyc3LBwRXEODjugQ4D) | [A L'Infini](https://open.spotify.com/album/3qiBmE73Lu3J8BQwUQ6rig) | 3:28 |
 | 277 | [ADHD](https://open.spotify.com/track/3VVE1ZkBoIgDhHHIPGQvQh) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:23 |
@@ -356,4 +356,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 346 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 347 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcfZRAAAAABMaRYTsPNEC4yRJ3bEOriS`
+Snapshot ID: `AcfevAAAAABrz/BacCWYjY9EOZjXIGcP`

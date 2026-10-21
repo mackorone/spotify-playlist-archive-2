@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: DYGL",
+  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: Billyrrom",
   "name": "Rock Strike Japan",
   "tracks": [
     {
@@ -2435,6 +2435,24 @@
     },
     {
       "album": {
+        "name": "FINGERS CROSSED",
+        "url": "https://open.spotify.com/album/1gywVftidhH77Fv5DjRgNC"
+      },
+      "artists": [
+        {
+          "name": "ANORAK!",
+          "url": "https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129560,
+      "name": "BRITE",
+      "url": "https://open.spotify.com/track/7EarxSAzbNmgfNwo9NrVGE"
+    },
+    {
+      "album": {
         "name": "BROKEN GAMES",
         "url": "https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd"
       },
@@ -4084,7 +4102,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 177901,
       "name": "DREAM OF BUTTERFLY",
       "url": "https://open.spotify.com/track/611IQQ87evnbCgEFY9Cail"
@@ -4972,7 +4990,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 228650,
       "name": "Falling Leaves",
       "url": "https://open.spotify.com/track/4XKGr6TLphQxIsoeDRdBYU"
@@ -5121,6 +5139,24 @@
     },
     {
       "album": {
+        "name": "\u3075\u308c\u308b",
+        "url": "https://open.spotify.com/album/2t39b1S9CXjYu2v8yKR3df"
+      },
+      "artists": [
+        {
+          "name": "w.o.d.",
+          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268960,
+      "name": "Feelin'",
+      "url": "https://open.spotify.com/track/3kph8ILbNbg142prbibCQz"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/2tBrdyxwKLtADqTvmacSiL"
       },
@@ -5244,7 +5280,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 233122,
       "name": "Firestarter",
       "url": "https://open.spotify.com/track/5JpHfVIJG0XEJjUhnKeyhb"
@@ -6295,6 +6331,24 @@
     },
     {
       "album": {
+        "name": "The Golden Age",
+        "url": "https://open.spotify.com/album/0lKcuS206Gp5R91qDO05v1"
+      },
+      "artists": [
+        {
+          "name": "mudy on the \u6628\u6669",
+          "url": "https://open.spotify.com/artist/7m3Wr9xcBXSiUysFwOMLnx"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209662,
+      "name": "GOLD",
+      "url": "https://open.spotify.com/track/4yVwrAG2WtCWkAJs1NJhue"
+    },
+    {
+      "album": {
         "name": "GOLDEN GOAL",
         "url": "https://open.spotify.com/album/64ZG646ndz53D7Hw47eKjX"
       },
@@ -7196,7 +7250,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 186882,
       "name": "I disappear",
       "url": "https://open.spotify.com/track/54hmneLqgiUgLwni4yH9zK"
@@ -7392,6 +7446,24 @@
       "duration_ms": 155344,
       "name": "I wish I could speak English",
       "url": "https://open.spotify.com/track/0Rma80SKnybwbqFJFD0APG"
+    },
+    {
+      "album": {
+        "name": "meet me in my head",
+        "url": "https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242341,
+      "name": "i won't see you anymore",
+      "url": "https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT"
     },
     {
       "album": {
@@ -8912,6 +8984,24 @@
       "duration_ms": 220177,
       "name": "LAST PARADISE",
       "url": "https://open.spotify.com/track/5SfXOoYk181gFxteYvmGSo"
+    },
+    {
+      "album": {
+        "name": "Later",
+        "url": "https://open.spotify.com/album/4G0HulVRBgVZhmHL1zokA6"
+      },
+      "artists": [
+        {
+          "name": "Johnnivan",
+          "url": "https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272075,
+      "name": "Later",
+      "url": "https://open.spotify.com/track/1jtlK851YQPv8EY6wA59c3"
     },
     {
       "album": {
@@ -19197,6 +19287,24 @@
     },
     {
       "album": {
+        "name": "P\u2018I\u2019CTUS",
+        "url": "https://open.spotify.com/album/1pOY4nAT1zdEzgwklKNcoj"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "WGMM",
+      "url": "https://open.spotify.com/track/4VPkMfVajwW5xvuu7ZH1t8"
+    },
+    {
+      "album": {
         "name": "Whaleland",
         "url": "https://open.spotify.com/album/2s1h6j9l3AZJ8yEXAbCy4W"
       },
@@ -20132,7 +20240,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 225125,
       "name": "\u3042\u306e\u5b50\u306e\u984c\u540d",
       "url": "https://open.spotify.com/track/5ZTFYIuKOFCG9cyv9OT4Id"
@@ -24159,6 +24267,24 @@
     },
     {
       "album": {
+        "name": "Passion Tours",
+        "url": "https://open.spotify.com/album/5EQGqEvNwA29T9Y3sw8xkL"
+      },
+      "artists": [
+        {
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280862,
+      "name": "\u30d0\u30c3\u30ad\u30f3\u30ac\u30e0",
+      "url": "https://open.spotify.com/track/5CcNcNIKel7ZcwKGBuYUh0"
+    },
+    {
+      "album": {
         "name": "\u30d0\u30cb\u30e9",
         "url": "https://open.spotify.com/album/1t4hfGiNU92vuBhu625JVp"
       },
@@ -24494,7 +24620,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 319414,
       "name": "\u30d6\u30e9\u30c3\u30af\u30a2\u30a6\u30c8 (2026 Remaster)",
       "url": "https://open.spotify.com/track/1FKkbEQBYTdxOTiQ7wBH3C"

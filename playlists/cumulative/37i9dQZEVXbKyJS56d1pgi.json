@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 197862,
       "name": "Acordar",
       "url": "https://open.spotify.com/track/1M7pnSHpd4i5xFE2nUGq2W"
@@ -7816,7 +7816,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Chuva De Amor",
       "url": "https://open.spotify.com/track/0NUKgPv3y7seN48Ipm6HUM"
@@ -9762,7 +9762,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 203686,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/4VhSwcMCrXQgEfwls3s46o"
@@ -10530,6 +10530,28 @@
       "duration_ms": 125557,
       "name": "Disco Arranhado - Funk Remix",
       "url": "https://open.spotify.com/track/2Gjt4rUHBUH0rMKpBg0hF4"
+    },
+    {
+      "album": {
+        "name": "Lapa Rockstar",
+        "url": "https://open.spotify.com/album/2aipUGuhEFf6no6DBJoBYx"
+      },
+      "artists": [
+        {
+          "name": "Bas\u00edlio Teles",
+          "url": "https://open.spotify.com/artist/6XwHOjPtA2xWTBz46IoqI5"
+        },
+        {
+          "name": "Zigarro",
+          "url": "https://open.spotify.com/artist/1VCW4Jb8zoJLddJBQ75VJq"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Discoteca (feat. Zigarro)",
+      "url": "https://open.spotify.com/track/5JRmBCbV936idX0G1mS0Pd"
     },
     {
       "album": {
@@ -11546,7 +11568,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -13516,7 +13538,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 223935,
       "name": "expectations (feat. Chappell Roan)",
       "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
@@ -24248,7 +24270,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 215433,
       "name": "Mente Barulhenta",
       "url": "https://open.spotify.com/track/2364CtKIeJNVUnZZHKrzIr"
@@ -24312,7 +24334,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 103759,
       "name": "Mentira ou Verdade",
       "url": "https://open.spotify.com/track/71LFe32b7ne58NiL1jvwmp"
@@ -30068,7 +30090,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 194582,
       "name": "PENSAR EM TI (feat. Plutonio)",
       "url": "https://open.spotify.com/track/5WWtmQM2ECCgHTaKx590Wz"
@@ -44656,7 +44678,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 234284,
       "name": "\u00a1 +1 !",
       "url": "https://open.spotify.com/track/2Cq4FdClz7hIm4uJ25ziHA"

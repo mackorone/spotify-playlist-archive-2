@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Geolier, Fontaines D.C., Angelina Mango, Tate McRae, Olivia Rodrigo con Chappell Roan e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,764 likes - 95 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,747 likes - 95 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 56 | [Esci a giocare](https://open.spotify.com/track/6xH2EbV4yhOmCijp9IudAw) | [La Rivoluzione Industriale e le sue Conseguenze](https://open.spotify.com/artist/1oEMqcj6YTvRlRzV6Szyyl) | [Esci a giocare](https://open.spotify.com/album/4a3c4BBx4taaoKY8WMGlx9) | 2:33 |
 | 57 | [Bidonville](https://open.spotify.com/track/2cN07eWPfzpKpLpg0ncSkm) | [24 Grana](https://open.spotify.com/artist/3aEc0sswNXn2Mteu8YlVIS) | [Bidonville](https://open.spotify.com/album/2L3XnPng3CwPSIjcgUfWF8) | 3:29 |
 | 58 | [Possibili Superstiti](https://open.spotify.com/track/2BcPpNlwbn5hWGiwkFOKuW) | [Cristina Donà](https://open.spotify.com/artist/1g2HFj6CEZ0v4c6Wg0OmOq) | [Possibili Superstiti](https://open.spotify.com/album/2lculzaMvxlMcEH1Pc19J9) | 4:33 |
-| 59 | [Generazione](https://open.spotify.com/track/1dmuq3HyDqxuROPUM2WZvZ) | [Mauro Repetto](https://open.spotify.com/artist/7g7CB94xoBHiFYEEjMpQZn) | [Generazione](https://open.spotify.com/album/73sSxoC5zxA9g3phVO1Zg9) | 3:07 |
+| 59 | [Generazione](https://open.spotify.com/track/1dmuq3HyDqxuROPUM2WZvZ) | [Mauro Repetto](https://open.spotify.com/artist/5B1i0nAYVcJ4eVeySmBqr2) | [Generazione](https://open.spotify.com/album/73sSxoC5zxA9g3phVO1Zg9) | 3:07 |
 | 60 | [gran lavoro](https://open.spotify.com/track/4r5j63tAEgWgvxrX9St3VQ) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [gran lavoro](https://open.spotify.com/album/6s0q8fhp1HALlnC4JiMsA7) | 3:11 |
 | 61 | [dalla testa ai piedi](https://open.spotify.com/track/1nyRq0UoHJCApQQWncXVAy) | [Henna](https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX) | [dalla testa ai piedi](https://open.spotify.com/album/5L8KpSdAj3vbsQdojLt7Wq) | 3:20 |
 | 62 | [Pillola](https://open.spotify.com/track/0BjZFAP3gm2aezPlIbwHgj) | [Melancholia](https://open.spotify.com/artist/1y3Nbe31v5E2HV4stRgjPd) | [Pillola](https://open.spotify.com/album/6yJyDbUGSpq9ggmM64aOYX) | 5:29 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 94 | [Making Time](https://open.spotify.com/track/2ugaCgUAfAzzIC7XyHJW9m) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Making Time](https://open.spotify.com/album/79TB7PuEJjs4lMKR2b1Zwd) | 3:28 |
 | 95 | [Ex Lovers Club](https://open.spotify.com/track/6m7BgDocZEWq9aP6qcqwN2) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [Ex Lovers Club](https://open.spotify.com/album/4Xm5LWSKYKibcpfJgNsG7J) | 2:55 |
 
-Snapshot ID: `AAAAAIoZh47Qo1jNY5I/+7tiWzNaqOUG`
+Snapshot ID: `AAAAAKyb1A3rqyxGIqoGP7kymKeIp0yS`

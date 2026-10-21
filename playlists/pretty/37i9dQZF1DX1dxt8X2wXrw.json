@@ -1,12 +1,12 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 83709,
+  "num_followers": 83707,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABBlUm1T84dUl5nEZzEWA8L6D4vg",
+  "snapshot_id": "AAAAANZRAiT9cuQlCbCpfci5qWodgtMA",
   "tracks": [
     {
       "added_at": "2026-09-17 14:01:29",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Ring Ring Ring",
-      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "Charm",
         "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Ring Ring Ring",
+      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 227706,
       "name": "YOU'RE THE ONE",
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "TWENTIES",
-        "url": "https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 171955,
-      "name": "TWENTIES",
-      "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "Never Be Yours",
         "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 196025,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "TWENTIES",
+        "url": "https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 171955,
+      "name": "TWENTIES",
+      "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "Toroka",
-        "url": "https://open.spotify.com/album/4ygUCm61U3CV3xnJepGieC"
-      },
-      "artists": [
-        {
-          "name": "Christian Kuria",
-          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
-        }
-      ],
-      "duration_ms": 202075,
-      "name": "Toroka",
-      "url": "https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "HOT GIRL PROBLEMS",
         "url": "https://open.spotify.com/album/2EXP8hqxLe0BorbTWvJDgt"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 177777,
       "name": "HOT GIRL PROBLEMS",
       "url": "https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "Toroka",
+        "url": "https://open.spotify.com/album/4ygUCm61U3CV3xnJepGieC"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        }
+      ],
+      "duration_ms": 202075,
+      "name": "Toroka",
+      "url": "https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "When I Get Drunk (I Want You Boy)",
-        "url": "https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "When I Get Drunk (I Want You Boy)",
-      "url": "https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "FLAMES",
         "url": "https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+        "name": "When I Get Drunk (I Want You Boy)",
+        "url": "https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 182306,
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
+      "duration_ms": 205720,
+      "name": "When I Get Drunk (I Want You Boy)",
+      "url": "https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -1179,6 +1163,22 @@
       "duration_ms": 235705,
       "name": "Reputation (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
     },
     {
       "added_at": "2026-09-17 14:01:29",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-09-17 14:01:29",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
-    },
-    {
-      "added_at": "2026-09-17 14:01:29",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 135013,
       "name": "Crush",
       "url": "https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC"
+    },
+    {
+      "added_at": "2026-09-17 14:01:29",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2026-09-17 14:01:29",

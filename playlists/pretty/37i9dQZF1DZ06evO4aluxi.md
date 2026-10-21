@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,542 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,552 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 49 | [God Winks](https://open.spotify.com/track/28WKrR6DVTQnIgSbYez5Gl) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [God Winks](https://open.spotify.com/album/57DLfvLEZSu7hAgVQYzL2m) | 3:26 |
 | 50 | [How Do We Get There From Here \(feat\. Ruby Amanfu\)](https://open.spotify.com/track/5nVsCwuDEOGvoOAk5SUw6D) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [The Me That Remains](https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4) | 4:28 |
 
-Snapshot ID: `atQMAAAAAAAzxApU5g9N4OnvoOGRpAxZ`
+Snapshot ID: `atVdgAAAAACYlX/QNGAdAu0sGK/paJ6e`

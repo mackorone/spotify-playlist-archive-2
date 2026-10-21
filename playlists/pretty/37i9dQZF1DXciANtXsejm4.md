@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,968 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,043 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 77 | [A Decirme Que](https://open.spotify.com/track/4KIoWx4KWdFCH51MoQ3vXw) | [Los Lirios](https://open.spotify.com/artist/2ReWmmj0OAP89u8ff3oN8A) | [25 Años Clásicos Con Clásicos](https://open.spotify.com/album/3yRkYWmRNloQ3t2zAjx5sY) | 4:04 |
 | 78 | [Conmigo Te Gustó](https://open.spotify.com/track/43DJZnMU894sjYBDx6HHO8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [En Directo \- Piel Con Piel](https://open.spotify.com/album/6AsaITRESy0yBVHxo7GNtQ) | 1:37 |
 | 79 | [Hasta el Sol de Hoy \- En Vivo](https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy) | [Mario Pereyra y Su Banda](https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y) | [El Aguante Continúa...En Concierto \(En Vivo\)](https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a) | 2:17 |
-| 80 | [A través del vaso](https://open.spotify.com/track/65u2ej8u0QdVjRYNN0s4zm) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg), [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [La voz de la cumbia \(Mix\)](https://open.spotify.com/album/3pYJUba60wYrZ54pFVnYOX) | 1:57 |
+| 80 | [En Una de Esas](https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [En Una de Esas](https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5) | 3:17 |
 
-Snapshot ID: `AAAAAI6pPNrbgKuQ11BY476rPJBNEEv+`
+Snapshot ID: `AAAAAMDqvcwBcGr3gcgjyRW+W/wnVvvM`

@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\.  Cover: Fireboy DML
 
-867 songs - 1 day 19 hr 45 min
+868 songs - 1 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,7 +592,7 @@
 | [On a Kentro \(feat\. L.A.X\)](https://open.spotify.com/track/2Cz1ppqlF9Ozk1UgumS7Oc) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Peace by Piece](https://open.spotify.com/album/06dCmbV7kTlPBXLhGEEgqQ) | 2:41 | 2025-09-26 | 2025-12-01 |
 | [On my mind](https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [On my mind](https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT) | 2:43 | 2026-06-26 | 2026-10-09 |
 | [On My Own](https://open.spotify.com/track/4WJGwQZIw2jXTyyVgxLt8l) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [On My Own / Let Them Know](https://open.spotify.com/album/7j1l0N2kSatGgo7AE43MbJ) | 3:18 | 2026-08-21 | 2026-09-25 |
-| [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 | 2025-08-01 |  |
+| [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 | 2025-08-01 | 2026-10-21 |
 | [ONE CALL](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [ONE CALL](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 | 2024-07-19 | 2026-05-19 |
 | [One Condition](https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [One Condition](https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD) | 3:54 | 2025-07-25 |  |
 | [One Side \- Remix](https://open.spotify.com/track/1ipr0yVUgIworATMZrTAhG) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [One Side \(Remix\)](https://open.spotify.com/album/5fDSeMU8zMued647WjTnyj) | 3:18 | 2023-09-21 | 2023-11-09 |
@@ -870,6 +870,7 @@
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 | 2022-09-30 |
 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 | 2025-08-08 | 2026-09-11 |
 | [Your Body](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Your Body](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 | 2024-06-14 | 2024-07-05 |
+| [Your Body \(Crazy\)](https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Your Body \(Crazy\)](https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz) | 2:39 | 2026-10-16 |  |
 | [YoYo](https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [YoYo](https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys) | 3:20 | 2026-08-28 | 2026-10-09 |
 | [Zion](https://open.spotify.com/track/00NCm17kFsopwWhGgr78Rn) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Zion](https://open.spotify.com/album/4FROhFm0W81XPKioDYDoFg) | 3:58 | 2026-04-24 |  |
 | [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/track/648h77piOsFhlzniWDHqBo) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/album/2OPQRNJ1Mcon7wWKMlNVab) | 4:03 | 2024-06-21 | 2024-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Marra & Elisa in cover 🪽🪽
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,317 likes - 105 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,310 likes - 105 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 70 | [Blocco](https://open.spotify.com/track/53XOl5fbG1dxv8JNB8VkdS) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:01 |
 | 71 | [Devo Andare Con Le Mie Winx \(feat\. Rhove\)](https://open.spotify.com/track/5eVWsjUs8OUajXFUWk9fXo) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg), [Balanta](https://open.spotify.com/artist/0UCRZg1uufYhRxQ6Gm3eij) | [È O G.](https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd) | 2:13 |
 | 72 | [MAN OF THE YEAR](https://open.spotify.com/track/5GnxXxy4SSSpWZjhURler1) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [MAN OF THE YEAR](https://open.spotify.com/album/3y1OgsNyu0BzU0PCNdCNTR) | 3:03 |
-| 73 | [3uphon](https://open.spotify.com/track/2mmbawJFVgPuQhdQpsHsRl) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:15 |
+| 73 | [3uphon](https://open.spotify.com/track/2mmbawJFVgPuQhdQpsHsRl) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:15 |
 | 74 | [Giovani Re](https://open.spotify.com/track/1YxG9XcjtJgxTN6OenRh1V) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL) | 2:48 |
 | 75 | [Babyface](https://open.spotify.com/track/5LN0gLSxSEaigog3VjCci3) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 2:57 |
 | 76 | [READY ROCK \(2/3\)](https://open.spotify.com/track/6PpHEYTevowFW2TwLDNCRv) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ASPETTANDO LA BELLA VITA \- Before and After](https://open.spotify.com/album/2Ai4mlifU1ng53CBXc93L5) | 2:35 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 104 | [PUTTANA SVIZZERA CON NERISSIMA SERPE, PAPA V, 6OCCIA](https://open.spotify.com/track/4uri8E52AMEg2HKMkfolHL) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [6occia](https://open.spotify.com/artist/2VXJau991JXvbeF48YVjoX) | [DISINCANTO](https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB) | 3:21 |
 | 105 | [Dedicated \(feat\. Noyz Narcos\)](https://open.spotify.com/track/4iIGP2u4BftHmMenXYWOyt) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [KG](https://open.spotify.com/album/2BZoZOivm2Khc1jSTRaswS) | 3:56 |
 
-Snapshot ID: `AAAAAHGevzC3rZv1PhuGSN/db2mfdP0T`
+Snapshot ID: `AAAAAAvtMRhUv5NWowBu731ZxQERbPsF`

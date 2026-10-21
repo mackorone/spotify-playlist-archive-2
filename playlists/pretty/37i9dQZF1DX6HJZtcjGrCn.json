@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: NAPA",
-  "num_followers": 40896,
+  "num_followers": 40894,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPvtC00eZHSlo3m2+YlSFPBgiGyB",
+  "snapshot_id": "AAAAAAxqAAzUd6HXVOXCCf8RkPcX7ijY",
   "tracks": [
     {
       "added_at": "2026-10-15 23:00:26",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-10-15 23:00:26",
       "album": {
+        "name": "From The Pyre",
+        "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 238930,
+      "name": "Count The Ways",
+      "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
+    },
+    {
+      "added_at": "2026-10-15 23:00:26",
+      "album": {
         "name": "Homesick (with Sam Fender)",
         "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 194416,
       "name": "Homesick (with Sam Fender)",
       "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
-    },
-    {
-      "added_at": "2026-10-15 23:00:26",
-      "album": {
-        "name": "From The Pyre",
-        "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 238930,
-      "name": "Count The Ways",
-      "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
     },
     {
       "added_at": "2026-10-15 23:00:26",

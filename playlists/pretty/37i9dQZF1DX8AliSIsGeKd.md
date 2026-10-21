@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: SKIY
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,357 likes - 89 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,389 likes - 89 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [Ritmo](https://open.spotify.com/track/2Gg8ftFeGijVOUn7xIQzqD) | [Kassian](https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx) | [Ritmo](https://open.spotify.com/album/1wGQhdnMzc4cUdHj0n6KAE) | 3:08 |
 | 89 | [Sentimental Ultra](https://open.spotify.com/track/0wYPKYQolCnObH3WJ3Pzmk) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Spriitzz](https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D) | [Sentimental Ultra](https://open.spotify.com/album/3mwrUezSGWpXz75S49oIqT) | 3:12 |
 
-Snapshot ID: `AAAAAKD11G6sMpg2thCMmy1h5u7XlpMx`
+Snapshot ID: `AAAAAAH1pkmpOJfalO9NGZp1a+MmS+9b`

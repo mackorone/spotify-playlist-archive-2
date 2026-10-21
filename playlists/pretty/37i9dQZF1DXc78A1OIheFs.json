@@ -1,12 +1,12 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: L.A.B.",
-  "num_followers": 19458,
+  "num_followers": 19459,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOYatZrDX3x5C2IybyX7vCssZAdW",
+  "snapshot_id": "AAAAAH/aqLFhcRhAueyoVmKlgTb1D4Sy",
   "tracks": [
     {
       "added_at": "2026-10-15 13:00:44",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-10-15 13:00:44",
       "album": {
-        "name": "Wabi Sabi",
-        "url": "https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Stairways",
-      "url": "https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn"
-    },
-    {
-      "added_at": "2026-10-15 13:00:44",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6"
       },
@@ -811,22 +795,18 @@
     {
       "added_at": "2026-10-15 13:00:44",
       "album": {
-        "name": "Don\u2019t Call It Love",
-        "url": "https://open.spotify.com/album/2GQA3K9IZkwfrMEallCO1p"
+        "name": "Wabi Sabi",
+        "url": "https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf"
       },
       "artists": [
         {
-          "name": "Jonathan Bree",
-          "url": "https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh"
-        },
-        {
-          "name": "Adah Dylan",
-          "url": "https://open.spotify.com/artist/7ByPzrMoxa3wStzuXS1WhU"
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
         }
       ],
-      "duration_ms": 247509,
-      "name": "Don't Call It Love",
-      "url": "https://open.spotify.com/track/5lDBhkVY56oiH5dSbH956X"
+      "duration_ms": 189374,
+      "name": "Stairways",
+      "url": "https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn"
     },
     {
       "added_at": "2026-10-15 13:00:44",
@@ -843,6 +823,26 @@
       "duration_ms": 145445,
       "name": "Harmless",
       "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
+    },
+    {
+      "added_at": "2026-10-15 13:00:44",
+      "album": {
+        "name": "Don\u2019t Call It Love",
+        "url": "https://open.spotify.com/album/2GQA3K9IZkwfrMEallCO1p"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Bree",
+          "url": "https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh"
+        },
+        {
+          "name": "Adah Dylan",
+          "url": "https://open.spotify.com/artist/7ByPzrMoxa3wStzuXS1WhU"
+        }
+      ],
+      "duration_ms": 247509,
+      "name": "Don't Call It Love",
+      "url": "https://open.spotify.com/track/5lDBhkVY56oiH5dSbH956X"
     },
     {
       "added_at": "2026-10-15 13:00:44",
@@ -971,6 +971,26 @@
     {
       "added_at": "2026-10-15 13:00:44",
       "album": {
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        },
+        {
+          "name": "TAWAZ",
+          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
+        }
+      ],
+      "duration_ms": 177989,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2026-10-15 13:00:44",
+      "album": {
         "name": "pick me up",
         "url": "https://open.spotify.com/album/6LcCgovJTuaMH8hRkPEOjS"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 190153,
       "name": "Bless the Broken Road",
       "url": "https://open.spotify.com/track/2M4KSVZ6hcCPljuCkXQCFQ"
-    },
-    {
-      "added_at": "2026-10-15 13:00:44",
-      "album": {
-        "name": "I Want More",
-        "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
-      },
-      "artists": [
-        {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        },
-        {
-          "name": "TAWAZ",
-          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
-        }
-      ],
-      "duration_ms": 177989,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
     },
     {
       "added_at": "2026-10-15 13:00:44",
@@ -1103,22 +1103,18 @@
     {
       "added_at": "2026-10-15 13:00:44",
       "album": {
-        "name": "Under One Roof",
-        "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
+        "name": "Floodlights",
+        "url": "https://open.spotify.com/album/2Q6MqlMYiiAGZyWdFFyCiZ"
       },
       "artists": [
         {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Sam Welch",
-          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+          "name": "PARK RD",
+          "url": "https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo"
         }
       ],
-      "duration_ms": 254281,
-      "name": "Under One Roof",
-      "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
+      "duration_ms": 258333,
+      "name": "Floodlights",
+      "url": "https://open.spotify.com/track/7dduyo9MVWpKSYjrQGoCcP"
     },
     {
       "added_at": "2026-10-15 13:00:44",
@@ -1135,6 +1131,26 @@
       "duration_ms": 254385,
       "name": "Under The Surface",
       "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
+    },
+    {
+      "added_at": "2026-10-15 13:00:44",
+      "album": {
+        "name": "Under One Roof",
+        "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        }
+      ],
+      "duration_ms": 254281,
+      "name": "Under One Roof",
+      "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
     },
     {
       "added_at": "2026-10-15 13:00:44",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2026-10-15 13:00:44",
       "album": {
-        "name": "Floodlights",
-        "url": "https://open.spotify.com/album/2Q6MqlMYiiAGZyWdFFyCiZ"
-      },
-      "artists": [
-        {
-          "name": "PARK RD",
-          "url": "https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Floodlights",
-      "url": "https://open.spotify.com/track/7dduyo9MVWpKSYjrQGoCcP"
-    },
-    {
-      "added_at": "2026-10-15 13:00:44",
-      "album": {
         "name": "thought of you",
         "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
       },
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2026-10-15 13:00:44",
       "album": {
-        "name": "When He Was Mine (Pele Fo'i Mai)",
-        "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
       },
       "artists": [
         {
-          "name": "A.R.T",
-          "url": "https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU"
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
         }
       ],
-      "duration_ms": 156516,
-      "name": "When He Was Mine (Pele Fo'i Mai)",
-      "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
+      "duration_ms": 169693,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
     }
   ],
   "unique_name": "The Local List Aotearoa",

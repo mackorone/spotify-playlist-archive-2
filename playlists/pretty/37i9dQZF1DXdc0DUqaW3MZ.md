@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,055 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,078 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 62 | [Middle of Things, Beautiful Wife \(feat\. Xavier Omär\)\)](https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [North](https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP) | 3:42 |
 | 63 | [Found a Love](https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [The Voices of Epoch](https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r) | [Found a Love](https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG) | 3:55 |
 | 64 | [DAY&NITE](https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [DAY&NITE](https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB) | 3:25 |
-| 65 | [Can't Deny](https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS) | [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg) | [Can't Deny](https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz) | 2:42 |
-| 66 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 |
+| 65 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 |
+| 66 | [Can't Deny](https://open.spotify.com/track/5iTy8oqFjqdNPY3QZxq0tS) | [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg) | [Can't Deny](https://open.spotify.com/album/1peaO7KtUAfYM7mkKX1hVz) | 2:42 |
 | 67 | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92) | 3:32 |
 | 68 | [Elm](https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Elm](https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB) | 3:47 |
-| 69 | [Dreams](https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Hadiya George](https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9) | [Free](https://open.spotify.com/album/0pAeOztdTpCdExPMEbziSn) | 3:15 |
-| 70 | [Ching](https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Ching](https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa) | 1:58 |
+| 69 | [Ching](https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Ching](https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa) | 1:58 |
+| 70 | [Dreams](https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Hadiya George](https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9) | [Free](https://open.spotify.com/album/0pAeOztdTpCdExPMEbziSn) | 3:15 |
 
-Snapshot ID: `AAAAABcmOn7/g9QkDPsABet8AytTSeOk`
+Snapshot ID: `AAAAAOD+AxVwVjXYXvYFNlGleqb7r1rD`

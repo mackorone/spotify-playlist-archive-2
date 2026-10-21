@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 原因は自分にある。
 
-12,952 songs - 32 day 1 hr 39 min
+12,953 songs - 32 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2231,7 +2231,7 @@
 | [GOLD](https://open.spotify.com/track/6HYpQGHxng9rFmGyWDSmRY) | [Ooochie Koochie](https://open.spotify.com/artist/6C63Dia34mMK2wzE5uEvQF), [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0), [Koji Kikkawa](https://open.spotify.com/artist/1S6yZL1OIb51tEtbKg3iZ1) | [GOLD](https://open.spotify.com/album/0THCjf3evBct33lVNvzrPb) | 4:49 | 2025-03-03 | 2025-03-11 |
 | [GOLDEN BUDDY \(feat\. くるま\)](https://open.spotify.com/track/5wpOZzvsXpZyM6yblEMRv9) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx), [くるま](https://open.spotify.com/artist/2A9KcnzAkVOiKKCE4VJJEf) | [GOLDEN BUDDY \(feat\. くるま\)](https://open.spotify.com/album/6b6lvud6lpyUkay9YreLIq) | 3:09 | 2024-11-04 | 2024-11-12 |
 | [golden lighter](https://open.spotify.com/track/4rZh3T96SXCwTj2pqfHvT1) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [golden lighter](https://open.spotify.com/album/5vhutgtENV2ejAScLdFcI0) | 7:42 | 2025-09-22 | 2026-01-20 |
-| [Golden Moonlight](https://open.spotify.com/track/76ZEKR8cfWK14ytTbe8R6D) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [Golden Moonlight](https://open.spotify.com/album/1dQYy1AiKmMjsxlkdqPSjz) | 5:09 | 2026-10-19 |  |
+| [Golden Moonlight](https://open.spotify.com/track/76ZEKR8cfWK14ytTbe8R6D) | [烏兎 \-uto\-](https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc) | [Golden Moonlight](https://open.spotify.com/album/1dQYy1AiKmMjsxlkdqPSjz) | 5:09 | 2026-10-19 | 2026-10-21 |
 | [Golden Velvet](https://open.spotify.com/track/0HV71iTmGYkM986cZA4g3e) | [YOUR ADVISORY BOARD](https://open.spotify.com/artist/31anohzaOkr2LPxBoOOUD0) | [Golden Velvet](https://open.spotify.com/album/2MuTjshQpcXTPsOnAXjCph) | 5:32 | 2024-10-14 | 2024-10-22 |
 | [GOLDENWEEK](https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [GOLDENWEEK](https://open.spotify.com/album/1S6e6usL4vviKyushy0N10) | 3:20 | 2024-05-14 | 2024-05-21 |
 | [Goldfish](https://open.spotify.com/track/4OjvHkLROGogLzFv9GgnBZ) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx), [Raine](https://open.spotify.com/artist/1hxElSEVvcFYd7lTQaTXYG) | [Goldfish](https://open.spotify.com/album/15tGRr56xoL3PSrU2SLRkm) | 3:51 | 2023-10-02 | 2023-10-17 |
@@ -4167,6 +4167,7 @@
 | [NIGHT OWL](https://open.spotify.com/track/3PEbdU0U3P05AyQO2yTqIg) | [o.j.o](https://open.spotify.com/artist/1MIdwKIUNy1zQ810pq45Ti) | [NIGHT OWL](https://open.spotify.com/album/0MCAXaeyYV6vYIFnpMlMEa) | 3:13 | 2026-06-30 | 2026-07-21 |
 | [Night Session](https://open.spotify.com/track/2Ne03AM5kPOFEi5HKjRrmi) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Night Session](https://open.spotify.com/album/1h14fgwVDelTabJJkPlWTn) | 2:29 | 2022-07-04 | 2022-07-19 |
 | [Night Taxi](https://open.spotify.com/track/5VgRigCig9uB2uMV3l3uDH) | [透明回路](https://open.spotify.com/artist/7vjPFhfzPYZu0sdrJe5vJA) | [Night Taxi](https://open.spotify.com/album/5qPdI33XmztTNloxAO166g) | 2:40 | 2026-08-18 | 2026-08-25 |
+| [Night Trip](https://open.spotify.com/track/0Orq6LwejPT5nWy9jU76mE) | [ななえ](https://open.spotify.com/artist/0btiNWNHhgJQ27R0OAwkMA) | [Night Trip](https://open.spotify.com/album/4d31rG0CKVZykLUOslDh9a) | 3:23 | 2026-10-20 |  |
 | [Night Walk](https://open.spotify.com/track/7ERiIS8XD632SuBvzjyi8P) | [Quw](https://open.spotify.com/artist/17ryZCE9CTpuNkJMYTwB5M) | [思惑](https://open.spotify.com/album/4LZloemloP3yJlRuLiVfe0) | 2:53 | 2024-05-07 | 2024-05-14 |
 | [Night Walker](https://open.spotify.com/track/05rYDAnKs1hsaIBC0dZJqE) | [the Sheep Beam](https://open.spotify.com/artist/1LVCYP6CnLCX1LEkq2A1Yp) | [Night Walker](https://open.spotify.com/album/7vlJqyOmP0ne4tkjPyoqNX) | 4:16 | 2022-12-20 | 2022-12-28 |
 | [Night with No Name](https://open.spotify.com/track/2TvUJyqcoe7nUk4nTNpgaD) | [annnk](https://open.spotify.com/artist/25oACpEqiNcUAbK9eZ28lU), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Night with No Name](https://open.spotify.com/album/5fisQ3qzxaJ8F5hXEIvrZs) | 3:14 | 2024-04-22 | 2024-05-07 |

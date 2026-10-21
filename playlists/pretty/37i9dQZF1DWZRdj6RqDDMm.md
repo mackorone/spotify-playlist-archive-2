@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Sal Ly
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,246 likes - 103 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,286 likes - 103 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 102 | [OVER ME](https://open.spotify.com/track/0jKcIawFIGx0ZaB8Ulo1sJ) | [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [OVER ME](https://open.spotify.com/album/2GoyTzcQeTX70NSgHbMsWK) | 2:56 |
 | 103 | [With you](https://open.spotify.com/track/5I7TtT69kgDmU4Jo7JowvA) | [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx), [Shime Ahua](https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5) | [With you](https://open.spotify.com/album/0BSmdxQJPazdNVkQsm4Vhy) | 2:56 |
 
-Snapshot ID: `AAAAAAP2XJFFEgpI+EHV6WH9ewVLab1m`
+Snapshot ID: `AAAAAOPre/qF6fpfmLuqlaF9rX/fq0WZ`

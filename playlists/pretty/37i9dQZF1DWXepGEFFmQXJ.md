@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's country crop\. Cover: Zach Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,802 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,806 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 49 | [Little Red Number](https://open.spotify.com/track/2kdc0dTPGGhfOrdznE9hpB) | [TheWesternGuide](https://open.spotify.com/artist/3Ps1KUmU2DZIpboms9Bozn) | [Little Red Number](https://open.spotify.com/album/5IqQuDDu0dA9HhvScKUgb3) | 3:28 |
 | 50 | [Take Me Home](https://open.spotify.com/track/404HkGbdie5tqrkFGs1pSB) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Take Me Home](https://open.spotify.com/album/0Oah9EbCYErHmTl68eXbCh) | 3:05 |
 
-Snapshot ID: `AAAAAEW5YPfXZCzXhBE4kOTqSFI6ny6Q`
+Snapshot ID: `AAAAANaKFK4MZEoOZnwgJqXK+q7F9A9m`

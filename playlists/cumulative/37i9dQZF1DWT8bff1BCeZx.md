@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,152 songs - 3 day 4 hr 34 min
+1,153 songs - 3 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [Jesu Ni](https://open.spotify.com/track/6tYErAAwdY1kXzdbAxLTpM) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI) | [Jesu Ni](https://open.spotify.com/album/45nDWS71Eu1YxtnlDgupdn) | 3:11 | 2026-02-27 | 2026-05-22 |
 | [Jesus](https://open.spotify.com/track/7IuiH0WfXnzIyKqgp9MwL9) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [The Road Best Travelled](https://open.spotify.com/album/7mlcnYrdZSLwKh5qgPvdXG) | 3:14 | 2025-03-07 | 2025-03-14 |
 | [Jesus](https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Jesus](https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2) | 3:36 | 2023-12-15 | 2024-04-23 |
+| [Jesus Don Win](https://open.spotify.com/track/5dfhfZ8CXlxCehe5cJGKtE) | [Chinwe Zoe](https://open.spotify.com/artist/4uJO4oUQkFkxTTPMGAL9nL) | [Jesus Don Win](https://open.spotify.com/album/3CdAw62SeDBFxoSzUeNTPY) | 5:53 | 2026-10-16 |  |
 | [Jesus Has Won](https://open.spotify.com/track/2Zs2RddCnSBPQJXZyVXCSB) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Jesus Has Won](https://open.spotify.com/album/2C9WtoYZCIoZgOeDrTP0XG) | 3:26 | 2026-06-19 | 2026-09-25 |
 | [Jesus is Here](https://open.spotify.com/track/1Yom3J7GN8Br9G7eME6blJ) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi), [Ackhim](https://open.spotify.com/artist/0b1sRWMoNA6mOxm9Nhbdcx) | [Jesus is Here](https://open.spotify.com/album/5iEX891IxCvC4tAHLrT9F7) | 1:34 | 2025-03-14 | 2025-05-09 |
 | [Jesus Is King](https://open.spotify.com/track/7nOj6HWJnAoJ8zP7JsLDZl) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Jesus Is King](https://open.spotify.com/album/6LFJUTzIRS3xcdb1bE875i) | 7:46 | 2026-02-13 | 2026-03-27 |
@@ -984,7 +985,7 @@
 | [Thank You For Being God](https://open.spotify.com/track/1rSWT087L7tr7gU4eQ73Ie) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 5:16 | 2025-06-06 | 2025-11-14 |
 | [Thank You Jesus](https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Thank You Jesus](https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4) | 9:22 | 2025-10-17 | 2026-01-15 |
 | [Thank You Jesus](https://open.spotify.com/track/3GLsRIMYWv1Cwi0tcFfPlN) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [Thank You Jesus](https://open.spotify.com/album/5alH2kIoUmr7So0wIUMXlJ) | 4:16 | 2026-02-13 | 2026-03-13 |
-| [Thank You Jesus \- Amapiano](https://open.spotify.com/track/7qbTn2bNnoFSuW0skjyzFw) | [ToLmusic](https://open.spotify.com/artist/4cCnxbnfiFhwZQnEmQf5Dt) | [Thank You Jesus \(Amapiano\)](https://open.spotify.com/album/5KBUE0OHb3fnfE1yWGok8k) | 3:33 | 2026-10-02 |  |
+| [Thank You Jesus \- Amapiano](https://open.spotify.com/track/7qbTn2bNnoFSuW0skjyzFw) | [ToLmusic](https://open.spotify.com/artist/4cCnxbnfiFhwZQnEmQf5Dt) | [Thank You Jesus \(Amapiano\)](https://open.spotify.com/album/5KBUE0OHb3fnfE1yWGok8k) | 3:33 | 2026-10-02 | 2026-10-21 |
 | [Thank You Lord](https://open.spotify.com/track/1VmZVKjhyh8d1jAEMMcW33) | [Eno Michael](https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk), [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Thank You Lord](https://open.spotify.com/album/33x6g9QEHsv4fTQwlh3rFF) | 4:51 | 2026-10-16 |  |
 | [Thanksgiving SZN](https://open.spotify.com/track/29h4WJUiN9tcOyAePYL7K1) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I) | [Thanksgiving SZN](https://open.spotify.com/album/2c7PW8nDJT3cGYUl0KepR3) | 3:33 | 2026-09-25 |  |
 | [THAT GENERATION \- Live From The Song Of Sons Project](https://open.spotify.com/track/410PJqCS2fOaTu058aFNPr) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [THAT GENERATION \(Live From The Song Of Sons Project\)](https://open.spotify.com/album/1iWxYvs1BENg4iGSahahEz) | 4:19 | 2025-04-04 | 2025-06-13 |

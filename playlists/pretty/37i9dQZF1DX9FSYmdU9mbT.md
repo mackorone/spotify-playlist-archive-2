@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Maria Bethânia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,473,581 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,473,593 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 43 | [A Festa \- Acústico](https://open.spotify.com/track/3YM4WkQaQhzjf40skwwadH) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [A Festa \(Acústico\)](https://open.spotify.com/album/1DtKWa3ZQLTmmN3nGuKPZ1) | 5:30 |
 | 44 | [O Que É Que Há](https://open.spotify.com/track/4UPhXYKlkMcmGqoEamcABC) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [O Que É Que Há](https://open.spotify.com/album/5GY5057U8mZPzaqLXZj8Sa) | 3:45 |
 | 45 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 |
-| 46 | [Amigos Novos e Antigos](https://open.spotify.com/track/4lfemtNyGfHygcrF5C2tg4) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx) | [Amigos Novos e Antigos](https://open.spotify.com/album/1fR9eyUb98QHYIiB5Wz4ms) | 4:36 |
-| 47 | [Encontro](https://open.spotify.com/track/4THhSMVKTUASFp9N3mYlVU) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:24 |
+| 46 | [Encontro](https://open.spotify.com/track/4THhSMVKTUASFp9N3mYlVU) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:24 |
+| 47 | [Amigos Novos e Antigos](https://open.spotify.com/track/4lfemtNyGfHygcrF5C2tg4) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx) | [Amigos Novos e Antigos](https://open.spotify.com/album/1fR9eyUb98QHYIiB5Wz4ms) | 4:36 |
 | 48 | [Futuros Amantes](https://open.spotify.com/track/6sbrjXKaQJWJvcnHCeEwcs) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque Essencial \(Box\)](https://open.spotify.com/album/4gafiyqvGbedBLQku5vFQQ) | 3:30 |
 | 49 | [Como 2 E 2 \- Ao Vivo / Introdução](https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal A Todo Vapor \(Live\)](https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs) | 2:45 |
 | 50 | [Malandro](https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Lição de Vida](https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 99 | [Brasil \- Ao Vivo no Coala Festival](https://open.spotify.com/track/7IeaNWQPnqgUhsdDdmXCs8) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [As Várias Pontas de uma Estrela \(Ao Vivo no Coala Festival\)](https://open.spotify.com/album/72ZE9c4C3akkC7g1flS0A1) | 3:38 |
 | 100 | [Toda Menina Baiana \- Ao Vivo](https://open.spotify.com/track/0drLWHcGw3j6xZKn7zGJ7X) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Especial Ivete, Gil E Caetano \(Ao Vivo No Projac, Rio De Janeiro / 2011\)](https://open.spotify.com/album/3hOAYii7ltL7zatrSVtBQc) | 3:22 |
 
-Snapshot ID: `AAAAAAon3TDSXmvBsZyYukZrxk8KgR+R`
+Snapshot ID: `AAAAAH9kM+QXJwU2mTKXbRqcuPE7PpD6`

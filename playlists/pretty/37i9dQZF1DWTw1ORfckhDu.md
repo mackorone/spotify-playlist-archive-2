@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,465 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,451 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 99 | [Onko jossain](https://open.spotify.com/track/0INrYZEDtgLuzUuRKBSWAY) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Onko jossain](https://open.spotify.com/album/5jpMIOgqYCFBCrD61e7UBc) | 3:23 |
 | 100 | [Vegas](https://open.spotify.com/track/1FSLfeVSwPw5eIYZ8dMTG5) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Vegas](https://open.spotify.com/album/6pWr8NFneDblJvbXdkJttO) | 2:25 |
 
-Snapshot ID: `AAAAAJPoY8pSSMb7RUcRSo3GK0OTuFHx`
+Snapshot ID: `AAAAAArXL2deY9F7/sL9AoQa0mEk41gA`

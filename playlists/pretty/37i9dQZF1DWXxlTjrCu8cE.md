@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,674 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,699 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 27 | [Tortura \- Ao Vivo](https://open.spotify.com/track/0CR7xCXgBdErtTS68LtW5e) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Pagode do Diferentão 2 \(Ao Vivo\)](https://open.spotify.com/album/2A5gjIozPAntj0PypxxUD2) | 2:37 |
 | 28 | [Não Te Mereço](https://open.spotify.com/track/1jjpREr7VVD0z1EOyXQNaz) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Não Te Mereço](https://open.spotify.com/album/1ULFpp9CJG4LBi5VlwbyzK) | 3:39 |
 | 29 | [Curva \- Ao Vivo](https://open.spotify.com/track/3y8K3fMJr5SHlnaJKnH1UR) | [Bruno Diegues](https://open.spotify.com/artist/77BRZxLjoqGGTrra6Sx8uP), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Mais Uma Noite \(Ao Vivo\)](https://open.spotify.com/album/6QVC5XuYxelhZI97xYsyNq) | 3:11 |
-| 30 | [Obrigado Deus \- Ao Vivo](https://open.spotify.com/track/0UXOixWIeq56y2ClXOP7bW) | [Pagode Restaura](https://open.spotify.com/artist/57XFcSi83RxJN7TiOiIs5C) | [Obrigado Deus \(Ao Vivo\)](https://open.spotify.com/album/25sAX6GQ3Vcs0FL7997U5T) | 3:22 |
+| 30 | [Obrigado Deus](https://open.spotify.com/track/0UXOixWIeq56y2ClXOP7bW) | [Pagode Restaura](https://open.spotify.com/artist/57XFcSi83RxJN7TiOiIs5C) | [Obrigado Deus \(Ao Vivo\)](https://open.spotify.com/album/25sAX6GQ3Vcs0FL7997U5T) | 3:22 |
 | 31 | [A Fila Anda \- Ao Vivo](https://open.spotify.com/track/47EEgS4GK27ZTSA82EmIWI) | [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [Revelação 30 Anos: O Nosso Samba Virou Religião!, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/39pTNskJhORlMMPDTZY0oH) | 2:52 |
 | 32 | [Banjo E Boné \- Ao Vivo](https://open.spotify.com/track/3n9qVrN5kbErDCj51tJvEE) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Banjo E Boné \(Ao Vivo\)](https://open.spotify.com/album/02yzZwEiWu5iGYoLDFyFVd) | 3:49 |
 | 33 | [Nike e Shortinho / Desencana \- Ao Vivo](https://open.spotify.com/track/2l1fgtVMhwKdmkbhOc9ySl) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Ayla](https://open.spotify.com/artist/4LAIEyVpU7BhGGdXIRvbLe), [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO) | [Só VVamo Sunset \(Ao Vivo\)](https://open.spotify.com/album/552JgFjFaUfcDdx8Kx4SdN) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 49 | [Vagabundo de Sorte](https://open.spotify.com/track/2zoR8bSz5zEvJvfbNxqtTf) | [Gabrielzinho](https://open.spotify.com/artist/0fqfWVF68BfV7RFPemHhDs), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Vagabundo de Sorte](https://open.spotify.com/album/4vzFgH9GJ8lEbkHneEhIBu) | 3:06 |
 | 50 | [O Mundo Girou \- Ao Vivo](https://open.spotify.com/track/7iirmwNm5ZryOSXxw6Jj0r) | [Robinho](https://open.spotify.com/artist/0FKMbv813ULLLmjFPZ19wp) | [O Mundo Girou \(Ao Vivo\)](https://open.spotify.com/album/2KOVeWjd9LxDRLtroqf1Yp) | 2:43 |
 
-Snapshot ID: `AAAAAIGY69QlHwndLnP5f/9Nm8S1fDC+`
+Snapshot ID: `AAAAAGsXIypE95IN7fRyCEAZKO4ziWpW`

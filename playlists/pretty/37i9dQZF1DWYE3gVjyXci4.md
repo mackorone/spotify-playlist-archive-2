@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE3gVjyXci4.md) - [plain]
 
 > The voice of a generation\. Or at least a voice\. Of a generation\. THE girls are coming back.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,203 likes - 69 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,262 likes - 69 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE3gVjyXci4.md) - [plain]
 | 68 | [Best Friend](https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Best Friend](https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr) | 4:22 |
 | 69 | [What It Feels Like for a Girl](https://open.spotify.com/track/6rQcK4xOzePDdrTg7Yv6d6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/3e3PxWKqv7lyZaR5d02abW) | 4:43 |
 
-Snapshot ID: `AAAAAC0z22Ck0B5/MXcSK6J2NzwNgEfd`
+Snapshot ID: `AAAAANN2dXBF9TJJyxwVmnUt0huiTj3f`

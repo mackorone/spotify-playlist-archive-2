@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-827 songs - 2 day 3 hr 32 min
+829 songs - 2 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Dissonanze](https://open.spotify.com/track/4it9AInqERIyIVB2xAyGeU) | [Evan Park](https://open.spotify.com/artist/0Uy6ep5p6hkzzPs1SuucDU) | [Dissonanze](https://open.spotify.com/album/2UHDgfzcwmSw24WKsJI1e8) | 2:16 | 2026-04-14 | 2026-06-25 |
 | [Do You Remember?](https://open.spotify.com/track/2ir8kJN0GO8wUP90oU3LSJ) | [Arthur Smith And The Skycruisers](https://open.spotify.com/artist/5oxjtUm1DYNBYPJP2GVneD) | [Do You Remember?](https://open.spotify.com/album/73GDhhUlcUhxlDUm6BqdLo) | 3:40 | 2025-10-04 | 2025-12-17 |
 | [Do You Think You Are ...](https://open.spotify.com/track/6LZkKLSRhixSCSv0fU0Iyo) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Do You Think You Are ...](https://open.spotify.com/album/7aySkDtNQbHGcPsrG1GLNo) | 3:53 | 2026-04-12 |  |
+| [Don't Count On Me](https://open.spotify.com/track/3kVdhVxmzNjX0JGoklTyLJ) | [Manuel the Band](https://open.spotify.com/artist/53QeCVwCAOdxJ3p7BG4ZUn) | [Don't Count On Me](https://open.spotify.com/album/5sGpj8Y0eFEdR3uKIsaN0t) | 2:50 | 2026-10-20 |  |
 | [Don't Go into Decline](https://open.spotify.com/track/26jxUzCuaOEh3FIV94ENXQ) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Don't Go Into Decline](https://open.spotify.com/album/2wk8NzsQBaA23jHCMtcqKo) | 4:20 | 2026-05-14 |  |
 | [Don't Let Me Down Again](https://open.spotify.com/track/3O1JR1gUR8shtWDhxc5Bwc) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Ben Trexel Music Classic Rock Collection, Vol\. 1](https://open.spotify.com/album/3ndoROj3VUZ3hLUIBS2OqU) | 3:24 | 2025-10-20 | 2025-11-28 |
 | [Don't Let Me Go](https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Don't Let Me Go](https://open.spotify.com/album/3Kg1v6AGrwbxB1D8MqPZTF) | 2:13 | 2025-11-08 | 2025-12-17 |
@@ -322,6 +323,7 @@
 | [Hot days](https://open.spotify.com/track/122tDYlfUB17f1Tmtk1CVI) | [Colorado means red](https://open.spotify.com/artist/6kZ2GH1n9Pt2CmWxMFJK23) | [Hot days](https://open.spotify.com/album/0XYkXd47tphOUWp4Hz8zCS) | 3:30 | 2026-07-19 | 2026-08-01 |
 | [Hotel](https://open.spotify.com/track/1MGFrDLP5HmTXC8S1o1dT4) | [FRED](https://open.spotify.com/artist/3J0w4a5nxhpvCxa1MFW2fR), [BAI](https://open.spotify.com/artist/4HS5GfG0mkjkhgQuB0kpHh) | [Hotel](https://open.spotify.com/album/6F8FxwblR3zX1i8p5M9h21) | 3:10 | 2026-05-27 | 2026-06-18 |
 | [Hours after midnight](https://open.spotify.com/track/2KXMKguLfPaOBmMHHGQArX) | [Suraj Synthesist](https://open.spotify.com/artist/6kEAlt8l3zvFrxfHhRJfaK) | [Consume this album...\(Before the ban\)](https://open.spotify.com/album/6CabXiXT7t5cqCekHJabzY) | 5:44 | 2026-02-24 | 2026-03-18 |
+| [House Of Mirrors](https://open.spotify.com/track/68HVJiPKmFJerXLPLFkzfr) | [Seamless Hope](https://open.spotify.com/artist/1eUNJIV8T4pGj1mbvxVTZn) | [Illuminating Darkness](https://open.spotify.com/album/3cELUplGLGQgHiflkgR5qz) | 4:04 | 2026-10-20 |  |
 | [How I Roll](https://open.spotify.com/track/32paNGShaeE7O5USN1pC4M) | [Static Revolver](https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi) | [How I Roll](https://open.spotify.com/album/03LIKVBmtQtxm2u0wxO35n) | 3:41 | 2026-09-19 |  |
 | [I Been Gone](https://open.spotify.com/track/4FJ4AHtBaQngZ45BqdYI56) | [TJ Rosenthal](https://open.spotify.com/artist/4S9D53DYaVrV7hwiubaS9s) | [I Been Gone](https://open.spotify.com/album/0LJuoEfEWvakYgZ6OAOWwi) | 3:11 | 2026-01-19 | 2026-03-18 |
 | [I byens katakomber](https://open.spotify.com/track/5OiFsAf4d72GxHwDiu4Z01) | [Bjørn\-Ivar Davidsen](https://open.spotify.com/artist/0hAIC7oOoD5Z3OTP8x7OS9) | [Noen er der ute](https://open.spotify.com/album/3JmUt3Cg7D6zyYgWSdLSK5) | 4:58 | 2026-01-02 | 2026-03-18 |

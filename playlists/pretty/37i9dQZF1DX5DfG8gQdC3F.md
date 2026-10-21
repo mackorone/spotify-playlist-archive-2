@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Tate McRae, Zach Bryan & Lana Del Rey, Olivia Rodrigo & Chappell Roan, Sophia Stel, Fontaines D.C, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,212 likes - 101 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,172 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 100 | [J'aime le stress](https://open.spotify.com/track/2xu8LB804PZmMGdAnD2Iq4) | [Nectar Palace](https://open.spotify.com/artist/1GGCnb9R0avEHY31G16cyT) | [J'aime le stress](https://open.spotify.com/album/24MTLnddjPEEeb2BLV7hvJ) | 2:51 |
 | 101 | [Rote Zora\. "Resistance is Possible." Emma, no\. 6, June 1984, pp\. 39\-41.](https://open.spotify.com/track/3g7Z7sKCS2dnihluo3ZMT6) | [PISS](https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf) | [Rote Zora\. "Resistance is Possible." Emma, no\. 6, June 1984, pp\. 39\-41.](https://open.spotify.com/album/6oqUgxNHrpmxRZuFuNTHSN) | 2:54 |
 
-Snapshot ID: `AAAAAEiVLSMWI8gDH8Vd5J7JxI6+e4JH`
+Snapshot ID: `AAAAAHhuxwexb81JmNCcNBY2Y9BYnQ1U`

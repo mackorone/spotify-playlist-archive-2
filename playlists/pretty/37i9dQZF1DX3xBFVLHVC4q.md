@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,928 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,926 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 3 | [コットンキャンディえいえいおー!](https://open.spotify.com/track/10N2sb4vrtmSs5DeZyV5c8) | [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album ～RED GEM WINK～](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:18 |
 | 4 | [僕らの旅は終わらない](https://open.spotify.com/track/1cTFVsmOJSR78Y6Q4hEpyN) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [永久hours](https://open.spotify.com/album/5cDCiZlnue2BBwYQR01iyY) | 3:48 |
 | 5 | [Believe again](https://open.spotify.com/track/3aYg7E9EixRCtQQX5SZuat) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Believe again/Brightest Melody/Over The Next Rainbow](https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ) | 4:41 |
-| 6 | [Awaken the power](https://open.spotify.com/track/5lNJrTnmGyHRByNYU53aHO) | [Saint Aqours Snow](https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 4:56 |
-| 7 | [想いよひとつになれ](https://open.spotify.com/track/2h0JK3sS137DlbQrQehutp) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr) | [想いよひとつになれ/MIRAI TICKET](https://open.spotify.com/album/7AMxrcWM9XmMLiH3ZUxPLN) | 4:53 |
+| 6 | [想いよひとつになれ](https://open.spotify.com/track/2h0JK3sS137DlbQrQehutp) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr) | [想いよひとつになれ/MIRAI TICKET](https://open.spotify.com/album/7AMxrcWM9XmMLiH3ZUxPLN) | 4:53 |
+| 7 | [Awaken the power](https://open.spotify.com/track/5lNJrTnmGyHRByNYU53aHO) | [Saint Aqours Snow](https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 4:56 |
 | 8 | [Strawberry Trapper](https://open.spotify.com/track/3egD1YzZpyckmVlZJV4GOj) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [Strawberry Trapper](https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK) | 3:56 |
 | 9 | [WATER BLUE NEW WORLD](https://open.spotify.com/track/31ENXtNQYS0xIOOmb3Ogjc) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [WATER BLUE NEW WORLD/WONDERFUL STORIES](https://open.spotify.com/album/6piMsWNiFJ3z6VNVUiRtUG) | 5:43 |
 | 10 | [SELF CONTROL!!\[第8話挿入歌\(フルサイズ\)\]](https://open.spotify.com/track/4dBdyHDWfox9QU0HN8y30t) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [TVアニメ『ラブライブ!サンシャイン!!』オリジナルサウンドトラック 「Sailing to the Sunshine」](https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 49 | [Main theme of Lovelive! Sunshine!!](https://open.spotify.com/track/4vuY0yDpiLv517pZacpYOQ) | [加藤達也](https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx) | [TVアニメ『ラブライブ!サンシャイン!!』オリジナルサウンドトラック 「Sailing to the Sunshine」](https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1) | 3:57 |
 | 50 | [Paradise Chime](https://open.spotify.com/track/6ib8owyFKokRdEECOOkATG) | [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [LoveLive! Sunshine!! Second Solo Concert Album ～THE STORY OF FEATHER～ starring Watanabe You](https://open.spotify.com/album/4QbH80ewjdtHpNoDhTivdq) | 3:49 |
 
-Snapshot ID: `AAAAADFU/oJykh0eFu2BlUo9boIv0B00`
+Snapshot ID: `AAAAAApkAChMG8NOH0/jd8pfR8uNuSB9`

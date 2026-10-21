@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 97 | [Chapel](https://open.spotify.com/track/083E4FFkmkNx2bAfiHGA7N) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:01 |
 | 98 | [Sad Gurl](https://open.spotify.com/track/5nt1oHeq7HJDz26LQbZPoL) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:11 |
 | 99 | [One Mississippi](https://open.spotify.com/track/3hY0oANXEUZPmbfYEJmPWB) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 3:02 |
-| 100 | [Hold Me Down](https://open.spotify.com/track/4WkCano9OcQXN5q0VT7aWK) | [Toby Randall](https://open.spotify.com/artist/2BNzC3mJTD21RihwTZgI3B) | [ONE.](https://open.spotify.com/album/76R4XO5BYKd8Zf2foFWXGJ) | 3:13 |
-| 101 | [Star Eyes](https://open.spotify.com/track/5VOkq29IztFzuyAfX6tpVd) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:30 |
+| 100 | [Star Eyes](https://open.spotify.com/track/5VOkq29IztFzuyAfX6tpVd) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:30 |
+| 101 | [Hold Me Down](https://open.spotify.com/track/4WkCano9OcQXN5q0VT7aWK) | [Toby Randall](https://open.spotify.com/artist/2BNzC3mJTD21RihwTZgI3B) | [ONE.](https://open.spotify.com/album/76R4XO5BYKd8Zf2foFWXGJ) | 3:13 |
 | 102 | [cowboy](https://open.spotify.com/track/18uXKD0vR34A4Yv7KYZjGZ) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [cowboy / hold my beer](https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf) | 3:22 |
 | 103 | [Not Enough](https://open.spotify.com/track/72m9pYfEy6Rh1fi1luXZ5A) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 2:45 |
 | 104 | [God is a giver](https://open.spotify.com/track/2hyc0SAKmETShHjD7e8rKW) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 2:25 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 127 | [Playing House](https://open.spotify.com/track/2dEF2tafxF1C2hiLhBO8mX) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:35 |
 | 128 | [Bad Things](https://open.spotify.com/track/2vlcWSnTuFw57Kyc6D6LBi) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:10 |
 
-Snapshot ID: `AcfZRAAAAABXIyC+v7vnYBgLwcukKqN7`
+Snapshot ID: `AcfevAAAAACoaU/9V+i9CXC5BzFD8ibJ`

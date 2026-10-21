@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 新歌不只用聽的，還要用看的！最新華語 MV 一次收好，現在就看起來！Cover: KAXA
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,263 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,253 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [Ready To Shine](https://open.spotify.com/track/6gEMcHWWUM2Ggd6kjW2EPs) | [宇宙啦啦隊](https://open.spotify.com/artist/4fNW7dO0qEfdYRTi87i3hx) | [宇宙啦啦隊](https://open.spotify.com/album/68Lw6gIYA9AnjMQR4th7nu) | 3:10 |
 | 50 | [女兒殿下](https://open.spotify.com/track/2JkXcH32yqklFi6mzW2TGK) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 3:44 |
 
-Snapshot ID: `AAAAAGKIpMuKNQzRQnND015zBg9GB6aJ`
+Snapshot ID: `AAAAAJ9Sw6X+XZbNNMEgx5h6pD5XUoRO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > 🇲🇦 أحسن أغاني البوب المغربي
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,224 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,281 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 49 | [Ya Mektoubi](https://open.spotify.com/track/2Ylhm1lBkTkn9UAxKL9akH) | [Bilal Assarguini](https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH) | [Ya Mektoubi](https://open.spotify.com/album/4Me68q3TV8r9mPi4nqHI2L) | 3:43 |
 | 50 | [AGHARAS](https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [AGHARAS](https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2) | 3:27 |
 
-Snapshot ID: `AAAAAP7HdVsRm8KYBwQFGKSKQoqPQjZr`
+Snapshot ID: `AAAAAP2fbyjtz7ZcKyrYPa+KVK4YYGgr`

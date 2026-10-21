@@ -4795,24 +4795,6 @@
     },
     {
       "album": {
-        "name": "Santo pra Sempre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr"
-      },
-      "artists": [
-        {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
-        }
-      ],
-      "date_added": "2023-10-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 327756,
-      "name": "Santo para Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg"
-    },
-    {
-      "album": {
         "name": "Santo Pra Sempre (Ao Vivo)",
         "url": "https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d"
       },
@@ -4828,6 +4810,24 @@
       "duration_ms": 320000,
       "name": "Santo Pra Sempre (Ao Vivo)",
       "url": "https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC"
+    },
+    {
+      "album": {
+        "name": "Santo pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr"
+      },
+      "artists": [
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327756,
+      "name": "Santo pra Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg"
     },
     {
       "album": {

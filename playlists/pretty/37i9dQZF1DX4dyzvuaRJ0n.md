@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: Sara Landry
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,446,320 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,445,351 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [Dance Dance Dance!](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance!](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
 | 75 | [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 |
 
-Snapshot ID: `AAAAAAsViMLH5fuv99eb4GwZVwNKct9E`
+Snapshot ID: `AAAAAMO7NkjOEYa7lNnyOJ3ZSeqAPAul`

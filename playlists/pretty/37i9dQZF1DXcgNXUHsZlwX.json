@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf41",
-  "num_followers": 143967,
+  "num_followers": 143979,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALOphwhElaVv2RuL2fZy1FqCWx3H",
+  "snapshot_id": "AAAAABmP/Rwxbck6NinOeq0jCjoQnuje",
   "tracks": [
     {
       "added_at": "2026-10-16 04:03:08",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
+        "name": "ulysse",
+        "url": "https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 195980,
+      "name": "ulysse",
+      "url": "https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM"
+    },
+    {
+      "added_at": "2026-10-16 04:03:08",
+      "album": {
         "name": "Silencio",
         "url": "https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Ensemble",
-      "url": "https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC"
-    },
-    {
-      "added_at": "2026-10-16 04:03:08",
-      "album": {
         "name": "intersection",
         "url": "https://open.spotify.com/album/1QBqcimkOSDc56jvdra679"
       },
@@ -387,18 +387,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "ulysse",
-        "url": "https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt"
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
       },
       "artists": [
         {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 195980,
-      "name": "ulysse",
-      "url": "https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM"
+      "duration_ms": 182626,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -423,22 +423,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Uh Oh",
-        "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
+        "name": "Answers",
+        "url": "https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "Sea Oleena",
-          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 228613,
-      "name": "Uh Oh",
-      "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
+      "duration_ms": 167732,
+      "name": "Answers",
+      "url": "https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -459,18 +455,22 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "freedom",
-        "url": "https://open.spotify.com/album/11OGL9oXKHPfXXvIdMShZc"
+        "name": "Uh Oh",
+        "url": "https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0"
       },
       "artists": [
         {
-          "name": "fyodor",
-          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "Sea Oleena",
+          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
         }
       ],
-      "duration_ms": 218389,
-      "name": "freedom",
-      "url": "https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM"
+      "duration_ms": 228613,
+      "name": "Uh Oh",
+      "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -491,18 +491,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Answers",
-        "url": "https://open.spotify.com/album/4fGYs2TDBA1LzQEDIc0C4a"
+        "name": "freedom",
+        "url": "https://open.spotify.com/album/11OGL9oXKHPfXXvIdMShZc"
       },
       "artists": [
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+          "name": "fyodor",
+          "url": "https://open.spotify.com/artist/23ipqXpxxaAU1lr0r4VLiu"
         }
       ],
-      "duration_ms": 167732,
-      "name": "Answers",
-      "url": "https://open.spotify.com/track/3P6fiFnHTkaryP2WmwV6Ch"
+      "duration_ms": 218389,
+      "name": "freedom",
+      "url": "https://open.spotify.com/track/3TwxNxX5sNZIN0GP93ABvM"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Moi je t'aime",
-        "url": "https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 177556,
-      "name": "Moi je t'aime",
-      "url": "https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg"
-    },
-    {
-      "added_at": "2026-10-16 04:03:08",
-      "album": {
         "name": "Equus Asinus",
         "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 166027,
       "name": "Unlike Anything",
       "url": "https://open.spotify.com/track/5r7wJLf1cKlIzio4e0xfje"
+    },
+    {
+      "added_at": "2026-10-16 04:03:08",
+      "album": {
+        "name": "Moi je t'aime",
+        "url": "https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 177556,
+      "name": "Moi je t'aime",
+      "url": "https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Laughter (Bouquet Version)",
-        "url": "https://open.spotify.com/album/5zIofucKJjJSbxud4QoRzc"
+        "name": "Les yeux couleur bois",
+        "url": "https://open.spotify.com/album/5OXG6MvvkRT1NUJAhtjiEG"
       },
       "artists": [
         {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+          "name": "Mara Tremblay",
+          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
         }
       ],
-      "duration_ms": 221245,
-      "name": "Laughter - Bouquet Version",
-      "url": "https://open.spotify.com/track/4pj2sNekTKm9dAZJdZvugz"
+      "duration_ms": 203506,
+      "name": "Les yeux couleur bois",
+      "url": "https://open.spotify.com/track/5NufL7vF2yWOgBZJPngR7l"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Les yeux couleur bois",
-        "url": "https://open.spotify.com/album/5OXG6MvvkRT1NUJAhtjiEG"
+        "name": "Laughter (Bouquet Version)",
+        "url": "https://open.spotify.com/album/5zIofucKJjJSbxud4QoRzc"
       },
       "artists": [
         {
-          "name": "Mara Tremblay",
-          "url": "https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3"
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
         }
       ],
-      "duration_ms": 203506,
-      "name": "Les yeux couleur bois",
-      "url": "https://open.spotify.com/track/5NufL7vF2yWOgBZJPngR7l"
+      "duration_ms": 221245,
+      "name": "Laughter - Bouquet Version",
+      "url": "https://open.spotify.com/track/4pj2sNekTKm9dAZJdZvugz"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "fin pm",
-        "url": "https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n"
+        "name": "Bright Green Vibrant Gray",
+        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
       },
       "artists": [
         {
-          "name": "Maddie Bay",
-          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 184360,
-      "name": "pas de vagues",
-      "url": "https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq"
+      "duration_ms": 219507,
+      "name": "Bright Green Vibrant Gray",
+      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Bright Green Vibrant Gray",
-        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
+        "name": "fin pm",
+        "url": "https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n"
       },
       "artists": [
         {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+          "name": "Maddie Bay",
+          "url": "https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd"
         }
       ],
-      "duration_ms": 219507,
-      "name": "Bright Green Vibrant Gray",
-      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
+      "duration_ms": 184360,
+      "name": "pas de vagues",
+      "url": "https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "I Liked Blue After You",
-        "url": "https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD"
-      },
-      "artists": [
-        {
-          "name": "Bain Marie",
-          "url": "https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J"
-        }
-      ],
-      "duration_ms": 178168,
-      "name": "Dis-moi, dis-moi",
-      "url": "https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg"
-    },
-    {
-      "added_at": "2026-10-16 04:03:08",
-      "album": {
         "name": "Sailors",
         "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
+        "name": "I Liked Blue After You",
+        "url": "https://open.spotify.com/album/3iFRVbGnz5srKWuQRm8bXD"
+      },
+      "artists": [
+        {
+          "name": "Bain Marie",
+          "url": "https://open.spotify.com/artist/1yhFZckTeEyYoZaWNz7h3J"
+        }
+      ],
+      "duration_ms": 178168,
+      "name": "Dis-moi, dis-moi",
+      "url": "https://open.spotify.com/track/5yJsv0y0uHbMzHFbdnJcUg"
+    },
+    {
+      "added_at": "2026-10-16 04:03:08",
+      "album": {
         "name": "2 go\u00e9lands",
         "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
       },
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "The Music That Makes Me Dance",
-        "url": "https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO"
+        "name": "AVALANCHE (n.f.)",
+        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
       },
       "artists": [
         {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
         }
       ],
-      "duration_ms": 307567,
-      "name": "The Music That Makes Me Dance",
-      "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
+      "duration_ms": 188516,
+      "name": "Tu pars",
+      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "AVALANCHE (n.f.)",
-        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
+        "name": "The Music That Makes Me Dance",
+        "url": "https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO"
       },
       "artists": [
         {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
         }
       ],
-      "duration_ms": 188516,
-      "name": "Tu pars",
-      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+      "duration_ms": 307567,
+      "name": "The Music That Makes Me Dance",
+      "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
     },
     {
       "added_at": "2026-10-16 04:03:08",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2026-10-16 04:03:08",
       "album": {
-        "name": "Si on allait",
-        "url": "https://open.spotify.com/album/3r937q1h9NV530JTZDmZy3"
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
       },
       "artists": [
         {
-          "name": "Huriel",
-          "url": "https://open.spotify.com/artist/6RDCp8jmo1UzN9Lqnm751K"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 247362,
-      "name": "Si on allait",
-      "url": "https://open.spotify.com/track/1cmw415RluZZ83KUfE8YDw"
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
     },
     {
       "added_at": "2026-10-16 04:03:08",

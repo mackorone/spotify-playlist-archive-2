@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-534 songs - 1 day 1 hr 11 min
+535 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Overflow](https://open.spotify.com/track/7z32OO2hpcUCP0rMdcFI48) | [Sous la vague](https://open.spotify.com/artist/0OozwIRMLcU0nCpyANNLBG) | [Overflow](https://open.spotify.com/album/7DTOJ3s4IVnCZcQVOXtQ9E) | 2:49 | 2026-06-26 |  |
 | [Painted River](https://open.spotify.com/track/2lNgLRFY27jNay8yK2IMCa) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Painted River](https://open.spotify.com/album/2crvRMhXARBm1jEc7zKLAB) | 2:25 | 2025-12-17 | 2026-06-13 |
 | [Paladin Diversum](https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Paladin Diversum](https://open.spotify.com/album/2S05YvCq7NM8x57DIb73ur) | 3:16 | 2026-04-03 |  |
+| [Patagonia](https://open.spotify.com/track/6sE6j0OVmzcCJcZwpw8q0S) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Patagonia](https://open.spotify.com/album/6jLVKuvK1j8BwXFahWnjQR) | 3:02 | 2026-09-21 |  |
 | [Peace of Rain](https://open.spotify.com/track/6HXjoSKqIGjTGPMXj2oj6I) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Peace of Rain](https://open.spotify.com/album/2UzKVDUabqDDcOVRptDfpe) | 2:31 | 2025-05-06 | 2026-05-28 |
 | [Peaceful Calmness](https://open.spotify.com/track/6RutZE4FLbhhYQEMcgDhwI) | [Matusi](https://open.spotify.com/artist/12flZad77ham3NKTUXIIXL) | [Peaceful Calmness](https://open.spotify.com/album/6rfgkrOyjd4LoSfSgchwrm) | 3:09 | 2023-04-28 | 2025-05-22 |
 | [Peaceful Morning](https://open.spotify.com/track/7DyF6UY3xiVmoLncNaCAtg) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Peaceful Morning](https://open.spotify.com/album/1VifjtiGpfZHpgVyeJM4y1) | 2:41 | 2025-10-02 |  |
@@ -373,7 +374,7 @@
 | [Remains](https://open.spotify.com/track/28RxgtMOVactas2AQJHzWv) | [Kharma Initiative](https://open.spotify.com/artist/7BKXObCKvCeZw5tWOFYWe7) | [Remains](https://open.spotify.com/album/0YBXHee7J6d8CjHX2LtnvV) | 2:23 | 2025-10-24 | 2026-09-18 |
 | [Renacer en Calma \(Nature\)](https://open.spotify.com/track/15kpyHpO1u89MMGrQLxiEJ) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 3:02 | 2023-06-09 | 2026-07-24 |
 | [Replenishment](https://open.spotify.com/track/1S3ESlCqX7kC0JIUfYMTZs) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Replenishment](https://open.spotify.com/album/1XFw4PQF125xpP1HWG176c) | 3:08 | 2025-12-17 | 2026-04-04 |
-| [Residual Presence Field](https://open.spotify.com/track/0MlrY3mg0iOHSWWK7BOVDD) | [Low Haven](https://open.spotify.com/artist/2gOPRaTiQtGHndW2IXxtXC) | [Residual Presence Field](https://open.spotify.com/album/1hOPK8B0LrmKO7WHQukhHl) | 2:44 | 2026-08-19 |  |
+| [Residual Presence Field](https://open.spotify.com/track/0MlrY3mg0iOHSWWK7BOVDD) | [Low Haven](https://open.spotify.com/artist/2gOPRaTiQtGHndW2IXxtXC) | [Residual Presence Field](https://open.spotify.com/album/1hOPK8B0LrmKO7WHQukhHl) | 2:44 | 2026-08-19 | 2026-10-21 |
 | [Resonated](https://open.spotify.com/track/6mJ2jGd01xZZ07PNW0rypK) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Resonated](https://open.spotify.com/album/7H9nGdRXUSlxTmdFJCO3P7) | 2:40 | 2023-10-06 | 2025-05-22 |
 | [Restart](https://open.spotify.com/track/7bUtYZp5Nx93HaPPyzk64o) | [Marc Westfield](https://open.spotify.com/artist/5GbWQkreLZ1Q0anHtK93UJ) | [Restart](https://open.spotify.com/album/4owhXLeFbrS6TxGAIWF3uJ) | 2:37 | 2026-04-03 |  |
 | [Restful Petal \- Spa](https://open.spotify.com/track/2po2Rc8mLumB3CmBY9jrX5) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Restful Petal](https://open.spotify.com/album/7hZvHFA2dN8Xaus9NmhWrK) | 3:12 | 2023-04-28 | 2025-09-11 |

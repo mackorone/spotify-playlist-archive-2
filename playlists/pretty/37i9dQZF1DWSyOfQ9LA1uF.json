@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 81591,
+  "num_followers": 81598,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABtFwb4aqy3SWmM3qi6HoAqpdcAg",
+  "snapshot_id": "AAAAAGkmYzR0DpTf3s9jSf7wTGgwkscw",
   "tracks": [
     {
       "added_at": "2024-08-08 18:53:25",
@@ -791,26 +791,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Walking On A Dream (Special Edition)",
-        "url": "https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "Shazam",
-          "url": "https://open.spotify.com/artist/22gK1Q6l2AO3L8g7p4cgTW"
-        }
-      ],
-      "duration_ms": 344491,
-      "name": "We Are The People - Shazam Remix",
-      "url": "https://open.spotify.com/track/1GmTCaR9wtipTlzgDadvdx"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Waters of Nazareth (The Remixes)",
         "url": "https://open.spotify.com/album/37kcdxxxRPUkNQyy4O3PLJ"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 386149,
       "name": "Stuck On Repeat - Fake Blood Mix",
       "url": "https://open.spotify.com/track/24y567q7DSKBwTPIkooH2K"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Walking On A Dream (Special Edition)",
+        "url": "https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "Shazam",
+          "url": "https://open.spotify.com/artist/22gK1Q6l2AO3L8g7p4cgTW"
+        }
+      ],
+      "duration_ms": 344491,
+      "name": "We Are The People - Shazam Remix",
+      "url": "https://open.spotify.com/track/1GmTCaR9wtipTlzgDadvdx"
     },
     {
       "added_at": "2024-08-08 18:53:25",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Skywriter",
-        "url": "https://open.spotify.com/album/0uqh1FSdgvKmYMFkZTLyYb"
-      },
-      "artists": [
-        {
-          "name": "Data",
-          "url": "https://open.spotify.com/artist/75QkeG5yBHVCybZurCrMa8"
-        }
-      ],
-      "duration_ms": 218373,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/0ljqsKHYQHnxGC6s5BAhlS"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Hands (US)",
         "url": "https://open.spotify.com/album/6hfQ4H9mS2s9h1UGtvDu5p"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 195960,
       "name": "Meddle",
       "url": "https://open.spotify.com/track/5hBeax0At5KAHY2XjVRvxX"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Skywriter",
+        "url": "https://open.spotify.com/album/0uqh1FSdgvKmYMFkZTLyYb"
+      },
+      "artists": [
+        {
+          "name": "Data",
+          "url": "https://open.spotify.com/artist/75QkeG5yBHVCybZurCrMa8"
+        }
+      ],
+      "duration_ms": 218373,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/0ljqsKHYQHnxGC6s5BAhlS"
     },
     {
       "added_at": "2024-08-08 18:53:25",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Bump",
-        "url": "https://open.spotify.com/album/4G2lrhI4JbpBdtYFfa1Qec"
-      },
-      "artists": [
-        {
-          "name": "Spank Rock",
-          "url": "https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2"
-        }
-      ],
-      "duration_ms": 447000,
-      "name": "Bump - Switch Remix",
-      "url": "https://open.spotify.com/track/6DwVAGeeP7lDQIqKbjzjxi"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Knobbers EP",
         "url": "https://open.spotify.com/album/6EWNPR0D1aTkNdw5o86QWU"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 307040,
       "name": "Knobbers",
       "url": "https://open.spotify.com/track/0JEQRhFh3VzBdFAYcua4yk"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Bump",
+        "url": "https://open.spotify.com/album/4G2lrhI4JbpBdtYFfa1Qec"
+      },
+      "artists": [
+        {
+          "name": "Spank Rock",
+          "url": "https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "Bump - Switch Remix",
+      "url": "https://open.spotify.com/track/6DwVAGeeP7lDQIqKbjzjxi"
     },
     {
       "added_at": "2024-08-08 18:53:25",

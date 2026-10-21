@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGiybok3MmEU1m/FxbDzo5QQenbs",
+  "snapshot_id": "AAAAAEl8kkGM/5qEzYpuzYQkcLRT3sTR",
   "tracks": [
     {
       "added_at": "2026-10-19 15:46:22",
@@ -131,18 +131,18 @@
     {
       "added_at": "2026-10-19 15:46:22",
       "album": {
-        "name": "At\u00e9 Outro Dia Amor",
-        "url": "https://open.spotify.com/album/6PRSfhGYFpvIW7NpAfN72z"
+        "name": "Origem",
+        "url": "https://open.spotify.com/album/2KKjEHuggCAzRGkIy2kPwE"
       },
       "artists": [
         {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 208492,
-      "name": "At\u00e9 Outro Dia Amor",
-      "url": "https://open.spotify.com/track/3sNq3qDXEWI8gtzoWbLAWR"
+      "duration_ms": 153165,
+      "name": "Vestido De Seda",
+      "url": "https://open.spotify.com/track/15zdm7Jr5dUi0abgkW1d9Z"
     },
     {
       "added_at": "2026-10-19 15:46:22",
@@ -175,18 +175,18 @@
     {
       "added_at": "2026-10-19 15:46:22",
       "album": {
-        "name": "Origem",
-        "url": "https://open.spotify.com/album/2KKjEHuggCAzRGkIy2kPwE"
+        "name": "At\u00e9 Outro Dia Amor",
+        "url": "https://open.spotify.com/album/6PRSfhGYFpvIW7NpAfN72z"
       },
       "artists": [
         {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
         }
       ],
-      "duration_ms": 153165,
-      "name": "Vestido De Seda",
-      "url": "https://open.spotify.com/track/15zdm7Jr5dUi0abgkW1d9Z"
+      "duration_ms": 208492,
+      "name": "At\u00e9 Outro Dia Amor",
+      "url": "https://open.spotify.com/track/3sNq3qDXEWI8gtzoWbLAWR"
     },
     {
       "added_at": "2026-10-19 15:46:22",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-10-19 15:46:22",
       "album": {
-        "name": "Tempestade",
-        "url": "https://open.spotify.com/album/40wQAuq0wltC894JGWkxi6"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        },
-        {
-          "name": "Tati Portella",
-          "url": "https://open.spotify.com/artist/0n1wKapVwhPJKt0REzPNfb"
-        }
-      ],
-      "duration_ms": 162300,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/4nuC7MlHT9NOI8byXPn2da"
-    },
-    {
-      "added_at": "2026-10-19 15:46:22",
-      "album": {
         "name": "Andei S\u00f3",
         "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 357533,
       "name": "Andei S\u00f3",
       "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
+    },
+    {
+      "added_at": "2026-10-19 15:46:22",
+      "album": {
+        "name": "Tempestade",
+        "url": "https://open.spotify.com/album/40wQAuq0wltC894JGWkxi6"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        },
+        {
+          "name": "Tati Portella",
+          "url": "https://open.spotify.com/artist/0n1wKapVwhPJKt0REzPNfb"
+        }
+      ],
+      "duration_ms": 162300,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/4nuC7MlHT9NOI8byXPn2da"
     },
     {
       "added_at": "2026-10-19 15:46:22",

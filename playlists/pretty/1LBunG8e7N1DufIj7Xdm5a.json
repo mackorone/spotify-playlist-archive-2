@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 288,
+  "num_followers": 287,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKrU/ZySOqwZj7Hnsvm1LXooxw93NS",
+  "snapshot_id": "AAAKs/pZTMcJaySV7uxsxChhaRWClYXK",
   "tracks": [
     {
       "added_at": "2026-10-18 07:35:50",
@@ -81003,6 +81003,102 @@
       "duration_ms": 127062,
       "name": "Warm Bodies",
       "url": "https://open.spotify.com/track/52OQHCO5GpHKMK4V2hHmy8"
+    },
+    {
+      "added_at": "2026-10-20 08:58:44",
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/3WvTgFusl8GmoIeZujSWM5"
+      },
+      "artists": [
+        {
+          "name": "Pepi",
+          "url": "https://open.spotify.com/artist/1JcqlMEa8HWxcRm8zM5oUR"
+        }
+      ],
+      "duration_ms": 201684,
+      "name": "Annie",
+      "url": "https://open.spotify.com/track/33IfycG6dgnlTEkZ9RpcdA"
+    },
+    {
+      "added_at": "2026-10-20 08:58:44",
+      "album": {
+        "name": "Just Me",
+        "url": "https://open.spotify.com/album/3dsjIKRvXh3vUPZ1jOUB9c"
+      },
+      "artists": [
+        {
+          "name": "Armina Akopyan",
+          "url": "https://open.spotify.com/artist/00L4wR1oh5qPogB48a58oV"
+        }
+      ],
+      "duration_ms": 202479,
+      "name": "Just Me",
+      "url": "https://open.spotify.com/track/4hJNU6qooEa5nD8TLUfAt8"
+    },
+    {
+      "added_at": "2026-10-20 08:58:45",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/2N5M8052YhgdZtrO3vUuny"
+      },
+      "artists": [
+        {
+          "name": "Who's Molly?",
+          "url": "https://open.spotify.com/artist/5cdF3kdHKfTkPS9t9778wp"
+        }
+      ],
+      "duration_ms": 176962,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4QlbPBnTPhyZDi0vlDGIuN"
+    },
+    {
+      "added_at": "2026-10-20 08:58:46",
+      "album": {
+        "name": "Do not give up",
+        "url": "https://open.spotify.com/album/4eKT5ELVX3j07XQbNidxNn"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dane",
+          "url": "https://open.spotify.com/artist/2xYFifG4GUu3m2CKOlJUu3"
+        }
+      ],
+      "duration_ms": 188718,
+      "name": "Do not give up",
+      "url": "https://open.spotify.com/track/53PkVboVCwrHpT8VEPlsyn"
+    },
+    {
+      "added_at": "2026-10-20 13:58:18",
+      "album": {
+        "name": "Blackbird Jesus",
+        "url": "https://open.spotify.com/album/4rIYQnYsxOaKctx7cROblR"
+      },
+      "artists": [
+        {
+          "name": "MX the American",
+          "url": "https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU"
+        }
+      ],
+      "duration_ms": 238320,
+      "name": "Blackbird Jesus",
+      "url": "https://open.spotify.com/track/6GCQeEusHe8tNtCxDeebp7"
+    },
+    {
+      "added_at": "2026-10-20 14:01:01",
+      "album": {
+        "name": "Neverending",
+        "url": "https://open.spotify.com/album/0d8H1lT7wVzDmIIgRPbtdY"
+      },
+      "artists": [
+        {
+          "name": "Brother Venus",
+          "url": "https://open.spotify.com/artist/45ZPkbeHuBIsgk4fzjmg3R"
+        }
+      ],
+      "duration_ms": 278737,
+      "name": "Neverending",
+      "url": "https://open.spotify.com/track/5t32Xg2Aqwc4MKfMCcf244"
     }
   ],
   "unique_name": "playlist spotify free",

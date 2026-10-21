@@ -4,7 +4,7 @@
 
 > 🫧  when everything lifts to a higher state 🫧 <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Giuseppe Ottaviani and Hypaton
 
-1,391 songs - 3 day 10 hr 53 min
+1,392 songs - 3 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Brighter \- Aimoon Remix](https://open.spotify.com/track/3JV0H72eSiSxHXpovPj6Yb) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Novan](https://open.spotify.com/artist/7tWMqcbdCIBp5NF23GkbaA), [Aimoon](https://open.spotify.com/artist/17vJZOw0HdCJgRMBWBTmHT), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Brighter \(Aimoon Remix\)](https://open.spotify.com/album/1v1ORc5Ltl82Qj9H2FZhZb) | 3:52 | 2021-12-17 | 2022-05-28 |
 | [Brighton BOP](https://open.spotify.com/track/0OiTcPWEK2g48f0BokrLj4) | [SØNIN](https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC), [JS](https://open.spotify.com/artist/6lMFdZ2Ogr7RJ2cY7KLEq0) | [Brighton BOP](https://open.spotify.com/album/5mGElpHMdswgEyrkMwG0vh) | 3:28 | 2024-07-19 | 2025-03-29 |
 | [Bring Me To Life](https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FORS](https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX) | [Bring Me To Life](https://open.spotify.com/album/0hLl6XW9qAjuuPijk9SKTe) | 4:18 | 2025-11-21 |  |
-| [Broken Tides](https://open.spotify.com/track/0S2J2eSoA2Ml569yBCyyHU) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Broken Tides](https://open.spotify.com/album/2VRO8WvL4g0TnIv2L0N7QQ) | 2:55 | 2026-02-27 |  |
+| [Broken Tides](https://open.spotify.com/track/0S2J2eSoA2Ml569yBCyyHU) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi) | [Broken Tides](https://open.spotify.com/album/2VRO8WvL4g0TnIv2L0N7QQ) | 2:55 | 2026-02-27 | 2026-10-21 |
 | [Bullet In The Gun](https://open.spotify.com/track/79Bo5d7iwaj8eYPn52A6Ni) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Sneijder](https://open.spotify.com/artist/4zllvElH16KlgTqRstwYIb) | [Bullet In The Gun](https://open.spotify.com/album/1WqYGLcVq84pevylmgVRAP) | 4:00 | 2026-04-24 |  |
 | [Bullet Train To Paris](https://open.spotify.com/track/0lIOamNC6EMXu1AgPyzSTD) | [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Silversun](https://open.spotify.com/album/4EAemIQHlJl7ZwCndwy8ro) | 4:59 | 2023-11-17 | 2023-12-09 |
 | [Burn](https://open.spotify.com/track/7p0YrugeZfeEqbuLMdpzrV) | [Dan Stone](https://open.spotify.com/artist/5AqacAhvN8JCsr00Qk9tb7), [EGGSTA](https://open.spotify.com/artist/6DtlUeAwcib4uc0CfcgYBz) | [Burn](https://open.spotify.com/album/3ZXlpxFSA9jyZYMdH42pHl) | 4:19 | 2024-09-13 | 2025-09-27 |
@@ -874,6 +874,7 @@
 | [Offshore](https://open.spotify.com/track/6yf6FF8BxqLqEr87RFY96m) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Offshore](https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6) | 3:19 | 2022-05-13 | 2024-02-17 |
 | [Offshore \- Evolution Mix](https://open.spotify.com/track/2O0HETfHUQNumACQ7Yg6sm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Far From The Maddening Crowds \(Evolution Mixes\)](https://open.spotify.com/album/5CR6luLHeshWtx2pgH7tAn) | 3:46 | 2022-07-08 | 2022-10-08 |
 | [Oh Fragile Girl](https://open.spotify.com/track/3zWQ7XqU0AiGdCh88NSf9O) | [Rinaly](https://open.spotify.com/artist/17fstkJkaEYiI1tBX1N7RD), [Clara Yates](https://open.spotify.com/artist/5Ny5rgjblitALAHGH2ICG0) | [Oh Fragile Girl](https://open.spotify.com/album/3EvYcD3LqHL1EihuskNtc8) | 3:44 | 2025-05-23 | 2025-10-26 |
+| [Oldskool](https://open.spotify.com/track/3i0pa1JwhbKaZwxmDIEyVl) | [Jeno](https://open.spotify.com/artist/6a6RDE2aXu0ZPQPxpllNps) | [Oldskool](https://open.spotify.com/album/3jqkSYjOCDlNz4XEhYChOy) | 3:46 | 2026-10-15 |  |
 | [On My Mind](https://open.spotify.com/track/4fbqwJ0bZTMerQtLKdMK9v) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ), [Cristina Soto](https://open.spotify.com/artist/5BKXCIdVnAwBQKUoGNqfZj) | [On My Mind](https://open.spotify.com/album/0Q111xnolEwzNORK2QWy6w) | 4:58 | 2022-05-06 | 2023-04-09 |
 | [On Repeat](https://open.spotify.com/track/6EWpyMOKacMLSPhJ5VS0dt) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [On Repeat](https://open.spotify.com/album/4OPGJJLMAVTTSua5snkDRa) | 3:30 | 2025-11-14 |  |
 | [On The Beach](https://open.spotify.com/track/0jtIb0AqZuHN87FScMGaHy) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [On The Beach](https://open.spotify.com/album/56lOHHE2NonimuVxn69mfy) | 3:38 | 2025-10-24 |  |

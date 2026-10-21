@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Zwolnij tempo i daj się otulić jesiennym brzmieniom\. 🍂🎃☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,608 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,666 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,16 +30,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 20 | [Daleko](https://open.spotify.com/track/2zClIj3bbb32u2z6prh1Uf) | [Barry Black](https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n) | [Daleko](https://open.spotify.com/album/3CtxvH0J7Q7R3lJe3Vt0SB) | 2:53 |
 | 21 | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/track/0zZ5TnmUIub96AsZmkCXYS) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indecision \(feat\. Daniel Caesar\)](https://open.spotify.com/album/3IJpTeTk3bDKufBoDEGjOU) | 3:06 |
 | 22 | [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 |
-| 23 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
-| 24 | [Unloveu](https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Unloveu](https://open.spotify.com/album/58745aGSmbG4rHAxveiJww) | 3:52 |
+| 23 | [Unloveu](https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Unloveu](https://open.spotify.com/album/58745aGSmbG4rHAxveiJww) | 3:52 |
+| 24 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
 | 25 | [Remedy](https://open.spotify.com/track/1XCP81CTkXJCCabEDDwnnr) | [J.Bernardt](https://open.spotify.com/artist/6LiV1FV5nwdp3k6n3LMoQn) | [Remedy](https://open.spotify.com/album/2BPkjLvbZmJXrhvqCcUCtq) | 5:01 |
 | 26 | [The Girl Of Your Dreams](https://open.spotify.com/track/5C44dbkTrsdtpcP05LOH7G) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Girl Of Your Dreams](https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl) | 3:07 |
 | 27 | [Champagne](https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Mud](https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG) | 3:30 |
 | 28 | [Write Me A Letter](https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:14 |
 | 29 | [Nareszcie](https://open.spotify.com/track/1p4M9If0oTyeUsGsmAfmAI) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Nareszcie](https://open.spotify.com/album/70G6XGkSM2CWedDGAS22Dm) | 3:02 |
 | 30 | [Hitachi](https://open.spotify.com/track/3dD5ULYA0Fz4w9vra6GmHD) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:36 |
-| 31 | [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 |
-| 32 | [blue](https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [blue](https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR) | 4:10 |
+| 31 | [blue](https://open.spotify.com/track/0RJB6ldc79QC6jW5OR2Pv1) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [blue](https://open.spotify.com/album/3kxuW16FADFPyKmeke0wlR) | 4:10 |
+| 32 | [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 |
 | 33 | [My Whole World](https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [My Whole World](https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe) | 4:07 |
 | 34 | [FF](https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 4:22 |
 | 35 | [tylko kochaj mnie](https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [tylko kochaj mnie](https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi) | 2:41 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 43 | [Cicho sza](https://open.spotify.com/track/0LXhzHwoRGwhMde38QGncI) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Cicho sza](https://open.spotify.com/album/2uWRrAawCBsIpBfy1FIQnl) | 3:55 |
 | 44 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 |
 | 45 | [Ritual](https://open.spotify.com/track/6Bd87PKVxEe9hYWqymB4q8) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Ritual](https://open.spotify.com/album/2vZxC42qVEkEqlne9QG2Br) | 3:12 |
-| 46 | [MANGO](https://open.spotify.com/track/5jVMVRFbk57ovUm15hl6zw) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [MANGO](https://open.spotify.com/album/1OtN3XYMdhEds2mdEtu5ui) | 3:16 |
-| 47 | [Jak my \- z filmu „Nasza rewolucja”](https://open.spotify.com/track/2rvtG0aAmZoOChMWSzoEZy) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN), [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Jak my \- z filmu „Nasza rewolucja”](https://open.spotify.com/album/716b7TQh18uiQ98HZsqA30) | 3:43 |
+| 46 | [Jak my \- z filmu „Nasza rewolucja”](https://open.spotify.com/track/2rvtG0aAmZoOChMWSzoEZy) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN), [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Jak my \- z filmu „Nasza rewolucja”](https://open.spotify.com/album/716b7TQh18uiQ98HZsqA30) | 3:43 |
+| 47 | [MANGO](https://open.spotify.com/track/5jVMVRFbk57ovUm15hl6zw) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [MANGO](https://open.spotify.com/album/1OtN3XYMdhEds2mdEtu5ui) | 3:16 |
 | 48 | [Summer Clothes](https://open.spotify.com/track/1bOnbXldcr1DnseZ7getJp) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Summer Clothes](https://open.spotify.com/album/2QfJtIK3efePBUUoYgrgm3) | 4:25 |
 | 49 | [Lepsze czasy](https://open.spotify.com/track/5PEpqM4aMDhmqM2VojaSBy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [WSZYSTKO CZEGO CHCIAŁEM](https://open.spotify.com/album/22Xh3awslZAcS8KNMasds7) | 3:16 |
 | 50 | [Ostatni dzień lata](https://open.spotify.com/track/6vAdfVyvcqGdRPmvutIp4D) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [NURT](https://open.spotify.com/album/4HSrEiHI07MfLJEAlJUTj7) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 59 | [propane](https://open.spotify.com/track/2gZJ6cT0bf8yydGP7blho2) | [kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [propane](https://open.spotify.com/album/28rwpXxvo7YIbkLVdXsno9) | 3:44 |
 | 60 | [W dziale na S](https://open.spotify.com/track/6FMQvAhWw7jLanJZIGgXM3) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Chciałbym urodzić się żeby latałem](https://open.spotify.com/album/1XvO6cGRXpNZWyk6bTHN0a) | 2:31 |
 
-Snapshot ID: `AAAAAO3aa6MRcXlRxxH7IU1Aycthqd8v`
+Snapshot ID: `AAAAAPJMYobur2784lR+cIzrj3ZsRQuK`

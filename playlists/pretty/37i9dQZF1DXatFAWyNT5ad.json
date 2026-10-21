@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 153620,
+  "num_followers": 153626,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACTEvSU2DwefDC5mVutfUfQvTQMP",
+  "snapshot_id": "AAAAAFGTbqLixyeXgluKALD+0kIUMlr6",
   "tracks": [
     {
       "added_at": "2026-09-25 04:03:07",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "NOT OK",
-        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "NOT OK",
-      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 187249,
       "name": "You Broke Me Too (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "NOT OK",
+        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "NOT OK",
+      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Loving and Losing",
-        "url": "https://open.spotify.com/album/3vq2VF9ZyCVqnE7Apciczd"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 174334,
-      "name": "Sorry Much",
-      "url": "https://open.spotify.com/track/31kc2aRTsb1TwByv2Zd3RC"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/74E69z4DRqWYWCUYx75xac"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 204613,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/1vIdEwrutrxbUNXu7RnD7s"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Loving and Losing",
+        "url": "https://open.spotify.com/album/3vq2VF9ZyCVqnE7Apciczd"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 174334,
+      "name": "Sorry Much",
+      "url": "https://open.spotify.com/track/31kc2aRTsb1TwByv2Zd3RC"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "...with little ease",
+        "url": "https://open.spotify.com/album/07d9MuFH9oqAuH0CUk4YMW"
+      },
+      "artists": [
+        {
+          "name": "Saint Blonde",
+          "url": "https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq"
+        }
+      ],
+      "duration_ms": 196153,
+      "name": "\u2026with little ease",
+      "url": "https://open.spotify.com/track/2Zfxn2rD0z56MayaSWtfAy"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Bedroom Posters (feat. Good Charlotte)",
         "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 218635,
       "name": "Bedroom Posters (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "...with little ease",
-        "url": "https://open.spotify.com/album/07d9MuFH9oqAuH0CUk4YMW"
-      },
-      "artists": [
-        {
-          "name": "Saint Blonde",
-          "url": "https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "\u2026with little ease",
-      "url": "https://open.spotify.com/track/2Zfxn2rD0z56MayaSWtfAy"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Better Days (Deluxe)",
-        "url": "https://open.spotify.com/album/1vUmsKkej9e51KGUHrxU9w"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 171294,
-      "name": "Hell With Me (feat. Steve Aoki)",
-      "url": "https://open.spotify.com/track/4fRSz2kGowoaHuWHqeJCZv"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
         "url": "https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 214735,
       "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
       "url": "https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Better Days (Deluxe)",
+        "url": "https://open.spotify.com/album/1vUmsKkej9e51KGUHrxU9w"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 171294,
+      "name": "Hell With Me (feat. Steve Aoki)",
+      "url": "https://open.spotify.com/track/4fRSz2kGowoaHuWHqeJCZv"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "junebug!",
-        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 139204,
-      "name": "junebug!",
-      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "The Bliss Of Ignorance",
         "url": "https://open.spotify.com/album/074bckj5sD8VA1tFqIsMej"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 196800,
       "name": "Don't Bother",
       "url": "https://open.spotify.com/track/7mazBIRlTjBgFSWO5kXXJT"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "junebug!",
+        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 139204,
+      "name": "junebug!",
+      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 263389,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Year 3000 2.0",
         "url": "https://open.spotify.com/album/5Ofq6KPqN8XUK5gaOSB5WC"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 197387,
       "name": "Year 3000 2.0",
       "url": "https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 263389,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/0FC1kJead46CsxnGGjmwA4"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 191554,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0Y5fBC703Co6hAYrM9uX5J"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Something of Wonder",
         "url": "https://open.spotify.com/album/3dDnm2db7ssuEAqTSoVPJV"
       },
@@ -2031,18 +2047,18 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/0FC1kJead46CsxnGGjmwA4"
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/3meNmp3wuxpjo0PmKGmoUf"
       },
       "artists": [
         {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+          "name": "Tally Spear",
+          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
         }
       ],
-      "duration_ms": 191554,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0Y5fBC703Co6hAYrM9uX5J"
+      "duration_ms": 194526,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/45ajMVk06OpqqIhkqt9cc0"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2075,22 +2091,6 @@
       "duration_ms": 200210,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/3meNmp3wuxpjo0PmKGmoUf"
-      },
-      "artists": [
-        {
-          "name": "Tally Spear",
-          "url": "https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/45ajMVk06OpqqIhkqt9cc0"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Say That You Love Me",
-        "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
-      },
-      "artists": [
-        {
-          "name": "Letdown.",
-          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
-        }
-      ],
-      "duration_ms": 142596,
-      "name": "Young Broke",
-      "url": "https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Emerald",
         "url": "https://open.spotify.com/album/4FuhrBETVhAwoj0ilghy36"
       },
@@ -2207,6 +2191,22 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
+        "name": "Say That You Love Me",
+        "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
+      },
+      "artists": [
+        {
+          "name": "Letdown.",
+          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
+        }
+      ],
+      "duration_ms": 142596,
+      "name": "Young Broke",
+      "url": "https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
         "name": "Crazy Again",
         "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
       },
@@ -2219,6 +2219,22 @@
       "duration_ms": 197164,
       "name": "Crazy Again",
       "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "WDYK",
+        "url": "https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37"
+      },
+      "artists": [
+        {
+          "name": "Jordan Harvey",
+          "url": "https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW"
+        }
+      ],
+      "duration_ms": 191440,
+      "name": "WDYK",
+      "url": "https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2251,22 +2267,6 @@
       "duration_ms": 188000,
       "name": "If Looks Could Kill",
       "url": "https://open.spotify.com/track/1gZh9faxR4LZepKZzpxAsw"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
-        "name": "WDYK",
-        "url": "https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37"
-      },
-      "artists": [
-        {
-          "name": "Jordan Harvey",
-          "url": "https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW"
-        }
-      ],
-      "duration_ms": 191440,
-      "name": "WDYK",
-      "url": "https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb"
     },
     {
       "added_at": "2026-09-25 04:03:07",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2026-09-25 04:03:07",
       "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/3tKC0vwrBcx2GSzxWzGG15"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 208450,
-      "name": "Love Bites",
-      "url": "https://open.spotify.com/track/3viXIhTdaNjxxvaMKdcsNw"
-    },
-    {
-      "added_at": "2026-09-25 04:03:07",
-      "album": {
         "name": "Hell Is A Teenage Girl",
         "url": "https://open.spotify.com/album/7Dggd87vkUC1VsMmrUw4bZ"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 184733,
       "name": "Well I Hope Ur Happy",
       "url": "https://open.spotify.com/track/0BAwN4aylbMlgX10Gaaw8o"
+    },
+    {
+      "added_at": "2026-09-25 04:03:07",
+      "album": {
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/3tKC0vwrBcx2GSzxWzGG15"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 208450,
+      "name": "Love Bites",
+      "url": "https://open.spotify.com/track/3viXIhTdaNjxxvaMKdcsNw"
     },
     {
       "added_at": "2026-09-25 04:03:07",

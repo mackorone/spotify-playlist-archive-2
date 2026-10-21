@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Andy Shauf
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,000 likes - 151 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,002 likes - 151 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 150 | [I\-40](https://open.spotify.com/track/7LmMHENSDglEpVEySzwz1y) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [I\-40](https://open.spotify.com/album/5Cbhorm19BqHu78wRuLjVD) | 3:54 |
 | 151 | [Drive](https://open.spotify.com/track/4ybLYvD4DIYmjgublEgas1) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Drive](https://open.spotify.com/album/6pFpxo3c58cMcYA6i6Jcff) | 3:27 |
 
-Snapshot ID: `AAAAAAcmxbZ1iGZGqsBmeq6tFkZcF9YS`
+Snapshot ID: `AAAAAMZcmWb8b6qeP/CcDi0qbwGojb7o`

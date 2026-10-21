@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > Mosimann au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,982 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,951 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 39 | [Awake Tonight](https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Awake Tonight](https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0) | 3:10 |
 | 40 | [Dance Dance Dance!](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance!](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
 
-Snapshot ID: `AAAAALSVrPiih5tq06c/+zORULMN14UP`
+Snapshot ID: `AAAAAHdjNFNRJC/KCJJgqs12jO6sH54U`

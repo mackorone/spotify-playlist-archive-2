@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español 📸 Kidchen
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,891 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,864 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [niño don](https://open.spotify.com/track/6IL6V4WyAPzruODlvv3peU) | [Los Fibos](https://open.spotify.com/artist/1Kcaj61FM0mFYwh4ZCN4Lw), [Luis Sosa](https://open.spotify.com/artist/6EW6psW4qz2SWbqAwMuQgj) | [NIÑO DON](https://open.spotify.com/album/5HjlROc1h4Bjw1vrLnbUVU) | 4:13 |
 | 50 | [Rave En El Bosque](https://open.spotify.com/track/6U7D1tAYK1UDM0PUh3oSwa) | [MaiteQuiero](https://open.spotify.com/artist/6z3adcBXMsz0Y5VGyWTO69) | [Rave En El Bosque](https://open.spotify.com/album/1Rfz7g0JhUdzvZx1G8n7jF) | 3:31 |
 
-Snapshot ID: `AAAAAGpCrD6akAb3+CD4KUlDDN+9Rb/3`
+Snapshot ID: `AAAAAECl6HfUxJT57lBN29i+5sfIpGje`

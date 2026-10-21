@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > Cosas que pasan en Juárez que pueden entrar en tus oídos, quedarse en tu mente y hacerte feliz
 
-[Spotify](https://open.spotify.com/user/spotify) - 450 likes - 50 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 552 likes - 50 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 49 | [T2E09\. Doña Luz Jimenez, la musa indígena del muralismo mexicano \- Con Jerry Hund](https://open.spotify.com/episode/2G4sXag92eNSR1ll4TZKHn) | [La Histeria de México podcast](https://open.spotify.com/show/2p3iNUfuxdfOBINW0UiXAe) | [La Histeria de México podcast](https://open.spotify.com/album/2p3iNUfuxdfOBINW0UiXAe) | 1:05:03 |
 | 50 | [Los Simpson: El viaje a nuestra infancia](https://open.spotify.com/episode/0E1Ipjj0cYxMhNrh8DktGQ) | [¿Qué Fue De Ellos?](https://open.spotify.com/show/0ui8Wx21hSt6NodwdRzLBR) | [¿Qué Fue De Ellos?](https://open.spotify.com/album/0ui8Wx21hSt6NodwdRzLBR) | 1:49:06 |
 
-Snapshot ID: `AAAAANx3FaSQQfiE4cyynel/7CqC1VtZ`
+Snapshot ID: `AAAAAC9m3BxIuo0/+MERAXy524DZs2E4`

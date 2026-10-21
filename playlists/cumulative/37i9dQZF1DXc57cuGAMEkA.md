@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Fontaines D.C., The Avalanches, Olivia Rodrigo & Chappell Roan and more!
 
-15,521 songs - 36 day 3 hr 29 min
+15,522 songs - 36 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4281,6 +4281,7 @@
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-03-31 | 2023-04-07 |
 | [flower](https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [flower](https://open.spotify.com/album/380qbbdehm3cixP1ijJPIH) | 2:28 | 2025-08-01 | 2025-08-08 |
 | [Flower](https://open.spotify.com/track/3I1VAbSNRlWqWIODRdKzLt) | [レイニ](https://open.spotify.com/artist/1KExYvDuSlZMhkM6mLzjM6) | [Flower](https://open.spotify.com/album/67Iu27lEu68tHwqWdiTSwA) | 3:25 | 2025-09-11 | 2025-09-19 |
+| [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Flower In A Hurricane \(feat\. Tame Impala, SZA, King Gizzard & the Lizard Wizard\) \[from GTAVI\]](https://open.spotify.com/album/1V8Qu6CwkBfYucnCWxynq8) | 3:44 | 2026-10-20 |  |
 | [Flower Rhythm](https://open.spotify.com/track/11CxVWRPzkIJfL55lgPn0Q) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 2 : Flower Rhythm>](https://open.spotify.com/album/69i02S3KILQ083ExlYjZqg) | 2:39 | 2024-04-12 | 2024-04-19 |
 | [Flowers](https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Flowers](https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x) | 2:28 | 2026-02-20 | 2026-02-27 |
 | [Flowers](https://open.spotify.com/track/2P8Q6altzSJhUn18phiCDv) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [flowers](https://open.spotify.com/album/512rfw4NcUOirXQIctZbj9) | 2:55 | 2024-12-26 | 2025-01-10 |

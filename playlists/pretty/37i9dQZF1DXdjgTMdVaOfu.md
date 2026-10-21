@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjgTMdVaOfu.md) - [plain]
 
 > Music from "The Apothecary Diaries" ©日向夏・イマジカインフォス／「薬屋のひとりごと」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,988 likes - 120 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,175 likes - 120 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjgTMdVaOfu.md) - [plain]
 | 119 | [雪崩](https://open.spotify.com/track/1DIenu7QJPnWzg2oJkQQ9u) | [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [TV アニメ『薬屋のひとりごと』第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/1N1qZGt1yWrDiYdrQOJgmI) | 3:21 |
 | 120 | [いのちの灯火](https://open.spotify.com/track/45xsCxpWCIgVx1kjbNQ4bu) | [三宅りむ](https://open.spotify.com/artist/3Oi8slbuWuoYwBzeK4PgDa), [内田ましろ](https://open.spotify.com/artist/7arDNJAk4aH7PIG52EWblU), [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [TV アニメ『薬屋のひとりごと』第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/1N1qZGt1yWrDiYdrQOJgmI) | 2:43 |
 
-Snapshot ID: `AAAAAJbyoS2K39m/BXV4vph9u9/68CYw`
+Snapshot ID: `AAAAANs/Y5U4//UzhO1fBUvDu4wDHkgl`

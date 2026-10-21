@@ -1,12 +1,12 @@
 {
   "description": "\u27a1\ufe0f \u27a1\ufe0f \u27a1\ufe0f gute Laune.",
-  "num_followers": 1878185,
+  "num_followers": 1878035,
   "original_name": "Good Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANw4gSHUp0VYp06+HWEREz5T8lDN",
+  "snapshot_id": "AAAAAPMPF+nckER9v2XcGl/IzyWmxIX7",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:08",
@@ -103,22 +103,6 @@
     {
       "added_at": "2026-10-15 22:01:08",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-10-15 22:01:08",
-      "album": {
         "name": "Homewrecker",
         "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "added_at": "2026-10-15 22:01:08",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
       "added_at": "2026-10-15 22:01:08",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-10-15 22:01:08",
       "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
-    },
-    {
-      "added_at": "2026-10-15 22:01:08",
-      "album": {
         "name": "TRALALA",
         "url": "https://open.spotify.com/album/4pfxDNLAqfyDk5xVjddGIr"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 195869,
       "name": "TRALALA",
       "url": "https://open.spotify.com/track/6hPPwiXH4Y4kmc121v9Fdg"
+    },
+    {
+      "added_at": "2026-10-15 22:01:08",
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
       "added_at": "2026-10-15 22:01:08",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-10-15 22:01:08",
       "album": {
-        "name": "Mr. Know It All",
-        "url": "https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Mr. Know It All",
-      "url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on"
-    },
-    {
-      "added_at": "2026-10-15 22:01:08",
-      "album": {
         "name": "What If?",
         "url": "https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 165831,
       "name": "What If?",
       "url": "https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6"
+    },
+    {
+      "added_at": "2026-10-15 22:01:08",
+      "album": {
+        "name": "Mr. Know It All",
+        "url": "https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Mr. Know It All",
+      "url": "https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on"
     },
     {
       "added_at": "2026-10-15 22:01:08",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-10-15 22:01:08",
       "album": {
-        "name": "Zoo (From \"Zootopia 2\")",
-        "url": "https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 190822,
-      "name": "Zoo - From \"Zootopia 2\"",
-      "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
-    },
-    {
-      "added_at": "2026-10-15 22:01:08",
-      "album": {
         "name": "When We Were Young (The Logical Song)",
         "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 147432,
       "name": "When We Were Young (The Logical Song)",
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
+    },
+    {
+      "added_at": "2026-10-15 22:01:08",
+      "album": {
+        "name": "Zoo (From \"Zootopia 2\")",
+        "url": "https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 190822,
+      "name": "Zoo - From \"Zootopia 2\"",
+      "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
     },
     {
       "added_at": "2026-10-15 22:01:08",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-10-15 22:01:08",
       "album": {
-        "name": "Cruise",
-        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 175708,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
-    },
-    {
-      "added_at": "2026-10-15 22:01:08",
-      "album": {
         "name": "Born To Love Ya",
         "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 155076,
       "name": "Born To Love Ya",
       "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
+    },
+    {
+      "added_at": "2026-10-15 22:01:08",
+      "album": {
+        "name": "Cruise",
+        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "duration_ms": 175708,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
     },
     {
       "added_at": "2026-10-15 22:01:08",

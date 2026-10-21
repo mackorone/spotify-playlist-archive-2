@@ -15224,12 +15224,12 @@
       },
       "artists": [
         {
-          "name": "A2O",
-          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
-        },
-        {
           "name": "A2O LITE",
           "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
         }
       ],
       "date_added": "2026-10-19",

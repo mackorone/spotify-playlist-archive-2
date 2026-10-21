@@ -1,12 +1,12 @@
 {
   "description": "Praise and Worship the Almighty God with the best songs. A mix of both African and International songs. ",
-  "num_followers": 332900,
+  "num_followers": 333104,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJMSTdc3VFuLosh9O9EpygYnJukU",
+  "snapshot_id": "AAAAADqGomjlX4FsWAGnp71UVrOC29qa",
   "tracks": [
     {
       "added_at": "2026-01-09 00:01:27",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/1kLkJloAFF6Sx4PxfEg5Xj"
     },
     {
-      "added_at": "2025-08-22 00:01:27",
-      "album": {
-        "name": "Too Faithful",
-        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 370964,
-      "name": "Too Faithful",
-      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
-    },
-    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "Iba",
@@ -861,24 +845,20 @@
       "url": "https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY"
     },
     {
-      "added_at": "2024-05-03 00:01:00",
+      "added_at": "2025-08-22 00:01:27",
       "album": {
-        "name": "The Great Commission",
-        "url": "https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc"
+        "name": "Too Faithful",
+        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 808677,
-      "name": "Worthy of My Praise",
-      "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
+      "duration_ms": 370964,
+      "name": "Too Faithful",
+      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
     },
     {
       "added_at": "2025-08-22 00:01:27",
@@ -899,6 +879,26 @@
       "duration_ms": 339267,
       "name": "I Know A Name (with Cece Winans)",
       "url": "https://open.spotify.com/track/1r8WQfbxvLiyxBjY1jgKIW"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "The Great Commission",
+        "url": "https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "duration_ms": 808677,
+      "name": "Worthy of My Praise",
+      "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
     },
     {
       "added_at": "2025-05-30 00:01:31",
@@ -993,6 +993,22 @@
       "url": "https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N"
     },
     {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Calling My Name (I'm A Soldier) [Live]",
+        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 638798,
+      "name": "Calling My Name (I'm A Soldier) - Live",
+      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
+    },
+    {
       "added_at": "2025-10-31 00:01:28",
       "album": {
         "name": "Agnus Dei (Ao Vivo)",
@@ -1015,22 +1031,6 @@
       "duration_ms": 356470,
       "name": "Agnus Dei - Ao Vivo",
       "url": "https://open.spotify.com/track/4auepyf7VQ2j6YGKEGy3wd"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
-        "name": "Calling My Name (I'm A Soldier) [Live]",
-        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 638798,
-      "name": "Calling My Name (I'm A Soldier) - Live",
-      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1461,20 +1461,28 @@
       "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
     },
     {
-      "added_at": "2025-08-01 00:01:33",
+      "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "God Will Work It Out",
-        "url": "https://open.spotify.com/album/6osf9pssDlwps1Dc6ZeORw"
+        "name": "He Who Is To Come",
+        "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
       },
       "artists": [
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 392870,
-      "name": "God Will Work It Out",
-      "url": "https://open.spotify.com/track/5evSnRhml9lC1iYr0Oanet"
+      "duration_ms": 410958,
+      "name": "He Who Is To Come",
+      "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
     },
     {
       "added_at": "2025-08-22 00:01:27",
@@ -1501,28 +1509,20 @@
       "url": "https://open.spotify.com/track/5j3fJAxQp4gQ53xOPRnzvA"
     },
     {
-      "added_at": "2024-02-16 00:01:00",
+      "added_at": "2025-08-01 00:01:33",
       "album": {
-        "name": "He Who Is To Come",
-        "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
+        "name": "God Will Work It Out",
+        "url": "https://open.spotify.com/album/6osf9pssDlwps1Dc6ZeORw"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 410958,
-      "name": "He Who Is To Come",
-      "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
+      "duration_ms": 392870,
+      "name": "God Will Work It Out",
+      "url": "https://open.spotify.com/track/5evSnRhml9lC1iYr0Oanet"
     },
     {
       "added_at": "2025-08-22 00:01:27",

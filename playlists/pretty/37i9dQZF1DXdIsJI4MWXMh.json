@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena",
-  "num_followers": 85573,
+  "num_followers": 85593,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPP+0R/erucZ7rvW3bbdeg9pyfzq",
+  "snapshot_id": "AAAAAB8VcNq0gAQZr60iFXjyRj+1elwO",
   "tracks": [
     {
       "added_at": "2026-09-11 21:07:48",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
+        "name": "Mix Peregrinos del Amor 2026: Color\u00edn Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Qu\u00e9date",
+        "url": "https://open.spotify.com/album/2l9Gi5qbMenU2Fj0hPNsdp"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "duration_ms": 375600,
+      "name": "Mix Peregrinos del Amor 2026: Color\u00edn Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Qu\u00e9date",
+      "url": "https://open.spotify.com/track/45bjfClZfLUFd7sLzfYAD6"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/56MEOEdo5TBKqXqhRwONW7"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 185067,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/2iRkJXUqorBOvYCdmOWI1J"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
-        "name": "Mix Peregrinos del Amor 2026: Color\u00edn Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Qu\u00e9date",
-        "url": "https://open.spotify.com/album/2l9Gi5qbMenU2Fj0hPNsdp"
-      },
-      "artists": [
-        {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
-        }
-      ],
-      "duration_ms": 375600,
-      "name": "Mix Peregrinos del Amor 2026: Color\u00edn Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Qu\u00e9date",
-      "url": "https://open.spotify.com/track/45bjfClZfLUFd7sLzfYAD6"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "De Padre Desconocido",
-        "url": "https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW"
-      },
-      "artists": [
-        {
-          "name": "Los Llaneros De La Frontera",
-          "url": "https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Dos Monedas",
-      "url": "https://open.spotify.com/track/6N1ykx2KOySjEXcVgrZ42J"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
         "url": "https://open.spotify.com/album/0LtVrgVbR0Q9SP2Zj1Bx8z"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 219389,
       "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
       "url": "https://open.spotify.com/track/2CdxmSPq2YLHWemapVnw7j"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "De Padre Desconocido",
+        "url": "https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW"
+      },
+      "artists": [
+        {
+          "name": "Los Llaneros De La Frontera",
+          "url": "https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Dos Monedas",
+      "url": "https://open.spotify.com/track/6N1ykx2KOySjEXcVgrZ42J"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "El Intruso",
-        "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del Sur",
-          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
-        },
-        {
-          "name": "Los Machos de la Cumbia",
-          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "El Intruso",
-      "url": "https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Vuelve la Mezcla Perfecta",
         "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 268053,
       "name": "Vamos a Amarla los Dos",
       "url": "https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "El Intruso",
+        "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del Sur",
+          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
+        },
+        {
+          "name": "Los Machos de la Cumbia",
+          "url": "https://open.spotify.com/artist/31zOLg3uYZLDbtpA1JoQmH"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "El Intruso",
+      "url": "https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "La Fiesta de Koky",
-        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
-      },
-      "artists": [
-        {
-          "name": "Koky y su banda tropical ranchera",
-          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
-        }
-      ],
-      "duration_ms": 204069,
-      "name": "La Suegra",
-      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Qu\u00e9date con el",
         "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 328974,
       "name": "Ahora por unas monedas",
       "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "La Fiesta de Koky",
+        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
+      },
+      "artists": [
+        {
+          "name": "Koky y su banda tropical ranchera",
+          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
+        }
+      ],
+      "duration_ms": 204069,
+      "name": "La Suegra",
+      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "La Bella y la Bestia",
-        "url": "https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheros de Quilleco",
-          "url": "https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx"
-        }
-      ],
-      "duration_ms": 229084,
-      "name": "La Bella y la Bestia",
-      "url": "https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 235600,
       "name": "Golpes y Besos",
       "url": "https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros de Quilleco",
+          "url": "https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx"
+        }
+      ],
+      "duration_ms": 229084,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1"
     },
     {
       "added_at": "2026-09-11 21:07:48",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-09-11 21:07:48",
       "album": {
-        "name": "Por Andar de Patas Negras",
-        "url": "https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7"
-      },
-      "artists": [
-        {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Por Andar de Patas Negras",
-      "url": "https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K"
-    },
-    {
-      "added_at": "2026-09-11 21:07:48",
-      "album": {
         "name": "Todos a la Pista",
         "url": "https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 270883,
       "name": "Como Quisiera Poder",
       "url": "https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae"
+    },
+    {
+      "added_at": "2026-09-11 21:07:48",
+      "album": {
+        "name": "Por Andar de Patas Negras",
+        "url": "https://open.spotify.com/album/58WLAwlsDcs6vKSNBkIzP7"
+      },
+      "artists": [
+        {
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Por Andar de Patas Negras",
+      "url": "https://open.spotify.com/track/6Bm88gtarbeSbIcILdoe7K"
     },
     {
       "added_at": "2026-09-11 21:07:48",

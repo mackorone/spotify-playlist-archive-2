@@ -1,12 +1,12 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: The Smiths",
-  "num_followers": 1278866,
+  "num_followers": 1278870,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACBdpgQCEG0nNIjHtU64/XO3/RGq",
+  "snapshot_id": "AAAAAN0TUKgOehdrqFcwkzGhnZxUbDl3",
   "tracks": [
     {
       "added_at": "2025-01-14 03:34:33",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 313925,
-      "name": "Lust For Life",
-      "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
-    },
-    {
-      "added_at": "2025-01-14 03:34:33",
-      "album": {
         "name": "Souvlaki",
         "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 230986,
       "name": "Alison",
       "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
+    },
+    {
+      "added_at": "2025-01-14 03:34:33",
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 313925,
+      "name": "Lust For Life",
+      "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
     },
     {
       "added_at": "2025-01-14 03:34:33",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
-        "name": "The Best of Faces: Good Boys When They're Asleep",
-        "url": "https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR"
-      },
-      "artists": [
-        {
-          "name": "Faces",
-          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Ooh La La - 2004 Remaster",
-      "url": "https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6"
-    },
-    {
-      "added_at": "2025-01-14 03:34:33",
-      "album": {
         "name": "Built For Speed",
         "url": "https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 207000,
       "name": "Rock This Town",
       "url": "https://open.spotify.com/track/2SknHmwY6GiOv6aK7YRahd"
+    },
+    {
+      "added_at": "2025-01-14 03:34:33",
+      "album": {
+        "name": "The Best of Faces: Good Boys When They're Asleep",
+        "url": "https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR"
+      },
+      "artists": [
+        {
+          "name": "Faces",
+          "url": "https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Ooh La La - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6"
     },
     {
       "added_at": "2025-01-14 03:34:33",

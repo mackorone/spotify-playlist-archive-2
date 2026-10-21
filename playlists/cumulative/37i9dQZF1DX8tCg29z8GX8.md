@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-862 songs - 1 day 19 hr 58 min
+863 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,7 +664,7 @@
 | [Saint Tropez](https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 3:02 | 2024-10-25 | 2025-09-25 |
 | [SAME TIMBS](https://open.spotify.com/track/6kSFCS2GbbctaZ4KbWTqrA) | [Gonaboy](https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s) | [SAME TIMBS](https://open.spotify.com/album/0AjcqAkU6McINORVRb5bZV) | 2:21 | 2025-09-26 | 2026-02-15 |
 | [san siro](https://open.spotify.com/track/59PSEuGHBGLvgZGXC4wpvG) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [san siro](https://open.spotify.com/album/5wlpYMbCXl8pBQu6mx5xQD) | 3:14 | 2023-01-20 | 2025-03-30 |
-| [sankofa](https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [sankofa](https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY) | 2:36 | 2025-05-23 |  |
+| [sankofa](https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [sankofa](https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY) | 2:36 | 2025-05-23 | 2026-10-21 |
 | [Sankofa \- Remix](https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sankofa \(5 Star Remix\)](https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K) | 3:14 | 2022-12-02 | 2022-12-09 |
 | [Santorini Greece](https://open.spotify.com/track/1fg5ukTu4VOdFecN1LCDsa) | [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP) | [Santorini Greece](https://open.spotify.com/album/2C3fvdn3jCcvqa31CnH5Gz) | 2:55 | 2026-10-09 |  |
 | [Sapiosexual](https://open.spotify.com/track/1U87fNBrQuYJgoolhh0WQt) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Sapiosexual](https://open.spotify.com/album/5SyGcOymdbcswIkKi1sQwR) | 2:23 | 2025-03-21 | 2025-05-24 |
@@ -862,6 +862,7 @@
 | [You Bad](https://open.spotify.com/track/5DF5DbMr266CwVjCcxbsgn) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Skonti](https://open.spotify.com/artist/1cNkGlkbYoFw0BJJJ9UMNl) | [Ka Na Wu](https://open.spotify.com/album/4WjFmcus19qITkG4kvNWj4) | 3:44 | 2023-11-24 | 2023-11-29 |
 | [You Bad \(feat\. Skonti\)](https://open.spotify.com/track/4fTFL02Ct4HVWFsxpOgSeQ) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Skonti](https://open.spotify.com/artist/1cNkGlkbYoFw0BJJJ9UMNl) | [Ka Na Wu](https://open.spotify.com/album/4KCA3hHpLmH1Rm2uCGVURz) | 3:44 | 2023-11-24 | 2023-12-02 |
 | [Your Body](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Your Body](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 | 2024-06-14 | 2024-09-07 |
+| [Your Body \(Crazy\)](https://open.spotify.com/track/6z8o5ymNwSGbY2rWLTCagT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Your Body \(Crazy\)](https://open.spotify.com/album/2xxi5WOjd5ZAL1wy4gHKWz) | 2:39 | 2026-10-16 |  |
 | [Your Ghost](https://open.spotify.com/track/4jWDJjKkwzMDjou8X7V0Ml) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Your Ghost / Ayekoo](https://open.spotify.com/album/6OwmHKMoOpPX9N8l35xX3B) | 2:42 | 2025-05-30 | 2025-07-18 |
 | [Your Love](https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Your Love](https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc) | 3:14 | 2023-08-10 | 2023-10-05 |
 | [Yɛn Ware](https://open.spotify.com/track/0DiP6aKnShQjIvO908LMvs) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Yɛn Ware](https://open.spotify.com/album/6gqhJQWZ5DaqVBoP9JDLAb) | 2:17 | 2025-02-14 | 2025-03-01 |

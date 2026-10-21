@@ -5920,7 +5920,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -11710,7 +11710,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 160000,
       "name": "DEGVIELA",
       "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
@@ -16027,6 +16027,28 @@
     },
     {
       "album": {
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
+    },
+    {
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
       },
@@ -17352,7 +17374,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 237506,
       "name": "Flashing Lights",
       "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
@@ -20452,7 +20474,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 269840,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5AGQSF0ytihJyt96K5vW9d"
@@ -26532,7 +26554,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 181894,
       "name": "Koks no Peru",
       "url": "https://open.spotify.com/track/4mwZbBm18xZFnFZZ6FLrhQ"
@@ -35274,7 +35296,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 186367,
       "name": "Nere\u0101li",
       "url": "https://open.spotify.com/track/766PulzEhInR7VVBchqGBC"
@@ -40656,7 +40678,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 153028,
       "name": "Pl\u0101ksteris",
       "url": "https://open.spotify.com/track/1oGmFrMqitiA38yJZnvWin"
@@ -41842,7 +41864,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 206032,
       "name": "P\u0101ri Oke\u0101nam (feat. J\u0101nis Kr\u016bmi\u0146\u0161)",
       "url": "https://open.spotify.com/track/57sTCFCVOHwG2hsXWUYv6l"
@@ -42528,7 +42550,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 206315,
       "name": "Ra\u0137e\u0161u Zin\u0101tne",
       "url": "https://open.spotify.com/track/3IZUwm8nYtVN6zqw9fa9W4"
@@ -49462,7 +49484,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 173386,
       "name": "STORM II",
       "url": "https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB"
@@ -50368,7 +50390,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -50386,7 +50408,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -51206,7 +51228,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA"
@@ -55024,7 +55046,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 174545,
       "name": "Tu Neesi Viens",
       "url": "https://open.spotify.com/track/16x3OI7aibVk4ZiKN5e0q9"
@@ -55120,7 +55142,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 236280,
       "name": "Tu Tuvojies Sev",
       "url": "https://open.spotify.com/track/15zy9g9cHxorqRu8QsbLWE"
@@ -55430,7 +55452,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 218915,
       "name": "Tuvums",
       "url": "https://open.spotify.com/track/7oi3p8naIo7uaAjXlza0Sf"
@@ -64926,7 +64948,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 168941,
       "name": "\u0428\u0430\u0434\u044d",
       "url": "https://open.spotify.com/track/6GiiGC1f90eZdYwyg0NEJl"

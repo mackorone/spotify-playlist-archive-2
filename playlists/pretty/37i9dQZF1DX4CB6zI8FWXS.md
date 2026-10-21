@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Lucky Daye
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,222 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,221 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 99 | [Really Into You](https://open.spotify.com/track/6qs2mtkEUfTGAiNB4WqVsr) | [i\-COAST](https://open.spotify.com/artist/5pE7gWEZDFqXuXOoMji8vB) | [Really Into You](https://open.spotify.com/album/5nfciwr9LoDodsquTVSYxk) | 3:50 |
 | 100 | [Only One](https://open.spotify.com/track/4lthtFNXXZZmRPdS1BlIpu) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Only One](https://open.spotify.com/album/5hyb010Cm1neU0k5l4zdSl) | 3:13 |
 
-Snapshot ID: `AAAAANdOCSecqpsK9ZRa5Ah0E6D8m+bG`
+Snapshot ID: `AAAAAIcZPX7TxBycRO7SouHPPoa/DgO9`

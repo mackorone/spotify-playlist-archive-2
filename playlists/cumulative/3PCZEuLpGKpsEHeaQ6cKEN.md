@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,912 songs - 4 day 5 hr 26 min
+1,913 songs - 4 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1211,6 +1211,7 @@
 | [Ouro Preto](https://open.spotify.com/track/7p6Gl6qvIXjFefZzm3wYYy) | [Buogo](https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q) | [Ouro Preto](https://open.spotify.com/album/0ChoIip9TeuWlmB9GUXxTb) | 3:07 | 2025-08-22 | 2025-08-29 |
 | [Out My Mind](https://open.spotify.com/track/3TjHhU6Yvs0yUiv7wX6M2f) | [Felix Leiter](https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO) | [Out My Mind](https://open.spotify.com/album/28dlC4LGjCqaA6xAmPpZbA) | 2:49 | 2024-06-20 | 2024-10-19 |
 | [Out of My Head](https://open.spotify.com/track/1lJy3U8YfZFW7nIYGe7jLR) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Out of My Head](https://open.spotify.com/album/2butoupcYhsMrCOWpM54nw) | 3:18 | 2026-10-16 |  |
+| [out of my head](https://open.spotify.com/track/4TDSFfzlCEWbvzuZ9PJ8Zf) | [James Marley](https://open.spotify.com/artist/0shZgxgMxIX2SbMCcJhfeI) | [out of my head](https://open.spotify.com/album/6ZOjApqxqVGjlqbQu1MpSI) | 3:42 | 2026-10-20 |  |
 | [Out Of The Blue](https://open.spotify.com/track/0JVn39lvpRCe0EZi6RMtj0) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Out Of The Blue](https://open.spotify.com/album/1Sllk89KwnDugKZOCNT5Rx) | 3:18 | 2023-06-24 | 2023-08-01 |
 | [Out Of The Blue](https://open.spotify.com/track/2Ei9k5quiGyGTWFXNz1CmI) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Ibiza 2023 \- Armada Music](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 3:18 | 2023-07-31 | 2024-06-14 |
 | [Out Of Time](https://open.spotify.com/track/3aTL9YroCEJ1em7VVOm9bK) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ) | [Out Of Time](https://open.spotify.com/album/2KdW273wS4w0m8PSvpJpuM) | 3:23 | 2023-12-07 | 2024-06-08 |

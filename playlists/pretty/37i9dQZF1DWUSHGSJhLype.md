@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Grelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,066 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,094 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 25 | [Jejum de Amor / Caixa Postal / Vida Vazia \- Ao Vivo](https://open.spotify.com/track/2je7f5dovpUabOqTSfyD5V) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Churrasquinho 3 \(Ao Vivo\)](https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC) | 5:11 |
 | 26 | [Nem Pagando](https://open.spotify.com/track/1haTu99Drbh0fs7d09UNPu) | [Henrique Casttro](https://open.spotify.com/artist/31LTPsEvAHPLNTMX06UdJK), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Nem Pagando](https://open.spotify.com/album/6Sm3MUWysWug42nMUMTbK6) | 2:22 |
 | 27 | [Hipnotiza](https://open.spotify.com/track/55PclCORPD6GpFEUva4MOX) | [Diggo](https://open.spotify.com/artist/05OVRDpkoBtLlLOOsieTiu), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Hipnotiza](https://open.spotify.com/album/5STRX5pctUIuJJZ4eVFSNS) | 2:04 |
-| 28 | [Não Era Eu no Bolão](https://open.spotify.com/track/1pCCxV7HyOl9Ef9TmCYmlc) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC), [Raul Vaqueiro](https://open.spotify.com/artist/5ttAiBm0FqmIYIML2i8hHd) | [Não Era Eu no Bolão](https://open.spotify.com/album/4JJ5FvvX0H4369iQQZFe9f) | 2:26 |
-| 29 | [Raparigas](https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4) | [Filho do Piseiro](https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW) | [Só Poesias No Médio Grave \(Vol.1\)](https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS) | 2:16 |
+| 28 | [Raparigas](https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4) | [Filho do Piseiro](https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW) | [Só Poesias No Médio Grave \(Vol.1\)](https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS) | 2:16 |
+| 29 | [Não Era Eu no Bolão](https://open.spotify.com/track/1pCCxV7HyOl9Ef9TmCYmlc) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC), [Raul Vaqueiro](https://open.spotify.com/artist/5ttAiBm0FqmIYIML2i8hHd) | [Não Era Eu no Bolão](https://open.spotify.com/album/4JJ5FvvX0H4369iQQZFe9f) | 2:26 |
 | 30 | [Pela Última Vez \- Ao Vivo](https://open.spotify.com/track/4bxyHku6rNffRealVxu30p) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Pela Última Vez \(Ao Vivo\)](https://open.spotify.com/album/5QVFS3TZhg8te5X8Eq20zV) | 2:42 |
 | 31 | [Já Que Me Ensinou a Beber](https://open.spotify.com/track/6nWPzkaAjRdjAGSFhpGc3O) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Batom de Ouro](https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu) | 2:38 |
 | 32 | [Na Imaginação](https://open.spotify.com/track/1sWx8hqMdjT3Gc7F9BSbUY) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP) | [Na Imaginação](https://open.spotify.com/album/6AXA2rbQCaAJfCcqgYPHcE) | 1:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 59 | [Tubarões \- Ao Vivo](https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Diego](https://open.spotify.com/artist/7LhZFr6gyaW6KzVCMr40M8), [Victor Hugo](https://open.spotify.com/artist/2l49kVAvFQsuOM2SGsq0Pz) | [Tubarões \(Ao Vivo\)](https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB) | 2:42 |
 | 60 | [Aquele Lugar \- Ao Vivo](https://open.spotify.com/track/0pGsxpkJC9IwK93fmqEYXn) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/4oMmPinXoUPTK2snpCWxAy) | 2:47 |
 
-Snapshot ID: `AAAAALvo2pEel8EOGbjCGVyffdvfVyUL`
+Snapshot ID: `AAAAAJ2C1xStfXiKdGZx0ekTqOpXq4YP`

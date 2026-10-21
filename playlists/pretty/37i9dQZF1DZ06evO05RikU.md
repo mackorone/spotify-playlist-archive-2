@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,845 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,843 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 2 | [Know My Name](https://open.spotify.com/track/3s2YCL5LHLzXWbw7ezQru3) | [True Damage](https://open.spotify.com/artist/7xX15v6ahAkcT14kHfB9wB), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Know My Name](https://open.spotify.com/album/5CfKcRzU4j7AyZ5CwyJ2Ut) | 3:32 |
 | 3 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:21 |
 | 4 | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:52 |
-| 5 | [Old Habits \(From Delta Force Game\)](https://open.spotify.com/track/5tKCXGkAsVCQW2Wce51Gs3) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Delta Force](https://open.spotify.com/artist/7LMRd2GY8us9EXHeY4Mi9G), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Old Habits \(From Delta Force Game\)](https://open.spotify.com/album/6JC5LFS1ZhuNjN31EMfWWX) | 3:10 |
+| 5 | [Old Habits \(From Delta Force Game\)](https://open.spotify.com/track/5tKCXGkAsVCQW2Wce51Gs3) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Delta Force](https://open.spotify.com/artist/1MIBr4T0vz2f6XWybFMzOU), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Old Habits \(From Delta Force Game\)](https://open.spotify.com/album/6JC5LFS1ZhuNjN31EMfWWX) | 3:10 |
 | 6 | [¿Qué Ha Pasao'?](https://open.spotify.com/track/5fxnoiUBJ5DMAQEYb2uFOr) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Sigo a Lo Mío](https://open.spotify.com/album/7mRlOJYRk9u7I8MteTkfzZ) | 3:18 |
 | 7 | [Mal de Amores](https://open.spotify.com/track/4AzTk75T9EQtHaGNWU3UY5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:08 |
 | 8 | [How You Samba](https://open.spotify.com/track/2XPpnenkHVw69VymWLw5Mt) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/3G9IhfvApy550eaiuE99o0) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 49 | [Si Me Ven Llorando](https://open.spotify.com/track/6gUeEvhTyXO9oZxuimoN6e) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:13 |
 | 50 | [1, 2, 3 \- Sped Up](https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX) | [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Sped Up Songs Vol\. 1](https://open.spotify.com/album/0aWkwVZqDzu02AIUhdqX7L) | 2:50 |
 
-Snapshot ID: `atQMAAAAAADUifkZSoJx9OdLepcMO6gB`
+Snapshot ID: `atQMAAAAAAD5HKkBmB2smBknlAbrQAEW`

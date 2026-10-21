@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6RZkiFMODT1nUffw6ABTvz">Dolly Parton</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-523 songs - 1 day 3 hr 7 min
+524 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [The Master's Hand](https://open.spotify.com/track/5WhfOIZThOEC2DwytFtju7) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Golden Streets Of Glory](https://open.spotify.com/album/4oEaTOUuaULpU9Wd1EStm9) | 2:43 | 2026-09-08 |  |
 | [The Pain of Loving You \- 2015 Remaster](https://open.spotify.com/track/3Tz4zMJEN6PiD4HFAxnyd7) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/0uI0942o4CxMB96f9TZRjx) | 2:34 | 2026-09-08 |  |
 | [The Party](https://open.spotify.com/track/31t1Bh0nPlM6nuvKpMl35z) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Just the Two of Us](https://open.spotify.com/album/4qNiPLa7vyH0XMktaJxqSx) | 2:57 | 2026-09-08 |  |
+| [The Right Kind Of Girl](https://open.spotify.com/track/2i4AyFSTDmrecXJ0XyrA6w) | [Bill Owens](https://open.spotify.com/artist/1Tf6cTjrIYFQ0DB3ewRGVU), [Louis Owens](https://open.spotify.com/artist/3uL5ZUq6xGHcsDzA6nz9ns) | [The Owens Brothers \- Tomorrow's Tears Today \- Singles 1961 \- 1967](https://open.spotify.com/album/6aCkSUeG211DdQNv14Wwis) | 1:29 | 2026-10-20 |  |
 | [The Sacrifice](https://open.spotify.com/track/5TN7A4FuHWNfrFQDBlvw8u) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Better Day](https://open.spotify.com/album/269AiVgbsxhy45pvcTutQi) | 3:26 | 2026-09-08 |  |
 | [The Salt In My Tears](https://open.spotify.com/track/5vmVYo1SJsiRsb4QLD5gOV) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Hungry Again](https://open.spotify.com/album/5G8Qf6CgCuGyOGh7i97wkH) | 3:49 | 2026-09-08 |  |
 | [The Seeker](https://open.spotify.com/track/4zaTdrLfDQXFwPWgS95oDj) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly: The Seeker \- We Used To](https://open.spotify.com/album/0XsLZoOugHHeNc3WftV1fu) | 3:05 | 2026-09-08 |  |

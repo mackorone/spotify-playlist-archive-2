@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: Vaundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,194 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,181 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [3XL](https://open.spotify.com/track/6ggjkwPk8ghOR5Pu5rTRH6) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [3XL](https://open.spotify.com/album/42E8Hui63dCwaiLPjzPOaE) | 2:45 |
 | 60 | [SPIN](https://open.spotify.com/track/2f0aQlbzfF7Zz4olebBtjG) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [SPIN](https://open.spotify.com/album/0djyCLXBscCrVmXyA7ro7T) | 5:05 |
 
-Snapshot ID: `AAAAAOJSpUvXFAmWYB9q6dkJ+5vD6wVR`
+Snapshot ID: `AAAAALJ+QpH6HGq6zBXMH3v+0lcwT055`

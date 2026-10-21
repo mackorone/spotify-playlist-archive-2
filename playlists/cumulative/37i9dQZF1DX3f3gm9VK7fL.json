@@ -208,7 +208,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 156780,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4"
@@ -284,10 +284,28 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 245840,
       "name": "Feel",
       "url": "https://open.spotify.com/track/4NnOR8W05j63NwzVIhp6a8"
+    },
+    {
+      "album": {
+        "name": "GO GHOST",
+        "url": "https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170100,
+      "name": "GO GHOST",
+      "url": "https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB"
     },
     {
       "album": {
@@ -755,6 +773,24 @@
     },
     {
       "album": {
+        "name": "SPIN",
+        "url": "https://open.spotify.com/album/4Zgc3KeKNzc25VloCHuKBK"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305201,
+      "name": "SPIN",
+      "url": "https://open.spotify.com/track/7Kn5NdVjzS9WUPub1rlwuT"
+    },
+    {
+      "album": {
         "name": "Stare In Wonder",
         "url": "https://open.spotify.com/album/34Y0UOwoUZNrGlafpg7d4D"
       },
@@ -1080,7 +1116,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 193400,
       "name": "\u3082\u3057\u3082\u306e\u304c\u305f\u308a",
       "url": "https://open.spotify.com/track/1wLrBCgGJcK5PNm0slZey9"
@@ -1711,6 +1747,24 @@
     },
     {
       "album": {
+        "name": "\u300e\u6620\u753b\u3061\u3044\u304b\u308f \u4eba\u9b5a\u306e\u5cf6\u306e\u3072\u307f\u3064\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Part2",
+        "url": "https://open.spotify.com/album/41DhlAnaNDkSCnzn8nRTbF"
+      },
+      "artists": [
+        {
+          "name": "\u9752\u6728\u9065",
+          "url": "https://open.spotify.com/artist/2ZU5wBJP1DvkKIaB9bsHKO"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237993,
+      "name": "\u673a\u3055\u3059\u308b",
+      "url": "https://open.spotify.com/track/466jomzodCqSeM65kuiidM"
+    },
+    {
+      "album": {
         "name": "\u6b21\u56de\u4e88\u544a",
         "url": "https://open.spotify.com/album/4cQOQ6V8xNB6pKPEYCvvg3"
       },
@@ -2130,10 +2184,28 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 215067,
       "name": "\u904b\u547d\u306e\u541b",
       "url": "https://open.spotify.com/track/7yXDBF1sD0ouJniM3gnEZS"
+    },
+    {
+      "album": {
+        "name": "\u96f2\u3092\u629c\u3051\u98a8\u4e0b\u3078\u79c1\u3060\u3051",
+        "url": "https://open.spotify.com/album/0FyaMUsOnxYdEEHXMWBlm0"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238398,
+      "name": "\u96f2\u3092\u629c\u3051\u98a8\u4e0b\u3078\u79c1\u3060\u3051",
+      "url": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > sad songs 4 sad days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,625,207 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,624,951 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 49 | [Notre\-Dame](https://open.spotify.com/track/6c2s7cbT6WbothMJ6HaywK) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Atanor](https://open.spotify.com/album/6DrdihUtlmWjSaSVPW4M5Y) | 2:46 |
 | 50 | [YA NO NOS CONOCEMOS](https://open.spotify.com/track/59bM6aWjUPN8rKT5u2WaJA) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd) | [YA NO NOS CONOCEMOS](https://open.spotify.com/album/6JWSpmDfqteGUHQNoiVcA0) | 3:17 |
 
-Snapshot ID: `AAAAAOWx+pLO+qm3Uny7GZmIaX+WlSnG`
+Snapshot ID: `AAAAAJATbyS61jBZabMHq9UdKX/aH98b`

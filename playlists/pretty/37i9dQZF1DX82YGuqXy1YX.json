@@ -1,12 +1,12 @@
 {
   "description": "All the artists playing at FORM Arcosanti 2026.",
-  "num_followers": 853,
+  "num_followers": 863,
   "original_name": "FORM Arcosanti Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI/NdumHPI8RI6Mdb1jrbJA3kQP2",
+  "snapshot_id": "AAAAAP0VXxE1cXK6O7q2ym6LGqPtn/Em",
   "tracks": [
     {
       "added_at": "2026-08-06 16:00:19",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-08-06 16:00:19",
       "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/1TwmkxFywYn6qn4PFTejOe"
+      },
+      "artists": [
+        {
+          "name": "james K",
+          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
+        }
+      ],
+      "duration_ms": 243030,
+      "name": "Hypersoft Lovejinx Junkdream",
+      "url": "https://open.spotify.com/track/1C9fCrGgtkkqS8UsB8KwA4"
+    },
+    {
+      "added_at": "2026-08-06 16:00:19",
+      "album": {
         "name": "The Pleasure Is Yours",
         "url": "https://open.spotify.com/album/2PW3hhgsQRGgJbPIhHCYrS"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 141381,
       "name": "Circlesz",
       "url": "https://open.spotify.com/track/0TWqzeAGWe1utMzN7MIJPb"
-    },
-    {
-      "added_at": "2026-08-06 16:00:19",
-      "album": {
-        "name": "Friend",
-        "url": "https://open.spotify.com/album/1TwmkxFywYn6qn4PFTejOe"
-      },
-      "artists": [
-        {
-          "name": "james K",
-          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
-        }
-      ],
-      "duration_ms": 243030,
-      "name": "Hypersoft Lovejinx Junkdream",
-      "url": "https://open.spotify.com/track/1C9fCrGgtkkqS8UsB8KwA4"
     },
     {
       "added_at": "2026-08-06 16:00:19",

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 26486,
+  "num_followers": 26489,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACHMHhls6G+hDiwR9hiC5nIZJhBM",
+  "snapshot_id": "AAAAAD+iWPNq8B2x4BxjMjpz6T8UaF00",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 204629,
+      "name": "Ok Ok pt 2",
+      "url": "https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Faith (Deluxe)",
         "url": "https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 228251,
       "name": "30 (feat. Bizzy Banks)",
       "url": "https://open.spotify.com/track/5nkzBlt92PJLVEvPXBd9WZ"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 204629,
-      "name": "Ok Ok pt 2",
-      "url": "https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI"
     }
   ],
   "unique_name": "DJ Akademiks' Taste",

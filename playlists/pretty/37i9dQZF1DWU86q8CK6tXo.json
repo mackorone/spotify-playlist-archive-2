@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Josie Edwards",
-  "num_followers": 65695,
+  "num_followers": 65697,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACQubtwaUuI4b/zsBbMg0G2lcQtR",
+  "snapshot_id": "AAAAACcTRzclC3U8t8SbnOY4zjWzIhsF",
   "tracks": [
     {
       "added_at": "2026-10-05 15:51:33",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-10-05 15:51:33",
       "album": {
-        "name": "Lean In, Kiss Me",
-        "url": "https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 158973,
-      "name": "Lean In, Kiss Me",
-      "url": "https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE"
-    },
-    {
-      "added_at": "2026-10-05 15:51:33",
-      "album": {
         "name": "Not Yours",
         "url": "https://open.spotify.com/album/2dmEvjeosmWip7SSpV7wro"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 156000,
       "name": "Not Yours",
       "url": "https://open.spotify.com/track/1Wlxvl98MLBcyXsVF6VDnt"
+    },
+    {
+      "added_at": "2026-10-05 15:51:33",
+      "album": {
+        "name": "Lean In, Kiss Me",
+        "url": "https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 158973,
+      "name": "Lean In, Kiss Me",
+      "url": "https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE"
     },
     {
       "added_at": "2026-10-05 15:51:33",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-10-05 15:51:33",
       "album": {
-        "name": "Used To Be",
-        "url": "https://open.spotify.com/album/3RYKpZIW82JbMpULEdcxHG"
-      },
-      "artists": [
-        {
-          "name": "Jamie MacDonald",
-          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
-        }
-      ],
-      "duration_ms": 181806,
-      "name": "Used To Be",
-      "url": "https://open.spotify.com/track/4wj4ogBPevGweczZNtHoZ2"
-    },
-    {
-      "added_at": "2026-10-05 15:51:33",
-      "album": {
         "name": "gloria!",
         "url": "https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 201202,
       "name": "gloria!",
       "url": "https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN"
+    },
+    {
+      "added_at": "2026-10-05 15:51:33",
+      "album": {
+        "name": "Used To Be",
+        "url": "https://open.spotify.com/album/3RYKpZIW82JbMpULEdcxHG"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "duration_ms": 181806,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/4wj4ogBPevGweczZNtHoZ2"
     },
     {
       "added_at": "2026-10-05 15:51:33",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-10-05 15:51:33",
       "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/6KI31QMuC77LZi5GS8Ipqf"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 173655,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/4IvgjdQD4mG7yDvftdBOft"
-    },
-    {
-      "added_at": "2026-10-05 15:51:33",
-      "album": {
         "name": "Feelings Are Forever",
         "url": "https://open.spotify.com/album/01rDa3R9E2OMXOISdH1295"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 168146,
       "name": "It Just So Happens",
       "url": "https://open.spotify.com/track/39VskX4yIWsxCSE1x7Wa8j"
+    },
+    {
+      "added_at": "2026-10-05 15:51:33",
+      "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/6KI31QMuC77LZi5GS8Ipqf"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 173655,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/4IvgjdQD4mG7yDvftdBOft"
     },
     {
       "added_at": "2026-10-05 15:51:33",

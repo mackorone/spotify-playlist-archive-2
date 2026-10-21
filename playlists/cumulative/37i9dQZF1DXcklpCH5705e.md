@@ -4,7 +4,7 @@
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Hebe 田馥甄
 
-333 songs - 21 hr 28 min
+334 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [寫未來的日記](https://open.spotify.com/track/1RLEvfI0JQSXq1eMpZDIEV) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [寫未來的日記](https://open.spotify.com/album/6YIHCpy7HvduSrx7FA03tp) | 3:58 | 2025-05-01 | 2026-07-03 |
 | [尋找消失的過去 \(ViuTV《瑪嘉烈與大衛系列綠豆》片尾曲\)](https://open.spotify.com/track/0Q3KCpiyisGcVyEh4I5LBT) | [黃劍文](https://open.spotify.com/artist/7ttdhAuwRlmHaRDUU4WRk2) | [尋找消失的過去 \(ViuTV《瑪嘉烈與大衛系列綠豆》片尾曲\)](https://open.spotify.com/album/2GQFBMygsXGKDE6ZVyhLNb) | 4:07 | 2022-03-10 | 2023-02-03 |
 | [小半](https://open.spotify.com/track/3QxWTqyIT4O9bokIZlNDpo) | [陳粒](https://open.spotify.com/artist/3SyC3U06X0DjdWd2Jf6V8Q) | [小梦大半](https://open.spotify.com/album/7jXDJuL3KJ9N28rVjmuUrl) | 4:57 | 2026-07-02 | 2026-09-26 |
+| [小牌大耍](https://open.spotify.com/track/17tQ6PZUPDDYVifimFdMwm) | [Billionhappy](https://open.spotify.com/artist/348VulOjvQcgJgL8hBCFZr), [Akemen杀](https://open.spotify.com/artist/13C9C6bk4DDD98Bg2XkdVt) | [小牌大耍](https://open.spotify.com/album/6VRGnZFFwQVynqeSOARaLx) | 2:30 | 2026-10-20 |  |
 | [小黑與我](https://open.spotify.com/track/2vD2zwXVdGrF7ZaSK7XcF3) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [Infinity Journey](https://open.spotify.com/album/43A14wOfi59SPQGbIoRCia) | 3:53 | 2023-02-02 | 2025-04-04 |
 | [幸福在歌唱 \- 電影《陽光女子合唱團》幸福版主題曲](https://open.spotify.com/track/3VHi5bCUek6XdiDmqqrirs) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [幸福在歌唱 \(電影《陽光女子合唱團》幸福版主題曲\)](https://open.spotify.com/album/4NinJjUJ7jqP3zu2PSBovX) | 4:39 | 2026-03-26 |  |
 | [彩虹桥](https://open.spotify.com/track/5g9oMoqEjZ6r55WPEenymW) | [MAD](https://open.spotify.com/artist/17Ff1xhblc88EqazU5B3Ze) | [彩虹桥](https://open.spotify.com/album/7wLSWh0Hcjuk17ULOnPbb9) | 4:08 | 2025-04-03 | 2025-07-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Temper City
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,235,705 likes - 175 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,235,662 likes - 175 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 174 | [No Thank You, I Love You, Goodbye](https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Thank You, I Love You, Goodbye](https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj) | 2:59 |
 | 175 | [June 2 \- Early Version](https://open.spotify.com/track/371NJco2wnSGa4sQu4mRrF) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [June 2 \(Early Version\)](https://open.spotify.com/album/4jRlOp8Q5JPE3RPVrDDu1K) | 3:32 |
 
-Snapshot ID: `AAAAAElKac9IX16vJ/LY9TYPTGuE22Z5`
+Snapshot ID: `AAAAAOIEPhkTDVfxy9AFhsMQP5f30Q3O`

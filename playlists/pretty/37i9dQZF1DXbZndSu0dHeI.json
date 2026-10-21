@@ -1,12 +1,12 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234057,
+  "num_followers": 234056,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABiN32ZNr3SrMRYvMEw+cEPnQik9",
+  "snapshot_id": "AAAAAO4LleP6WZs4cwZyifX5zNvo/wHd",
   "tracks": [
     {
       "added_at": "2026-06-18 23:01:00",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "Spill",
-        "url": "https://open.spotify.com/album/3NPY0pbI9pQtNOp9jzxJAa"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 195912,
-      "name": "Spill",
-      "url": "https://open.spotify.com/track/4vjuArCMCwFOLDVCn9TG5n"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "For Mary",
@@ -479,6 +463,22 @@
       "duration_ms": 259751,
       "name": "Mary",
       "url": "https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "Spill",
+        "url": "https://open.spotify.com/album/3NPY0pbI9pQtNOp9jzxJAa"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 195912,
+      "name": "Spill",
+      "url": "https://open.spotify.com/track/4vjuArCMCwFOLDVCn9TG5n"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -721,6 +721,22 @@
       "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
     },
     {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "strongboi",
+        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 243206,
+      "name": "flame",
+      "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
+    },
+    {
       "added_at": "2026-08-14 13:22:54",
       "album": {
         "name": "End of the World",
@@ -739,38 +755,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "strongboi",
-        "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
-      },
-      "artists": [
-        {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
-        }
-      ],
-      "duration_ms": 243206,
-      "name": "flame",
-      "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "{Awayland}",
         "url": "https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 223935,
       "name": "Nothing Arrived",
       "url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "If I Could",
-        "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 231716,
-      "name": "If I Could",
-      "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Crown",
@@ -863,6 +847,22 @@
       "duration_ms": 288283,
       "name": "Mine Forever",
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "If I Could",
+        "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 231716,
+      "name": "If I Could",
+      "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "The Boy With the Arab Strap",
-        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "The Boy With the Arab Strap",
-      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "How Beautiful Life Can Be",
         "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 150662,
       "name": "How Beautiful Life Can Be - Single Version",
       "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "The Boy With the Arab Strap",
+        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "The Boy With the Arab Strap",
+      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Guts",
+        "url": "https://open.spotify.com/album/6szOt2A9ABSPorygYiIKY1"
+      },
+      "artists": [
+        {
+          "name": "Augustine",
+          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
+        }
+      ],
+      "duration_ms": 206233,
+      "name": "Guts",
+      "url": "https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "2much2soon",
         "url": "https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo"
       },
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Guts",
-        "url": "https://open.spotify.com/album/6szOt2A9ABSPorygYiIKY1"
-      },
-      "artists": [
-        {
-          "name": "Augustine",
-          "url": "https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4"
-        }
-      ],
-      "duration_ms": 206233,
-      "name": "Guts",
-      "url": "https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Smile in the Face of the Devil",
         "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "I Don't Think of Kissing You",
-        "url": "https://open.spotify.com/album/70msBWtO2LfuDNZAFf5Uae"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 169124,
-      "name": "I Don't Think of Kissing You",
-      "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/5a14jF7aMhiVPUzV2IVavH"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 166413,
       "name": "Today",
       "url": "https://open.spotify.com/track/7KVGTie5N8KjstWEHRS5qU"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "I Don't Think of Kissing You",
+        "url": "https://open.spotify.com/album/70msBWtO2LfuDNZAFf5Uae"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 169124,
+      "name": "I Don't Think of Kissing You",
+      "url": "https://open.spotify.com/track/5tpemQqVsJXeZ5TWusQ3ar"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
+        "name": "Nosebleed",
+        "url": "https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn"
       },
       "artists": [
         {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
         }
       ],
-      "duration_ms": 234546,
-      "name": "Minnie",
-      "url": "https://open.spotify.com/track/37ZUVt5gLoiywE6Uzpwyf1"
+      "duration_ms": 206573,
+      "name": "Nosebleed",
+      "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Nosebleed",
-        "url": "https://open.spotify.com/album/21ra3mXDSgrc12axMIbjsn"
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
       },
       "artists": [
         {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
-      "duration_ms": 206573,
-      "name": "Nosebleed",
-      "url": "https://open.spotify.com/track/1ARLDdTUR8FPWCW65qRTq8"
+      "duration_ms": 234546,
+      "name": "Minnie",
+      "url": "https://open.spotify.com/track/37ZUVt5gLoiywE6Uzpwyf1"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Brian Cox",
-        "url": "https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho"
-      },
-      "artists": [
-        {
-          "name": "Sophie May",
-          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Brian Cox",
-      "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "I Can\u2019t Get My Head Around You",
         "url": "https://open.spotify.com/album/1fSKT3XWJwbOMXxBznEyKZ"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 206427,
       "name": "I Can't Get My Head Around You",
       "url": "https://open.spotify.com/track/6SYqfDeq72Y5KJLO3MLbEz"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Brian Cox",
+        "url": "https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho"
+      },
+      "artists": [
+        {
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Brian Cox",
+      "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "RAT RACE",
+        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
+      },
+      "artists": [
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
+        }
+      ],
+      "duration_ms": 218712,
+      "name": "RAT RACE",
+      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Fantasneeze (feat. Matilda Mann)",
         "url": "https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 201240,
       "name": "Fantasneeze (feat. Matilda Mann)",
       "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "RAT RACE",
-        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
-      },
-      "artists": [
-        {
-          "name": "Norah Hendriks",
-          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
-        }
-      ],
-      "duration_ms": 218712,
-      "name": "RAT RACE",
-      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

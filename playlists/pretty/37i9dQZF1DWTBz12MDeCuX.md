@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Domiziana, Souly
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,742 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,701 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Capri Breeze](https://open.spotify.com/track/72wvF06kJUixnGvxDB6NGK) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW) | [Capri Breeze](https://open.spotify.com/album/6pOZTNgmdgUok6Hcl4qNQC) | 2:54 |
 | 100 | [Lamia](https://open.spotify.com/track/4P6y5weDdwdXOkqD1FDLyT) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Lamia](https://open.spotify.com/album/2aFt4GLLecHtEEp0iZDSXZ) | 3:04 |
 
-Snapshot ID: `AAAAAGNAYU4kKWPAirk48vGBE/FoBGYD`
+Snapshot ID: `AAAAADUpROm/IaM0X5WBQ7wLMib+fwOe`

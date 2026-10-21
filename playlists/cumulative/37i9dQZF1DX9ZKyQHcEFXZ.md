@@ -4,7 +4,7 @@
 
 > El título lo dice todo! Twerk out work out!
 
-589 songs - 1 day 8 hr 34 min
+590 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Foto En Panty](https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ya Casi Vienen](https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX) | 2:54 | 2022-12-07 | 2023-08-12 |
 | [FRESITA](https://open.spotify.com/track/6hA12wp8wT93WpLwNYUmOq) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:22 | 2024-07-26 | 2026-01-15 |
 | [Frikitona](https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Frikitona \- Single](https://open.spotify.com/album/4NGXJ1L18IjOD3H9tLV9Lk) | 3:03 | 2021-12-09 | 2023-04-01 |
-| [Fronteo](https://open.spotify.com/track/5SE62j47eAyxSOplRGS6st) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 3:23 | 2026-04-10 |  |
+| [Fronteo](https://open.spotify.com/track/5SE62j47eAyxSOplRGS6st) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 3:23 | 2026-04-10 | 2026-10-21 |
 | [G Low Kitty \- Remix](https://open.spotify.com/track/5J2pn2fzrIp7CT0IHLlgQ7) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [G Low Kitty \(Remix\)](https://open.spotify.com/album/5HdE72l91YCqPtlMx7YPHD) | 4:39 | 2024-05-31 | 2024-07-27 |
 | [Gangsta Zone](https://open.spotify.com/track/3h99fBGkTn3J2NsrYU8rcO) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Barrio Fino En Directo](https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy) | 3:32 | 2021-12-09 | 2022-07-29 |
 | [GANGSTER \(PQFNEDG\)](https://open.spotify.com/track/3Yw6KJjm8ycybvl6UdW9dq) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [GANGSTER \(PQFNEDG\)](https://open.spotify.com/album/1q4RVq8faHbRP2v1OnoRxl) | 3:35 | 2023-10-24 | 2024-01-18 |
@@ -247,6 +247,7 @@
 | [Kilerito](https://open.spotify.com/track/3kGMgEDHQoWykByLL6Jut3) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Kilerito](https://open.spotify.com/album/7aqQhBZNAFuzSclpQ5wRFm) | 3:45 | 2024-05-01 | 2026-01-15 |
 | [KLOuFRENS](https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:19 | 2026-01-09 |  |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-03-31 |  |
+| [La Botella](https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R) | 2:57 | 2026-04-10 |  |
 | [LA CHAMBA](https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA CHAMBA](https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK) | 2:53 | 2024-01-03 | 2024-01-14 |
 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 | 2024-05-01 |  |
 | [La Despedida](https://open.spotify.com/track/33a2zTGZocgU9XVDDILHM3) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Mundial \(Deluxe Version\)](https://open.spotify.com/album/45se0M80yOL4t9j3REDyEK) | 3:22 | 2022-07-26 | 2024-04-08 |

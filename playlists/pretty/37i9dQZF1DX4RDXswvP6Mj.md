@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 
 > Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: DAILY:DIRECTION\) 지금 가장 핫한 댄스곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,209,592 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,209,385 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 | 49 | [LIVE FAST DIE SLOW](https://open.spotify.com/track/0QLTEaLCsqQrgf54EtPMkt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [QUINTESSENCE](https://open.spotify.com/album/3zn3zxWG2OgEfplBepaisb) | 3:00 |
 | 50 | [4SHO 4SHO](https://open.spotify.com/track/3GK3htTIyOEq8gz3sPj6L0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [4SHOBOIZ Vol\. 2: 4SHOVILLE](https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl) | 4:01 |
 
-Snapshot ID: `AAAAAOcHxHt6xMjOBi+2DCjQPwo/g1bF`
+Snapshot ID: `AAAAAO6dAYVGdcBJqPCxA4IXCzfsp8S0`

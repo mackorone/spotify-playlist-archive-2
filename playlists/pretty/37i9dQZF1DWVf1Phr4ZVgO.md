@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,210,978 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,211,077 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 79 | [Mad About The Boy](https://open.spotify.com/track/4eByri8JfhjBK25aCnwSNF) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Love Songs](https://open.spotify.com/album/5pnDpwi8OtuUOvLkQyVCZM) | 2:50 |
 | 80 | [Misty](https://open.spotify.com/track/1PkpbUvZkQHOvASe8pN5vi) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [4 Beautiful Jazz Divas \(40 Tracks Remastered\)](https://open.spotify.com/album/1T81ZLCjdaOmgPvEuWjBOR) | 3:02 |
 
-Snapshot ID: `AAAAADApnmqa+/ynQOg2GKQ7Nr8OEBuL`
+Snapshot ID: `AAAAAITzI8ikLPIHi9IzR8+ihwDQjUml`

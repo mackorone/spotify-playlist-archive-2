@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 567702,
+  "num_followers": 567738,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0crboF/RRBZdct/Ol/+kkMfeTQ",
+  "snapshot_id": "AAAAAJEBGLFMsdQ7+ZIcNenjDagdPP5r",
   "tracks": [
     {
       "added_at": "2026-06-11 06:56:41",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Multi",
-        "url": "https://open.spotify.com/album/1aXp1HaEuIckogbF9f0Jgi"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        }
-      ],
-      "duration_ms": 177243,
-      "name": "Multi",
-      "url": "https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Pure Love EP",
         "url": "https://open.spotify.com/album/3eU6rjEeOPRx3iWbQnNz4e"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 393495,
       "name": "Life",
       "url": "https://open.spotify.com/track/6zZ4hmUAyXOWPqohb44EZu"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Multi",
+        "url": "https://open.spotify.com/album/1aXp1HaEuIckogbF9f0Jgi"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        }
+      ],
+      "duration_ms": 177243,
+      "name": "Multi",
+      "url": "https://open.spotify.com/track/69VMojKtg3NtfmFmFc64IH"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
+        "name": "Traum EP",
+        "url": "https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud"
+      },
+      "artists": [
+        {
+          "name": "Herr Lang",
+          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Deep in My Mind - Original Mix",
+      "url": "https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
         "name": "June (Mees Salom\u00e9 Remix)",
         "url": "https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 448770,
       "name": "June - Mees Salom\u00e9 Remix",
       "url": "https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
-        "name": "Traum EP",
-        "url": "https://open.spotify.com/album/7hp5Lg5GepesCmShm0nXud"
-      },
-      "artists": [
-        {
-          "name": "Herr Lang",
-          "url": "https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Deep in My Mind - Original Mix",
-      "url": "https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Wadi Dana",
-        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
-      },
-      "artists": [
-        {
-          "name": "Corren Cavini",
-          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Wadi Dana",
-      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "If I Had Wings",
         "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 420495,
       "name": "If I Had Wings",
       "url": "https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Wadi Dana",
+        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
+      },
+      "artists": [
+        {
+          "name": "Corren Cavini",
+          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Wadi Dana",
+      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Sora",
-        "url": "https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0"
-      },
-      "artists": [
-        {
-          "name": "Milkwish",
-          "url": "https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv"
-        },
-        {
-          "name": "9hearts",
-          "url": "https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt"
-        }
-      ],
-      "duration_ms": 212849,
-      "name": "Sora",
-      "url": "https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Piano & Electronic Ensemble Op. 1",
         "url": "https://open.spotify.com/album/1vxB3a1pJCMPowm4bWnSX7"
       },
@@ -743,6 +723,26 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
+        "name": "Sora",
+        "url": "https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0"
+      },
+      "artists": [
+        {
+          "name": "Milkwish",
+          "url": "https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv"
+        },
+        {
+          "name": "9hearts",
+          "url": "https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt"
+        }
+      ],
+      "duration_ms": 212849,
+      "name": "Sora",
+      "url": "https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
         "name": "Postquam",
         "url": "https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "The Duty",
-        "url": "https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS"
-      },
-      "artists": [
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 194610,
-      "name": "The Duty",
-      "url": "https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Slave To The Algorithm",
         "url": "https://open.spotify.com/album/5VDG0cLHAsdNJiy24vpD3Q"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 401185,
       "name": "Slave To The Algorithm (Club Mix)",
       "url": "https://open.spotify.com/track/0Qn494RCUdX60FWxVsgvnl"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "The Duty",
+        "url": "https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 194610,
+      "name": "The Duty",
+      "url": "https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/0NsSwQGz2XD39C5pLEUinH"
+      },
+      "artists": [
+        {
+          "name": "Lauren Mia",
+          "url": "https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq"
+        }
+      ],
+      "duration_ms": 478560,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/42VWlnp5ndV2kapnMvXmV1"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
         "name": "Pulses",
         "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
       },
@@ -855,6 +871,22 @@
       "duration_ms": 364810,
       "name": "Pulses",
       "url": "https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
+      },
+      "artists": [
+        {
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+        }
+      ],
+      "duration_ms": 389092,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -875,38 +907,6 @@
       "duration_ms": 444816,
       "name": "Cliff - Einmusik Remix",
       "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
-        "name": "Ceremony",
-        "url": "https://open.spotify.com/album/0NsSwQGz2XD39C5pLEUinH"
-      },
-      "artists": [
-        {
-          "name": "Lauren Mia",
-          "url": "https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq"
-        }
-      ],
-      "duration_ms": 478560,
-      "name": "Ceremony",
-      "url": "https://open.spotify.com/track/42VWlnp5ndV2kapnMvXmV1"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
-      },
-      "artists": [
-        {
-          "name": "Green Lake Project",
-          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
-        }
-      ],
-      "duration_ms": 389092,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
+        "name": "10 Years URSL - Reframed Future",
+        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
+      },
+      "artists": [
+        {
+          "name": "Schlepp Geist",
+          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
+        }
+      ],
+      "duration_ms": 425437,
+      "name": "Reframed Future",
+      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
         "name": "Hailstorm (Ann Clue Remix)",
         "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
       },
@@ -995,22 +1011,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "10 Years URSL - Reframed Future",
-        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
-      },
-      "artists": [
-        {
-          "name": "Schlepp Geist",
-          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
-        }
-      ],
-      "duration_ms": 425437,
-      "name": "Reframed Future",
-      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/2Z4AECuC9nl6nA3V5XMWDm"
       },
@@ -1023,22 +1023,6 @@
       "duration_ms": 445881,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/2ROhi2EHKwlBcHWyylPJa4"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a"
-      },
-      "artists": [
-        {
-          "name": "Haddadi Von Engst",
-          "url": "https://open.spotify.com/artist/5Hg5DBnnqGjRx8ylws0xy5"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Revolt",
-        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a"
       },
       "artists": [
         {
-          "name": "Theydream",
-          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+          "name": "Haddadi Von Engst",
+          "url": "https://open.spotify.com/artist/5Hg5DBnnqGjRx8ylws0xy5"
         }
       ],
-      "duration_ms": 284187,
-      "name": "Revolt",
-      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
+      "duration_ms": 308000,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1095,6 +1079,22 @@
       "duration_ms": 192016,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Revolt",
+        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
+      },
+      "artists": [
+        {
+          "name": "Theydream",
+          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+        }
+      ],
+      "duration_ms": 284187,
+      "name": "Revolt",
+      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
     },
     {
       "added_at": "2026-06-11 06:56:41",

@@ -1,12 +1,12 @@
 {
   "description": "The sweetest bops. Cover: no na",
-  "num_followers": 77723,
+  "num_followers": 77752,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEIyV/N45ApYoQjnAQtnOySokolm",
+  "snapshot_id": "AAAAAIJY9EXgfT8f1zAVw52I3tc5+UBW",
   "tracks": [
     {
       "added_at": "2026-09-18 04:03:00",
@@ -32,12 +32,12 @@
       },
       "artists": [
         {
-          "name": "A2O",
-          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
-        },
-        {
           "name": "A2O LITE",
           "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
         }
       ],
       "duration_ms": 208000,

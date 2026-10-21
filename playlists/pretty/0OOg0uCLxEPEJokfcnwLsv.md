@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,397 likes - 52 songs - 3 hr 7 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,407 likes - 54 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,5 +60,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 50 | [The Way](https://open.spotify.com/track/6oP9yeVKCl1cCqS7ue6lkB) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Save a Prayer](https://open.spotify.com/album/4fhwVPU30qsmq0cmyNUZg0) | 3:20 |
 | 51 | [Eyes Closed](https://open.spotify.com/track/6X12EdM1tB2fPOjlwTIFul) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Eyes Closed](https://open.spotify.com/album/0jsMmLjYnphdPmOBgiAuvV) | 3:17 |
 | 52 | [En tus ojos](https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC) | [Leandro Rebolini](https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI) | [En tus ojos](https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL) | 4:11 |
+| 53 | [Should Have Seen It Coming](https://open.spotify.com/track/2HXO6wTQQgbIJ7VHTyjTty) | [Jonny Morgan & The Moral Support](https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD) | [Should Have Seen It Coming](https://open.spotify.com/album/6jQFnuBkPMBnQxIvivFECT) | 3:17 |
+| 54 | [November Shadows](https://open.spotify.com/track/04wmlqCv6iZRQz6uEY58GR) | [Bad Valentines](https://open.spotify.com/artist/3xVdUhudpYUp6NH3Pim0sd) | [November Shadows](https://open.spotify.com/album/4GlWT1vdrc3P8a1VkrbnZw) | 3:14 |
 
-Snapshot ID: `AAAHPsEsjzW49vzX80ni5tch0hMl4Hzz`
+Snapshot ID: `AAAHQGFhmIcdOdavBBelXu69ydh+S+Cz`

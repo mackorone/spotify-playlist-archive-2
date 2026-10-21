@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,565 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,609 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 14 | [Das Main Ki Pyar Wichon Khatyal](https://open.spotify.com/track/0je2FP3jnEOzma2eHaUPA7) | [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [Lak Hile Majajan Jandi Da](https://open.spotify.com/album/4lXQtIeUiDuEQ0H8rM0FDp) | 3:15 |
 | 15 | [Bhabi Deeva Jagaa](https://open.spotify.com/track/5IRWPGELNTM5v2Q1TtpvnG) | [Kulbir](https://open.spotify.com/artist/3HsgSigLkDYgaRTXPJN6wQ) | [Tenun Nachdi Vekh Ke](https://open.spotify.com/album/6eHLWh096syVyuxxCbdOnQ) | 4:59 |
 | 16 | [Ik Jogi aa Gya](https://open.spotify.com/track/2rk1APwyNw3H0BmfiONgyu) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf), [Parwaaz Gill](https://open.spotify.com/artist/5jmBUt1mJQmrCriEgOJSFM), [Karanvir Klair](https://open.spotify.com/artist/7eCmvzU59pXo2zmjAlcRFz) | [Ik Jogi aa Gya](https://open.spotify.com/album/4m5xMq1O6qZVU35zIcUDxi) | 4:46 |
-| 17 | [Ranjha Ranjha](https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG) | [Ranjha Ranjha](https://open.spotify.com/album/0jKYWDHtc5LYfy0sCEW2Oq) | 3:04 |
-| 18 | [Charkha The Vibe](https://open.spotify.com/track/09R2sRYoPdCcDNcCiyGQJI) | [Ustad Puran Chand Wadali](https://open.spotify.com/artist/4qNSZtDZHirQzZAziL9OZ9), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Charkha The Vibe](https://open.spotify.com/album/7IwTJvvcQF74BnkFLp0rDD) | 3:50 |
+| 17 | [Charkha The Vibe](https://open.spotify.com/track/09R2sRYoPdCcDNcCiyGQJI) | [Ustad Puran Chand Wadali](https://open.spotify.com/artist/4qNSZtDZHirQzZAziL9OZ9), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Charkha The Vibe](https://open.spotify.com/album/7IwTJvvcQF74BnkFLp0rDD) | 3:50 |
+| 18 | [Ranjha Ranjha](https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG) | [Ranjha Ranjha](https://open.spotify.com/album/0jKYWDHtc5LYfy0sCEW2Oq) | 3:04 |
 | 19 | [Mitti da Bawa](https://open.spotify.com/track/5qcQKbQF2Kj8AIaDYpNZWm) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [The Folk Era](https://open.spotify.com/album/3k8mT3JfJA7KEBlTHU1f4n) | 6:04 |
 | 20 | [Kissa Suche Da](https://open.spotify.com/track/7hVt3owcjzquzCquFsKaqK) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Nick Dhammu](https://open.spotify.com/artist/5E8B4QGklx5On8tFgo294e) | [The Folk Era](https://open.spotify.com/album/3k8mT3JfJA7KEBlTHU1f4n) | 2:48 |
 | 21 | [Laung Gawacha](https://open.spotify.com/track/255mewBkW1KCqgxoEHJGRW) | [Ragini Tandan](https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA) | [Laung Gawacha](https://open.spotify.com/album/7xva1zIhXOJWf5Zma8coD6) | 2:30 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 30 | [Suhe Ve Cheere Waliya](https://open.spotify.com/track/6ewedOp4bawjafS1lsIPam) | [NAVNEET KAUR](https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5) | [Suhe Ve Cheere Waliya](https://open.spotify.com/album/3P5YAxuCPE1WRZ8oXiM0Ln) | 3:13 |
 | 31 | [Challa Mera Jee Dhola](https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt) | [Annie Ahluwalia](https://open.spotify.com/artist/05K8h7cidaFrQ33vhu6IZ0) | [Challa Mera Jee Dhola](https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j) | 3:38 |
 | 32 | [Baajre Da Sitta](https://open.spotify.com/track/6iU9onGsKnw73AO53t9QL2) | [Supriya Soni](https://open.spotify.com/artist/3xhwrUOyG10YUOOnIaGH22), [Vanshika Joshi](https://open.spotify.com/artist/5rK16uUuwINIIbpIkQCDoE) | [Mitti \- Folk Vibes Of Punjab](https://open.spotify.com/album/18BOE2bd989ELKLbIcPSnj) | 1:57 |
-| 33 | [Laung Gawacha](https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2) | [Japleen Kaur](https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Laung Gawacha](https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa) | 3:00 |
-| 34 | [Kleriyaa Mora](https://open.spotify.com/track/3bFDMq8a1HOemL91NG9Ipg) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf) | [Kleriyaa Mora](https://open.spotify.com/album/0IgcdYiFdbRj0aeHLV5AcR) | 2:45 |
-| 35 | [Din Shagna](https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Din Shagna](https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm) | 3:49 |
+| 33 | [Kleriyaa Mora](https://open.spotify.com/track/3bFDMq8a1HOemL91NG9Ipg) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf) | [Kleriyaa Mora](https://open.spotify.com/album/0IgcdYiFdbRj0aeHLV5AcR) | 2:45 |
+| 34 | [Din Shagna](https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Din Shagna](https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm) | 3:49 |
+| 35 | [Laung Gawacha](https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2) | [Japleen Kaur](https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Laung Gawacha](https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa) | 3:00 |
 | 36 | [Ambarsare De Papad](https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax) | [Dolly Guleria](https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ) | [Nikka Jeha](https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO) | 5:14 |
 | 37 | [Mirza Saiba](https://open.spotify.com/track/6gveVm22PaA21mFIYZNaJb) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Modern Punjab](https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R) | 4:45 |
 | 38 | [Challa](https://open.spotify.com/track/6kXvZYkGp4dpYOuKfvIEF7) | [Yasir Hussain](https://open.spotify.com/artist/2DtPjAGsvP7LPIMtj0Co1k), [Prabh Grewal](https://open.spotify.com/artist/0gumUSJckNLBtBELSDsWwn) | [Challa](https://open.spotify.com/album/3sENj2hG8yOGtkLHe82MBA) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 49 | [Ve Gurdit Deya Lalaa](https://open.spotify.com/track/4Xs5ktOy57oQ1hPtLrzcVy) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Geet Shagna De](https://open.spotify.com/album/0PrTCTodwMPGbsGWGc6s7j) | 2:30 |
 | 50 | [Latthe Di Chadar](https://open.spotify.com/track/1kQjwRxe6VRj8qEyiSUHQU) | [Neil\-Niraj](https://open.spotify.com/artist/6hbAORztbTtFWYgkyECsug), [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7) | [Latthe Di Chadar](https://open.spotify.com/album/6voQm7UXpP8WF0Zx69Meju) | 2:20 |
 
-Snapshot ID: `AAAAAFD+RVv7hnZTt2mGMVUJeYUSJjFb`
+Snapshot ID: `AAAAAPMBuoBotdL5VS9GJIB5jgsM9zIh`

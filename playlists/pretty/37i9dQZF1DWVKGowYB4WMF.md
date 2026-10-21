@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 
 > Jelly, arcades and a man on the moon, this one's for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,550 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,562 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 | 79 | [Have You Seen Her](https://open.spotify.com/track/01cQPNCptd662nikuY42zw) | [The Chi\-Lites](https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued) | [The Ultimate Chi\-Lites](https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3) | 5:10 |
 | 80 | [Pearl's A Singer](https://open.spotify.com/track/6abvu3x6fUlOniPRF8WCII) | [Elkie Brooks](https://open.spotify.com/artist/4Xn6fPXDrarY8LxXWqlE2M) | [Two Days Away](https://open.spotify.com/album/0Kl3JrLb3PocSPu4jdGuRa) | 3:38 |
 
-Snapshot ID: `AAAAADXSEuPxfAotejHyOP//c4amNeZT`
+Snapshot ID: `AAAAAAvAxi9IN6gZSp0z9erZyVf1fb5Z`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,868 likes - 80 songs - 13 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,924 likes - 80 songs - 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 49 | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/track/70ULbNpGcjEJRjeqJZAiEm) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa) | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/album/3P98nKARTr1d2OA5QxEv97) | 14:59 |
 | 50 | [Holy Ghost](https://open.spotify.com/track/62iIcfToRxBNTZ1qstamVC) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 5:23 |
 | 51 | [Joy Chant](https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH) | [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Joy Chant](https://open.spotify.com/album/5vL8tCAa5HZmg5SsXQziPN) | 8:51 |
-| 52 | [Elohim Adonai \(Live\)](https://open.spotify.com/track/73k2BArdQNxNF899zbTMEX) | [Patience Adjei](https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373) | [Deep Wells](https://open.spotify.com/album/1xO9FgOlSAHPcIAQ9H8G4z) | 3:21 |
-| 53 | [Midnight Cry, Vol\. 2](https://open.spotify.com/track/4GReGQny43YTFYz6YXIJqd) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Midnight Cry, Vol\. 2](https://open.spotify.com/album/6ONKFW2nc1mznSaGdxoOJo) | 24:02 |
+| 52 | [Midnight Cry, Vol\. 2](https://open.spotify.com/track/4GReGQny43YTFYz6YXIJqd) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Midnight Cry, Vol\. 2](https://open.spotify.com/album/6ONKFW2nc1mznSaGdxoOJo) | 24:02 |
+| 53 | [Elohim Adonai \(Live\)](https://open.spotify.com/track/73k2BArdQNxNF899zbTMEX) | [Patience Adjei](https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373) | [Deep Wells](https://open.spotify.com/album/1xO9FgOlSAHPcIAQ9H8G4z) | 3:21 |
 | 54 | [Burning with the Holy Ghost](https://open.spotify.com/track/6etwAw9xwGZzr9Te2Mp9Dw) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 5:29 |
 | 55 | [Fire](https://open.spotify.com/track/6HGO5S83wWMNxszS28zx8x) | [Siisi Baidoo](https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ), [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB), [Sandra Boakye Duah](https://open.spotify.com/artist/1z6oSSdmYsJgwFjI7Br1A0) | [Revelation Album](https://open.spotify.com/album/3UfVHu4IjvLbkyVljDTNy4) | 9:55 |
 | 56 | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/track/0gOyPsGz6A7l9zH32sLZ6Y) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/album/1Q4iipFbVctBPodLdXKR2a) | 6:44 |
-| 57 | [Ruach Hakodesh](https://open.spotify.com/track/62QpDTmSK8QctvbxEdBPrG) | [Patience Adjei](https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373) | [Ruach Hakodesh](https://open.spotify.com/album/60kUZ9PqK6MlCKpN4tL44d) | 11:31 |
-| 58 | [Bowels of the Spirit \(Prayer Chant\)](https://open.spotify.com/track/09NtOUOldnVP8Me3DSaus5) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 46:05 |
+| 57 | [Bowels of the Spirit \(Prayer Chant\)](https://open.spotify.com/track/09NtOUOldnVP8Me3DSaus5) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 46:05 |
+| 58 | [Ruach Hakodesh](https://open.spotify.com/track/62QpDTmSK8QctvbxEdBPrG) | [Patience Adjei](https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373) | [Ruach Hakodesh](https://open.spotify.com/album/60kUZ9PqK6MlCKpN4tL44d) | 11:31 |
 | 59 | [Song of Answers \(Spirits Must Obey\)](https://open.spotify.com/track/47TMxkW5qIPFTEKqbFWh0i) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Song of Answers \(Spirits Must Obey\)](https://open.spotify.com/album/6iLpI8vsGEnpCyEzTYRAuV) | 11:08 |
 | 60 | [Kadosh \(Live\)](https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Kadosh](https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2) | 5:37 |
 | 61 | [At All Cost](https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 8:56 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 67 | [FIRE](https://open.spotify.com/track/3XPHWXa3fHoQCQroxEyBIZ) | [Sandra Boakye\-Duah](https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI) | [FIRE](https://open.spotify.com/album/29O9vFnuqUQEw5X27RuUp4) | 9:13 |
 | 68 | [Song of Angels](https://open.spotify.com/track/3JMh7EqWmxzguJaSCqQuwc) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 12:11 |
 | 69 | [Aye Ole](https://open.spotify.com/track/6XJ4mWDH46We0Mgr1cuHK1) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Aye Ole](https://open.spotify.com/album/2U0IrWZICHozN3wdBzaPqy) | 23:00 |
-| 70 | [Prayer Chants](https://open.spotify.com/track/2BOekYaGyejzLMcUvmCamp) | [Rejoice Obasa](https://open.spotify.com/artist/1Ec5jxDetxeq20lsNsYbag), [Oluwajenyo](https://open.spotify.com/artist/5VMLcHJIvePoeIJlsCdPtC) | [Prayer Chants](https://open.spotify.com/album/3NLddvrViSywkOl6QxIxqY) | 3:13 |
-| 71 | [Hallelujah Chant \(Ruach Hakodesh\)](https://open.spotify.com/track/39sTVazPHh5IB8SdWNgLha) | [Noble G](https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Hallelujah Chant](https://open.spotify.com/album/6wWdwa33ovvntJ35BADYRv) | 4:55 |
+| 70 | [Hallelujah Chant \(Ruach Hakodesh\)](https://open.spotify.com/track/39sTVazPHh5IB8SdWNgLha) | [Noble G](https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Hallelujah Chant](https://open.spotify.com/album/6wWdwa33ovvntJ35BADYRv) | 4:55 |
+| 71 | [Prayer Chants](https://open.spotify.com/track/2BOekYaGyejzLMcUvmCamp) | [Rejoice Obasa](https://open.spotify.com/artist/1Ec5jxDetxeq20lsNsYbag), [Oluwajenyo](https://open.spotify.com/artist/5VMLcHJIvePoeIJlsCdPtC) | [Prayer Chants](https://open.spotify.com/album/3NLddvrViSywkOl6QxIxqY) | 3:13 |
 | 72 | [Kabiyesi](https://open.spotify.com/track/2qQz5I3VxBWjXDHNqMg6UB) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:18 |
 | 73 | [Song of Angels \(Live\)](https://open.spotify.com/track/0RqyWkOhcoFzO9qFw7JIx9) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Song of Angels \(Live\)](https://open.spotify.com/album/3ldSID9hjAlvxkXE0KnPd8) | 12:17 |
 | 74 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 79 | [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 |
 | 80 | [Midnight Cry, Vol\. 5 \(Time\-Out Of Fellowship\)](https://open.spotify.com/track/7ikJDPDH1IDfxC3uroUw6k) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Midnight Cry, Vol\. 5 \(Time\-Out Of Fellowship\)](https://open.spotify.com/album/13PR6EewIISf4zGx9nuf48) | 47:10 |
 
-Snapshot ID: `AAAAAAjFyYrpD5RaMwsrIDokxOOqjb5p`
+Snapshot ID: `AAAAAI0ecW8sr2N7EgpnfHqImKaIN4Hg`

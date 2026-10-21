@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 
 > This is BLØF\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,091 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,094 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 3 | [Dansen Aan Zee](https://open.spotify.com/track/6hC1xBNYMVK4acdnEXaZVD) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Watermakers](https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW) | 4:34 |
 | 4 | [Omarm](https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm](https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv) | 4:12 |
 | 5 | [Harder Dan Ik Hebben Kan](https://open.spotify.com/track/1buASziRLNHXcTVYFWZ8EK) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Boven](https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6) | 4:13 |
-| 6 | [Holiday In Spain](https://open.spotify.com/track/5OaQpcK7S28EitZlVQbWBQ) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/5JhhV6NYORFNFjJ7Xy270v) | 3:52 |
-| 7 | [Glas](https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Glas](https://open.spotify.com/album/0kO81VfsNlgcdp206XgXQx) | 3:35 |
+| 6 | [Glas](https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Glas](https://open.spotify.com/album/0kO81VfsNlgcdp206XgXQx) | 3:35 |
+| 7 | [Holiday In Spain](https://open.spotify.com/track/5OaQpcK7S28EitZlVQbWBQ) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/5JhhV6NYORFNFjJ7Xy270v) | 3:52 |
 | 8 | [Aan De Kust](https://open.spotify.com/track/7yVyTfEMnR4p1LcAbo2uiF) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Naakt Onder De Hemel](https://open.spotify.com/album/01QYbTcPYUIw0kNkFRcWiq) | 3:43 |
 | 9 | [Zo Stil](https://open.spotify.com/track/6W74Ymk7rKgYBWfoG4tuKk) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Zo Stil](https://open.spotify.com/album/18DX3wMUWFEVCVx0xDOgss) | 4:00 |
 | 10 | [Zoutelande \(feat\. Geike\)](https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 3:43 |

@@ -236883,25 +236883,7 @@
     },
     {
       "album": {
-        "name": "Lilith",
-        "url": "https://open.spotify.com/album/4VYy0YvAwmTQWy8zFG0CXK"
-      },
-      "artists": [
-        {
-          "name": "Ray Laur\u00e9l",
-          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
-        }
-      ],
-      "date_added": "2026-08-20",
-      "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
-      "duration_ms": 136650,
-      "name": "Lilith",
-      "url": "https://open.spotify.com/track/0aNm0ArRJjuEb57hE6CGC6"
-    },
-    {
-      "album": {
-        "name": "Lillies",
+        "name": "Lilies",
         "url": "https://open.spotify.com/album/0pxugD9PQrcccc8azjzKLX"
       },
       "artists": [
@@ -236918,8 +236900,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 249666,
-      "name": "Lillies",
+      "name": "Lilies",
       "url": "https://open.spotify.com/track/4M0awukHJ1DanhC6CrsHS1"
+    },
+    {
+      "album": {
+        "name": "Lilith",
+        "url": "https://open.spotify.com/album/4VYy0YvAwmTQWy8zFG0CXK"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "date_added": "2026-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2026-08-28",
+      "duration_ms": 136650,
+      "name": "Lilith",
+      "url": "https://open.spotify.com/track/0aNm0ArRJjuEb57hE6CGC6"
     },
     {
       "album": {

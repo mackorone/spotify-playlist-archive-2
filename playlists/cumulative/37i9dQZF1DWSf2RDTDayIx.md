@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-557 songs - 1 day 5 hr 26 min
+558 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Lucky \- LO'99 Remix](https://open.spotify.com/track/5FXfJCXtouzWBLiIcIBYHk) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Vlossom](https://open.spotify.com/artist/6fchbydDZlEemGC9wiovuj), [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy) | [Lucky \(LO'99 / PS1 Remixes\)](https://open.spotify.com/album/2FER9MAhpP9jSvNBamwH76) | 4:32 | 2021-12-03 | 2022-01-08 |
 | [luv\(drunk\)](https://open.spotify.com/track/7oJPmo2YL566okOf1RQcCp) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [luv\(drunk\)](https://open.spotify.com/album/030UIq3jgBkPRBKoyb6Qez) | 3:01 | 2021-12-03 | 2022-01-08 |
 | [Magic With You](https://open.spotify.com/track/4e90IV3zpZn17FdG5nzdbv) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [Alex Germys](https://open.spotify.com/artist/0cI6OkaZLXsri5KKsbEUnD), [Alex Lucas](https://open.spotify.com/artist/5gBMpIeE2zqYUoBOYD9lKB) | [Magic With You](https://open.spotify.com/album/0Icms8qDgPxre5SIr3GUDW) | 2:36 | 2025-04-04 |  |
+| [Make Love](https://open.spotify.com/track/31w6shAy30XOW089TFbb96) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Make Love](https://open.spotify.com/album/4qieawPRE14bqgLv8mwtk0) | 2:41 | 2026-10-16 |  |
 | [Make Me Believe](https://open.spotify.com/track/57j1baIxDU1WmSHajjLb3R) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:12 | 2022-08-08 | 2022-10-29 |
 | [Make Me Feel Good](https://open.spotify.com/track/4CUX44NA1CPEzd0ibMLQsL) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Make Me Feel Good](https://open.spotify.com/album/2YNIYdATkvFpTKZexocmEi) | 3:17 | 2022-01-07 | 2024-09-21 |
 | [Malibu](https://open.spotify.com/track/5XPo15e5ICs6NvSMn44pTF) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Malibu](https://open.spotify.com/album/4l4ahZ5gAr9b0uowo6am33) | 2:28 | 2021-12-03 | 2023-05-13 |
@@ -451,7 +452,7 @@
 | [Sun Showers](https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:34 | 2023-07-14 | 2023-08-19 |
 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 | 2022-07-29 | 2026-02-21 |
 | [Sunday Best](https://open.spotify.com/track/0oUnCHrsjhjclb9owm741n) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Sunday Best](https://open.spotify.com/album/41i9jjaqgHvTJJjJRUiRTe) | 2:51 | 2025-02-14 |  |
-| [Sunshine](https://open.spotify.com/track/0hPjwZ80xT39CKpcAOu6zT) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Sunshine](https://open.spotify.com/album/3TBa1RclhvrlSIYDNmmt3r) | 3:10 | 2026-05-15 |  |
+| [Sunshine](https://open.spotify.com/track/0hPjwZ80xT39CKpcAOu6zT) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Sunshine](https://open.spotify.com/album/3TBa1RclhvrlSIYDNmmt3r) | 3:10 | 2026-05-15 | 2026-10-21 |
 | [Sunshine](https://open.spotify.com/track/3lx9HS7No2pTJxPZRgdPdX) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Sunshine](https://open.spotify.com/album/4iVzhfADLoMgbTb4EIMPVF) | 2:57 | 2025-05-30 |  |
 | [Sunshine](https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Sunshine](https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi) | 3:15 | 2024-08-28 |  |
 | [Sweet Nothings](https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [feel](https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL) | 3:40 | 2026-03-27 | 2026-10-18 |

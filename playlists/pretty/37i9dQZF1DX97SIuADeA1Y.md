@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > slap house on repeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,527 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,518 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 36 | [Poison](https://open.spotify.com/track/3Q9ZRIOH1TNKPEZdUDPidU) | [Hr\. Troels](https://open.spotify.com/artist/6PUFh0Oa8MkLlpkfovzKnC), [Morty Simmons](https://open.spotify.com/artist/0APd9ivr5smwCsrDArOSst), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Poison](https://open.spotify.com/album/2UjsNkN1BYwWODkdrrFrMI) | 3:22 |
 | 37 | [Chasing Cars](https://open.spotify.com/track/6oit3wfPSYmFPZQnyh5DGX) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Chasing Cars](https://open.spotify.com/album/1XL7IALXlyqPQxV9nfWyPU) | 2:51 |
 | 38 | [Eyes](https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Eyes](https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw) | 2:47 |
-| 39 | [abcdefu](https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr) | [FÄT TONY](https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK), [MEDUN](https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [abcdefu](https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M) | 2:52 |
-| 40 | [Bang Bang](https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Bang Bang](https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U) | 2:42 |
+| 39 | [Bang Bang](https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Bang Bang](https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U) | 2:42 |
+| 40 | [abcdefu](https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr) | [FÄT TONY](https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK), [MEDUN](https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [abcdefu](https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M) | 2:52 |
 | 41 | [BBA \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:55 |
 | 42 | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [SESA](https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Alone Again \(feat\. PollyAnna\)](https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO) | 2:37 |
 | 43 | [I'm Okay](https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [I'm Okay](https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En) | 2:31 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 55 | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd) | 2:25 |
 | 56 | [We Ride \(feat\. Teddy Bee\)](https://open.spotify.com/track/5Owz0Wkb3XgaADAm6dEr2O) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [We Ride \(feat\. Teddy Bee\)](https://open.spotify.com/album/3yKdq0HWKiF25WjWAqTUAK) | 2:28 |
 | 57 | [Fantasy Girl](https://open.spotify.com/track/0x0UAeFDjDrFr9mahXB7ti) | [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a), [Sarah Lahn](https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa) | [Fantasy Girl](https://open.spotify.com/album/3H1EjhaEw3ZPi2oXpP9mcC) | 3:15 |
-| 58 | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg) | 2:51 |
-| 59 | [Skippin](https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Skippin](https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB) | 2:37 |
+| 58 | [Skippin](https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Skippin](https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB) | 2:37 |
+| 59 | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg) | 2:51 |
 | 60 | [MAMA](https://open.spotify.com/track/6ipBg7UZGv2mCbUWdmnGtA) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [MAMA](https://open.spotify.com/album/4IpbHR99K8mA2BxKMDiZaI) | 2:30 |
 
-Snapshot ID: `AAAAAGCorTheoR6459t4Ba70c09COxb8`
+Snapshot ID: `AAAAAGMlzUM2numBuBQUzRwuCNa5RRdy`

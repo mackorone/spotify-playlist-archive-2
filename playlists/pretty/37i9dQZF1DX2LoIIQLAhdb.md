@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : RnBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,411 likes - 39 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,421 likes - 39 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 38 | [À Fleur De Peau](https://open.spotify.com/track/36nwb4DeKA4Y8IxXJYatTG) | [Naja Loan](https://open.spotify.com/artist/2e2q47WPgdJLjlWLRzsOD4) | [À Fleur De Peau](https://open.spotify.com/album/3mq0eIasK5shcMGGl1NGsH) | 2:25 |
 | 39 | [Médicament](https://open.spotify.com/track/7uQMKxhIedwtHt0TTHJdTn) | [Obcess](https://open.spotify.com/artist/4Q04Ql9zpWNwJaE0Yto1rr) | [Médicament](https://open.spotify.com/album/519L5BMHcjvq9MnEcp6JEp) | 1:57 |
 
-Snapshot ID: `AAAAABxeuRUZldr2w9WLS7tnflNK6kAB`
+Snapshot ID: `AAAAABr4Oz16SyFvgv2SnH2cyOxd3fjL`

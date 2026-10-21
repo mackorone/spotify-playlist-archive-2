@@ -1,12 +1,12 @@
 {
   "description": "Certified hits. Cover: Ceebo",
-  "num_followers": 296442,
+  "num_followers": 296426,
   "original_name": "Certi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPhe5BQ0o80mjE7nYP1Msh+rjbT8",
+  "snapshot_id": "AAAAAEuWl8OsanaOxLNqtLwuRH9QU1ik",
   "tracks": [
     {
       "added_at": "2025-11-14 00:00:23",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-11-14 00:00:23",
       "album": {
+        "name": "R e a l W o m a n",
+        "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "R e a l W o m a n",
+      "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
+    },
+    {
+      "added_at": "2025-11-14 00:00:23",
+      "album": {
         "name": "PINACOLADA",
         "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 177847,
       "name": "PINACOLADA",
       "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
-    },
-    {
-      "added_at": "2025-11-14 00:00:23",
-      "album": {
-        "name": "R e a l W o m a n",
-        "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "R e a l W o m a n",
-      "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
     },
     {
       "added_at": "2025-11-14 00:00:23",

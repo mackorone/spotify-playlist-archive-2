@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,937 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,956 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [March Madness](https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 4:03 |
 | 50 | [Tunnel Vision \(Outro\)](https://open.spotify.com/track/2SxR5RitJdsG6wINvJLBSD) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:12 |
 
-Snapshot ID: `AAAAACPZ2e2QjZpQtrCdnU/JuIh/E7vi`
+Snapshot ID: `AAAAAISH83UbC6kQyTe8EeESNvi62SHR`

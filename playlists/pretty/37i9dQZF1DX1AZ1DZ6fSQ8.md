@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AZ1DZ6fSQ8.md) - [plain]
 
 > Delightful scares for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 122 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAIWiAQGyxlcC0ccekLNDrSdmm+rf`
+Snapshot ID: `AAAAAFQkLYD7cE/Sekns6Kokp2pXf0/L`

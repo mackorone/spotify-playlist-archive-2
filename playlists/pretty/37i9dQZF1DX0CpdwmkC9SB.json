@@ -1,12 +1,12 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 244239,
+  "num_followers": 244238,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEBtgruHt/qPzyypaPXaB6juCvPn",
+  "snapshot_id": "AAAAAPbTQR9oZxoqubxF9HD4U/I427Gd",
   "tracks": [
     {
       "added_at": "2025-06-27 23:00:28",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "I Should Coco (20th Anniversary Collector's Edition)",
-        "url": "https://open.spotify.com/album/1MXoLMlKeGGVKdwARUuWRa"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Alright - 2015 Remaster",
-      "url": "https://open.spotify.com/track/05ajrG3EAcIe3j7NuqRV9B"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Tieduprightnow",
         "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "I Should Coco (20th Anniversary Collector's Edition)",
+        "url": "https://open.spotify.com/album/1MXoLMlKeGGVKdwARUuWRa"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Alright - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05ajrG3EAcIe3j7NuqRV9B"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Cacophony",
+        "url": "https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/0e00DiF2T9znEdmWakYSC3"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Portraits",
         "url": "https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 218357,
       "name": "Midas",
       "url": "https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Cacophony",
-        "url": "https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/0e00DiF2T9znEdmWakYSC3"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "EV3",
-        "url": "https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 291880,
-      "name": "Don't Let Go (Love)",
-      "url": "https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 147656,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "EV3",
+        "url": "https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN"
+      },
+      "artists": [
+        {
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+        }
+      ],
+      "duration_ms": 291880,
+      "name": "Don't Let Go (Love)",
+      "url": "https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Midas",
-        "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 138640,
-      "name": "Midas",
-      "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "It Won't Always Be Like This",
         "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 272666,
       "name": "My Honest Face",
       "url": "https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 138640,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        }
-      ],
-      "duration_ms": 302740,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "King Of The Mischievous South Vol. 2",
         "url": "https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 165280,
       "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
       "url": "https://open.spotify.com/track/2TmS5wJTfWrpFgakSSTdCi"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 302740,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1271,6 +1271,22 @@
       "duration_ms": 222555,
       "name": "But Not Kiss",
       "url": "https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Angel Of My Dreams",
+        "url": "https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 197639,
+      "name": "Angel Of My Dreams",
+      "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Angel Of My Dreams",
-        "url": "https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 197639,
-      "name": "Angel Of My Dreams",
-      "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "The Libertines",
         "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "When We On",
-        "url": "https://open.spotify.com/album/6w1dknRMvZOH8IS0oYNA2p"
-      },
-      "artists": [
-        {
-          "name": "Crazy P",
-          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
-        }
-      ],
-      "duration_ms": 326809,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/4lKuJy6ozGLRMMIXTGesg4"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Our Love",
         "url": "https://open.spotify.com/album/5ysMC5s4nOCDtPBYrTa5pl"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 236400,
       "name": "Can't Do Without You",
       "url": "https://open.spotify.com/track/35p0Z5yZDogaXoWXhMVEv4"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "When We On",
+        "url": "https://open.spotify.com/album/6w1dknRMvZOH8IS0oYNA2p"
+      },
+      "artists": [
+        {
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+        }
+      ],
+      "duration_ms": 326809,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/4lKuJy6ozGLRMMIXTGesg4"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Cult Classics",
-        "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 237979,
-      "name": "JOY (Up The Street)",
-      "url": "https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/5ulxwV032s3dUxd1sXLxm0"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 385986,
       "name": "Don't Call It Love - 12\" Version",
       "url": "https://open.spotify.com/track/2ikT7zgIJYBcpchNseRmka"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Cult Classics",
+        "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 237979,
+      "name": "JOY (Up The Street)",
+      "url": "https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
+        "url": "https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 167866,
+      "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
+      "url": "https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "shut the fuck up talking to me",
         "url": "https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 229933,
       "name": "Take A Sexy Picture Of Me",
       "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
-        "url": "https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 167866,
-      "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
-      "url": "https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/3CmvEkZvuwobL2plDscowF"
-      },
-      "artists": [
-        {
-          "name": "Hothouse Flowers",
-          "url": "https://open.spotify.com/artist/2szQRWh2F0RUs9bkbepwok"
-        }
-      ],
-      "duration_ms": 229480,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/33LfsAZ4kCfD90A3Zwp4sk"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "I'm Your Mama",
         "url": "https://open.spotify.com/album/0NJV0HLBF9A373sMVcf6g0"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 81877,
       "name": "I'm Your Mama",
       "url": "https://open.spotify.com/track/002LS9B1Iu3czYhi0TLDm1"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/3CmvEkZvuwobL2plDscowF"
+      },
+      "artists": [
+        {
+          "name": "Hothouse Flowers",
+          "url": "https://open.spotify.com/artist/2szQRWh2F0RUs9bkbepwok"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/33LfsAZ4kCfD90A3Zwp4sk"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2399,6 +2399,38 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "DREAMER",
+        "url": "https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "This World Couldn\u2019t See Us",
+      "url": "https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Sisters (Remastered Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4vgJiGEUObYa88HwDxxbct"
+      },
+      "artists": [
+        {
+          "name": "The Bluebells",
+          "url": "https://open.spotify.com/artist/59FA7hfd0gJCIVBN0GygHg"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Young At Heart",
+      "url": "https://open.spotify.com/track/6uAKudZaTJrR0hlFMreipp"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/4GSO0sVELc1GIiJQjzqt8E"
       },
@@ -2423,38 +2455,6 @@
       "duration_ms": 390661,
       "name": "BAKWA LAH",
       "url": "https://open.spotify.com/track/5fSBPtedqX65IaJlyGHbK0"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Sisters (Remastered Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4vgJiGEUObYa88HwDxxbct"
-      },
-      "artists": [
-        {
-          "name": "The Bluebells",
-          "url": "https://open.spotify.com/artist/59FA7hfd0gJCIVBN0GygHg"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Young At Heart",
-      "url": "https://open.spotify.com/track/6uAKudZaTJrR0hlFMreipp"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "DREAMER",
-        "url": "https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "This World Couldn\u2019t See Us",
-      "url": "https://open.spotify.com/track/6NPo6ZHIVtsT5DWXZPGpRG"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Cartoon Darkness",
-        "url": "https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 128658,
-      "name": "Jerkin'",
-      "url": "https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "You'll Understand",
         "url": "https://open.spotify.com/album/6c94J2yum9wHxmbSB27YXE"
       },
@@ -2639,18 +2623,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX"
+        "name": "Cartoon Darkness",
+        "url": "https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k"
       },
       "artists": [
         {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
         }
       ],
-      "duration_ms": 183002,
-      "name": "Happy Idiot",
-      "url": "https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e"
+      "duration_ms": 128658,
+      "name": "Jerkin'",
+      "url": "https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2691,6 +2675,22 @@
       "duration_ms": 321440,
       "name": "Mr Majestic",
       "url": "https://open.spotify.com/track/0wrg4FXpFKz1y1tYsZPJOw"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 183002,
+      "name": "Happy Idiot",
+      "url": "https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2911,6 +2911,30 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Forever 2 (Crush Mix) [Malugi Remix]",
+        "url": "https://open.spotify.com/album/4GVMrNM51OLbs6tR5gnCUU"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        },
+        {
+          "name": "MALUGI",
+          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+        }
+      ],
+      "duration_ms": 177580,
+      "name": "Forever 2 (Crush Mix) - Malugi Remix",
+      "url": "https://open.spotify.com/track/1lWiQ34sGK1i862zAFiRNW"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Walking Like We Do",
         "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
       },
@@ -2939,30 +2963,6 @@
       "duration_ms": 201533,
       "name": "Broken Man",
       "url": "https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Forever 2 (Crush Mix) [Malugi Remix]",
-        "url": "https://open.spotify.com/album/4GVMrNM51OLbs6tR5gnCUU"
-      },
-      "artists": [
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        },
-        {
-          "name": "DJ BORING",
-          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
-        },
-        {
-          "name": "MALUGI",
-          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
-        }
-      ],
-      "duration_ms": 177580,
-      "name": "Forever 2 (Crush Mix) - Malugi Remix",
-      "url": "https://open.spotify.com/track/1lWiQ34sGK1i862zAFiRNW"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3211,18 +3211,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Dusting For Smoke",
-        "url": "https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H"
+        "name": "Marlboro Sounds",
+        "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
       },
       "artists": [
         {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
         }
       ],
-      "duration_ms": 233499,
-      "name": "Lone Swordsman",
-      "url": "https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM"
+      "duration_ms": 363620,
+      "name": "Marlboro Sounds",
+      "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3243,18 +3243,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Marlboro Sounds",
-        "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
+        "name": "Dusting For Smoke",
+        "url": "https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H"
       },
       "artists": [
         {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
         }
       ],
-      "duration_ms": 363620,
-      "name": "Marlboro Sounds",
-      "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
+      "duration_ms": 233499,
+      "name": "Lone Swordsman",
+      "url": "https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM"
     },
     {
       "added_at": "2025-06-27 23:00:28",

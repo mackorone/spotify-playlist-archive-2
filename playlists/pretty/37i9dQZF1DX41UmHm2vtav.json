@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 509037,
+  "num_followers": 509055,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOgXxVWrpffo1R3HU8nNvsF3uFFS",
+  "snapshot_id": "AAAAALxF7BzY/65Pl04jz+aqkxuVh01D",
   "tracks": [
     {
       "added_at": "2026-09-25 15:56:07",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/1H1Z2ip86YI8QPKflYv6Zn"
+      },
+      "artists": [
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        }
+      ],
+      "duration_ms": 173842,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/51cMCclxa0Yr6LpaJsfW5z"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 160645,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/1H1Z2ip86YI8QPKflYv6Zn"
-      },
-      "artists": [
-        {
-          "name": "Mojjo",
-          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
-        }
-      ],
-      "duration_ms": 173842,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/51cMCclxa0Yr6LpaJsfW5z"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -483,6 +483,26 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
+        "name": "The Fade Out Line",
+        "url": "https://open.spotify.com/album/6dTh4fu7cOIDlr5WDlIX25"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "ETTA",
+          "url": "https://open.spotify.com/artist/7CUhs4JfIPg1zFs3BTvKTn"
+        }
+      ],
+      "duration_ms": 160615,
+      "name": "The Fade Out Line",
+      "url": "https://open.spotify.com/track/4gBg3Pun3ti9ANNePBX7XB"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
         "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
         "url": "https://open.spotify.com/album/0n06oWsR6j9iFYWPpqqibF"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 191612,
       "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
       "url": "https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
-        "name": "The Fade Out Line",
-        "url": "https://open.spotify.com/album/6dTh4fu7cOIDlr5WDlIX25"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "ETTA",
-          "url": "https://open.spotify.com/artist/7CUhs4JfIPg1zFs3BTvKTn"
-        }
-      ],
-      "duration_ms": 160615,
-      "name": "The Fade Out Line",
-      "url": "https://open.spotify.com/track/4gBg3Pun3ti9ANNePBX7XB"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        },
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
         "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
         "url": "https://open.spotify.com/album/1KMNZU2XgBIFejM1j0DHwR"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 158095,
       "name": "Amor Pra Recome\u00e7ar",
       "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
+        "name": "Infinito Particular (Bhaskar Remix)",
+        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 160019,
+      "name": "Infinito Particular - Bhaskar Remix",
+      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -927,6 +927,50 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
+        "name": "E Depois (Que Sorte A Minha)",
+        "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        }
+      ],
+      "duration_ms": 220125,
+      "name": "E Depois (Que Sorte A Minha)",
+      "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
         "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
         "url": "https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD"
       },
@@ -955,50 +999,6 @@
       "duration_ms": 186680,
       "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
       "url": "https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
-        "name": "E Depois (Que Sorte A Minha)",
-        "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
-        }
-      ],
-      "duration_ms": 220125,
-      "name": "E Depois (Que Sorte A Minha)",
-      "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "Alok Presents Brazilian Bass: Pt. 1",
-        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
-      },
-      "artists": [
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Zerky",
-          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
-    },
-    {
-      "added_at": "2026-09-25 15:56:07",
-      "album": {
         "name": "O Descobridor dos Sete Mares",
         "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 212640,
       "name": "O Descobridor dos Sete Mares",
       "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
+    },
+    {
+      "added_at": "2026-09-25 15:56:07",
+      "album": {
+        "name": "Alok Presents Brazilian Bass: Pt. 1",
+        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
+      },
+      "artists": [
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Zerky",
+          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
     },
     {
       "added_at": "2026-09-25 15:56:07",
@@ -1523,26 +1523,26 @@
     {
       "added_at": "2026-09-25 15:56:07",
       "album": {
-        "name": "Se Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
+        "name": "Manh\u00e3 de Sol (Zuffo Remix)",
+        "url": "https://open.spotify.com/album/2nQB0p59wzrIfuY0keh1bW"
       },
       "artists": [
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+          "name": "Zuffo",
+          "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
         },
         {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
         },
         {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         }
       ],
-      "duration_ms": 174219,
-      "name": "Se Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/0Zk7UObYCZLCLd1pqN3Gjb"
+      "duration_ms": 201600,
+      "name": "Manh\u00e3 de Sol - Zuffo Remix",
+      "url": "https://open.spotify.com/track/6cvataOXsYqggBKZRmQbQp"
     }
   ],
   "unique_name": "Festa na Praia",

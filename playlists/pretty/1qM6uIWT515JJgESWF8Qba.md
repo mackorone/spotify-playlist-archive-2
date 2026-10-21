@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 596 likes - 60 songs - 3 hr 52 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 600 likes - 62 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 58 | [Fairytale](https://open.spotify.com/track/3Py8FYfHyuzT9awE3LewQh) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Fairytale](https://open.spotify.com/album/0zyc2DisFokldezxabrmhY) | 3:42 |
 | 59 | [Quién](https://open.spotify.com/track/5LNNpntodSuvNVLkHiU7er) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [El Poder del Miedo](https://open.spotify.com/album/2rAAKdhd7RbMimKLMEdPrK) | 3:31 |
 | 60 | [Shake Your Body](https://open.spotify.com/track/6a9Nre6t2EiVCnhKesVRNW) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Shake Your Body](https://open.spotify.com/album/2HGiAwhii8Rs0IhVP54bTD) | 3:56 |
+| 61 | [In The Red](https://open.spotify.com/track/7hJfu7KZC5XuadNyHNejzF) | [The UNSOLVED](https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO) | [The Gauntlet](https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb) | 3:21 |
+| 62 | [Quiero irme de aca](https://open.spotify.com/track/76MovDHLzCfqKoPZRxLPWG) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [Disco Chulengo](https://open.spotify.com/album/33rrbWOnJKy0pEDCQDbFDH) | 1:56 |
 
-Snapshot ID: `AAACVJeSj6Tx7GX1nCZvjC7ImEJ9vd++`
+Snapshot ID: `AAACVjSE0KxNmfz16y/wrgMscTwkphLz`

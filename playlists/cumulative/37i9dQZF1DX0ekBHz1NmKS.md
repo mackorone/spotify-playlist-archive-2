@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,397 songs - 5 day 4 hr 18 min
+2,398 songs - 5 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,6 +574,7 @@
 | [En kväll i tunnelbanan](https://open.spotify.com/track/1mSgfztYJukhiOgel6BTQS) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [En kväll i tunnelbanan](https://open.spotify.com/album/6R8CSrc5lWRCyRT3WrOwjN) | 3:04 | 2024-10-24 | 2025-01-15 |
 | [en låga, flera bränder](https://open.spotify.com/track/0RZqQZhSFMmJ4MtRi4v0JD) | [ASTE](https://open.spotify.com/artist/5zYmm4lmcacjQo9zns3aDJ) | [en låga, flera bränder](https://open.spotify.com/album/3jORpJoL5qfU0GkmtSuSGs) | 2:22 | 2024-01-18 | 2024-02-09 |
 | [En sekund](https://open.spotify.com/track/3HteneaA9R5zRXVvZRoT0i) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [En sekund \(Spotify Studio It's Hits Recording\)](https://open.spotify.com/album/0M5PVcCS8bM1fpZj7BEqCF) | 3:39 | 2021-12-16 | 2022-03-06 |
+| [En sida kvar](https://open.spotify.com/track/7owM8j72H8DL82iaeKWzfQ) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Bar Nîmes \- Primi](https://open.spotify.com/album/06AGXEqbJ1UENdFc72MHwt) | 2:32 | 2026-10-15 |  |
 | [En sista chans](https://open.spotify.com/track/5MwZYdZ7MLDJtV5SVRaNmr) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [En sista chans](https://open.spotify.com/album/2XNWpmR1BKjvtohL5be22u) | 3:04 | 2024-08-22 | 2025-03-14 |
 | [En sång om dig](https://open.spotify.com/track/5VdVTdRb1VQ2LeMvTjjXca) | [Love Antell](https://open.spotify.com/artist/1NsCBCpJLNQstRoKr4oS0G) | [En sång om dig](https://open.spotify.com/album/35koKrD7oBeq0p3tLDQP4R) | 3:14 | 2024-05-23 | 2024-06-21 |
 | [En tår](https://open.spotify.com/track/28y85h7J7lA08N2x5OEEhB) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [En tår](https://open.spotify.com/album/74kknMQmcLmDMi26QF13JK) | 2:54 | 2026-02-12 | 2026-04-21 |
@@ -1572,7 +1573,7 @@
 | [Opening Act](https://open.spotify.com/track/31ipMJcQ781rbIVshfR5pz) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Kamikaze Life EP](https://open.spotify.com/album/5RPK7laTtrNhcZcSS2rvkz) | 2:16 | 2025-03-07 | 2025-06-06 |
 | [Operator](https://open.spotify.com/track/4YI2hqjVj38GdGWxohsA7D) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Operator](https://open.spotify.com/album/2N9bkju0LC1frvGat1uUxh) | 3:03 | 2026-01-08 | 2026-04-24 |
 | [Orange Lemonade](https://open.spotify.com/track/6vIiQXppIWFcsgROMY8TGb) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e), [Manon Lamartine](https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw) | [Orange Lemonade](https://open.spotify.com/album/3T3loB8qptlgjUWH1RPXbD) | 2:54 | 2025-04-17 | 2025-08-31 |
-| [Orden](https://open.spotify.com/track/2aC9qznWCc6EzDkJ07Oo8T) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Orden](https://open.spotify.com/album/3pjoRoo1MYYzk49wfCxwDZ) | 3:20 | 2026-08-27 |  |
+| [Orden](https://open.spotify.com/track/2aC9qznWCc6EzDkJ07Oo8T) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Orden](https://open.spotify.com/album/3pjoRoo1MYYzk49wfCxwDZ) | 3:20 | 2026-08-27 | 2026-10-21 |
 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-06 | 2024-08-09 |
 | [Ordning & Reda](https://open.spotify.com/track/7ALAfr3jpBnXKZ3g1hdlH3) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw) | [Ordning & Reda](https://open.spotify.com/album/6S6sAs5yDpBxJiHUy9b8NB) | 2:21 | 2022-06-30 | 2022-10-25 |
 | [Orkanen](https://open.spotify.com/track/0YK4KEWdqvFyxMOuWco50H) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Orkanen](https://open.spotify.com/album/2MSSo0cDiZ59cJVBbZCwZq) | 3:33 | 2024-05-30 | 2024-06-28 |

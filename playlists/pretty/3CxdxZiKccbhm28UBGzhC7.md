@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 
 > 2023
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 137 songs - 8 hr 8 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 139 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,5 +145,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 | 135 | [The Bold Arrow Of Time](https://open.spotify.com/track/7r7yAFxq6CwakQB5NrJskh) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 4:25 |
 | 136 | [Oh No Now My](https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Oh No Now My](https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr) | 3:08 |
 | 137 | [Billy Came Back](https://open.spotify.com/track/0lN4BWaZqamALbP1EX3pDi) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [The Singer in My Band](https://open.spotify.com/album/24cxezS5U9YTFapgKpYG16) | 3:09 |
+| 138 | [Demolition](https://open.spotify.com/track/2w9liMSRv3edqM67cGUamD) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:19 |
+| 139 | [Happy For You](https://open.spotify.com/track/0ERpsAgUU0VLdTsQB8EtU5) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:48 |
 
-Snapshot ID: `AAAA+xvtmDxYjobU1H1AxbcbXg0VZBno`
+Snapshot ID: `AAAA/a0dSYpo/Y1A0ck0Y87qjW5sA5aF`

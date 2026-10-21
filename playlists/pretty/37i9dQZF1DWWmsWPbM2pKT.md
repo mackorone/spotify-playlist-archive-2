@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,794 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,906 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 45 | [Lost](https://open.spotify.com/track/44cuIdT06T3f5mIIDldv6z) | [Vandal Moon](https://open.spotify.com/artist/0b0HjXjfkApMcVJqsH8wYX) | [Lost](https://open.spotify.com/album/7y0Wt3nBmFUn7Ser3MuMCd) | 3:40 |
 | 46 | [Sapphire](https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY) | [juhvahn](https://open.spotify.com/artist/4IfApBEW6RQ9uogE7cuZnJ), [Perpetualll](https://open.spotify.com/artist/18vd25otIXXeNS0BHiCHRB) | [Sapphire](https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug) | 2:34 |
 | 47 | [Too Soon to Tell](https://open.spotify.com/track/25rY3GbeeHIBRwyouz9jZT) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [The Demonstration](https://open.spotify.com/album/57h5IDkgYnV5AZV5PU97xN) | 4:07 |
-| 48 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
-| 49 | [FRENCH TIPS](https://open.spotify.com/track/2XvsjccIW6F1ZHRcc8rxdU) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [ESPERA](https://open.spotify.com/album/4k2fUq8CH5r1taFG82PGjh) | 2:27 |
+| 48 | [FRENCH TIPS](https://open.spotify.com/track/2XvsjccIW6F1ZHRcc8rxdU) | [French Police](https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC) | [ESPERA](https://open.spotify.com/album/4k2fUq8CH5r1taFG82PGjh) | 2:27 |
+| 49 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
 | 50 | [Durdu Dunya](https://open.spotify.com/track/2OzRao3wILud6BTrsT2cnI) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Disko Anksiyete](https://open.spotify.com/album/2ErVLQ217KC5srxpS3tQz9) | 4:49 |
 
-Snapshot ID: `AAAAACEOFuMHcGPWNlHSYOjGX9MSqk8h`
+Snapshot ID: `AAAAAJ+65avmpw7o3CpGCp8JboIJdQWK`

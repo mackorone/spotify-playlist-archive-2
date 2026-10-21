@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag! Ny musik fra bl.a\. Annika, Artigeardit og Olivia Rodrigo 🤌
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,386 likes - 90 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,383 likes - 90 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 32 | [Fuck No](https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Fuck No](https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu) | 2:52 |
 | 33 | [Hush](https://open.spotify.com/track/4eNdcndrt563qgh4tSGldR) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Hush](https://open.spotify.com/album/63tDkScueEmDfGasampjs3) | 4:34 |
 | 34 | [WEEZYBALLY](https://open.spotify.com/track/3MqKqxLMnwQped4F6pqgWF) | [KAS](https://open.spotify.com/artist/4phSEXoMC7iWJUN7Zxo6fJ) | [WEEZYBALLY](https://open.spotify.com/album/0mkdY7ljtJ6oLxm9FNWByW) | 2:51 |
-| 35 | [Jeg Vil Hjem Igen](https://open.spotify.com/track/44hKXElbAg9TdPZFwceIPp) | [Karoline](https://open.spotify.com/artist/6FfMarYio5OaEC1RlyVevy), [Karoline Koch](https://open.spotify.com/artist/4eWlERAs5OXXZTXhIBhjgm) | [Jeg Vil Hjem Igen](https://open.spotify.com/album/0fcFxH4KXE1jgGguBXeioc) | 3:37 |
+| 35 | [Jeg Vil Hjem Igen](https://open.spotify.com/track/44hKXElbAg9TdPZFwceIPp) | [Karoline Koch](https://open.spotify.com/artist/4eWlERAs5OXXZTXhIBhjgm) | [Jeg Vil Hjem Igen](https://open.spotify.com/album/0fcFxH4KXE1jgGguBXeioc) | 3:37 |
 | 36 | [Where Is Gone?](https://open.spotify.com/track/79qjt8xBRaIZfBzthXsI4D) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 5:16 |
 | 37 | [The One That Got Away](https://open.spotify.com/track/6aXb9jXt1QLkSEq5rHqZ9c) | [Vilda](https://open.spotify.com/artist/6oarVn444LxYkruEWIvQYN) | [The One That Got Away](https://open.spotify.com/album/5hcR5JKZIDXrUQvtW9Yz9R) | 3:06 |
 | 38 | [Off The Wall](https://open.spotify.com/track/1vt2UsHgSybyBp1v1b3xLZ) | [The Court](https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ) | [Off The Wall](https://open.spotify.com/album/0flIPYVkNiDgGEChCnaDZa) | 2:38 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 89 | [Hot & talking](https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Hot & talking](https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW) | 3:11 |
 | 90 | [Words \(About You\)](https://open.spotify.com/track/5wclYUbW0ikHRit2eUsQ6m) | [Elliot](https://open.spotify.com/artist/13HlSDWIZ8CBSq1ruAZxAe) | [Words \(About You\)](https://open.spotify.com/album/5ttMC342ltnOhcqTD4P7ET) | 4:09 |
 
-Snapshot ID: `AAAAADal/BH9dvue32+dUyejeBps2Kr2`
+Snapshot ID: `AAAAANCR/fp4ZAWO8RTtf6hEcywZygeY`

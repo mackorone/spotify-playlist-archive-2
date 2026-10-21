@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Say Now
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,237 likes - 150 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,450 likes - 150 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 10 | [Heartless](https://open.spotify.com/track/1OKcjiHEQK5ZAlI8XtAWOg) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Lovesick](https://open.spotify.com/album/6tXhwhNRi6rtIvbdvofSsD) | 2:50 |
 | 11 | [Power](https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/6mrpcJ02ZDtAE5vvysSX3e) | 3:53 |
 | 12 | [Before You Know It](https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Before You Know It](https://open.spotify.com/album/09MFYa0kaj2G2LpRZfKUyo) | 2:53 |
-| 13 | [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 |
+| 13 | [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 |
 | 14 | [HURTS LIKE 17](https://open.spotify.com/track/2Uk8qwrNnd17wBBqlB0nX7) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [HURTS LIKE 17](https://open.spotify.com/album/2HLSQ2QFP7kJEFYdTVDrKH) | 2:44 |
 | 15 | [Baby](https://open.spotify.com/track/5keMClWIr5PpsGeDi4QZKK) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [FX's "The Shards" Official Soundtrack](https://open.spotify.com/album/11QILsjLov7wkQYFYt6Uas) | 2:36 |
 | 16 | [GO HARD](https://open.spotify.com/track/4CjNGe0SrasxoAhzuqrXoB) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [GO HARD](https://open.spotify.com/album/2cvqpuiWY2NJhNIf555mpc) | 3:07 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 149 | [Always The Same](https://open.spotify.com/track/5TicxkAav2rqGjxeucVh9B) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Always The Same](https://open.spotify.com/album/1sSAdNWQUwMEBxT1bI0tka) | 3:21 |
 | 150 | [The Chapel](https://open.spotify.com/track/2nJbylgedZdy0eJCfrTizQ) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [The Chapel](https://open.spotify.com/album/0VCW4VVG0aO1GkfXIVbUy8) | 3:02 |
 
-Snapshot ID: `AAAAAKbSfbEJoQPZSP6RA4SkM3XTlbA7`
+Snapshot ID: `AAAAABx10SG0ewsoz1oH4EFcKVi/J+N2`

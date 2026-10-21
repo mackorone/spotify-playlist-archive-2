@@ -8934,7 +8934,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -10092,7 +10092,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 189026,
       "name": "Dime Baby",
       "url": "https://open.spotify.com/track/1i1VqbJKfTMZYyO4fcMBO1"
@@ -11110,7 +11110,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 199480,
       "name": "EL BAIFO",
       "url": "https://open.spotify.com/track/3e9zgP2N318DmC6qP7kdNj"
@@ -11410,7 +11410,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 188093,
       "name": "El Fin del Mundo",
       "url": "https://open.spotify.com/track/6XXQA6e8qXPJ1sZtRxvbws"
@@ -25987,6 +25987,24 @@
     },
     {
       "album": {
+        "name": "Manufacturas del Club de la Gente Sola (MCGS)",
+        "url": "https://open.spotify.com/album/2nbzoGtAmIt5pVkBMEgVvH"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250720,
+      "name": "Olivos",
+      "url": "https://open.spotify.com/track/4zBjSyZGHsYCyhHQx95WnM"
+    },
+    {
+      "album": {
         "name": "Olvidar",
         "url": "https://open.spotify.com/album/74EUdXqT952F9FpGvqD59x"
       },
@@ -29344,7 +29362,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 229226,
       "name": "QUERIDO TIEMPO",
       "url": "https://open.spotify.com/track/17KNvgjeg1wY2pAaMpiFcT"
@@ -31428,7 +31446,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 181421,
       "name": "SCANDIC",
       "url": "https://open.spotify.com/track/65sd7iBs7LCONYmjYCotUc"
@@ -33890,7 +33908,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 191580,
       "name": "SPICY",
       "url": "https://open.spotify.com/track/1lmGCKyRnoiRuuJQrNdsfB"

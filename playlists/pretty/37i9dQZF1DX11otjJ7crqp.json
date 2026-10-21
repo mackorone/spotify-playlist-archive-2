@@ -1,12 +1,12 @@
 {
   "description": "All this week's best new pop releases. Cover: Say Now",
-  "num_followers": 348237,
+  "num_followers": 348450,
   "original_name": "All New Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKbSfbEJoQPZSP6RA4SkM3XTlbA7",
+  "snapshot_id": "AAAAABx10SG0ewsoz1oH4EFcKVi/J+N2",
   "tracks": [
     {
       "added_at": "2026-10-16 04:01:45",
@@ -220,12 +220,12 @@
       },
       "artists": [
         {
-          "name": "A2O",
-          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
-        },
-        {
           "name": "A2O LITE",
           "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
         }
       ],
       "duration_ms": 208000,

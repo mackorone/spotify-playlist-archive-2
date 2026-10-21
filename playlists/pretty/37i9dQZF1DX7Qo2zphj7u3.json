@@ -1,12 +1,12 @@
 {
   "description": "Las rom\u00e1nticas de hoy con las de siempre. Cover: Abraham Mateo & Maria Becerra",
-  "num_followers": 1931488,
+  "num_followers": 1931317,
   "original_name": "Pop Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFKKuDtH4j8nScgUFrH3yv/4S5Ny",
+  "snapshot_id": "AAAAAKz74ek93ys2QU3qT0ItdzaA5SAW",
   "tracks": [
     {
       "added_at": "2026-10-09 04:02:18",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-10-09 04:02:18",
       "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "T\u00fa de Qu\u00e9 Vas",
-      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
-    },
-    {
-      "added_at": "2026-10-09 04:02:18",
-      "album": {
         "name": "Mi Vida Sin Tu Amor",
         "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 272200,
       "name": "Por Amarte As\u00ed",
       "url": "https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa"
+    },
+    {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "T\u00fa de Qu\u00e9 Vas",
+      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
       "added_at": "2026-10-09 04:02:18",
@@ -466,10 +466,6 @@
         {
           "name": "Jesse & Joy",
           "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Jesse",
-          "url": "https://open.spotify.com/artist/7JmLfOmqdX5WvJ0NmHP4mV"
         }
       ],
       "duration_ms": 216000,
@@ -675,26 +671,6 @@
     {
       "added_at": "2026-10-09 04:02:18",
       "album": {
-        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro? (Deluxe)",
-        "url": "https://open.spotify.com/album/6BVBG97h9uAFn1eOwckiwH"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Mario Domm",
-          "url": "https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl"
-        }
-      ],
-      "duration_ms": 225796,
-      "name": "Llorar (feat. Mario Domm)",
-      "url": "https://open.spotify.com/track/7KffKVdLO4P8e4Yx8gDYgw"
-    },
-    {
-      "added_at": "2026-10-09 04:02:18",
-      "album": {
         "name": "Confidencias",
         "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
       },
@@ -711,6 +687,26 @@
       "duration_ms": 291106,
       "name": "Hoy Tengo Ganas De Ti",
       "url": "https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9"
+    },
+    {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
+        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro? (Deluxe)",
+        "url": "https://open.spotify.com/album/6BVBG97h9uAFn1eOwckiwH"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Mario Domm",
+          "url": "https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl"
+        }
+      ],
+      "duration_ms": 225796,
+      "name": "Llorar (feat. Mario Domm)",
+      "url": "https://open.spotify.com/track/7KffKVdLO4P8e4Yx8gDYgw"
     },
     {
       "added_at": "2026-10-09 04:02:18",
@@ -763,26 +759,6 @@
     {
       "added_at": "2026-10-09 04:02:18",
       "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Jesse",
-          "url": "https://open.spotify.com/artist/7JmLfOmqdX5WvJ0NmHP4mV"
-        }
-      ],
-      "duration_ms": 215112,
-      "name": "Ecos De Amor",
-      "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
-    },
-    {
-      "added_at": "2026-10-09 04:02:18",
-      "album": {
         "name": "Lo Arriesgo Todo",
         "url": "https://open.spotify.com/album/04HQFUF2ZerH9UAu5Lo6bP"
       },
@@ -795,6 +771,22 @@
       "duration_ms": 204068,
       "name": "Lo Arriesgo Todo",
       "url": "https://open.spotify.com/track/2Kd1MT5y2CVTJsD9vUc9Yf"
+    },
+    {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 215112,
+      "name": "Ecos De Amor",
+      "url": "https://open.spotify.com/track/3lI5dscCDez8cF6LF3Me7F"
     },
     {
       "added_at": "2026-10-09 04:02:18",
@@ -847,22 +839,6 @@
     {
       "added_at": "2026-10-09 04:02:18",
       "album": {
-        "name": "Me Siento Tan Sola",
-        "url": "https://open.spotify.com/album/5WiTkNoR4lcdx3senhGDHR"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "Con los Ojos Cerrados",
-      "url": "https://open.spotify.com/track/6DIt34Pm9LXZUfs4ap67fJ"
-    },
-    {
-      "added_at": "2026-10-09 04:02:18",
-      "album": {
         "name": "Alejandro Sanz 3",
         "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
       },
@@ -875,6 +851,22 @@
       "duration_ms": 307053,
       "name": "La fuerza del coraz\u00f3n",
       "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
+    },
+    {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
+        "name": "Me Siento Tan Sola",
+        "url": "https://open.spotify.com/album/5WiTkNoR4lcdx3senhGDHR"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Con los Ojos Cerrados",
+      "url": "https://open.spotify.com/track/6DIt34Pm9LXZUfs4ap67fJ"
     },
     {
       "added_at": "2026-10-09 04:02:18",
@@ -927,6 +919,22 @@
     {
       "added_at": "2026-10-09 04:02:18",
       "album": {
+        "name": "Para\u00edso Express",
+        "url": "https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Desde cuando",
+      "url": "https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh"
+    },
+    {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
         "name": "As\u00ed",
         "url": "https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ"
       },
@@ -947,22 +955,6 @@
       "duration_ms": 194727,
       "name": "As\u00ed",
       "url": "https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC"
-    },
-    {
-      "added_at": "2026-10-09 04:02:18",
-      "album": {
-        "name": "Para\u00edso Express",
-        "url": "https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Desde cuando",
-      "url": "https://open.spotify.com/track/38EI0NudWZT1qFuhEafIHh"
     },
     {
       "added_at": "2026-10-09 04:02:18",
@@ -1271,22 +1263,6 @@
     {
       "added_at": "2026-10-09 04:02:18",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/110rZdMmIjA335CehJJkuk"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 405120,
-      "name": "Historia de Taxi",
-      "url": "https://open.spotify.com/track/005Dlt8Xaz3DkaXiRJgdiS"
-    },
-    {
-      "added_at": "2026-10-09 04:02:18",
-      "album": {
         "name": "Un Segundo En El Tiempo",
         "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
       },
@@ -1303,34 +1279,18 @@
     {
       "added_at": "2026-10-09 04:02:18",
       "album": {
-        "name": "Siempre En Mi Mente",
-        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/110rZdMmIjA335CehJJkuk"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 205866,
-      "name": "Siempre en Mi Mente",
-      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
-    },
-    {
-      "added_at": "2026-10-09 04:02:18",
-      "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 288946,
-      "name": "Yo Te Amo",
-      "url": "https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa"
+      "duration_ms": 405120,
+      "name": "Historia de Taxi",
+      "url": "https://open.spotify.com/track/005Dlt8Xaz3DkaXiRJgdiS"
     },
     {
       "added_at": "2026-10-09 04:02:18",
@@ -1351,6 +1311,22 @@
     {
       "added_at": "2026-10-09 04:02:18",
       "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 288946,
+      "name": "Yo Te Amo",
+      "url": "https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa"
+    },
+    {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
       },
@@ -1363,6 +1339,22 @@
       "duration_ms": 234933,
       "name": "He Renunciado a Ti - Remasterizado",
       "url": "https://open.spotify.com/track/59Q0mA0Bq3bqfV5ySjfTbn"
+    },
+    {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
+        "name": "Siempre En Mi Mente",
+        "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 205866,
+      "name": "Siempre en Mi Mente",
+      "url": "https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj"
     },
     {
       "added_at": "2026-10-09 04:02:18",
@@ -1571,22 +1563,6 @@
     {
       "added_at": "2026-10-09 04:02:18",
       "album": {
-        "name": "Drama Y Luz",
-        "url": "https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 291866,
-      "name": "Amor Clandestino",
-      "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
-    },
-    {
-      "added_at": "2026-10-09 04:02:18",
-      "album": {
         "name": "Tiempo de oto\u00f1o",
         "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
       },
@@ -1599,6 +1575,22 @@
       "duration_ms": 251520,
       "name": "El Amor",
       "url": "https://open.spotify.com/track/02PDEtcbjtjIyllnqTZc7i"
+    },
+    {
+      "added_at": "2026-10-09 04:02:18",
+      "album": {
+        "name": "Drama Y Luz",
+        "url": "https://open.spotify.com/album/1sqgDb8MhdXgKAdGGLny9g"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 291866,
+      "name": "Amor Clandestino",
+      "url": "https://open.spotify.com/track/5etssK2rpk4SnHWWD1Q6xn"
     },
     {
       "added_at": "2026-10-09 04:02:18",

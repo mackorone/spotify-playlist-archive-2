@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,480 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,494 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 35 | [No Quiero Escuchar](https://open.spotify.com/track/7CLqQbnMST28Vstn5wbgKP) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [No Quiero Escuchar](https://open.spotify.com/album/6oHQWOgONDhsEXJUaL1q6Y) | 3:34 |
 | 36 | [Quiero que sepas](https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Quiero que sepas](https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz) | 2:50 |
 | 37 | [Miedo](https://open.spotify.com/track/5nKVeHvxJqylDBJBHBQy0C) | [Maldito Matas](https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5) | [Miedo](https://open.spotify.com/album/4XHaklNF38ZoNVaJ7AL1YT) | 2:38 |
-| 38 | [Ahora soy un punkarra](https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP) | [Desklate](https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT) | [Ahora soy un punkarra](https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK) | 2:24 |
-| 39 | [Mi única salida](https://open.spotify.com/track/1Iq05aiCe4fPyJXDiSsHIW) | [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Endemia](https://open.spotify.com/artist/30HBg18EnoAtgGWVps8nsa) | [Mi única salida](https://open.spotify.com/album/2m91Eba2vl5OSLCpJejcIy) | 3:20 |
+| 38 | [Mi única salida](https://open.spotify.com/track/1Iq05aiCe4fPyJXDiSsHIW) | [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Endemia](https://open.spotify.com/artist/30HBg18EnoAtgGWVps8nsa) | [Mi única salida](https://open.spotify.com/album/2m91Eba2vl5OSLCpJejcIy) | 3:20 |
+| 39 | [Ahora soy un punkarra](https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP) | [Desklate](https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT) | [Ahora soy un punkarra](https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK) | 2:24 |
 | 40 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
 | 41 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 |
 | 42 | [No Sabemos Perder](https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4), [Dinamita](https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x), [Rotten XIII](https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF) | [No Sabemos Perder](https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz) | 4:00 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 55 | [La Casika No Se Toca](https://open.spotify.com/track/1WRFoNch7kLbCT9DdtGxay) | [Caña y Media](https://open.spotify.com/artist/3Aa5UzZPbPkScCeuFdQV8P) | [La Casika No Se Toca](https://open.spotify.com/album/2lnu8Fk62iWRmzTjURUdPO) | 1:31 |
 | 56 | [Humo](https://open.spotify.com/track/4TgiuHbWo5fc3rJCs8Km3L) | [Eruktogatos](https://open.spotify.com/artist/0oXKGaEfnCO4gA8YTzlDWJ), [Andrés Melojo](https://open.spotify.com/artist/1ymKRveYirruiLxi6Ls8sS) | [Humo](https://open.spotify.com/album/2ruESohGqLboa07L3xpBXG) | 3:48 |
 | 57 | [Ya No Me Divierto](https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Ya No Me Divierto](https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL) | 3:43 |
-| 58 | [Hasta Alcanzar la Eternidad](https://open.spotify.com/track/2VL5tGw1rCuZTcPBdbqlq9) | [Inkandescencia](https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l), [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB) | [Un Veneno Llamado Libertad](https://open.spotify.com/album/0Xd3vHYAhGXjLfRg8xzj5D) | 3:10 |
-| 59 | [La Hemos Cagao \- Versión 2026](https://open.spotify.com/track/5NOpn7lhJJmNhGVUz7RR66) | [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk) | [La Hemos Cagao \(Versión 2026\)](https://open.spotify.com/album/0C0d6wsnR45bZzZLIsDL2V) | 3:53 |
+| 58 | [La Hemos Cagao \- Versión 2026](https://open.spotify.com/track/5NOpn7lhJJmNhGVUz7RR66) | [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk) | [La Hemos Cagao \(Versión 2026\)](https://open.spotify.com/album/0C0d6wsnR45bZzZLIsDL2V) | 3:53 |
+| 59 | [Hasta Alcanzar la Eternidad](https://open.spotify.com/track/2VL5tGw1rCuZTcPBdbqlq9) | [Inkandescencia](https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l), [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB) | [Un Veneno Llamado Libertad](https://open.spotify.com/album/0Xd3vHYAhGXjLfRg8xzj5D) | 3:10 |
 | 60 | [Ni Una Sola Palabra](https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN) | [Me Fritos and the Gimme Cheetos](https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr) | [Ni una Sola Palabra](https://open.spotify.com/album/3cCGlsL0rcQXpASb4Lqeka) | 2:28 |
 | 61 | [Sin Perdón](https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Sin Perdón](https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA) | 3:10 |
 | 62 | [Nunca He Visto el Mar](https://open.spotify.com/track/5qEjoywjW43wUjxUvSyRPw) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Nunca He Visto el Mar](https://open.spotify.com/album/5Qr8yJcWdR1pkWgs9MANSI) | 4:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 99 | [Vieja Guardia](https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Vieja Guardia](https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl) | 2:50 |
 | 100 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 |
 
-Snapshot ID: `AAAAALlDO35W0phXr8wMLLDSn2uIBsOd`
+Snapshot ID: `AAAAAFdeI4rkvaFojNSLOyl+BIJ65iSa`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,487 likes - 275 songs - 14 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,443 likes - 275 songs - 14 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 274 | [Because Of You](https://open.spotify.com/track/28fPjkRsnNktx2qbJxkLPe) | [REMI](https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2) | [Fade To BLUE](https://open.spotify.com/album/3eIxifbzVKzLqJRdNAbTrJ) | 2:18 |
 | 275 | [Bullseye \- Nice Shot](https://open.spotify.com/track/4zL1U5KpM1hHbINN2wouBF) | [Sy'Rai](https://open.spotify.com/artist/77UHD0ajx6cBSHHfpjiUsQ) | [Bullseye \(Nice Shot\)](https://open.spotify.com/album/4fmn8OegoqLXX7YtS1Jsi4) | 3:03 |
 
-Snapshot ID: `AAAAAPRiCAf8hpN8BGdPuMhuzaVQr0wP`
+Snapshot ID: `AAAAACIvl3Pty/utXLWKwcouLH9r7lwR`

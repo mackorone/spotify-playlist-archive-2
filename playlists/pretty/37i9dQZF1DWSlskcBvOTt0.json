@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 594800,
+  "num_followers": 594831,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGmuhuStPwRA9PgWDkmD0Kon/PcH",
+  "snapshot_id": "AAAAAKBy51nbg4Wyn4TN8/XpTMrnEZID",
   "tracks": [
     {
       "added_at": "2026-10-16 04:00:52",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2026-10-16 04:00:52",
       "album": {
-        "name": "Work Song (Antdot Remix)",
-        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        }
-      ],
-      "duration_ms": 218499,
-      "name": "Work Song - Antdot Remix",
-      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
-    },
-    {
-      "added_at": "2026-10-16 04:00:52",
-      "album": {
         "name": "Dance Baby",
         "url": "https://open.spotify.com/album/6qWx2Uq17g7PlhuQCw7KHA"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 222439,
       "name": "Dance Baby",
       "url": "https://open.spotify.com/track/605GkjW7WFEB6una1Uciar"
+    },
+    {
+      "added_at": "2026-10-16 04:00:52",
+      "album": {
+        "name": "Work Song (Antdot Remix)",
+        "url": "https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "duration_ms": 218499,
+      "name": "Work Song - Antdot Remix",
+      "url": "https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg"
     },
     {
       "added_at": "2026-10-16 04:00:52",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2026-10-16 04:00:52",
       "album": {
+        "name": "Mounkera",
+        "url": "https://open.spotify.com/album/39tt3GUhPor5TYUdsxgNgz"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Djanka Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/7olbVkVVt53k2MXnQV9et3"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Mounkera",
+      "url": "https://open.spotify.com/track/6UFTQiTLjvrYDqpR6403Jz"
+    },
+    {
+      "added_at": "2026-10-16 04:00:52",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/1QFEurpNFobpWBTjSyo2di"
       },
@@ -1931,26 +1951,6 @@
       "duration_ms": 222470,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/5GDR8Wya0Zy5xCmeHc7m7P"
-    },
-    {
-      "added_at": "2026-10-16 04:00:52",
-      "album": {
-        "name": "YELE",
-        "url": "https://open.spotify.com/album/6YAcuaZ4lkpoqnDAeBmWZ8"
-      },
-      "artists": [
-        {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
-        },
-        {
-          "name": "Vanco",
-          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
-        }
-      ],
-      "duration_ms": 230550,
-      "name": "YELE",
-      "url": "https://open.spotify.com/track/1J8bQco6ywLX4RcstnqZEx"
     },
     {
       "added_at": "2026-10-16 04:00:52",
@@ -2003,6 +2003,26 @@
       "duration_ms": 232000,
       "name": "111",
       "url": "https://open.spotify.com/track/1wisB4DtmmPiuLrA188XmR"
+    },
+    {
+      "added_at": "2026-10-16 04:00:52",
+      "album": {
+        "name": "YELE",
+        "url": "https://open.spotify.com/album/6YAcuaZ4lkpoqnDAeBmWZ8"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        }
+      ],
+      "duration_ms": 230550,
+      "name": "YELE",
+      "url": "https://open.spotify.com/track/1J8bQco6ywLX4RcstnqZEx"
     },
     {
       "added_at": "2026-10-16 04:00:52",
@@ -2119,26 +2139,6 @@
     {
       "added_at": "2026-10-16 04:00:52",
       "album": {
-        "name": "Mounkera",
-        "url": "https://open.spotify.com/album/39tt3GUhPor5TYUdsxgNgz"
-      },
-      "artists": [
-        {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        },
-        {
-          "name": "Djanka Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/7olbVkVVt53k2MXnQV9et3"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Mounkera",
-      "url": "https://open.spotify.com/track/6UFTQiTLjvrYDqpR6403Jz"
-    },
-    {
-      "added_at": "2026-10-16 04:00:52",
-      "album": {
         "name": "U Ain't Lyin'",
         "url": "https://open.spotify.com/album/0FvXnVAn397FMfYjnIviyI"
       },
@@ -2151,26 +2151,6 @@
       "duration_ms": 215040,
       "name": "U Ain't Lyin'",
       "url": "https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr"
-    },
-    {
-      "added_at": "2026-10-16 04:00:52",
-      "album": {
-        "name": "A.I.E.",
-        "url": "https://open.spotify.com/album/1BgxyiNB6EdE2TjkGUUj7g"
-      },
-      "artists": [
-        {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
-        },
-        {
-          "name": "Alejandro Garrido",
-          "url": "https://open.spotify.com/artist/5dVMhaF1aZJdncMO2Kp1PH"
-        }
-      ],
-      "duration_ms": 166707,
-      "name": "A.I.E.",
-      "url": "https://open.spotify.com/track/1IKARclHbrqdFf2XdQ6KlK"
     },
     {
       "added_at": "2026-10-16 04:00:52",
@@ -2223,6 +2203,26 @@
     {
       "added_at": "2026-10-16 04:00:52",
       "album": {
+        "name": "A.I.E.",
+        "url": "https://open.spotify.com/album/1BgxyiNB6EdE2TjkGUUj7g"
+      },
+      "artists": [
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        },
+        {
+          "name": "Alejandro Garrido",
+          "url": "https://open.spotify.com/artist/5dVMhaF1aZJdncMO2Kp1PH"
+        }
+      ],
+      "duration_ms": 166707,
+      "name": "A.I.E.",
+      "url": "https://open.spotify.com/track/1IKARclHbrqdFf2XdQ6KlK"
+    },
+    {
+      "added_at": "2026-10-16 04:00:52",
+      "album": {
         "name": "More (Marten Lou Remix)",
         "url": "https://open.spotify.com/album/3t2TM1HgGnVj7xASVVYohS"
       },
@@ -2243,6 +2243,26 @@
       "duration_ms": 207586,
       "name": "More - Marten Lou Remix",
       "url": "https://open.spotify.com/track/4X8Pud9KG1rjGvRF322v5N"
+    },
+    {
+      "added_at": "2026-10-16 04:00:52",
+      "album": {
+        "name": "THE ASCENSION (INKAWAMI)",
+        "url": "https://open.spotify.com/album/1ypLM6ggLT4oF47kGx3kRz"
+      },
+      "artists": [
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "Dyo",
+          "url": "https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb"
+        }
+      ],
+      "duration_ms": 179815,
+      "name": "Not Like You",
+      "url": "https://open.spotify.com/track/3xzxzll7UnFqXKg28lsutT"
     },
     {
       "added_at": "2026-10-16 04:00:52",
@@ -2287,26 +2307,6 @@
       "duration_ms": 343414,
       "name": "Doin' It All For The Culture",
       "url": "https://open.spotify.com/track/40fHcs9WzWosKvLO0dq3O8"
-    },
-    {
-      "added_at": "2026-10-16 04:00:52",
-      "album": {
-        "name": "THE ASCENSION (INKAWAMI)",
-        "url": "https://open.spotify.com/album/1ypLM6ggLT4oF47kGx3kRz"
-      },
-      "artists": [
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        },
-        {
-          "name": "Dyo",
-          "url": "https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb"
-        }
-      ],
-      "duration_ms": 179815,
-      "name": "Not Like You",
-      "url": "https://open.spotify.com/track/3xzxzll7UnFqXKg28lsutT"
     },
     {
       "added_at": "2026-10-16 04:00:52",
@@ -2475,6 +2475,22 @@
     {
       "added_at": "2026-10-16 04:00:52",
       "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/6FN7IVwE07HKhE7yDLne82"
+      },
+      "artists": [
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "duration_ms": 154918,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0JIVY8wpEmZSIhAs9lxXxz"
+    },
+    {
+      "added_at": "2026-10-16 04:00:52",
+      "album": {
         "name": "Jamaica",
         "url": "https://open.spotify.com/album/61xq2YuN8yxOYsIIIQNKtA"
       },
@@ -2491,22 +2507,6 @@
       "duration_ms": 210731,
       "name": "Jamaica",
       "url": "https://open.spotify.com/track/5IaQmV2dOmzLbUDQ6RUdmR"
-    },
-    {
-      "added_at": "2026-10-16 04:00:52",
-      "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/6FN7IVwE07HKhE7yDLne82"
-      },
-      "artists": [
-        {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
-        }
-      ],
-      "duration_ms": 154918,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/0JIVY8wpEmZSIhAs9lxXxz"
     },
     {
       "added_at": "2026-10-16 04:00:52",
@@ -2555,30 +2555,6 @@
     {
       "added_at": "2026-10-16 04:00:52",
       "album": {
-        "name": "Champagne",
-        "url": "https://open.spotify.com/album/1pgnVo1I3oh6EjBdOJjgI5"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "MASSALA",
-          "url": "https://open.spotify.com/artist/7xI763bNyhkwOTWpZq2xdG"
-        },
-        {
-          "name": "LexBlaze",
-          "url": "https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/7dfiOtJr96c3VGUI0JdnJE"
-    },
-    {
-      "added_at": "2026-10-16 04:00:52",
-      "album": {
         "name": "Let's Get Down",
         "url": "https://open.spotify.com/album/0zCxFXy6hVSLLmXPDKfb0R"
       },
@@ -2619,22 +2595,26 @@
     {
       "added_at": "2026-10-16 04:00:52",
       "album": {
-        "name": "Macho",
-        "url": "https://open.spotify.com/album/3UjAbo0BXxVm8YASitir9v"
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/1pgnVo1I3oh6EjBdOJjgI5"
       },
       "artists": [
         {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
         },
         {
-          "name": "Emmanuel Jal",
-          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+          "name": "MASSALA",
+          "url": "https://open.spotify.com/artist/7xI763bNyhkwOTWpZq2xdG"
+        },
+        {
+          "name": "LexBlaze",
+          "url": "https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri"
         }
       ],
-      "duration_ms": 262188,
-      "name": "Macho",
-      "url": "https://open.spotify.com/track/1lfrEfIqFx5uUrJInBub0n"
+      "duration_ms": 179000,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/7dfiOtJr96c3VGUI0JdnJE"
     },
     {
       "added_at": "2026-10-16 04:00:52",
@@ -2655,6 +2635,26 @@
       "duration_ms": 199125,
       "name": "Turned A Key",
       "url": "https://open.spotify.com/track/5dwI3JHau2HD1r5ZEKTkIx"
+    },
+    {
+      "added_at": "2026-10-16 04:00:52",
+      "album": {
+        "name": "Macho",
+        "url": "https://open.spotify.com/album/3UjAbo0BXxVm8YASitir9v"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "duration_ms": 262188,
+      "name": "Macho",
+      "url": "https://open.spotify.com/track/1lfrEfIqFx5uUrJInBub0n"
     }
   ],
   "unique_name": "Tantra",

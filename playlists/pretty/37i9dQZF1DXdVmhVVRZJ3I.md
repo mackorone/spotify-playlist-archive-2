@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,716 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,801 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 27 | [Do You](https://open.spotify.com/track/59Omhh3MqpuvUXvVoRdiBH) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Do You EP](https://open.spotify.com/album/5FuiFhKEYrgrOnMck9cXqb) | 3:41 |
 | 28 | [Dynamite](https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dynamite](https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW) | 2:05 |
 | 29 | [You & Me \- Vintage Culture Remix](https://open.spotify.com/track/4zedwYjb2LIdPBmfOeyXW5) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [You & Me \(Vintage Culture Remix\)](https://open.spotify.com/album/1FOMConpwgbEszaYCh8O3y) | 3:54 |
-| 30 | [New Memories](https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [New Memories](https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI) | 3:14 |
-| 31 | [Children](https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Children](https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn) | 3:58 |
+| 30 | [Children](https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Children](https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn) | 3:58 |
+| 31 | [New Memories](https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [New Memories](https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI) | 3:14 |
 | 32 | [One Million](https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [LOTTEN](https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D) | [One Million](https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA) | 3:07 |
 | 33 | [Pitbull](https://open.spotify.com/track/6CYIVGVhbxgjyyMq6XrM1s) | [Mad Dogz](https://open.spotify.com/artist/18RtsuKFWko5JfeMsIi0YP), [Lowderz](https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq) | [Pitbull](https://open.spotify.com/album/6d64y1tKfi0XZMZC4EmFcE) | 2:42 |
 | 34 | [Party On My Own \(feat\. FAULHABER\)](https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu) | [Party On My Own \(feat\. FAULHABER\)](https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 49 | [Kikada](https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Kikada](https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK) | 3:03 |
 | 50 | [Mr\. Navigator](https://open.spotify.com/track/6MUZSRiBO5mpq5qQkFgAgz) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Tempo Giusto](https://open.spotify.com/artist/0m0RB1rz2K4biPY7teHR6R) | [Mr\. Navigator](https://open.spotify.com/album/7j2CtumDjqj5nve12AmTjy) | 2:32 |
 
-Snapshot ID: `AAAAAFbXAu2oQSk19gT8A+VTy+4jKem5`
+Snapshot ID: `AAAAAEPWlLZo7mEt6+PSCS0wj9kHL2DS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,268 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,286 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 49 | [Trip to Italia](https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Trip to Italia](https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V) | 3:34 |
 | 50 | [The Underground Network \(Official REBELLiON Indoor 2025 Anthem\) \- Satirized & Noxiouz Remix](https://open.spotify.com/track/1bDKr0yjvQIhEQFoIQEArK) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [The Underground Network \(Official REBELLiON Indoor 2025 Anthem\) \(Satirized & Noxiouz Remix\)](https://open.spotify.com/album/50oryOD4ObVOPc3xqpusC5) | 3:10 |
 
-Snapshot ID: `AAAAALLOvfUk89wJnw/gZfjdpwje51z2`
+Snapshot ID: `AAAAAChR9D1JO+b6bfhwoyvAQ+JM+keL`

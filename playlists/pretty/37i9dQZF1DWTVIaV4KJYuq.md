@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,863 likes - 110 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,876 likes - 110 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 87 | [My Valentine \(with Paul McCartney\)](https://open.spotify.com/track/5ieWsEv2u9vMHWB3uV3R5Z) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [My Valentine \(with Paul McCartney\)](https://open.spotify.com/album/7opVxBLRbaAq1q7aMSLeHo) | 4:18 |
 | 88 | [The Way You Make Me Feel](https://open.spotify.com/track/5d7TnPB7XplPTFV919uXYv) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [The Way You Make Me Feel](https://open.spotify.com/album/5tI48knArncrNzkCFFxoLp) | 3:52 |
 | 89 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/0M1eB7j2ahf7EIThdecGI0) | [POP ETC](https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL) | [Covers Collection](https://open.spotify.com/album/5OTpUpu29iF7pSyT108wXy) | 3:20 |
-| 90 | [Season of the Witch](https://open.spotify.com/track/2GaQr1kOxgrzcfHWuDLIqu) | [Luna](https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq) | [Lunafied](https://open.spotify.com/album/1r5Y5fQ6X7qgnYYcRfG4Of) | 5:20 |
-| 91 | [Never Surrender](https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW) | [Dante Hart](https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6) | [Never Surrender](https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9) | 3:48 |
+| 90 | [Never Surrender](https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW) | [Dante Hart](https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6) | [Never Surrender](https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9) | 3:48 |
+| 91 | [Season of the Witch](https://open.spotify.com/track/2GaQr1kOxgrzcfHWuDLIqu) | [Luna](https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq) | [Lunafied](https://open.spotify.com/album/1r5Y5fQ6X7qgnYYcRfG4Of) | 5:20 |
 | 92 | [When The Levee Breaks](https://open.spotify.com/track/5YIFfBRujaS2EwF5GCJv0u) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [When The Levee Breaks](https://open.spotify.com/album/3IEVZmB4jiRhirv2VVMuSL) | 4:02 |
 | 93 | [Here Comes Your Man](https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO), [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Here Comes Your Man](https://open.spotify.com/album/7amyXS0aB3cRAmgVii9MMK) | 2:39 |
 | 94 | [Bell Bottom Blues](https://open.spotify.com/track/2bo2FJBYgcNCfs2NZcVZuN) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Bell Bottom Blues](https://open.spotify.com/album/3dvynRPvKrgZWuNHzhzQ55) | 3:38 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [Dreams \- Lanie's Version](https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Dreams \(Lanie's Version\)](https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb) | 4:20 |
 | 110 | [Eye of the Tiger](https://open.spotify.com/track/7bqtShG4VYS372JEtHLXRp) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood b/w Eye Of The Tiger](https://open.spotify.com/album/3ERhhl10nW1ixfxezvCCm7) | 3:00 |
 
-Snapshot ID: `AAAAANq2RL0Z0P0s79t4kzln3BaOsmME`
+Snapshot ID: `AAAAAGSpT87VyW/OQTtKz2N7RocXQAuc`

@@ -1,12 +1,12 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 240966,
+  "num_followers": 241003,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALjekJJbOSCgmfyZR2aqj3HmjyqX",
+  "snapshot_id": "AAAAAHm0b5qmZYxu4cJIB52pqgmFyer1",
   "tracks": [
     {
       "added_at": "2026-08-18 23:12:48",
@@ -119,26 +119,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Love Theory",
-        "url": "https://open.spotify.com/album/6zEA4NTSlgfwDCPgLCX2iL"
-      },
-      "artists": [
-        {
-          "name": "Judy Jay",
-          "url": "https://open.spotify.com/artist/5q8RThTZw42cwyqNGBnUIA"
-        },
-        {
-          "name": "Oscar Mbo",
-          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
-        }
-      ],
-      "duration_ms": 482760,
-      "name": "Love Theory",
-      "url": "https://open.spotify.com/track/0bZk2SKsbkdeWskMZ3fPUQ"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/6Gk2M266ymr2rz4TN2qmbO"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 200655,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3zYghOCvqJ8fZJl8pPtWyw"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Love Theory",
+        "url": "https://open.spotify.com/album/6zEA4NTSlgfwDCPgLCX2iL"
+      },
+      "artists": [
+        {
+          "name": "Judy Jay",
+          "url": "https://open.spotify.com/artist/5q8RThTZw42cwyqNGBnUIA"
+        },
+        {
+          "name": "Oscar Mbo",
+          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
+        }
+      ],
+      "duration_ms": 482760,
+      "name": "Love Theory",
+      "url": "https://open.spotify.com/track/0bZk2SKsbkdeWskMZ3fPUQ"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -387,26 +387,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Like Water",
-        "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
+        "name": "As The Deer",
+        "url": "https://open.spotify.com/album/1erxvSSmDIURHDfUHEbjmD"
       },
       "artists": [
         {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+          "name": "FLEIVA MUSIC",
+          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
         },
         {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "JoyFull",
-          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
         }
       ],
-      "duration_ms": 161219,
-      "name": "Like Water",
-      "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
+      "duration_ms": 239040,
+      "name": "As The Deer",
+      "url": "https://open.spotify.com/track/2Fl6q69wWJZqPbenIPBJnh"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -431,22 +427,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "As The Deer",
-        "url": "https://open.spotify.com/album/1erxvSSmDIURHDfUHEbjmD"
+        "name": "Like Water",
+        "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
       },
       "artists": [
         {
-          "name": "FLEIVA MUSIC",
-          "url": "https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq"
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         },
         {
-          "name": "Grace Idowu",
-          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
         }
       ],
-      "duration_ms": 239040,
-      "name": "As The Deer",
-      "url": "https://open.spotify.com/track/2Fl6q69wWJZqPbenIPBJnh"
+      "duration_ms": 161219,
+      "name": "Like Water",
+      "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -623,42 +623,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "all i need is God",
-        "url": "https://open.spotify.com/album/3OKM1CeCwQY1aeqmLeuh0K"
-      },
-      "artists": [
-        {
-          "name": "BVSSL7ON",
-          "url": "https://open.spotify.com/artist/68eoJvGNNchU2mUZaE8f3X"
-        },
-        {
-          "name": "Dom Livez",
-          "url": "https://open.spotify.com/artist/1ON8OYB3qf2Yafnqt1ZStP"
-        }
-      ],
-      "duration_ms": 127877,
-      "name": "all i need is God",
-      "url": "https://open.spotify.com/track/0lEw9va6qgMmLazeGWnbFK"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "SO GOOD !!!",
-        "url": "https://open.spotify.com/album/38Wte6dKVNhHlyFzV6C9Ds"
-      },
-      "artists": [
-        {
-          "name": "Poetics",
-          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
-        }
-      ],
-      "duration_ms": 120700,
-      "name": "SO GOOD !!!",
-      "url": "https://open.spotify.com/track/0RXUiNQgDTs6KnXCxb7H27"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Praying Out Loud (Arknn Remix)",
         "url": "https://open.spotify.com/album/6zSWdkEdXc4hiR4mmUdrd6"
       },
@@ -679,6 +643,42 @@
       "duration_ms": 184000,
       "name": "Praying Out Loud - Arknn Remix",
       "url": "https://open.spotify.com/track/0TN6lBoupsiKJJpDPgi5af"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "SO GOOD !!!",
+        "url": "https://open.spotify.com/album/38Wte6dKVNhHlyFzV6C9Ds"
+      },
+      "artists": [
+        {
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+        }
+      ],
+      "duration_ms": 120700,
+      "name": "SO GOOD !!!",
+      "url": "https://open.spotify.com/track/0RXUiNQgDTs6KnXCxb7H27"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "all i need is God",
+        "url": "https://open.spotify.com/album/3OKM1CeCwQY1aeqmLeuh0K"
+      },
+      "artists": [
+        {
+          "name": "BVSSL7ON",
+          "url": "https://open.spotify.com/artist/68eoJvGNNchU2mUZaE8f3X"
+        },
+        {
+          "name": "Dom Livez",
+          "url": "https://open.spotify.com/artist/1ON8OYB3qf2Yafnqt1ZStP"
+        }
+      ],
+      "duration_ms": 127877,
+      "name": "all i need is God",
+      "url": "https://open.spotify.com/track/0lEw9va6qgMmLazeGWnbFK"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Perfect Duet",
-        "url": "https://open.spotify.com/album/64AXj367n2UZH9EnM6UrFZ"
-      },
-      "artists": [
-        {
-          "name": "LZ7",
-          "url": "https://open.spotify.com/artist/0OaQ5i3Ufxi4Vx5mWUNgWW"
-        },
-        {
-          "name": "Gracie",
-          "url": "https://open.spotify.com/artist/0YZgJBUlSIb92q7X1APktN"
-        }
-      ],
-      "duration_ms": 219418,
-      "name": "Perfect Duet",
-      "url": "https://open.spotify.com/track/48nX2Gq9giUd0yVZZZSsga"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Can't Stop Me Now (Gregatron Remix)",
         "url": "https://open.spotify.com/album/3K2wuCt4XibD9h49gkbKPn"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 142588,
       "name": "Can't Stop Me Now - Gregatron Remix",
       "url": "https://open.spotify.com/track/3UMrk48HddibQGSFS9Q6T8"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Perfect Duet",
+        "url": "https://open.spotify.com/album/64AXj367n2UZH9EnM6UrFZ"
+      },
+      "artists": [
+        {
+          "name": "LZ7",
+          "url": "https://open.spotify.com/artist/0OaQ5i3Ufxi4Vx5mWUNgWW"
+        },
+        {
+          "name": "Gracie",
+          "url": "https://open.spotify.com/artist/0YZgJBUlSIb92q7X1APktN"
+        }
+      ],
+      "duration_ms": 219418,
+      "name": "Perfect Duet",
+      "url": "https://open.spotify.com/track/48nX2Gq9giUd0yVZZZSsga"
     },
     {
       "added_at": "2026-08-18 23:12:48",

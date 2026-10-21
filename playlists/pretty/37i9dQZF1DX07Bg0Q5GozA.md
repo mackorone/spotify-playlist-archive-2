@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Justice
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,087 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,062 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [We Not Tired](https://open.spotify.com/track/76eRWUypaYjpJMhpHNtJJH) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [We Not Tired](https://open.spotify.com/album/3DsheIzz2QBqCBs1pftrvG) | 2:52 |
 | 75 | [Can't Stop Dancing](https://open.spotify.com/track/3f3I1lW7vSBGqptWE6zxT5) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni), [Zoot Woman](https://open.spotify.com/artist/25w2vpqq7dYleBAqMx7Ijx) | [Can't Stop Dancing](https://open.spotify.com/album/6543j6SP0na8iXENm48ZLO) | 3:50 |
 
-Snapshot ID: `AAAAAFp9ML2i4X4rLeL72DAH0ziFN4mg`
+Snapshot ID: `AAAAAJMN2QytYRSr3H3m3DBYbzs94SI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,379 likes - 48 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,412 likes - 48 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 21 | [Amiga Mia](https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl) | [Formell y los Van Van](https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4) | [Legado](https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP) | 6:20 |
 | 22 | [El Negro Esta Cocinando](https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Llego..\. Van Van](https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW) | 5:28 |
 | 23 | [Tus Luces Sobre Mi](https://open.spotify.com/track/7AdPaRTnk63nx1E8J6XMr6) | [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl) | [Bueno](https://open.spotify.com/album/3TdBztL3zrCPNaAHP7WKDg) | 4:08 |
-| 24 | [Abreme la puerta](https://open.spotify.com/track/4ZgjTLfyE1APbEH0njzRpo) | [Calle Real](https://open.spotify.com/artist/2e6cE2efCe83qgcAd8mlWU) | [Me Lo Gané](https://open.spotify.com/album/2jCnW88GKL1Bs5yhklRemb) | 6:34 |
-| 25 | [La Gozadera](https://open.spotify.com/track/47lSbhOlKE8fJJ2jc6HqRQ) | [Yoruba Andabo](https://open.spotify.com/artist/3oh2Q089hI70VBBGnIz76m) | [El Espíritu de la Rumba](https://open.spotify.com/album/2ZOZ2ndaVgnlu9Fh2Wjajc) | 6:47 |
+| 24 | [La Gozadera](https://open.spotify.com/track/47lSbhOlKE8fJJ2jc6HqRQ) | [Yoruba Andabo](https://open.spotify.com/artist/3oh2Q089hI70VBBGnIz76m) | [El Espíritu de la Rumba](https://open.spotify.com/album/2ZOZ2ndaVgnlu9Fh2Wjajc) | 6:47 |
+| 25 | [Abreme la puerta](https://open.spotify.com/track/4ZgjTLfyE1APbEH0njzRpo) | [Calle Real](https://open.spotify.com/artist/2e6cE2efCe83qgcAd8mlWU) | [Me Lo Gané](https://open.spotify.com/album/2jCnW88GKL1Bs5yhklRemb) | 6:34 |
 | 26 | [Al Paso](https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam) | [Formell y los Van Van](https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4) | [Legado](https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP) | 5:13 |
 | 27 | [Esto te pone la cabeza mala](https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Te pone la cabeza mala](https://open.spotify.com/album/0LgAYapMJemRXAD75pVs3v) | 4:08 |
 | 28 | [Agua Pa'yemayá](https://open.spotify.com/track/5IAyGQsiGj4AkCIjetvVsu) | [Elito Revé y su Charangón](https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z) | [¿De Qué Estamos Hablando?](https://open.spotify.com/album/1rxujYMjuCYbaiU3AWFNQy) | 5:23 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [Soy la Mujer Que Quiero Ser](https://open.spotify.com/track/2jufa5OBjDgsJC9LekL7tJ) | [Formell](https://open.spotify.com/artist/0ENlBC7kpeEJt2WZbcZvP5), [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [La Fantasía \- Homenaje a Juan Formell](https://open.spotify.com/album/1dkaWick14ebmlps2pGNmx) | 3:49 |
 | 48 | [Disco Azúcar](https://open.spotify.com/track/7uQOfh1O1a6IA8g4VWFrd8) | [Juan Formell y Los Van Van](https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy) | [Grandes Exitos, Juan Formell Y Los Van Van](https://open.spotify.com/album/4AWlWv6nqxy33XFDBv0aUo) | 5:24 |
 
-Snapshot ID: `AAAAAE1hwuYB8g4VfyFs30Ca85xdJ8AC`
+Snapshot ID: `AAAAAAkC3rJDwvGBMZMnpEDvNN07OTw6`

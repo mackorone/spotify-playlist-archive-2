@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> to the rhythm and move your feet!",
-  "num_followers": 9243282,
+  "num_followers": 9243119,
   "original_name": "Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAdnzMrU1H7+IsqLOloF3LvlsSfd",
+  "snapshot_id": "AAAAAJasrY9aB3F9bX3Z77WyXj0eaIMX",
   "tracks": [
     {
       "added_at": "2026-10-16 04:00:41",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-10-16 04:00:41",
       "album": {
-        "name": "It's That Time (FISHER Remix)",
-        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 171717,
-      "name": "It's That Time - FISHER Remix",
-      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
-    },
-    {
-      "added_at": "2026-10-16 04:00:41",
-      "album": {
         "name": "Fancy Footwork",
         "url": "https://open.spotify.com/album/1alVbRjUS3mG2Uk2D6iflR"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 192195,
       "name": "Fancy Footwork",
       "url": "https://open.spotify.com/track/0BK6ACxpzK8nkWa3YKuunX"
+    },
+    {
+      "added_at": "2026-10-16 04:00:41",
+      "album": {
+        "name": "It's That Time (FISHER Remix)",
+        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 171717,
+      "name": "It's That Time - FISHER Remix",
+      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
     },
     {
       "added_at": "2026-10-16 04:00:41",
@@ -943,6 +943,26 @@
     {
       "added_at": "2026-10-16 04:00:41",
       "album": {
+        "name": "In This Bih'",
+        "url": "https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 210923,
+      "name": "In This Bih'",
+      "url": "https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj"
+    },
+    {
+      "added_at": "2026-10-16 04:00:41",
+      "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 144562,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
-    },
-    {
-      "added_at": "2026-10-16 04:00:41",
-      "album": {
-        "name": "In This Bih'",
-        "url": "https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 210923,
-      "name": "In This Bih'",
-      "url": "https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj"
     },
     {
       "added_at": "2026-10-16 04:00:41",
@@ -1239,6 +1239,30 @@
     {
       "added_at": "2026-10-16 04:00:41",
       "album": {
+        "name": "Think of You",
+        "url": "https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Rohan Pinnock-Hamilton",
+          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
+        }
+      ],
+      "duration_ms": 204884,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui"
+    },
+    {
+      "added_at": "2026-10-16 04:00:41",
+      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
       },
@@ -1275,22 +1299,6 @@
     {
       "added_at": "2026-10-16 04:00:41",
       "album": {
-        "name": "Body Talk Pt. 1",
-        "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 285973,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
-    },
-    {
-      "added_at": "2026-10-16 04:00:41",
-      "album": {
         "name": "REHAB",
         "url": "https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas"
       },
@@ -1303,6 +1311,22 @@
       "duration_ms": 195003,
       "name": "REHAB",
       "url": "https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz"
+    },
+    {
+      "added_at": "2026-10-16 04:00:41",
+      "album": {
+        "name": "Body Talk Pt. 1",
+        "url": "https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 285973,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y"
     },
     {
       "added_at": "2026-10-16 04:00:41",
@@ -1383,30 +1407,6 @@
       "duration_ms": 136580,
       "name": "These Words",
       "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
-    },
-    {
-      "added_at": "2026-10-16 04:00:41",
-      "album": {
-        "name": "Think of You",
-        "url": "https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk"
-      },
-      "artists": [
-        {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        },
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Rohan Pinnock-Hamilton",
-          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
-        }
-      ],
-      "duration_ms": 204884,
-      "name": "Think of You",
-      "url": "https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui"
     },
     {
       "added_at": "2026-10-16 04:00:41",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2026-10-16 04:00:41",
       "album": {
+        "name": "neck",
+        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 220465,
+      "name": "neck",
+      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
+    },
+    {
+      "added_at": "2026-10-16 04:00:41",
+      "album": {
         "name": "PYHU (Put Your Hands Up)",
         "url": "https://open.spotify.com/album/6QHnkcW4h53aBl41i1rAxj"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 130731,
       "name": "PYHU (Put Your Hands Up)",
       "url": "https://open.spotify.com/track/0zKsNJbYwvNTpePcwra0Qq"
-    },
-    {
-      "added_at": "2026-10-16 04:00:41",
-      "album": {
-        "name": "neck",
-        "url": "https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 220465,
-      "name": "neck",
-      "url": "https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy"
     },
     {
       "added_at": "2026-10-16 04:00:41",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2026-10-16 04:00:41",
       "album": {
-        "name": "Appetite",
-        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 227272,
-      "name": "Appetite",
-      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
-    },
-    {
-      "added_at": "2026-10-16 04:00:41",
-      "album": {
         "name": "girl$",
         "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 209552,
       "name": "girl$",
       "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "added_at": "2026-10-16 04:00:41",
+      "album": {
+        "name": "Appetite",
+        "url": "https://open.spotify.com/album/2AJlggZjfH2vz79q6bSplo"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 227272,
+      "name": "Appetite",
+      "url": "https://open.spotify.com/track/6zldvnVMC25b4uliSKO9Lz"
     },
     {
       "added_at": "2026-10-16 04:00:41",
@@ -1943,6 +1943,26 @@
       "duration_ms": 180340,
       "name": "ALL THE TIME",
       "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
+    },
+    {
+      "added_at": "2026-10-16 04:00:41",
+      "album": {
+        "name": "H.O.U.S.E",
+        "url": "https://open.spotify.com/album/4q7mI2Qh8J13e1IWkXCXdA"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 151406,
+      "name": "H.O.U.S.E",
+      "url": "https://open.spotify.com/track/1BTZKp1hBSeApqQh1ngqpZ"
     },
     {
       "added_at": "2026-10-16 04:00:41",
@@ -1987,26 +2007,6 @@
     {
       "added_at": "2026-10-16 04:00:41",
       "album": {
-        "name": "COOK",
-        "url": "https://open.spotify.com/album/1mgSGruu0KTcdCW9eY3ikP"
-      },
-      "artists": [
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 170243,
-      "name": "COOK",
-      "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
-    },
-    {
-      "added_at": "2026-10-16 04:00:41",
-      "album": {
         "name": "Murder On The Dancefloor (PNAU Remix)",
         "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
       },
@@ -2023,6 +2023,26 @@
       "duration_ms": 260006,
       "name": "Murder On The Dancefloor - PNAU Remix",
       "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
+    },
+    {
+      "added_at": "2026-10-16 04:00:41",
+      "album": {
+        "name": "COOK",
+        "url": "https://open.spotify.com/album/1mgSGruu0KTcdCW9eY3ikP"
+      },
+      "artists": [
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 170243,
+      "name": "COOK",
+      "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
     },
     {
       "added_at": "2026-10-16 04:00:41",
@@ -2095,6 +2115,22 @@
     {
       "added_at": "2026-10-16 04:00:41",
       "album": {
+        "name": "Got To Do",
+        "url": "https://open.spotify.com/album/20TS1WaOBsMkzH0zdOeevB"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 169323,
+      "name": "Got To Do",
+      "url": "https://open.spotify.com/track/3JGVhjbPvMdxKqDE7NDJEK"
+    },
+    {
+      "added_at": "2026-10-16 04:00:41",
+      "album": {
         "name": "BREAD",
         "url": "https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex"
       },
@@ -2115,26 +2151,6 @@
     {
       "added_at": "2026-10-16 04:00:41",
       "album": {
-        "name": "H.O.U.S.E",
-        "url": "https://open.spotify.com/album/4q7mI2Qh8J13e1IWkXCXdA"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 151406,
-      "name": "H.O.U.S.E",
-      "url": "https://open.spotify.com/track/1BTZKp1hBSeApqQh1ngqpZ"
-    },
-    {
-      "added_at": "2026-10-16 04:00:41",
-      "album": {
         "name": "Versatile",
         "url": "https://open.spotify.com/album/3ktHqT8RfFWsosodNUfvB0"
       },
@@ -2147,22 +2163,6 @@
       "duration_ms": 194198,
       "name": "Versatile",
       "url": "https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0"
-    },
-    {
-      "added_at": "2026-10-16 04:00:41",
-      "album": {
-        "name": "Got To Do",
-        "url": "https://open.spotify.com/album/20TS1WaOBsMkzH0zdOeevB"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 169323,
-      "name": "Got To Do",
-      "url": "https://open.spotify.com/track/3JGVhjbPvMdxKqDE7NDJEK"
     },
     {
       "added_at": "2026-10-16 04:00:41",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2026-10-16 04:00:41",
       "album": {
+        "name": "TESLA",
+        "url": "https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 186818,
+      "name": "TESLA",
+      "url": "https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL"
+    },
+    {
+      "added_at": "2026-10-16 04:00:41",
+      "album": {
         "name": "Dreamin (feat. Daya)",
         "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
       },
@@ -2351,22 +2367,6 @@
       "duration_ms": 171526,
       "name": "Dreamin (feat. Daya)",
       "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
-    },
-    {
-      "added_at": "2026-10-16 04:00:41",
-      "album": {
-        "name": "TESLA",
-        "url": "https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "TESLA",
-      "url": "https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL"
     },
     {
       "added_at": "2026-10-16 04:00:41",
@@ -2443,6 +2443,22 @@
     {
       "added_at": "2026-10-16 04:00:41",
       "album": {
+        "name": "I Know You Want To",
+        "url": "https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "I Know You Want To",
+      "url": "https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS"
+    },
+    {
+      "added_at": "2026-10-16 04:00:41",
+      "album": {
         "name": "No Room For A Saint (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/1TQcKdaaFQjqQMoMJvZb8M"
       },
@@ -2463,22 +2479,6 @@
       "duration_ms": 236128,
       "name": "No Room For A Saint (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/5xalbHoIf0F0AmuTKlm2Ct"
-    },
-    {
-      "added_at": "2026-10-16 04:00:41",
-      "album": {
-        "name": "I Know You Want To",
-        "url": "https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 193488,
-      "name": "I Know You Want To",
-      "url": "https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS"
     },
     {
       "added_at": "2026-10-16 04:00:41",
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2026-10-16 04:00:41",
       "album": {
-        "name": "Ain't It Fun",
-        "url": "https://open.spotify.com/album/1WiYYB5t8yOEFvoD0YZdbg"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 184302,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/1wVU8sMkX489OGwVRm2LIy"
-    },
-    {
-      "added_at": "2026-10-16 04:00:41",
-      "album": {
         "name": "Cola (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/3iLdjCAbObHpiYqZCvdByJ"
       },
@@ -2563,6 +2547,22 @@
       "duration_ms": 188160,
       "name": "Cola - ARTBAT Remix",
       "url": "https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8"
+    },
+    {
+      "added_at": "2026-10-16 04:00:41",
+      "album": {
+        "name": "Ain't It Fun",
+        "url": "https://open.spotify.com/album/1WiYYB5t8yOEFvoD0YZdbg"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 184302,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/1wVU8sMkX489OGwVRm2LIy"
     },
     {
       "added_at": "2026-10-16 04:00:41",
@@ -3003,6 +3003,22 @@
     {
       "added_at": "2026-10-16 04:00:41",
       "album": {
+        "name": "Wavey",
+        "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 143379,
+      "name": "Wavey",
+      "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
+    },
+    {
+      "added_at": "2026-10-16 04:00:41",
+      "album": {
         "name": "Party Time (feat. Aatig)",
         "url": "https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl"
       },
@@ -3023,22 +3039,6 @@
       "duration_ms": 199072,
       "name": "Party Time (feat. Aatig)",
       "url": "https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW"
-    },
-    {
-      "added_at": "2026-10-16 04:00:41",
-      "album": {
-        "name": "Wavey",
-        "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 143379,
-      "name": "Wavey",
-      "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
     },
     {
       "added_at": "2026-10-16 04:00:41",

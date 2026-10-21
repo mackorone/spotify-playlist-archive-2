@@ -594,7 +594,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 295850,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/6ubVGK4Dvg60vwuLsI2925"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2026-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 177500,
       "name": "bloodstream (Official Music Video)",
       "url": "https://open.spotify.com/track/3bssyIRidCzKTV6yvZymSo"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 196788,
       "name": "Coast 2 Coast",
       "url": "https://open.spotify.com/track/07gQQzhCuZxwHVQddKCmtD"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 199324,
       "name": "E A\u00ed Tempo",
       "url": "https://open.spotify.com/track/5iVvBRhx0gHgAVRk2eAQaK"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 157205,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/5yRYvaNlNqACRtwbh2ISit"
@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 293376,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/5x2kR0EpPMXF2C8EnPR7kU"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 255978,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/45rR6DD2pBxDcWmMARbrjm"
@@ -2280,6 +2280,24 @@
       "duration_ms": 236341,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/0OSxldm1PQetNTPpYDRLIe"
+    },
+    {
+      "album": {
+        "name": "Japan",
+        "url": "https://open.spotify.com/album/7JD0snU9R7FasiIAshqBhU"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216362,
+      "name": "Japan",
+      "url": "https://open.spotify.com/track/6jncXTsGtJadNJ0Gr87uz2"
     },
     {
       "album": {
@@ -2976,7 +2994,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 187583,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/6KizolNUQTu8P0wLIhA6GC"
@@ -3874,7 +3892,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-08",
+      "date_removed": null,
       "duration_ms": 186773,
       "name": "SaWaDiKa",
       "url": "https://open.spotify.com/track/6mqa7AXnaRd2q77yGmRHE9"
@@ -4366,7 +4384,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 236766,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/5L9ppEm4Bq9fkrrAQ5c1Ib"
@@ -4456,7 +4474,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 238162,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/6g8bTcPOpvBK2LXbF0Q0s6"
@@ -4510,7 +4528,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 821888,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/2PjOCtFhCh6rIotqFnuXWt"
@@ -4582,7 +4600,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 138521,
       "name": "Touch",
       "url": "https://open.spotify.com/track/15dlnZCOoJgNh6C2kIe3z4"

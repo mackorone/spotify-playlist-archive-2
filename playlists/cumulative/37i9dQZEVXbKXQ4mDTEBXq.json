@@ -5758,12 +5758,12 @@
       },
       "artists": [
         {
-          "name": "A2O",
-          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
-        },
-        {
           "name": "A2O LITE",
           "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
         }
       ],
       "date_added": "2026-10-17",
@@ -8449,6 +8449,24 @@
     },
     {
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/7fuPzEGiLwEjGAzd7JzUze"
+      },
+      "artists": [
+        {
+          "name": "MAZZEL",
+          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/27zRRREQi2sYd5VsDUcFhF"
+    },
+    {
+      "album": {
         "name": "PRODUCE 101 JAPAN THE GIRLS",
         "url": "https://open.spotify.com/album/6GuOuQEgcOAyfNHCDtSRAk"
       },
@@ -10514,7 +10532,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 254440,
       "name": "\u30aa\u30fc\u30eb\u30c9\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/0Xn30nT5EKFPsWvpiJ2Iav"

@@ -1,12 +1,12 @@
 {
   "description": "\u72ec\u81ea\u306e\u9032\u5316\u3092\u9042\u3052\u308b\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u6587\u5316\u3002\u300c\u30ad\u30e9\u30ad\u30e9\u30dd\u30c3\u30d7\u300d\u306a\u30ca\u30f3\u30d0\u30fc\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Curated by \u3075\u304f\u308a\u3085\u3046\uff08\u97f3\u697d\u30b3\u30f3\u30b7\u30a7\u30eb\u30b8\u30e5\uff09Cover: \u539f\u56e0\u306f\u81ea\u5206\u306b\u3042\u308b\u3002",
-  "num_followers": 79756,
+  "num_followers": 79774,
   "original_name": "\u30ad\u30e9\u30ad\u30e9\u30dd\u30c3\u30d7\uff1a\u30b8\u30e3\u30d1\u30f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKS5G9gxhkI+JDXWBaA7GKnL7mfy",
+  "snapshot_id": "AAAAAHcW+n96qVaXHPHj49AQWsomAgVf",
   "tracks": [
     {
       "added_at": "2026-10-19 23:16:23",
@@ -283,6 +283,22 @@
       "duration_ms": 165400,
       "name": "\u611b\u30ab\u30ed\u53a8",
       "url": "https://open.spotify.com/track/1j3l8vMTlzpRfLssogjawP"
+    },
+    {
+      "added_at": "2026-10-20 11:10:20",
+      "album": {
+        "name": "Night Trip",
+        "url": "https://open.spotify.com/album/4d31rG0CKVZykLUOslDh9a"
+      },
+      "artists": [
+        {
+          "name": "\u306a\u306a\u3048",
+          "url": "https://open.spotify.com/artist/0btiNWNHhgJQ27R0OAwkMA"
+        }
+      ],
+      "duration_ms": 203414,
+      "name": "Night Trip",
+      "url": "https://open.spotify.com/track/0Orq6LwejPT5nWy9jU76mE"
     },
     {
       "added_at": "2026-10-19 23:16:23",
@@ -1367,22 +1383,6 @@
       "duration_ms": 200146,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/2z0goUVk210jg65BVM5aBr"
-    },
-    {
-      "added_at": "2026-10-19 23:16:23",
-      "album": {
-        "name": "Golden Moonlight",
-        "url": "https://open.spotify.com/album/1dQYy1AiKmMjsxlkdqPSjz"
-      },
-      "artists": [
-        {
-          "name": "\u70cf\u514e -uto-",
-          "url": "https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "Golden Moonlight",
-      "url": "https://open.spotify.com/track/76ZEKR8cfWK14ytTbe8R6D"
     }
   ],
   "unique_name": "\u30ad\u30e9\u30ad\u30e9\u30dd\u30c3\u30d7\uff1a\u30b8\u30e3\u30d1\u30f3",

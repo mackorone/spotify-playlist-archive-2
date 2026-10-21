@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 153780,
+  "num_followers": 153806,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG9JFoS26I4Uzn2zQWVM4XSeeLtu",
+  "snapshot_id": "AAAAAKIQ4f0MDaQAVrVF5xCUjdaeTTHf",
   "tracks": [
     {
       "added_at": "2024-07-10 08:16:23",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "Rip It Up",
+        "url": "https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F"
+      },
+      "artists": [
+        {
+          "name": "Orange Juice",
+          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+        }
+      ],
+      "duration_ms": 320413,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "At Night (Remixes)",
         "url": "https://open.spotify.com/album/4F5OnBWfJa7YfjRZ86bZc8"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 431281,
       "name": "At Night - Peggy Gou's Acid Journey Remix",
       "url": "https://open.spotify.com/track/2S07r08uP4VjkbEkHgt3ot"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Rip It Up",
-        "url": "https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F"
-      },
-      "artists": [
-        {
-          "name": "Orange Juice",
-          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
-        }
-      ],
-      "duration_ms": 320413,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN"
     },
     {
       "added_at": "2024-07-10 08:16:23",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "The Fat Of The Land",
-        "url": "https://open.spotify.com/album/1NNFxBa0nbBCSDItQhUuTc"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 342733,
-      "name": "Smack My Bitch Up",
-      "url": "https://open.spotify.com/track/3Ed5J0DKfPFEXZmv7zVgBa"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "Jack to the Sound",
         "url": "https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 272419,
       "name": "Acid Thunder",
       "url": "https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "The Fat Of The Land",
+        "url": "https://open.spotify.com/album/1NNFxBa0nbBCSDItQhUuTc"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 342733,
+      "name": "Smack My Bitch Up",
+      "url": "https://open.spotify.com/track/3Ed5J0DKfPFEXZmv7zVgBa"
     },
     {
       "added_at": "2024-07-10 08:16:23",

@@ -5017,6 +5017,28 @@
     },
     {
       "album": {
+        "name": "Boogeyman",
+        "url": "https://open.spotify.com/album/4jGDKEQpWHMznZhSe2hQs6"
+      },
+      "artists": [
+        {
+          "name": "Even Odds",
+          "url": "https://open.spotify.com/artist/560fxdKdguSM5LyTRzGBKy"
+        },
+        {
+          "name": "Cas Jade",
+          "url": "https://open.spotify.com/artist/4a9g5TDEEAerUOn5VZQ5kf"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256321,
+      "name": "Boogeyman",
+      "url": "https://open.spotify.com/track/0JuL10tjoBIUJrpzqQZOdp"
+    },
+    {
+      "album": {
         "name": "Acid Viking",
         "url": "https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz"
       },
@@ -11443,6 +11465,24 @@
     },
     {
       "album": {
+        "name": "Downhill Slide",
+        "url": "https://open.spotify.com/album/4Zx60nhE7MaQST2yaInGY6"
+      },
+      "artists": [
+        {
+          "name": "Realigned",
+          "url": "https://open.spotify.com/artist/6NrC1SyXCw1sdz4t5TJSiC"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187888,
+      "name": "Downhill Slide",
+      "url": "https://open.spotify.com/track/52ectNlcsqX9cdnrJlVNkh"
+    },
+    {
+      "album": {
         "name": "Issue #1 Dec 2025: Paid in Caps",
         "url": "https://open.spotify.com/album/14jFvrOmBhRf7L9D4qN3uU"
       },
@@ -16345,6 +16385,24 @@
     },
     {
       "album": {
+        "name": "Gotta Run",
+        "url": "https://open.spotify.com/album/5XENy5Tn7T3ZO5WAOkHEj3"
+      },
+      "artists": [
+        {
+          "name": "SMILE",
+          "url": "https://open.spotify.com/artist/6OY6Dxy4fEtfwYJxPdoQC8"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207755,
+      "name": "Gotta Run",
+      "url": "https://open.spotify.com/track/7sqXiIwXi9rXOo0RFQBV5i"
+    },
+    {
+      "album": {
         "name": "Funeral For A Fish",
         "url": "https://open.spotify.com/album/2JvlFaUSNfF93YHU59xYq3"
       },
@@ -16594,7 +16652,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 214588,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/0SFYFAAkzjKXYhi0EjPn4g"
@@ -21413,6 +21471,24 @@
     },
     {
       "album": {
+        "name": "Kill the Machines",
+        "url": "https://open.spotify.com/album/4ajqvSaOmAt5OyBpeEFPSX"
+      },
+      "artists": [
+        {
+          "name": "James Kennedy and The Underdogs",
+          "url": "https://open.spotify.com/artist/6Cz7SfBAwZaCLN54GAMXX3"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192154,
+      "name": "Kill the Machines",
+      "url": "https://open.spotify.com/track/0b8bEkKczQ6axVUwjLlWVJ"
+    },
+    {
+      "album": {
         "name": "Kill the Messenger",
         "url": "https://open.spotify.com/album/2DBv3VFvYTi24KcUU6cNmy"
       },
@@ -22296,6 +22372,24 @@
       "duration_ms": 217411,
       "name": "Liability",
       "url": "https://open.spotify.com/track/0cKEwMjEQSzvi0YWvlCDiS"
+    },
+    {
+      "album": {
+        "name": "LIAR",
+        "url": "https://open.spotify.com/album/4upPD4z0JOuBWdqcM4VmrF"
+      },
+      "artists": [
+        {
+          "name": "Gaslighting",
+          "url": "https://open.spotify.com/artist/3tjl8a5OH8xOxTmdqm77wy"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "LIAR",
+      "url": "https://open.spotify.com/track/3WI8Q5gwGGvtDj1U0tok0b"
     },
     {
       "album": {
@@ -24085,6 +24179,24 @@
     },
     {
       "album": {
+        "name": "MALICE",
+        "url": "https://open.spotify.com/album/72UwmRPtRQGPiJIRJsWNzK"
+      },
+      "artists": [
+        {
+          "name": "Cataleya Meadows",
+          "url": "https://open.spotify.com/artist/6iihX6Hqa5ikPAzhF1fBhs"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173590,
+      "name": "MALICE",
+      "url": "https://open.spotify.com/track/7tjRu3UNxp7p427qc8tnch"
+    },
+    {
+      "album": {
         "name": "Malinche",
         "url": "https://open.spotify.com/album/0aE6HtHJNuXefdnYKtsG4l"
       },
@@ -24858,6 +24970,24 @@
       "duration_ms": 147509,
       "name": "Messi I Love You",
       "url": "https://open.spotify.com/track/19GDhoy8WMIvwkLpENcf2F"
+    },
+    {
+      "album": {
+        "name": "Metal Egg",
+        "url": "https://open.spotify.com/album/3BEywgDoYnUoXvBo9FtigK"
+      },
+      "artists": [
+        {
+          "name": "Edens",
+          "url": "https://open.spotify.com/artist/0cfmKdB2Nv7vxxOfpPWZQ3"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214733,
+      "name": "Metal Egg",
+      "url": "https://open.spotify.com/track/7K6QNuLpHI7JQeLFFE1cko"
     },
     {
       "album": {
@@ -26198,7 +26328,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 281081,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/0gkH4bLRGWq2xTWCeQ786o"
@@ -28263,6 +28393,24 @@
     },
     {
       "album": {
+        "name": "Lightning and the Bee",
+        "url": "https://open.spotify.com/album/6HltW3qUTLlCYy8AmoWhpX"
+      },
+      "artists": [
+        {
+          "name": "One Frequency United",
+          "url": "https://open.spotify.com/artist/45cDgP6Dux0TQjnosB1NdL"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156291,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/4oNdcKZFwIQ54GDHSym583"
+    },
+    {
+      "album": {
         "name": "ONE NIGHT",
         "url": "https://open.spotify.com/album/3wP8WoILgAwCDSimx0DoHn"
       },
@@ -29991,6 +30139,24 @@
     },
     {
       "album": {
+        "name": "piss-take",
+        "url": "https://open.spotify.com/album/46aKVhVohddmzLpkr6ae78"
+      },
+      "artists": [
+        {
+          "name": "Black Nines",
+          "url": "https://open.spotify.com/artist/14DfBFLs0WauaNHPU1Gv3c"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130024,
+      "name": "piss-take",
+      "url": "https://open.spotify.com/track/0AhLRW5YkbeQo2TBX8c7pc"
+    },
+    {
+      "album": {
         "name": "Pity Party",
         "url": "https://open.spotify.com/album/1tbYtpymGLGlViPQsgwRbt"
       },
@@ -30886,6 +31052,24 @@
       "duration_ms": 153102,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/3yeOxEljgsCVWMZmhD2lxg"
+    },
+    {
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/4Nr3sC0ecjASjHw4xYIEI2"
+      },
+      "artists": [
+        {
+          "name": "Resurrection Men",
+          "url": "https://open.spotify.com/artist/1Xx1afzdyRehp3JJWJ02MO"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228072,
+      "name": "Punisher",
+      "url": "https://open.spotify.com/track/4xzzDUqHXrsgUyV18LySc8"
     },
     {
       "album": {
@@ -32631,6 +32815,24 @@
     },
     {
       "album": {
+        "name": "Magacadabra",
+        "url": "https://open.spotify.com/album/3QmSDGjb8MVPnCw2pgkJ2p"
+      },
+      "artists": [
+        {
+          "name": "Magacadabra",
+          "url": "https://open.spotify.com/artist/2jSMVZ9eXDVIHDtk3ulfxs"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Running After Your Own Shadow",
+      "url": "https://open.spotify.com/track/3XXg2pZitSaebsPftNl1kp"
+    },
+    {
+      "album": {
         "name": "Insert Coin (Player Two)",
         "url": "https://open.spotify.com/album/2Aoc8JePOX9yNc3nHtjldr"
       },
@@ -32848,6 +33050,24 @@
       "duration_ms": 214000,
       "name": "Same Face",
       "url": "https://open.spotify.com/track/12yvoqDM0AlUmdR0HY9QCp"
+    },
+    {
+      "album": {
+        "name": "Same Old Round",
+        "url": "https://open.spotify.com/album/5D8u32NmdHA6cPim5jn4zY"
+      },
+      "artists": [
+        {
+          "name": "Jet Lag Fuel",
+          "url": "https://open.spotify.com/artist/0oEzKOGMmSmYnqTynjjbXR"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "Same Old Round",
+      "url": "https://open.spotify.com/track/2ruov7EC34a6INxGd8neeJ"
     },
     {
       "album": {
@@ -37039,6 +37259,24 @@
     },
     {
       "album": {
+        "name": "Straitjacket Runaway",
+        "url": "https://open.spotify.com/album/381wfVDGge5meDLifVLZLX"
+      },
+      "artists": [
+        {
+          "name": "Circus Nerves",
+          "url": "https://open.spotify.com/artist/0DcUB0yCRCW7ZcxoYO2QQW"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222896,
+      "name": "Straitjacket Runaway",
+      "url": "https://open.spotify.com/track/50ITvByrLfsjGspXWjd3mT"
+    },
+    {
+      "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/1SEFpmr6CmYvQWXHDTMFa6"
       },
@@ -38879,6 +39117,24 @@
     },
     {
       "album": {
+        "name": "The Best I Ever Had",
+        "url": "https://open.spotify.com/album/1DoLpPzVKAP1rouoBVrgYU"
+      },
+      "artists": [
+        {
+          "name": "No Friends Left",
+          "url": "https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245647,
+      "name": "The Best I Ever Had",
+      "url": "https://open.spotify.com/track/4kN0Ubypez9j3PwRsigim4"
+    },
+    {
+      "album": {
         "name": "The Best I've Never Had (Suburban Sessions)",
         "url": "https://open.spotify.com/album/4ClAuETBbcMAnnKQlpN1zD"
       },
@@ -40379,6 +40635,24 @@
     },
     {
       "album": {
+        "name": "The Shameless Swoon",
+        "url": "https://open.spotify.com/album/6FPKxqJ9CI6gv01jLdHWLh"
+      },
+      "artists": [
+        {
+          "name": "Nobody's Uncle",
+          "url": "https://open.spotify.com/artist/2tEawHJ063ZTn0ZbLEFf6C"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175058,
+      "name": "The Shameless Swoon",
+      "url": "https://open.spotify.com/track/5Zao4kFQ53N1gOgOv1tz3v"
+    },
+    {
+      "album": {
         "name": "Don't Trust Anyone Over 21",
         "url": "https://open.spotify.com/album/7yIX3meztExaI6ViFxAxg5"
       },
@@ -40902,6 +41176,24 @@
       "duration_ms": 130259,
       "name": "They Take You to War",
       "url": "https://open.spotify.com/track/65YU94syhlnLdfXptbGpuj"
+    },
+    {
+      "album": {
+        "name": "THEY'RE ALL GONNA LAUGH",
+        "url": "https://open.spotify.com/album/1xYJnEaR5KjWKNMpkEYOFT"
+      },
+      "artists": [
+        {
+          "name": "MISTO",
+          "url": "https://open.spotify.com/artist/3PRrX7JA7v9mGcnjK0iQnc"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "THEY'RE ALL GONNA LAUGH",
+      "url": "https://open.spotify.com/track/1QvwrZbR39tsNXfNghxRnN"
     },
     {
       "album": {

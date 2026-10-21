@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: Calva Louise
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,673 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,714 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 49 | [Ritual](https://open.spotify.com/track/0aNXzn9u2RjgyZMMk8VswE) | [Our Common Collapse](https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb) | [Ritual](https://open.spotify.com/album/2oPiyr0ALQq60yMc1ya498) | 3:57 |
 | 50 | [Bound and Strangled by a Black Snake](https://open.spotify.com/track/7bEpD7rGbV6xPVhvGQTNoy) | [Perpetual Paradox](https://open.spotify.com/artist/3vlyYDsqLobvIrmuaQjNWh) | [May Misery Befall You](https://open.spotify.com/album/4XCmynZVytsWhadbA3oGrq) | 4:35 |
 
-Snapshot ID: `AAAAABGTu5661BG6oWnVbJ1zxSy50aaI`
+Snapshot ID: `AAAAACx1TcRbIaXF4wz28+jokrE8XeMJ`

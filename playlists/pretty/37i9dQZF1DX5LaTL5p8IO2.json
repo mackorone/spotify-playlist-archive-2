@@ -1,12 +1,12 @@
 {
   "description": "Anime songs for a good-vibes drive. \u30a2\u30cb\u30bd\u30f3\u3067\u3054\u304d\u3052\u3093\u306a\u30c9\u30e9\u30a4\u30d6\u30bf\u30a4\u30e0\u3092\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 2,
+  "num_followers": 11,
   "original_name": "Anime Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADJVojJf5qCI55hYa5wSSV9nladL",
+  "snapshot_id": "AAAAABCmvWTrfwfQnjTlhSfdzp4ka75V",
   "tracks": [
     {
       "added_at": "2026-10-19 15:00:35",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-10-19 15:00:35",
       "album": {
-        "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
-      "url": "https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO"
-    },
-    {
-      "added_at": "2026-10-19 15:00:35",
-      "album": {
         "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
         "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 199333,
       "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
       "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
+    },
+    {
+      "added_at": "2026-10-19 15:00:35",
+      "album": {
+        "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 288200,
+      "name": "\u30e9\u30a4\u30e9\u30c3\u30af",
+      "url": "https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO"
     },
     {
       "added_at": "2026-10-19 15:00:35",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-10-19 15:00:35",
       "album": {
-        "name": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce",
-        "url": "https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce",
-      "url": "https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT"
-    },
-    {
-      "added_at": "2026-10-19 15:00:35",
-      "album": {
         "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
         "url": "https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 243026,
       "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
       "url": "https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy"
+    },
+    {
+      "added_at": "2026-10-19 15:00:35",
+      "album": {
+        "name": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce",
+        "url": "https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "\u30a4\u30f3\u30d5\u30a7\u30eb\u30ce",
+      "url": "https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT"
     },
     {
       "added_at": "2026-10-19 15:00:35",
@@ -967,6 +967,38 @@
     {
       "added_at": "2026-10-19 15:00:35",
       "album": {
+        "name": "\u30aa\u30ce\u30ac\u30df",
+        "url": "https://open.spotify.com/album/7lUN85inPYtrXRud9OjYNR"
+      },
+      "artists": [
+        {
+          "name": "\u30e1\u30ac\u30c6\u30e9\u30fb\u30bc\u30ed",
+          "url": "https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B"
+        }
+      ],
+      "duration_ms": 230875,
+      "name": "\u30aa\u30ce\u30ac\u30df",
+      "url": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe"
+    },
+    {
+      "added_at": "2026-10-19 15:00:35",
+      "album": {
+        "name": "\u6d88\u3048\u306a\u3044\u7406\u7531",
+        "url": "https://open.spotify.com/album/69GUXMqIsG12AEYIg5Uy7R"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 249243,
+      "name": "\u6d88\u3048\u306a\u3044\u7406\u7531",
+      "url": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx"
+    },
+    {
+      "added_at": "2026-10-19 15:00:35",
+      "album": {
         "name": "Nannmonee",
         "url": "https://open.spotify.com/album/1VgCfL80E3Guto10xfO83R"
       },
@@ -999,22 +1031,6 @@
     {
       "added_at": "2026-10-19 15:00:35",
       "album": {
-        "name": "\u6d88\u3048\u306a\u3044\u7406\u7531",
-        "url": "https://open.spotify.com/album/69GUXMqIsG12AEYIg5Uy7R"
-      },
-      "artists": [
-        {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
-        }
-      ],
-      "duration_ms": 249243,
-      "name": "\u6d88\u3048\u306a\u3044\u7406\u7531",
-      "url": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx"
-    },
-    {
-      "added_at": "2026-10-19 15:00:35",
-      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 266200,
       "name": "memories",
       "url": "https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss"
-    },
-    {
-      "added_at": "2026-10-19 15:00:35",
-      "album": {
-        "name": "\u30aa\u30ce\u30ac\u30df",
-        "url": "https://open.spotify.com/album/7lUN85inPYtrXRud9OjYNR"
-      },
-      "artists": [
-        {
-          "name": "\u30e1\u30ac\u30c6\u30e9\u30fb\u30bc\u30ed",
-          "url": "https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B"
-        }
-      ],
-      "duration_ms": 230875,
-      "name": "\u30aa\u30ce\u30ac\u30df",
-      "url": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe"
     },
     {
       "added_at": "2026-10-19 15:00:35",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-10-19 15:00:35",
       "album": {
-        "name": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
-        "url": "https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 213438,
-      "name": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
-      "url": "https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ"
-    },
-    {
-      "added_at": "2026-10-19 15:00:35",
-      "album": {
         "name": "\u604b\u604b\u98a8\u6b4c",
         "url": "https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 276600,
       "name": "\u98a8\u306b\u306a\u308b",
       "url": "https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD"
+    },
+    {
+      "added_at": "2026-10-19 15:00:35",
+      "album": {
+        "name": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
+        "url": "https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 213438,
+      "name": "\u30df\u30c3\u30af\u30b9\u30ca\u30c3\u30c4",
+      "url": "https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ"
     },
     {
       "added_at": "2026-10-19 15:00:35",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-10-19 15:00:35",
       "album": {
+        "name": "\u9650\u754c\u7a81\u7834\u00d7\u30b5\u30d0\u30a4\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/2W0ziDXUUQ3FLV54fR5Vtd"
+      },
+      "artists": [
+        {
+          "name": "Kiyoshi Hikawa",
+          "url": "https://open.spotify.com/artist/4ga8lGWWzgmXpWf9wRFmRR"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "\u9650\u754c\u7a81\u7834\u00d7\u30b5\u30d0\u30a4\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/7K0hzTjRC0PCWXkBJuWcRH"
+    },
+    {
+      "added_at": "2026-10-19 15:00:35",
+      "album": {
         "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
         "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 205984,
       "name": "\u8d70\u308cSAKAMOTO",
       "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"
-    },
-    {
-      "added_at": "2026-10-19 15:00:35",
-      "album": {
-        "name": "\u9650\u754c\u7a81\u7834\u00d7\u30b5\u30d0\u30a4\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/2W0ziDXUUQ3FLV54fR5Vtd"
-      },
-      "artists": [
-        {
-          "name": "Kiyoshi Hikawa",
-          "url": "https://open.spotify.com/artist/4ga8lGWWzgmXpWf9wRFmRR"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "\u9650\u754c\u7a81\u7834\u00d7\u30b5\u30d0\u30a4\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/7K0hzTjRC0PCWXkBJuWcRH"
     },
     {
       "added_at": "2026-10-19 15:00:35",

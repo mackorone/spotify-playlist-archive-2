@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Dear Joanne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,985 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,995 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 11 | [CONEJITA PLAYBOY](https://open.spotify.com/track/42U40DG6b3VVCBfgeBSxGH) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [CONEJITA PLAYBOY](https://open.spotify.com/album/206r467aoLTOWH9u436PKi) | 2:18 |
 | 12 | [veranos condenados](https://open.spotify.com/track/11joCLIPoBebavpMolW8wi) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [veranos condenados](https://open.spotify.com/album/32eCS8SR02sBKjvx6qMtKd) | 2:56 |
 | 13 | [Tiempos bonitos](https://open.spotify.com/track/258hs8zltfhkeItvntuQQp) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Tiempos bonitos](https://open.spotify.com/album/7CJaAVgm66Bv93zDWgsVpk) | 2:34 |
-| 14 | [Dramas y comedias](https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4) | [Cuatricromía](https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw) | 4:03 |
+| 14 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
 | 15 | [La Nieve \- Original song from the film La Bola Negra](https://open.spotify.com/track/6W4fSGsqNmyPTYo29rJ50z) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [La Nieve \(Original song from the film La Bola Negra\)](https://open.spotify.com/album/6dvL5fF1fokV4nwgaw9j2i) | 4:04 |
 | 16 | [Ay Amor](https://open.spotify.com/track/7wMmqdopL0YxhFmn6WSStr) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Ay Amor](https://open.spotify.com/album/24zbNGOGUKdAzsHIsa7zxL) | 2:11 |
 | 17 | [Diva Suicida](https://open.spotify.com/track/4eR0zUbiEKVzGpXGV3BZck) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Diva Suicida](https://open.spotify.com/album/0HQOPknOVRqWWqZoiHiEdL) | 1:55 |
-| 18 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
+| 18 | [Dramas y comedias](https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4) | [Cuatricromía](https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw) | 4:03 |
 | 19 | [Badda](https://open.spotify.com/track/5p4We7y6YF1ciG8gLsOE2d) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Badda](https://open.spotify.com/album/1VRMMpvRpvknEUhDI60qDq) | 2:19 |
 | 20 | [Con Altura](https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Dame 10:36 Minutos](https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO) | 2:11 |
 | 21 | [Vámonos de aquí](https://open.spotify.com/track/7DcOJdgDYMRDKpRY4OHWiB) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Indiara Sfair](https://open.spotify.com/artist/5WfHQfrrbcQ3AYCcdUvPFh) | [Vámonos de aquí](https://open.spotify.com/album/7cB57OAYP688kLE9Hor4lt) | 2:32 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 35 | [Golpeo](https://open.spotify.com/track/3pyEWCK9U4zgwMI08MdRBy) | [Kercho](https://open.spotify.com/artist/2Dg9RuLl8nw2gkoirqZQkR), [Benzie](https://open.spotify.com/artist/3eohCag0W34l6pN5g3woRS) | [DANDO CLASE](https://open.spotify.com/album/0jaKpATjABClztaJtfH12s) | 3:15 |
 | 36 | [Cuando el sol bese a la luna](https://open.spotify.com/track/4ozZG3Cgiyf17pVda3p02S) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [Cuando el sol bese a la luna](https://open.spotify.com/album/69dTwJHcOc4xcmpzpGKKgf) | 2:23 |
 | 37 | [Mocatriz](https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Mocatriz](https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe) | 3:57 |
-| 38 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
-| 39 | [Mejor mañana](https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [Mejor mañana](https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne) | 3:23 |
+| 38 | [Mejor mañana](https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [Mejor mañana](https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne) | 3:23 |
+| 39 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
 | 40 | [Coleccionando atardeceres](https://open.spotify.com/track/0DtwhA7t6K4H72slDDCzxs) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Coleccionando atardeceres](https://open.spotify.com/album/5vY4REk9rDARhuhTqqbnic) | 3:03 |
 | 41 | [Se siente fuerte](https://open.spotify.com/track/6AR6FZiCFYeQasbE8PiQUl) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Se siente fuerte](https://open.spotify.com/album/1IvfAV0woYVGewg3EI8Ojt) | 2:52 |
 | 42 | [Agarra mi mano](https://open.spotify.com/track/5YE1gftd3Bf8kQSp8eksZm) | [Lucia De la Puerta](https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa) | [Agarra mi mano](https://open.spotify.com/album/1kl8nbAqnfbUrFyxYznSjY) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 49 | [Toujours oui <3](https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Toujours oui <3](https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA) | 3:25 |
 | 50 | [Te Perdí](https://open.spotify.com/track/6ONIKY4nNgn1Wxrn15eBFw) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [EL NENE, VOL 2](https://open.spotify.com/album/7fKsGvADHbGbW7TiJJTtUu) | 2:10 |
 
-Snapshot ID: `AAAAAF1R8z8ClXt0VJE1JxM1PMdgt9cg`
+Snapshot ID: `AAAAAGPyNFoyMSU/zs9lwtq4XjVkERHm`

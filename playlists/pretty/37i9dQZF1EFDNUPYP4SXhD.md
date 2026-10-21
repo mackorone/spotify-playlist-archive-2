@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1OuLNm4mvRAZK11eefmj9Z">Chris Jedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208 likes - 196 songs - 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,209 likes - 196 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 60 | [Vaivén](https://open.spotify.com/track/4gv9eyEf7cXViNTBXS2g5C) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Vaivén](https://open.spotify.com/album/3MSh01wXlrFGAJNfgXVsyQ) | 3:44 |
 | 61 | [Perdido En Tus Ojos](https://open.spotify.com/track/0Mk48GaMgw0qz0auSymuHd) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [The Last Don II](https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu) | 3:54 |
 | 62 | [Te Necesito](https://open.spotify.com/track/5x5kN5Qx1zptllSZV42jfh) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:55 |
-| 63 | [Fantasía](https://open.spotify.com/track/40rXWke6SnXiGkSmaT8ZUr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nibiru](https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH) | 2:55 |
-| 64 | [Noches de Aventura](https://open.spotify.com/track/4iDaYVSL0zwFLacCt0F7h9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:56 |
+| 63 | [Noches de Aventura](https://open.spotify.com/track/4iDaYVSL0zwFLacCt0F7h9) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:56 |
+| 64 | [Fantasía](https://open.spotify.com/track/40rXWke6SnXiGkSmaT8ZUr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nibiru](https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH) | 2:55 |
 | 65 | [TUYA](https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [TUYA](https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3) | 2:34 |
 | 66 | [Victoria](https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Victoria](https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58) | 3:43 |
 | 67 | [Na' Nuevo](https://open.spotify.com/track/0jYLYhbDoceMWHWwwvYpVv) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 4:43 |
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 139 | [Baccarat](https://open.spotify.com/track/74ORZ2qrQK0pDL8rzoiuyr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:17 |
 | 140 | [Callejero](https://open.spotify.com/track/2WeUfUKrUbWG0jNp6KwMwL) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [The Last Don II](https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu) | 3:54 |
 | 141 | [Me Grita](https://open.spotify.com/track/0Rn5qV6bpDflAhc16fpxkr) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI) | [Me Grita](https://open.spotify.com/album/2u7bagLM4VjgeZX7WJYrrX) | 3:52 |
-| 142 | [TBC](https://open.spotify.com/track/1YU5ieZXPkwHoDSob6n6Zo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:32 |
-| 143 | [Tu Nombre](https://open.spotify.com/track/6d1wVWDbzVs0MtqqSYOZ06) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:31 |
+| 142 | [Tu Nombre](https://open.spotify.com/track/6d1wVWDbzVs0MtqqSYOZ06) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:31 |
+| 143 | [TBC](https://open.spotify.com/track/1YU5ieZXPkwHoDSob6n6Zo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 2:32 |
 | 144 | [Como la Primera Vez](https://open.spotify.com/track/0UEtBB5XmhnvHJFYQhAFEH) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Como la Primera Vez](https://open.spotify.com/album/0pmiKB4we2oro8peDqzs5c) | 4:20 |
 | 145 | [Malas Intenciones](https://open.spotify.com/track/4FWhPJjc9FMRCCFc038uEz) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 2:56 |
 | 146 | [Déjame Saber](https://open.spotify.com/track/7HfZN66yT8nvaMpF1Gligt) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Déjame Saber](https://open.spotify.com/album/4cjJ5l83fvenum0M9GttmN) | 3:19 |
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDNUPYP4SXhD.md) - [plain]
 | 195 | [Reza Por Mi](https://open.spotify.com/track/5aNNE58E8H8K5UsBFLeGss) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 4:34 |
 | 196 | [Ella Pide De Eso](https://open.spotify.com/track/4OUcankxNe66OYymBu600u) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [La Verdadera Maquina](https://open.spotify.com/album/4FXUAkRNHIcSrxI6PswKUa) | 3:22 |
 
-Snapshot ID: `AcfZRAAAAABAcCE3koJMAJNP+KYkmyov`
+Snapshot ID: `AcfevAAAAAA82Krmf/53CpYNrnnt7OBQ`

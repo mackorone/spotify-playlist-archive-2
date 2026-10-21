@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,229 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,224 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [BedHead](https://open.spotify.com/track/1aPrxGK9OZBVscOkKwklR4) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [BedHead](https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer) | 5:02 |
 | 100 | [3310](https://open.spotify.com/track/73qjPrQyaBd7mcGR5kEiBC) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [3310](https://open.spotify.com/album/2uhFhEkvO1E8NQ5I19skkb) | 3:02 |
 
-Snapshot ID: `AAAAAGWTGRj1zG7ygEu92QgZFXfbeksX`
+Snapshot ID: `AAAAAAnezSvG7hLU4VySK2q5c+5qZeN2`

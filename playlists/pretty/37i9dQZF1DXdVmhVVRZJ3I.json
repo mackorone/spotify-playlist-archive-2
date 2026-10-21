@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 359716,
+  "num_followers": 359801,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFbXAu2oQSk19gT8A+VTy+4jKem5",
+  "snapshot_id": "AAAAAEPWlLZo7mEt6+PSCS0wj9kHL2DS",
   "tracks": [
     {
       "added_at": "2026-10-02 12:20:02",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "New Memories",
-        "url": "https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 194655,
-      "name": "New Memories",
-      "url": "https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 238124,
       "name": "Children",
       "url": "https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
+        "name": "New Memories",
+        "url": "https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 194655,
+      "name": "New Memories",
+      "url": "https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW"
     },
     {
       "added_at": "2026-10-02 12:20:02",

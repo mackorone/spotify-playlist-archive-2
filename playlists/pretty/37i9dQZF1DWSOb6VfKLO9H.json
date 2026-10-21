@@ -1,12 +1,12 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 111795,
+  "num_followers": 111812,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACaN1VYPcQBA0xCGfeRfQDLBeqVQ",
+  "snapshot_id": "AAAAAAZ8SwxFX/46SSlA17YuAO0/DygZ",
   "tracks": [
     {
       "added_at": "2024-07-19 06:38:33",
@@ -331,26 +331,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Slaaptekort",
-        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
-      },
-      "artists": [
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        },
-        {
-          "name": "Sevn Alias",
-          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
-        }
-      ],
-      "duration_ms": 250700,
-      "name": "Slapend Rijk",
-      "url": "https://open.spotify.com/track/3QW4Z0otVIQEPWxP7K4v3M"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Hij Is Van Mij (feat. Bizzey)",
         "url": "https://open.spotify.com/album/2H2PQhGTflXeBbPunZh2mL"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 214387,
       "name": "Hij Is Van Mij (feat. Bizzey)",
       "url": "https://open.spotify.com/track/6716bTJI7qiHJFFSR0Ethe"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Slaaptekort",
+        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+        }
+      ],
+      "duration_ms": 250700,
+      "name": "Slapend Rijk",
+      "url": "https://open.spotify.com/track/3QW4Z0otVIQEPWxP7K4v3M"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -643,6 +643,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Vakantie",
+        "url": "https://open.spotify.com/album/2BXnoTFrD8mbIwYHyzZl4f"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 165077,
+      "name": "Vakantie (with Jonna Fraser)",
+      "url": "https://open.spotify.com/track/2sE0IOF0pCl7hd4pi5QpgI"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Visionair",
         "url": "https://open.spotify.com/album/2HTLRDquouddfqMAmhiY8Q"
       },
@@ -663,22 +683,18 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Vakantie",
-        "url": "https://open.spotify.com/album/2BXnoTFrD8mbIwYHyzZl4f"
+        "name": "Goed Teken",
+        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
       },
       "artists": [
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        },
         {
           "name": "Jonna Fraser",
           "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
         }
       ],
-      "duration_ms": 165077,
-      "name": "Vakantie (with Jonna Fraser)",
-      "url": "https://open.spotify.com/track/2sE0IOF0pCl7hd4pi5QpgI"
+      "duration_ms": 170497,
+      "name": "Ik Kan Je Niet Laten",
+      "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -715,18 +731,18 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Goed Teken",
-        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
       },
       "artists": [
         {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
         }
       ],
-      "duration_ms": 170497,
-      "name": "Ik Kan Je Niet Laten",
-      "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -763,22 +779,6 @@
       "duration_ms": 217992,
       "name": "Laten Gaan (feat. Ronnie Flex, Mafe, Abira Benotti, Frenna & Emms)",
       "url": "https://open.spotify.com/track/5VPNmkVeQMLDZNWpSmxkUm"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
-      },
-      "artists": [
-        {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
-        }
-      ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -975,26 +975,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "POSITIE",
-        "url": "https://open.spotify.com/album/5ZxrvhLBo8rYCB1V8vTguF"
-      },
-      "artists": [
-        {
-          "name": "Caza",
-          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
-        },
-        {
-          "name": "Bizzey",
-          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
-        }
-      ],
-      "duration_ms": 200970,
-      "name": "POSITIE",
-      "url": "https://open.spotify.com/track/5dVXY5359o7XBmfoNCBMxg"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Culo",
         "url": "https://open.spotify.com/album/6H55FrOOybLadaCeXnBGSn"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 196637,
       "name": "Culo",
       "url": "https://open.spotify.com/track/442ctQ3OBBk8aMo3Ma3wRX"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "POSITIE",
+        "url": "https://open.spotify.com/album/5ZxrvhLBo8rYCB1V8vTguF"
+      },
+      "artists": [
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        },
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        }
+      ],
+      "duration_ms": 200970,
+      "name": "POSITIE",
+      "url": "https://open.spotify.com/track/5dVXY5359o7XBmfoNCBMxg"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Juppige Geintjes",
+        "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
+      },
+      "artists": [
+        {
+          "name": "ChildsPlay",
+          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "duration_ms": 177623,
+      "name": "Tis Oke Mop",
+      "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Betasten",
         "url": "https://open.spotify.com/album/0xaq04tzj37Dy61OqXQ7Xm"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 185459,
       "name": "Betasten",
       "url": "https://open.spotify.com/track/7nwSbPfiDGGBCmYWOS4ezn"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Juppige Geintjes",
-        "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
-      },
-      "artists": [
-        {
-          "name": "ChildsPlay",
-          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
-        },
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        }
-      ],
-      "duration_ms": 177623,
-      "name": "Tis Oke Mop",
-      "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Hele Meneer #Dingems - EP",
+        "url": "https://open.spotify.com/album/0yPM77F6QoP63pXIXCR7ia"
+      },
+      "artists": [
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        }
+      ],
+      "duration_ms": 163263,
+      "name": "Hele Meneer",
+      "url": "https://open.spotify.com/track/7HRMo1cEFxoInV9fWjkoqB"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Big Man",
         "url": "https://open.spotify.com/album/5GKqyIUHBWSwyCF1apkT9X"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 163125,
       "name": "Big Man",
       "url": "https://open.spotify.com/track/6bJ9c5VIx8jbf5U34qHAFm"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Hele Meneer #Dingems - EP",
-        "url": "https://open.spotify.com/album/0yPM77F6QoP63pXIXCR7ia"
-      },
-      "artists": [
-        {
-          "name": "Adje",
-          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
-        }
-      ],
-      "duration_ms": 163263,
-      "name": "Hele Meneer",
-      "url": "https://open.spotify.com/track/7HRMo1cEFxoInV9fWjkoqB"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "501",
-        "url": "https://open.spotify.com/album/5MdGB34tCSO0HoZINzaX0Y"
-      },
-      "artists": [
-        {
-          "name": "Bilal Wahib",
-          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 127592,
-      "name": "501",
-      "url": "https://open.spotify.com/track/0Fl4PBfIwC5G1IQAF1luUm"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Paper Zien (Remix)",
         "url": "https://open.spotify.com/album/6a8CFoI8oEjQB78dDryCF3"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 248823,
       "name": "Paper Zien - Remix",
       "url": "https://open.spotify.com/track/1YnCInissFkmQTfZv3k2mT"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "501",
+        "url": "https://open.spotify.com/album/5MdGB34tCSO0HoZINzaX0Y"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 127592,
+      "name": "501",
+      "url": "https://open.spotify.com/track/0Fl4PBfIwC5G1IQAF1luUm"
     },
     {
       "added_at": "2024-07-19 06:38:33",

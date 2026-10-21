@@ -2,9 +2,9 @@
 
 ### [KimBops!](https://open.spotify.com/playlist/37i9dQZF1DX0018ciYu6bM)
 
-> Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. \(Cover: A2O LITE\)
+> Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. \(Cover: NMIXX\)
 
-935 songs - 2 day 1 hr 18 min
+936 songs - 2 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Ballroom Extravaganza](https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:09 | 2022-08-05 | 2022-10-04 |
 | [Bam Yang Gang](https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:26 | 2024-03-01 | 2024-07-29 |
 | [Bambambam](https://open.spotify.com/track/3nwQPAN4jq3iPjPf24LYAj) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [\[Ready, Set, LOVE\]](https://open.spotify.com/album/0j2hQTYeoVSt35FXPUPaaL) | 3:19 | 2023-08-24 | 2023-10-05 |
-| [BANG BANG](https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:58 | 2026-07-24 |  |
+| [BANG BANG](https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:58 | 2026-07-24 | 2026-10-21 |
 | [BANG BANG](https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7) | 2:58 | 2026-03-04 | 2026-07-25 |
 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BATTER UP](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2023-12-07 | 2026-05-14 |
 | [Be my](https://open.spotify.com/track/2KVjYR3u7p5MYXSX2BYxmq) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [SHOW ME THE MONEY 11 Episode 0](https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ) | 2:34 | 2022-11-03 | 2023-01-04 |
@@ -545,7 +545,7 @@
 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 | 2022-05-26 | 2022-08-13 |
 | [Nectar \(Feat\. Jay Park\)](https://open.spotify.com/track/0Tq39nkuBrIdhGhUSRFISJ) | [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [BM 1st EP 'Element'](https://open.spotify.com/album/6q2zOdLESHZyOpfSwA8Reb) | 2:57 | 2024-05-22 | 2024-06-28 |
 | [NEMONEMO](https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [NEMONEMO](https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL) | 2:58 | 2024-10-03 | 2025-02-27 |
-| [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 | 2026-10-13 |  |
+| [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 | 2026-10-13 |  |
 | [NEW DAYZ](https://open.spotify.com/track/5WfZIXUF0PlUMUcETTpk7t) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [BLUE SET Chapter\. \[NEW DAYZ\]](https://open.spotify.com/album/6UWqRWFu1heBKnelgnZxs2) | 3:26 | 2023-03-21 | 2023-05-04 |
 | [New thing \(Prod\. ZICO\) \(Feat\. Homies\)](https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 2:27 | 2022-09-12 | 2023-03-22 |
 | [New Tomorrow](https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c) | [FANTASY BOYS](https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU) | [NEW TOMORROW](https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU) | 3:50 | 2023-10-05 | 2023-11-14 |
@@ -939,6 +939,7 @@
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-04-06 | 2023-08-12 |
 | [ZOO](https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V), [HENDERY](https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs), [YANGYANG](https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 2:57 | 2022-04-05 | 2022-10-04 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-05-02 | 2022-10-04 |
+| [긴 소원 \(Birthday Wish\)](https://open.spotify.com/track/6F0vhKF4fy9WQi39JPQnCv) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Strange Muse](https://open.spotify.com/album/5ONb8685IYLUQ7ze941nUP) | 3:20 | 2026-10-20 |  |
 | [반해](https://open.spotify.com/track/71wgol5cRSUMmLWO4Ow5vP) | [Jun Hyo Seong](https://open.spotify.com/artist/73RRzEpK7IQexOhC0CuTRZ) | [FANTASIA](https://open.spotify.com/album/4QFXvpvYNDHCfdhebzAu3l) | 3:34 | 2024-05-31 | 2024-07-29 |
 | [왜요 왜요](https://open.spotify.com/track/1DcXDpatGKfv1BRUfeKx4p) | [Shannon](https://open.spotify.com/artist/3hi7ew4Y6Lr9lWS1E3lDBX) | [Eighteen](https://open.spotify.com/album/5eNl1F6vQU35TvmgbvlZgF) | 3:16 | 2023-11-02 | 2024-01-18 |
 | [잘자요 아가씨 \(Prod\. 과나\)](https://open.spotify.com/track/2JxXcCgVx61AI0MOUoXC68) | [ASMRZ](https://open.spotify.com/artist/660U1sbp7uNWcb2BYcQHAK) | [잘자요 아가씨](https://open.spotify.com/album/6OaL36lNTWHPlFA9Y8bql3) | 1:53 | 2024-06-04 | 2024-07-29 |

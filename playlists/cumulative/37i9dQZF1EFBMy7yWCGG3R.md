@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-411 songs - 22 hr 36 min
+412 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,9 +365,10 @@
 | [The Way You Don't Look At Me](https://open.spotify.com/track/4nD97NVwkp8pNWmhW2kgHd) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 2:28 | 2023-12-30 |  |
 | [There's No Way \(feat\. Julia Michaels\)](https://open.spotify.com/track/3F7bhRhNpY4YKrwa4kGeUz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way \(feat\. Julia Michaels\)](https://open.spotify.com/album/0fZ8R5krm1zAkzUFjqwtpU) | 2:54 | 2023-12-30 |  |
 | [They Don't Know Us](https://open.spotify.com/track/2UX4TCdOd7RMITubWQ9L7e) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [They Don't Know Us](https://open.spotify.com/album/2SsfVijT1YEYx0KqKI3ERY) | 4:21 | 2025-01-09 | 2025-04-12 |
+| [Thick Of It All](https://open.spotify.com/track/3xw5JF5bs2Tm7BvcC1QxuZ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/1eGrF3LMMCZIAlD7P41amX) | [Walkerworld 2.0](https://open.spotify.com/album/4e4jn9NQw1N3KbRzTC2g8R) | 3:19 | 2026-10-20 |  |
 | [Thick Of It All](https://open.spotify.com/track/4oR83Z8WmnfH2Nx2Cvvcxe) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/1eGrF3LMMCZIAlD7P41amX) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 3:19 | 2025-01-15 | 2025-03-13 |
 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 | 2024-09-07 | 2025-01-16 |
-| [Thick Of It All](https://open.spotify.com/track/7ANesmCLYR6eSKsgmQvEa9) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/1eGrF3LMMCZIAlD7P41amX) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 3:19 | 2025-03-12 |  |
+| [Thick Of It All](https://open.spotify.com/track/7ANesmCLYR6eSKsgmQvEa9) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/1eGrF3LMMCZIAlD7P41amX) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 3:19 | 2025-03-12 | 2026-10-21 |
 | [This Is What We Dance For](https://open.spotify.com/track/1EDcmMFvd185Foe3b64fOD) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0) | 3:04 | 2026-01-15 |  |
 | [Tights On My Boat](https://open.spotify.com/track/2iA9BkvtzkdGT4wxqqwzKh) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:02 | 2023-12-30 |  |
 | [Time](https://open.spotify.com/track/1aBbXtexG3NrzuUPz9Yiia) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance, Pt 2](https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov) | 3:12 | 2025-09-04 |  |

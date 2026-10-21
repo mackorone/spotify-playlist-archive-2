@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 117480,
+  "num_followers": 117494,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALlDO35W0phXr8wMLLDSn2uIBsOd",
+  "snapshot_id": "AAAAAFdeI4rkvaFojNSLOyl+BIJ65iSa",
   "tracks": [
     {
       "added_at": "2026-10-01 14:18:19",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
-        "name": "Ahora soy un punkarra",
-        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
-      },
-      "artists": [
-        {
-          "name": "Desklate",
-          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
-        }
-      ],
-      "duration_ms": 144944,
-      "name": "Ahora soy un punkarra",
-      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
-    },
-    {
-      "added_at": "2026-10-01 14:18:19",
-      "album": {
         "name": "Mi \u00fanica salida",
         "url": "https://open.spotify.com/album/2m91Eba2vl5OSLCpJejcIy"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 200168,
       "name": "Mi \u00fanica salida",
       "url": "https://open.spotify.com/track/1Iq05aiCe4fPyJXDiSsHIW"
+    },
+    {
+      "added_at": "2026-10-01 14:18:19",
+      "album": {
+        "name": "Ahora soy un punkarra",
+        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
+      },
+      "artists": [
+        {
+          "name": "Desklate",
+          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
+        }
+      ],
+      "duration_ms": 144944,
+      "name": "Ahora soy un punkarra",
+      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
     },
     {
       "added_at": "2026-10-01 14:18:19",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-10-01 14:18:19",
       "album": {
+        "name": "La Hemos Cagao (Versi\u00f3n 2026)",
+        "url": "https://open.spotify.com/album/0C0d6wsnR45bZzZLIsDL2V"
+      },
+      "artists": [
+        {
+          "name": "Porretas",
+          "url": "https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "La Hemos Cagao - Versi\u00f3n 2026",
+      "url": "https://open.spotify.com/track/5NOpn7lhJJmNhGVUz7RR66"
+    },
+    {
+      "added_at": "2026-10-01 14:18:19",
+      "album": {
         "name": "Un Veneno Llamado Libertad",
         "url": "https://open.spotify.com/album/0Xd3vHYAhGXjLfRg8xzj5D"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 190296,
       "name": "Hasta Alcanzar la Eternidad",
       "url": "https://open.spotify.com/track/2VL5tGw1rCuZTcPBdbqlq9"
-    },
-    {
-      "added_at": "2026-10-01 14:18:19",
-      "album": {
-        "name": "La Hemos Cagao (Versi\u00f3n 2026)",
-        "url": "https://open.spotify.com/album/0C0d6wsnR45bZzZLIsDL2V"
-      },
-      "artists": [
-        {
-          "name": "Porretas",
-          "url": "https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "La Hemos Cagao - Versi\u00f3n 2026",
-      "url": "https://open.spotify.com/track/5NOpn7lhJJmNhGVUz7RR66"
     },
     {
       "added_at": "2026-10-01 14:18:19",

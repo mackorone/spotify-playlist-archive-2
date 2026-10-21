@@ -1,12 +1,12 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190078,
+  "num_followers": 190064,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM1BcK/Dcgn7bnJuYGPeJOlWmisY",
+  "snapshot_id": "AAAAAHSXJrFa6YxyyDyA+yreEBHMwNol",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:37",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 275686,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "What Takes You Back",
         "url": "https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 275166,
       "name": "What Takes You Back",
       "url": "https://open.spotify.com/track/1ga3dk6EdsAfGFNWr4QiAJ"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 275686,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Anakin",
-        "url": "https://open.spotify.com/album/1WXsBe871YYYzR1RmSlkrA"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 203727,
-      "name": "Anakin",
-      "url": "https://open.spotify.com/track/1X7HVxn4xYMv4nICmy8vR2"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Can",
         "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 201557,
       "name": "Can",
       "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Anakin",
+        "url": "https://open.spotify.com/album/1WXsBe871YYYzR1RmSlkrA"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 203727,
+      "name": "Anakin",
+      "url": "https://open.spotify.com/track/1X7HVxn4xYMv4nICmy8vR2"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Something Ain't Right (Acoustic)",
-        "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
-      },
-      "artists": [
-        {
-          "name": "Leah Rye",
-          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
-        }
-      ],
-      "duration_ms": 160523,
-      "name": "Something Ain't Right - Acoustic",
-      "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Bright Belief",
         "url": "https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 282000,
       "name": "Bright Belief",
       "url": "https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Something Ain't Right (Acoustic)",
+        "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
+      },
+      "artists": [
+        {
+          "name": "Leah Rye",
+          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
+        }
+      ],
+      "duration_ms": 160523,
+      "name": "Something Ain't Right - Acoustic",
+      "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Paul",
-        "url": "https://open.spotify.com/album/4Rqzk5YGDOux3QZgs2HEN4"
-      },
-      "artists": [
-        {
-          "name": "BROCKHOFF",
-          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
-        }
-      ],
-      "duration_ms": 192374,
-      "name": "Paul",
-      "url": "https://open.spotify.com/track/6m3q1zmQ9WMQbha9BH6gpn"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/3Yl6iLaSNTi4E0yilc1YHk"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 199542,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3qhupcUlxypKHUWujBzJ81"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Paul",
+        "url": "https://open.spotify.com/album/4Rqzk5YGDOux3QZgs2HEN4"
+      },
+      "artists": [
+        {
+          "name": "BROCKHOFF",
+          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
+        }
+      ],
+      "duration_ms": 192374,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/6m3q1zmQ9WMQbha9BH6gpn"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Dark Sky Reserve",
-        "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
-      },
-      "artists": [
-        {
-          "name": "Robin Kester",
-          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
-        }
-      ],
-      "duration_ms": 173343,
-      "name": "Tree-lined Lanes",
-      "url": "https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "U&I",
         "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 153164,
       "name": "U&I",
       "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Dark Sky Reserve",
+        "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
+      },
+      "artists": [
+        {
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+        }
+      ],
+      "duration_ms": 173343,
+      "name": "Tree-lined Lanes",
+      "url": "https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
+        "name": "AT LEAST SOMETHING IS PROTECTING YOU",
+        "url": "https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0"
+      },
+      "artists": [
+        {
+          "name": "Cero Ismael",
+          "url": "https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo"
+        }
+      ],
+      "duration_ms": 217949,
+      "name": "EMBERS",
+      "url": "https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
         "name": "Bleeding Colours",
         "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "AT LEAST SOMETHING IS PROTECTING YOU",
-        "url": "https://open.spotify.com/album/4gSBN4HJksGUFxXVsdcAX0"
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2xmhqUrdZY7gbZNbGt0FoU"
       },
       "artists": [
         {
-          "name": "Cero Ismael",
-          "url": "https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo"
+          "name": "Loki Project",
+          "url": "https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs"
         }
       ],
-      "duration_ms": 217949,
-      "name": "EMBERS",
-      "url": "https://open.spotify.com/track/5F1sWEiHVBYUbVQ178MZ5d"
+      "duration_ms": 266466,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/6ZskcMSGVuInKodFTaLPS6"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6"
-      },
-      "artists": [
-        {
-          "name": "Ciska Ciska",
-          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
-        }
-      ],
-      "duration_ms": 204047,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Sincerely, Sevens",
         "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
       },
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2xmhqUrdZY7gbZNbGt0FoU"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6"
       },
       "artists": [
         {
-          "name": "Loki Project",
-          "url": "https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs"
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
         }
       ],
-      "duration_ms": 266466,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/6ZskcMSGVuInKodFTaLPS6"
+      "duration_ms": 204047,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "BB II",
-        "url": "https://open.spotify.com/album/2JlAPW0XsIVE5zh4JaBws3"
-      },
-      "artists": [
-        {
-          "name": "The Feather",
-          "url": "https://open.spotify.com/artist/6ZhYrSh1U6FaRYefNSLwCc"
-        },
-        {
-          "name": "Benni",
-          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
-        }
-      ],
-      "duration_ms": 203374,
-      "name": "BB II",
-      "url": "https://open.spotify.com/track/08G9r5z6KrPw1UgTTGoC7K"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
         "name": "Truth Is We'll Never Know",
         "url": "https://open.spotify.com/album/5UHNWSiKJQn3KS9XM9DHX3"
       },
@@ -1507,34 +1487,22 @@
     {
       "added_at": "2026-10-15 22:00:37",
       "album": {
-        "name": "In My Head Today",
-        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
+        "name": "BB II",
+        "url": "https://open.spotify.com/album/2JlAPW0XsIVE5zh4JaBws3"
       },
       "artists": [
         {
-          "name": "Send Me Flowers",
-          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "In My Head Today",
-      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
-    },
-    {
-      "added_at": "2026-10-15 22:00:37",
-      "album": {
-        "name": "Mr. Beckett (Alternate Version)",
-        "url": "https://open.spotify.com/album/6EVoFktSCYdz6Ti1VhBADi"
-      },
-      "artists": [
+          "name": "The Feather",
+          "url": "https://open.spotify.com/artist/6ZhYrSh1U6FaRYefNSLwCc"
+        },
         {
-          "name": "Agn\u00e8s Botty",
-          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
+          "name": "Benni",
+          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
         }
       ],
-      "duration_ms": 227605,
-      "name": "Mr. Beckett - Alternate Version",
-      "url": "https://open.spotify.com/track/4OrpNXuXJ3ppL1MqY326ht"
+      "duration_ms": 203374,
+      "name": "BB II",
+      "url": "https://open.spotify.com/track/08G9r5z6KrPw1UgTTGoC7K"
     },
     {
       "added_at": "2026-10-15 22:00:37",
@@ -1567,6 +1535,38 @@
       "duration_ms": 227840,
       "name": "Don't Worry About The Rain",
       "url": "https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "In My Head Today",
+        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
+      },
+      "artists": [
+        {
+          "name": "Send Me Flowers",
+          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "In My Head Today",
+      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
+    },
+    {
+      "added_at": "2026-10-15 22:00:37",
+      "album": {
+        "name": "Mr. Beckett (Alternate Version)",
+        "url": "https://open.spotify.com/album/6EVoFktSCYdz6Ti1VhBADi"
+      },
+      "artists": [
+        {
+          "name": "Agn\u00e8s Botty",
+          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
+        }
+      ],
+      "duration_ms": 227605,
+      "name": "Mr. Beckett - Alternate Version",
+      "url": "https://open.spotify.com/track/4OrpNXuXJ3ppL1MqY326ht"
     },
     {
       "added_at": "2026-10-15 22:00:37",

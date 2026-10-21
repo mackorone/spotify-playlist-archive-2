@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,960 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,010 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 7 | [Manitoumani](https://open.spotify.com/track/40sgwuGnpN1XQ3AbE9exPD) | [Lamomali](https://open.spotify.com/artist/7DxGG5hXfOSgepxXa7UqRF), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Lamomali](https://open.spotify.com/album/3jY3nT2vkn0Fk7w7rtXVR4) | 3:28 |
 | 8 | [Erghad Afewo](https://open.spotify.com/track/2356DCJaegEGZ9qPTRrojb) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Hoggar](https://open.spotify.com/album/2gqUcbYA8djTbahHOE7hjx) | 3:34 |
 | 9 | [Kulu](https://open.spotify.com/track/4Z1SwrQ2E9mOrXDTuP1bTD) | [N'Gou Bagayoko](https://open.spotify.com/artist/0U14GimEuoGTXPNaoNAlmg) | [Kulu](https://open.spotify.com/album/1vGI90FqQestc7Zw6SCVg1) | 3:45 |
-| 10 | [Djôn'Maya](https://open.spotify.com/track/2JlQOgJZdvQ5YJrVxY13wQ) | [Victor Démé](https://open.spotify.com/artist/1FCJ4zmRfkGUOtY65Jettg) | [Victor Démé](https://open.spotify.com/album/4psXSB62XvHZ0c3fg2udob) | 4:09 |
-| 11 | [Mamaké](https://open.spotify.com/track/520tnSeFL0qGLxD7I7YsxQ) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr) | [Fasiya](https://open.spotify.com/album/7h7MgG54nO4RvaPj01CEX6) | 5:08 |
+| 10 | [Mamaké](https://open.spotify.com/track/520tnSeFL0qGLxD7I7YsxQ) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr) | [Fasiya](https://open.spotify.com/album/7h7MgG54nO4RvaPj01CEX6) | 5:08 |
+| 11 | [Djôn'Maya](https://open.spotify.com/track/2JlQOgJZdvQ5YJrVxY13wQ) | [Victor Démé](https://open.spotify.com/artist/1FCJ4zmRfkGUOtY65Jettg) | [Victor Démé](https://open.spotify.com/album/4psXSB62XvHZ0c3fg2udob) | 4:09 |
 | 12 | [How Dare You](https://open.spotify.com/track/4W3W4cbErPT3JCW60IxKKj) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [St Germain](https://open.spotify.com/album/5ckt4gstaOg1VlCqyLtrLT) | 6:43 |
 | 13 | [Toumast Tincha](https://open.spotify.com/track/3911Bzzv8FHgbitJzXFjxh) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Emmaar](https://open.spotify.com/album/7BHJjxuGHgU4aFpBFCjFsw) | 4:20 |
 | 14 | [Mogoya](https://open.spotify.com/track/3aPOQ6TdIuAW8m1KZid1Hv) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Mogoya](https://open.spotify.com/album/43euCDOikmefRS29Y55pLX) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 49 | [Afous Dafous](https://open.spotify.com/track/36yiMWZzACLXonEZrw4gp1) | [Tartit](https://open.spotify.com/artist/7tnGqjFwUewoWAkNofVV6Q) | [Tartit: Amankor / The Exile](https://open.spotify.com/album/08lhNsxIviCV0TQrVIqeuw) | 3:12 |
 | 50 | [Imidiwan Takyadam \- feat\. José González](https://open.spotify.com/track/2b4fBioLLqcnL4reo9XtRu) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imidiwan Takyadam](https://open.spotify.com/album/1GRebforJ6lYt2aST9WKle) | 4:16 |
 
-Snapshot ID: `AAAAAKoYOx9tzGoSxNZU5h2s0bOiJo9Y`
+Snapshot ID: `AAAAAOfV9y2KpDbGURzaMXQZwO/tObf1`

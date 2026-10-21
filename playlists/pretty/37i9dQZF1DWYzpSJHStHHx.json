@@ -1,12 +1,12 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483559,
+  "num_followers": 483548,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC5UA/2jggXvyqgKwtslPRC/ehmr",
+  "snapshot_id": "AAAAAC3f+rp1JoJ1enzAODkqUno5p+fT",
   "tracks": [
     {
       "added_at": "2026-09-17 14:00:53",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Officially",
-        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
-      },
-      "artists": [
-        {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
-        }
-      ],
-      "duration_ms": 205144,
-      "name": "Officially",
-      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Daydream Twins",
         "url": "https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO"
       },
@@ -363,18 +347,18 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/01YoofY6QSFPe74lDVfoFc"
+        "name": "Officially",
+        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
       },
       "artists": [
         {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/4Vvif0vOJuHaiFdXEjyaLn"
+      "duration_ms": 205144,
+      "name": "Officially",
+      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -391,6 +375,22 @@
       "duration_ms": 183030,
       "name": "Ballad of the Texas King",
       "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/01YoofY6QSFPe74lDVfoFc"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/4Vvif0vOJuHaiFdXEjyaLn"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "twenty bucks (the friend song)",
-        "url": "https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB"
-      },
-      "artists": [
-        {
-          "name": "boxboys",
-          "url": "https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9"
-        }
-      ],
-      "duration_ms": 113232,
-      "name": "twenty bucks (the friend song)",
-      "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 124636,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "twenty bucks (the friend song)",
+        "url": "https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB"
+      },
+      "artists": [
+        {
+          "name": "boxboys",
+          "url": "https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9"
+        }
+      ],
+      "duration_ms": 113232,
+      "name": "twenty bucks (the friend song)",
+      "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "MOVING ON",
-        "url": "https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW"
-      },
-      "artists": [
-        {
-          "name": "Velvet Trip",
-          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "MOVING ON",
-      "url": "https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Recycle",
         "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "We Gotta Groove (2025 Mix)",
-        "url": "https://open.spotify.com/album/3WhrPteS4a0RkneRARgAiB"
+        "name": "MOVING ON",
+        "url": "https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW"
       },
       "artists": [
         {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+          "name": "Velvet Trip",
+          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
         }
       ],
-      "duration_ms": 129893,
-      "name": "We Gotta Groove - 2025 Mix",
-      "url": "https://open.spotify.com/track/7xwuRnHSNZMF9cTyQ9Empv"
+      "duration_ms": 248000,
+      "name": "MOVING ON",
+      "url": "https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -1143,6 +1127,22 @@
       "duration_ms": 153822,
       "name": "Pacific Ocean",
       "url": "https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "We Gotta Groove (2025 Mix)",
+        "url": "https://open.spotify.com/album/3WhrPteS4a0RkneRARgAiB"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 129893,
+      "name": "We Gotta Groove - 2025 Mix",
+      "url": "https://open.spotify.com/track/7xwuRnHSNZMF9cTyQ9Empv"
     },
     {
       "added_at": "2026-09-17 14:00:53",

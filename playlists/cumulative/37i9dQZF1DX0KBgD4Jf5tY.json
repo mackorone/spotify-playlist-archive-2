@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:692su3wp3EhhRlrpNUB0n1\">Envelope</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:3vouXKg5qDbuhmktukBZLQ\">PETRA</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -4920,7 +4920,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 242415,
       "name": "Black Moon Botanica",
       "url": "https://open.spotify.com/track/5Pn4NY0FKPbD8f6W3LQnIK"
@@ -9616,6 +9616,24 @@
       "duration_ms": 196045,
       "name": "Da solo",
       "url": "https://open.spotify.com/track/6Ecd6qmTNg38sUr7OgbKBd"
+    },
+    {
+      "album": {
+        "name": "dalla testa ai piedi",
+        "url": "https://open.spotify.com/album/5L8KpSdAj3vbsQdojLt7Wq"
+      },
+      "artists": [
+        {
+          "name": "Henna",
+          "url": "https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200385,
+      "name": "dalla testa ai piedi",
+      "url": "https://open.spotify.com/track/1nyRq0UoHJCApQQWncXVAy"
     },
     {
       "album": {
@@ -20449,6 +20467,24 @@
     },
     {
       "album": {
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/0FblhYZcHoGu6OKIRohd6p"
+      },
+      "artists": [
+        {
+          "name": "Danxgerous",
+          "url": "https://open.spotify.com/artist/0Gt3wzw2zPVUVVAhGkeLuT"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196760,
+      "name": "Leo Rising",
+      "url": "https://open.spotify.com/track/6LENG17ho9hTsMj7hLztoC"
+    },
+    {
+      "album": {
         "name": "Letto",
         "url": "https://open.spotify.com/album/7d0hmcEyqTIhYLZkCEAys9"
       },
@@ -20594,7 +20630,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 171214,
       "name": "licia",
       "url": "https://open.spotify.com/track/7p81n4TOcxazBYhwIhXka4"
@@ -31454,7 +31490,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 163053,
       "name": "qnd sono triste!!!!",
       "url": "https://open.spotify.com/track/3A2G3Uz2WfGrNrKpUlqk8k"
@@ -34662,6 +34698,24 @@
       "duration_ms": 165340,
       "name": "Senza di te",
       "url": "https://open.spotify.com/track/4gUaZ6tMvZcKBQy973pLPF"
+    },
+    {
+      "album": {
+        "name": "senza di te",
+        "url": "https://open.spotify.com/album/4uz2qSBdzV9sz38BCcxZc0"
+      },
+      "artists": [
+        {
+          "name": "PETRA",
+          "url": "https://open.spotify.com/artist/3vouXKg5qDbuhmktukBZLQ"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196626,
+      "name": "senza di te",
+      "url": "https://open.spotify.com/track/1jlPTAI8hxWO3j695JYEvj"
     },
     {
       "album": {

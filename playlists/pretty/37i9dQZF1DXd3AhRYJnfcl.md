@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: أنغام
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: حوده
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,638 likes - 54 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,755 likes - 54 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Khayen](https://open.spotify.com/track/2UKfMJuJPC4gTrj1fyacuZ) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Khayen](https://open.spotify.com/album/4vLcEKy5pMFkcH8mcAxfPX) | 3:31 |
-| 2 | [HASESS BIK](https://open.spotify.com/track/6KqmdbNxbqcgbBdQJIkD76) | [Zaid Khaled](https://open.spotify.com/artist/5z3HM8XrdwIb4AcyMMHj4r), [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO) | [HASESS BIK](https://open.spotify.com/album/14rd2zLm3Ijw9yEieR8iEc) | 4:06 |
-| 3 | [Shoft Kalam](https://open.spotify.com/track/2HtFhMMHqwdobOT1DQC0Iu) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [Shoft Kalam](https://open.spotify.com/album/1swHEm5aUSHiK5tGm8ToHX) | 3:29 |
-| 4 | [القلب مات](https://open.spotify.com/track/7qOqrKgoWVntdBPJGF8Fxc) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [القلب مات](https://open.spotify.com/album/0ujtOcl7FVd8ATlgAQrHXW) | 3:48 |
+| 1 | [القلب مات](https://open.spotify.com/track/7qOqrKgoWVntdBPJGF8Fxc) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [القلب مات](https://open.spotify.com/album/0ujtOcl7FVd8ATlgAQrHXW) | 3:48 |
+| 2 | [Khayen](https://open.spotify.com/track/2UKfMJuJPC4gTrj1fyacuZ) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Khayen](https://open.spotify.com/album/4vLcEKy5pMFkcH8mcAxfPX) | 3:31 |
+| 3 | [HASESS BIK](https://open.spotify.com/track/6KqmdbNxbqcgbBdQJIkD76) | [Zaid Khaled](https://open.spotify.com/artist/5z3HM8XrdwIb4AcyMMHj4r), [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO) | [HASESS BIK](https://open.spotify.com/album/14rd2zLm3Ijw9yEieR8iEc) | 4:06 |
+| 4 | [Shoft Kalam](https://open.spotify.com/track/2HtFhMMHqwdobOT1DQC0Iu) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [Shoft Kalam](https://open.spotify.com/album/1swHEm5aUSHiK5tGm8ToHX) | 3:29 |
 | 5 | [Wala Ash Wala Kan](https://open.spotify.com/track/0Bcrb7ZOOxkVgcZEtPWxXy) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Sadeek El Bernameg](https://open.spotify.com/album/1GH8hyS9kFWIu5m0EE2kvn) | 3:04 |
 | 6 | [EL BADLA WEL FOSTAN](https://open.spotify.com/track/2xYITR2JakEl8VxnQQ0Th8) | [abulhawa](https://open.spotify.com/artist/6tRlI9czT4r9FOqR2KknHQ) | [EL BADLA WEL FOSTAN](https://open.spotify.com/album/56r3tZ6lin6O7ngwBcO4hO) | 2:55 |
 | 7 | [Tayeh Fel Amaken](https://open.spotify.com/track/3DWEmKglQcWrxnABIUd36d) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Tayeh Fel Amaken](https://open.spotify.com/album/3jagFWx4p0C3rav6lkHZ32) | 3:49 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 53 | [Shoft El Donya](https://open.spotify.com/track/1zeSBKVXV4VREMEnPouiTl) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Omry Maak](https://open.spotify.com/album/3vvDdIvYc1Y4NnLtdA8Zzt) | 4:14 |
 | 54 | [حرية قرار](https://open.spotify.com/track/5DqiilkwBdbsgGh5C8fp6t) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [هيبة](https://open.spotify.com/album/7AFvHWV66mxfHLaV6yhqZb) | 5:08 |
 
-Snapshot ID: `AAAAALELFmS5Wg26C2yT81+6DfUlJdta`
+Snapshot ID: `AAAAAJ9QGttBSMrjoxnmQZVLPQsO6srw`

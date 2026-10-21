@@ -2434,12 +2434,12 @@
       },
       "artists": [
         {
-          "name": "Gabi Sampaio",
-          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
-        },
-        {
           "name": "SOM DO C\u00c9U",
           "url": "https://open.spotify.com/artist/4Tq5E0plsM6uNnLmxJWKNp"
+        },
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
         },
         {
           "name": "Sarah Lanza",
@@ -7418,7 +7418,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 455597,
-      "name": "Poderoso Deus (Medley)",
+      "name": "Poderoso Deus (Medley) - Ao Vivo",
       "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
     },
     {
@@ -7798,7 +7798,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 489116,
-      "name": "Quem \u00e9 Como Nosso Deus?",
+      "name": "Quem \u00e9 Como Nosso Deus? - Ao Vivo",
       "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
     },
     {
@@ -9526,7 +9526,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 629133,
-      "name": "Tu \u00e9s Poderoso - Ao Vivo",
+      "name": "Tu \u00e9s Poderoso - Ao vivo",
       "url": "https://open.spotify.com/track/4yXujiRu5pBHtanqTFVPKG"
     },
     {

@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,073 songs - 2 day 3 hr 33 min
+1,074 songs - 2 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Days Pass By](https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Days Pass By](https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP) | 2:26 | 2024-11-22 | 2025-06-28 |
 | [DEARLY](https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [DEARLY](https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w) | 3:01 | 2026-02-13 | 2026-09-26 |
 | [Deep](https://open.spotify.com/track/0qhfALctZENRjIITNtqWti) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:05 | 2024-10-04 | 2025-08-26 |
+| [Deja Vu](https://open.spotify.com/track/5DY6BHrUCp98AesuKVjuxd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Deja Vu](https://open.spotify.com/album/3Y2wX1odxcF1oiPCGlAgOU) | 3:57 | 2026-10-16 |  |
 | [Deliver](https://open.spotify.com/track/1a0PF4ucYpsV5gJQuE4CU9) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd) | [Deliver](https://open.spotify.com/album/2vUhdSN8zSArXPKY6hdHdk) | 2:25 | 2026-05-08 | 2026-05-22 |
 | [Desire](https://open.spotify.com/track/0U1EVGdTkRoDogEAlKv8Go) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Recess](https://open.spotify.com/album/6CkWdslQmB9E9XdYD9opr6) | 2:36 | 2024-12-06 | 2025-04-06 |
 | [Despacito \(feat\. FOLA\)](https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:38 | 2025-10-17 |  |
@@ -407,7 +408,7 @@
 | [Guy Like Me](https://open.spotify.com/track/1lxVtfGPUZlgInYySB1GcS) | [Yugoszn](https://open.spotify.com/artist/7yWR3RApVuDFsZ6MqOHyFn) | [Yugoszn](https://open.spotify.com/album/5A6wiJErITKfHgQB5rR7ll) | 2:49 | 2024-02-02 | 2024-03-22 |
 | [Hard to Find](https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Hard to Find](https://open.spotify.com/album/5OgLCYPqsqVdwlGEijUEpQ) | 3:08 | 2022-07-14 | 2022-09-29 |
 | [Have That Love](https://open.spotify.com/track/6p9N449djwtND5vS5hCRy7) | [Efue](https://open.spotify.com/artist/1ADatv0IywY3a3HW6Wy43x) | [Have That Love](https://open.spotify.com/album/6oA3Qy6OrZNAovJ7ZyULQQ) | 2:54 | 2026-01-30 | 2026-02-06 |
-| [HEAVENLY RACE](https://open.spotify.com/track/5AkqKdLdYBW3E7Y8QTIz9D) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [RED PILL](https://open.spotify.com/album/1SKQZBp2bLPP3OMqoYAwkJ) | 3:29 | 2026-05-29 |  |
+| [HEAVENLY RACE](https://open.spotify.com/track/5AkqKdLdYBW3E7Y8QTIz9D) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [RED PILL](https://open.spotify.com/album/1SKQZBp2bLPP3OMqoYAwkJ) | 3:29 | 2026-05-29 | 2026-10-21 |
 | [Hello](https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hello](https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr) | 2:50 | 2026-05-15 | 2026-05-22 |
 | [HGF](https://open.spotify.com/track/1CKrhdDdnHFk1EGsLVwUnR) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [HGF](https://open.spotify.com/album/6M9MsS9A5fFSGd6yMjVQdq) | 2:44 | 2026-03-13 | 2026-04-30 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 | 2024-02-09 |

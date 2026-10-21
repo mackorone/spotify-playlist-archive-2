@@ -1,12 +1,12 @@
 {
   "description": "Hotpot & HOTPOP \u6211\u5011\u90fd\u611b\uff01\u65b0\u9bae\u6efe\u71b1\u8fa3 Mando-HOTpop track ! Cover: Hebe \u7530\u99a5\u7504",
-  "num_followers": 34082,
+  "num_followers": 34075,
   "original_name": "HOTPOP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAcmYaMtjSP86DEFFR+tiQFoElIv",
+  "snapshot_id": "AAAAAO/oFIk/uNi9C7qZXLpI7UzFPJqG",
   "tracks": [
     {
       "added_at": "2026-09-25 17:31:34",
@@ -815,6 +815,26 @@
       "duration_ms": 240000,
       "name": "Birdy Fly",
       "url": "https://open.spotify.com/track/1kYQz3ILMz6t6QiEuMeNpQ"
+    },
+    {
+      "added_at": "2026-10-20 08:30:27",
+      "album": {
+        "name": "\u5c0f\u724c\u5927\u800d",
+        "url": "https://open.spotify.com/album/6VRGnZFFwQVynqeSOARaLx"
+      },
+      "artists": [
+        {
+          "name": "Billionhappy",
+          "url": "https://open.spotify.com/artist/348VulOjvQcgJgL8hBCFZr"
+        },
+        {
+          "name": "Akemen\u6740",
+          "url": "https://open.spotify.com/artist/13C9C6bk4DDD98Bg2XkdVt"
+        }
+      ],
+      "duration_ms": 150265,
+      "name": "\u5c0f\u724c\u5927\u800d",
+      "url": "https://open.spotify.com/track/17tQ6PZUPDDYVifimFdMwm"
     },
     {
       "added_at": "2026-09-25 17:31:34",

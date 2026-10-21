@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Valter Nilsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,626 likes - 199 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,622 likes - 199 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 198 | [Lubnan \(لبنان\)](https://open.spotify.com/track/0iON9wU5x2Isk7zefu1t99) | [Nicole Sabouné](https://open.spotify.com/artist/2lPG3ptKlBdxvQ8XlH8nEk) | [Lubnan \(لبنان\)](https://open.spotify.com/album/4z0HkMA3ktMlt4cGVOrMFU) | 5:16 |
 | 199 | [Händer](https://open.spotify.com/track/4YqxiA5nPFNevQQ72Y5D9d) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 4:25 |
 
-Snapshot ID: `AAAAAIH4yRaqIZ6Qayne6EDUBHiCy1XD`
+Snapshot ID: `AAAAALxx2sTYkWg+zwXx63YpuTipo3U4`

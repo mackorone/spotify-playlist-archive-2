@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,757 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,791 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 24 | [Triste Y Vacía](https://open.spotify.com/track/53GPxPUQjOBFIU4SEbQ1ze) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Anthology](https://open.spotify.com/album/4886ILGnNYIFzsgxC6JFLJ) | 6:10 |
 | 25 | [Senor Sereno](https://open.spotify.com/track/4DP2GpPC1F8tFyGRMY4fbA) | [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Oportunidad](https://open.spotify.com/album/2HeEHgCPC1b1mPUBfv37rK) | 5:31 |
 | 26 | [Che Che Cole](https://open.spotify.com/track/0FriNBfZnUzIAXRkYH1SHH) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Cosa Nuestra](https://open.spotify.com/album/7h9smttvUvPPLLQeRWOPbI) | 3:32 |
-| 27 | [Lejos De Ti](https://open.spotify.com/track/1u3myea0ndESXsA2OifxCQ) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Sabor](https://open.spotify.com/album/62j3BsaN0cXPxbvOwvwlhH) | 4:15 |
-| 28 | [Juliana](https://open.spotify.com/track/4HORNZa8fdeg2pjJBm51Zz) | [Cuco Valoy](https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE) | [Salsas Grandes Éxitos](https://open.spotify.com/album/5TZ0b6WVre1uW94NxmI4WP) | 4:20 |
+| 27 | [Juliana](https://open.spotify.com/track/4HORNZa8fdeg2pjJBm51Zz) | [Cuco Valoy](https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE) | [Salsas Grandes Éxitos](https://open.spotify.com/album/5TZ0b6WVre1uW94NxmI4WP) | 4:20 |
+| 28 | [Lejos De Ti](https://open.spotify.com/track/1u3myea0ndESXsA2OifxCQ) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Sabor](https://open.spotify.com/album/62j3BsaN0cXPxbvOwvwlhH) | 4:15 |
 | 29 | [Lluvia Con Nieve](https://open.spotify.com/track/1bTfh8IF7GIOuxtQcfXMF4) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx) | [Que Gente Averigua](https://open.spotify.com/album/7mpXUilEGA93vFJDrpQEaK) | 2:57 |
 | 30 | [El Cantante](https://open.spotify.com/track/1uRXl9FJPkommfTTqXkhRo) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/3TZvhtRWCC83hHykgTmu6G) | 10:26 |
 | 31 | [Popurri Navideño / Estrellas De Oriente \(De Tierras Lejanas\) / Noche De Paz / La Virgen Maria / La Tierra Mia](https://open.spotify.com/track/7nmQRUWNptOVlHlxDAYMWE) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Asalto Navideño Deluxe Edition](https://open.spotify.com/album/5anrfHL63mx1v31grZcTbo) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 49 | [Siempre Alegre](https://open.spotify.com/track/6otJXrhINqJosHnDwFtGj2) | [Raphy Leavitt](https://open.spotify.com/artist/0MEfUKKTbD1V0312mx08JR) | [The Greatest Salsa Ever](https://open.spotify.com/album/4tYWoynGUNW2Hsz1Q2jC9Q) | 5:18 |
 | 50 | [El Nazareno](https://open.spotify.com/track/062vOe8esScYEDw4cPvBxs) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Herencia](https://open.spotify.com/album/7C94KIrL1IS3hHQwQ9BbGr) | 5:36 |
 
-Snapshot ID: `AAAAAOopcEtgQAMgTcg4M5FcgTCIazTK`
+Snapshot ID: `AAAAAFKXppdagn3G4D73Z4c+rPyEInEw`

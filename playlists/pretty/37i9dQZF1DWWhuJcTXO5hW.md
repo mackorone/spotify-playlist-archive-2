@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,839 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,846 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 26 | [Lotus Feet](https://open.spotify.com/track/5nrENJiiZa2H3MwhT2Yggs) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2) | [Ahi](https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF) | 6:18 |
 | 27 | [Makam Ajam / Tala'a Mint Beit Abouha \- Takassim](https://open.spotify.com/track/1ahxUKddfqp0ZRTySX4vwZ) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [To My Father](https://open.spotify.com/album/5IQmbdf0EFqGyuwpV6J85n) | 4:10 |
 | 28 | [Alhambra Arabic Moorish Princess Song for Flamenco Guitar](https://open.spotify.com/track/0vgccJeXNDJ5KudfDDzhOu) | [Andrei Krylov](https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv) | [Music of Spanish Streets and New Flamenco Gypsy Guitar \(For Best Romantic Ambience, Lounge, Dining, Spa, Party\)](https://open.spotify.com/album/7xYgUEQ6BM0haJCKvA8qHv) | 4:11 |
-| 29 | [Souk Okaz](https://open.spotify.com/track/0M9KszKXLp1kjRTB5td9cT) | [Jean\-Marie Riachi](https://open.spotify.com/artist/3BEhzj32z2DGb1gPINNZwc) | [Souk Okaz](https://open.spotify.com/album/3af9UPxr1VkRwmp5rPdJcB) | 5:49 |
-| 30 | [Flamenco](https://open.spotify.com/track/2C4ksQvwsrBUH4okwq4ghL) | [Marcel Khalife](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Concerto Al Andalus](https://open.spotify.com/album/77jCXEpGQIAYIcUAumAsc5) | 0:59 |
+| 29 | [Flamenco](https://open.spotify.com/track/2C4ksQvwsrBUH4okwq4ghL) | [Marcel Khalife](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Concerto Al Andalus](https://open.spotify.com/album/77jCXEpGQIAYIcUAumAsc5) | 0:59 |
+| 30 | [Souk Okaz](https://open.spotify.com/track/0M9KszKXLp1kjRTB5td9cT) | [Jean\-Marie Riachi](https://open.spotify.com/artist/3BEhzj32z2DGb1gPINNZwc) | [Souk Okaz](https://open.spotify.com/album/3af9UPxr1VkRwmp5rPdJcB) | 5:49 |
 | 31 | [Evasion](https://open.spotify.com/track/7Cl0zb7UjCTyfM3Ake3PHF) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Reve](https://open.spotify.com/album/3UVWsuGDZHBzN7y958NXl4) | 4:57 |
 | 32 | [Dreams Of A Dying City](https://open.spotify.com/track/6ZEmjcKnZvbWV2qBvDR3rm) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT), [Jarrod Cagwin](https://open.spotify.com/artist/5sWtE2cBLTTbo9bfrNOYN0), [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0), [Gavino Murgia](https://open.spotify.com/artist/6iCQomJORy2bN4R47rVTvP), [Michel Godard](https://open.spotify.com/artist/1A25jYWj9rD6Co1KbnBGav) | [Hungry People](https://open.spotify.com/album/37ZVvmVPYFCyaDdNZaSRof) | 5:34 |
 | 33 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 49 | [Mouassal](https://open.spotify.com/track/7nHhEPcoSSs9t06LdxWhFF) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [Antoine Khalife](https://open.spotify.com/artist/1gjCKGbc7gfW3FFSiSNAld), [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Bassam Saleh](https://open.spotify.com/artist/5EqVGwu1oKl89yKKuJnbNv), [Ali El Khatib](https://open.spotify.com/artist/5yIcPZLOTa7K2XRmpMddwk), [Albert Rouhana](https://open.spotify.com/artist/71bU7HnM3LflAuhVJ2WTqt) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/3Y2Qk9BMD0Wc8qiS9fYQi6) | 1:21 |
 | 50 | [D'un crépuscule, l'autre](https://open.spotify.com/track/4g429S9DBkgold5zSRTJQa) | [Abderraouf Ouertani](https://open.spotify.com/artist/7fLHLIzQkhIOqrotQlR1rA) | [Contes d'un misérable luth](https://open.spotify.com/album/11bEbaZkzjPf9l1phqxhbn) | 6:49 |
 
-Snapshot ID: `AAAAAKdR/jyotp9X2P4qAiptqr5nvzpE`
+Snapshot ID: `AAAAAFJPD70iZM+e54D1JpaPKKl0Cc2K`

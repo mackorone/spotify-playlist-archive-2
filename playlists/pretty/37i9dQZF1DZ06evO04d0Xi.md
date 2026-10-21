@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,781 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,782 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 49 | [Medley A Doçura do Teu Falar \- Ao Vivo](https://open.spotify.com/track/2onlvZpMAwpTKTAZN47Hr4) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Memórias do Coração \- Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3gSlwMZxzxqPSDi5vjohCS) | 8:02 |
 | 50 | [Te Amo Tanto \(feat\. Fernanda Brum\)](https://open.spotify.com/track/1dZmUPNuSob99F8hLnwCfb) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 5:04 |
 
-Snapshot ID: `atQMAAAAAADJUb3gi/ppaosiDKYuPxtA`
+Snapshot ID: `atQMAAAAAACrybJRCKlZWQ8+HRRg4TmD`

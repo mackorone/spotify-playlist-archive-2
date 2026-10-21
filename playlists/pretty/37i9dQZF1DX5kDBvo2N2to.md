@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,434 likes - 90 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,432 likes - 90 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 46 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 |
 | 47 | [Hurricane](https://open.spotify.com/track/4rXHS9bOSDLYMABNzl9CaK) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Hurricane](https://open.spotify.com/album/3hEjufLp0R2YfqS6cWvCdO) | 3:25 |
 | 48 | [Feelin' Myself](https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Feelin' Myself](https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56) | 2:45 |
-| 49 | [Göteborg](https://open.spotify.com/track/7pFOZqgnaKfwxcPnGTEWXw) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 3:48 |
+| 49 | [Hollow](https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Hollow](https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up) | 2:56 |
 | 50 | [Döden ut](https://open.spotify.com/track/7ELcAhaKTQc95IiXS2A742) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Döden ut](https://open.spotify.com/album/5GiH51ivtO7V5v7cqvsWdJ) | 3:39 |
-| 51 | [Hollow](https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Hollow](https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up) | 2:56 |
+| 51 | [Göteborg](https://open.spotify.com/track/7pFOZqgnaKfwxcPnGTEWXw) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 3:48 |
 | 52 | [Allt jag har](https://open.spotify.com/track/0LDw8mHf4tJcYbf5PvInGu) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/38dw8O2dALUkElF0nicULR) | 2:52 |
 | 53 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
 | 54 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 63 | [Half Of Me](https://open.spotify.com/track/5cMsL1wGrHYivlEZ7SKQbV) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Half Of Me](https://open.spotify.com/album/5tJmDdsgvBAsAqq37hgwWo) | 2:58 |
 | 64 | [Mimosa](https://open.spotify.com/track/1mYHXcfv89s3NfqYUKdqMW) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/38dw8O2dALUkElF0nicULR) | 3:12 |
 | 65 | [Störd](https://open.spotify.com/track/2IgrHNArmP0qRKbQ5UVeVB) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Störd](https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV) | 2:53 |
-| 66 | [EGO](https://open.spotify.com/track/0kIhtDAUHCIw8V8vWC738L) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:35 |
-| 67 | [Bara du är där](https://open.spotify.com/track/3zYTYk15l0ahY6cJ9MFrNT) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Bara du är där](https://open.spotify.com/album/48PQflk1qcTzmWM4ydT2En) | 3:02 |
+| 66 | [Bara du är där](https://open.spotify.com/track/3zYTYk15l0ahY6cJ9MFrNT) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Bara du är där](https://open.spotify.com/album/48PQflk1qcTzmWM4ydT2En) | 3:02 |
+| 67 | [EGO](https://open.spotify.com/track/0kIhtDAUHCIw8V8vWC738L) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:35 |
 | 68 | [Black Widow](https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [Black Widow](https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU) | 2:40 |
 | 69 | [Kaprifol](https://open.spotify.com/track/2smlSdstffsI9yfzH8xNfi) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Sverige](https://open.spotify.com/album/5gl3P6CM2tN7dnf4gXy6IZ) | 3:51 |
 | 70 | [Alla Ska Dö](https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Alla Ska Dö](https://open.spotify.com/album/4FGa0t6nw3MaVpLGs0cIif) | 2:46 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 86 | [Hos dig är jag stark](https://open.spotify.com/track/0L7nPD6GbbEGI5KdN2scId) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6), [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [Hos dig är jag stark](https://open.spotify.com/album/71CzIZ2fzyriXJf5kVI9Tj) | 3:07 |
 | 87 | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E), [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S) | 2:56 |
 | 88 | [Ung \- Acoustic](https://open.spotify.com/track/2m0qtGSqkwTYg83mhxpuok) | [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [Ung Acoustic](https://open.spotify.com/album/1KcdpBGxvbV9Ke35jUvyIJ) | 2:17 |
-| 89 | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/album/6twcBceHcvChiodG82Jryb) | 1:53 |
-| 90 | [Prayer](https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb) | 5:25 |
+| 89 | [Prayer](https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb) | 5:25 |
+| 90 | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/album/6twcBceHcvChiodG82Jryb) | 1:53 |
 
-Snapshot ID: `AAAAAIxnvDJfnPiq7HjHMUCeggcz8gm2`
+Snapshot ID: `AAAAAOzTKUqO1Lq+fC8O4P383oIhXIzO`

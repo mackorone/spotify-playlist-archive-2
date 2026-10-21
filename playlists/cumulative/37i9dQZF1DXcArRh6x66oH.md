@@ -2,7 +2,7 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> roots run deep with Flatland Cavalry
+> roots run deep with Sam Barber
 
 506 songs - 1 day 6 hr 26 min
 
@@ -50,7 +50,7 @@
 | [Beneath Oak Trees](https://open.spotify.com/track/6xqmYE5XbgqOl4LO39g5v6) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [No Better Time](https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s) | 3:57 | 2024-02-09 | 2026-06-27 |
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-04 | 2025-07-05 |
 | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Night Diving](https://open.spotify.com/album/10hjsM00M8pghNdZRwOShY) | 3:14 | 2025-09-12 |  |
-| [Better Year](https://open.spotify.com/track/16Dak03vkp5lEuwIFFpeOm) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Better Year / Jersey Giant](https://open.spotify.com/album/5y0pO2GUp0WxLpA2mlr199) | 3:20 | 2024-09-13 |  |
+| [Better Year](https://open.spotify.com/track/16Dak03vkp5lEuwIFFpeOm) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Better Year / Jersey Giant](https://open.spotify.com/album/5y0pO2GUp0WxLpA2mlr199) | 3:20 | 2024-09-13 | 2026-10-21 |
 | [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 | 2023-02-24 | 2024-01-05 |
 | [Bitin' List](https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 2:56 | 2025-08-08 |  |
 | [Black River Sway](https://open.spotify.com/track/7KM9s6XldjTpqTCI01fF1U) | [The Wet Whistles](https://open.spotify.com/artist/6Fvgm07RssXriVhFg3HTIj) | [Black River Sway](https://open.spotify.com/album/0ew7SFpsjqVNSRRxlgKw6Y) | 3:37 | 2026-04-24 |  |

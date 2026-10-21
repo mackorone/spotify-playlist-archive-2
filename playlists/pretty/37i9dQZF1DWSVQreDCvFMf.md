@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Eliza Maturan
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,224 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,266 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 99 | [Alas Dose](https://open.spotify.com/track/6AsLsDlKx2NCLnBm2o2E4M) | [Leona Lane](https://open.spotify.com/artist/3ccJJ7fzqjF8RWztYQleua) | [Alas Dose](https://open.spotify.com/album/6ASYrR9GxwjFMRrGoiw2Zp) | 3:34 |
 | 100 | [Pauwi Na Sa'yo](https://open.spotify.com/track/6fcXKIIOgvDLjALIq9eKyr) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Pauwi Na Sa'yo](https://open.spotify.com/album/2WrkCZhQ2azSUJBjqupbyk) | 5:45 |
 
-Snapshot ID: `AAAAAKvifVMRkblgsAU3iuP80dYdzTeZ`
+Snapshot ID: `AAAAAN5pVJsxEufUYW1H60hzW6mJZmWT`

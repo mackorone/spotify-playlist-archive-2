@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: Margo Cilker
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,718 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,733 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Love of the Song](https://open.spotify.com/track/0Tzk8dfVz0O5vdFzqUw8md) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Love of the Song](https://open.spotify.com/album/61URQ5acii7IEqzIusuDsS) | 3:21 |
 | 100 | [crescent reflections](https://open.spotify.com/track/5tPwyKkM5ug2mOWROm35II) | [wasp eater](https://open.spotify.com/artist/2dlyTYSPl66F5Ke47zFtkJ) | [crescent reflections](https://open.spotify.com/album/5am7S787OVEfqP6f5sQg1o) | 2:57 |
 
-Snapshot ID: `AAAAABtf2qaXRjxg3eqL1ZpOLj7wCbs9`
+Snapshot ID: `AAAAAAswGyfNTZn8gDAjF3wrIlNxfCdr`

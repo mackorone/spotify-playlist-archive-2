@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,677 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,694 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 | 79 | [girls will be girls \(feat\. WILLOW\)](https://open.spotify.com/track/27CMx2IQna3TPFhFtPih5p) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [MINI SKIRT WARRIOR](https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB) | 3:22 |
 | 80 | [Into Sunsets](https://open.spotify.com/track/45N0YzlkCqoVRFQ4ctzTTJ) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [tattoos used to come off in the pool](https://open.spotify.com/album/47lf6DoN6nXhwH2P3gG0P0) | 4:48 |
 
-Snapshot ID: `AAAAAOJ3Yk5gvp+l1zAurQKhyLc8gzvT`
+Snapshot ID: `AAAAABcoxvsrf+iJ30TyKM78mIVZAj1H`

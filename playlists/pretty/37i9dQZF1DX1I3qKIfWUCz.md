@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 
 > Our editors’ picks for this year's best\-kept pop secrets\. Cover: Mia Wray
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,394 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,404 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 | 27 | [Running/Planning](https://open.spotify.com/track/6oma8NfctZ4ir0m5FZmCM2) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:26 |
 | 28 | [self destruct mode](https://open.spotify.com/track/7KQXfLNFK9xtNAwhV4oupL) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [THE HELL OF APRIL](https://open.spotify.com/album/6zpmyHGqWXZA36k7Ex68FG) | 2:42 |
 | 29 | [GUAPA](https://open.spotify.com/track/5c7hCvAfvS1c9X27L8hFZF) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [GUAPA](https://open.spotify.com/album/2zYm7ggrjv0Xkj13BNuyHH) | 2:52 |
-| 30 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
+| 30 | [Intertwined](https://open.spotify.com/track/6i8n9UfoR5xybD6O9zTcVt) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [It's Always At Night](https://open.spotify.com/album/2oMIMZ0nmzotALQfXll9bA) | 3:54 |
 | 31 | [BURN WITH YOU](https://open.spotify.com/track/6zCTWOe7N8vCbKB9ZA6KsM) | [SELIN ](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [BURN WITH YOU](https://open.spotify.com/album/6K2xkAntfy0HWXUG1ONpoY) | 2:54 |
-| 32 | [Intertwined](https://open.spotify.com/track/6i8n9UfoR5xybD6O9zTcVt) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [It's Always At Night](https://open.spotify.com/album/2oMIMZ0nmzotALQfXll9bA) | 3:54 |
+| 32 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
 | 33 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 |
 | 34 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 |
 | 35 | [don't let me go](https://open.spotify.com/track/2ji2z7jiPIfcdBr4C8dCYN) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW) | [don't let me go](https://open.spotify.com/album/7sM9CTDFIHVd8kOtV5YsTh) | 2:35 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 | 47 | [Thelma et Louise](https://open.spotify.com/track/4WabBsw8o8lgMmJeSNirUz) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Thelma et Louise](https://open.spotify.com/album/6ob1nfJYrRIGZbTD9hJ5ZJ) | 2:40 |
 | 48 | [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 |
 | 49 | [No Audience](https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [No Audience](https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t) | 2:53 |
-| 50 | [Talk Me Down](https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Talk Me Down](https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL) | 2:52 |
+| 50 | [EDEN](https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [EDEN](https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA) | 3:22 |
 
-Snapshot ID: `AAAAAMjhl7auCt/elLtbEW5fS7tSgX3r`
+Snapshot ID: `AAAAAAieVgfhUHNCXlcWL7yS1H+a2pdg`

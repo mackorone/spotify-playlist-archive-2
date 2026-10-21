@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 157837,
+  "num_followers": 157841,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA3AIJwh8QDuPP7jJOmIS7ZH9fqW",
+  "snapshot_id": "AAAAAIjBpL7dh5IpbgwwuOkjyh0+JDeo",
   "tracks": [
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Den nye pige",
-        "url": "https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa"
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
       "artists": [
         {
-          "name": "Bl\u00e6st",
-          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
         }
       ],
-      "duration_ms": 169851,
-      "name": "Den nye pige",
-      "url": "https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi"
+      "duration_ms": 246320,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+        "name": "Den nye pige",
+        "url": "https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
         }
       ],
-      "duration_ms": 246320,
-      "name": "Incredible",
-      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
+      "duration_ms": 169851,
+      "name": "Den nye pige",
+      "url": "https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Vi ku' g\u00e5 hele vejen",
-        "url": "https://open.spotify.com/album/2XLM25ZmVGzM6PwNJoSlSK"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00e6st",
-          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
-        }
-      ],
-      "duration_ms": 206745,
-      "name": "Vi ku' g\u00e5 hele vejen",
-      "url": "https://open.spotify.com/track/4BXLTcYVt63AL28pQXnxp4"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "if we never met",
         "url": "https://open.spotify.com/album/2KfDGvN1Q2CkL5yYWeSglg"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 152714,
       "name": "Ur\u00f8rlig (feat. Karoline Mousing)",
       "url": "https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Vi ku' g\u00e5 hele vejen",
+        "url": "https://open.spotify.com/album/2XLM25ZmVGzM6PwNJoSlSK"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        }
+      ],
+      "duration_ms": 206745,
+      "name": "Vi ku' g\u00e5 hele vejen",
+      "url": "https://open.spotify.com/track/4BXLTcYVt63AL28pQXnxp4"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "GENSTART",
-        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
-      },
-      "artists": [
-        {
-          "name": "PATINA",
-          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
-        }
-      ],
-      "duration_ms": 280244,
-      "name": "Genstart",
-      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "I Sit In Parks",
         "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 130093,
       "name": "I Sit In Parks",
       "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "GENSTART",
+        "url": "https://open.spotify.com/album/7ypSM0c6URwWDv5GhSCk11"
+      },
+      "artists": [
+        {
+          "name": "PATINA",
+          "url": "https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh"
+        }
+      ],
+      "duration_ms": 280244,
+      "name": "Genstart",
+      "url": "https://open.spotify.com/track/1RzNsIIgaXfiAghwM0btqC"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "The Epilogue (Deluxe)",
+        "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 186971,
+      "name": "Hurt So Bad",
+      "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "v\u00e5gner",
         "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
       },
@@ -1427,18 +1443,18 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "The Epilogue (Deluxe)",
-        "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 186971,
-      "name": "Hurt So Bad",
-      "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
+      "duration_ms": 193133,
+      "name": "Love Her",
+      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1479,22 +1495,6 @@
       "duration_ms": 196090,
       "name": "Lonely (feat. Artigeardit)",
       "url": "https://open.spotify.com/track/00Ma3dn1eTeuz8LYEpUXQo"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Love Her",
-      "url": "https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 201086,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "bl\u00e5 n\u00e6tter",
         "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 158708,
       "name": "bl\u00e5 n\u00e6tter",
       "url": "https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/5dIhYtKB5Q8FbsvfehueGP"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 201086,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/7gxW8RQnNQHAFi6aBVMCBL"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/3fKYHJgBUoEnjmiTzzuhb4"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 205978,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "It's Gotta Be You",
         "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
       },
@@ -1915,18 +1899,34 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "stoppe med at elske nogen",
-        "url": "https://open.spotify.com/album/07DbAsBCVD1IpRCGelbtli"
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/3fKYHJgBUoEnjmiTzzuhb4"
       },
       "artists": [
         {
-          "name": "Lea Ey\u00f0bj\u00f8rg",
-          "url": "https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 192283,
-      "name": "stoppe med at elske nogen",
-      "url": "https://open.spotify.com/track/0tC2SW9xEH0Fz8NlAF225f"
+      "duration_ms": 205978,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "A Beautiful Real Life",
+        "url": "https://open.spotify.com/album/2SBm27QvS2epOxB2DvT5GP"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/6x7KACU6KC7vP8WFUwJxIz"
     }
   ],
   "unique_name": "ren hygge",

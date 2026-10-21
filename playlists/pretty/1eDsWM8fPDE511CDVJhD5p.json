@@ -6,8 +6,116 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAH6Bq0wfj18apLld52uXXw5m1kLvRk",
+  "snapshot_id": "AAAH91D6qyspbI1FavSOqNpoh+2fbfj3",
   "tracks": [
+    {
+      "added_at": "2026-10-20 07:18:34",
+      "album": {
+        "name": "Twinkle Telepathy",
+        "url": "https://open.spotify.com/album/7i93Vj1qJbchjm5aLcb1Bn"
+      },
+      "artists": [
+        {
+          "name": "irucaice",
+          "url": "https://open.spotify.com/artist/0giXiUwGnKdrVe96MLkTKX"
+        },
+        {
+          "name": "\u7434\u8449\u831c",
+          "url": "https://open.spotify.com/artist/49Y8mMUQlQiygkfx6w2d0U"
+        },
+        {
+          "name": "\u7434\u8449\u8475",
+          "url": "https://open.spotify.com/artist/30irihY8xoYYyiNsSHzRXU"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "\u30d2\u30df\u30c4\u306e\u30c6\u30ec\u30d1\u30b9 (feat. \u7434\u8449\u831c&\u7434\u8449\u8475)",
+      "url": "https://open.spotify.com/track/0LLiNybUglXJojMNNC1TyE"
+    },
+    {
+      "added_at": "2026-10-20 07:18:45",
+      "album": {
+        "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30a1",
+        "url": "https://open.spotify.com/album/06LHLcQJ3oOzacXInMGCB9"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u5b50",
+          "url": "https://open.spotify.com/artist/0dRTohab8XeVhAB7Xb0mPK"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30a1 (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/6PLk09AKQfcHh2MJkE1Kdh"
+    },
+    {
+      "added_at": "2026-10-20 07:18:57",
+      "album": {
+        "name": "Ubiquitous",
+        "url": "https://open.spotify.com/album/78Afda5OzqtT8tumPTGYOf"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u305f\u305f\u304b\u3044\u6c34\u65cf\u9928",
+          "url": "https://open.spotify.com/artist/4fhUR05dIHHDgjHNlqVDNb"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "\u6d77\u5e95\u3088\u308a (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4Kg5BahzVYEmkJ8r93Kl3M"
+    },
+    {
+      "added_at": "2026-10-20 07:19:09",
+      "album": {
+        "name": "\u30b7\u30eb\u30f4\u30a2\u30a6\u30a9\u30c3\u30c1\u30e3",
+        "url": "https://open.spotify.com/album/3wBozTObfTMsXUeLtpMZPN"
+      },
+      "artists": [
+        {
+          "name": "Glue",
+          "url": "https://open.spotify.com/artist/4RYgfACpO30g7D88VWvk85"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "\u30b7\u30eb\u30f4\u30a2\u30a6\u30a9\u30c3\u30c1\u30e3 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1TWnzJb09GkOwcB7blAqbd"
+    },
+    {
+      "added_at": "2026-10-20 07:19:20",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/6wgDxKWh8M1QV4BomnO7ej"
+      },
+      "artists": [
+        {
+          "name": "\u3081\u308d\u304f\u308b",
+          "url": "https://open.spotify.com/artist/7ylTFjdr6lbBsuQdHWQwtc"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "duration_ms": 209601,
+      "name": "SUPERSTAR (feat. KAITO)",
+      "url": "https://open.spotify.com/track/2LlYBQ6WEtLgXncVh0tjbY"
+    },
     {
       "added_at": "2026-10-13 07:06:06",
       "album": {
@@ -723,110 +831,6 @@
       "duration_ms": 173452,
       "name": "Gimme more! (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u5de1\u97f3\u30eb\u30ab&MEIKO)",
       "url": "https://open.spotify.com/track/0TYilgqP6ZXpZfw11z3HbH"
-    },
-    {
-      "added_at": "2026-06-30 07:40:01",
-      "album": {
-        "name": "\u97f3\u901f\u3092\u8d85\u3048\u3066",
-        "url": "https://open.spotify.com/album/1qbtmOPf4HjUuwvXv9tRBv"
-      },
-      "artists": [
-        {
-          "name": "Yunosuke",
-          "url": "https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks"
-        },
-        {
-          "name": "SEGA GAME MUSIC",
-          "url": "https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 264300,
-      "name": "\u97f3\u901f\u3092\u8d85\u3048\u3066 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/3YfBzvF5e5nVoNCgVTuRyU"
-    },
-    {
-      "added_at": "2026-06-30 07:40:11",
-      "album": {
-        "name": "\u30b6\u30e9\u30e1\u30ce\u30ad\u30ef\u30df",
-        "url": "https://open.spotify.com/album/4dZw2NF41KbvI11Q61NkOi"
-      },
-      "artists": [
-        {
-          "name": "STEAKA",
-          "url": "https://open.spotify.com/artist/5FJiFnQENgHOWUOYyqDol5"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 147567,
-      "name": "\u30b6\u30e9\u30e1\u30ce\u30ad\u30ef\u30df (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/7HcVwz4zAbQdX3p2sWhrmY"
-    },
-    {
-      "added_at": "2026-06-30 07:40:22",
-      "album": {
-        "name": "Daze Heat",
-        "url": "https://open.spotify.com/album/3P6SyYLM6aDHZyvrnUtcwf"
-      },
-      "artists": [
-        {
-          "name": "Rulmry.",
-          "url": "https://open.spotify.com/artist/5AVRmAGc8Z21NXZ1UUxySt"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 187961,
-      "name": "Daze Heat (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/7EzYgWBCG1dFsD8OPwxvuW"
-    },
-    {
-      "added_at": "2026-06-30 07:40:36",
-      "album": {
-        "name": "\u82b1\u706b",
-        "url": "https://open.spotify.com/album/1Sveo0wmsCjyu3Dmsjf7ZL"
-      },
-      "artists": [
-        {
-          "name": "ATOLS",
-          "url": "https://open.spotify.com/artist/1JiIdIqUZMFCPcZmTtSwLM"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "\u82b1\u706b (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/1xqlVovUqpyPitEOySMCFU"
-    },
-    {
-      "added_at": "2026-06-30 07:40:49",
-      "album": {
-        "name": "\u79c1\u305f\u3061\u306e\u8ddd\u96e2 \u2500\u2500 Scale of Us",
-        "url": "https://open.spotify.com/album/5UwTkX9ujgECQrX049S8Sz"
-      },
-      "artists": [
-        {
-          "name": "nyanyannya",
-          "url": "https://open.spotify.com/artist/35WjMs2c8YpOftd7VVPChv"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 173189,
-      "name": "\u79c1\u305f\u3061\u306e\u8ddd\u96e2 \u2500\u2500 Scale of Us (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/48Lrltf0O5RXMacNUNrvdS"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

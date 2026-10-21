@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,230 likes - 62 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,256 likes - 62 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 15 | [Love Really Hurts Without You](https://open.spotify.com/track/1wZAaGMT6gnaCqck7dwjKv) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 2:59 |
 | 16 | [I Was Made for Dancin'](https://open.spotify.com/track/3kovBaZ1LGLH1PL31qG7cL) | [Leif Garrett](https://open.spotify.com/artist/2MyNAoQL07EABerr6yhoT4) | [The Leif Garrett Collection](https://open.spotify.com/album/1FWTjROros7lbWXXmHKqJc) | 3:16 |
 | 17 | [Only the Strong Survive](https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:35 |
-| 18 | [Lost in Music \- 1995 Remaster](https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [The Best of Sister Sledge \(1973\-1985\)](https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt) | 4:47 |
-| 19 | [Shame](https://open.spotify.com/track/0uRzka6sn4LVUj8sHQELYz) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Legends](https://open.spotify.com/album/1snEinjkdX67nwrb2A9Y4C) | 6:33 |
+| 18 | [Shame](https://open.spotify.com/track/0uRzka6sn4LVUj8sHQELYz) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Legends](https://open.spotify.com/album/1snEinjkdX67nwrb2A9Y4C) | 6:33 |
+| 19 | [Lost in Music \- 1995 Remaster](https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [The Best of Sister Sledge \(1973\-1985\)](https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt) | 4:47 |
 | 20 | [Taste of Bitter Love](https://open.spotify.com/track/0EAtqMkJ13QYAN7QDcFiDs) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [About Love \(Expanded Edition\)](https://open.spotify.com/album/0rPCO55x3MGthe8qkn64o6) | 4:38 |
 | 21 | [Jack and Jill](https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR) | [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [Raydio](https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE) | 4:35 |
 | 22 | [Bad Luck \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 6:26 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 48 | [You Little Trustmaker](https://open.spotify.com/track/0oBGKZP0d982ct1ZZeX6Uq) | [The Tymes](https://open.spotify.com/artist/0a1BmEq1mZ5ufKMC2fsziR) | [Disco Party](https://open.spotify.com/album/7Kneel529obA7Qd9glamb4) | 2:49 |
 | 49 | [\(Ooh\-Wee\) He's Killing Me](https://open.spotify.com/track/1doc4es6AjX9WRuifoDZqt) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:26 |
 | 50 | [Pipeline](https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:57 |
-| 51 | [Call Me](https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 6:22 |
-| 52 | [You Should Be Dancing \- 2009 Remastered Version](https://open.spotify.com/track/5VAKsbOWGdBbg1VFlu9W8o) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9) | 4:16 |
+| 51 | [You Should Be Dancing \- 2009 Remastered Version](https://open.spotify.com/track/5VAKsbOWGdBbg1VFlu9W8o) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9) | 4:16 |
+| 52 | [Call Me](https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 6:22 |
 | 53 | [Never Too Much](https://open.spotify.com/track/72FyfakDR6pi2vZv5JVYn4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Collections](https://open.spotify.com/album/4Rk1aQOMmwSqGl6fqMhCiz) | 3:51 |
 | 54 | [Let's Groove](https://open.spotify.com/track/6ZFMq8W8dyUbTee0GDb08X) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Boogie Wonderland: The Best Of Earth, Wind & Fire](https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb) | 5:36 |
 | 55 | [Shake Your Body \(Down To The Ground\) \- Single Version](https://open.spotify.com/track/6yhVPXKXRblL2T4jFfz7mw) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Can You Feel It: The Jacksons Collection](https://open.spotify.com/album/2CvbITS0dlUwUtXoWD4OwS) | 3:45 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 61 | [A Simple Game](https://open.spotify.com/track/1UXYaXFyEogAXs4ddBnpZg) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [A Simple Game](https://open.spotify.com/album/0teJDgHyJ9lbThnbX7oTHz) | 5:03 |
 | 62 | [Now That We Found Love](https://open.spotify.com/track/4HfY87hxvIVCCLhNlQ59M9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Collections](https://open.spotify.com/album/0mImd05G3t8DkjQdDdPEoI) | 4:39 |
 
-Snapshot ID: `AAAAAAXG0YkmA8lhxfazX4rmMOI1x3z3`
+Snapshot ID: `AAAAAGKtw2fXCm1HDz7vEH4yaWgDCD4W`

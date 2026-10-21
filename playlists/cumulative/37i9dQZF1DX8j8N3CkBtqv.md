@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Akshath, Osho Jain, Aanchal Tyagi and other exciting artists.
 
-1,637 songs - 3 day 18 hr 14 min
+1,638 songs - 3 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Chaand](https://open.spotify.com/track/0ACh7VKReEyc47vLNS0Gd0) | [Shashwat Bulusu](https://open.spotify.com/artist/0OxO7c4K0ozx5CTPDhFOXO) | [Chaand](https://open.spotify.com/album/7DZ1RxttQdn38CLzOOtEST) | 5:40 | 2025-10-17 | 2025-11-08 |
 | [Chaand](https://open.spotify.com/track/2fz20eNZolwz1QyfPuhRfP) | [ShNik](https://open.spotify.com/artist/0ruaaxBe1WnNfu8iPykb0Y) | [Chaand](https://open.spotify.com/album/1bY2HK0xaFWGf31hCtcUiW) | 2:51 | 2025-10-10 | 2025-11-08 |
 | [Chaand Naya](https://open.spotify.com/track/00xVmAuOMf241gQr7PCguU) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Chaand Naya](https://open.spotify.com/album/1yIdhXQD0Vc0Wd1DY1goJV) | 2:29 | 2024-05-10 | 2024-06-29 |
-| [Chaand Taare](https://open.spotify.com/track/1nInzDozug1NYuPNEac2sL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [SHAYAN RASHID](https://open.spotify.com/artist/7BITIG8RVEI8ZML4KIXL8j), [PLAYTHENOVEL](https://open.spotify.com/artist/4x0HxfElCqeIb8WrtQj6QK) | [Chaand Taare](https://open.spotify.com/album/19KHRec1Thqv1QN5E2rboo) | 3:55 | 2026-08-28 |  |
+| [Chaand Taare](https://open.spotify.com/track/1nInzDozug1NYuPNEac2sL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II), [SHAYAN RASHID](https://open.spotify.com/artist/7BITIG8RVEI8ZML4KIXL8j), [PLAYTHENOVEL](https://open.spotify.com/artist/4x0HxfElCqeIb8WrtQj6QK) | [Chaand Taare](https://open.spotify.com/album/19KHRec1Thqv1QN5E2rboo) | 3:55 | 2026-08-28 | 2026-10-21 |
 | [Chaand Ye Taare](https://open.spotify.com/track/6ubWEMPGH6hHcjv7QATbpR) | [Shriya Jain](https://open.spotify.com/artist/0c387MWgOTvHKXGmulrUtZ), [Abir](https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO) | [Chaand Ye Taare](https://open.spotify.com/album/7Ily4txr7VnJ7pBW3SuHYl) | 3:08 | 2024-09-27 | 2024-11-15 |
 | [Chaanv Hai](https://open.spotify.com/track/6et8mGYy2VE7ZMU6PpyU9x) | [Nikhil Paul George](https://open.spotify.com/artist/7HHLBC9hUb55SDUcBlM8FQ), [Big Bat Music](https://open.spotify.com/artist/1qdkjvezv6kU0Cci6dRqrj) | [Chaanv Hai](https://open.spotify.com/album/46BdOyo8mMPZgFiIOnX0GW) | 3:15 | 2023-09-08 | 2023-10-07 |
 | [Chahat](https://open.spotify.com/track/7hjYCEPZtgwITeawPkkJbg) | [Shreya Sharma](https://open.spotify.com/artist/5ynya6OQtbgKi50xCDAdQ5), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV), [Akshay The One](https://open.spotify.com/artist/5IRSf4S62R0kCxuSyycXJd) | [Chahat](https://open.spotify.com/album/32uVffTjsNz34UxBBkKI9P) | 2:35 | 2024-07-19 | 2024-08-24 |
@@ -1110,6 +1110,7 @@
 | [Pahaad](https://open.spotify.com/track/416l6p2QFJUceAZcLGuXom) | [Sukrit Thakur](https://open.spotify.com/artist/3VBJZ7z2qR2hPlMrtAeqLv) | [Pahaad](https://open.spotify.com/album/1W62yM9tWboFmnkQacHyXg) | 2:45 | 2026-05-29 | 2026-07-18 |
 | [Pahadi Pyaar](https://open.spotify.com/track/5ebIDeI6UXzJUZMP7cvTxp) | [Liquid Lake](https://open.spotify.com/artist/59tEU0jAjUkuKWhzElmD8r), [ACHINX](https://open.spotify.com/artist/3SEsONpgPHbW9KXBWWabgm), [Gulbis Khan](https://open.spotify.com/artist/1BfNgRnl08Cf0SXoqAXKx3) | [Pahadi Pyaar](https://open.spotify.com/album/2x5Tj96nhW7aiYbf5lgTBf) | 1:34 | 2024-03-29 | 2024-05-11 |
 | [Pahadon Mein](https://open.spotify.com/track/2M2ebFEyGa12BfpVVJBcuG) | [Gursheet Khanuja](https://open.spotify.com/artist/6cGG5aDa7RjUOWbqMVlh66), [Geetesh Yadav](https://open.spotify.com/artist/2LPKu6MxNC5SRxeiHqRMrm) | [Pahadon Mein](https://open.spotify.com/album/6nO8SSVHoUq9GiOGUl1RK6) | 3:16 | 2024-06-28 | 2024-07-27 |
+| [Pahadon Mein](https://open.spotify.com/track/1x7MiNGNHuiFZsLERGOUA8) | [Tanay Chaturvedi](https://open.spotify.com/artist/05RI77swu2dVSJU8fRfEZk) | [Pahadon Mein](https://open.spotify.com/album/5QbHFbgE3Xd65UBekGE9UX) | 2:56 | 2026-10-16 |  |
 | [Paint It Over Me](https://open.spotify.com/track/6zOdT0oZeeYVK8R3B6hzbg) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Paint It Over Me](https://open.spotify.com/album/3D9DLneQgDyzaSL9J9DFUe) | 3:21 | 2025-05-30 | 2025-08-06 |
 | [Pakki Yaariyan](https://open.spotify.com/track/5031mC2rqyVb8Ggc3CnY4U) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Kalki](https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5), [Devendra Dangi](https://open.spotify.com/artist/00Rd0QgyKTupYWGE2eVoqd) | [Pakki Yaariyan](https://open.spotify.com/album/0sajgW9foM5nVNPaUp4c5M) | 3:24 | 2026-07-31 | 2026-10-03 |
 | [Pal Do](https://open.spotify.com/track/4pV0s0ZdX8oJKpHicsVoCQ) | [Shashwat Dixit](https://open.spotify.com/artist/2CIkcfZhKiBcjg2yEfuVSh) | [Pal Do](https://open.spotify.com/album/3LsKzan59CX9CgslW7AbtV) | 1:58 | 2024-06-14 | 2024-07-13 |

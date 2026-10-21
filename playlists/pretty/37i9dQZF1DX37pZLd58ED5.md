@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Marracash
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,240 likes - 114 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,237 likes - 114 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 96 | [Siamo Nebbia \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/7eaak6EyDuPuP6DBcPVOqF) | [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Precipitazioni](https://open.spotify.com/album/7eMYR9JDQBKkQEZ8cPvEzv) | 2:10 |
 | 97 | [Tra Le Nuvole](https://open.spotify.com/track/0VwOV4xeQ7OWCuRMlgHPf7) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Il Tre Beats](https://open.spotify.com/artist/5J1hksOnqoHRR7T3JHSY19) | [ELSEWHERE](https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I) | 2:45 |
 | 98 | [1 quore](https://open.spotify.com/track/1Ztjs0XzgoDRZE1PwFB7M4) | [Quest](https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw) | [1 quore](https://open.spotify.com/album/2ihs8kzqc6duDwJQEENriy) | 2:56 |
-| 99 | [Spigoli](https://open.spotify.com/track/1XQvMjA9IiIx1lAiTHSxQi) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [Spigoli](https://open.spotify.com/album/7d2mx3ECVdcvoLFLXrx8Qo) | 4:16 |
+| 99 | [Spigoli](https://open.spotify.com/track/1XQvMjA9IiIx1lAiTHSxQi) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk), [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [Spigoli](https://open.spotify.com/album/7d2mx3ECVdcvoLFLXrx8Qo) | 4:16 |
 | 100 | [VOLEVO CAPIRE CON MARRACASH](https://open.spotify.com/track/6UrPST46XxYPqbAAThhSMS) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [DISINCANTO](https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB) | 2:37 |
 | 101 | [Solo io \(?\)](https://open.spotify.com/track/6k9oH7omqCL4ic6sX8BrKW) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [26](https://open.spotify.com/album/67SBrrE0LhCNEJpar5MQ0P) | 3:22 |
 | 102 | [OK](https://open.spotify.com/track/4Omankg1sEMCJEieJGduI8) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [OK](https://open.spotify.com/album/0gHO8mZTMTQMNRxQgZrwuD) | 2:47 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 113 | [INVIDIOSA](https://open.spotify.com/track/0IlzQAJto4settbYqRONHP) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [DISINCANTO](https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB) | 2:57 |
 | 114 | [DIPENDE DA ME](https://open.spotify.com/track/4NQQ6OWPLDFcyPIkrNvvRT) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [DIPENDE DA ME](https://open.spotify.com/album/16U7q1DfJO1ztNnr02sEVb) | 2:56 |
 
-Snapshot ID: `AAAAAM3s/OwBA3Ic/ov/3f8C9GRrBmuo`
+Snapshot ID: `AAAAAF2UkKjopdR6amd9tVl1NSjwP3EC`

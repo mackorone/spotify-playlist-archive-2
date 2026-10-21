@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,534 likes - 37 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,535 likes - 37 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 33 | [Soya \- 2019 Remaster](https://open.spotify.com/track/2mRUFnV4bo5F8JKLniCenA) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane \(2019 Remaster\)](https://open.spotify.com/album/2ru8ZK0F2CyHfJm7th1wpv) | 4:39 |
 | 34 | [Beto](https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO) | 4:49 |
 | 35 | [Kombo Galia](https://open.spotify.com/track/0OZENqfFTW8YSuirwg8Fvm) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 4:27 |
-| 36 | [Goydiotodam](https://open.spotify.com/track/1vOXlVPiI7F8hBwy9CD5qc) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O) | 6:24 |
-| 37 | [Soko](https://open.spotify.com/track/2QPRGNETO1GeEcth5pfWyH) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Radio Mali](https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r) | 5:08 |
+| 36 | [Soko](https://open.spotify.com/track/2QPRGNETO1GeEcth5pfWyH) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Radio Mali](https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r) | 5:08 |
+| 37 | [Goydiotodam](https://open.spotify.com/track/1vOXlVPiI7F8hBwy9CD5qc) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O) | 6:24 |
 
 Snapshot ID: `atQMAAAAAABuM2Eo7Jc7WUqG0O7/p2eE`

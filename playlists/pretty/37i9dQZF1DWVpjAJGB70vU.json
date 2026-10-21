@@ -1,12 +1,12 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2275216,
+  "num_followers": 2275502,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPEDXUtMM8IMvZelw3biHBLoDpzx",
+  "snapshot_id": "AAAAAP/nEsLWgK/MaZIVbrSchXfQXeWM",
   "tracks": [
     {
       "added_at": "2026-02-11 22:52:29",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Out With A Bang",
-        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
-      },
-      "artists": [
-        {
-          "name": "David Lee Murphy",
-          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Dust On The Bottle",
-      "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "How Do You Like Me Now?!",
         "url": "https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 209066,
       "name": "How Do You Like Me Now?!",
       "url": "https://open.spotify.com/track/7rDcULv8vV16vetBjPJhuE"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Out With A Bang",
+        "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
+      },
+      "artists": [
+        {
+          "name": "David Lee Murphy",
+          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Dust On The Bottle",
+      "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "No Doubt About It",
-        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
+        "name": "Clay Walker",
+        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
       },
       "artists": [
         {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
         }
       ],
-      "duration_ms": 162466,
-      "name": "Wink",
-      "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
+      "duration_ms": 166626,
+      "name": "What's It to You",
+      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Clay Walker",
-        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
+        "name": "No Doubt About It",
+        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
       "artists": [
         {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
         }
       ],
-      "duration_ms": 166626,
-      "name": "What's It to You",
-      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
+      "duration_ms": 162466,
+      "name": "Wink",
+      "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 169546,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "On the Other Hand - All the Number Ones",
         "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
       },
@@ -1471,18 +1455,34 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Here In The Real World",
-        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
         }
       ],
-      "duration_ms": 185373,
-      "name": "Chasin' That Neon Rainbow",
-      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
+      "duration_ms": 169546,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Thinkin' Problem",
+        "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
+      },
+      "artists": [
+        {
+          "name": "David Ball",
+          "url": "https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Thinkin' Problem",
+      "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Thinkin' Problem",
-        "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
+        "name": "Here In The Real World",
+        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
       },
       "artists": [
         {
-          "name": "David Ball",
-          "url": "https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 181133,
-      "name": "Thinkin' Problem",
-      "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
+      "duration_ms": 185373,
+      "name": "Chasin' That Neon Rainbow",
+      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1583,8 +1583,8 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Greatest Hits: Mark Chesnutt",
-        "url": "https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg"
+        "name": "Too Cold At Home",
+        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
       },
       "artists": [
         {
@@ -1592,9 +1592,9 @@
           "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
         }
       ],
-      "duration_ms": 163560,
-      "name": "It's A Little Too Late - 1996 Greatest Hits Version",
-      "url": "https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw"
+      "duration_ms": 184840,
+      "name": "Brother Jukebox",
+      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1663,8 +1663,8 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Too Cold At Home",
-        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
+        "name": "Greatest Hits: Mark Chesnutt",
+        "url": "https://open.spotify.com/album/3BHgJUyzqtmUFnUngsDVeg"
       },
       "artists": [
         {
@@ -1672,9 +1672,9 @@
           "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
         }
       ],
-      "duration_ms": 184840,
-      "name": "Brother Jukebox",
-      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
+      "duration_ms": 163560,
+      "name": "It's A Little Too Late - 1996 Greatest Hits Version",
+      "url": "https://open.spotify.com/track/0D5L0ZxGyhEFTqhfiXwYxw"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1743,26 +1743,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Honky Tonk Angels",
-        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
+        "name": "High Lonesome",
+        "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        },
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 171133,
-      "name": "It Wasn't God Who Made Honky Tonk Angels",
-      "url": "https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd"
+      "duration_ms": 160360,
+      "name": "Better Class of Losers",
+      "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1783,22 +1775,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "High Lonesome",
-        "url": "https://open.spotify.com/album/3AFctn1twGQe6rPHzPvR02"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 160360,
-      "name": "Better Class of Losers",
-      "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Dreamin' Out Loud",
         "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
       },
@@ -1811,6 +1787,30 @@
       "duration_ms": 242266,
       "name": "(This Ain't) No Thinkin' Thing",
       "url": "https://open.spotify.com/track/44YTMbU3aqvE7q09rjyUb3"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Honky Tonk Angels",
+        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        },
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "It Wasn't God Who Made Honky Tonk Angels",
+      "url": "https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX"
-      },
-      "artists": [
-        {
-          "name": "Diamond Rio",
-          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "How Your Love Makes Me Feel",
-      "url": "https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Love Can Build A Bridge",
         "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 322706,
       "name": "Love Can Build A Bridge",
       "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX"
+      },
+      "artists": [
+        {
+          "name": "Diamond Rio",
+          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "How Your Love Makes Me Feel",
+      "url": "https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Homeward Looking Angel",
-        "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
-      },
-      "artists": [
-        {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Shake The Sugar Tree",
-      "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "No Place That Far",
         "url": "https://open.spotify.com/album/5lxFK2ZEsfmdS2Yevlj2mU"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 217400,
       "name": "No Place That Far",
       "url": "https://open.spotify.com/track/0Rg5tIACULED7Jv2sEzWSd"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Homeward Looking Angel",
+        "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
+      },
+      "artists": [
+        {
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Shake The Sugar Tree",
+      "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
     },
     {
       "added_at": "2026-02-11 22:52:29",

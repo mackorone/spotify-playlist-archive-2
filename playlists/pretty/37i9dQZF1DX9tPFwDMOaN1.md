@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > The new & hottest K\-Pop is here! \(Cover: NMIXX\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,126,108 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,126,966 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [긴 소원 \(Birthday Wish\)](https://open.spotify.com/track/6F0vhKF4fy9WQi39JPQnCv) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Strange Muse](https://open.spotify.com/album/5ONb8685IYLUQ7ze941nUP) | 3:20 |
 | 2 | [Looks Can Kill](https://open.spotify.com/track/39sjfpQLGBJnvwTox6LLkn) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/0Vq9KyuTQg7Wo1NJfXwyTm) | 3:15 |
-| 3 | [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 |
+| 3 | [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 |
 | 4 | [CRASH](https://open.spotify.com/track/1pU7ywmV4nJsgJcnuPMLyw) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [CRASH](https://open.spotify.com/album/2aYxa2gszF0aAZI8adt7oI) | 2:52 |
 | 5 | [GO HARD](https://open.spotify.com/track/3P2MygdWs8lorZnwV3KrsJ) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [GO HARD](https://open.spotify.com/album/5Si3zne2PC6ZkXOHDY2SXo) | 3:07 |
 | 6 | [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 49 | [UNDEAD](https://open.spotify.com/track/4THREzrCR5aHcBvRWlXRpw) | [SUNGHANBIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [DEAD:ALIVE](https://open.spotify.com/album/0gWgNvFV0YTgvjnQtZ6luq) | 2:52 |
 | 50 | [2.0](https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:49 |
 
-Snapshot ID: `AAAAANkz8II7R6vlIQGV1CQHdN0yaGOK`
+Snapshot ID: `AAAAABwFGCH3RYUiUBYgkqbqJhx0sUny`

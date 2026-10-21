@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdaIjAsPE9ht.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdaIjAsPE9ht) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXdaIjAsPE9ht)
 
-### [sad lofi](https://open.spotify.com/playlist/37i9dQZF1DXdaIjAsPE9ht)
+### [rainy day lofi](https://open.spotify.com/playlist/37i9dQZF1DXdaIjAsPE9ht)
 
-> sad beats for the feels 🌧️💔 when everything's a little too much
+> sad lofi to keep your thoughts company when u r down 🌧️ remember this too shall pass
 
 164 songs - 6 hr 20 min
 

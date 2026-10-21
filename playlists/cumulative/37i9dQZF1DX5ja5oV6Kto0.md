@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro fusion music: Cruel Santino
 
-1,196 songs - 2 day 9 hr 10 min
+1,196 songs - 2 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1036,7 +1036,7 @@
 | [SUSHI STAND!](https://open.spotify.com/track/04ntgqtFKNBgHFhiKKfHwP) | [PhlyMur](https://open.spotify.com/artist/1Rx24j5gKzt8H22A5tfmpG) | [SUSHI STAND!](https://open.spotify.com/album/74fkRdAAeijP2RwpnKwS75) | 5:32 | 2022-02-03 | 2022-03-12 |
 | [SUV](https://open.spotify.com/track/2PeErwVrlNWQe9rUuNH7CN) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [SUV](https://open.spotify.com/album/54RojlSYjybyjnpiwy18tE) | 2:58 | 2023-05-04 | 2023-05-12 |
 | [Suya](https://open.spotify.com/track/7tyyz6kEEoazUPEu11j4Fh) | [Gloccboy](https://open.spotify.com/artist/7IdFjpPARqjAqn2as4AUFQ), [dayo](https://open.spotify.com/artist/3cRMY8ZYaVkHbKyR0aCt5Q) | [Suya](https://open.spotify.com/album/6kjoVlKVnGyOuAolftBJks) | 2:21 | 2026-05-15 | 2026-05-29 |
-| [Swag Up](https://open.spotify.com/track/0ayOzJH8S7ikVxGe4FphUc) | [Tobi Nation](https://open.spotify.com/artist/7pzMp7mAU2KRlAjtYuKoje), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx), [DaveTheOracle](https://open.spotify.com/artist/5KbCVC6DvprtEp30AA093z), [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd) | [Swag Up](https://open.spotify.com/album/3lYTeMnf7e2QH7MCfeBMGR) | 2:13 | 2026-10-16 |  |
+| [Swag Up](https://open.spotify.com/track/0ayOzJH8S7ikVxGe4FphUc) | [Tobi Nation](https://open.spotify.com/artist/7pzMp7mAU2KRlAjtYuKoje), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx), [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd) | [Swag Up](https://open.spotify.com/album/3lYTeMnf7e2QH7MCfeBMGR) | 1:56 | 2026-10-16 |  |
 | [Swear, I Tried](https://open.spotify.com/track/4RGWcopCHddLdBw6bvznOn) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6) | [Swear, I Tried](https://open.spotify.com/album/5z5GhsGANxjU9jVoCrBR8W) | 2:28 | 2024-03-25 | 2024-09-07 |
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-10 | 2024-02-09 |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-28 | 2025-04-04 |

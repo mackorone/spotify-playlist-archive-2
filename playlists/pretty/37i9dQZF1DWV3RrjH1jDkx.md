@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Makosir, Synne Vo og Chris Abolade mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,571 likes - 96 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,567 likes - 96 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 95 | [WE ARE ALL DEMONS](https://open.spotify.com/track/5S8j2KApbuZwpve3DjEF54) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [WE ARE ALL DEMONS](https://open.spotify.com/album/3AO21Ik9cPZmbX8hjrqIUl) | 2:21 |
 | 96 | [Words \(About You\)](https://open.spotify.com/track/5wclYUbW0ikHRit2eUsQ6m) | [Elliot](https://open.spotify.com/artist/13HlSDWIZ8CBSq1ruAZxAe) | [Words \(About You\)](https://open.spotify.com/album/5ttMC342ltnOhcqTD4P7ET) | 4:09 |
 
-Snapshot ID: `AAAAAFBUVlv1MGA/3Hj+IP72rFFgh4T5`
+Snapshot ID: `AAAAAHEu9RafD7/aOjCvwjD4rq8ZBHSd`

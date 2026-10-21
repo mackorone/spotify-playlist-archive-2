@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: Emily Ann Roberts
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,345,161 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,345,159 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Audrey](https://open.spotify.com/track/5y3XP454ZRLBPVexyMzPBw) | [Ava Liv Mabry](https://open.spotify.com/artist/6zlB6kvR0qGgUz2S7l3H0N) | [Audrey](https://open.spotify.com/album/3cTZUwYANK5sx4WoLukJGy) | 3:45 |
 | 100 | [Nothin' Left To Burn](https://open.spotify.com/track/0IBrhRrN6cAKwryQiHrmca) | [Brandon Wisham](https://open.spotify.com/artist/51b8vVMeSaO3MAMfatptRu) | [Ain't What It Looks Like EP](https://open.spotify.com/album/2DYHIEAOvCTS8SMj9JSIki) | 3:08 |
 
-Snapshot ID: `AAAAAIFFd7fvXIxwDuf9DWKOhJmkYO0i`
+Snapshot ID: `AAAAAAIFc+L8Tow00XSZkZGSMHo/jj8U`

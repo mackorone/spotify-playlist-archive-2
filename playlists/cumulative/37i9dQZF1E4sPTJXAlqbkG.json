@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-30",
-  "description": "With Sonder, Summer Walker, Frank Ocean and more",
+  "description": "With Sonder, Drake, Bryson Tiller and more",
   "name": "PARTYNEXTDOOR Radio",
   "tracks": [
     {
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 164488,
       "name": "Care",
       "url": "https://open.spotify.com/track/3tkxfORwPo2zydAf25YFOc"
@@ -7430,7 +7430,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 291448,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/1c2wTe7doRRk2n1XZe0KAM"
@@ -9570,7 +9570,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 118153,
       "name": "PIMMIE'S DILEMMA",
       "url": "https://open.spotify.com/track/5b0957OUHcG5XXeFcxM0ws"
@@ -9610,7 +9610,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 268813,
       "name": "Pink Matter",
       "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
@@ -10632,7 +10632,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 237786,
       "name": "Say It",
       "url": "https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU"
@@ -10828,7 +10828,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 213626,
       "name": "Sex In The Porsche",
       "url": "https://open.spotify.com/track/7bHft9FWtH4KKjFe3qetJM"
@@ -12598,7 +12598,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 168182,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
@@ -13488,7 +13488,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 231964,
       "name": "Who Hurt You?",
       "url": "https://open.spotify.com/track/3fX3N9yUo3hNatc2BbJDLs"

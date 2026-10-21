@@ -1,12 +1,12 @@
 {
   "description": "layan je",
-  "num_followers": 173213,
+  "num_followers": 173260,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFA9IgDjvjbhmaoXsnR4GTox7tuB",
+  "snapshot_id": "AAAAABHrQmSBEi5pnUSy5jPqbIN7tZzM",
   "tracks": [
     {
       "added_at": "2026-09-18 00:19:01",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Bila Memang Kamu",
-        "url": "https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB"
-      },
-      "artists": [
-        {
-          "name": "Betrand Putra Onsu",
-          "url": "https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Bila Memang Kamu",
-      "url": "https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "Sementara, Selamanya",
         "url": "https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 227908,
       "name": "Salah Apa Aku",
       "url": "https://open.spotify.com/track/7vokkLgTYkd15cWSZ0lTp5"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Bila Memang Kamu",
+        "url": "https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB"
+      },
+      "artists": [
+        {
+          "name": "Betrand Putra Onsu",
+          "url": "https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Bila Memang Kamu",
+      "url": "https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Lumangad Oku Dika",
-        "url": "https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK"
-      },
-      "artists": [
-        {
-          "name": "Ryenald Guntabid",
-          "url": "https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D"
-        }
-      ],
-      "duration_ms": 248685,
-      "name": "Lumangad Oku Dika",
-      "url": "https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "Kata",
         "url": "https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 220083,
       "name": "Kata",
       "url": "https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Lumangad Oku Dika",
+        "url": "https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK"
+      },
+      "artists": [
+        {
+          "name": "Ryenald Guntabid",
+          "url": "https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D"
+        }
+      ],
+      "duration_ms": 248685,
+      "name": "Lumangad Oku Dika",
+      "url": "https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z"
     },
     {
       "added_at": "2026-09-18 00:19:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,646 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,647 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oUiKm.md) - [plain]
 | 49 | [Glowing Up](https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:52 |
 | 50 | [I Don't Know How to Love Him](https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [She is Risen: Volume One](https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE) | 4:19 |
 
-Snapshot ID: `atQMAAAAAACP5FFLSTD+N40f86dmThOV`
+Snapshot ID: `atVdgAAAAAAS8wRzs0QN+7X6fx6F19G+`

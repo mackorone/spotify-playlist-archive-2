@@ -1,12 +1,12 @@
 {
   "description": "The Indie highlights of 2017. Cover: The xx",
-  "num_followers": 163348,
+  "num_followers": 163346,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJtgwe3iV5AgJmnt485FC4H6/SiP",
+  "snapshot_id": "AAAAAGxzJeA7TpS/E729mOHIxwKHlc2y",
   "tracks": [
     {
       "added_at": "2024-03-18 13:08:31",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Lay It on Me",
-      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "The Nashville Sound",
         "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 215563,
       "name": "If We Were Vampires",
       "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Lay It on Me",
+      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Like Gold",
-      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Don't You Worry, Honey",
         "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 231896,
       "name": "High",
       "url": "https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Like Gold",
+      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Still Beating",
-      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Beautiful People Will Ruin Your Life",
         "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 207679,
       "name": "Turn",
       "url": "https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Still Beating",
+      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "You Say I'm in Love",
-        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
+        "name": "raingurl",
+        "url": "https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr"
       },
       "artists": [
         {
-          "name": "Banes World",
-          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 176760,
-      "name": "You Say I'm in Love",
-      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
+      "duration_ms": 237231,
+      "name": "raingurl",
+      "url": "https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "raingurl",
-        "url": "https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr"
+        "name": "You Say I'm in Love",
+        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
       },
       "artists": [
         {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+          "name": "Banes World",
+          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
         }
       ],
-      "duration_ms": 237231,
-      "name": "raingurl",
-      "url": "https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU"
+      "duration_ms": 176760,
+      "name": "You Say I'm in Love",
+      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Goodpain",
+        "url": "https://open.spotify.com/album/0tg6msTvhHx8glztrBii80"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 204208,
+      "name": "Beige",
+      "url": "https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "fabulist",
         "url": "https://open.spotify.com/album/2TAvYepGRE2H6l0tN3NOtv"
       },
@@ -1531,6 +1547,22 @@
       "duration_ms": 228061,
       "name": "anemone",
       "url": "https://open.spotify.com/track/4Z3P5tSmsB7BkFHFc38dz7"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 181136,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1551,18 +1583,34 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Goodpain",
-        "url": "https://open.spotify.com/album/0tg6msTvhHx8glztrBii80"
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH"
       },
       "artists": [
         {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 204208,
-      "name": "Beige",
-      "url": "https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs"
+      "duration_ms": 135706,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 357357,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1583,22 +1631,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 135706,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Goodie Bag",
         "url": "https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl"
       },
@@ -1611,38 +1643,6 @@
       "duration_ms": 146390,
       "name": "Goodie Bag",
       "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/4anxEzh8xEKSPXKHGWiFue"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 188385,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/5dcZUsgcMW57ju0A379O7c"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 181136,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq"
     }
   ],
   "unique_name": "Best of Indie 2017",

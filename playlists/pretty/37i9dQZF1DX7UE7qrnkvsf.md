@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 
 > Jazz that captures the essence of autumn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,589 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,812 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 149 | [Please, Stay](https://open.spotify.com/track/0uZvM7xsIRbh6WaLybZ32w) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Please, Stay](https://open.spotify.com/album/72CMXbNMdJhNIGRPsnYxBK) | 3:08 |
 | 150 | [A Lucky Break](https://open.spotify.com/track/7uINJ9uuLyurxRS7DrLRX0) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [A Lucky Break](https://open.spotify.com/album/4NDm0E97njkJoQ7KlsOn7d) | 3:09 |
 
-Snapshot ID: `AAAAAIwRoo0L7655Z75PiMernHI3IuFP`
+Snapshot ID: `AAAAACk3e74ctIzIDohCCDBhk1Xd2/Vs`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,418 likes - 80 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,443 likes - 80 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 27 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 |
 | 28 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |
 | 29 | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj) | 3:45 |
-| 30 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 |
-| 31 | [Run To God \(R.T.G\)](https://open.spotify.com/track/26rCCAd1YcewQG1gdLBuCO) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Run To God \(R.T.G\)](https://open.spotify.com/album/2fPZrIhOH9tLM74XnDqpuT) | 2:22 |
+| 30 | [Run To God \(R.T.G\)](https://open.spotify.com/track/26rCCAd1YcewQG1gdLBuCO) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Run To God \(R.T.G\)](https://open.spotify.com/album/2fPZrIhOH9tLM74XnDqpuT) | 2:22 |
+| 31 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 |
 | 32 | [Yahweh](https://open.spotify.com/track/4cnDMiBwVbuZVmS7keEFYn) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Yahweh](https://open.spotify.com/album/54mTdYyNY8CeHS6BNzWfbq) | 10:42 |
-| 33 | [Too Oiled](https://open.spotify.com/track/3fPWeU5dawXN52Z9geFYFR) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Too Oiled](https://open.spotify.com/album/0aqXe5YKPqIkGQgoTuDZKE) | 12:14 |
-| 34 | [Reckless Lover](https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Reckless Lover](https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB) | 8:57 |
-| 35 | [Light](https://open.spotify.com/track/4rN4PprdOYJQKaPp4HXVgz) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [Light](https://open.spotify.com/album/0n8RSKwC9lqA1ytFq0968A) | 6:08 |
+| 33 | [Reckless Lover](https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Reckless Lover](https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB) | 8:57 |
+| 34 | [Light](https://open.spotify.com/track/4rN4PprdOYJQKaPp4HXVgz) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [Light](https://open.spotify.com/album/0n8RSKwC9lqA1ytFq0968A) | 6:08 |
+| 35 | [Too Oiled](https://open.spotify.com/track/3fPWeU5dawXN52Z9geFYFR) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Too Oiled](https://open.spotify.com/album/0aqXe5YKPqIkGQgoTuDZKE) | 12:14 |
 | 36 | [God Will Work It Out](https://open.spotify.com/track/5evSnRhml9lC1iYr0Oanet) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [God Will Work It Out](https://open.spotify.com/album/6osf9pssDlwps1Dc6ZeORw) | 6:32 |
 | 37 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 |
 | 38 | [We Behold\(Qavah Anthem\)](https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [We Behold\(Qavah Anthem\)](https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM) | 12:53 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 67 | [Ogbon Mi O Gbe](https://open.spotify.com/track/7c8gwEfww1T0J2OHyugiAt) | [BisiManuel](https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO) | [Aanu Ni](https://open.spotify.com/album/1bbzsjqKvhvYaJCBiskpET) | 4:18 |
 | 68 | [Pain Killer](https://open.spotify.com/track/1ZgdZC6apTnoccNzM7qkSm) | [Saelem](https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb) | [Pain Killer](https://open.spotify.com/album/0IsBgS4ulHe5hchLBo5Xvc) | 2:52 |
 | 69 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 |
-| 70 | [Isi Gini](https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Isi Gini](https://open.spotify.com/album/4odNgQQKOPmNSQbs1k2bYj) | 4:29 |
-| 71 | [Armour Of God \- Live](https://open.spotify.com/track/5SInR2Eowv5QAygBhBR2Um) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Armour Of God \(Live\)](https://open.spotify.com/album/0oa2rieSsmUvVXK29dSg8F) | 12:25 |
+| 70 | [Armour Of God \- Live](https://open.spotify.com/track/5SInR2Eowv5QAygBhBR2Um) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Armour Of God \(Live\)](https://open.spotify.com/album/0oa2rieSsmUvVXK29dSg8F) | 12:25 |
+| 71 | [Isi Gini](https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Isi Gini](https://open.spotify.com/album/4odNgQQKOPmNSQbs1k2bYj) | 4:29 |
 | 72 | [Want to Grow](https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Want to Grow](https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo) | 3:09 |
 | 73 | [Nothing Spoils in my Hand](https://open.spotify.com/track/2XqCY3rGj9lQtfghvaucTT) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Nothing Spoils in my Hand](https://open.spotify.com/album/56Dzq59j8Af14cve3psPXv) | 4:27 |
 | 74 | [Yes Sir](https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Yes Sir](https://open.spotify.com/album/7IgNfEsxY4OxlNmPrJHoB4) | 4:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Greater](https://open.spotify.com/track/3TOHI2JXig0qnc1En5nvTI) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [VOH](https://open.spotify.com/artist/3zq1rVKwSM61vtf2NxOTAH) | [Greater](https://open.spotify.com/album/277xzl8jSqsZ9SQBXDG31e) | 6:02 |
 | 80 | [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 |
 
-Snapshot ID: `AAAAAJjeSOosZenbW9jFClQ5xyPUikYJ`
+Snapshot ID: `AAAAAI7jkeKZ/stggReQa9BALj5wDBG2`

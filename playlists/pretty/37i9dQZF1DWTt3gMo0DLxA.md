@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Basinga Basinga Balaaleee!
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,781 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,480 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [GlobeTrotter \(From "Varanasi"\)](https://open.spotify.com/track/1yamFTTVl9UymBBKeVRewV) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Chaitanya Prasad](https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf) | [GlobeTrotter \(From "Varanasi"\)](https://open.spotify.com/album/3F9p3s24oL5KZjzc1qfRwp) | 3:35 |
 | 50 | [Athiloka Sundari](https://open.spotify.com/track/7agbQBEJYIaKJ8lGVdq1bv) | [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 4:14 |
 
-Snapshot ID: `AAAAACwydomnlVRDJKoosQgFU/yRUZG8`
+Snapshot ID: `AAAAAAwNg7KEmijya+gmKglUfhXjRZAH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > Desde septiembre se siente que viene diciembre 🧊 🎄 En portada: Pastor Lopez, Lisandro Meza y Rodolfo Aicardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,060 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,057 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 48 | [El Negro Picante](https://open.spotify.com/track/5iIE3Qxd7IawB6AbXILRNm) | [Jose A\. Bedoya y Su Conjunto](https://open.spotify.com/artist/6OHqNNrJaoz5qQb5PNGdNh) | [Que Gran Relajo](https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1) | 2:53 |
 | 49 | [La Casa De Yagua](https://open.spotify.com/track/1tbePUzdnmWfcq1glFVPlc) | [Celina Y Reutilio](https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD) | [Que Bueno Baila Celina](https://open.spotify.com/album/3WkRkz7KIkA3VY0sezqF5m) | 3:04 |
 | 50 | [Fiesta de Mi Pueblo](https://open.spotify.com/track/0WXMlNme92zpMKnORbFqcX) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [A Mover el Esqueleto Con 3 Grandes](https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy) | 1:43 |
-| 51 | [La Colegiala](https://open.spotify.com/track/3tH54yi9lOIWqVwLNnHols) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [30 Cumbias Colombianas Pegaditas: Lo Nuevo Y Lo Mejor 2006](https://open.spotify.com/album/0hPWLQMdgBpwWxcBXEytLY) | 3:37 |
-| 52 | [Parranda De Navidad](https://open.spotify.com/track/1BXjTw8PFbnINTje3RaYOn) | [La Súper Banda](https://open.spotify.com/artist/1MAXIsPNjPxCxZS6fdOSMJ) | [Navidad Colombiana \- Para Cantar Y Bailar La Novena De Aguinaldos](https://open.spotify.com/album/3P5Kp1FhrmAUaPRJ5QDU7O) | 4:00 |
+| 51 | [Parranda De Navidad](https://open.spotify.com/track/1BXjTw8PFbnINTje3RaYOn) | [La Súper Banda](https://open.spotify.com/artist/1MAXIsPNjPxCxZS6fdOSMJ) | [Navidad Colombiana \- Para Cantar Y Bailar La Novena De Aguinaldos](https://open.spotify.com/album/3P5Kp1FhrmAUaPRJ5QDU7O) | 4:00 |
+| 52 | [La Colegiala](https://open.spotify.com/track/3tH54yi9lOIWqVwLNnHols) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [30 Cumbias Colombianas Pegaditas: Lo Nuevo Y Lo Mejor 2006](https://open.spotify.com/album/0hPWLQMdgBpwWxcBXEytLY) | 3:37 |
 | 53 | [Festival Vallenato](https://open.spotify.com/track/6i4R9dZBaldVry3dJ3zey4) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon) | [A Pulir la Hebilla](https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q) | 3:26 |
 | 54 | [Cumbia Sampuesana](https://open.spotify.com/track/0AQ1sJgFEjYNry4aApi51A) | [Super Orquesta Cartagena](https://open.spotify.com/artist/29Eu6B3m9rjWlHg3G4aWhC) | [Cumbias Solo Cumbias](https://open.spotify.com/album/7esqjVlp983ecsQ1I8DsIv) | 2:48 |
 | 55 | [La Molinera](https://open.spotify.com/track/7s2vffYrqcDb6ota0NbzdQ) | [Bovea Y Sus Vallenatos](https://open.spotify.com/artist/64OlwPCoVudxb3laVVxqvV), [Alberto Fernandez](https://open.spotify.com/artist/3Pp4UuZvKfW8dfnwYeQeic) | [Los Cantos Vallenatos de Escalona \- 18 Éxitos](https://open.spotify.com/album/2aDc695vrjmfMiZ1a1L0P6) | 3:02 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 69 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
 | 70 | [Rebelión](https://open.spotify.com/track/0b4VE6epbojSyLeyyuEJga) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 6:16 |
 | 71 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/4pvknJEcQuzyCj1b7KIkac) | [La Sabrosura Orquesta](https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb) | [Salsa Romántica: Lo Mejor de la Sabrosura](https://open.spotify.com/album/4Hoyewq2PnRCaGASIemZOZ) | 4:44 |
-| 72 | [Cali Pachanguero](https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV) | 5:09 |
-| 73 | [Todo el Mundo Necesita un Beso](https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Rochy](https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:11 |
+| 72 | [Todo el Mundo Necesita un Beso](https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Rochy](https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:11 |
+| 73 | [Cali Pachanguero](https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV) | 5:09 |
 | 74 | [El Santo Cachón](https://open.spotify.com/track/62Dsro7boSt2kTr0YY3OtX) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Éxitos los Embajadores Vallenatos](https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn) | 4:26 |
 | 75 | [En Barranquilla Me Quedo](https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Inmortal \(Vol\. 2\)](https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX) | 5:11 |
 | 76 | [Plegaria](https://open.spotify.com/track/2KT2fxUXxlNLvmMqaGDpNE) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Rescatando los Éxitos Originales de Long Play](https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51) | 3:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 79 | [Adiós Amor](https://open.spotify.com/track/0Mm50XeSEj5KGUZmQRuLfo) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [La Nueva Generación](https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv) | [Luis Mateus y la Nueva Generación](https://open.spotify.com/album/4Lym0TwNPWIATju1yAexkP) | 4:19 |
 | 80 | [Se Le Moja la Canoa \(La Canoa\)](https://open.spotify.com/track/0JVnEzXd7T3Q0nEvveigLn) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf), [Robinson Damián](https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat) | [Éxitos los Embajadores Vallenatos](https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn) | 4:18 |
 
-Snapshot ID: `AAAAAMRnOgTl3YW0jH+GreRVYblzy4Ej`
+Snapshot ID: `AAAAAGsUCue5fk7WsODzTpI/EQADMNDl`

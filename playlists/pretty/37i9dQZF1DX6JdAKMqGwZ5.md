@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Anni B Sweet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,237 likes - 120 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,226 likes - 120 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [TRIQUITRÁ](https://open.spotify.com/track/7E7xOpun0BhYe0fl6v1nzL) | [Dianka](https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh) | [TRIQUITRÁ](https://open.spotify.com/album/4fyA6fEJoPKHHfb0CoRtaa) | 2:06 |
 | 120 | [Reflejo](https://open.spotify.com/track/6eKf2CBWRUsxtUP2P0rwsN) | [Gazella](https://open.spotify.com/artist/1wmWQx4d3FD5M1FjIrk3wH) | [Reflejo](https://open.spotify.com/album/7HWj12XgMvVoW4x9uZs8ay) | 3:22 |
 
-Snapshot ID: `AAAAABvnDW5w52wZpJSfXmzOCxLWFWn2`
+Snapshot ID: `AAAAAJbS+bKqCzZpm9nlyYx+rcbQKAqN`

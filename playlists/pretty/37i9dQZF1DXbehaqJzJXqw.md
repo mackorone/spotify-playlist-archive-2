@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,034 likes - 85 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,218 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 84 | [Mes pas dans la neige \(Spanish Song Bird\)](https://open.spotify.com/track/7cM8i0m3As7TY3twK5867L) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [LA DISPARITION](https://open.spotify.com/album/6p2Mn3SnLuqX0HzzPh5zUV) | 4:17 |
 | 85 | [Samois A Moi](https://open.spotify.com/track/01PlkOByrDuSNkJEhaMnr3) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Diego Figueiredo](https://open.spotify.com/artist/0fJMs5Xxtz4NyjMx2J09Ra) | [Just The Two Of Us](https://open.spotify.com/album/7aD6SxbDiyXAXoagiOxeO9) | 3:32 |
 
-Snapshot ID: `AAAAACoOYwzBB2dcY8Y1K11hOoBLkhKE`
+Snapshot ID: `AAAAAJ7lg9z+9CyUpE9qyp9w0sz3by+U`

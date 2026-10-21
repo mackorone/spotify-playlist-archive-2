@@ -1,12 +1,12 @@
 {
   "description": "salgada a pista t\u00e1, n\u00e9? \ud83c\udf1a",
-  "num_followers": 1428940,
+  "num_followers": 1428847,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABPzXKMFUP+c9dCUJIDAStSRtgEL",
+  "snapshot_id": "AAAAAIGNY65n7adFkcdJY+unkGr2SKW7",
   "tracks": [
     {
       "added_at": "2026-10-16 03:01:04",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-10-16 03:01:04",
       "album": {
-        "name": "Kyan Ao Vivo no SALA",
-        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "Neguin 171 - Ao Vivo no SALA",
-      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
-    },
-    {
-      "added_at": "2026-10-16 03:01:04",
-      "album": {
         "name": "Depois Desse Show",
         "url": "https://open.spotify.com/album/0TUgdpPbD2eWUpzM5MHUQ5"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 133000,
       "name": "Depois Desse Show",
       "url": "https://open.spotify.com/track/0H1CU3L4ATZ5yfQOdwVPw0"
+    },
+    {
+      "added_at": "2026-10-16 03:01:04",
+      "album": {
+        "name": "Kyan Ao Vivo no SALA",
+        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "Neguin 171 - Ao Vivo no SALA",
+      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
     },
     {
       "added_at": "2026-10-16 03:01:04",
@@ -1039,6 +1039,34 @@
     {
       "added_at": "2026-10-16 03:01:04",
       "album": {
+        "name": "GLA",
+        "url": "https://open.spotify.com/album/40DNO5slQbdqxp7ofe4JZL"
+      },
+      "artists": [
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "Mc Dena",
+          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "DJ Menor PR",
+          "url": "https://open.spotify.com/artist/6dGVV3sQ1UpurvUsxob4hu"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "GLA",
+      "url": "https://open.spotify.com/track/5xtjMmsgTGARUHQw5EOdAC"
+    },
+    {
+      "added_at": "2026-10-16 03:01:04",
+      "album": {
         "name": "Escolhas",
         "url": "https://open.spotify.com/album/1a6S7FW7Qh1xBYVsXEH34S"
       },
@@ -1067,34 +1095,6 @@
       "duration_ms": 181079,
       "name": "Escolhas",
       "url": "https://open.spotify.com/track/1Mr9eFlc36B0geFXvVvNEA"
-    },
-    {
-      "added_at": "2026-10-16 03:01:04",
-      "album": {
-        "name": "GLA",
-        "url": "https://open.spotify.com/album/40DNO5slQbdqxp7ofe4JZL"
-      },
-      "artists": [
-        {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
-        },
-        {
-          "name": "Mc Dena",
-          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
-        },
-        {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        },
-        {
-          "name": "DJ Menor PR",
-          "url": "https://open.spotify.com/artist/6dGVV3sQ1UpurvUsxob4hu"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "GLA",
-      "url": "https://open.spotify.com/track/5xtjMmsgTGARUHQw5EOdAC"
     },
     {
       "added_at": "2026-10-16 03:01:04",
@@ -1147,6 +1147,58 @@
       "duration_ms": 210857,
       "name": "Voltar pra Casa",
       "url": "https://open.spotify.com/track/0oEgPFuiD0NXqiyCH6DDEY"
+    },
+    {
+      "added_at": "2026-10-16 03:01:04",
+      "album": {
+        "name": "SymSesh #002 - Piranha Sexy",
+        "url": "https://open.spotify.com/album/2RQwkWvVhr4xfoWcWbLnFs"
+      },
+      "artists": [
+        {
+          "name": "Fontes",
+          "url": "https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P"
+        },
+        {
+          "name": "tarisiix",
+          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
+        },
+        {
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
+        },
+        {
+          "name": "SYMSESH",
+          "url": "https://open.spotify.com/artist/2HSd4mxyhiYrKnMkluyjV4"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "SymSesh #002 - Piranha Sexy",
+      "url": "https://open.spotify.com/track/1tvYxnTEjDSpVwlvRCUdyV"
+    },
+    {
+      "added_at": "2026-10-16 03:01:04",
+      "album": {
+        "name": "Sol Na Lata",
+        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
+      },
+      "artists": [
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "Dj TC",
+          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
+        },
+        {
+          "name": "DJ PEPI",
+          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sol Na Lata",
+      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
     },
     {
       "added_at": "2026-10-16 03:01:04",
@@ -1207,58 +1259,6 @@
     {
       "added_at": "2026-10-16 03:01:04",
       "album": {
-        "name": "Sol Na Lata",
-        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
-      },
-      "artists": [
-        {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
-        },
-        {
-          "name": "Dj TC",
-          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
-        },
-        {
-          "name": "DJ PEPI",
-          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sol Na Lata",
-      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
-    },
-    {
-      "added_at": "2026-10-16 03:01:04",
-      "album": {
-        "name": "SymSesh #002 - Piranha Sexy",
-        "url": "https://open.spotify.com/album/2RQwkWvVhr4xfoWcWbLnFs"
-      },
-      "artists": [
-        {
-          "name": "Fontes",
-          "url": "https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P"
-        },
-        {
-          "name": "tarisiix",
-          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
-        },
-        {
-          "name": "Batista",
-          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
-        },
-        {
-          "name": "SYMSESH",
-          "url": "https://open.spotify.com/artist/2HSd4mxyhiYrKnMkluyjV4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "SymSesh #002 - Piranha Sexy",
-      "url": "https://open.spotify.com/track/1tvYxnTEjDSpVwlvRCUdyV"
-    },
-    {
-      "added_at": "2026-10-16 03:01:04",
-      "album": {
         "name": "dedin na boca",
         "url": "https://open.spotify.com/album/1u9MYHRtdhwc0RINHD8Qe4"
       },
@@ -1303,6 +1303,38 @@
       "duration_ms": 165428,
       "name": "Linha de frente",
       "url": "https://open.spotify.com/track/7Hc2jOYT9YbZuaGvdur8Yg"
+    },
+    {
+      "added_at": "2026-10-16 03:01:04",
+      "album": {
+        "name": "BASE: Baile do Crocodilo",
+        "url": "https://open.spotify.com/album/2ltEMEULKtwcnSjgMo2UZZ"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Meno Saaint",
+          "url": "https://open.spotify.com/artist/6JX06TYY9weAIjfnzFWqZL"
+        },
+        {
+          "name": "MC LCKaiique",
+          "url": "https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS"
+        },
+        {
+          "name": "firehell",
+          "url": "https://open.spotify.com/artist/5S5cXid7MLdSGEx52V7KZp"
+        }
+      ],
+      "duration_ms": 221802,
+      "name": "Tun Tun Tropa do 01",
+      "url": "https://open.spotify.com/track/5UTGKrvyfS3Lzp6OcwjEDH"
     },
     {
       "added_at": "2026-10-16 03:01:04",
@@ -1475,38 +1507,6 @@
       "duration_ms": 162442,
       "name": "Sacanagem",
       "url": "https://open.spotify.com/track/5VIBpPgjrTk1KoFxSj5G5b"
-    },
-    {
-      "added_at": "2026-10-16 03:01:04",
-      "album": {
-        "name": "BASE: Baile do Crocodilo",
-        "url": "https://open.spotify.com/album/2ltEMEULKtwcnSjgMo2UZZ"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Meno Saaint",
-          "url": "https://open.spotify.com/artist/6JX06TYY9weAIjfnzFWqZL"
-        },
-        {
-          "name": "MC LCKaiique",
-          "url": "https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS"
-        },
-        {
-          "name": "firehell",
-          "url": "https://open.spotify.com/artist/5S5cXid7MLdSGEx52V7KZp"
-        }
-      ],
-      "duration_ms": 221802,
-      "name": "Tun Tun Tropa do 01",
-      "url": "https://open.spotify.com/track/5UTGKrvyfS3Lzp6OcwjEDH"
     },
     {
       "added_at": "2026-10-16 03:01:04",

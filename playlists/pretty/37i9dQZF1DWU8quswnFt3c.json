@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume with Majo Aguilar from Mexico.",
-  "num_followers": 1023070,
+  "num_followers": 1022939,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHGfOMeXzU9YhetgUit1RnnFN9TV",
+  "snapshot_id": "AAAAAHDM1LiKljKRKcSfCga2fC5K2qrm",
   "tracks": [
     {
       "added_at": "2026-10-08 04:00:22",
@@ -211,18 +211,22 @@
     {
       "added_at": "2026-10-08 04:00:22",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
+        "name": "Jet Lag",
+        "url": "https://open.spotify.com/album/4tvHHcGKxKvU4Gpb7kHS9S"
       },
       "artists": [
         {
-          "name": "Not For Radio",
-          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 265606,
-      "name": "Ache",
-      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
+      "duration_ms": 181000,
+      "name": "Jet Lag",
+      "url": "https://open.spotify.com/track/60PVPWT6JRNlGiOBD2t4j8"
     },
     {
       "added_at": "2026-10-08 04:00:22",
@@ -243,22 +247,18 @@
     {
       "added_at": "2026-10-08 04:00:22",
       "album": {
-        "name": "Jet Lag",
-        "url": "https://open.spotify.com/album/4tvHHcGKxKvU4Gpb7kHS9S"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Not For Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Jet Lag",
-      "url": "https://open.spotify.com/track/60PVPWT6JRNlGiOBD2t4j8"
+      "duration_ms": 265606,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
     },
     {
       "added_at": "2026-10-08 04:00:22",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-10-08 04:00:22",
       "album": {
+        "name": "Palomitas en la muela",
+        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
+      },
+      "artists": [
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "duration_ms": 173547,
+      "name": "Palomitas en la muela",
+      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
+    },
+    {
+      "added_at": "2026-10-08 04:00:22",
+      "album": {
         "name": "PEKORITAS VOL.1",
         "url": "https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 131205,
       "name": "MARRANA",
       "url": "https://open.spotify.com/track/4OYazVAyxXpVEKZcGOEg9c"
-    },
-    {
-      "added_at": "2026-10-08 04:00:22",
-      "album": {
-        "name": "Palomitas en la muela",
-        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
-      },
-      "artists": [
-        {
-          "name": "ANASOF",
-          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
-        }
-      ],
-      "duration_ms": 173547,
-      "name": "Palomitas en la muela",
-      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
     },
     {
       "added_at": "2026-10-08 04:00:22",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-10-08 04:00:22",
       "album": {
-        "name": "Thisavros Mou",
-        "url": "https://open.spotify.com/album/0GMkj4HaRdxYY6PswqSGT7"
-      },
-      "artists": [
-        {
-          "name": "Katerina",
-          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "Thisavros Mou",
-      "url": "https://open.spotify.com/track/0x4jNAQZan8RDXDMTt0rKc"
-    },
-    {
-      "added_at": "2026-10-08 04:00:22",
-      "album": {
         "name": "Pop Pesado",
         "url": "https://open.spotify.com/album/08oJ7G42Vzh3ZHUi3Xl4l4"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 147386,
       "name": "LOBO",
       "url": "https://open.spotify.com/track/6iOQKeQA9IQWlheCgtiXon"
+    },
+    {
+      "added_at": "2026-10-08 04:00:22",
+      "album": {
+        "name": "Thisavros Mou",
+        "url": "https://open.spotify.com/album/0GMkj4HaRdxYY6PswqSGT7"
+      },
+      "artists": [
+        {
+          "name": "Katerina",
+          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "Thisavros Mou",
+      "url": "https://open.spotify.com/track/0x4jNAQZan8RDXDMTt0rKc"
     },
     {
       "added_at": "2026-10-08 04:00:22",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-10-08 04:00:22",
       "album": {
-        "name": "Qu\u00e9 Hubiera Pasado",
-        "url": "https://open.spotify.com/album/4kiLHKvcs4Tlm5h0kpekYC"
+        "name": "Ey, no molestes",
+        "url": "https://open.spotify.com/album/7pciEPMEdELNvsOP2aTNcw"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
         }
       ],
-      "duration_ms": 159061,
-      "name": "Qu\u00e9 Hubiera Pasado",
-      "url": "https://open.spotify.com/track/4OW4oNqxITRHCR2mNI226f"
+      "duration_ms": 248973,
+      "name": "Necesito menos",
+      "url": "https://open.spotify.com/track/1PN22sdWp7iSorGWcFOOcI"
     },
     {
       "added_at": "2026-10-08 04:00:22",
@@ -619,18 +619,18 @@
     {
       "added_at": "2026-10-08 04:00:22",
       "album": {
-        "name": "Ey, no molestes",
-        "url": "https://open.spotify.com/album/7pciEPMEdELNvsOP2aTNcw"
+        "name": "Qu\u00e9 Hubiera Pasado",
+        "url": "https://open.spotify.com/album/4kiLHKvcs4Tlm5h0kpekYC"
       },
       "artists": [
         {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
         }
       ],
-      "duration_ms": 248973,
-      "name": "Necesito menos",
-      "url": "https://open.spotify.com/track/1PN22sdWp7iSorGWcFOOcI"
+      "duration_ms": 159061,
+      "name": "Qu\u00e9 Hubiera Pasado",
+      "url": "https://open.spotify.com/track/4OW4oNqxITRHCR2mNI226f"
     },
     {
       "added_at": "2026-10-08 04:00:22",

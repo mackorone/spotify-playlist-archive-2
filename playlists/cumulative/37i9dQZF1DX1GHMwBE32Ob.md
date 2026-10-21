@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: TML Vibez
 
-544 songs - 1 day 0 hr 45 min
+545 songs - 1 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Beamer](https://open.spotify.com/track/4Agz7lwqwW1HMlcPpkH8Tn) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Beamer](https://open.spotify.com/album/6SVWihTBSwloSOnNvf9H7q) | 2:46 | 2024-11-22 | 2025-03-21 |
 | [Beg Tinubu](https://open.spotify.com/track/4sfGagz6cjLy1aCF8Vp1Dl) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won) | [Beg Tinubu](https://open.spotify.com/album/6gvc5A1HX1RfswUcokq2Sx) | 2:51 | 2025-09-19 | 2025-09-26 |
 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 | 2024-06-21 | 2025-11-06 |
+| [Better](https://open.spotify.com/track/47lAumJmAKOAtG4nPX6TVi) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Better](https://open.spotify.com/album/4G0QrA5dSghrSpRIz7cxtI) | 2:52 | 2026-10-16 |  |
 | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Big Big Things \(feat\. Kizz Daniel & Seyi Vibez\)](https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ) | 3:00 | 2024-02-23 | 2026-02-16 |
 | [BIG PERFORMER](https://open.spotify.com/track/7LzipcGtpXs2oSu9D86Uf0) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [BIG PERFORMER](https://open.spotify.com/album/4y79lgs0VpuvJqcd4oREYJ) | 2:49 | 2026-08-28 |  |
 | [Billionaire](https://open.spotify.com/track/3y2ZMeoLoyPIMPd2fNoR1u) | [Lonair](https://open.spotify.com/artist/0ZJXedhsvR55FN31vLkn06), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Cramps](https://open.spotify.com/album/1qQH0EkB9ZqzIFxeys49lZ) | 3:12 | 2024-09-27 | 2024-11-08 |
@@ -128,7 +129,7 @@
 | [Child's Play](https://open.spotify.com/track/7nr3wqDwJkiSDbcbct67Um) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Child's Play](https://open.spotify.com/album/06kfG0SpfO1jgulBUQBLkD) | 2:31 | 2023-11-03 | 2024-06-17 |
 | [Chokehold](https://open.spotify.com/track/1TjEMCS5Swwh5uPBsLszKh) | [Rhythm Vault](https://open.spotify.com/artist/3l3a3qtkbnMKKVXyZIXeSS), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Chokehold](https://open.spotify.com/album/6FkqVMy5DhIhsgE3z7Kz76) | 2:34 | 2026-08-28 |  |
 | [Chop Life](https://open.spotify.com/track/2Nbv86CqcUykqD1SvzkmlZ) | [Gdzilla](https://open.spotify.com/artist/2GYi94SMYCdXqsvYjer68K) | [Gdzilla](https://open.spotify.com/album/1KzWFmSUqNBdp646bQKpKO) | 2:32 | 2023-12-08 | 2024-01-09 |
-| [CLAAT!](https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [CLAAT!](https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx) | 2:54 | 2026-08-07 |  |
+| [CLAAT!](https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [CLAAT!](https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx) | 2:54 | 2026-08-07 | 2026-10-21 |
 | [CLEAR](https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:33 | 2026-08-21 | 2026-10-18 |
 | [CLOUD 9 \(GUCCI BBY\)](https://open.spotify.com/track/0s0HKUEoB3vmZqzM90GOJK) | [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [GUCCI & LV](https://open.spotify.com/album/6VFErC5TrSgbttDKc4LJJx) | 2:49 | 2026-04-10 | 2026-05-08 |
 | [Collect \- Afrobeat](https://open.spotify.com/track/4wNUpUL8niDXZX8FHeKs2a) | [DJ Baddo](https://open.spotify.com/artist/2Kw1ePXHREwlgngRzbaqR9), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Collect \(Afrobeat\)](https://open.spotify.com/album/4KtdOekMwPRnpmNFZQJ5nJ) | 2:46 | 2024-10-25 | 2024-11-08 |

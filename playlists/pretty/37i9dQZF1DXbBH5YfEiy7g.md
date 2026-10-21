@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,569 likes - 103 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,652 likes - 103 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 102 | [Yiwo Umsebenzi \- Live](https://open.spotify.com/track/2865NANaNu0HtICKUiKALb) | [Fafa Segoneco](https://open.spotify.com/artist/0Bgtv5VOq2sRCF91tzicbH) | [Hey Favour! \(Live\)](https://open.spotify.com/album/7xZjpcbSdfp10aJhZ5KoOP) | 8:43 |
 | 103 | [Ivangeli](https://open.spotify.com/track/3Dty5aNckcIkJdBhBl81ml) | [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Nhlanhla Sibisi](https://open.spotify.com/artist/0IVAeXQr9He3cUd2QTdsHK) | [Ivangeli](https://open.spotify.com/album/249JJMW3R8hNiFgOzpkCTz) | 5:25 |
 
-Snapshot ID: `AAAAAM6TH8ejN4YR/1x+1pp8wiiA8RzO`
+Snapshot ID: `AAAAADVQ7mmD97VmZAMppj9Nes8hmS4I`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[霏](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,672 songs - 4 day 0 hr 28 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,672 songs - 4 day 0 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Enjoy music from "Nijigasaki High School Idol Club"\. ©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,202 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,201 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 20 | [Fly with You!!](https://open.spotify.com/track/3HbYu8ekAukuOo5w71KBUp) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:34 |
 | 21 | [CHASE!](https://open.spotify.com/track/0pxXNuhsLLq6lfj1ZegUCK) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:18 |
 | 22 | [ツナガルコネクト](https://open.spotify.com/track/5STRLlJ8d8O8cImBgyxvNv) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [サイコーハート / La Bella Patria / ツナガルコネクト【天王寺璃奈盤】](https://open.spotify.com/album/7KjQ0RvxpgVELdpiIOkCSv) | 3:57 |
-| 23 | [Butterfly](https://open.spotify.com/track/0CmpgRM57Uq8KOQAzKOxrq) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [Butterfly / Solitude Rain / VIVID WORLD【近江彼方盤】](https://open.spotify.com/album/5FT50eiC2wHEFWfTU1DxYR) | 3:36 |
-| 24 | [無敵級\*ビリーバー](https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [無敵級\*ビリーバー](https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn) | 4:04 |
+| 23 | [無敵級\*ビリーバー](https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [無敵級\*ビリーバー](https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn) | 4:04 |
+| 24 | [Butterfly](https://open.spotify.com/track/0CmpgRM57Uq8KOQAzKOxrq) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [Butterfly / Solitude Rain / VIVID WORLD【近江彼方盤】](https://open.spotify.com/album/5FT50eiC2wHEFWfTU1DxYR) | 3:36 |
 | 25 | [Solitude Rain](https://open.spotify.com/track/7pTGAjgAD6mojP2oRwiXX5) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Butterfly / Solitude Rain / VIVID WORLD【桜坂しずく盤】](https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T) | 4:06 |
 | 26 | [DIVE!](https://open.spotify.com/track/1U1MCOvXcpTguCzyXyBE90) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [Dream with You / Poppin' Up! / DIVE!【優木せつ菜盤】](https://open.spotify.com/album/2B6zWwAKJXh0RMSne3pQvZ) | 4:03 |
 | 27 | [決意の光](https://open.spotify.com/track/5bKOT6xcTF9SLJw4sKgb2s) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:54 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 36 | [LIKE IT!LOVE IT!](https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:21 |
 | 37 | [オードリー](https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 3:54 |
 | 38 | [Fire Bird](https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:57 |
-| 39 | [Poppin' Up!](https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [Dream with You / Poppin' Up! / DIVE!【中須かすみ盤】](https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar) | 4:18 |
-| 40 | [Love Triangle](https://open.spotify.com/track/5xzlhflKSdWND9ebn7rBDw) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [SUPER NOVA](https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH) | 4:13 |
-| 41 | [ドキピポ☆エモーション](https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:30 |
+| 39 | [Love Triangle](https://open.spotify.com/track/5xzlhflKSdWND9ebn7rBDw) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [SUPER NOVA](https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH) | 4:13 |
+| 40 | [Poppin' Up!](https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [Dream with You / Poppin' Up! / DIVE!【中須かすみ盤】](https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar) | 4:18 |
+| 41 | [アナログハート](https://open.spotify.com/track/6vWqcL79ETNeXDZpR231Tn) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:40 |
 | 42 | [翠いカナリア](https://open.spotify.com/track/0pcnND4RErXrefEfytdlr8) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [MONSTER GIRLS](https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi) | 3:49 |
 | 43 | [Sing & Smile!!](https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [Sing & Smile!!](https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW) | 4:41 |
-| 44 | [Toy Doll](https://open.spotify.com/track/0z4OlK9xSsXwQVReScO5V2) | [ミア・テイラー \(CV.内田 秀\)](https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P) | [L！L！L！ \(Love the Life We Live\)](https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i) | 4:11 |
-| 45 | [SUPER NOVA](https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [SUPER NOVA](https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH) | 4:14 |
-| 46 | [アナログハート](https://open.spotify.com/track/6vWqcL79ETNeXDZpR231Tn) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:40 |
+| 44 | [SUPER NOVA](https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [SUPER NOVA](https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH) | 4:14 |
+| 45 | [Toy Doll](https://open.spotify.com/track/0z4OlK9xSsXwQVReScO5V2) | [ミア・テイラー \(CV.内田 秀\)](https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P) | [L！L！L！ \(Love the Life We Live\)](https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i) | 4:11 |
+| 46 | [ドキピポ☆エモーション](https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:30 |
 | 47 | [めっちゃGoing!!](https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:48 |
 | 48 | [あなたの理想のヒロイン](https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 5:26 |
-| 49 | [ダイアモンド](https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:53 |
-| 50 | [Koi suru Magic!!](https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 3:48 |
+| 49 | [Koi suru Magic!!](https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 3:48 |
+| 50 | [ダイアモンド](https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:53 |
 
-Snapshot ID: `AAAAAIrsDKnJkhZEvDP0seEDdp/HNVXf`
+Snapshot ID: `AAAAAAeTq/OTmYhmmVgzNms0gCL0HiLN`

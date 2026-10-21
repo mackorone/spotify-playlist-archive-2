@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,268,129 likes - 101 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,268,044 likes - 101 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 100 | [Fucking Told U](https://open.spotify.com/track/4NUUOQDq0W89tJCGYwXaW0) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 2:54 |
 | 101 | [PHILLY \(with Travis Scott\)](https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:05 |
 
-Snapshot ID: `AAAAAAhLZuHRTtY8OWNDKbX+1IB8A2ni`
+Snapshot ID: `AAAAAA4PjGZXslcQEnPvplf311LwI6qN`

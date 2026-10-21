@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: Eden Burns
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,632 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,620 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 44 | [Leave Your Life \- Lonely Hearts Mix](https://open.spotify.com/track/4byAVCrUbP9O89nyIeclaL) | [Alex Kassian](https://open.spotify.com/artist/3YcfGOBLEsPKVZj5Ecu0QY) | [Leave Your Life](https://open.spotify.com/album/4qeik8tRjrndVWsaS7bRBS) | 6:09 |
 | 45 | [Groovy Thang](https://open.spotify.com/track/7eAGNIkuwnEfdIG0X4XzaP) | [DTAILR](https://open.spotify.com/artist/4mPRJSwzaC22uNMnj6yB0e) | [Groovy Thang](https://open.spotify.com/album/7gIyNobISJTN1ogFCocLFC) | 2:47 |
 | 46 | [Back To Reality \- Original Mix \- Mixed](https://open.spotify.com/track/5LM5D4axlHlw25FSLB9yqN) | [RMS](https://open.spotify.com/artist/4pJ8HL3kT31Gc3fqXQBG9c) | [DJ Hybrid presents Welcome To The Jungle \(DJ MIX\)](https://open.spotify.com/album/0px7ovg0arQC3wZvRGo74C) | 1:24 |
-| 47 | [Human Voice](https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Human Voice](https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs) | 6:36 |
-| 48 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like \(feat\. yunè pinku\)](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 |
-| 49 | [Heaven Scent](https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Chloe Sevigny](https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG) | [Heaven Scent](https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV) | 4:43 |
+| 47 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like \(feat\. yunè pinku\)](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 |
+| 48 | [Heaven Scent](https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Chloe Sevigny](https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG) | [Heaven Scent](https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV) | 4:43 |
+| 49 | [Human Voice](https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Human Voice](https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs) | 6:36 |
 | 50 | [Shut Me Down](https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG) | [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC) | [Clammy](https://open.spotify.com/album/14eOPm3XAA8CVb6csdvVU8) | 3:06 |
 
-Snapshot ID: `AAAAAF89H3AP47FvNbRkgGzPfrLt7s9J`
+Snapshot ID: `AAAAAJI7m/i+tg9P7e7WDFPYMNz32UdS`

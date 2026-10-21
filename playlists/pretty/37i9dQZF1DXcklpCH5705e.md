@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Hebe 田馥甄
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,082 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,075 likes - 61 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 47 | [Goodbye Bunny](https://open.spotify.com/track/2mXAnRmVcQZ7LEv5bVRehV) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Goodbye Bunny](https://open.spotify.com/album/5AYN9aIMUctE1FiNeJWpp5) | 2:43 |
 | 48 | [很久很久](https://open.spotify.com/track/16e5HuKQQOBxJqO2wAljfL) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [很久很久](https://open.spotify.com/album/7cWUN2wDXCv3mpRlCuNZ7Q) | 4:06 |
 | 49 | [Birdy Fly](https://open.spotify.com/track/1kYQz3ILMz6t6QiEuMeNpQ) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Birdy Fly](https://open.spotify.com/album/2xZcep5azEozE5BpjnEN0o) | 4:00 |
-| 50 | [favorite](https://open.spotify.com/track/0UGnVauW7YyWherZXSzBht) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [favorite](https://open.spotify.com/album/7av8VQUy5yZ8e6YA2ahjTO) | 2:29 |
-| 51 | [來不及說再見 \(電視版\)](https://open.spotify.com/track/1XxlZUtYcWUQHvz285P1A5) | [馬念先](https://open.spotify.com/artist/40LaLWRnuCBSSdpwsC42jb) | [來不及說再見 \(電視版\)](https://open.spotify.com/album/2tvCMyxG7U0zWK6buk9osa) | 3:56 |
-| 52 | [我只想唱歌給你聽](https://open.spotify.com/track/7eL41fICdAf6nJN3vf68Lb) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [我只想唱歌給你聽](https://open.spotify.com/album/3nuFurot9aNHFTYMSD3Q5l) | 4:10 |
-| 53 | [Ignore](https://open.spotify.com/track/3lIxpq24g8IJpisCDs9dOH) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Loser.](https://open.spotify.com/album/4F1qUMDO9CsA5XtrQ3KyN6) | 2:22 |
-| 54 | [繞著你降落](https://open.spotify.com/track/715gPpNUnkraL7yJyZkhGz) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [繞著你降落](https://open.spotify.com/album/3VvCn0ZpiRBqBQSCaBKf5o) | 3:47 |
-| 55 | [只想站在你身邊](https://open.spotify.com/track/3tay6rt9Q5K7zlRk4lHqjo) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [只想站在你身邊](https://open.spotify.com/album/3vdEONzOnzb9j8OeiHHNqV) | 2:32 |
-| 56 | [薄荷綠色](https://open.spotify.com/track/1BspmOVjMeIDLU3kPriNcf) | [E1and](https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa), [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [薄荷綠色](https://open.spotify.com/album/0zpwLZP2PKEFa4rCtIxlkF) | 2:59 |
-| 57 | [孤單心事\-音樂產房\(原唱:藍又時\)\(Live\)](https://open.spotify.com/track/2vKdD7BJ3kDE1Rqpr3ZJIN) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [音樂產房:孤單心事\(Live\)](https://open.spotify.com/album/7zI1pjICFDMD3d0JgOmNL2) | 4:20 |
-| 58 | [我墜落你自由](https://open.spotify.com/track/2NqWjIezRyoERdDH5hupfy) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [我墜落你自由](https://open.spotify.com/album/3R4kQKu9hP6kQyRUCyWMKQ) | 3:47 |
-| 59 | [原諒我離開](https://open.spotify.com/track/0c7kCBNDlH0xuqg3PPqgAS) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [原諒我離開](https://open.spotify.com/album/7GoM5D9FmX99yNufCuf8By) | 2:49 |
-| 60 | [天堂和我之間的距離（影集《男公館》插曲）](https://open.spotify.com/track/7fsuhPKDSuyRPTKGDVW975) | [AC](https://open.spotify.com/artist/0zXp1zis13q1a2uCJgN9nq) | [天堂和我之間的距離（影集《男公館》插曲）](https://open.spotify.com/album/1TiEJm1FGVxVgJk5oke0ZI) | 3:49 |
+| 50 | [小牌大耍](https://open.spotify.com/track/17tQ6PZUPDDYVifimFdMwm) | [Billionhappy](https://open.spotify.com/artist/348VulOjvQcgJgL8hBCFZr), [Akemen杀](https://open.spotify.com/artist/13C9C6bk4DDD98Bg2XkdVt) | [小牌大耍](https://open.spotify.com/album/6VRGnZFFwQVynqeSOARaLx) | 2:30 |
+| 51 | [favorite](https://open.spotify.com/track/0UGnVauW7YyWherZXSzBht) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [favorite](https://open.spotify.com/album/7av8VQUy5yZ8e6YA2ahjTO) | 2:29 |
+| 52 | [來不及說再見 \(電視版\)](https://open.spotify.com/track/1XxlZUtYcWUQHvz285P1A5) | [馬念先](https://open.spotify.com/artist/40LaLWRnuCBSSdpwsC42jb) | [來不及說再見 \(電視版\)](https://open.spotify.com/album/2tvCMyxG7U0zWK6buk9osa) | 3:56 |
+| 53 | [我只想唱歌給你聽](https://open.spotify.com/track/7eL41fICdAf6nJN3vf68Lb) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [我只想唱歌給你聽](https://open.spotify.com/album/3nuFurot9aNHFTYMSD3Q5l) | 4:10 |
+| 54 | [Ignore](https://open.spotify.com/track/3lIxpq24g8IJpisCDs9dOH) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Loser.](https://open.spotify.com/album/4F1qUMDO9CsA5XtrQ3KyN6) | 2:22 |
+| 55 | [繞著你降落](https://open.spotify.com/track/715gPpNUnkraL7yJyZkhGz) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [繞著你降落](https://open.spotify.com/album/3VvCn0ZpiRBqBQSCaBKf5o) | 3:47 |
+| 56 | [只想站在你身邊](https://open.spotify.com/track/3tay6rt9Q5K7zlRk4lHqjo) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [只想站在你身邊](https://open.spotify.com/album/3vdEONzOnzb9j8OeiHHNqV) | 2:32 |
+| 57 | [薄荷綠色](https://open.spotify.com/track/1BspmOVjMeIDLU3kPriNcf) | [E1and](https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa), [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [薄荷綠色](https://open.spotify.com/album/0zpwLZP2PKEFa4rCtIxlkF) | 2:59 |
+| 58 | [孤單心事\-音樂產房\(原唱:藍又時\)\(Live\)](https://open.spotify.com/track/2vKdD7BJ3kDE1Rqpr3ZJIN) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [音樂產房:孤單心事\(Live\)](https://open.spotify.com/album/7zI1pjICFDMD3d0JgOmNL2) | 4:20 |
+| 59 | [我墜落你自由](https://open.spotify.com/track/2NqWjIezRyoERdDH5hupfy) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [我墜落你自由](https://open.spotify.com/album/3R4kQKu9hP6kQyRUCyWMKQ) | 3:47 |
+| 60 | [原諒我離開](https://open.spotify.com/track/0c7kCBNDlH0xuqg3PPqgAS) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [原諒我離開](https://open.spotify.com/album/7GoM5D9FmX99yNufCuf8By) | 2:49 |
+| 61 | [天堂和我之間的距離（影集《男公館》插曲）](https://open.spotify.com/track/7fsuhPKDSuyRPTKGDVW975) | [AC](https://open.spotify.com/artist/0zXp1zis13q1a2uCJgN9nq) | [天堂和我之間的距離（影集《男公館》插曲）](https://open.spotify.com/album/1TiEJm1FGVxVgJk5oke0ZI) | 3:49 |
 
-Snapshot ID: `AAAAAAcmYaMtjSP86DEFFR+tiQFoElIv`
+Snapshot ID: `AAAAAO/oFIk/uNi9C7qZXLpI7UzFPJqG`

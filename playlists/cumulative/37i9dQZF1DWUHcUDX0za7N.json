@@ -960,7 +960,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 166153,
       "name": "AMIRI",
       "url": "https://open.spotify.com/track/0rr63wJFZJNILXcdpHTrD0"
@@ -3598,7 +3598,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 153070,
       "name": "CLEAR",
       "url": "https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0"
@@ -12335,6 +12335,24 @@
     },
     {
       "album": {
+        "name": "Ore Agbako",
+        "url": "https://open.spotify.com/album/2FhHvlT5xp2K4imuLyuzge"
+      },
+      "artists": [
+        {
+          "name": "Double Gee2x",
+          "url": "https://open.spotify.com/artist/1rHgBi9laQFZlR4hhjeU4C"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155400,
+      "name": "Ore Agbako",
+      "url": "https://open.spotify.com/track/2hRN9AqC0Fugv7oHb0Cg1b"
+    },
+    {
+      "album": {
         "name": "original",
         "url": "https://open.spotify.com/album/0nlBISQDS8BpUMnclrGOhh"
       },
@@ -16098,6 +16116,32 @@
       "duration_ms": 207454,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
+    },
+    {
+      "album": {
+        "name": "Top Swag",
+        "url": "https://open.spotify.com/album/7kmtp8xQRcKiHEdNWelgCW"
+      },
+      "artists": [
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        },
+        {
+          "name": "DaveTheOracle",
+          "url": "https://open.spotify.com/artist/5KbCVC6DvprtEp30AA093z"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197777,
+      "name": "Top Swag",
+      "url": "https://open.spotify.com/track/7Dj8uoNSgsnJiNvCfN2jdy"
     },
     {
       "album": {

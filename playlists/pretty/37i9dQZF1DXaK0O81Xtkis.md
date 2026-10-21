@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring Knox
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,274 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,260 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 49 | [I Feel You](https://open.spotify.com/track/5809ZMOwXBRGkiAVxNAlAL) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Lost On The Way To Paradise](https://open.spotify.com/album/36E9kFHU87eXKPJJoDNgan) | 2:39 |
 | 50 | [Faking Smiles](https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet & Screaming](https://open.spotify.com/album/7tuCSmaWXzKkddysic3dvS) | 3:04 |
 
-Snapshot ID: `AAAAAPw0DhJ3W7N4DgsYCuIXqtEbaMKw`
+Snapshot ID: `AAAAAL4eGFr1H+B9eOFl+sXS3RiAODHq`

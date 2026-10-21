@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,842 songs - 6 day 4 hr 30 min
+2,844 songs - 6 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1101,6 +1101,7 @@
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-11 | 2024-05-05 |
 | [Houdini](https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:05 | 2024-05-04 | 2024-05-28 |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-06-04 | 2024-06-17 |
+| [Housewife](https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Housewife](https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl) | 3:28 | 2026-10-20 |  |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [How Much](https://open.spotify.com/track/5FI2Ujk6VWPCWTWN1EWrAQ) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [How Much](https://open.spotify.com/album/3Jn6F3rYZfU6N88ZWWLuuF) | 2:29 | 2026-08-29 | 2026-08-31 |
 | [HRTBRK \#6](https://open.spotify.com/track/4oujvmTUXlPr6jWTWuzfAK) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [HRTBRK \#6](https://open.spotify.com/album/4XYz0YM0cZjGhzgqyj2glP) | 2:51 | 2023-01-21 | 2023-02-12 |
@@ -1962,7 +1963,7 @@
 | [Paris](https://open.spotify.com/track/0ApBt9e7LSkrHhJ2SZbHk2) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 3:16 | 2021-11-07 | 2021-11-14 |
 | [Paris](https://open.spotify.com/track/3kql0qldZ3x5qUxwmUgYGa) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [RESTART](https://open.spotify.com/album/6AjfJo32ltHVnKEhHrnz0L) | 2:52 | 2025-11-14 |  |
 | [Paris](https://open.spotify.com/track/6ctcVdXaJKn5LVFDjMBqzc) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [Paris](https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ) | 2:52 | 2025-04-14 | 2025-11-15 |
-| [PARISIENNE](https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5) | 2:38 | 2025-10-10 |  |
+| [PARISIENNE](https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5) | 2:38 | 2025-10-10 | 2026-10-21 |
 | [PARISIENNE](https://open.spotify.com/track/3igbfkHq3s5wGMvC8iAscj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [PARISIENNE](https://open.spotify.com/album/0uLbgYJN8rKSL8Xn7dSL9b) | 2:38 | 2025-08-02 | 2025-08-13 |
 | [PARISIENNE](https://open.spotify.com/track/5gvvdf0mk5nL5Gu9h5cUTX) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/1Pbn4jIeuwCSbcXiaVyoPf) | 2:38 | 2025-08-12 | 2025-10-11 |
 | [Parle moi](https://open.spotify.com/track/6J91jbBDyoOJHl7te7EHiN) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Pleins Phares](https://open.spotify.com/album/76fQoy7EIbHkqQ2VxR86rb) | 3:03 | 2025-10-11 | 2025-11-09 |
@@ -2148,6 +2149,7 @@
 | [Ramenez la coupe à la maison](https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [Marchand de sable](https://open.spotify.com/album/6CWb2cr93FdkcNNraD3E0b) | 3:55 | 2022-12-19 | 2026-07-17 |
 | [Ran To Atlanta \(feat\. Future & Molly Santana\)](https://open.spotify.com/track/3DK90400cDlV5WUJPraMph) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 4:07 | 2026-05-16 | 2026-05-18 |
 | [Range ton égo](https://open.spotify.com/track/22gLqiC0W6a1OjeS8lHjSW) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 3:00 | 2023-06-10 | 2023-06-12 |
+| [RANIA](https://open.spotify.com/track/11toKjZRD7soOuH5ZFpWkL) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [RANIA](https://open.spotify.com/album/1FjfhevUGJ8RjvAi3ZhMPV) | 3:42 | 2026-10-20 |  |
 | [RAPPEL](https://open.spotify.com/track/48BdA5qBxXVoe59xvu0bwc) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:37 | 2022-07-02 | 2023-02-19 |
 | [RAPPEL](https://open.spotify.com/track/7zgKUbJczQXGEICIwP6Diw) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [RAPPEL](https://open.spotify.com/album/3z01IFOidqCtkFb7mbgffD) | 3:37 | 2022-06-30 | 2022-07-03 |
 | [Rappeur conscient](https://open.spotify.com/track/5UgxIxOJKTSW3MEsyHg64S) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:29 | 2022-02-05 | 2022-02-13 |
@@ -2213,7 +2215,7 @@
 | [Rue de Sèvres](https://open.spotify.com/track/6tODu3425Gv86IbYuoEpuv) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 3:19 | 2022-11-05 | 2022-11-10 |
 | [Ruin The Friendship](https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:40 | 2025-10-04 | 2025-10-06 |
 | [RUINART](https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [RUINART](https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1) | 2:54 | 2025-06-23 | 2025-06-29 |
-| [RUINART](https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [7/7 : 24/24](https://open.spotify.com/album/0u2KFP9XvLHwQshJy1wDTM) | 2:54 | 2025-06-28 |  |
+| [RUINART](https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [7/7 : 24/24](https://open.spotify.com/album/0u2KFP9XvLHwQshJy1wDTM) | 2:54 | 2025-06-28 | 2026-10-21 |
 | [Run](https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Run](https://open.spotify.com/album/45Z2w3ADwNkPE6kTRpm2P4) | 2:59 | 2025-01-11 | 2025-10-23 |
 | [Run](https://open.spotify.com/track/5kYoKR0EwVa5mBZMEPXwmF) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [RUN Evolution](https://open.spotify.com/album/74FebIYWI8nzxEG0EPAsG4) | 2:59 | 2025-10-27 | 2025-10-29 |
 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 | 2022-12-25 | 2025-12-28 |

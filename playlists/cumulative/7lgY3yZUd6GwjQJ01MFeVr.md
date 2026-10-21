@@ -4,7 +4,7 @@
 
 > Today's top country music! Cover: Cameron Whitcomb, Zach Bryan &amp; Cody Johnson
 
-334 songs - 17 hr 52 min
+336 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN) | 3:30 | 2023-12-08 | 2024-02-24 |
 | [Lightning In A Bottle](https://open.spotify.com/track/1v6wu17AJ2bgbXv5B2XjZY) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Party In The Back](https://open.spotify.com/album/4ky3Mc4MVClitmYShCvi6U) | 2:46 | 2025-12-03 |  |
 | [Livin' Ain't Killed Me Yet](https://open.spotify.com/track/5LXfYCQQFJCasWN2DT5ajG) | [Naomi Cooke Johnson](https://open.spotify.com/artist/0TOpxMqjBLR53TUNKK29ML) | [Livin' Ain't Killed Me Yet](https://open.spotify.com/album/20avoS99wAkzfnxks3FmQH) | 2:40 | 2023-12-08 | 2025-03-20 |
+| [Lodi When](https://open.spotify.com/track/1mzJsnHWXIthrJQKwe8Yci) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Young Manhood and Other Donatable Organs](https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u) | 3:56 | 2026-10-20 |  |
 | [Lonely Cowboy](https://open.spotify.com/track/4b4qenweAK0E90SiuUtrLy) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 4:53 | 2024-06-05 | 2025-09-13 |
 | [Lonely Road \(with Jelly Roll\)](https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Lonely Road \(with Jelly Roll\)](https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww) | 3:09 | 2024-12-10 |  |
 | [Long Live A Country Boy](https://open.spotify.com/track/2yOpIT0R8sG86G1Z3VDVtU) | [Kyler Weston](https://open.spotify.com/artist/2xsw2u5MTVk2FKa3knyFe7) | [Long Live A Country Boy](https://open.spotify.com/album/5aNRauZkGiBlOZg3EaoT9V) | 2:54 | 2023-12-08 | 2024-03-16 |
@@ -244,6 +245,7 @@
 | [Restless Mind \(feat\. Avery Anna\)](https://open.spotify.com/track/3HxEGE7XpzqTVHEui3IMyb) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 3:40 | 2024-11-02 |  |
 | [Ride The River](https://open.spotify.com/track/2EsMBsv3uFaUEF8fCOLMoA) | [Shawnee Kish](https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ) | [Ride The River](https://open.spotify.com/album/4sy5R6NhnHxH5rVFHKAyod) | 3:09 | 2026-08-21 |  |
 | [River Washed Hair](https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 4:21 | 2025-07-05 | 2026-01-15 |
+| [Robot Killed The Working Man](https://open.spotify.com/track/5RFAHNlIOFW4zitMltbOBI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Young Manhood and Other Donatable Organs](https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u) | 4:35 | 2026-10-20 |  |
 | [Ruin A Good Thing](https://open.spotify.com/track/6koiEgvhQ4CyHXfYz9tIv4) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [No Brakes](https://open.spotify.com/album/72abK2vIKvsudMypl89dX3) | 3:18 | 2026-09-25 |  |
 | [Run Out Of Road](https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Mule](https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo) | 2:59 | 2026-09-21 |  |
 | [Run Your Mouth](https://open.spotify.com/track/5btUPeXrdG4Es05Q1p5aaT) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq) | 2:40 | 2024-08-10 | 2025-09-13 |

@@ -47373,6 +47373,24 @@
     },
     {
       "album": {
+        "name": "THE REAL DEAL",
+        "url": "https://open.spotify.com/album/0OIyVtDLKWEd7mVg2Dzu7N"
+      },
+      "artists": [
+        {
+          "name": "B THE HOOD",
+          "url": "https://open.spotify.com/artist/4wWfs5kmKMaIqlsX6OJTYJ"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182413,
+      "name": "CHOP!",
+      "url": "https://open.spotify.com/track/6YXwcmV3Uyo2pseUwEBGHI"
+    },
+    {
+      "album": {
         "name": "The sword of Aramun, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4FLn9vnAb0b5ILDZGtz3lI"
       },
@@ -51692,6 +51710,24 @@
       "duration_ms": 230217,
       "name": "Come into my dream",
       "url": "https://open.spotify.com/track/3Y1DrOGogyIU6dyGOrMFGe"
+    },
+    {
+      "album": {
+        "name": "Come into my world!",
+        "url": "https://open.spotify.com/album/6ylnjm0URGeTGGo0xYdsW3"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204018,
+      "name": "Come into my world!",
+      "url": "https://open.spotify.com/track/5zacvTOytsVSZneiZT5J7u"
     },
     {
       "album": {
@@ -73555,6 +73591,24 @@
     },
     {
       "album": {
+        "name": "EGERO",
+        "url": "https://open.spotify.com/album/419bm7nIoqiNXgGbtpBKlw"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233550,
+      "name": "EGERO",
+      "url": "https://open.spotify.com/track/4SDrNjs1in5RAL5GdCr3bZ"
+    },
+    {
+      "album": {
         "name": "EGG RICE",
         "url": "https://open.spotify.com/album/2iiHvjADaBZPSqt91XTb2z"
       },
@@ -86670,8 +86724,8 @@
       },
       "artists": [
         {
-          "name": "TIOT(\ud2f0\uc544\uc774\uc624\ud2f0)",
-          "url": "https://open.spotify.com/artist/2DJzIfHGUVqiclKplfsFMW"
+          "name": "TIOT",
+          "url": "https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7"
         }
       ],
       "date_added": "2026-10-01",
@@ -131407,6 +131461,24 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/7IVdc3CwCG2eQn4q8L8I3O"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/6BWxQgYLrm70Vo6XDsMONU"
+    },
+    {
+      "album": {
         "name": "illusion (Feat. Eunyong Sim)",
         "url": "https://open.spotify.com/album/5kIMnmbaGYDkxVXzMIMq42"
       },
@@ -135360,6 +135432,24 @@
       "duration_ms": 302666,
       "name": "Island",
       "url": "https://open.spotify.com/track/0DVNUoajlG3k6xOs2dozsr"
+    },
+    {
+      "album": {
+        "name": "Island",
+        "url": "https://open.spotify.com/album/15asr0J33eGcKkAY9K3ATZ"
+      },
+      "artists": [
+        {
+          "name": "\uc57c\uc790\uc218",
+          "url": "https://open.spotify.com/artist/6S4lccsgpUHRk007vr54Ag"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211626,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/31YoFGgL0FiuPhvqOE76by"
     },
     {
       "album": {
@@ -184252,12 +184342,12 @@
       },
       "artists": [
         {
-          "name": "A2O",
-          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
-        },
-        {
           "name": "A2O LITE",
           "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
         }
       ],
       "date_added": "2026-10-13",
@@ -255450,12 +255540,12 @@
       },
       "artists": [
         {
-          "name": "A2O",
-          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
-        },
-        {
           "name": "A2O SOUL",
           "url": "https://open.spotify.com/artist/1sqWFSwBcJ6eunJRrCsmYb"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
         }
       ],
       "date_added": "2026-10-13",
@@ -310854,6 +310944,24 @@
       "duration_ms": 165826,
       "name": "Yummy Yum",
       "url": "https://open.spotify.com/track/1BVneXeQr0wcp2J58DkeIR"
+    },
+    {
+      "album": {
+        "name": "Mangsangrok",
+        "url": "https://open.spotify.com/album/2H1OWQXGSlbaUkxO88u0l2"
+      },
+      "artists": [
+        {
+          "name": "Wonjin",
+          "url": "https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Yuranga",
+      "url": "https://open.spotify.com/track/6FZrgH1QpFqrnbZPWf1oZ5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Crowd-pleasing favorites for an easy, carefree day. ",
-  "num_followers": 471762,
+  "num_followers": 471760,
   "original_name": "Backyard BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF6bZpTxsSOeYlC05YnYjRIqyg/h",
+  "snapshot_id": "AAAAAGLNJmbqRveFBeHLrXjbPyT/gpUX",
   "tracks": [
     {
       "added_at": "2026-06-30 13:32:35",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Menagerie",
-        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 257157,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Kansas Anymore (The Longest Goodbye)",
         "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 218660,
       "name": "Sally, When The Wine Runs Out",
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 257157,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "Endless Flight",
-        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
-      },
-      "artists": [
-        {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "You Make Me Feel Like Dancing - Remastered",
-      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "Verities & Balderdash",
         "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "30 Years Of Funk: 1969-1999 The Anthology",
-        "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
+        "name": "Endless Flight",
+        "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
       },
       "artists": [
         {
-          "name": "Grand Funk Railroad",
-          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
         }
       ],
-      "duration_ms": 202733,
-      "name": "Some Kind Of Wonderful - Remastered 1999",
-      "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
+      "duration_ms": 219466,
+      "name": "You Make Me Feel Like Dancing - Remastered",
+      "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -919,6 +903,22 @@
       "duration_ms": 285797,
       "name": "Rocky Mountain High",
       "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "30 Years Of Funk: 1969-1999 The Anthology",
+        "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
+      },
+      "artists": [
+        {
+          "name": "Grand Funk Railroad",
+          "url": "https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Some Kind Of Wonderful - Remastered 1999",
+      "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
     },
     {
       "added_at": "2026-06-30 13:32:35",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-06-30 13:32:35",
       "album": {
-        "name": "There Goes Rhymin' Simon",
-        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Kodachrome",
-      "url": "https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY"
-    },
-    {
-      "added_at": "2026-06-30 13:32:35",
-      "album": {
         "name": "The Roaring Silence",
         "url": "https://open.spotify.com/album/1qVP93dewrI7bukJAFPIvV"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 428133,
       "name": "Blinded By The Light",
       "url": "https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE"
+    },
+    {
+      "added_at": "2026-06-30 13:32:35",
+      "album": {
+        "name": "There Goes Rhymin' Simon",
+        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Kodachrome",
+      "url": "https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY"
     },
     {
       "added_at": "2026-06-30 13:32:35",

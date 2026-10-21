@@ -42510,7 +42510,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 309000,
       "name": "Golden Moonlight",
       "url": "https://open.spotify.com/track/76ZEKR8cfWK14ytTbe8R6D"
@@ -79404,6 +79404,24 @@
       "duration_ms": 160000,
       "name": "Night Taxi",
       "url": "https://open.spotify.com/track/5VgRigCig9uB2uMV3l3uDH"
+    },
+    {
+      "album": {
+        "name": "Night Trip",
+        "url": "https://open.spotify.com/album/4d31rG0CKVZykLUOslDh9a"
+      },
+      "artists": [
+        {
+          "name": "\u306a\u306a\u3048",
+          "url": "https://open.spotify.com/artist/0btiNWNHhgJQ27R0OAwkMA"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203414,
+      "name": "Night Trip",
+      "url": "https://open.spotify.com/track/0Orq6LwejPT5nWy9jU76mE"
     },
     {
       "album": {

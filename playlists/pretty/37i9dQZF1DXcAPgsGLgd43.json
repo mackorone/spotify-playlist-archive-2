@@ -1,12 +1,12 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 122891,
+  "num_followers": 122922,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANQZD0b4QG+4A/otpKtQVD7fXilz",
+  "snapshot_id": "AAAAAOR4LeJx2xnLdNj2f8rk7HHbNvu6",
   "tracks": [
     {
       "added_at": "2026-10-16 04:00:53",
@@ -1343,26 +1343,18 @@
     {
       "added_at": "2026-10-16 04:00:53",
       "album": {
-        "name": "Rulay",
-        "url": "https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN"
+        "name": "Una Velita",
+        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
       },
       "artists": [
         {
-          "name": "GROSSOMODDO",
-          "url": "https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt"
-        },
-        {
-          "name": "Mydoz",
-          "url": "https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb"
-        },
-        {
-          "name": "Zairah",
-          "url": "https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 165123,
-      "name": "Rulay",
-      "url": "https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw"
+      "duration_ms": 163809,
+      "name": "Una Velita",
+      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
     },
     {
       "added_at": "2026-10-16 04:00:53",
@@ -1411,18 +1403,26 @@
     {
       "added_at": "2026-10-16 04:00:53",
       "album": {
-        "name": "Una Velita",
-        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
+        "name": "Rulay",
+        "url": "https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "GROSSOMODDO",
+          "url": "https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt"
+        },
+        {
+          "name": "Mydoz",
+          "url": "https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb"
+        },
+        {
+          "name": "Zairah",
+          "url": "https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b"
         }
       ],
-      "duration_ms": 163809,
-      "name": "Una Velita",
-      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
+      "duration_ms": 165123,
+      "name": "Rulay",
+      "url": "https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw"
     },
     {
       "added_at": "2026-10-16 04:00:53",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2026-10-16 04:00:53",
       "album": {
+        "name": "Delante",
+        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
+      },
+      "artists": [
+        {
+          "name": "Lodgerz",
+          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
+        }
+      ],
+      "duration_ms": 145908,
+      "name": "Delante",
+      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
+    },
+    {
+      "added_at": "2026-10-16 04:00:53",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 116361,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF"
-    },
-    {
-      "added_at": "2026-10-16 04:00:53",
-      "album": {
-        "name": "Delante",
-        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
-      },
-      "artists": [
-        {
-          "name": "Lodgerz",
-          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
-        }
-      ],
-      "duration_ms": 145908,
-      "name": "Delante",
-      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
     },
     {
       "added_at": "2026-10-16 04:00:53",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2026-10-16 04:00:53",
       "album": {
-        "name": "Claro",
-        "url": "https://open.spotify.com/album/6Hr9OrXeglzACE1kSMizQA"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "AMY MIY\u00da",
-          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
-        }
-      ],
-      "duration_ms": 159045,
-      "name": "Claro",
-      "url": "https://open.spotify.com/track/15DMSvuzeWrNbPX8QdEWk4"
-    },
-    {
-      "added_at": "2026-10-16 04:00:53",
-      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 178816,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
+    },
+    {
+      "added_at": "2026-10-16 04:00:53",
+      "album": {
+        "name": "Claro",
+        "url": "https://open.spotify.com/album/6Hr9OrXeglzACE1kSMizQA"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "duration_ms": 159045,
+      "name": "Claro",
+      "url": "https://open.spotify.com/track/15DMSvuzeWrNbPX8QdEWk4"
     },
     {
       "added_at": "2026-10-16 04:00:53",

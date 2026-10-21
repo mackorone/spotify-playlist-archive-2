@@ -568,7 +568,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 230449,
       "name": "Anytime Anywhere",
       "url": "https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 200997,
       "name": "CHAINSAW BLOOD",
       "url": "https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU"
@@ -2747,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "GO GHOST",
+        "url": "https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170100,
+      "name": "GO GHOST",
+      "url": "https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB"
+    },
+    {
+      "album": {
         "name": "Go Live!",
         "url": "https://open.spotify.com/album/2ptmwRdo4fRDPOW1JbNHDv"
       },
@@ -3347,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "I-BULL - iburu - BLEACH: Thousand-Year Blood War - The Calamity",
+        "url": "https://open.spotify.com/album/5SxwYJiJUV8p0EinXqbBjM"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240233,
+      "name": "I-BULL - iburu",
+      "url": "https://open.spotify.com/track/6EhMAfr1NhCAURSnzrtkbL"
+    },
+    {
+      "album": {
         "name": "Icy Ivy",
         "url": "https://open.spotify.com/album/4kW2ZzZIhYVa8EWzGj9Fis"
       },
@@ -3470,7 +3506,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 199486,
       "name": "INERTIA",
       "url": "https://open.spotify.com/track/2joT0CjcGqc1fr8Fvk7itj"
@@ -4764,6 +4800,24 @@
       "duration_ms": 247880,
       "name": "NAMELY",
       "url": "https://open.spotify.com/track/0ZfWNX0kP9ofAjmTkpVSzJ"
+    },
+    {
+      "album": {
+        "name": "Nannmonee",
+        "url": "https://open.spotify.com/album/1VgCfL80E3Guto10xfO83R"
+      },
+      "artists": [
+        {
+          "name": "Wasureranneyo",
+          "url": "https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Nannmonee",
+      "url": "https://open.spotify.com/track/3XNnq2oo1zmHDseKZKaYEF"
     },
     {
       "album": {
@@ -14316,7 +14370,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 275000,
       "name": "\u708e",
       "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
@@ -15412,6 +15466,24 @@
       "duration_ms": 242694,
       "name": "\u878d\u96ea(Subscription ver.)",
       "url": "https://open.spotify.com/track/3gz45K5RitgKwaQiFOIupK"
+    },
+    {
+      "album": {
+        "name": "\u87ba\u65cb - RASEN",
+        "url": "https://open.spotify.com/album/0i1YOAjHzr0X8sqJ9l9vx3"
+      },
+      "artists": [
+        {
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190421,
+      "name": "\u87ba\u65cb - RASEN",
+      "url": "https://open.spotify.com/track/46B70zbvWffi3pnCDNpCBH"
     },
     {
       "album": {

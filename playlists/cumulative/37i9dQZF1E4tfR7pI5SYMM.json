@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Autoimmune, Bad Scullianz, The Inklings and more",
+  "description": "With Pablo Mercedes, Autoimmune, Bad Scullianz and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -796,7 +796,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 207706,
       "name": "And Bring It Down Again",
       "url": "https://open.spotify.com/track/5OnuEoQFPNQoNV5teFaxyT"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 220000,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 191225,
       "name": "Attrition",
       "url": "https://open.spotify.com/track/4RMccHZii59g4LsuXKdiCd"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 254683,
       "name": "Bright Connection",
       "url": "https://open.spotify.com/track/58S7PPJGrPbydd64qQ1K4q"
@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 201996,
       "name": "Complaining",
       "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
@@ -3174,7 +3174,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 416568,
       "name": "Cryin' Shame",
       "url": "https://open.spotify.com/track/2PV4SFnrTo6nyZ7A7oT3wg"
@@ -4094,7 +4094,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 285400,
       "name": "Do What You Do",
       "url": "https://open.spotify.com/track/7pKmzz47bY2aINTsJWhix4"
@@ -4321,6 +4321,24 @@
     },
     {
       "album": {
+        "name": "Hourly Rage",
+        "url": "https://open.spotify.com/album/2Q2LwZmwRnvJT7jig60wya"
+      },
+      "artists": [
+        {
+          "name": "PUNKTUALS",
+          "url": "https://open.spotify.com/artist/5xVsNGliQxxOEgxh0s9Ou9"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238324,
+      "name": "Downsizer",
+      "url": "https://open.spotify.com/track/3y2QHqpm89ZFwSbLL6cCJ9"
+    },
+    {
+      "album": {
         "name": "Drag Me to Hell",
         "url": "https://open.spotify.com/album/0clxsNKWKCHSVntFn0eWkc"
       },
@@ -4368,7 +4386,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 291969,
       "name": "Dragonfighter",
       "url": "https://open.spotify.com/track/71KjAeng0I37N9wvdvbkbp"
@@ -5604,7 +5622,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 301250,
       "name": "Fall from Grace",
       "url": "https://open.spotify.com/track/5M2SJg1XfBiMh7OBEbx1kr"
@@ -6253,6 +6271,24 @@
     },
     {
       "album": {
+        "name": "Free Country",
+        "url": "https://open.spotify.com/album/4kEvso2QVElud83dDhagQt"
+      },
+      "artists": [
+        {
+          "name": "Dead Hand Blues",
+          "url": "https://open.spotify.com/artist/5spwXsFf0kyopWjaAogsJC"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277500,
+      "name": "Free Country",
+      "url": "https://open.spotify.com/track/5R0LTj36xTIQiC1bfsRKUc"
+    },
+    {
+      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/76oW5Xyb7n7btEefSirZsc"
       },
@@ -6264,7 +6300,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 287093,
       "name": "Freedom Train",
       "url": "https://open.spotify.com/track/0IVL6MQf06qVBawKCN6l39"
@@ -7174,7 +7210,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 230156,
       "name": "Helvetia",
       "url": "https://open.spotify.com/track/3LpgOjwswO3pgBTuI0mjh0"
@@ -7960,7 +7996,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 189899,
       "name": "I wanna feel like an Animal",
       "url": "https://open.spotify.com/track/2pj1FkIeSO102FUof0vd7E"
@@ -8194,7 +8230,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 252133,
       "name": "Ikkje Som De Andre",
       "url": "https://open.spotify.com/track/2mz3afL5LYaYMCafQh50TR"
@@ -8432,7 +8468,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 255833,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7d6ol9DlTfgLQQOX3o4QRR"
@@ -8974,7 +9010,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 155846,
       "name": "Kick the Shit",
       "url": "https://open.spotify.com/track/3kvludAdfWJNKxacq95b5u"
@@ -10288,7 +10324,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 199578,
       "name": "Mamma Africa",
       "url": "https://open.spotify.com/track/6Xk6wl1An7cH9RRpKIBdr9"
@@ -10324,7 +10360,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -10728,7 +10764,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Mercury (In Retrograde)",
       "url": "https://open.spotify.com/track/7j6MPoDgVUSwvzNLJkdLf7"
@@ -11370,7 +11406,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "My Heroin",
       "url": "https://open.spotify.com/track/6qmcht0ya4g8wzJIfL0MqO"
@@ -13334,7 +13370,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 226628,
       "name": "Police Of The Soul",
       "url": "https://open.spotify.com/track/6G20yrL25CrwhGL64ZRbuW"
@@ -13372,7 +13408,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 119052,
       "name": "Por Por - From \"Narakarappor Alias The GrandMaster\"",
       "url": "https://open.spotify.com/track/6GRXpbjruwNCNpAgFsjbIF"
@@ -13810,6 +13846,24 @@
       "duration_ms": 248710,
       "name": "Red Alert",
       "url": "https://open.spotify.com/track/2JElS4zpFVZ4F2oHybqmuQ"
+    },
+    {
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/6d8aXGLzGLzfiWu8HJs7of"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sol & the 7",
+          "url": "https://open.spotify.com/artist/175fOaStmHuztvNrMWrljb"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196182,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/6CCPTehzi55JkEiVRP6CcJ"
     },
     {
       "album": {
@@ -14797,6 +14851,24 @@
     },
     {
       "album": {
+        "name": "Silence please",
+        "url": "https://open.spotify.com/album/0VA3VFKOkpD5v4rSwhAFjD"
+      },
+      "artists": [
+        {
+          "name": "Air Vibration",
+          "url": "https://open.spotify.com/artist/3ScG84iDoG9YBdTg4tFVDu"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148166,
+      "name": "Silence please",
+      "url": "https://open.spotify.com/track/7eKKokzLXlqjC7n1e4wbQw"
+    },
+    {
+      "album": {
         "name": "In the Shadow of the Mountain",
         "url": "https://open.spotify.com/album/5qneeNSlHVrPUrqZXq8X8y"
       },
@@ -14808,7 +14880,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 220056,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/0Bif5hnjXGpCVLVqaYHBWG"
@@ -15042,7 +15114,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 251281,
       "name": "Sn\u00f8r i Helvete",
       "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
@@ -19783,6 +19855,24 @@
     },
     {
       "album": {
+        "name": "Wild Wild Woman",
+        "url": "https://open.spotify.com/album/1zflmRV7ZUDn5XuGar0Umo"
+      },
+      "artists": [
+        {
+          "name": "Ade Wilding",
+          "url": "https://open.spotify.com/artist/3pDpLUj8IB9R85iWzuOBSo"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223196,
+      "name": "Wild Wild Woman",
+      "url": "https://open.spotify.com/track/0rNHd0MyOfSCSQ79zF2oYQ"
+    },
+    {
+      "album": {
         "name": "All In Now",
         "url": "https://open.spotify.com/album/1fxFvw95DNNmV4Zzoc5pvC"
       },
@@ -19830,7 +19920,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 269507,
       "name": "Wings Of An Angel",
       "url": "https://open.spotify.com/track/6EbDacy2uom5FL8Y7ocdI3"
@@ -19856,6 +19946,24 @@
       "duration_ms": 305000,
       "name": "Withered",
       "url": "https://open.spotify.com/track/4rXXkuEOyspu8wqlhd47z7"
+    },
+    {
+      "album": {
+        "name": "InstantFamous",
+        "url": "https://open.spotify.com/album/6RSmX75kNdZPc4vJfuN4N2"
+      },
+      "artists": [
+        {
+          "name": "SUGAR JUNKIES",
+          "url": "https://open.spotify.com/artist/4o9FJ8F3q3qd6ZbZCoqES3"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217636,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/5W0E5BbJJ3xhSsMQfOZSXA"
     },
     {
       "album": {

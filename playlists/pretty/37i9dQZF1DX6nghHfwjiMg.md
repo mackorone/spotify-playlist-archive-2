@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Artistas para descubrir 📸 Maia Reficco
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,324 likes - 82 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,326 likes - 82 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 11 | [SITDOWN](https://open.spotify.com/track/78lGsPNlOrqrpLQfXw5PEX) | [Manu Torres](https://open.spotify.com/artist/3eNiRhneYnzWd5MUZ5MiP1) | [SITDOWN](https://open.spotify.com/album/2p4lSSlmfH4mhLn6LC53mI) | 2:20 |
 | 12 | [Ya Me Vencí](https://open.spotify.com/track/6y6WWTwj1p8ByI7xTAGGlV) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Ya Me Vencí](https://open.spotify.com/album/73hOaQpC4uWD8iMJV6PODY) | 3:37 |
 | 13 | [IBUPROFENO](https://open.spotify.com/track/7tNgv10I5jhh1QpYfc4IYJ) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [INTELIGENCIA ARTESANAL](https://open.spotify.com/album/0kYfU6SPBlJez4GwVvPWuP) | 2:16 |
-| 14 | [amapola](https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [amapola](https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx) | 3:00 |
+| 14 | [amapola](https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m) | [maia reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [amapola](https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx) | 3:00 |
 | 15 | [ayuda divina](https://open.spotify.com/track/1spqZ6oJxIGm5zknbTl20p) | [Isabel Isabel](https://open.spotify.com/artist/7mp9WJLhPhr2mnZQkZWjEC) | [ayuda divina](https://open.spotify.com/album/23JjSNkD6qQpq6c41hJ9hJ) | 2:17 |
 | 16 | [SERIA PERFECTO](https://open.spotify.com/track/2WitdWfBBsy1sldJM9Jt39) | [Sasha Conte](https://open.spotify.com/artist/7a462ezlVb2hNIZnslEKGI) | [SERIA PERFECTO](https://open.spotify.com/album/1GmDfUDMuVi8vLdb9x30tM) | 3:46 |
 | 17 | [Subte & Fantasía](https://open.spotify.com/track/3iCcuJG9Vsr9wl4D9nk27a) | [Fabrizio](https://open.spotify.com/artist/1SYhjUGMcKHy1hiXeNPv9d), [Lolita Fiamma](https://open.spotify.com/artist/0u8bWPzFscvQGljoHXUsDW) | [Subte & Fantasía](https://open.spotify.com/album/2jBYxyUog1q0KU1KmZa8Cp) | 2:22 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 27 | [Animales](https://open.spotify.com/track/0sGGeULtIdZB1rXxSVFrT1) | [CHUCK\-MOOL](https://open.spotify.com/artist/2TnhvttZWiPUwYagute1fa) | [CHUCK\-MOOL, Vol\. 3](https://open.spotify.com/album/6xkfAoqD137uEC954eqPa9) | 2:59 |
 | 28 | [Nota de Voz](https://open.spotify.com/track/414bekTP0wBQjE8juGHaC6) | [esperanzah.](https://open.spotify.com/artist/1vRM1MjuevPK5oTTYOoZS6) | [ESPERANZAH.](https://open.spotify.com/album/0mFyq5UNYqqXKta7zraEYI) | 2:37 |
 | 29 | [TARJETA AMARILLA](https://open.spotify.com/track/3ct00xi14QLWhZdRJtBQoV) | [Manu Torres](https://open.spotify.com/artist/3eNiRhneYnzWd5MUZ5MiP1), [ill quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [TARJETA AMARILLA](https://open.spotify.com/album/6Cg61qSt0pl05jnOsHKIEl) | 3:24 |
-| 30 | [sur](https://open.spotify.com/track/0IAYKP2nXhO5ozI79bscGj) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [de visita](https://open.spotify.com/album/3jbDVu4ZdnA9j40ADDBWDx) | 3:13 |
+| 30 | [sur](https://open.spotify.com/track/0IAYKP2nXhO5ozI79bscGj) | [maia reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [de visita](https://open.spotify.com/album/3jbDVu4ZdnA9j40ADDBWDx) | 3:13 |
 | 31 | [AHORA](https://open.spotify.com/track/0AOdpfOo30h0opPqHXpFP7) | [Mica Racciatti](https://open.spotify.com/artist/0YZo1Sz48rRpCenoB20lHM), [Gabriel Pedernera](https://open.spotify.com/artist/1I7I2jfVn3KvuAi49h01Gr) | [AHORA](https://open.spotify.com/album/1yHGqFZAGxSyR1wUpmRMNn) | 3:24 |
 | 32 | [ESTO NO AVANZA](https://open.spotify.com/track/6r4KV2V5Kbg8SjonixJBBf) | [Malta Caramelo](https://open.spotify.com/artist/4nMH5OWOUdGltvRpXDydPm) | [ESTO NO AVANZA](https://open.spotify.com/album/5BOCqhYIS7mRVlFegklZT5) | 3:50 |
 | 33 | [Desde Lo Profundo](https://open.spotify.com/track/27hRMC9jWzFGR6D57EtuQe) | [Joaco Burgos](https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A) | [Desde Lo Profundo](https://open.spotify.com/album/50mpx6WAcMgGAmjPt169pJ) | 3:23 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 81 | [El Aplauso](https://open.spotify.com/track/4tsVNk3h7QUEz8KhOHPpaY) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [HIJO DEL PAÍS](https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1) | 3:20 |
 | 82 | [Entre Lazos](https://open.spotify.com/track/1YQ1QK6S5QpfFdbzV74KSj) | [Mariano Brocchini](https://open.spotify.com/artist/0F2RJxdzNxdnAIg43Sh7H2), [MARTIN JOTA YUBRO](https://open.spotify.com/artist/22blB9WFLiajsDgReo97BU) | [Entre Lazos](https://open.spotify.com/album/3tXjgHkdAM7uVRBHZRYgtY) | 3:05 |
 
-Snapshot ID: `AAAAAGNasOcbN9R9X6NzZViLEE0DK8uh`
+Snapshot ID: `AAAAAMFt4uGxX2s7wL+GKk3TtezuIHG7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: LOS MENOR3S
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,250 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,233 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 33 | [COSAS DEL AMOR \(feat\. KICKBOMBO\)](https://open.spotify.com/track/4QShpVwkoUtMT2OLEYE4zD) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [COSAS DEL AMOR \(feat\. KICKBOMBO\)](https://open.spotify.com/album/5LvOJA5uFl6cHNae6clPg6) | 2:23 |
 | 34 | [Toi et Moi](https://open.spotify.com/track/27HJH8PuDldOtOLbD9cqTA) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Toi et Moi](https://open.spotify.com/album/0N9oZk71UvdUmxHtTrnrVu) | 3:05 |
 | 35 | [Aviona](https://open.spotify.com/track/32nZKAfw3w29hqZDZYlM9T) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Aviona](https://open.spotify.com/album/0OuOxijE7o3dXj1cTAYdsv) | 2:31 |
-| 36 | [amapola](https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [amapola](https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx) | 3:00 |
+| 36 | [amapola](https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m) | [maia reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [amapola](https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx) | 3:00 |
 | 37 | [rimel \(2010\)](https://open.spotify.com/track/39l41dUj8d8ckmnB7Dc7rt) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5) | [rimel \(2010\)](https://open.spotify.com/album/6VEqSh1MLl7JolYhTlcXji) | 2:54 |
 | 38 | [milveces](https://open.spotify.com/track/6u1zU6mOBjwHqO0otIC4Br) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [milveces](https://open.spotify.com/album/6hQQz7N2a348XnwyEXWYgk) | 3:40 |
 | 39 | [Te vas alejando](https://open.spotify.com/track/7IxEohlBivgdJMRC9p95Bg) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Pop Pesado](https://open.spotify.com/album/08oJ7G42Vzh3ZHUi3Xl4l4) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [24 HORAS \(TRAGADO\)](https://open.spotify.com/track/0ojUyEhzan2BZ0daOV05jV) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [24 HORAS \(TRAGADO\)](https://open.spotify.com/album/2OMMetk93WUI0VmXA54h9f) | 2:40 |
 | 50 | [Nigiri](https://open.spotify.com/track/4jWBjBcoLx4HVo5VDvcTWY) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Nigiri](https://open.spotify.com/album/3rHsVXrOvDag4cS34yKusl) | 2:22 |
 
-Snapshot ID: `AAAAAHbunyZKUxaz0KaX6f7LpHEjsmcZ`
+Snapshot ID: `AAAAAOeM3Yqh6Bl2pbd3avfLT+M3x0mf`

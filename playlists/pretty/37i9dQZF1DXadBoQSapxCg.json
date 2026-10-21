@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319686,
+  "num_followers": 319687,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHi6QckHOgCkdafwRHIi2Xaip41C",
+  "snapshot_id": "AAAAAAyrcghdEzd/C6/qATrpag6OSh6p",
   "tracks": [
     {
       "added_at": "2026-09-10 03:01:30",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-09-10 03:01:30",
       "album": {
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
+    },
+    {
+      "added_at": "2026-09-10 03:01:30",
+      "album": {
         "name": "Day",
         "url": "https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 161819,
       "name": "Clich\u00ea",
       "url": "https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg"
-    },
-    {
-      "added_at": "2026-09-10 03:01:30",
-      "album": {
-        "name": "Peito Aberto",
-        "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
     },
     {
       "added_at": "2026-09-10 03:01:30",

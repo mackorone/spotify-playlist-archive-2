@@ -17779,6 +17779,24 @@
     },
     {
       "album": {
+        "name": "Morning By Morning (Live)",
+        "url": "https://open.spotify.com/album/4I0eo2ja9xpDoTMKovYtM9"
+      },
+      "artists": [
+        {
+          "name": "Century Worship",
+          "url": "https://open.spotify.com/artist/5sWkuThhqRdUFwy7faCWoH"
+        }
+      ],
+      "date_added": "2026-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280920,
+      "name": "Morning By Morning - Live",
+      "url": "https://open.spotify.com/track/1oPa9nRpSSO4MDomXtqvUd"
+    },
+    {
+      "album": {
         "name": "Morning glory, don't you worry.",
         "url": "https://open.spotify.com/album/485K5RKBArRkto27KG5SWT"
       },
@@ -26712,7 +26730,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 266012,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/7MYcEpn9vVcHGaHxDPC7C5"

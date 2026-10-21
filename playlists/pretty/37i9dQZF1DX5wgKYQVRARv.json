@@ -1,12 +1,12 @@
 {
   "description": "New and recent favorites of Progressive Metal. Cover: Enslaved",
-  "num_followers": 572173,
+  "num_followers": 572178,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACkLAGeOmjqEWHglJpYQnB5AgKkC",
+  "snapshot_id": "AAAAANlu30NeLXa7dtpPZO6ZtUak963t",
   "tracks": [
     {
       "added_at": "2026-10-19 21:38:58",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Borderland",
-        "url": "https://open.spotify.com/album/3sJNIoRnixgbSkSSDbE830"
-      },
-      "artists": [
-        {
-          "name": "Amorphis",
-          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
-        }
-      ],
-      "duration_ms": 298533,
-      "name": "Dancing Shadow",
-      "url": "https://open.spotify.com/track/18tPSWC1L2mrXFILxsVWAm"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "MADARA \u00b7 endless dream",
         "url": "https://open.spotify.com/album/5YB8RXBdO0fvRK7PRjYnS1"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 248500,
       "name": "MADARA \u00b7 endless dream",
       "url": "https://open.spotify.com/track/1DHbRaVkKEUneuzlVN4Yoc"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "Borderland",
+        "url": "https://open.spotify.com/album/3sJNIoRnixgbSkSSDbE830"
+      },
+      "artists": [
+        {
+          "name": "Amorphis",
+          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
+        }
+      ],
+      "duration_ms": 298533,
+      "name": "Dancing Shadow",
+      "url": "https://open.spotify.com/track/18tPSWC1L2mrXFILxsVWAm"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/5NUdlbnnInX0rQMZ55s4cp"
+        "name": "Innerdeeps",
+        "url": "https://open.spotify.com/album/4xwYM5jKD90isd07LLUCGD"
       },
       "artists": [
         {
-          "name": "Ihlo",
-          "url": "https://open.spotify.com/artist/6Pbg91GAmVAjfVnYBTcnqR"
+          "name": "Royal Sorrow",
+          "url": "https://open.spotify.com/artist/0HadlhyA8MupHSseNEvpLK"
         }
       ],
-      "duration_ms": 525000,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/5UikXC41cZ9KLgBbLAjNTt"
+      "duration_ms": 338813,
+      "name": "Innerdeeps",
+      "url": "https://open.spotify.com/track/5vFwvq8OvcZEtbdYRZe4jf"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/5NUdlbnnInX0rQMZ55s4cp"
+      },
+      "artists": [
+        {
+          "name": "Ihlo",
+          "url": "https://open.spotify.com/artist/6Pbg91GAmVAjfVnYBTcnqR"
+        }
+      ],
+      "duration_ms": 525000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/5UikXC41cZ9KLgBbLAjNTt"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
         "name": "Moon Healer",
         "url": "https://open.spotify.com/album/2nYVbfF20AiedBTYcswFAW"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 302866,
       "name": "Cannibal (feat. Anders Frid\u00e9n)",
       "url": "https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
-        "name": "Innerdeeps",
-        "url": "https://open.spotify.com/album/4xwYM5jKD90isd07LLUCGD"
-      },
-      "artists": [
-        {
-          "name": "Royal Sorrow",
-          "url": "https://open.spotify.com/artist/0HadlhyA8MupHSseNEvpLK"
-        }
-      ],
-      "duration_ms": 338813,
-      "name": "Innerdeeps",
-      "url": "https://open.spotify.com/track/5vFwvq8OvcZEtbdYRZe4jf"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "The Sleeping City",
-        "url": "https://open.spotify.com/album/7udyKNcNdq5jZrw0lgubMs"
-      },
-      "artists": [
-        {
-          "name": "An Abstract Illusion",
-          "url": "https://open.spotify.com/artist/6xcZE3tpECSAi8wXiK7SdT"
-        }
-      ],
-      "duration_ms": 478120,
-      "name": "Like A Geyser Ever Erupting",
-      "url": "https://open.spotify.com/track/11pdAO2d27VJpX84h1eZeC"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "Voidkind",
         "url": "https://open.spotify.com/album/7vJHAW9nY0d3yBCOmExeKT"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 448853,
       "name": "Abode of the Perfect Soul",
       "url": "https://open.spotify.com/track/6RrUexWtOLbuU8K3YxF7oh"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "The Sleeping City",
+        "url": "https://open.spotify.com/album/7udyKNcNdq5jZrw0lgubMs"
+      },
+      "artists": [
+        {
+          "name": "An Abstract Illusion",
+          "url": "https://open.spotify.com/artist/6xcZE3tpECSAi8wXiK7SdT"
+        }
+      ],
+      "duration_ms": 478120,
+      "name": "Like A Geyser Ever Erupting",
+      "url": "https://open.spotify.com/track/11pdAO2d27VJpX84h1eZeC"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "A Dark Poem, Part II: Sanguis",
-        "url": "https://open.spotify.com/album/2GOYCUoz868WL0S3MR3iKZ"
-      },
-      "artists": [
-        {
-          "name": "Green Carnation",
-          "url": "https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc"
-        }
-      ],
-      "duration_ms": 545000,
-      "name": "Sanguis",
-      "url": "https://open.spotify.com/track/5ouq744En8GwES4t5FPBx6"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "At The Edge Of Winter",
         "url": "https://open.spotify.com/album/0wrUCXTDj3AesrDJkbVAej"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 402473,
       "name": "At The Edge Of Winter",
       "url": "https://open.spotify.com/track/70wdYizX9TISjAcjw7DjzL"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "A Dark Poem, Part II: Sanguis",
+        "url": "https://open.spotify.com/album/2GOYCUoz868WL0S3MR3iKZ"
+      },
+      "artists": [
+        {
+          "name": "Green Carnation",
+          "url": "https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc"
+        }
+      ],
+      "duration_ms": 545000,
+      "name": "Sanguis",
+      "url": "https://open.spotify.com/track/5ouq744En8GwES4t5FPBx6"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Ophelia (feat. SHAOLIN G)",
-        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
-      },
-      "artists": [
-        {
-          "name": "Tulip",
-          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
-        }
-      ],
-      "duration_ms": 288018,
-      "name": "Ophelia - feat. SHAOLIN G",
-      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "The Stargate",
         "url": "https://open.spotify.com/album/74QYxU9qmoLzkuHp4RdCGP"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Psychotic Banana",
-        "url": "https://open.spotify.com/album/1qDg0ds6zDDmYT7nCv9ccw"
+        "name": "Ophelia (feat. SHAOLIN G)",
+        "url": "https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc"
       },
       "artists": [
         {
-          "name": "Hand of Juno",
-          "url": "https://open.spotify.com/artist/2g8hgaQzyK2a6ZD5AOKArj"
+          "name": "Tulip",
+          "url": "https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY"
         }
       ],
-      "duration_ms": 229442,
-      "name": "Hug My Death",
-      "url": "https://open.spotify.com/track/5farC9XCNm6mDJ341fgoFu"
+      "duration_ms": 288018,
+      "name": "Ophelia - feat. SHAOLIN G",
+      "url": "https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1239,34 +1223,18 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "A World Without Heroes",
-        "url": "https://open.spotify.com/album/2xtkmBmtF01sbu1vTpM4y4"
+        "name": "Psychotic Banana",
+        "url": "https://open.spotify.com/album/1qDg0ds6zDDmYT7nCv9ccw"
       },
       "artists": [
         {
-          "name": "Katatonia",
-          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+          "name": "Hand of Juno",
+          "url": "https://open.spotify.com/artist/2g8hgaQzyK2a6ZD5AOKArj"
         }
       ],
-      "duration_ms": 166040,
-      "name": "A World Without Heroes",
-      "url": "https://open.spotify.com/track/0kHAefyoCG9uauaDPVKfdI"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
-        "name": "Ether Metal",
-        "url": "https://open.spotify.com/album/1aCMDGPNGjPR1LkxYu7wSO"
-      },
-      "artists": [
-        {
-          "name": "Esoterica",
-          "url": "https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21"
-        }
-      ],
-      "duration_ms": 247705,
-      "name": "Heathen",
-      "url": "https://open.spotify.com/track/2CLuyyy4gpFNqgonHsDg8C"
+      "duration_ms": 229442,
+      "name": "Hug My Death",
+      "url": "https://open.spotify.com/track/5farC9XCNm6mDJ341fgoFu"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1287,6 +1255,22 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
+        "name": "A World Without Heroes",
+        "url": "https://open.spotify.com/album/2xtkmBmtF01sbu1vTpM4y4"
+      },
+      "artists": [
+        {
+          "name": "Katatonia",
+          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+        }
+      ],
+      "duration_ms": 166040,
+      "name": "A World Without Heroes",
+      "url": "https://open.spotify.com/track/0kHAefyoCG9uauaDPVKfdI"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
         "name": "Stories to Forget",
         "url": "https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 281187,
       "name": "A Lesser King",
       "url": "https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "Ether Metal",
+        "url": "https://open.spotify.com/album/1aCMDGPNGjPR1LkxYu7wSO"
+      },
+      "artists": [
+        {
+          "name": "Esoterica",
+          "url": "https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21"
+        }
+      ],
+      "duration_ms": 247705,
+      "name": "Heathen",
+      "url": "https://open.spotify.com/track/2CLuyyy4gpFNqgonHsDg8C"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "+ d\u00e4r skogen sjunger under evighetens granar + (instrumentaal)",
-        "url": "https://open.spotify.com/album/62Q8NsEi1gxJrd1ZRwRAkM"
-      },
-      "artists": [
-        {
-          "name": "Vildhjarta",
-          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
-        }
-      ],
-      "duration_ms": 210082,
-      "name": "+ ? regnet, the ? + - instrumentaal",
-      "url": "https://open.spotify.com/track/2GAOWwCjEncxfvrHBFm1bw"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "PowerNerd",
         "url": "https://open.spotify.com/album/6G9gnBnXUAK6s87aNa7NMY"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 208431,
       "name": "PowerNerd",
       "url": "https://open.spotify.com/track/4iZk14JjaPO94fDVShNgdV"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "+ d\u00e4r skogen sjunger under evighetens granar + (instrumentaal)",
+        "url": "https://open.spotify.com/album/62Q8NsEi1gxJrd1ZRwRAkM"
+      },
+      "artists": [
+        {
+          "name": "Vildhjarta",
+          "url": "https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J"
+        }
+      ],
+      "duration_ms": 210082,
+      "name": "+ ? regnet, the ? + - instrumentaal",
+      "url": "https://open.spotify.com/track/2GAOWwCjEncxfvrHBFm1bw"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Enter the City",
-        "url": "https://open.spotify.com/album/5EFHnhXAwF6eYy6u0lmNgh"
-      },
-      "artists": [
-        {
-          "name": "Devin Townsend",
-          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "Enter the City",
-      "url": "https://open.spotify.com/track/58npauGm62yQgWgS5X2nd6"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "From Nothing",
         "url": "https://open.spotify.com/album/6NBzyj5wkRF2ILEoAaIQRQ"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 341480,
       "name": "From Nothing",
       "url": "https://open.spotify.com/track/3nr4oL6HxiQjged4NWngEs"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "Enter the City",
+        "url": "https://open.spotify.com/album/5EFHnhXAwF6eYy6u0lmNgh"
+      },
+      "artists": [
+        {
+          "name": "Devin Townsend",
+          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "Enter the City",
+      "url": "https://open.spotify.com/track/58npauGm62yQgWgS5X2nd6"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "ARE YOU AFRAID?",
-        "url": "https://open.spotify.com/album/6ywUMVRiOUJRSiTuBen5og"
-      },
-      "artists": [
-        {
-          "name": "Chaosbay",
-          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "ARE YOU AFRAID?",
-      "url": "https://open.spotify.com/track/0fwXQnRGqcE8aCravPClDo"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/41itIUZyYlXVHBI15N6ZuH"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 192975,
       "name": "The Straight And Narrow",
       "url": "https://open.spotify.com/track/6xVwiDBGpTrnJ8wS7ZGbsq"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
+        "name": "ARE YOU AFRAID?",
+        "url": "https://open.spotify.com/album/6ywUMVRiOUJRSiTuBen5og"
+      },
+      "artists": [
+        {
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "ARE YOU AFRAID?",
+      "url": "https://open.spotify.com/track/0fwXQnRGqcE8aCravPClDo"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
+        "name": "Envy",
+        "url": "https://open.spotify.com/album/2VA3u3c4lz0rZMisWxCIqN"
+      },
+      "artists": [
+        {
+          "name": "Theraphosa",
+          "url": "https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge"
+        }
+      ],
+      "duration_ms": 270344,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/3BoLYG2QSpR1bCOhuTUsYR"
+    },
+    {
+      "added_at": "2026-10-19 21:38:58",
+      "album": {
         "name": "PANIK",
         "url": "https://open.spotify.com/album/1QQOGKzJOjLtCQGPEhQWH0"
       },
@@ -2155,22 +2171,6 @@
       "duration_ms": 214000,
       "name": "PANIK",
       "url": "https://open.spotify.com/track/3cETXA1GfQYdAajbUDohJZ"
-    },
-    {
-      "added_at": "2026-10-19 21:38:58",
-      "album": {
-        "name": "Envy",
-        "url": "https://open.spotify.com/album/2VA3u3c4lz0rZMisWxCIqN"
-      },
-      "artists": [
-        {
-          "name": "Theraphosa",
-          "url": "https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge"
-        }
-      ],
-      "duration_ms": 270344,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/3BoLYG2QSpR1bCOhuTUsYR"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -2255,8 +2255,8 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "The Lightest Straw",
-        "url": "https://open.spotify.com/album/1lz3eFVXKr5OSTLL6y7zeY"
+        "name": "Solastalgia",
+        "url": "https://open.spotify.com/album/2fNtxFbPJrspvkjaQprvVW"
       },
       "artists": [
         {
@@ -2264,9 +2264,9 @@
           "url": "https://open.spotify.com/artist/1UztxAFwIMRgVVNdQ54iqg"
         }
       ],
-      "duration_ms": 272280,
-      "name": "The Lightest Straw",
-      "url": "https://open.spotify.com/track/71TSY68EmW1RUcdwgzp6NK"
+      "duration_ms": 230826,
+      "name": "Solastalgia",
+      "url": "https://open.spotify.com/track/5aLfxUY0wQFrNcSLdpr7DF"
     },
     {
       "added_at": "2026-10-19 21:38:58",
@@ -2339,8 +2339,8 @@
     {
       "added_at": "2026-10-19 21:38:58",
       "album": {
-        "name": "Solastalgia",
-        "url": "https://open.spotify.com/album/2fNtxFbPJrspvkjaQprvVW"
+        "name": "The Lightest Straw",
+        "url": "https://open.spotify.com/album/1lz3eFVXKr5OSTLL6y7zeY"
       },
       "artists": [
         {
@@ -2348,9 +2348,9 @@
           "url": "https://open.spotify.com/artist/1UztxAFwIMRgVVNdQ54iqg"
         }
       ],
-      "duration_ms": 230826,
-      "name": "Solastalgia",
-      "url": "https://open.spotify.com/track/5aLfxUY0wQFrNcSLdpr7DF"
+      "duration_ms": 272280,
+      "name": "The Lightest Straw",
+      "url": "https://open.spotify.com/track/71TSY68EmW1RUcdwgzp6NK"
     },
     {
       "added_at": "2026-10-19 21:38:58",

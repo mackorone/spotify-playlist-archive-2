@@ -1,28 +1,28 @@
 {
   "description": "La  selecci\u00f3n  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify",
-  "num_followers": 39470,
+  "num_followers": 39473,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK/UbghRfFTX4Om3JR7jYEP8szpJ",
+  "snapshot_id": "AAAAAIAaGqNBDmv+1f3J1BcD2U3QQtpT",
   "tracks": [
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Ma",
-        "url": "https://open.spotify.com/album/0X22JBdLY3mDTgq7CPduvp"
+        "name": "El Hambre y las Ganas de Comer",
+        "url": "https://open.spotify.com/album/3BuKkPfehxDul58gK9K1Fo"
       },
       "artists": [
         {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+          "name": "C\u00e1mara Chilena de la Destrucci\u00f3n",
+          "url": "https://open.spotify.com/artist/3zdrl0FdJvv4MC97zk8Qmo"
         }
       ],
-      "duration_ms": 356934,
-      "name": "Ma",
-      "url": "https://open.spotify.com/track/3AdRo34s0VgB8V3KDhfT6L"
+      "duration_ms": 198000,
+      "name": "GTA Santiago",
+      "url": "https://open.spotify.com/track/4646D4hCxZYF8SA2nx9cPA"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -43,18 +43,18 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "El Hambre y las Ganas de Comer",
-        "url": "https://open.spotify.com/album/3BuKkPfehxDul58gK9K1Fo"
+        "name": "Ma",
+        "url": "https://open.spotify.com/album/0X22JBdLY3mDTgq7CPduvp"
       },
       "artists": [
         {
-          "name": "C\u00e1mara Chilena de la Destrucci\u00f3n",
-          "url": "https://open.spotify.com/artist/3zdrl0FdJvv4MC97zk8Qmo"
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
         }
       ],
-      "duration_ms": 198000,
-      "name": "GTA Santiago",
-      "url": "https://open.spotify.com/track/4646D4hCxZYF8SA2nx9cPA"
+      "duration_ms": 356934,
+      "name": "Ma",
+      "url": "https://open.spotify.com/track/3AdRo34s0VgB8V3KDhfT6L"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Quebrada",
-        "url": "https://open.spotify.com/album/6Kc856PWIMLeN9IjfOiOxG"
-      },
-      "artists": [
-        {
-          "name": "Estoy Bien",
-          "url": "https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda"
-        }
-      ],
-      "duration_ms": 210027,
-      "name": "Quebrada",
-      "url": "https://open.spotify.com/track/22wjxoyspjoKR9qZ7xyGik"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
         "name": "Entrop\u00eda Emocional",
         "url": "https://open.spotify.com/album/3eK4Yt6QFTJwSLQxmIsqZJ"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 398000,
       "name": "Stella",
       "url": "https://open.spotify.com/track/4x5KvV5D9VlZrdDxjI1Je6"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
+        "name": "Quebrada",
+        "url": "https://open.spotify.com/album/6Kc856PWIMLeN9IjfOiOxG"
+      },
+      "artists": [
+        {
+          "name": "Estoy Bien",
+          "url": "https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda"
+        }
+      ],
+      "duration_ms": 210027,
+      "name": "Quebrada",
+      "url": "https://open.spotify.com/track/22wjxoyspjoKR9qZ7xyGik"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -399,8 +399,8 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "micheladas",
-        "url": "https://open.spotify.com/album/4HLVYt01Umo4A63cpg4g4B"
+        "name": "Nada Bueno Termina Bien",
+        "url": "https://open.spotify.com/album/7sDECyr819XLlKvhBHhqcb"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
         }
       ],
-      "duration_ms": 136255,
-      "name": "micheladas",
-      "url": "https://open.spotify.com/track/5NEVQPTo96aRBH1l94rzEs"
+      "duration_ms": 153798,
+      "name": "Guerra de Novios",
+      "url": "https://open.spotify.com/track/7GT8hWzke6De6HFMjRjBhO"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Perfecto acuerdo para estar en desacuerdo",
-        "url": "https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm"
-      },
-      "artists": [
-        {
-          "name": "Almost Done",
-          "url": "https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9"
-        }
-      ],
-      "duration_ms": 211184,
-      "name": "Perfecto acuerdo para estar en desacuerdo",
-      "url": "https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
         "name": "Mi Mundo Yo Perd\u00ed",
         "url": "https://open.spotify.com/album/4j7QcYBm2Gk7VJWwIWtv9b"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 263107,
       "name": "D'lorean",
       "url": "https://open.spotify.com/track/4V75KgotlsXYWuoBLBr19A"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
+        "name": "Perfecto acuerdo para estar en desacuerdo",
+        "url": "https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm"
+      },
+      "artists": [
+        {
+          "name": "Almost Done",
+          "url": "https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9"
+        }
+      ],
+      "duration_ms": 211184,
+      "name": "Perfecto acuerdo para estar en desacuerdo",
+      "url": "https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Zaza",
-        "url": "https://open.spotify.com/album/3E1sVU9dy5EkojxZAivmyQ"
-      },
-      "artists": [
-        {
-          "name": "Allanamiento Emocional",
-          "url": "https://open.spotify.com/artist/7d6pOevWwMO1Oi46SxnQAz"
-        }
-      ],
-      "duration_ms": 244576,
-      "name": "Zaza",
-      "url": "https://open.spotify.com/track/06hQBCCnTPdlDur3HGGgv9"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
         "name": "Gu\u00eda para Comprender los Sue\u00f1os",
         "url": "https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 149000,
       "name": "Todos Preguntaron por Ti",
       "url": "https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
+        "name": "Zaza",
+        "url": "https://open.spotify.com/album/3E1sVU9dy5EkojxZAivmyQ"
+      },
+      "artists": [
+        {
+          "name": "Allanamiento Emocional",
+          "url": "https://open.spotify.com/artist/7d6pOevWwMO1Oi46SxnQAz"
+        }
+      ],
+      "duration_ms": 244576,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/06hQBCCnTPdlDur3HGGgv9"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -563,8 +563,8 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Nada Bueno Termina Bien",
-        "url": "https://open.spotify.com/album/7sDECyr819XLlKvhBHhqcb"
+        "name": "micheladas",
+        "url": "https://open.spotify.com/album/4HLVYt01Umo4A63cpg4g4B"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP"
         }
       ],
-      "duration_ms": 153798,
-      "name": "Guerra de Novios",
-      "url": "https://open.spotify.com/track/7GT8hWzke6De6HFMjRjBhO"
+      "duration_ms": 136255,
+      "name": "micheladas",
+      "url": "https://open.spotify.com/track/5NEVQPTo96aRBH1l94rzEs"
     },
     {
       "added_at": "2026-10-16 06:00:34",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-10-16 06:00:34",
       "album": {
-        "name": "Efecto Placebo",
-        "url": "https://open.spotify.com/album/0DyJ2rtkZIjJE4vPcm5C0J"
-      },
-      "artists": [
-        {
-          "name": "DOSMILDOS",
-          "url": "https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Efecto Placebo",
-      "url": "https://open.spotify.com/track/57XDhKqfWNeIvaDL8cGeGM"
-    },
-    {
-      "added_at": "2026-10-16 06:00:34",
-      "album": {
         "name": "Nossos Amigos e os Lugares Que Visitamos",
         "url": "https://open.spotify.com/album/24YfO3Xo7TaMG8yKVOdtvL"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 381335,
       "name": "Anivers\u00e1rios S\u00e3o Dif\u00edceis",
       "url": "https://open.spotify.com/track/0RgZbsnGWKQ0sgfImPl5WY"
+    },
+    {
+      "added_at": "2026-10-16 06:00:34",
+      "album": {
+        "name": "Efecto Placebo",
+        "url": "https://open.spotify.com/album/0DyJ2rtkZIjJE4vPcm5C0J"
+      },
+      "artists": [
+        {
+          "name": "DOSMILDOS",
+          "url": "https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Efecto Placebo",
+      "url": "https://open.spotify.com/track/57XDhKqfWNeIvaDL8cGeGM"
     },
     {
       "added_at": "2026-10-16 06:00:34",

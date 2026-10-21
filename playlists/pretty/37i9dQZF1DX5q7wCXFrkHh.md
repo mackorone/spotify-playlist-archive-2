@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,459 likes - 100 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,505 likes - 100 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 45 | [Looking Up](https://open.spotify.com/track/6i1WORWeJD92fYDhww2wYE) | [Michel Petrucciani](https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K) | [Music](https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g) | 5:47 |
 | 46 | [I Can't Give You Anything But Love](https://open.spotify.com/track/04md2B5nmsojIkTSUWff2C) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 5:01 |
 | 47 | [Body and Soul](https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Monk's Dream](https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL) | 4:28 |
-| 48 | [I'm in a Dancing Mood](https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Dave Brubeck's Greatest Hits](https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE) | 2:59 |
-| 49 | [Swahililand](https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Crystal](https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA) | 4:08 |
+| 48 | [Swahililand](https://open.spotify.com/track/7qwuryqoBBEH56d3iEhIBO) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Crystal](https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA) | 4:08 |
+| 49 | [I'm in a Dancing Mood](https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Dave Brubeck's Greatest Hits](https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE) | 2:59 |
 | 50 | [Blind Man, Blind Man](https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 8:19 |
 | 51 | [How High The Moon](https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn) | [Hank Jones Trio](https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U) | [The Trio](https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx) | 6:03 |
 | 52 | [Rain](https://open.spotify.com/track/6HKPWcktY1fRY2JwXtWDd9) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 4:14 |
@@ -71,15 +71,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 61 | [Elevation of Love](https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [Seven Days of Falling](https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB) | 6:43 |
 | 62 | [Angelo](https://open.spotify.com/track/57LtAkQYV0aD4ULVk9szkW) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [Shai Maestro Trio](https://open.spotify.com/album/53LA5Radjeit5J77Ka1T0w) | 4:27 |
 | 63 | [Tiger Rag](https://open.spotify.com/track/2toW1tAUAEfjdu5q29u8m9) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 2:18 |
-| 64 | [Love Is Here To Stay](https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0) | [Marian McPartland](https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma) | [Great Britain's](https://open.spotify.com/album/5YbS3aAsBc6DcNPLbSbSWR) | 2:50 |
-| 65 | [I'm Glad There Is You](https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Profile](https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG) | 4:52 |
-| 66 | [The Rich \(And The Poor\)](https://open.spotify.com/track/1AIZWoktbERq2Z5qF30P1n) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Treasure Island](https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX) | 9:26 |
-| 67 | [The Man I Love](https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Serenade To "Laura"](https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po) | 2:40 |
-| 68 | [Dream](https://open.spotify.com/track/0psSSpJgJIkaAY4a8jND1V) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Written In The Stars](https://open.spotify.com/album/14C2yqQ0xfZQjhomR3nh8S) | 6:44 |
+| 64 | [The Rich \(And The Poor\)](https://open.spotify.com/track/1AIZWoktbERq2Z5qF30P1n) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Treasure Island](https://open.spotify.com/album/5iZKmlTiFgYSFJerVFAZoX) | 9:26 |
+| 65 | [Love Is Here To Stay](https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0) | [Marian McPartland](https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma) | [Great Britain's](https://open.spotify.com/album/5YbS3aAsBc6DcNPLbSbSWR) | 2:50 |
+| 66 | [I'm Glad There Is You](https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Profile](https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG) | 4:52 |
+| 67 | [Dream](https://open.spotify.com/track/0psSSpJgJIkaAY4a8jND1V) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Written In The Stars](https://open.spotify.com/album/14C2yqQ0xfZQjhomR3nh8S) | 6:44 |
+| 68 | [The Man I Love](https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Serenade To "Laura"](https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po) | 2:40 |
 | 69 | [Moanin'](https://open.spotify.com/track/5U66z6J7VpEA9XV9BpePwh) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC), [Sam Jones](https://open.spotify.com/artist/6ArVhrX5WE3fMuiR1D5kLV), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [This Here Is Bobby Timmons / Easy Does It](https://open.spotify.com/album/76cd2lOIpE29vAyewtKd4b) | 5:08 |
 | 70 | [Someday My Prince Will Come](https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Someday My Prince Will Come](https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA) | 3:06 |
-| 71 | [52nd Street Theme](https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Kenny Drew And His Progressive Piano](https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe) | 3:24 |
-| 72 | [Memories Of Paris](https://open.spotify.com/track/1zZyI2a3e4cvK8ZUSXrTQQ) | [Michel Petrucciani](https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K) | [Music](https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g) | 5:23 |
+| 71 | [Memories Of Paris](https://open.spotify.com/track/1zZyI2a3e4cvK8ZUSXrTQQ) | [Michel Petrucciani](https://open.spotify.com/artist/13kHQ586h4Lm9iwVyS2b3K) | [Music](https://open.spotify.com/album/6TYjyPndfRAuYDTmiYIt2g) | 5:23 |
+| 72 | [52nd Street Theme](https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Kenny Drew And His Progressive Piano](https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe) | 3:24 |
 | 73 | [Sophisticated Lady](https://open.spotify.com/track/0eCJ74qKvTcqA3oWzBlzPx) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [Piano Starts Here](https://open.spotify.com/album/1FCIddh80qKhpueDBsLNfr) | 3:15 |
 | 74 | [Theme From "Mr\. Broadway"](https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Jazz Impressions Of New York](https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH) | 2:27 |
 | 75 | [My Blue Heaven](https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Mary Lou Williams Presents Black Christ of the Andes](https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy) | 3:10 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 97 | [They Can't Take That Away From Me](https://open.spotify.com/track/0RWX4MAHKUvnnF2gGbMNtp) | [Duke Jordan](https://open.spotify.com/artist/27Zmfr3VpJSgOf8iyWiZzM) | [Duke Jordan Trio & Quintet](https://open.spotify.com/album/2GJjrrPo1zGXxrCiMdvWz8) | 4:34 |
 | 98 | [When I Fall in Love](https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe) | [Marc Copland](https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA) | [Some More Love Songs](https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf) | 7:27 |
 | 99 | [Blackbird](https://open.spotify.com/track/3uVWwYNJMuhQ464tfH0a7f) | [Shelly Berg Trio](https://open.spotify.com/artist/6yN3eFi6kK1kiw3xm12HJ3) | [Blackbird](https://open.spotify.com/album/4XCLREMxloj6a48BlS3Sio) | 8:14 |
-| 100 | [Laura](https://open.spotify.com/track/4FcFSHGlDyjUMSaR8L5VHe) | [Teddy Wilson Trio](https://open.spotify.com/artist/098w47IvmZRjaDsfkzIKO7), [Jo Jones](https://open.spotify.com/artist/5iCN8xlg1r3uXDW5yLFHmJ) | [Complete Recordings](https://open.spotify.com/album/7l6etPPDxkFbANvjVLFUvY) | 3:32 |
+| 100 | [Off Minor](https://open.spotify.com/track/3N3Hy7eQ5GboaKQYeJcFaX) | [Cedar Walton](https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT), [David Williams](https://open.spotify.com/artist/1lW0yOfxgYlNLxJCszBwh3), [Billy Higgins](https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs) | [The Trio Vol.2](https://open.spotify.com/album/6NMTOGNNlCgC34TY8hkCN6) | 9:01 |
 
-Snapshot ID: `AAAAAJA0mMd/5JI27zWoIYov/z6RLn0G`
+Snapshot ID: `AAAAAKYvNmiZA6Lh63WkZbTBhuyO18i3`

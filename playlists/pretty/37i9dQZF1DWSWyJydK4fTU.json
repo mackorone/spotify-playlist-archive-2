@@ -1,12 +1,12 @@
 {
   "description": "darf man so ?? (in den tag starten, kurz leben leben, bisschen pause machen) ",
-  "num_followers": 617569,
+  "num_followers": 617534,
   "original_name": "morning glow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALKc0nWvWjIvHaYuPleTb9eJj+V4",
+  "snapshot_id": "AAAAALcV5oKKHXqzfHocaYeAEM5bxdtw",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:06",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-10-15 22:01:06",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 170859,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
-    },
-    {
-      "added_at": "2026-10-15 22:01:06",
-      "album": {
         "name": "Babydoll",
         "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 178822,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
+    },
+    {
+      "added_at": "2026-10-15 22:01:06",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
       "added_at": "2026-10-15 22:01:06",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-10-15 22:01:06",
       "album": {
-        "name": "If I Ever Talk To God",
-        "url": "https://open.spotify.com/album/11YEqBXjQnDej8wmDEyJSy"
-      },
-      "artists": [
-        {
-          "name": "Landon Barker",
-          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "If I Ever Talk To God",
-      "url": "https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL"
-    },
-    {
-      "added_at": "2026-10-15 22:01:06",
-      "album": {
         "name": "trees for the woods",
         "url": "https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 247540,
       "name": "trees for the woods",
       "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk"
+    },
+    {
+      "added_at": "2026-10-15 22:01:06",
+      "album": {
+        "name": "If I Ever Talk To God",
+        "url": "https://open.spotify.com/album/11YEqBXjQnDej8wmDEyJSy"
+      },
+      "artists": [
+        {
+          "name": "Landon Barker",
+          "url": "https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "If I Ever Talk To God",
+      "url": "https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL"
     },
     {
       "added_at": "2026-10-15 22:01:06",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-10-15 22:01:06",
       "album": {
-        "name": "Divine Feelings",
-        "url": "https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 208176,
-      "name": "Divine Feelings",
-      "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
-    },
-    {
-      "added_at": "2026-10-15 22:01:06",
-      "album": {
         "name": "New Heart",
         "url": "https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 184481,
       "name": "New Heart",
       "url": "https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK"
+    },
+    {
+      "added_at": "2026-10-15 22:01:06",
+      "album": {
+        "name": "Divine Feelings",
+        "url": "https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 208176,
+      "name": "Divine Feelings",
+      "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
     },
     {
       "added_at": "2026-10-15 22:01:06",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-10-15 22:01:06",
       "album": {
-        "name": "I Blame Myself",
-        "url": "https://open.spotify.com/album/1WTBULOnkuw5CFaiFmpqsD"
+        "name": "BEAUTY QUEEN",
+        "url": "https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
         }
       ],
-      "duration_ms": 162855,
-      "name": "I Blame Myself",
-      "url": "https://open.spotify.com/track/6M96eRsP7LP2HHLR9S7a66"
+      "duration_ms": 190000,
+      "name": "BEAUTY QUEEN",
+      "url": "https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih"
     },
     {
       "added_at": "2026-10-15 22:01:06",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-10-15 22:01:06",
       "album": {
-        "name": "BEAUTY QUEEN",
-        "url": "https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ"
+        "name": "I Blame Myself",
+        "url": "https://open.spotify.com/album/1WTBULOnkuw5CFaiFmpqsD"
       },
       "artists": [
         {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 190000,
-      "name": "BEAUTY QUEEN",
-      "url": "https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih"
+      "duration_ms": 162855,
+      "name": "I Blame Myself",
+      "url": "https://open.spotify.com/track/6M96eRsP7LP2HHLR9S7a66"
     }
   ],
   "unique_name": "morning glow",

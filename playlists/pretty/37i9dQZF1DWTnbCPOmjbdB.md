@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Vito Bambino
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,975 likes - 65 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,994 likes - 65 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 64 | [Ciągle znajduję twoje ubrania](https://open.spotify.com/track/3D22IVr0ElopJA9bLUijD4) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Krótkie historie o miłości](https://open.spotify.com/album/50aXF0h2XmeO7w583rbmHt) | 3:13 |
 | 65 | [na moje nieszczęście](https://open.spotify.com/track/5kp1LBPYyaGswDaG75sx13) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [na moje nieszczęście](https://open.spotify.com/album/4vMEv5ht5B8rQhIalwnhQG) | 3:05 |
 
-Snapshot ID: `AAAAAJApAL1E8yKPWkCGRUdK1HDDZZDL`
+Snapshot ID: `AAAAAHLk9eFRrX/pi8s6tOqIRqxW4S/b`

@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 21645,
+  "num_followers": 21654,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMZ1p28Fbvy398RmHMRqYYKyFwnZ",
+  "snapshot_id": "AAAAAJZEW8dKaL/iPBPfSOVXiq9CmccR",
   "tracks": [
     {
       "added_at": "2025-06-20 07:45:33",
@@ -231,8 +231,8 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "I Don\u2019t Like You",
-        "url": "https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t"
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         }
       ],
-      "duration_ms": 151983,
-      "name": "I Don't Like You",
-      "url": "https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw"
+      "duration_ms": 180884,
+      "name": "Mad Apology",
+      "url": "https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -315,8 +315,8 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Anger Management",
-        "url": "https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4"
+        "name": "I Don\u2019t Like You",
+        "url": "https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         }
       ],
-      "duration_ms": 180884,
-      "name": "Mad Apology",
-      "url": "https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0"
+      "duration_ms": 151983,
+      "name": "I Don't Like You",
+      "url": "https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -367,34 +367,42 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Never Gunna Be the Same",
-        "url": "https://open.spotify.com/album/29oPLnD1XgYvbu5RUblGH3"
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
       },
       "artists": [
         {
-          "name": "Tomi Agape",
-          "url": "https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd"
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
         }
       ],
-      "duration_ms": 165981,
-      "name": "London",
-      "url": "https://open.spotify.com/track/0GScClMG7w5PZ4XCB5ViNu"
+      "duration_ms": 195668,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
     },
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Better Days / Wetin Dey",
-        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
+        "name": "rare.",
+        "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
       },
       "artists": [
         {
           "name": "Odunsi (The Engine)",
           "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "Zamir",
+          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
         }
       ],
-      "duration_ms": 146447,
-      "name": "Wetin Dey",
-      "url": "https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5"
+      "duration_ms": 192309,
+      "name": "Alt\u00e9 Cruise",
+      "url": "https://open.spotify.com/track/6vdhXHNT6yKhheq7pxw68E"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -455,42 +463,34 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "No Days Off",
-        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
+        "name": "Never Gunna Be the Same",
+        "url": "https://open.spotify.com/album/29oPLnD1XgYvbu5RUblGH3"
       },
       "artists": [
         {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+          "name": "Tomi Agape",
+          "url": "https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd"
         }
       ],
-      "duration_ms": 195668,
-      "name": "No Days Off",
-      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
+      "duration_ms": 165981,
+      "name": "London",
+      "url": "https://open.spotify.com/track/0GScClMG7w5PZ4XCB5ViNu"
     },
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "rare.",
-        "url": "https://open.spotify.com/album/2rCQfEwg1KO3gksFF2Wq48"
+        "name": "Better Days / Wetin Dey",
+        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
       },
       "artists": [
         {
           "name": "Odunsi (The Engine)",
           "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "Zamir",
-          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
         }
       ],
-      "duration_ms": 192309,
-      "name": "Alt\u00e9 Cruise",
-      "url": "https://open.spotify.com/track/6vdhXHNT6yKhheq7pxw68E"
+      "duration_ms": 146447,
+      "name": "Wetin Dey",
+      "url": "https://open.spotify.com/track/6rB1KkvMlXl5hPB7EbTWw5"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "First Signs Of Me",
-        "url": "https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo"
-      },
-      "artists": [
-        {
-          "name": "MALIKAA",
-          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
-        }
-      ],
-      "duration_ms": 229653,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "MASTA",
         "url": "https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 160879,
       "name": "Confess",
       "url": "https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "First Signs Of Me",
+        "url": "https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo"
+      },
+      "artists": [
+        {
+          "name": "MALIKAA",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg"
     },
     {
       "added_at": "2025-06-20 07:45:33",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Let It Flow",
-        "url": "https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY"
-      },
-      "artists": [
-        {
-          "name": "Maya Amolo",
-          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
-        }
-      ],
-      "duration_ms": 178348,
-      "name": "Let It Flow",
-      "url": "https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "On My Life",
         "url": "https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 125607,
       "name": "On My Life",
       "url": "https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Let It Flow",
+        "url": "https://open.spotify.com/album/009Hlm8szvOBi5HbUGiNvY"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "duration_ms": 178348,
+      "name": "Let It Flow",
+      "url": "https://open.spotify.com/track/0bUfQU4x6h1pkq7L1ztxi5"
     },
     {
       "added_at": "2025-06-20 07:45:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 
 > iykyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,060,894 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,060,637 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 74 | [Impostor Syndrome](https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz) | 4:54 |
 | 75 | [do i clench my fists?](https://open.spotify.com/track/08QUYTMO6gZDCKQFTCXBbz) | [ridgeclub](https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1) | [do i clench my fists?](https://open.spotify.com/album/0fjrtU0uPBqg10AMHhKYSX) | 2:33 |
 
-Snapshot ID: `AAAAAEX3Pw1z8OHCZB1ZXOvNAWriboeL`
+Snapshot ID: `AAAAAJhdgaK/6r13gO4zaS2bGnbpLUPS`

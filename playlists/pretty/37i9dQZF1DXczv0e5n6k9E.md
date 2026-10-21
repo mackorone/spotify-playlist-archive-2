@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Fy, Kidd
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,733 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,728 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [80s](https://open.spotify.com/track/2YfUDAeK634hrKfhEzbZxo) | [HGEMONA$](https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm), [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [80s](https://open.spotify.com/album/0P2nXpqHmhxMsMOsRNwodG) | 2:49 |
 | 60 | [MIA FORA](https://open.spotify.com/track/5Gd5rEAgtIfvywCINFLQRz) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Sanko](https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx) | [MIA FORA](https://open.spotify.com/album/2tqQuMabXftkOdnCzC7co4) | 2:47 |
 
-Snapshot ID: `AAAAABUTl0VGZxK7D7a6X6/djSyXUFdV`
+Snapshot ID: `AAAAAOgtxuLGsXYjNm96JxNkqLCNttcK`

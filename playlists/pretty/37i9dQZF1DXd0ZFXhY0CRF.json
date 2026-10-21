@@ -1,12 +1,12 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Violet Grohl",
-  "num_followers": 812978,
+  "num_followers": 813009,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADdKzoFzoG/8avzSse3dgDYTE4at",
+  "snapshot_id": "AAAAAGEVJEooBv8tTwYKERqH7scwefDy",
   "tracks": [
     {
       "added_at": "2026-05-01 18:02:47",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Ego Death At A Bachelorette Party",
-        "url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 201372,
-      "name": "Mirtazapine",
-      "url": "https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 207652,
       "name": "This Is Why",
       "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 201372,
+      "name": "Mirtazapine",
+      "url": "https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 295133,
-      "name": "Roam",
-      "url": "https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "To Bring You My Love",
         "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 194506,
       "name": "Down By The Water",
       "url": "https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 295133,
+      "name": "Roam",
+      "url": "https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "The Clearing",
-        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 269826,
-      "name": "White Horses",
-      "url": "https://open.spotify.com/track/5FxdLsAmaOo8ofpNvsSun5"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Bricks Are Heavy",
         "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 235093,
       "name": "Pretend We're Dead",
       "url": "https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "The Clearing",
+        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 269826,
+      "name": "White Horses",
+      "url": "https://open.spotify.com/track/5FxdLsAmaOo8ofpNvsSun5"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Standing in the Way of Control",
-        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 256400,
-      "name": "Standing in the Way of Control",
-      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Crawlers - EP",
         "url": "https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 254418,
       "name": "Come Over (Again)",
       "url": "https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "Standing in the Way of Control",
+        "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 256400,
+      "name": "Standing in the Way of Control",
+      "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Exile In Guyville (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7sCpW2cLGcRk1zf9zi0Yqd"
-      },
-      "artists": [
-        {
-          "name": "Liz Phair",
-          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
-        }
-      ],
-      "duration_ms": 196213,
-      "name": "Never Said - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1iOJzlWm2p8NOFYVHGGgq1"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "R is for Rocket",
         "url": "https://open.spotify.com/album/71B3Y4OdzrQNt6acfdKsIG"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 227354,
       "name": "One Million",
       "url": "https://open.spotify.com/track/5IIt7FDYJOn3sMDOmTcVuN"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "Exile In Guyville (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7sCpW2cLGcRk1zf9zi0Yqd"
+      },
+      "artists": [
+        {
+          "name": "Liz Phair",
+          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+        }
+      ],
+      "duration_ms": 196213,
+      "name": "Never Said - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1iOJzlWm2p8NOFYVHGGgq1"
     },
     {
       "added_at": "2026-05-01 18:02:47",

@@ -1,12 +1,12 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 125219,
+  "num_followers": 125244,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALjLgXYcV9s86m8k6oxwlglie8Rz",
+  "snapshot_id": "AAAAACW3Z5BIzd9XOGBABOD+Axj/w108",
   "tracks": [
     {
       "added_at": "2025-05-23 06:00:30",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "duration_ms": 347441,
+      "name": "Origen",
+      "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 194341,
       "name": "La Ansiedad y Yo",
       "url": "https://open.spotify.com/track/7uBNpRc8gdsbeLs8Y8ztwI"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        }
-      ],
-      "duration_ms": 347441,
-      "name": "Origen",
-      "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Punchline City, Vol. 1",
+        "url": "https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz"
+      },
+      "artists": [
+        {
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+        }
+      ],
+      "duration_ms": 76660,
+      "name": "NueveOnce",
+      "url": "https://open.spotify.com/track/091vECHhqk4LF0ztHw7fbt"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "La teor\u00eda de la evoluci\u00f3n",
         "url": "https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 265747,
       "name": "Dolor",
       "url": "https://open.spotify.com/track/4fCg5TdCsAaf2sizMKYFjm"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Punchline City, Vol. 1",
-        "url": "https://open.spotify.com/album/4jUHNtwEvmKr4xjrJiMxSz"
-      },
-      "artists": [
-        {
-          "name": "Muelas De Gallo",
-          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
-        }
-      ],
-      "duration_ms": 76660,
-      "name": "NueveOnce",
-      "url": "https://open.spotify.com/track/091vECHhqk4LF0ztHw7fbt"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -771,26 +771,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "La Capital Del Pecado",
-        "url": "https://open.spotify.com/album/5ZhKILys7Vne4fJ1gvWZVc"
-      },
-      "artists": [
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Zirck Saucedo",
-          "url": "https://open.spotify.com/artist/4T69z0gm8SP5HxlUBMMXpR"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "La Capital Del Pecado",
-      "url": "https://open.spotify.com/track/5sxIv3QmlnQ4u5NxPM1E7V"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Esquirlas",
         "url": "https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 220000,
       "name": "Esquirlas",
       "url": "https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "La Capital Del Pecado",
+        "url": "https://open.spotify.com/album/5ZhKILys7Vne4fJ1gvWZVc"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Zirck Saucedo",
+          "url": "https://open.spotify.com/artist/4T69z0gm8SP5HxlUBMMXpR"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "La Capital Del Pecado",
+      "url": "https://open.spotify.com/track/5sxIv3QmlnQ4u5NxPM1E7V"
     },
     {
       "added_at": "2025-05-23 06:00:30",

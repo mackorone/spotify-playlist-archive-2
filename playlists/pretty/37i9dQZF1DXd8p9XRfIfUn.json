@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 81423,
+  "num_followers": 81427,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAACED2yI15yUr6qaAy2eBNCmBEUN",
+  "snapshot_id": "AAAAAIgzUI8HOrn7vc/65mhydNDCkohi",
   "tracks": [
     {
       "added_at": "2025-09-18 23:00:14",
@@ -803,6 +803,26 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 169802,
+      "name": "cosquillas",
+      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Pasame la Botella (Remix)",
         "url": "https://open.spotify.com/album/1rL3S88jyTg6D8TNVNFeIN"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 348013,
       "name": "Pasame la Botella - Remix",
       "url": "https://open.spotify.com/track/5aBYOVFOEXXlY3mfranach"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 169802,
-      "name": "cosquillas",
-      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "Manzana",
+        "url": "https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 173936,
+      "name": "Manzana",
+      "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Chakaleo",
         "url": "https://open.spotify.com/album/1AFiAS14jLq3BE4xXJ16zz"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 183331,
       "name": "Chakaleo",
       "url": "https://open.spotify.com/track/6cfFlDz8iGUVedHJLZjbXI"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "Manzana",
-        "url": "https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 173936,
-      "name": "Manzana",
-      "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
     },
     {
       "added_at": "2025-09-18 23:00:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Ellize
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,537 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,536 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Ti Thelo Ego Me Sena](https://open.spotify.com/track/7gLT8aVOkQkXQk2yTkZzhF) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd), [Eleana Vrachali](https://open.spotify.com/artist/0L7vGwIsynB86DhC2QQmzn) | [Ti Thelo Ego Me Sena](https://open.spotify.com/album/6huYtEFzy9x6gSEvMwdi4A) | 2:55 |
 | 50 | [To S' Agapo](https://open.spotify.com/track/1NOXCmSA0fIk9P3PvchJle) | [Kostas Martakis](https://open.spotify.com/artist/1WqBNjsIfFxCyYuAhLMfXd), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [To S' Agapo](https://open.spotify.com/album/5TL1F4mfJncz4EcA7hY4qt) | 3:23 |
 
-Snapshot ID: `AAAAANm4rpKJbj/t1x0GOzZ6iWtMorWC`
+Snapshot ID: `AAAAAD6aBvIo00UIBPx688YxBdTP7bYF`

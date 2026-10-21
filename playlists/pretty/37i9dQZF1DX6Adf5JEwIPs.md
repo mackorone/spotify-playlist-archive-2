@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Los Dareyes De La Sierra & Tito Double P 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,508 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,523 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 15 | [Mientes Tan Bien](https://open.spotify.com/track/4WZOq6k02nLjeTFztwChZD) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Mientes Tan Bien](https://open.spotify.com/album/4RmA8iUyKUwRmrRddEP8pF) | 4:02 |
 | 16 | [No Te Conformaste](https://open.spotify.com/track/3nbNQAfg9ADEgFrDrpcqjz) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [No Te Conformaste](https://open.spotify.com/album/7r5bX1vosW6xWD75VlaVZa) | 2:47 |
 | 17 | [El Dreamer](https://open.spotify.com/track/4R3XsaL4ruqGpz5wysE15Y) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [El Dreamer](https://open.spotify.com/album/5pVRdSXhERlGkWKJJroQG1) | 3:03 |
-| 18 | [Vida Rockstar](https://open.spotify.com/track/3fWXbatRWjTInoLpPu8bNS) | [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [Reconectarme](https://open.spotify.com/album/1ujXy9iFbpDEF34zKYbSVW) | 2:16 |
+| 18 | [Vida de Rockstar](https://open.spotify.com/track/3fWXbatRWjTInoLpPu8bNS) | [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [Reconectarme](https://open.spotify.com/album/1ujXy9iFbpDEF34zKYbSVW) | 2:16 |
 | 19 | [Mi Intención](https://open.spotify.com/track/7zC3EI4R3gefCwYY6f0vso) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Después Del Silencio](https://open.spotify.com/album/3Xt6dMXBpu4QNf4ng4w8d7) | 3:03 |
 | 20 | [A Escondidas](https://open.spotify.com/track/56qNSsxMHlBCBxPTrBB51O) | [Grupo Depurado](https://open.spotify.com/artist/4vX64bts62vb2Yzatnp7aR), [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [A Escondidas](https://open.spotify.com/album/42TgTjBW20zm7zr6jk63yA) | 3:11 |
 | 21 | [FARMEANDO AURA](https://open.spotify.com/track/3hvPlOl1FQ689oWQvJei5U) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [FARMEANDO AURA](https://open.spotify.com/album/5WFivnUHCYro9ovg05M8Iv) | 2:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 59 | [Otra Vez](https://open.spotify.com/track/1NDnUuqaWv8gXJVs1IVFf1) | [MazaClika](https://open.spotify.com/artist/5bt6J1pxaH2s0fdNSxdgSI) | [Otra Vez](https://open.spotify.com/album/4kASzPQgMhTfAlZSvxcCZA) | 3:21 |
 | 60 | [Sorbito de Champagne](https://open.spotify.com/track/2cpz1A1FvJ2yjqT9CggrjC) | [LOS FARITOS](https://open.spotify.com/artist/1cfZpRVpOHpkbi3e6JeqPF) | [Sorbito de Champagne](https://open.spotify.com/album/3bdDCb9QnIYAZnK30dYZir) | 2:27 |
 
-Snapshot ID: `AAAAAArLiXIGrI4oooERi5lrs3QtyNNz`
+Snapshot ID: `AAAAAN0nkmznwt35a4xiXsbiz7ELzI/t`

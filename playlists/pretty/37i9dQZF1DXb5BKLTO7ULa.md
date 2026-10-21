@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Hannah Mae, Qlas & Isabèl Usher, ANOTR en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,972 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,959 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Schoolplein](https://open.spotify.com/track/2LB0HVOe0OyZcW2quG9cYq) | [Lolo Hefting](https://open.spotify.com/artist/1QxuSoOeaBssFBysmaKc3F) | [Schoolplein](https://open.spotify.com/album/5q4y56NTQZytBklZcwEVxK) | 2:29 |
 | 100 | [Hurts a Little Less](https://open.spotify.com/track/1my0fDvLnRAVBVRUCaonMh) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [Mediocre Woman](https://open.spotify.com/album/17scCLIuywfrRxQFwMixtr) | 2:32 |
 
-Snapshot ID: `AAAAAB4w/RCZTs24u1vv0VW5bn8FPBj/`
+Snapshot ID: `AAAAAJfGxQGeqKokd9+x7jcvJK3j964k`

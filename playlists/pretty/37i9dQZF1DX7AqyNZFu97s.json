@@ -1,13 +1,129 @@
 {
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Burglar",
-  "num_followers": 39490,
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Clara Mann",
+  "num_followers": 39516,
   "original_name": "Fresh Finds UK & IE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEr5BQPqpIgt5Ze7QRGG43Tw57Zq",
+  "snapshot_id": "AAAAAEhdoMBbNkqYjnFxAaNegTzMvVhf",
   "tracks": [
+    {
+      "added_at": "2026-10-20 23:00:19",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/3gb5oPPQojvrcvvKSXEyAD"
+      },
+      "artists": [
+        {
+          "name": "Clara Mann",
+          "url": "https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/1lpOHHOroR14aSuJIPTSd5"
+    },
+    {
+      "added_at": "2026-10-20 23:00:19",
+      "album": {
+        "name": "Eyes On Us",
+        "url": "https://open.spotify.com/album/1WvPx3iKweoLPne95JKyMz"
+      },
+      "artists": [
+        {
+          "name": "IFULKI",
+          "url": "https://open.spotify.com/artist/5R4QEGd2PqiDdBQjcsaR0T"
+        }
+      ],
+      "duration_ms": 183762,
+      "name": "Eyes On Us",
+      "url": "https://open.spotify.com/track/4fpREBvPFKAuSqdp1pK9HJ"
+    },
+    {
+      "added_at": "2026-10-20 23:00:19",
+      "album": {
+        "name": "Over The Edge",
+        "url": "https://open.spotify.com/album/6fDxgbYTdcdVeEXX5x7HLp"
+      },
+      "artists": [
+        {
+          "name": "Jake Whiskin",
+          "url": "https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq"
+        }
+      ],
+      "duration_ms": 208064,
+      "name": "Over The Edge",
+      "url": "https://open.spotify.com/track/5C3TslhRlpV2zIPPg2sW26"
+    },
+    {
+      "added_at": "2026-10-20 23:00:19",
+      "album": {
+        "name": "DUTTY STINKA",
+        "url": "https://open.spotify.com/album/0PTlVmOePO6LHCQ54pKIn4"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        },
+        {
+          "name": "Sam Curran",
+          "url": "https://open.spotify.com/artist/4BBFBtFx8apgzn34zfXIdA"
+        }
+      ],
+      "duration_ms": 150344,
+      "name": "DUTTY STINKA",
+      "url": "https://open.spotify.com/track/7HimhOjQvWllVcq3dB6tgT"
+    },
+    {
+      "added_at": "2026-10-20 23:00:19",
+      "album": {
+        "name": "angel numbers",
+        "url": "https://open.spotify.com/album/0u5tSXcEwScydXt4gfqzuF"
+      },
+      "artists": [
+        {
+          "name": "Lucy Moon",
+          "url": "https://open.spotify.com/artist/6BjCCDXQuq3o7MrziyvGja"
+        }
+      ],
+      "duration_ms": 147863,
+      "name": "angel numbers",
+      "url": "https://open.spotify.com/track/6qccfaOfaC9WUUE0WW3BEn"
+    },
+    {
+      "added_at": "2026-10-20 23:00:19",
+      "album": {
+        "name": "Tragic Magic",
+        "url": "https://open.spotify.com/album/5UBacXAOMhAWmp4GXTUT51"
+      },
+      "artists": [
+        {
+          "name": "if i was a pony",
+          "url": "https://open.spotify.com/artist/3t3zwTenPUimx09zxB0hRA"
+        }
+      ],
+      "duration_ms": 181687,
+      "name": "5 billion years",
+      "url": "https://open.spotify.com/track/7BioOuzaJKGdMhHXmvajTS"
+    },
+    {
+      "added_at": "2026-10-20 23:00:19",
+      "album": {
+        "name": "Something Better",
+        "url": "https://open.spotify.com/album/1Ce8aTWMNTbxJe72xLINRa"
+      },
+      "artists": [
+        {
+          "name": "Caleb Kunle",
+          "url": "https://open.spotify.com/artist/3ummHhJhcQSykZfeZlw4MY"
+        }
+      ],
+      "duration_ms": 182354,
+      "name": "Something Better",
+      "url": "https://open.spotify.com/track/6ddH3uoGw1WDmj98Eny9wO"
+    },
     {
       "added_at": "2026-10-13 23:00:30",
       "album": {
@@ -683,118 +799,6 @@
       "duration_ms": 173750,
       "name": "Rust Bucket",
       "url": "https://open.spotify.com/track/2y9kyRabTtxKaovNP7vz7g"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/0A7dqAIbdqlPyBhoOyeAN4"
-      },
-      "artists": [
-        {
-          "name": "the Po",
-          "url": "https://open.spotify.com/artist/23qS4TGkqncMl8f04IJMhG"
-        }
-      ],
-      "duration_ms": 186540,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/0a87nx2e9JdXHbn2Cjhhvp"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "In My Veins",
-        "url": "https://open.spotify.com/album/3InJZFwoVp3AIQfT4O53E3"
-      },
-      "artists": [
-        {
-          "name": "BETH",
-          "url": "https://open.spotify.com/artist/3CoXOHEx4is85lgENqoO17"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "In My Veins",
-      "url": "https://open.spotify.com/track/0148ol9yjygNNjiofkwx7w"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "Creepy",
-        "url": "https://open.spotify.com/album/2N1iMsS1iSvwYD4en0iuKn"
-      },
-      "artists": [
-        {
-          "name": "Soraya Cinema",
-          "url": "https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9"
-        }
-      ],
-      "duration_ms": 140211,
-      "name": "Creepy",
-      "url": "https://open.spotify.com/track/5FyVzyckWhLmWrlYACfoFW"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "Weight",
-        "url": "https://open.spotify.com/album/5uL2HmRbjG1sWLiyTiK61c"
-      },
-      "artists": [
-        {
-          "name": "jo from school",
-          "url": "https://open.spotify.com/artist/3aDv6CO1l66pfxOz0RUQtT"
-        }
-      ],
-      "duration_ms": 200372,
-      "name": "Weight",
-      "url": "https://open.spotify.com/track/0Vy5lBIis9n1yw4nwh1rE9"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/6Ai2495tuCwChDJum9e9yp"
-      },
-      "artists": [
-        {
-          "name": "Dan be",
-          "url": "https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL"
-        }
-      ],
-      "duration_ms": 204812,
-      "name": "Closer - Edit",
-      "url": "https://open.spotify.com/track/45DSWIxm0YIuy9lXjdmm2O"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "Niko Bellic",
-        "url": "https://open.spotify.com/album/2dcbmF2rgIBkVRPguptXkE"
-      },
-      "artists": [
-        {
-          "name": "Suggz",
-          "url": "https://open.spotify.com/artist/02ZY7mXbBycRP7fW3PszQT"
-        }
-      ],
-      "duration_ms": 134068,
-      "name": "Niko Bellic",
-      "url": "https://open.spotify.com/track/3VD1G2qUG70lTlh44Df1yq"
-    },
-    {
-      "added_at": "2026-10-13 23:00:30",
-      "album": {
-        "name": "Move Inside",
-        "url": "https://open.spotify.com/album/5USUsBuGNJM8PIf8kVwHGo"
-      },
-      "artists": [
-        {
-          "name": "Molly and the Dolly Shop",
-          "url": "https://open.spotify.com/artist/2nkAAzvVVl8pBfjlJ3sZJs"
-        }
-      ],
-      "duration_ms": 266566,
-      "name": "Move Inside",
-      "url": "https://open.spotify.com/track/0prrS9EJ7yWz9ekKYp9MLb"
     }
   ],
   "unique_name": "Fresh Finds UK & IE",

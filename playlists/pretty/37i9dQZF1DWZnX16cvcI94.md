@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 
 > Los clásicos no pasan de moda\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,051 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,082 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 49 | [Gata Oficial](https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF) | [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v) | [El Bokisucio](https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd) | 3:54 |
 | 50 | [Métele Sazón](https://open.spotify.com/track/5RqdUkvsV4BOXpFd5zbXFt) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 4:02 |
 
-Snapshot ID: `AAAAAIQu2iYsycPZioqHALfFS7uRQ3J0`
+Snapshot ID: `AAAAACOgmBAaW3d9jF0UYHKX95an+hQv`

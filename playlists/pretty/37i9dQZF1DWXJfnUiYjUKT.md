@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Tate McRae on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,154 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,158 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Not Tonight](https://open.spotify.com/track/0foBTPeF69uo6kKS53Zeyr) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Not Tonight](https://open.spotify.com/album/1tzJAbACOlRsQ96yPikzNg) | 3:14 |
 | 100 | [Libertad](https://open.spotify.com/track/4XDaqSDD7KeDVGYWUoTXzB) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Libertad](https://open.spotify.com/album/2wCPL6MDguOP9bQIngrLwg) | 4:34 |
 
-Snapshot ID: `AAAAAA0Ti1PJRIECTMcLebOQGcRRFp9F`
+Snapshot ID: `AAAAABuNMF1DzK71jErdvNyjSAQP8oSu`

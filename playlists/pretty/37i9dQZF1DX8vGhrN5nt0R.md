@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vGhrN5nt0R.md) - [plain]
 
 > Creditless Anime Openings / Endings of the 2020s\. Music videos only available on Premium\. 2020年代のノンクレジットアニメOP／EDを観よう。\(ミュージックビデオはSpotifyプレミアムユーザーのみご覧いただけます。\)  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3 likes - 45 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 51 likes - 45 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vGhrN5nt0R.md) - [plain]
 | 41 | [LOVE or HATE?\(悪役令嬢レベル99 〜私は裏ボスですが魔王ではありません〜 ノンクレOP\)](https://open.spotify.com/track/6gxfpkNky49FvxyVEwv9XE) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [LOVE or HATE?\(悪役令嬢レベル99 〜私は裏ボスですが魔王ではありません〜 ノンクレOP\)](https://open.spotify.com/album/5l6CRUyu32E4Q2o4mC5SYN) | 1:30 |
 | 42 | [修羅に堕として\(異修羅 ノンクレOP\)](https://open.spotify.com/track/7n9WUNVfAICRg8qGlOwnuF) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [修羅に堕として\(異修羅 ノンクレOP\)](https://open.spotify.com/album/79BT8Cs8RFERzb9zUzeRX8) | 1:31 |
 | 43 | [ふたりのスタートボタン \(ゲーセン少女と異文化交流 ノンクレOP1\)](https://open.spotify.com/track/1x83DfKnl949eLV4srv9m6) | [リリー・ベイカー（CV：天城サリー）](https://open.spotify.com/artist/1uDCx9SN8aD1mAzpcMU3sz), [草壁葵衣（CV：小山内怜央）](https://open.spotify.com/artist/4Mtc15f5fSLcaSfyzM5Wn8) | [ふたりのスタートボタン \(ゲーセン少女と異文化交流 ノンクレOP1\)](https://open.spotify.com/album/5CujkOLM7L7F5jAaMll6FG) | 1:30 |
-| 44 | [異世界こんちぇると\(異世界かるてっと３ ノンクレOP1\)](https://open.spotify.com/track/3fdazX08FkzL7xb9NUxVZm) | [アインズ\(CV:日野 聡\)](https://open.spotify.com/artist/5Vas1XttLMyy2VlrmBZDkT), [カズマ\(CV:福島 潤\)](https://open.spotify.com/artist/2CDTAdBc7YvEKsfkEfjuxy), [スバル\(CV:小林 裕介\)](https://open.spotify.com/artist/7GLdV4P38eRENgAzBZo6Je), [ターニャ\(CV:悠木 碧\)](https://open.spotify.com/artist/3ppXxHJXRfvf2nBdlWeVZW) | [異世界こんちぇると\(異世界かるてっと３ ノンクレOP1\)](https://open.spotify.com/album/4wwPLxCXnvKLr8wbvNihrN) | 1:30 |
+| 44 | [異世界こんちぇると\(異世界かるてっと３ ノンクレOP1\)](https://open.spotify.com/track/3fdazX08FkzL7xb9NUxVZm) | [アインズ\(CV:日野聡\)](https://open.spotify.com/artist/1BT5HtLxno34faQxuSkN9q), [カズマ\(CV:福島潤\)](https://open.spotify.com/artist/3knMIUJEHn6Y5C2cGeyLjn), [スバル\(CV:小林裕介\)](https://open.spotify.com/artist/2rr6BUIUiebU4KEvUsS0JN), [ターニャ\(CV:悠木碧\)](https://open.spotify.com/artist/1JzqB3vgKeJ1OUOnI9zR2C) | [異世界こんちぇると\(異世界かるてっと３ ノンクレOP1\)](https://open.spotify.com/album/4wwPLxCXnvKLr8wbvNihrN) | 1:30 |
 | 45 | [君色、僕色\(異世界かるてっと３ ノンクレED\)](https://open.spotify.com/track/3eMCuOYB98KxzDxjqrYRJQ) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF), [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [君色、僕色\(異世界かるてっと３ ノンクレED\)](https://open.spotify.com/album/1Ffvjr5HFHRiXbKZ8Ux4n9) | 1:30 |
 
-Snapshot ID: `AAAAAGnxFC/YtZJi1+P+1oDYT3+eos9H`
+Snapshot ID: `AAAAALTIFkFhsQO+Pa0voEwVfKN58xwV`

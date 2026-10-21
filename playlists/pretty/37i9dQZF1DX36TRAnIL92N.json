@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 513341,
+  "num_followers": 513551,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADenX7/KNQ3bSrU0yAxOuN7Hwyd3",
+  "snapshot_id": "AAAAAAjr9LLCROIpy28bmdSGW/3EZ2GL",
   "tracks": [
     {
       "added_at": "2026-10-16 04:01:04",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-10-16 04:01:04",
       "album": {
-        "name": "Bombacid",
-        "url": "https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN"
-      },
-      "artists": [
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        },
-        {
-          "name": "Roberto Molinaro",
-          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Bombacid",
-      "url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE"
-    },
-    {
-      "added_at": "2026-10-16 04:01:04",
-      "album": {
         "name": "Frequency",
         "url": "https://open.spotify.com/album/6Rm91r3NcNXKjNrf4xt7zm"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 205714,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/2X9niMzzXId2fNe3wu6l2e"
+    },
+    {
+      "added_at": "2026-10-16 04:01:04",
+      "album": {
+        "name": "Bombacid",
+        "url": "https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "Roberto Molinaro",
+          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Bombacid",
+      "url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE"
     },
     {
       "added_at": "2026-10-16 04:01:04",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-10-16 04:01:04",
       "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 355879,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
-    },
-    {
-      "added_at": "2026-10-16 04:01:04",
-      "album": {
         "name": "Diamonds On My Mind",
         "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 168529,
       "name": "Diamonds On My Mind",
       "url": "https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD"
+    },
+    {
+      "added_at": "2026-10-16 04:01:04",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 355879,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
     },
     {
       "added_at": "2026-10-16 04:01:04",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-10-16 04:01:04",
       "album": {
-        "name": "Acid Blood",
-        "url": "https://open.spotify.com/album/6bmsMcbQLEfYykzpRd3qEf"
-      },
-      "artists": [
-        {
-          "name": "999999999",
-          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
-        },
-        {
-          "name": "FLKN",
-          "url": "https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww"
-        }
-      ],
-      "duration_ms": 211741,
-      "name": "Acid Blood",
-      "url": "https://open.spotify.com/track/1ivhs5EQc8eAw5rcB9SEQz"
-    },
-    {
-      "added_at": "2026-10-16 04:01:04",
-      "album": {
         "name": "Coming In Heavy",
         "url": "https://open.spotify.com/album/723kV64ne2P2nR3PLXHNyY"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 231521,
       "name": "Coming In Heavy",
       "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
+    },
+    {
+      "added_at": "2026-10-16 04:01:04",
+      "album": {
+        "name": "Acid Blood",
+        "url": "https://open.spotify.com/album/6bmsMcbQLEfYykzpRd3qEf"
+      },
+      "artists": [
+        {
+          "name": "999999999",
+          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
+        },
+        {
+          "name": "FLKN",
+          "url": "https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww"
+        }
+      ],
+      "duration_ms": 211741,
+      "name": "Acid Blood",
+      "url": "https://open.spotify.com/track/1ivhs5EQc8eAw5rcB9SEQz"
     },
     {
       "added_at": "2026-10-16 04:01:04",

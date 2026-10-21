@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,892 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,887 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 61 | [When The Wind Blows \- Private Sessions](https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [When The Wind Blows \(Private Sessions\)](https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc) | 4:04 |
 | 62 | [Seville](https://open.spotify.com/track/6AnO2VhMq5G5bDPNMqCKJB) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Plays Great Songs](https://open.spotify.com/album/4f5CVT1TStkzO3vT54ODoG) | 2:14 |
 | 63 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 |
-| 64 | [A Morte de um Deus de Sal](https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy) | [BeBossa](https://open.spotify.com/artist/2DTavIw1X532MxFRMCOgH2), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Matias Correa](https://open.spotify.com/artist/6Sa9JYx0h5j4i8PhAcd5mX), [Marcelo Saboya](https://open.spotify.com/artist/3wZh426oV0fV3qDr2QpfWR), [Zeca Rodrigues](https://open.spotify.com/artist/6q39rdJq2YtJzdgsgG1qfW), [Tom Andrade](https://open.spotify.com/artist/0r1BywD2QhdoQLtr06zPtq) | [A Morte de um Deus de Sal](https://open.spotify.com/album/019T33OgzsIGyamxapvv6V) | 3:23 |
-| 65 | [Isabel Tchau](https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58) | [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ), [Sanny Alves](https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM) | [Saudade Demais](https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt) | 4:24 |
+| 64 | [Isabel Tchau](https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58) | [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ), [Sanny Alves](https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM) | [Saudade Demais](https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt) | 4:24 |
+| 65 | [A Morte de um Deus de Sal](https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy) | [BeBossa](https://open.spotify.com/artist/2DTavIw1X532MxFRMCOgH2), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Matias Correa](https://open.spotify.com/artist/6Sa9JYx0h5j4i8PhAcd5mX), [Marcelo Saboya](https://open.spotify.com/artist/3wZh426oV0fV3qDr2QpfWR), [Zeca Rodrigues](https://open.spotify.com/artist/6q39rdJq2YtJzdgsgG1qfW), [Tom Andrade](https://open.spotify.com/artist/0r1BywD2QhdoQLtr06zPtq) | [A Morte de um Deus de Sal](https://open.spotify.com/album/019T33OgzsIGyamxapvv6V) | 3:23 |
 | 66 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
 | 67 | [Drão \- Remasterizado](https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Drão \(Remasterizado\)](https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr) | 5:11 |
 | 68 | [Vumbora Amar](https://open.spotify.com/track/56qoy2jHvVhU9BVQn218dQ) | [Alexandre Leão](https://open.spotify.com/artist/5CmKyE7NjtR9qBq8HilUd8) | [Axé Babá](https://open.spotify.com/album/5c7O2fNHtkRRFKLB6nrTgN) | 3:31 |
 | 69 | [Amuleto](https://open.spotify.com/track/5JEVbp6mX3umfQePbnN3sE) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Amuleto](https://open.spotify.com/album/4HvVCCgm8aIdaDryqCjMCn) | 3:27 |
 | 70 | [Infinito em nós](https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7) | 4:10 |
 
-Snapshot ID: `AAAAAJ8EnRII0msluvS7LTvPeJ+JXK91`
+Snapshot ID: `AAAAAIJVMnd8A83rA3BMu6tfwZE2++Qb`

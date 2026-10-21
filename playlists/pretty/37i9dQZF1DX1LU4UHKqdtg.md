@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: MEOVV
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,015 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,017 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GO HARD](https://open.spotify.com/track/3P2MygdWs8lorZnwV3KrsJ) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [GO HARD](https://open.spotify.com/album/5Si3zne2PC6ZkXOHDY2SXo) | 3:07 |
 | 2 | [Looks Can Kill](https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/6DStYRq1Xvia2jXG2XQv6g) | 3:15 |
 | 3 | [Birthday Wish](https://open.spotify.com/track/6cnhP7JmTV1CHJJEonNC4b) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Strange Muse](https://open.spotify.com/album/68dI3yXiCXbAHRbW2T09Uy) | 3:20 |
-| 4 | [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 |
+| 4 | [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 |
 | 5 | [Made My Night](https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night](https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt) | 2:06 |
 | 6 | [Pop Off Pop Off](https://open.spotify.com/track/0USn5f2VZGbHjHkbjcijzU) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [WhyKiiiKiii](https://open.spotify.com/album/5JnGvbE42HzaqM6DT7u1SN) | 2:21 |
 | 7 | [SUN KISS](https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy) | [TUIDE](https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf) | [TUNE & PLAY](https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN) | 3:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [Ice Cream](https://open.spotify.com/track/5zd8462HQf1mxn0lTTuBny) | [YUNA](https://open.spotify.com/artist/6FsEIvsTuqjpejg2jDbYdv) | [Ice Cream](https://open.spotify.com/album/67mVZdAnBrq7HSVbPPbgif) | 2:51 |
 | 80 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
 
-Snapshot ID: `AAAAAL7VUhZVukf/8fjyl56rFfamR8Ci`
+Snapshot ID: `AAAAAGzHcmPVQ2/TPNMIQbq2LNMDJ+WP`

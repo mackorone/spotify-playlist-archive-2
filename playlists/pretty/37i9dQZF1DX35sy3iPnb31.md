@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Lennon Stella
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,849 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,853 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 20 | [Sad Porn](https://open.spotify.com/track/2HQMGY9BkNL3HUeF0wdANX) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Sad Porn](https://open.spotify.com/album/2sNwW6lvEfZz9LtNA34M4P) | 3:12 |
 | 21 | [Just Us In The Room](https://open.spotify.com/track/5VIyXmWvIgi5QPJ8CKqgKg) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Just Us In The Room](https://open.spotify.com/album/2QtkSbLYwufnr1IeCfszHT) | 2:48 |
 | 22 | [Me Without My Hometown](https://open.spotify.com/track/3hugLTwzVbMVMxrcvK2gsC) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Me Without My Hometown](https://open.spotify.com/album/7ofbr0JavGW7Z1pujwzXnd) | 3:35 |
-| 23 | [Hey Honey](https://open.spotify.com/track/3lOMy1CbiWhYPV68d9fbwn) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Hey Honey](https://open.spotify.com/album/6CarxVqPawlmyU124cd9zK) | 3:13 |
-| 24 | [Wondering Why](https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui) | [CARV](https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A) | [Love You Again](https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1) | 3:18 |
+| 23 | [Wondering Why](https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui) | [CARV](https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A) | [Love You Again](https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1) | 3:18 |
+| 24 | [Hey Honey](https://open.spotify.com/track/3lOMy1CbiWhYPV68d9fbwn) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Hey Honey](https://open.spotify.com/album/6CarxVqPawlmyU124cd9zK) | 3:13 |
 | 25 | [Come To Me](https://open.spotify.com/track/0SatrQYxWoTKfiZR9hqv5W) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Come To Me](https://open.spotify.com/album/0tuUgEHfdSrC3IvPO4K88Y) | 3:13 |
 | 26 | [How Do You Like Me Now](https://open.spotify.com/track/4bAbkWQVY9tjSYH5jLhufV) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [How Do You Like Me Now](https://open.spotify.com/album/2AFgIaJDyU9EUa8EjNzN8t) | 2:26 |
 | 27 | [Bad News](https://open.spotify.com/track/6uT65JquCWSWdvMfhqwsW8) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Bad News](https://open.spotify.com/album/5zOQmE12kFoBvhBeUGPj6P) | 2:54 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 38 | [Girls Like Us](https://open.spotify.com/track/0rm5ZOsXMSULEYSc97Mb8h) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Girls Like Us](https://open.spotify.com/album/6QTOMTau9o8DUwu1EtnLt3) | 3:06 |
 | 39 | [\(+44\)](https://open.spotify.com/track/4CpCjWAFFlH0piLysyzoQh) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [\(+44\)](https://open.spotify.com/album/6GUop2qCRSCzAwHQD2a9Ex) | 3:30 |
 | 40 | [I Want It Easy](https://open.spotify.com/track/5YJc3C3VJx8MpfKDfl9CTv) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [I Want It Easy](https://open.spotify.com/album/3fZyKX3UiJOy6QtIPw0bnG) | 4:01 |
-| 41 | [SIRENS](https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9) | [OAKK](https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y) | [SIRENS](https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm) | 2:38 |
-| 42 | [Piercing](https://open.spotify.com/track/5VZB077RvEuzU4XCiaSQGl) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity Remix Mixtape](https://open.spotify.com/album/1OWCTCHAS0DmzqVqiraCfw) | 3:17 |
-| 43 | [4:44](https://open.spotify.com/track/6cPSRhOAYUD8CFkucVW6IA) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [4:44](https://open.spotify.com/album/73CQVp8JBQ4RnhOTL21TZf) | 3:47 |
+| 41 | [Piercing](https://open.spotify.com/track/5VZB077RvEuzU4XCiaSQGl) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity Remix Mixtape](https://open.spotify.com/album/1OWCTCHAS0DmzqVqiraCfw) | 3:17 |
+| 42 | [4:44](https://open.spotify.com/track/6cPSRhOAYUD8CFkucVW6IA) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [4:44](https://open.spotify.com/album/73CQVp8JBQ4RnhOTL21TZf) | 3:47 |
+| 43 | [SIRENS](https://open.spotify.com/track/0VDRMYkL7BhyM40Dxycbv9) | [OAKK](https://open.spotify.com/artist/5Fxhpw4yw2CH0k6q3b4q0y) | [SIRENS](https://open.spotify.com/album/3NRLRQF3mK4I5W906Wy6dm) | 2:38 |
 | 44 | [ON THE ROCKS](https://open.spotify.com/track/67TqmQxiwHPa9sUJiJS35o) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [ON THE ROCKS](https://open.spotify.com/album/6ZeIAeFaKbRrtTCVSusibO) | 2:52 |
 | 45 | [Hurt You](https://open.spotify.com/track/0I7o1tYYhqLpbiF6bHmaen) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Hurt You](https://open.spotify.com/album/5Kd8Q355U55XORFwqkLUKH) | 3:34 |
 | 46 | [pauvre pomme](https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [pauvre pomme](https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Toi](https://open.spotify.com/track/5cBkJueWCq7NiW4DVD1UUK) | [Muhoza](https://open.spotify.com/artist/2eZVnPXAT2yHJnMqXoiptG), [Carson](https://open.spotify.com/artist/6c5Xw8sTMUGLfPnY5jejHn), [Somaya](https://open.spotify.com/artist/31W4eCwKBnMGLUAPEWKcjA) | [Prends soin de toi](https://open.spotify.com/album/3Vngym1DZ8rtUONTeq6mIB) | 4:49 |
 | 50 | [J'en sais rien](https://open.spotify.com/track/3QL5fvzPzHtSCcNbXMrYOp) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [J'en sais rien](https://open.spotify.com/album/0RtuI6zhAvZLUvaO1hmeXA) | 3:34 |
 
-Snapshot ID: `AAAAABgBKMOvQKO/iH2OHCthHJp3H3nb`
+Snapshot ID: `AAAAAH327NwPjtKlfy60pOftueGpCIqh`

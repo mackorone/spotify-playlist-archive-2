@@ -1,12 +1,12 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 430122,
+  "num_followers": 430266,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN2nQZmtLIq/9pafv0xYEX27qa3W",
+  "snapshot_id": "AAAAAGbDBDCZUlvSegfWCivVZuZQ1zb4",
   "tracks": [
     {
       "added_at": "2026-10-07 15:36:18",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "She Calls Me Back (with Kacey Musgraves)",
         "url": "https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 243962,
       "name": "She Calls Me Back (with Kacey Musgraves)",
       "url": "https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "In Your Hands",
-        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 230164,
-      "name": "In Your Hands - Single Version",
-      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Brush Fire",
         "url": "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 190426,
       "name": "Brush Fire",
       "url": "https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 230164,
+      "name": "In Your Hands - Single Version",
+      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "You In My Life",
-        "url": "https://open.spotify.com/album/4VAyFHlTN3wS2I04RGcKj5"
-      },
-      "artists": [
-        {
-          "name": "Ed Patrick",
-          "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
-        }
-      ],
-      "duration_ms": 217293,
-      "name": "You In My Life",
-      "url": "https://open.spotify.com/track/0xVQa1rlcbYtemV7TezzZJ"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Sunshine In The Room",
         "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 182955,
       "name": "Sunshine In The Room (feat. Jon Batiste)",
       "url": "https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "You In My Life",
+        "url": "https://open.spotify.com/album/4VAyFHlTN3wS2I04RGcKj5"
+      },
+      "artists": [
+        {
+          "name": "Ed Patrick",
+          "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "You In My Life",
+      "url": "https://open.spotify.com/track/0xVQa1rlcbYtemV7TezzZJ"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
+        "name": "July (Bedroom Session)",
+        "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "July - Bedroom Session",
+      "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
       },
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "July (Bedroom Session)",
-        "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
+        "name": "No California (Acoustic)",
+        "url": "https://open.spotify.com/album/5zqraPEFDXktwswb2oAMWr"
       },
       "artists": [
         {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
         }
       ],
-      "duration_ms": 210720,
-      "name": "July - Bedroom Session",
-      "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
+      "duration_ms": 216058,
+      "name": "No California (Acoustic)",
+      "url": "https://open.spotify.com/track/6edgeq26tWvvXnw8gw86jU"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "No California (Acoustic)",
-        "url": "https://open.spotify.com/album/5zqraPEFDXktwswb2oAMWr"
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
       },
       "artists": [
         {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
         }
       ],
-      "duration_ms": 216058,
-      "name": "No California (Acoustic)",
-      "url": "https://open.spotify.com/track/6edgeq26tWvvXnw8gw86jU"
+      "duration_ms": 283266,
+      "name": "Indexical reminder of a morning well spent",
+      "url": "https://open.spotify.com/track/6w8NOOj4f8FhF6346a7Ulx"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1531,22 +1547,6 @@
       "duration_ms": 276611,
       "name": "blue jean",
       "url": "https://open.spotify.com/track/5UfP6kSzcJE9kFJlBEHU2o"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
-        "name": "In the End It Always Does",
-        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 283266,
-      "name": "Indexical reminder of a morning well spent",
-      "url": "https://open.spotify.com/track/6w8NOOj4f8FhF6346a7Ulx"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Fondness, Etc.",
-        "url": "https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "No Place to Be",
-      "url": "https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Running With The Wolves",
         "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 163821,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Fondness, Etc.",
+        "url": "https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "No Place to Be",
+      "url": "https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/5wyhyzvoRACvYCIyYr9vQM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 245520,
-      "name": "Beg, Steal, Borrow",
-      "url": "https://open.spotify.com/track/3E2HVdCQW0R53CcHVtHTa8"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -2035,18 +2019,18 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Vanilla (Stairwell Version)",
-        "url": "https://open.spotify.com/album/30AiPggrojM01hleb8j12f"
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/5wyhyzvoRACvYCIyYr9vQM"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 246070,
-      "name": "Vanilla (Stairwell Version)",
-      "url": "https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw"
+      "duration_ms": 245520,
+      "name": "Beg, Steal, Borrow",
+      "url": "https://open.spotify.com/track/3E2HVdCQW0R53CcHVtHTa8"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2063,6 +2047,22 @@
       "duration_ms": 234800,
       "name": "95",
       "url": "https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Vanilla (Stairwell Version)",
+        "url": "https://open.spotify.com/album/30AiPggrojM01hleb8j12f"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 246070,
+      "name": "Vanilla (Stairwell Version)",
+      "url": "https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Say Something Now",
-        "url": "https://open.spotify.com/album/5MQSXVuerRkqvIn2yqK0MI"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Say Something Now",
-      "url": "https://open.spotify.com/track/7jkrRIkeZaW87c54Q2uwhg"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Heartbreak Hits",
         "url": "https://open.spotify.com/album/04QktcTXcS9qQTp7Q22Z3I"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 221508,
       "name": "Good to Be Alone",
       "url": "https://open.spotify.com/track/2P8kBO7P0SppnEX8gVN3up"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Say Something Now",
+        "url": "https://open.spotify.com/album/5MQSXVuerRkqvIn2yqK0MI"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Say Something Now",
+      "url": "https://open.spotify.com/track/7jkrRIkeZaW87c54Q2uwhg"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/2UiuSG55ISRYOPJEqeSQLn"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 215903,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/2B3kOESoYsMNFr8LxijuIc"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Sweetest Heart",
         "url": "https://open.spotify.com/album/3Kqj4em7mdF3fXF5CGe8xL"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 196436,
       "name": "Sweetest Heart",
       "url": "https://open.spotify.com/track/66hVnkXp2fedj5uDXArbfl"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/2UiuSG55ISRYOPJEqeSQLn"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 215903,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/2B3kOESoYsMNFr8LxijuIc"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "The Hard Way",
-        "url": "https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N"
-      },
-      "artists": [
-        {
-          "name": "Pete Yorn",
-          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "The Hard Way",
-      "url": "https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Starting To Get To You",
         "url": "https://open.spotify.com/album/74A6O0ISRJ7udEVOEl79yO"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 161088,
       "name": "Starting To Get To You",
       "url": "https://open.spotify.com/track/5dp58cc1ttAdezO9BIoW1W"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N"
+      },
+      "artists": [
+        {
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Falling in Love",
-        "url": "https://open.spotify.com/album/5UcEl0EyV0MfNJsJAQLKru"
-      },
-      "artists": [
-        {
-          "name": "Brandon Jenner",
-          "url": "https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x"
-        }
-      ],
-      "duration_ms": 204549,
-      "name": "Falling in Love",
-      "url": "https://open.spotify.com/track/2VQ86zc6pRjhvZFCs3QGKP"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w"
       },
@@ -2563,18 +2547,18 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Abilene",
-        "url": "https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw"
+        "name": "Falling in Love",
+        "url": "https://open.spotify.com/album/5UcEl0EyV0MfNJsJAQLKru"
       },
       "artists": [
         {
-          "name": "Hunter Metts",
-          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+          "name": "Brandon Jenner",
+          "url": "https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Abilene",
-      "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
+      "duration_ms": 204549,
+      "name": "Falling in Love",
+      "url": "https://open.spotify.com/track/2VQ86zc6pRjhvZFCs3QGKP"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2591,6 +2575,22 @@
       "duration_ms": 205266,
       "name": "Atlanta",
       "url": "https://open.spotify.com/track/7rMrOfHyS4wKlkIZAa1AxT"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Abilene",
+        "url": "https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2631,22 +2631,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 256798,
-      "name": "My City of Ruins",
-      "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2ynSSRzU9VL57oGpPRsfAp"
       },
@@ -2659,6 +2643,22 @@
       "duration_ms": 288720,
       "name": "Home",
       "url": "https://open.spotify.com/track/4pRWY8xuHPi0ToEkt0saS8"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 256798,
+      "name": "My City of Ruins",
+      "url": "https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -2955,22 +2955,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/1woKCA8dTokL647kKXySq6"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 200127,
-      "name": "The Open Road",
-      "url": "https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
       },
@@ -3003,6 +2987,22 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/1woKCA8dTokL647kKXySq6"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 200127,
+      "name": "The Open Road",
+      "url": "https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
         "name": "rest in peace",
         "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
       },
@@ -3015,6 +3015,22 @@
       "duration_ms": 191910,
       "name": "rest in peace",
       "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "I Don't Wanna Dance (Piano Version)",
+        "url": "https://open.spotify.com/album/18rblVvDEpB7th3zIx23X5"
+      },
+      "artists": [
+        {
+          "name": "Ellysse Mason",
+          "url": "https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN"
+        }
+      ],
+      "duration_ms": 255272,
+      "name": "I Don't Wanna Dance - Piano Version",
+      "url": "https://open.spotify.com/track/4BXcGFt1btBUsOYzERvlG6"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -3047,22 +3063,6 @@
       "duration_ms": 265726,
       "name": "Speaking of You",
       "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
-        "name": "I Don't Wanna Dance (Piano Version)",
-        "url": "https://open.spotify.com/album/18rblVvDEpB7th3zIx23X5"
-      },
-      "artists": [
-        {
-          "name": "Ellysse Mason",
-          "url": "https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN"
-        }
-      ],
-      "duration_ms": 255272,
-      "name": "I Don't Wanna Dance - Piano Version",
-      "url": "https://open.spotify.com/track/4BXcGFt1btBUsOYzERvlG6"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -3115,22 +3115,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Starfire",
-        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 190057,
-      "name": "Cheap Date",
-      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Famous Son (Acoustic)",
         "url": "https://open.spotify.com/album/7atoT3yg1xW3cYYwKAtlMf"
       },
@@ -3159,6 +3143,22 @@
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Starfire",
+        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 190057,
+      "name": "Cheap Date",
+      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -3211,22 +3211,6 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Peach Sky",
-        "url": "https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x"
-      },
-      "artists": [
-        {
-          "name": "Theo Bleak",
-          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
-        }
-      ],
-      "duration_ms": 181806,
-      "name": "Peach Sky",
-      "url": "https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7"
-    },
-    {
-      "added_at": "2026-10-07 15:36:18",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz"
       },
@@ -3239,6 +3223,22 @@
       "duration_ms": 225632,
       "name": "Happier - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
+    },
+    {
+      "added_at": "2026-10-07 15:36:18",
+      "album": {
+        "name": "Peach Sky",
+        "url": "https://open.spotify.com/album/2LfKD41S5iuCa6iiT7XM5x"
+      },
+      "artists": [
+        {
+          "name": "Theo Bleak",
+          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
+        }
+      ],
+      "duration_ms": 181806,
+      "name": "Peach Sky",
+      "url": "https://open.spotify.com/track/5wT6tIjnF3wM8fBHfUr4V7"
     },
     {
       "added_at": "2026-10-07 15:36:18",
@@ -3307,18 +3307,18 @@
     {
       "added_at": "2026-10-07 15:36:18",
       "album": {
-        "name": "Thundering Hopes",
-        "url": "https://open.spotify.com/album/2oRfOLHwgEjqUC2f6YKv0U"
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
         }
       ],
-      "duration_ms": 242014,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/61z7Y4qVBKKVJbpePfH5l6"
+      "duration_ms": 222760,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
     }
   ],
   "unique_name": "Morning Coffee",

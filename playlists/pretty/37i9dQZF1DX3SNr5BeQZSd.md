@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest lofi beats, handpicked for chill, focus, or study vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,360 likes - 102 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,391 likes - 102 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 101 | [remnants](https://open.spotify.com/track/1wIc1mdU1iD0s74rktZIie) | [cloud cover](https://open.spotify.com/artist/1y9I7fJdrExfvwiY8SYtB6) | [remnants](https://open.spotify.com/album/2h9wFRcudFu4GdAzdMZGA1) | 2:16 |
 | 102 | [So Long Sailor](https://open.spotify.com/track/4KMylpRkwex03DV3ov0UvP) | [Zycix](https://open.spotify.com/artist/2Wv6IR9Z1e2zHWLDOHWUFy), [forever dreaming](https://open.spotify.com/artist/7sFBr3PEjRa5qVSD75VAFZ) | [So Long Sailor](https://open.spotify.com/album/37UXxuvUWbeC4mIVHvAFaw) | 1:46 |
 
-Snapshot ID: `AAAAAOhWtWJm70IKcTv9NzIkGXOKdV6g`
+Snapshot ID: `AAAAABJFEhC/TVfobHQoPFxAQaD6KndA`

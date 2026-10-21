@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 544890,
+  "num_followers": 544957,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMfy7u4o2/uS2ax1Pm4kGTIsdl4+",
+  "snapshot_id": "AAAAAF/OIDce9ND2YJPe03CzwVif2odI",
   "tracks": [
     {
       "added_at": "2026-09-25 04:00:27",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "Never Be Ourselves",
-      "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Nosebleed",
         "url": "https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 287999,
       "name": "Nosebleed",
       "url": "https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 220773,
+      "name": "Never Be Ourselves",
+      "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 222279,
-      "name": "People Get Old",
-      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "caroline",
         "url": "https://open.spotify.com/album/5fPUD2TBb1DugPHDj7ylgF"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 229653,
       "name": "Dust to Dust",
       "url": "https://open.spotify.com/track/5P6ZBMWS66FVo6deJaDdHy"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 222279,
+      "name": "People Get Old",
+      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "The Bird & the Rifle",
-        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Humble & Kind",
-      "url": "https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Fall In Love With Her",
         "url": "https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Made Of Stars",
-        "url": "https://open.spotify.com/album/7HGw7ZZAQmx8CghF9J7iBG"
+        "name": "The Bird & the Rifle",
+        "url": "https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk"
       },
       "artists": [
         {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
         }
       ],
-      "duration_ms": 196296,
-      "name": "Made of Stars",
-      "url": "https://open.spotify.com/track/0V0vq3DqvmLnJj2IqfGhyf"
+      "duration_ms": 243680,
+      "name": "Humble & Kind",
+      "url": "https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1267,6 +1251,22 @@
       "duration_ms": 209163,
       "name": "Mean Guy",
       "url": "https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Made Of Stars",
+        "url": "https://open.spotify.com/album/7HGw7ZZAQmx8CghF9J7iBG"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 196296,
+      "name": "Made of Stars",
+      "url": "https://open.spotify.com/track/0V0vq3DqvmLnJj2IqfGhyf"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/0SH2YEQOI59HiIaY591KM9"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 153850,
       "name": "Buffalo Replaced - Spotify Singles",
       "url": "https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/0SH2YEQOI59HiIaY591KM9"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Looking For Nothing",
-        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
-      },
-      "artists": [
-        {
-          "name": "Ella Ion",
-          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Looking For Nothing",
-      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Ever New (Reworked by Bon Iver & Flock Of Dimes)",
         "url": "https://open.spotify.com/album/6YBMppvgwzEQ1WluBwDVBE"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 383080,
       "name": "Ever New - Reworked by Bon Iver & Flock of Dimes Single Version",
       "url": "https://open.spotify.com/track/02BFhF6HybAE3vjBX9ptjS"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Looking For Nothing",
+        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
+      },
+      "artists": [
+        {
+          "name": "Ella Ion",
+          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Looking For Nothing",
+      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
     },
     {
       "added_at": "2026-09-25 04:00:27",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-09-25 04:00:27",
       "album": {
-        "name": "Soho House Valet",
-        "url": "https://open.spotify.com/album/4neyiUJ2i3oNELG9kBcBCa"
-      },
-      "artists": [
-        {
-          "name": "Gatlin",
-          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
-        }
-      ],
-      "duration_ms": 242223,
-      "name": "Soho House Valet",
-      "url": "https://open.spotify.com/track/46fAoFbdamHOXfj56G73GP"
-    },
-    {
-      "added_at": "2026-09-25 04:00:27",
-      "album": {
         "name": "Desert Song",
         "url": "https://open.spotify.com/album/01Wmlp4OQ36xv48lqBmDm2"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 252580,
       "name": "Unveiled",
       "url": "https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos"
+    },
+    {
+      "added_at": "2026-09-25 04:00:27",
+      "album": {
+        "name": "Soho House Valet",
+        "url": "https://open.spotify.com/album/4neyiUJ2i3oNELG9kBcBCa"
+      },
+      "artists": [
+        {
+          "name": "Gatlin",
+          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
+        }
+      ],
+      "duration_ms": 242223,
+      "name": "Soho House Valet",
+      "url": "https://open.spotify.com/track/46fAoFbdamHOXfj56G73GP"
     },
     {
       "added_at": "2026-09-25 04:00:27",

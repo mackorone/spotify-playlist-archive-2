@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,519 songs - 2 day 17 hr 21 min
+1,520 songs - 2 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -732,7 +732,7 @@
 | [Let You Down](https://open.spotify.com/track/1prkZSe9bHalA9qVpxSVth) | [Horbatso](https://open.spotify.com/artist/3NiLiVrm3T8AQysXn54ALH), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Let You Down](https://open.spotify.com/album/5RO3wGk1wgEhjA24aiww4C) | 3:04 | 2024-01-07 | 2024-02-26 |
 | [Let You Go](https://open.spotify.com/track/1HUIDRBzSfddABHx3r589l) | [Future Frequencies](https://open.spotify.com/artist/5nAftdHo2kwizitSopyDFz) | [Let You Go](https://open.spotify.com/album/5bxLXXAzEHLrPHHnKEF2UZ) | 2:20 | 2024-10-06 | 2025-02-15 |
 | [Let You Go](https://open.spotify.com/track/3U3tIVyEKyByZTTw080md5) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N) | [Let You Go](https://open.spotify.com/album/56164mz4VmmEc8M9Vo6213) | 2:49 | 2024-07-30 | 2025-04-22 |
-| [Let You Go](https://open.spotify.com/track/2V1MTi3oNO28dpeWxdaSjK) | [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ), [Erlando](https://open.spotify.com/artist/5cuIDrzlgb5jGwLlRWYnAc) | [Let You Go](https://open.spotify.com/album/2jQpXm8Q7wuZVu2tNxyWwF) | 2:19 | 2026-01-25 |  |
+| [Let You Go](https://open.spotify.com/track/2V1MTi3oNO28dpeWxdaSjK) | [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ), [Erlando](https://open.spotify.com/artist/5cuIDrzlgb5jGwLlRWYnAc) | [Let You Go](https://open.spotify.com/album/2jQpXm8Q7wuZVu2tNxyWwF) | 2:19 | 2026-01-25 | 2026-10-21 |
 | [Let You Know \- Summer Edit](https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Let You Know \(Summer Edit\)](https://open.spotify.com/album/2tYezXk2MnMVK40DqqnMKm) | 2:29 | 2023-09-22 | 2026-03-02 |
 | [Letting Go](https://open.spotify.com/track/0eNPmFh1rIwkStKcxU3R4U) | [Meynberg](https://open.spotify.com/artist/59a0J35YbYHfojR8iIpzuX) | [Letting Go](https://open.spotify.com/album/3EvnAak5cNtyFBdcZuNpRN) | 2:11 | 2024-01-27 | 2024-02-19 |
 | [Letting You In](https://open.spotify.com/track/6j8uVvRFZ2T7m75vLGEzHp) | [Will Knight](https://open.spotify.com/artist/2J3OI67dfjkaijI0FB2Ysr) | [Letting You In](https://open.spotify.com/album/3mLiEvM83N2fhzRqdwR2JM) | 2:13 | 2024-09-25 | 2025-12-28 |
@@ -983,6 +983,7 @@
 | [On You Tonight](https://open.spotify.com/track/74W5fZ6oXGfOkEsBnJGoF6) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY) | [On You Tonight](https://open.spotify.com/album/5rVcIzH1pDaK6tGkoGH8MI) | 2:17 | 2026-02-05 | 2026-06-16 |
 | [On Your Mind](https://open.spotify.com/track/4Le5KyIsbNLPODIzRVbov3) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF) | [On Your Mind](https://open.spotify.com/album/7vFToKJJgSpRBd2aPz46zI) | 2:42 | 2024-04-12 | 2024-05-13 |
 | [Once In A Lifetime](https://open.spotify.com/track/6B0k1E8ipTPLS6pGC94tbz) | [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [Feeve](https://open.spotify.com/artist/4rrjE7dP1gP5c8py2g4YFv) | [Once In A Lifetime](https://open.spotify.com/album/0xrPZaLvMpr6Xvo4Oel6lB) | 2:24 | 2025-10-12 | 2026-04-06 |
+| [One Dance](https://open.spotify.com/track/2qMho8I1la1uEpnKOis48i) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [One Dance](https://open.spotify.com/album/6DUIWaRTb21GYS0DnAnGCY) | 3:22 | 2026-10-20 |  |
 | [One for Me](https://open.spotify.com/track/72wAXN8FFG7daJ2Pc9GKUZ) | [Retrac](https://open.spotify.com/artist/4P9X0X8dNRMp6GoIQNFfMr) | [One for Me](https://open.spotify.com/album/3kzSRgawJTVLzRie5UMFD4) | 3:02 | 2024-07-05 | 2024-09-16 |
 | [One Last Time](https://open.spotify.com/track/6Ndz6v9hUupSKbuonYbtM1) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [One Last Time](https://open.spotify.com/album/0RcHRcX8VmosC6hVEgrxDS) | 2:27 | 2023-09-22 | 2025-03-02 |
 | [One More Night](https://open.spotify.com/track/5z7L5Y6g0WbpTF0xalebxe) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [One More Night](https://open.spotify.com/album/12kBVKgqkdDmy5I6menuvU) | 2:07 | 2025-01-31 | 2025-03-02 |

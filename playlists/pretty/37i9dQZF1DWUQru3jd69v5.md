@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > RIRI2K in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,442 likes - 75 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,436 likes - 75 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 74 | [C0R0NA'S](https://open.spotify.com/track/2rWlggaEJdwX8PTxlHxmcB) | [GASP](https://open.spotify.com/artist/0COQtfqPkt0MtSB4f5D97V), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT), [Maska](https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7), [Dapper](https://open.spotify.com/artist/3HjiMSCJso9sKnJO6HEIJk), [Masoo](https://open.spotify.com/artist/00nNKgcACeyt9jFDmpwxz2) | [C0R0NA'S](https://open.spotify.com/album/5kO2qJlppleWHRWaDc4KPR) | 2:28 |
 | 75 | [DBoyz](https://open.spotify.com/track/78BANAfWg5oeFbsxiWsHMX) | [Lewa Jr](https://open.spotify.com/artist/2uBSvdDSgAKx06rwQkhadm), [N'Dreamer](https://open.spotify.com/artist/5r2RIg0giawu4KBxNK0KL8) | [DBoyz](https://open.spotify.com/album/2EQfFGlA80o9y1W3qqQzaP) | 2:37 |
 
-Snapshot ID: `AAAAADHijKrEBuLNmQY7DDnWEK25+z0T`
+Snapshot ID: `AAAAAGX7vAb6krnIkQFtNQ8dyd5H47j5`

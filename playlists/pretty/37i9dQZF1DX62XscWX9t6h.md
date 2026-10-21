@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,985 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,024 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 12 | [Jako](https://open.spotify.com/track/2MiEtw8UquKvxOwu47oTMu) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Ladaniva](https://open.spotify.com/album/1XtgrVhoVHWCqrUhx2ITDk) | 2:25 |
 | 13 | [Crîtto de lâ Nabahâ](https://open.spotify.com/track/1GU309xFsWsQUM6lf4sJoN) | [Califato ¾](https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK) | [Puerta de la Cânne](https://open.spotify.com/album/175V3sGHAJLIB0sDXAQK6C) | 3:47 |
 | 14 | [Mon Cheri](https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Mon Cheri](https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ) | 4:08 |
-| 15 | [Parev' Ajere](https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:33 |
-| 16 | [Baby](https://open.spotify.com/track/1goTiiRtaNdwiGOsSIgBA4) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Light](https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT) | 7:23 |
+| 15 | [Baby](https://open.spotify.com/track/1goTiiRtaNdwiGOsSIgBA4) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Light](https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT) | 7:23 |
+| 16 | [Parev' Ajere](https://open.spotify.com/track/6nPnAYsGwE8HDGxdNvSaex) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:33 |
 | 17 | [Dance of Maria](https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC) | [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Mosaic of the Orient](https://open.spotify.com/album/35V308120K0txY7JUMoN6M) | 2:47 |
 | 18 | [El Alma y el Cuerpo](https://open.spotify.com/track/5a8xzrQxVNRrQbgkzYCkTb) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Elegancia Tropical](https://open.spotify.com/album/3hmKL47fvTuB0pDQP45aY4) | 5:01 |
 | 19 | [Cler Achel](https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0) | 4:27 |
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 22 | [On te l'avait dit](https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 6:24 |
 | 23 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
 | 24 | [Kek Alghalm](https://open.spotify.com/track/6a2lsRBLR68z0azpNyFrzr) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Wes Corbett](https://open.spotify.com/artist/2OkbDT2Do2fc1sRAUFedD8) | [Amatssou](https://open.spotify.com/album/6midUauH9WLxQllqEAvqhM) | 3:31 |
-| 25 | [Atomic Bomb](https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 7:59 |
+| 25 | [Şinanay](https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Şinanay / French Disko \(Lagniappe Session\)](https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH) | 3:56 |
 | 26 | [The Wild Rover](https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 10:14 |
-| 27 | [Şinanay](https://open.spotify.com/track/2fXrL66WMT93qlrqreWXqa) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Şinanay / French Disko \(Lagniappe Session\)](https://open.spotify.com/album/3SVe0JgNmBLHgyFLhKOwoH) | 3:56 |
+| 27 | [Atomic Bomb](https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 7:59 |
 | 28 | [Шо з\-под дуба](https://open.spotify.com/track/52Wl3PQGfyvMJm5JQu0acD) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Yahudky](https://open.spotify.com/album/0KyTYyyHjdkYS65d08fvYm) | 3:48 |
 | 29 | [Amidinine](https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:28 |
 | 30 | [Home \(anaiis Remix\)](https://open.spotify.com/track/2baU4gZ7YltWBxO5kveHCK) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Could We Be More Remixes](https://open.spotify.com/album/1lLEKH0KEbDDW6Wgw4EEDA) | 3:09 |
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 35 | [Sina Vaishu](https://open.spotify.com/track/3uKyFQLFROMWoaNAVQ7Mw4) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Yawanawa Saiti Kaya](https://open.spotify.com/artist/5MfMwcmD7YoH6QLYhcTCl1), [Coleção Som Nativo](https://open.spotify.com/artist/0h305Rcjz5GdVBYlWuHNGq) | [THE FUTURE IS ANCESTRAL](https://open.spotify.com/album/6pmFJ5VC7URN6Q7xI0SYt3) | 3:29 |
 | 36 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
 | 37 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 |
-| 38 | [Nautilus](https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Age of Aquarius](https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws) | 4:01 |
-| 39 | [PERLA](https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:54 |
-| 40 | [Yabaal](https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Dur Dur of Somalia \- Vol\. 1, Vol\. 2 \(Analog Africa No\. 27\)](https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az) | 5:57 |
-| 41 | [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h) | [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T) | 2:38 |
-| 42 | [Garawek khaos](https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn) | [Cemento Atlantico](https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT) | [Dromomania](https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx) | 4:53 |
+| 38 | [PERLA](https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:54 |
+| 39 | [Nautilus](https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Age of Aquarius](https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws) | 4:01 |
+| 40 | [Garawek khaos](https://open.spotify.com/track/09uRAja2jE8e0HwBFmPdqn) | [Cemento Atlantico](https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT) | [Dromomania](https://open.spotify.com/album/0slf4uR5PXW7wWSfFOnOEx) | 4:53 |
+| 41 | [Yabaal](https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF) | [Dur Dur of Somalia \- Vol\. 1, Vol\. 2 \(Analog Africa No\. 27\)](https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az) | 5:57 |
+| 42 | [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h) | [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T) | 2:38 |
 | 43 | [CHIENA 'E SCIPPE](https://open.spotify.com/track/29z4FTyuYn0Hflj9jwIl3c) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [FURÈSTA](https://open.spotify.com/album/17LP7L6YElIuVYK1gg7S37) | 3:18 |
 | 44 | [Amanheceu](https://open.spotify.com/track/6SZpFJEjMzptYIuj2IQC1M) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Ruan Vitor Vaqueirinho](https://open.spotify.com/artist/0giu922rYkicSn5bq25W3g) | [Amanheceu](https://open.spotify.com/album/1blDqTfNYs1UcLWMKFiGzF) | 3:04 |
 | 45 | [Canton Mambo](https://open.spotify.com/track/3zkCkUZRwV3L3lqiTQ9koC) | [Gia Fu](https://open.spotify.com/artist/3dwN2G3cx8i7rEFDvYhRLi) | [Canton Mambo](https://open.spotify.com/album/08WUAfWBJF0b4XffDOiQOe) | 4:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 99 | [Binboğa](https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Binboğa](https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9) | 4:02 |
 | 100 | [Ya Watan](https://open.spotify.com/track/3ArBO06WybP4GQCtwCwTgw) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n) | [Manara](https://open.spotify.com/album/39bOQIKF8BRXuf8zSh1yeG) | 2:50 |
 
-Snapshot ID: `AAAAAPzTAdfk7QF4CHXTMG4P9333e7Uj`
+Snapshot ID: `AAAAANaH3GAm+Uy+kTi6Di60h96hyqQf`

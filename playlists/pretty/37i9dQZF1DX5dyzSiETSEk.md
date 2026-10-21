@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,358 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,331 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 | 52 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 |
 | 53 | [Lost In Japan](https://open.spotify.com/track/79esEXlqqmq0GPz0xQSZTV) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:21 |
 | 54 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 |
-| 55 | [Monster High Fright Song](https://open.spotify.com/track/7hEKlcqyoj3oOH0jtJveIS) | [Monster High](https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Monster High Fright Song](https://open.spotify.com/album/5xGIPK8xElAjIBhP4TVyE3) | 2:43 |
-| 56 | [Lost Boy](https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 4:36 |
+| 55 | [Lost Boy](https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 4:36 |
+| 56 | [Monster High Fright Song](https://open.spotify.com/track/7hEKlcqyoj3oOH0jtJveIS) | [Monster High](https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV), [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Monster High Fright Song](https://open.spotify.com/album/5xGIPK8xElAjIBhP4TVyE3) | 2:43 |
 | 57 | [Double Life \- From "Despicable Me 4"](https://open.spotify.com/track/07oO1U722crtVcavi6frX6) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Double Life \(From "Despicable Me 4"\)](https://open.spotify.com/album/6k4sB6SP3ekH3iIhaDuUV4) | 3:10 |
 | 58 | [What's My Name](https://open.spotify.com/track/53xAT6jud1w0NqlBjSW4VB) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV), [Thomas Doherty](https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg), [Dylan Playfair](https://open.spotify.com/artist/3kJ7YsRgaO8ggKD1lw4C2T), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI) | 3:10 |
 | 59 | [Love Is an Open Door \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq) | [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Santino Fontana](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 2:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 | 74 | [Shut Up and Dance](https://open.spotify.com/track/0kzw2tRyuL9rzipi5ntlIy) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD \(Expanded Edition\)](https://open.spotify.com/album/2bVVESepVYULITlO6mtmoy) | 3:19 |
 | 75 | [...Baby One More Time \(from Kung Fu Panda 4\)](https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [Kung Fu Panda 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj) | 3:12 |
 
-Snapshot ID: `AAAAAJ2Cm2xewQdM4lZYFiWp13TmaURB`
+Snapshot ID: `AAAAAMQI+Hgc8ckawYVCyV+CmJXX7QZl`

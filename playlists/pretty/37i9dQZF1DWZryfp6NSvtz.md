@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Destroy Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 961,028 likes - 191 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 961,045 likes - 191 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 85 | [Down](https://open.spotify.com/track/1zzZc2ddbghUFqConPHudo) | [Lake Drive](https://open.spotify.com/artist/4c1FmV7XS1RFb7jAj9TXIY) | [Down](https://open.spotify.com/album/7rBMrHyFA4Tz5geBLBOOCr) | 3:17 |
 | 86 | [Under My Breath](https://open.spotify.com/track/2AHQZxUaGC30QqaeVzlmbF) | [Wilmah](https://open.spotify.com/artist/3alzUqwOo4TgcCuzQKME9J) | [Under My Breath](https://open.spotify.com/album/4d1M9WJMmNjGtIPJX1scxB) | 3:03 |
 | 87 | [Little Mama's boy](https://open.spotify.com/track/6RVpJCZ1IeUgosrLzVy2li) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Little Mama's boy](https://open.spotify.com/album/1LBtbZmjShF5Wu4iX9LEGr) | 3:22 |
-| 88 | [It’s Me \(Can’t You See\)](https://open.spotify.com/track/2sU8EW3fmXWtk1QjwkPT7V) | [STRATA](https://open.spotify.com/artist/380uYVZ65nhoqV3Hocg7Xz) | [It’s Me \(Can’t You See\)](https://open.spotify.com/album/2yGcZuIHIABJlPiapak41t) | 2:33 |
+| 88 | [It’s Me \(Can’t You See\)](https://open.spotify.com/track/2sU8EW3fmXWtk1QjwkPT7V) | [Strata](https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv) | [It’s Me \(Can’t You See\)](https://open.spotify.com/album/2yGcZuIHIABJlPiapak41t) | 2:33 |
 | 89 | [saying nothing](https://open.spotify.com/track/32o8FBhOmzSqUCgR8HcDu4) | [bugsy](https://open.spotify.com/artist/550HK4Z4yrcThhCm0An7NZ) | [saying nothing](https://open.spotify.com/album/4afFnONTSPRV0X8cCLCIuE) | 4:41 |
 | 90 | [Descending](https://open.spotify.com/track/0gPpG32lieSXHIPymT1umb) | [Rapture](https://open.spotify.com/artist/4djYxsoHH99VaAENYWIboT) | [Descending](https://open.spotify.com/album/6MiQilxStJQy82jrMQetpb) | 3:10 |
 | 91 | [Raincheck](https://open.spotify.com/track/7i6CMPdxKyzg2RAU7mefen) | [chest.](https://open.spotify.com/artist/2D3csYLILmlZH3SUbkz11L) | [Happy, Broken.](https://open.spotify.com/album/0XDnXbLaj6dQXeKlC6UN5E) | 2:53 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 190 | [Glass](https://open.spotify.com/track/5SABKgbAPjiy7z2AgjTTRj) | [Ace Monroe](https://open.spotify.com/artist/7Lcyr9TK4WHr4ojZiYhbYV) | [Glass](https://open.spotify.com/album/095Ge70cuCBO7LTRNEbPPe) | 3:07 |
 | 191 | [Make You Drown](https://open.spotify.com/track/4qarW025U3o3RjKKQiKMrM) | [Dosser](https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB) | [Make You Drown](https://open.spotify.com/album/3CxSyXrPEUDdSN33QBqS5h) | 3:38 |
 
-Snapshot ID: `AAAAAF0LJ29uYGu4FUNQMpq20WmUPiMR`
+Snapshot ID: `AAAAAJM8dS5MEtsIpDYpcZ7L1Mr4yKKq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2AYDglM1LTpPSn5cSRvGDM.md) - [plain]
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-[Enhanced Music](https://open.spotify.com/user/enhanced_music) - 111,455 likes - 118 songs - 6 hr 59 min
+[Enhanced Music](https://open.spotify.com/user/enhanced_music) - 111,487 likes - 118 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

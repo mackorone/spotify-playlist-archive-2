@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,300 likes - 76 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,299 likes - 76 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 24 | [Chacafrik](https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 6:35 |
 | 25 | [NO LA VI VENIR](https://open.spotify.com/track/5preAnxabWbbG7v1hHWiHj) | [Hot Shooters](https://open.spotify.com/artist/2ysnOJKYkI0bYls02QOAAr) | [Boticario de Amor](https://open.spotify.com/album/7fYEXYA5tiXJr5xBaDBolL) | 3:05 |
 | 26 | [Learning the Blues \- En Vivo](https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf) | [Inés Estévez](https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq) | [Nude \(En Vivo\)](https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH) | 5:05 |
-| 27 | [Swing Summit](https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca) | [Manuel Fraga](https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8), [Oscar Giunta](https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P), [Pablo Motta](https://open.spotify.com/artist/0N4l2NjzDYy8061amZ1dv6) | [Swing Summit](https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed) | 4:33 |
-| 28 | [Caminando Con Audífonos](https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im) | [Pat Nuño](https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN) | [En Las Afueras](https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my) | 3:50 |
+| 27 | [Caminando Con Audífonos](https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im) | [Pat Nuño](https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN) | [En Las Afueras](https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my) | 3:50 |
+| 28 | [Swing Summit](https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca) | [Manuel Fraga](https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8), [Oscar Giunta](https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P), [Pablo Motta](https://open.spotify.com/artist/0N4l2NjzDYy8061amZ1dv6) | [Swing Summit](https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed) | 4:33 |
 | 29 | [Pop](https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:40 |
 | 30 | [Full House \- Live](https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc) | [Valentino Jazz Bazar](https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm) | [Essence of Wes Montgomery \(Live in Thelonious Club, Buenos Aires, Argentina\)](https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH) | 4:46 |
 | 31 | [Equinox](https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ) | [Nestor Astarita](https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x), [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [80 Años \- Jazztaríaenbaterita](https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo) | 6:53 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 54 | [Cristal](https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:32 |
 | 55 | [Creer en las Hojas](https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM) | [Emi Gimenez](https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ) | [Atemporal](https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY) | 4:52 |
 | 56 | [Masche](https://open.spotify.com/track/0xizSuVkSAW319P54gzhwU) | [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm) | [Edén](https://open.spotify.com/album/2P2fyMDSr96sznG3d2GvzR) | 6:37 |
-| 57 | [Reunión](https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7) | [Pepi Taveira](https://open.spotify.com/artist/1KQUkFUXWpIqmoFw3YN1x2) | [Reunión](https://open.spotify.com/album/1pAheMkdST8sR3A4r84opB) | 6:29 |
-| 58 | [El cristal de los otros](https://open.spotify.com/track/0lgUHiqSw3Y5k8Kfvi1eb0) | [Ernesto Jodos](https://open.spotify.com/artist/7CMEUsgU1PmgGWgJbxXEKb) | [Fragmentos del mundo](https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG) | 5:29 |
+| 57 | [El cristal de los otros](https://open.spotify.com/track/0lgUHiqSw3Y5k8Kfvi1eb0) | [Ernesto Jodos](https://open.spotify.com/artist/7CMEUsgU1PmgGWgJbxXEKb) | [Fragmentos del mundo](https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG) | 5:29 |
+| 58 | [Reunión](https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7) | [Pepi Taveira](https://open.spotify.com/artist/1KQUkFUXWpIqmoFw3YN1x2) | [Reunión](https://open.spotify.com/album/1pAheMkdST8sR3A4r84opB) | 6:29 |
 | 59 | [Bill's Groove](https://open.spotify.com/track/34fbQjaiSWhK8bP6zfblCS) | [ROMÁN](https://open.spotify.com/artist/6pR53VmJ6tiJ1ZU8T5UVnQ) | [Roman](https://open.spotify.com/album/4z7OxQXwykb4W5uBkbGiY0) | 4:51 |
 | 60 | [De Pie](https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8) | [Emi Gimenez](https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ) | [Atemporal](https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY) | 5:56 |
 | 61 | [Doña Cha Cha](https://open.spotify.com/track/6Mee3B457bmUf93LIbhsNZ) | [Arturo Puertas](https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ), [Carlos Michelini](https://open.spotify.com/artist/6Tbr0u2xVmOLKADh9PO0Nm), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG), [Marcelo Mayor](https://open.spotify.com/artist/7I1eGOWhHuhI3xfwXWsFBV), [Ezequiel "Chino" Piazza](https://open.spotify.com/artist/6WCG05WxHQv0BzAuNgULo6), [Beto Merino](https://open.spotify.com/artist/6yNrmekUamVKW9wdewueXT) | [Afropuertas](https://open.spotify.com/album/5tb3c9O1yhD6wMzacCPwDp) | 6:02 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 75 | [A Bajo y Pa'fuera](https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH) | [Sebastián Tozzola](https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a) | [A Bajo y Pa'fuera](https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N) | 2:26 |
 | 76 | [Viva Jujuy](https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5) | [Arturo Puertas](https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ) | [Viva Jujuy](https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm) | 6:01 |
 
-Snapshot ID: `AAAAAJGRO0pTNWMJHnI+V5Bg5WdIaOwp`
+Snapshot ID: `AAAAAKCZPO/0s+0cMH10YE8UgyGWIlI8`

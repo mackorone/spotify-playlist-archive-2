@@ -7899,6 +7899,24 @@
     },
     {
       "album": {
+        "name": "DIRTY PARTS OF HEAVEN",
+        "url": "https://open.spotify.com/album/445l191yJKcof0xALNPnmI"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232770,
+      "name": "DIRTY PARTS OF HEAVEN",
+      "url": "https://open.spotify.com/track/6w5zpA4rMCtWmsQruHCKfH"
+    },
+    {
+      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/2KG6O4Ca7PE3aOVBXuVziI"
       },
@@ -10338,6 +10356,24 @@
       "duration_ms": 537893,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/1l4wuA9vt7ZoICrFDtAjiM"
+    },
+    {
+      "album": {
+        "name": "Buried In Spring",
+        "url": "https://open.spotify.com/album/0mrjFNe8nS7u39pwGX1OJ5"
+      },
+      "artists": [
+        {
+          "name": "Buried In Spring",
+          "url": "https://open.spotify.com/artist/1YaEAdCYXZQEJoo8VkxbMY"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206521,
+      "name": "Farewell of the Century",
+      "url": "https://open.spotify.com/track/6uH8W17ox6JiElDvpXmEuW"
     },
     {
       "album": {
@@ -13032,7 +13068,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 201996,
       "name": "Half Past Dead (Unbury Me)",
       "url": "https://open.spotify.com/track/74Tt7azCRWhutQoHHELeVz"
@@ -24940,7 +24976,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 190000,
       "name": "Razor's Edge Collapse",
       "url": "https://open.spotify.com/track/1z8LYKU3OLGazmre3PO4VX"

@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34757,
+  "num_followers": 34756,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABEEOggeOYGf21N6MNPf9sRw364z",
+  "snapshot_id": "AAAAAG3tEbiWy9T6kjaRQ2evgfm9fJ8D",
   "tracks": [
     {
       "added_at": "2026-09-03 07:18:48",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "SET",
-        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "Rebound",
-      "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
         "name": "OVERDRIVE",
         "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 184266,
       "name": "Habit",
       "url": "https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
+        "name": "SET",
+        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "Rebound",
+      "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
     },
     {
       "added_at": "2026-09-03 07:18:48",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "AFTER UPSET",
-        "url": "https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "muah",
-      "url": "https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
         "name": "Not my fault",
         "url": "https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 214319,
       "name": "I wonder (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
+        "name": "AFTER UPSET",
+        "url": "https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "muah",
+      "url": "https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr"
     },
     {
       "added_at": "2026-09-03 07:18:48",

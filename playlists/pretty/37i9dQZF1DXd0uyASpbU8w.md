@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Langa Mavuso, Olivia Rodrigo, Aubrey Qwana,  Lucky Daye and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,938 likes - 57 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,952 likes - 57 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 56 | [Higher](https://open.spotify.com/track/6Dnh4pkKQoMfuGpoqJYbz1) | [Big C](https://open.spotify.com/artist/4zQCczX5aPsCzEAzMYXpsy), [Mariechan](https://open.spotify.com/artist/6uUSNroJE7n5EvrPre1VCI) | [Higher](https://open.spotify.com/album/3JsoD7Yc1DpkLiIlyrgEUR) | 3:19 |
 | 57 | [G.B.V\. Myeke](https://open.spotify.com/track/4ijmVEdhWjChjJAv8isHAM) | [Usomandla](https://open.spotify.com/artist/454Sdz5ZVqE4spb5x4qavF) | [Immediate Effect](https://open.spotify.com/album/7n38CFYc3DGrFAWkhK2ecu) | 4:29 |
 
-Snapshot ID: `AAAAAMBvoiE69rYMUDdoQ2YcsaiO26xl`
+Snapshot ID: `AAAAAEJqAM2/zvkBSmJgfTzDKcKkwzoy`

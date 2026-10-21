@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: The Number Twelve Looks Like You
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,577 likes - 126 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,574 likes - 126 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 125 | [Magpies in Disguise](https://open.spotify.com/track/0odLoZXn3pnecAw7AFuM46) | [Celebration Guns](https://open.spotify.com/artist/28zgg4dAkcK0jXZdxiLjVu) | [What Keeps Us Coming Back](https://open.spotify.com/album/7FunpzT6Ls6jiFTVgRaU77) | 3:05 |
 | 126 | [Heard A Bang](https://open.spotify.com/track/3ccJedfPVbc4R7iVv1LICG) | [Team Dresch](https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs) | [Furthermore](https://open.spotify.com/album/51vdY0Yud8HlMqeNG7BEud) | 2:56 |
 
-Snapshot ID: `AAAAAHCF60LIHXB6DMgqDFHcHyQ+HJ0R`
+Snapshot ID: `AAAAAD1tkbyEb9wixjU3vkahyn+vNow5`

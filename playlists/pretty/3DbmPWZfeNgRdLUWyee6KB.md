@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 154 songs - 9 hr 6 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,334 likes - 164 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,5 +162,15 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 152 | [Der Weg zu dir selbst](https://open.spotify.com/track/04L5pxGOOa89TWwEnzMuuf) | [Parksj](https://open.spotify.com/artist/71guvFwcryVsE5kZwDLH07) | [Der Weg zu dir selbst](https://open.spotify.com/album/3CI8PcbVbgb3Lx6anEwX5t) | 2:29 |
 | 153 | [Olas en tus cielos](https://open.spotify.com/track/05uRcmkTIeJFcFIzJtd9yI) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 3:02 |
 | 154 | [Homeless Heart And Wandering Mind](https://open.spotify.com/track/1E4YC0WGm6nQzASaNWN1Vn) | [Black River Ghost](https://open.spotify.com/artist/2judctr0NVnstByT9aSBD2) | [Homeless Hearts and Wandering Minds](https://open.spotify.com/album/5I3EIhLUTnOPHUKQDx4a6K) | 3:15 |
+| 155 | [Welcome Back](https://open.spotify.com/track/52i2rBvsE7q3TLQXvIheyn) | [Marionette Noir](https://open.spotify.com/artist/4rDm5cA7jpu6LF95zokjHA) | [The Playbook EP](https://open.spotify.com/album/60AJDuaR9hs29AN1QQueeN) | 5:09 |
+| 156 | [Tere Bin](https://open.spotify.com/track/4m0T7cvHDi9sF1yrsiuo6u) | [Samaksh](https://open.spotify.com/artist/1JvSsV27Zvlivwd0j6AtGn) | [Tere Bin](https://open.spotify.com/album/14rTgjC9cQYwLTZyy0EQDf) | 4:53 |
+| 157 | [20m²](https://open.spotify.com/track/6K2mbkNWYHQ4AH7BH8UOaj) | [Marla](https://open.spotify.com/artist/3OAwgEaLA6xFkdajJE55OU) | [20m²](https://open.spotify.com/album/3wDHhbFem0jBZTkuKoXdT2) | 3:20 |
+| 158 | [Naadaniyan](https://open.spotify.com/track/3q55LbaLaxMZwjRBofGUFG) | [Samaksh](https://open.spotify.com/artist/1JvSsV27Zvlivwd0j6AtGn) | [Naadaniyan](https://open.spotify.com/album/4PIDBOcz3nHDqxMPGnJLhc) | 4:38 |
+| 159 | [Resolve](https://open.spotify.com/track/3uK6X1waX0jS0Wgrjny4xo) | [momo.wav](https://open.spotify.com/artist/0SG8JI8kRQSpXDhKWViFcA) | [Mantra & Resolve](https://open.spotify.com/album/6z3pthbC7S0VIjMB39LTPp) | 5:04 |
+| 160 | [A blaze of light](https://open.spotify.com/track/4tFLN0VdJ96FIawiBLSiI2) | [momo.wav](https://open.spotify.com/artist/0SG8JI8kRQSpXDhKWViFcA) | [A blaze of light](https://open.spotify.com/album/2Re0mJ0x041tvrH1qlNRWr) | 2:50 |
+| 161 | [Addicted To The Struggle](https://open.spotify.com/track/5Gg0dGauZZbIo97XZQYS11) | [Pien](https://open.spotify.com/artist/0M3W0VPiLEjryaAfMEoP8z) | [Addicted To The Struggle](https://open.spotify.com/album/0x7GCZeeT9P9oCq5sS5m9Z) | 3:07 |
+| 162 | [Moe](https://open.spotify.com/track/2zlZ0kj1YVQKbLp1DDnK6v) | [Vain](https://open.spotify.com/artist/4tRzcUW6cv8dwq9ZzI4RAS) | [Moe](https://open.spotify.com/album/54DSmH0nbBMhQGyLr3CTFO) | 2:24 |
+| 163 | [Timewasters](https://open.spotify.com/track/56G3Tk04fSDDi4foq9PGvX) | [Worldview](https://open.spotify.com/artist/53AOSoE3dHnIV5IO2F1A0J) | [Timewasters](https://open.spotify.com/album/60UHrTyIUWd2vJGCJzhkao) | 3:50 |
+| 164 | [Nubes de mar](https://open.spotify.com/track/0wsohHhxVmY7ojKKmmDyLP) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [Nubes de mar](https://open.spotify.com/album/1RLDfTkHUl72KfEIhoEI0y) | 3:31 |
 
-Snapshot ID: `AAAYuPxunDVaKlBB0fc2B77Rotdsencl`
+Snapshot ID: `AAAYwn95ZLURHZW3iFlMapyxhwsn5KaM`

@@ -6051,6 +6051,24 @@
     },
     {
       "album": {
+        "name": "Patagonia",
+        "url": "https://open.spotify.com/album/6jLVKuvK1j8BwXFahWnjQR"
+      },
+      "artists": [
+        {
+          "name": "Moments of Clarity",
+          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Patagonia",
+      "url": "https://open.spotify.com/track/6sE6j0OVmzcCJcZwpw8q0S"
+    },
+    {
+      "album": {
         "name": "Peace of Rain",
         "url": "https://open.spotify.com/album/2UzKVDUabqDDcOVRptDfpe"
       },
@@ -6602,7 +6620,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 164285,
       "name": "Residual Presence Field",
       "url": "https://open.spotify.com/track/0MlrY3mg0iOHSWWK7BOVDD"

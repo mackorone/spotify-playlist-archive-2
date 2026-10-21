@@ -238,7 +238,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 314746,
       "name": "Atos 2",
       "url": "https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6"
@@ -2294,6 +2294,28 @@
     {
       "album": {
         "name": "Pre\u00e7o de Sangue (Playback)",
+        "url": "https://open.spotify.com/album/14QhQbzxFC2Dp0zOpDJWjx"
+      },
+      "artists": [
+        {
+          "name": "Brave",
+          "url": "https://open.spotify.com/artist/4YtIBGgFkEZ2Sd91Hysx5f"
+        },
+        {
+          "name": "Salmistas",
+          "url": "https://open.spotify.com/artist/2p698CCXvxKVnPrSOou6fZ"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 605844,
+      "name": "Pre\u00e7o de Sangue - Playback",
+      "url": "https://open.spotify.com/track/0tH8h6NxKrOtZp1XXyqYCH"
+    },
+    {
+      "album": {
+        "name": "Pre\u00e7o de Sangue (Playback)",
         "url": "https://open.spotify.com/album/4JBN7delSj5edzZlwhBT6K"
       },
       "artists": [
@@ -2308,7 +2330,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 605844,
       "name": "Pre\u00e7o de Sangue - Playback",
       "url": "https://open.spotify.com/track/5FBRavbyHlcwoTOx4jkivK"
@@ -2778,10 +2800,32 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 411853,
       "name": "SHEKINAH - Ao Vivo",
       "url": "https://open.spotify.com/track/4dphbue2PtpS20x23hL254"
+    },
+    {
+      "album": {
+        "name": "YESHUA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/20LcMaWAUKyBSv5KfsQr9w"
+      },
+      "artists": [
+        {
+          "name": "Matheus Goulart",
+          "url": "https://open.spotify.com/artist/2gxnSr0LAhOJeiRz3YVihQ"
+        },
+        {
+          "name": "Manuela Oliveira",
+          "url": "https://open.spotify.com/artist/2AI6D7Dk5TvPGyITRmgRKP"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411853,
+      "name": "SHEKINAH - Ao Vivo",
+      "url": "https://open.spotify.com/track/72kKKmWNdibAde6D4tfilU"
     },
     {
       "album": {
@@ -2876,10 +2920,28 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 363800,
       "name": "S\u00f3 Quero A Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/1FNCYDOhNVb01oq6ml8ksR"
+    },
+    {
+      "album": {
+        "name": "YESHUA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/20LcMaWAUKyBSv5KfsQr9w"
+      },
+      "artists": [
+        {
+          "name": "Matheus Goulart",
+          "url": "https://open.spotify.com/artist/2gxnSr0LAhOJeiRz3YVihQ"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363800,
+      "name": "S\u00f3 Quero A Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Y2iB5Ya13njcK8Yyua6bQ"
     },
     {
       "album": {

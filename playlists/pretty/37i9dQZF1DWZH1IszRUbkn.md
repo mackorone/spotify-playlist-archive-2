@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,569 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,570 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 25 | [Te Creo](https://open.spotify.com/track/7gsrhkG05oEIsk81MJ3yoW) | [Martina Stoessel](https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL) | [Violetta](https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS) | 3:59 |
 | 26 | [Bajo El Mar](https://open.spotify.com/track/6woIpjACNI7t5p5ziGfl5t) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 4:10 |
 | 27 | [Canción de las Brujas \- Remasterizado](https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 3:16 |
-| 28 | [La Feria de Cepillín](https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb), [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ), [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mejores Amigos](https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl) | 3:05 |
+| 28 | [La Bruja de Nueva York](https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [La Casita de Patylu](https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT) | 3:54 |
 | 29 | [Acuarela](https://open.spotify.com/track/34oV1MaJfhU7AJDzERSFlS) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h) | [Porque yo te quiero](https://open.spotify.com/album/3jCec881nyRs6s5w0uHr9R) | 3:41 |
 | 30 | [Feliz En Tu Día](https://open.spotify.com/track/0fKjKCEvHshLPqzuBpAg6c) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 1:38 |
 | 31 | [Mi mamá](https://open.spotify.com/track/15x7aovQl85p8PsG2DR7hW) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Vacaciones ¡Tope guay!](https://open.spotify.com/album/2PC53ZjpOAO0xxEXujwEcb) | 3:55 |
 | 32 | [En Mi Mundo \- From "Violetta" Music from the TV Series](https://open.spotify.com/track/1GJqULuKQWN1ltMEOJuhes) | [Martina Stoessel](https://open.spotify.com/artist/55TFMHRuyFaYFEKYnqKbSL) | [Violetta](https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS) | 3:32 |
-| 33 | [La Bruja de Nueva York](https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [La Casita de Patylu](https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT) | 3:54 |
+| 33 | [La Feria de Cepillín](https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb), [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ), [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mejores Amigos](https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl) | 3:05 |
 | 34 | [El Zapatero](https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 1:43 |
 | 35 | [Mi Familia](https://open.spotify.com/track/2bsMa5r165wLPih4iM3uBn) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [Rondas y Clásicos Infantiles 2](https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg) | 2:54 |
 | 36 | [¡Qué empiece ya!](https://open.spotify.com/track/1iNCRF6MUJy8xOrC05FDRP) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Bailando](https://open.spotify.com/album/0jFG9LESZUUS59Cpnm51To) | 1:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 49 | [Primavera](https://open.spotify.com/track/5aVUxd9e4u8GXqnX39LaDS) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 2:44 |
 | 50 | [La Regla Primordial \- Retrete Navarrete y los Bulliciosos](https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [31 Minutos, Ratoncitos](https://open.spotify.com/album/5eymzke6O0xLndwXwltN2E) | 2:45 |
 
-Snapshot ID: `AAAAADNm3zS0Cn4sP1j8OoTUPpLjK/8u`
+Snapshot ID: `AAAAAEqJaXgcSOitO0rd2mN6PTlyDEHM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,444 likes - 120 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,480 likes - 120 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 29 | [Hornet's Nest](https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Hornet's Nest](https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB) | 4:39 |
 | 30 | [Keeping Secrets](https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Keeping Secrets](https://open.spotify.com/album/2eo6DsHwKME76sBskLyXAO) | 4:17 |
 | 31 | [Visions in My Head](https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Inked in Blood \(Deluxe Version\)](https://open.spotify.com/album/4t3LpnsYsu1RBOwHkmwh8k) | 4:14 |
-| 32 | [Nuclear God](https://open.spotify.com/track/4pPQqjLsJineYmBFxOFNNt) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Death Above Life \(Deluxe Edition\)](https://open.spotify.com/album/1nCzCl86fY0jtgs4DbWWXb) | 5:08 |
-| 33 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/5LoE9oTVlb2x59rKfkyyTZ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Trevor Strnad](https://open.spotify.com/artist/1M5Gj4up3YtKtUY8xecMRb) | [Melancholy](https://open.spotify.com/album/5IgHVlikizQFBPieV1uk8v) | 4:56 |
-| 34 | [Gleam in the Black](https://open.spotify.com/track/1IcLYsjGmdyr0i2eLzkijS) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Netherworlds](https://open.spotify.com/album/4951xpcIwMAPnhBzCY47dn) | 4:32 |
+| 32 | [Gleam in the Black](https://open.spotify.com/track/1IcLYsjGmdyr0i2eLzkijS) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Netherworlds](https://open.spotify.com/album/4951xpcIwMAPnhBzCY47dn) | 4:32 |
+| 33 | [Nuclear God](https://open.spotify.com/track/4pPQqjLsJineYmBFxOFNNt) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Death Above Life \(Deluxe Edition\)](https://open.spotify.com/album/1nCzCl86fY0jtgs4DbWWXb) | 5:08 |
+| 34 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/5LoE9oTVlb2x59rKfkyyTZ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Trevor Strnad](https://open.spotify.com/artist/1M5Gj4up3YtKtUY8xecMRb) | [Melancholy](https://open.spotify.com/album/5IgHVlikizQFBPieV1uk8v) | 4:56 |
 | 35 | [The Beauty of Suffering](https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Spiritbox](https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5) | 5:37 |
 | 36 | [Pangs of Conscience](https://open.spotify.com/track/5pD2JxlCEtcNV9cKJijmwr) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Pangs of Conscience](https://open.spotify.com/album/4XrsSsrkMkkYLzbvvnxxrr) | 4:47 |
 | 37 | [Return to Strength](https://open.spotify.com/track/4dwkRSahcpLc1idfrxeuvk) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [Keepers Of The Faith](https://open.spotify.com/album/6hu0pi5xOAgeHvXphLLc4W) | 2:40 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 97 | [Void Silence](https://open.spotify.com/track/3yZ0K2vUPjd3L2KDevoPkD) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [Into the Light](https://open.spotify.com/album/1iScqogbUIJoj1GFDHBrlf) | 3:33 |
 | 98 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 |
 | 99 | [Gaining Purpose](https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN) | [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy) | [Gaining Purpose Through Passionate Hatred](https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO) | 3:51 |
-| 100 | [Brotherhood](https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0) | [Fallbrawl](https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP) | [Brotherhood EP](https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy) | 2:23 |
-| 101 | [Rebirth](https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Rebirth](https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm) | 4:01 |
+| 100 | [Rebirth](https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Rebirth](https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm) | 4:01 |
+| 101 | [Brotherhood](https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0) | [Fallbrawl](https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP) | [Brotherhood EP](https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy) | 2:23 |
 | 102 | [Nobody](https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9) | [Decayer](https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i) | [Nobody](https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X) | 4:09 |
 | 103 | [Seeds of Hate](https://open.spotify.com/track/2PXtvjte8DxJ9uwoSRn2aH) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [Gamechanger](https://open.spotify.com/album/77KrgNntpYAq3DRYXgP3rT) | 3:48 |
 | 104 | [No Brother, No Friend](https://open.spotify.com/track/3yAu8VEqJmr4LqZwDr29cV) | [Justice For The Damned](https://open.spotify.com/artist/0lXAdLcUREgif33yNEmyf8) | [No Brother, No Friend](https://open.spotify.com/album/52vFHJ4qdgSLiIZvPiMuRI) | 3:31 |
@@ -119,9 +119,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 109 | [New Salem](https://open.spotify.com/track/3hH0jHNUxzfPhYimw0OmF6) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [New Salem](https://open.spotify.com/album/6IjPbGlExfQKH1FYnsWCLh) | 3:23 |
 | 110 | [All Hail the Void](https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A) | [Enabler](https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI) | [All Hail The Void](https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM) | 3:36 |
 | 111 | [Eat What You Kill](https://open.spotify.com/track/6yz2HojEuzMLx1yJoMYVSH) | [Confess](https://open.spotify.com/artist/6XFIRJcLodORR7cmCCL5Zw) | [Eat What You Kill](https://open.spotify.com/album/4g9x50zBfdnemdovUhjwyt) | 5:15 |
-| 112 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 |
+| 112 | [I Am No Good](https://open.spotify.com/track/7MtsR2dUH5AqeHgpzVyPDv) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [Crook](https://open.spotify.com/album/7HIqTShZ6AA8TbE20XJNdr) | 2:58 |
 | 113 | [A Colossal Wreck](https://open.spotify.com/track/2MEsI0FQNG8L4s13vkPwK4) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [A Colossal Wreck // Desperate Pleasures](https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh) | 2:28 |
-| 114 | [I Am No Good](https://open.spotify.com/track/7MtsR2dUH5AqeHgpzVyPDv) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [Crook](https://open.spotify.com/album/7HIqTShZ6AA8TbE20XJNdr) | 2:58 |
+| 114 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 |
 | 115 | [Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes](https://open.spotify.com/track/3DeAaXxQH2jmtWLKezKqa1) | [Nile](https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE) | [Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes](https://open.spotify.com/album/1xkFCu7kOfF55Qp5uZ3qZy) | 3:50 |
 | 116 | [Strength to Draw the Line](https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg) | [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Strength to Draw the Line](https://open.spotify.com/album/53js4P31lZMSZlINykloRH) | 2:48 |
 | 117 | [The Antagonist](https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA) | [Ten Years Too Late](https://open.spotify.com/artist/4dOaYFrjF5kAX6MIGfjS7x) | [The Antagonist](https://open.spotify.com/album/7kEbXWhJSvRriW2VuhZjtk) | 3:48 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 119 | [Three Bastards](https://open.spotify.com/track/1jX4MOsnVz3lnPt5PJXWfN) | [Infant Annihilator](https://open.spotify.com/artist/6eSSPyqys0J4j0kdi3hFrR) | [Three Bastards](https://open.spotify.com/album/4omNTdi2r9MIciuJVMSJoB) | 4:17 |
 | 120 | [Army of Cops](https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB) | [Pig Destroyer](https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7) | [Army of Cops](https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR) | 3:18 |
 
-Snapshot ID: `AAAAADPPDpJItebrVo0cGixpxBZqukjh`
+Snapshot ID: `AAAAADnd9zMNzLva3Cf+NYz6YykNWSul`

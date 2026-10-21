@@ -4,7 +4,7 @@
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Mr Belt &amp; Wezol
 
-285 songs - 14 hr 18 min
+286 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 | 2025-07-18 |  |
 | [Destination Unknown \(Calabria\)](https://open.spotify.com/track/1ku9Yr6cmIHh0CKE5RX5yu) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [Destination Unknown \(Calabria\)](https://open.spotify.com/album/2tgpE75wpRrNeqadjZf9Mm) | 2:22 | 2026-01-26 | 2026-01-28 |
 | [Destiny](https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Destiny](https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p) | 2:50 | 2026-01-26 |  |
+| [Don't Forget \(About Me\)](https://open.spotify.com/track/7mIwqQouqiZVRYa0b13RLK) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Don't Forget \(About Me\)](https://open.spotify.com/album/30bKA6XdH6Fa5ghF1O29uc) | 2:51 | 2026-10-20 |  |
 | [Don't Lie \- The Knocks Remix](https://open.spotify.com/track/4Tv8M4z8qx9xufAfiNz1l7) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Don't Lie \(Remixes\)](https://open.spotify.com/album/3JEEY0qM5QzJbAnHlOPx1i) | 3:21 | 2025-07-18 | 2026-01-28 |
 | [Don't Stop Lovin'](https://open.spotify.com/track/62Bd3M4RpuJ6zR2KCW1LGX) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [Don't Stop Lovin'](https://open.spotify.com/album/75v2SGfaNYOISwpbxsEvSN) | 2:13 | 2025-07-18 | 2026-01-28 |
 | [Dopamine \(feat\. Malou\)](https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Dopamine \(feat\. Malou\)](https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn) | 2:03 | 2025-10-24 | 2026-01-28 |
@@ -113,7 +114,7 @@
 | [Hold On For Heaven](https://open.spotify.com/track/1waqydZwGSMhDFfUJdzKjA) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Hold On For Heaven](https://open.spotify.com/album/2mUJTDa5AzLNqSXxwbsF8r) | 3:34 | 2026-01-12 | 2026-03-04 |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2025-07-18 | 2026-01-28 |
 | [Hutia](https://open.spotify.com/track/0NzAiE3uzd1FFJ9WwFpTzu) | [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Hutia](https://open.spotify.com/album/540Xn6IgSM5VWHXfoqAGS9) | 2:51 | 2026-01-26 |  |
-| [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes](https://open.spotify.com/album/2eEnzl61veDi3zQylslIap) | 4:39 | 2026-01-27 |  |
+| [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes](https://open.spotify.com/album/2eEnzl61veDi3zQylslIap) | 4:39 | 2026-01-27 | 2026-10-21 |
 | [i need u](https://open.spotify.com/track/6b86AhZ0bwJrjLaRqFnB7L) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [i need u](https://open.spotify.com/album/2t6Ie2kxapG2kMs4hxRJmt) | 3:45 | 2026-04-03 |  |
 | [I Need Your Love \(feat\. Ellie Goulding\)](https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:54 | 2026-08-21 |  |
 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 | 2026-01-26 |  |

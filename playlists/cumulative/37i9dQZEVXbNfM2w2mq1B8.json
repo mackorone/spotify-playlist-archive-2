@@ -726,7 +726,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 184997,
       "name": "4 \u041a\u0443\u0440\u0432\u0438 (4 \u041a\u0443\u0440\u0432\u0438)",
       "url": "https://open.spotify.com/track/0jXQIHyGwY0MuuEoGALZsC"
@@ -3442,7 +3442,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 223448,
       "name": "Bad Boys",
       "url": "https://open.spotify.com/track/5dbIBryEKXQzizXzb3MXnV"
@@ -13073,6 +13073,48 @@
     },
     {
       "album": {
+        "name": "FIRESTARTER",
+        "url": "https://open.spotify.com/album/1yz28fnKHjF4Yr06M6oCep"
+      },
+      "artists": [
+        {
+          "name": "K/DA",
+          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        },
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        },
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187280,
+      "name": "FIRESTARTER",
+      "url": "https://open.spotify.com/track/6UeSC8jEhf9XmUL8EX2rni"
+    },
+    {
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/2jUiciezP7OupDOLdRSXw1"
       },
@@ -20524,7 +20566,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 200283,
       "name": "Koya",
       "url": "https://open.spotify.com/track/7AG1ltHqHdUl9BEaq6QniG"
@@ -21906,7 +21948,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -24050,7 +24092,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 285175,
       "name": "Mezhdu nas",
       "url": "https://open.spotify.com/track/17heWk1oi0qx7sdPsQQSWC"
@@ -26388,7 +26430,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 226955,
       "name": "Ne te boli",
       "url": "https://open.spotify.com/track/6cAQRggud6djFvJNq2YKwO"
@@ -34224,7 +34266,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-02",
+      "date_removed": null,
       "duration_ms": 199024,
       "name": "Skapoto se plashta",
       "url": "https://open.spotify.com/track/5jumClRHFt7meCQ8vbKyDf"
@@ -45406,7 +45448,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 217333,
       "name": "\u0414\u0430 \u0441\u0438 \u0442\u0443\u043a",
       "url": "https://open.spotify.com/track/5GeUnhnpp7NyhmBDlkvncd"
@@ -47480,7 +47522,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 199090,
       "name": "\u041a\u0423-\u041a\u0423",
       "url": "https://open.spotify.com/track/5DhNN329T0nLSSE1mkjGmW"
@@ -50788,7 +50830,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 230275,
       "name": "\u0420\u043e\u043a\u043b\u044f\u0442\u0430 \u0442\u0438 \u043f\u0430\u0434\u0430",
       "url": "https://open.spotify.com/track/4SAkhbT3gRgT0vMhxQnwtT"
@@ -50910,6 +50952,24 @@
       "duration_ms": 224084,
       "name": "\u0421\u0430\u043a\u043e\u0432\u0435",
       "url": "https://open.spotify.com/track/1hDHWk74RPmGwgkWEHiFjU"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0430\u043c\u0430 \u0449\u0435 \u0441\u0438 \u0433\u043e\u0432\u043e\u0440\u0438\u0448 (Remake 2026)",
+        "url": "https://open.spotify.com/album/55L4VgXxS7H3VwLJi3RHfy"
+      },
+      "artists": [
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214080,
+      "name": "\u0421\u0430\u043c\u0430 \u0449\u0435 \u0441\u0438 \u0433\u043e\u0432\u043e\u0440\u0438\u0448 (Remake 2026)",
+      "url": "https://open.spotify.com/track/2T18i6xJZudlyCEDyRVrjs"
     },
     {
       "album": {
@@ -52290,7 +52350,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 194000,
       "name": "\u0426\u0435\u043b\u0443\u0432\u043a\u0430 \u0441 Tequila",
       "url": "https://open.spotify.com/track/0DWuEaw17uIBKJVNd1ev5X"
@@ -52540,7 +52600,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 238152,
       "name": "\u042f\u043a\u0430 \u0435 \u0436\u0435\u043d\u0430 \u0442\u0438",
       "url": "https://open.spotify.com/track/1h4oxFSSXlJhFwpho5Levr"

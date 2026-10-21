@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Sant
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,211 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,190 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 16 | [Gta](https://open.spotify.com/track/6iQU1nlRt0W3uZTEvd6BK6) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Gta](https://open.spotify.com/album/0dW5OqgbOcrjFsiwft2WbC) | 2:39 |
 | 17 | [2Am In Mooca](https://open.spotify.com/track/4IlxcFVShAUVS5XoDjyyF9) | [Mrasta](https://open.spotify.com/artist/4LATAzZazW5gcrunD9TMLs), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [2Am In Mooca](https://open.spotify.com/album/3cbvjSuFmtj5Oq7zkJ3noV) | 2:26 |
 | 18 | [SUBESTIMADO](https://open.spotify.com/track/4fVghR16VBFQuS9Ncxm7im) | [Dpaula](https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [GEXIS](https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU) | [SUBESTIMADO](https://open.spotify.com/album/46sqPKG2iJ4XhuTJYk23Dw) | 2:26 |
-| 19 | [Eu Reagi!](https://open.spotify.com/track/1cKFBJ1Zc0Cvhl1qFn5SA3) | [Madre Beatz](https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj), [Áurea Semiseria](https://open.spotify.com/artist/79ZAZiRVZscNhWmqN5HBHg), [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf), [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3) | [Eu Reagi!](https://open.spotify.com/album/2vLbsJ3xh0CglQz4CUpgyZ) | 2:27 |
+| 19 | [Eu Reagi!](https://open.spotify.com/track/1cKFBJ1Zc0Cvhl1qFn5SA3) | [Madre Beatz](https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj), [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Áurea Semiseria](https://open.spotify.com/artist/79ZAZiRVZscNhWmqN5HBHg), [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf) | [Eu Reagi!](https://open.spotify.com/album/2vLbsJ3xh0CglQz4CUpgyZ) | 2:27 |
 | 20 | [Estrategista](https://open.spotify.com/track/4vJyTO6MtB38IWgJbQkeGc) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Estrategista](https://open.spotify.com/album/0LKhs58fSh8iSi6jzBputo) | 2:50 |
 | 21 | [DONA DO MEU FLOW \(SINCE 2012\)](https://open.spotify.com/track/50e46ChHZ9xt8iqgpEKdfA) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [FLOWRA](https://open.spotify.com/artist/6kGiEmWE9rpQqavMdia7sT) | [FLOWRA FM \- DISCO VOADOR 4](https://open.spotify.com/album/18GOkgwiuvqbFTwbmerMi7) | 2:51 |
 | 22 | [Toma Tapa](https://open.spotify.com/track/28jFx6fxrbxOIFcf1fIfjn) | [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Toma Tapa](https://open.spotify.com/album/4dDBinCN2mdFZmqdHb9DHp) | 1:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [SANKARAS](https://open.spotify.com/track/7js0fBSVoBMagLTHqrESoa) | [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL), [Mozart Mz](https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne), [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [ProdGalician](https://open.spotify.com/artist/0yefXKWBoHatvo2VqK3GXF), [Akil](https://open.spotify.com/artist/3BRur6P9nSyn8rG6yB5nqv) | [SANKARAS](https://open.spotify.com/album/7vkTPmRazSPgt6LWnCKM9m) | 2:28 |
 | 75 | [na minha vez o Pelé é branco](https://open.spotify.com/track/0ssSN4FkXBk5Q0G707BV2g) | [D$ Luqi](https://open.spotify.com/artist/3O5miUCibKGaTGEwJUpmdt), [prensativo](https://open.spotify.com/artist/70CkljMWwnrxE3lvHH9xa6) | [UOTOTOGOKA](https://open.spotify.com/album/40C3T5Bi4ejevhCibtbaVr) | 2:34 |
 
-Snapshot ID: `AAAAAD7RyTZk2neRxQ4MdXRaO5G90Iye`
+Snapshot ID: `AAAAAO7P/PR9tEvgT1nP506gizM5Vxnw`

@@ -2821,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "The Gauntlet",
+        "url": "https://open.spotify.com/album/0ZCGfrukq5jzMuymHqn9eb"
+      },
+      "artists": [
+        {
+          "name": "The UNSOLVED",
+          "url": "https://open.spotify.com/artist/2o8svnvt9r8DbgH2DHvtCO"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201808,
+      "name": "In The Red",
+      "url": "https://open.spotify.com/track/7hJfu7KZC5XuadNyHNejzF"
+    },
+    {
+      "album": {
         "name": "Independence",
         "url": "https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV"
       },
@@ -4436,6 +4454,24 @@
       "duration_ms": 228682,
       "name": "Queen of the Night",
       "url": "https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy"
+    },
+    {
+      "album": {
+        "name": "Disco Chulengo",
+        "url": "https://open.spotify.com/album/33rrbWOnJKy0pEDCQDbFDH"
+      },
+      "artists": [
+        {
+          "name": "Chulengos",
+          "url": "https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116351,
+      "name": "Quiero irme de aca",
+      "url": "https://open.spotify.com/track/76MovDHLzCfqKoPZRxLPWG"
     },
     {
       "album": {

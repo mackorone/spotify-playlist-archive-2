@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 151222,
+  "num_followers": 151240,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFyiCeZ5B1bzpgtvteTF6vepFZq8",
+  "snapshot_id": "AAAAADP5z+A5dcqjHSJlBfYdCNmaYGr9",
   "tracks": [
     {
       "added_at": "2025-12-23 12:24:26",
@@ -139,26 +139,6 @@
       "duration_ms": 135160,
       "name": "Music for the Royal Fireworks: Suite HWV 351: 4. La r\u00e9jouissance",
       "url": "https://open.spotify.com/track/2H8nKAoMk1B7yKrd0uppGb"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
-        "name": "Handel: Keyboard Suites, Vol. 2",
-        "url": "https://open.spotify.com/album/47vojU05repRCuFmKWGFDb"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Philip Edward Fisher",
-          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Keyboard Suite No. 5 in E Major, HWV 430: IV. Air mit 5 variationen \"Harmonious Blacksmith\"",
-      "url": "https://open.spotify.com/track/6WRlr8ukqcLu9J7AfWFuwg"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -507,6 +487,26 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
+        "name": "H\u00e4ndel: Water Works",
+        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Syr\u00e8ne Saxophone Quartet",
+          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
+        }
+      ],
+      "duration_ms": 64773,
+      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
+      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
         "name": "Baroque Duet",
         "url": "https://open.spotify.com/album/1Qhu4B7qy5Ut1E8iUSt2Qx"
       },
@@ -547,26 +547,6 @@
       "duration_ms": 332026,
       "name": "Let the Bright Seraphim (From \"Samson, HWV 57\")",
       "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
-        "name": "H\u00e4ndel: Water Works",
-        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Syr\u00e8ne Saxophone Quartet",
-          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
-        }
-      ],
-      "duration_ms": 64773,
-      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
-      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -903,8 +883,8 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
-        "name": "Handel: Music for the Royal Fireworks; Water Music Suites",
-        "url": "https://open.spotify.com/album/0W4OhMLKiSF0yACzBMjQ2c"
+        "name": "Handel: Water Music/Sonatas etc.",
+        "url": "https://open.spotify.com/album/6w9Qr87wGmjXMrNDWbKQuG"
       },
       "artists": [
         {
@@ -912,17 +892,17 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+          "name": "Yehudi Menuhin",
+          "url": "https://open.spotify.com/artist/32i0ni9RO8Q7T7T7ZqkGU2"
         },
         {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+          "name": "Bath Festival Orchestra",
+          "url": "https://open.spotify.com/artist/4bBd0RemSH7hG24W6kFWry"
         }
       ],
-      "duration_ms": 303933,
-      "name": "Water Music Suite No. 3 in G Major, HWV 350: Menuet & Trio",
-      "url": "https://open.spotify.com/track/1hk00nf0xFMmluArrik8vD"
+      "duration_ms": 121493,
+      "name": "Handel: Water Music, Suite No. 2 in D Major, HWV 349: III. Gigue",
+      "url": "https://open.spotify.com/track/38gibGVp2n7D0GQKoUTPRj"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -951,8 +931,8 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
-        "name": "Handel: Water Music/Sonatas etc.",
-        "url": "https://open.spotify.com/album/6w9Qr87wGmjXMrNDWbKQuG"
+        "name": "Handel: Music for the Royal Fireworks; Water Music Suites",
+        "url": "https://open.spotify.com/album/0W4OhMLKiSF0yACzBMjQ2c"
       },
       "artists": [
         {
@@ -960,17 +940,17 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Yehudi Menuhin",
-          "url": "https://open.spotify.com/artist/32i0ni9RO8Q7T7T7ZqkGU2"
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
         },
         {
-          "name": "Bath Festival Orchestra",
-          "url": "https://open.spotify.com/artist/4bBd0RemSH7hG24W6kFWry"
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
         }
       ],
-      "duration_ms": 121493,
-      "name": "Handel: Water Music, Suite No. 2 in D Major, HWV 349: III. Gigue",
-      "url": "https://open.spotify.com/track/38gibGVp2n7D0GQKoUTPRj"
+      "duration_ms": 303933,
+      "name": "Water Music Suite No. 3 in G Major, HWV 350: Menuet & Trio",
+      "url": "https://open.spotify.com/track/1hk00nf0xFMmluArrik8vD"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -1195,6 +1175,26 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
+        "name": "Handel: Water Music",
+        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Water Music, Suite No. 1, HWV 348: I. Overture: Largo - Allegro",
+      "url": "https://open.spotify.com/track/5qGrDJspH7rSB1OFmT6A2N"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
         "name": "In War & Peace - Harmony through Music",
         "url": "https://open.spotify.com/album/1TjvQpGgD9gaEQbUt5inKM"
       },
@@ -1219,26 +1219,6 @@
       "duration_ms": 332320,
       "name": "Handel: Rinaldo, HWV 7, Act 2: \"Lascia ch'io pianga\" (Almirena)",
       "url": "https://open.spotify.com/track/2Sbb5o2R6zci4L0xEQhsvK"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
-        "name": "Handel: Water Music",
-        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Akademie f\u00fcr Alte Musik Berlin",
-          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Water Music, Suite No. 1, HWV 348: I. Overture: Largo - Allegro",
-      "url": "https://open.spotify.com/track/5qGrDJspH7rSB1OFmT6A2N"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -1795,6 +1775,26 @@
       "duration_ms": 180133,
       "name": "Theodora, HWV 68, Act I Scene 5: Air. Angels, ever bright and fair (Theodora)",
       "url": "https://open.spotify.com/track/6fpILeounzhWhvHWgHxsMm"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
+        "name": "Handel: Keyboard Suites, Vol. 2",
+        "url": "https://open.spotify.com/album/47vojU05repRCuFmKWGFDb"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Keyboard Suite No. 5 in E Major, HWV 430: IV. Air mit 5 variationen \"Harmonious Blacksmith\"",
+      "url": "https://open.spotify.com/track/6WRlr8ukqcLu9J7AfWFuwg"
     },
     {
       "added_at": "2025-12-23 12:24:26",

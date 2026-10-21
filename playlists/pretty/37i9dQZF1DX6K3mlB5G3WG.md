@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Angelina Mango in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,324 likes - 102 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,323 likes - 102 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 35 | [Promise You](https://open.spotify.com/track/0v4MtRCfE9YrXUGYJL0nrQ) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Everything, Briefly](https://open.spotify.com/album/6GYAe3bD7bu5a5puqAlcFf) | 2:29 |
 | 36 | [Blood On The Dashboard](https://open.spotify.com/track/468JnwryoiMBLENXEBjyuG) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [IF HEAVEN EXISTS, THIS MIGHT BE IT](https://open.spotify.com/album/1otTTe6Reqgz4qWf5WTkAi) | 3:24 |
 | 37 | [OMG \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/31183C4ldHNA1d3lr9VBpB) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Mi Casa](https://open.spotify.com/album/4vqfsjZ6UQcc2VqI5hZP1z) | 3:19 |
-| 38 | [Generazione](https://open.spotify.com/track/1dmuq3HyDqxuROPUM2WZvZ) | [Mauro Repetto](https://open.spotify.com/artist/7g7CB94xoBHiFYEEjMpQZn) | [Generazione](https://open.spotify.com/album/73sSxoC5zxA9g3phVO1Zg9) | 3:07 |
+| 38 | [Generazione](https://open.spotify.com/track/1dmuq3HyDqxuROPUM2WZvZ) | [Mauro Repetto](https://open.spotify.com/artist/5B1i0nAYVcJ4eVeySmBqr2) | [Generazione](https://open.spotify.com/album/73sSxoC5zxA9g3phVO1Zg9) | 3:07 |
 | 39 | [Le foglie di te](https://open.spotify.com/track/4EymAJdlgiSYKfrUpDcc21) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH) | [AMATORE](https://open.spotify.com/album/32zzJ66UiCoydumDUcwVxH) | 3:09 |
 | 40 | [ok buonanotte](https://open.spotify.com/track/3D3tkwn0dPmNUg0R0o8qG7) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [ok buonanotte](https://open.spotify.com/album/5XcS6TmwOrLNWXGwIhJV51) | 2:37 |
 | 41 | [RUGGINE](https://open.spotify.com/track/7s0EwI1215gK05xfeTDo10) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [DELL'AMORE IL FALLIMENTO E ALTRI PASSI DI DANZA](https://open.spotify.com/album/48EV5xL9cb5a9fCZai2bGo) | 3:32 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 101 | [È asciuto 'o sole](https://open.spotify.com/track/4MjZvYctdbXIAXksyPzm7P) | [Madrid](https://open.spotify.com/artist/1NsjGgELroAZ4N5DzbMpa0) | [È asciuto 'o sole](https://open.spotify.com/album/6y3isAueice56DMpHWPBOI) | 2:14 |
 | 102 | [Draw You Out \- From The Hunger Games: Sunrise on the Reaping \- The Album](https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [The Hunger Games](https://open.spotify.com/artist/6UdECsev3yuXe2rfLrdDiF) | [Draw You Out](https://open.spotify.com/album/6AAZV1VyL6Y6HC4hbPg3Cr) | 4:15 |
 
-Snapshot ID: `AAAAAK8qNGvKfe6qY0zW77+cK6NavFhD`
+Snapshot ID: `AAAAACwFl3nsNGRRkAWc/LP9PLbCE2KI`

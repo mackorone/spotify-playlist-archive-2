@@ -1,12 +1,12 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 2569,
+  "num_followers": 2570,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADNm3zS0Cn4sP1j8OoTUPpLjK/8u",
+  "snapshot_id": "AAAAAEqJaXgcSOitO0rd2mN6PTlyDEHM",
   "tracks": [
     {
       "added_at": "2020-04-27 15:43:16",
@@ -551,26 +551,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Mejores Amigos",
-        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
+        "name": "La Casita de Patylu",
+        "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
       },
       "artists": [
         {
           "name": "Patylu",
           "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        },
-        {
-          "name": "Cepillin",
-          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
-        },
-        {
-          "name": "Chabelo",
-          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
         }
       ],
-      "duration_ms": 185640,
-      "name": "La Feria de Cepill\u00edn",
-      "url": "https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD"
+      "duration_ms": 234880,
+      "name": "La Bruja de Nueva York",
+      "url": "https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -639,18 +631,26 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "La Casita de Patylu",
-        "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
+        "name": "Mejores Amigos",
+        "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
       },
       "artists": [
         {
           "name": "Patylu",
           "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        },
+        {
+          "name": "Cepillin",
+          "url": "https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ"
+        },
+        {
+          "name": "Chabelo",
+          "url": "https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM"
         }
       ],
-      "duration_ms": 234880,
-      "name": "La Bruja de Nueva York",
-      "url": "https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr"
+      "duration_ms": 185640,
+      "name": "La Feria de Cepill\u00edn",
+      "url": "https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD"
     },
     {
       "added_at": "2020-04-27 15:43:16",

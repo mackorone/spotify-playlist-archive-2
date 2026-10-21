@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Kerser
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,910 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,911 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [777](https://open.spotify.com/track/6rbsQKoxEUBDwHorozW1GE) | [Ivan Ooze](https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel), [Kelvyn Colt](https://open.spotify.com/artist/3VV2TXkXYDYSUvtRRER3Wo) | [777](https://open.spotify.com/album/7ytU4GS3VjUGBuvY315lQN) | 3:15 |
 | 100 | [Figure It Out Pt\. 2](https://open.spotify.com/track/4t0WjbUt3DuM9lYfPvPBZt) | [JKER](https://open.spotify.com/artist/1xiqG6r14RglSrPNOBLUUw), [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X), [Krypsis](https://open.spotify.com/artist/6znlmp2DyDUPbri27Us7Ab) | [Game Over](https://open.spotify.com/album/506VK9Z11vLpZ1msS5ETu4) | 2:28 |
 
-Snapshot ID: `AAAAACK7LVnjJwK/WQCNsYp8PTDwZFFW`
+Snapshot ID: `AAAAAKtjIua92DDRea/F//eXAYDID7+/`

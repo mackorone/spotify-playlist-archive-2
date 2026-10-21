@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 900 likes - 46 songs - 2 hr 40 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 905 likes - 47 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 44 | [Hurricane](https://open.spotify.com/track/6VNJ3lVUQe1fxE0Xj0KHGq) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Hurricane](https://open.spotify.com/album/1PJK4bgT3KLWU3Knc1EiCz) | 5:13 |
 | 45 | [All That Glitters](https://open.spotify.com/track/0nbwTQWA3TxU9WzQE7uVwp) | [Jess & The Dropouts](https://open.spotify.com/artist/7CsN7EwwsGjyisVwjiSdKD) | [All That Glitters](https://open.spotify.com/album/4rcRbeJKS242AHZCCIwqbg) | 3:23 |
 | 46 | [Enough](https://open.spotify.com/track/58qcYoVSzf5Pvn2fGBiqaz) | [Eliza G](https://open.spotify.com/artist/5OABUFa0sKo2fj5sMCVAk4) | [Enough](https://open.spotify.com/album/25JEyZBFuByN6mJgvaGVe1) | 3:01 |
+| 47 | [Undignified](https://open.spotify.com/track/0ctBeZaxiKB4wLAhSRDtj6) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Undignified](https://open.spotify.com/album/0crFw9gXxbKoaykCmz9q7k) | 3:18 |
 
-Snapshot ID: `AAAEBs3TybHPFaI+DQh4E7d8nQNnwBv6`
+Snapshot ID: `AAAEB2nQxwR8JqOvHZ8uc3nwWBIYTJ94`

@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Mackeeper",
-  "num_followers": 120399,
+  "num_followers": 120436,
   "original_name": "Editors' Picks: Best Songs of September",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD30eQNixPKS80IC3q/j6JNLXZMu",
+  "snapshot_id": "AAAAAALjIIRFZg4NJq9uOUySOxJLPQjN",
   "tracks": [
     {
       "added_at": "2026-10-01 14:03:25",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "easy rider",
-        "url": "https://open.spotify.com/album/2gwi64eVUVuQddXfNcaFLH"
-      },
-      "artists": [
-        {
-          "name": "untitled (halo)",
-          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
-        }
-      ],
-      "duration_ms": 234218,
-      "name": "easy rider",
-      "url": "https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "My Forte",
         "url": "https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 151179,
       "name": "E.T.",
       "url": "https://open.spotify.com/track/5J4PcF9jlWVNlTkXy8Lxu1"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "easy rider",
+        "url": "https://open.spotify.com/album/2gwi64eVUVuQddXfNcaFLH"
+      },
+      "artists": [
+        {
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "duration_ms": 234218,
+      "name": "easy rider",
+      "url": "https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Product of Profit (P.O.P)",
-        "url": "https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 209801,
-      "name": "Product of Profit (P.O.P)",
-      "url": "https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "When We First Met",
         "url": "https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 112984,
       "name": "When We First Met",
       "url": "https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Product of Profit (P.O.P)",
+        "url": "https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "duration_ms": 209801,
+      "name": "Product of Profit (P.O.P)",
+      "url": "https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf"
     },
     {
       "added_at": "2026-10-01 14:03:25",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
+        "name": "Better Than Mine",
+        "url": "https://open.spotify.com/album/6Am91CfOO7VHDHArlb7HMu"
+      },
+      "artists": [
+        {
+          "name": "Deer park",
+          "url": "https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy"
+        },
+        {
+          "name": "Valeria Litvakov",
+          "url": "https://open.spotify.com/artist/3FBE2uYOyGl3z0QmAJNp4q"
+        }
+      ],
+      "duration_ms": 216021,
+      "name": "Better Than Mine",
+      "url": "https://open.spotify.com/track/4YR5OvWsJ8GsXwkmubdMFF"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
         "name": "I can fix him",
         "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
       },
@@ -1191,42 +1211,6 @@
     {
       "added_at": "2026-10-01 14:03:25",
       "album": {
-        "name": "Better Than Mine",
-        "url": "https://open.spotify.com/album/6Am91CfOO7VHDHArlb7HMu"
-      },
-      "artists": [
-        {
-          "name": "Deer park",
-          "url": "https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy"
-        },
-        {
-          "name": "Valeria Litvakov",
-          "url": "https://open.spotify.com/artist/3FBE2uYOyGl3z0QmAJNp4q"
-        }
-      ],
-      "duration_ms": 216021,
-      "name": "Better Than Mine",
-      "url": "https://open.spotify.com/track/4YR5OvWsJ8GsXwkmubdMFF"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
-        "name": "Get Out Of My Life",
-        "url": "https://open.spotify.com/album/0aCTOwf7uDiYTzGKnPQvVX"
-      },
-      "artists": [
-        {
-          "name": "June McDoom",
-          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Get Out Of My Life",
-      "url": "https://open.spotify.com/track/1gGAivV6WCU48CFxac8SUE"
-    },
-    {
-      "added_at": "2026-10-01 14:03:25",
-      "album": {
         "name": "Danseur",
         "url": "https://open.spotify.com/album/36VryG7BuShlfxD2l4cPVx"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 246000,
       "name": "Heaven (feat. Faris Badwan)",
       "url": "https://open.spotify.com/track/6WnvwvUlbkStbTBuQNGsKs"
+    },
+    {
+      "added_at": "2026-10-01 14:03:25",
+      "album": {
+        "name": "Get Out Of My Life",
+        "url": "https://open.spotify.com/album/0aCTOwf7uDiYTzGKnPQvVX"
+      },
+      "artists": [
+        {
+          "name": "June McDoom",
+          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Get Out Of My Life",
+      "url": "https://open.spotify.com/track/1gGAivV6WCU48CFxac8SUE"
     },
     {
       "added_at": "2026-10-01 14:03:25",

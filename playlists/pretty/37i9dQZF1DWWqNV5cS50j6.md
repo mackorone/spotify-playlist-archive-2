@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Mackeeper
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,254 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,274 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 74 | [aimee lou wood freestyle](https://open.spotify.com/track/58yUKDNZNeq2RpGvEfZZIX) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [aimee lou wood freestyle](https://open.spotify.com/album/4xCr9omMNO0OPk9w2n2g3C) | 2:39 |
 | 75 | [Cat Piss Junkie \- The Healing Power of Horses Both Have Flu Remix](https://open.spotify.com/track/0uj9ZPU7ugZQizFWQZOwoS) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG), [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [Cat Piss Junkie \(The Healing Power of Horses Both Have Flu Remix\)](https://open.spotify.com/album/3woR4VBx0EYaBudWMN9wOR) | 4:00 |
 
-Snapshot ID: `AAAAAIxQHqMJ/KIS8zL1Cji39g83S/OW`
+Snapshot ID: `AAAAAFIMRIWKvn/s5wK0e6t9l2dXnq2R`

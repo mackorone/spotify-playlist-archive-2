@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/2wKEplM0fJagFSsFAXGpnD?si=834c32c643624e2d">Love, Tumi</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj?si=00d069521ea54324">vuyo viwe</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,322 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,378 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Straight up](https://open.spotify.com/track/2wpEkn9Pb9Kw6kpzsywFLu) | [Love, Tumi](https://open.spotify.com/artist/2wKEplM0fJagFSsFAXGpnD), [tylerwrldwide](https://open.spotify.com/artist/5dnCOehLIFKY10S6MbtXKU) | [Straight up](https://open.spotify.com/album/4aupCAqI8biy26PFMcHx4S) | 2:00 |
-| 2 | [ameva](https://open.spotify.com/track/4kXp628ztFFmZ4fdt595PM) | [vuyo viwe](https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj) | [there are mirrors everywhere](https://open.spotify.com/album/1kESAdt1UaileXb6PFGsEY) | 5:49 |
+| 1 | [ameva](https://open.spotify.com/track/4kXp628ztFFmZ4fdt595PM) | [vuyo viwe](https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj) | [there are mirrors everywhere](https://open.spotify.com/album/1kESAdt1UaileXb6PFGsEY) | 5:49 |
+| 2 | [Straight up](https://open.spotify.com/track/2wpEkn9Pb9Kw6kpzsywFLu) | [Love, Tumi](https://open.spotify.com/artist/2wKEplM0fJagFSsFAXGpnD), [tylerwrldwide](https://open.spotify.com/artist/5dnCOehLIFKY10S6MbtXKU) | [Straight up](https://open.spotify.com/album/4aupCAqI8biy26PFMcHx4S) | 2:00 |
 | 3 | [I Quit \(9.2.5\)](https://open.spotify.com/track/0ZdDJRX0cFfknF3ajVxREQ) | [S'BO GYRE](https://open.spotify.com/artist/1E11hcWosnHT7Ib5YgpmOM), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf), [Audio Addicts](https://open.spotify.com/artist/1tjAECvMdhkOPNEPYCNZol) | [I Quit \(9.2.5\)](https://open.spotify.com/album/7ImfosCQdqSfq0bD742tpQ) | 3:32 |
 | 4 | [Kevin Bacon](https://open.spotify.com/track/4IfYKfLnlTFuNQKUBIRnnV) | [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6) | [Kevin Bacon](https://open.spotify.com/album/3pfxyDIm0KYeFpoRIqWLyY) | 2:30 |
 | 5 | [Colours](https://open.spotify.com/track/5gD66CA3zM0JzVnnH0E8o9) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt) | [SILK](https://open.spotify.com/album/3MFhVFS624uJf1jj9oTeLo) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Ingine Ama](https://open.spotify.com/track/0cWC0krHwSeX53BNGF4vt1) | [HOOD BOYZ](https://open.spotify.com/artist/1yONcOLoE5kSfTqTHmqrdR) | [Ingine Ama](https://open.spotify.com/album/1BryXhNuC0abK1AMltFLYs) | 2:30 |
 | 50 | [Chance](https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [ITEM VII](https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD) | 2:43 |
 
-Snapshot ID: `AAAAADCJEcK6OVzMWIn6jPBDomQqFygt`
+Snapshot ID: `AAAAAFERydxN3jtMiPtH56hwoHG2dOFD`

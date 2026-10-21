@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 49 | [Deep Breaths](https://open.spotify.com/track/2rqR1bvEAmLHCNWBvyDt0V) | [Lookas](https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG), [Cal](https://open.spotify.com/artist/0hsokEgVmrRVMeirBtwr9p) | [Deep Breaths](https://open.spotify.com/album/6y85XgHPCzPuVm9k5eIMCn) | 3:02 |
 | 50 | [Want For Nothing](https://open.spotify.com/track/62FoSy5jJ0m06S1uMIPhw1) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl) | 2:47 |
 | 51 | [Who I Am](https://open.spotify.com/track/4z3EmveE8ibhBVKBlZvmjp) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:22 |
-| 52 | [can i see you tonight?](https://open.spotify.com/track/1u7Z47bCx2id2bh8rKEcZg) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [can i see you tonight?](https://open.spotify.com/album/3oW5O2gtfj1BkdB6EiW5ew) | 1:57 |
-| 53 | [CRY WOLF](https://open.spotify.com/track/649sdeRNPf05BOLBj1mAM9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:41 |
+| 52 | [CRY WOLF](https://open.spotify.com/track/649sdeRNPf05BOLBj1mAM9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 2:41 |
+| 53 | [can i see you tonight?](https://open.spotify.com/track/1u7Z47bCx2id2bh8rKEcZg) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [can i see you tonight?](https://open.spotify.com/album/3oW5O2gtfj1BkdB6EiW5ew) | 1:57 |
 | 54 | [Swoon](https://open.spotify.com/track/1IIu1UD1LacE6RwgqyG0sv) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/7612v2NCnEexfvOHwK0Ttr) | 3:19 |
 | 55 | [Worse Things Than Love](https://open.spotify.com/track/1Dqi65YqYbsSLAICxwqmvZ) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i) | [Just For Fun \(Deluxe\)](https://open.spotify.com/album/28gqYvhSFXLr2VLCSsZHlY) | 3:19 |
 | 56 | [Are We There Yet](https://open.spotify.com/track/33uTIEzuFj4Kw4Az7LSbcJ) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Are We There Yet](https://open.spotify.com/album/7rqdHGGyOh6POmXlbCAhwn) | 3:30 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 184 | [Baby](https://open.spotify.com/track/5keMClWIr5PpsGeDi4QZKK) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [FX's "The Shards" Official Soundtrack](https://open.spotify.com/album/11QILsjLov7wkQYFYt6Uas) | 2:36 |
 | 185 | [Give You Love](https://open.spotify.com/track/2UO5W95ydfVo5AmCQNzVxJ) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Give You Love](https://open.spotify.com/album/4AhCVQ2AZkSQD7N3Mp3ksC) | 3:04 |
 
-Snapshot ID: `AcfZRAAAAAAGxNoEbkmY1+7c/0YtYy0S`
+Snapshot ID: `AcfevAAAAAAx5uQCgSQSdOqv4WYNS9bu`

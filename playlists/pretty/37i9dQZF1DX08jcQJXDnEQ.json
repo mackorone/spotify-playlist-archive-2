@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 1458221,
+  "num_followers": 1458459,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI10Q0v8w9wVJQ6zV7HCu5tNePmV",
+  "snapshot_id": "AAAAANU0jc3cbKemScnD+GUfJCAslxlI",
   "tracks": [
     {
       "added_at": "2025-11-24 12:45:57",
@@ -283,18 +283,18 @@
     {
       "added_at": "2025-11-24 12:45:57",
       "album": {
-        "name": "Reload",
-        "url": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 269800,
-      "name": "Fuel",
-      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ"
+      "duration_ms": 438120,
+      "name": "Fear of the Dark - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK"
     },
     {
       "added_at": "2025-11-24 12:45:57",
@@ -315,18 +315,18 @@
     {
       "added_at": "2025-11-24 12:45:57",
       "album": {
-        "name": "Fear of the Dark (2015 Remaster)",
-        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
       },
       "artists": [
         {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 438120,
-      "name": "Fear of the Dark - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK"
+      "duration_ms": 269800,
+      "name": "Fuel",
+      "url": "https://open.spotify.com/track/6FUwPb4mGlUDbx42uspXaZ"
     },
     {
       "added_at": "2025-11-24 12:45:57",

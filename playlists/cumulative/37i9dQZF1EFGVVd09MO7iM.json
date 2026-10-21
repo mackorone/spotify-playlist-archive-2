@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 306666,
       "name": "Bye, Bye Missy - Reissue",
       "url": "https://open.spotify.com/track/3zX7bUBHiG1VVmiiQEw7VJ"
@@ -5032,6 +5032,14 @@
         {
           "name": "Axwell /\\ Ingrosso",
           "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        },
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
         }
       ],
       "date_added": "2026-08-21",
@@ -8660,7 +8668,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 207184,
       "name": "Hot Thing (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3JxDy5oyoxfjDZQBcuQErB"
@@ -19492,7 +19500,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 203893,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/1Du8u7FPZT6IpKX6pjetwx"
@@ -20608,7 +20616,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 309706,
       "name": "What's Wrong With Me",
       "url": "https://open.spotify.com/track/6ySsYxvIUJgay1yCWqlouG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,679 likes - 100 songs - 15 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,737 likes - 100 songs - 15 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 99 | [Revelations 7 \- Live](https://open.spotify.com/track/2MiUaD8WJxxCWt30Q2FPYa) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [Abike Adesida](https://open.spotify.com/artist/2wIsKcvptr39PMISxnIy1s) | [Revelations 7 \(Live\)](https://open.spotify.com/album/6JJh5T65NZDCP5RGSTa9V2) | 12:36 |
 | 100 | [we gonna change the world \- Live at De Stanley Brothers Campus Tour](https://open.spotify.com/track/1wT4dgUWS2ZE6e5kuBHlal) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [The Message \(Live at De stanley Brothers Campus Tour\)](https://open.spotify.com/album/2gNOh25kMUnKpxfPg19rV8) | 8:08 |
 
-Snapshot ID: `AAAAAI6sMgbTXHyWrerbeFUxap+cFhZx`
+Snapshot ID: `AAAAAOn1cMkZjUuF18/0RN0rlhaxYN1/`

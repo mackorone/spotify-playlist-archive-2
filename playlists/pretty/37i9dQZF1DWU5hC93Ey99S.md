@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,631 likes - 200 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,838 likes - 200 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 199 | [Embrace](https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Embrace](https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ) | 4:20 |
 | 200 | [CAN'T FIND YOU](https://open.spotify.com/track/22u0wscY6rWbbr9M7Ezg4j) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [CAN'T FIND YOU](https://open.spotify.com/album/66oS6DryteXBVpmetDGPAi) | 3:35 |
 
-Snapshot ID: `AAAAANLfDjT+0BN/sKa5j+3OQO5xwQ6n`
+Snapshot ID: `AAAAAJVE/sVAwl4bf7wjPI0H+HNUX3m5`

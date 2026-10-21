@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 416677,
+  "num_followers": 416672,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALViKFjTyTz2lloM+5rbiGbd81Y2",
+  "snapshot_id": "AAAAAIH2ItH1HDwy3qnNFjvJOSfWkOdg",
   "tracks": [
     {
       "added_at": "2026-06-02 14:00:24",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 204039,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 320533,
       "name": "Cmon",
       "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 204039,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -695,6 +695,26 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Old Friend (feat. CLOVES)",
+        "url": "https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 174398,
+      "name": "Old Friend (feat. CLOVES)",
+      "url": "https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "Thandaza",
         "url": "https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD"
       },
@@ -731,6 +751,26 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "Blue Noir",
+          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
+        }
+      ],
+      "duration_ms": 230163,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "The Panorama Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J"
       },
@@ -743,26 +783,6 @@
       "duration_ms": 360299,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Old Friend (feat. CLOVES)",
-        "url": "https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 174398,
-      "name": "Old Friend (feat. CLOVES)",
-      "url": "https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -799,26 +819,6 @@
       "duration_ms": 131803,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/29JA4nu6U5FLsMpbmvNjHx"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt"
-      },
-      "artists": [
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "Blue Noir",
-          "url": "https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN"
-        }
-      ],
-      "duration_ms": 230163,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/1rJ5kUtKwthEjyI5UsbMUR"
-      },
-      "artists": [
-        {
-          "name": "RUSSI",
-          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/6AuzxL67lu8Jb7PxAjqocD"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/11aWEu6KUAzcjZND5KYbcN"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/1rJ5kUtKwthEjyI5UsbMUR"
+      },
+      "artists": [
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/6AuzxL67lu8Jb7PxAjqocD"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "Into Dust (Still Falling)",
         "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
       },
@@ -963,26 +963,6 @@
       "duration_ms": 333779,
       "name": "Into Dust (Still Falling)",
       "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Save My Soul",
-        "url": "https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Save My Soul",
-      "url": "https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1003,6 +983,26 @@
       "duration_ms": 239523,
       "name": "Flow Free",
       "url": "https://open.spotify.com/track/1AK271I7M3ZQmSulRg5EQ4"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
+        "name": "Save My Soul",
+        "url": "https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Save My Soul",
+      "url": "https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "State Of Mind",
-        "url": "https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        }
-      ],
-      "duration_ms": 279120,
-      "name": "State Of Mind",
-      "url": "https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/6i1Dtvr2JMEj0j2LWStl97"
       },
@@ -1163,18 +1143,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "STANDOUT",
-        "url": "https://open.spotify.com/album/7zrAaDBtgjDprzv1zXRtm4"
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg"
       },
       "artists": [
         {
-          "name": "RUSSI",
-          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
         }
       ],
-      "duration_ms": 135762,
-      "name": "FAR",
-      "url": "https://open.spotify.com/track/6gmSMIDB3CjwWxFwWQXy0v"
+      "duration_ms": 279120,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "STANDOUT",
+        "url": "https://open.spotify.com/album/7zrAaDBtgjDprzv1zXRtm4"
+      },
+      "artists": [
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        }
+      ],
+      "duration_ms": 135762,
+      "name": "FAR",
+      "url": "https://open.spotify.com/track/6gmSMIDB3CjwWxFwWQXy0v"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "Euro",
         "url": "https://open.spotify.com/album/1QYw5ZwARebwLY0WWNo2Px"
       },
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 205270,
+      "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
+      "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "Glad I Found You",
         "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 211191,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 205270,
-      "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
-      "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Purple Sun",
+        "url": "https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 241776,
+      "name": "Purple Sun",
+      "url": "https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "Another Touch (Deluxe)",
         "url": "https://open.spotify.com/album/7lMh1fjO5h4buXg2JxPIyD"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 293333,
       "name": "Floating",
       "url": "https://open.spotify.com/track/3joZa6YLg7MzLsh7rzXVH1"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Purple Sun",
-        "url": "https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 241776,
-      "name": "Purple Sun",
-      "url": "https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j"
     }
   ],
   "unique_name": "Just Chill",

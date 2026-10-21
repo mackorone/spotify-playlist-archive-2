@@ -1,13 +1,77 @@
 {
-  "description": "roots run deep with Flatland Cavalry",
-  "num_followers": 474777,
+  "description": "roots run deep with Sam Barber",
+  "num_followers": 474810,
   "original_name": "homegrown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEjDulaYKd4Oih1fPSLbxj32x1m3",
+  "snapshot_id": "AAAAACswkbtRdAH2MUW5AqU3t3JBknhc",
   "tracks": [
+    {
+      "added_at": "2026-10-16 04:00:42",
+      "album": {
+        "name": "Broken View",
+        "url": "https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 246562,
+      "name": "The More I Hope",
+      "url": "https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0"
+    },
+    {
+      "added_at": "2026-10-16 04:00:42",
+      "album": {
+        "name": "Family Ties (Sampler)",
+        "url": "https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
+    },
+    {
+      "added_at": "2026-10-16 04:00:42",
+      "album": {
+        "name": "Here Lies the Fool",
+        "url": "https://open.spotify.com/album/3JU7dOvlocukChNhrVrtnj"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 252208,
+      "name": "Here Lies the Fool",
+      "url": "https://open.spotify.com/track/0RvDQ5Kp6uI2IAhGZT2V3o"
+    },
+    {
+      "added_at": "2026-10-16 04:00:42",
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 156973,
+      "name": "Middle of Nowhere",
+      "url": "https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME"
+    },
     {
       "added_at": "2026-10-16 04:00:42",
       "album": {
@@ -23,6 +87,42 @@
       "duration_ms": 258005,
       "name": "You'll Get By",
       "url": "https://open.spotify.com/track/7lPkjiujKlBKiBpNm52lll"
+    },
+    {
+      "added_at": "2026-10-16 04:00:42",
+      "album": {
+        "name": "Madeline",
+        "url": "https://open.spotify.com/album/0CSkndwqaDGbN4LOs6Ws2a"
+      },
+      "artists": [
+        {
+          "name": "Sons of Habit",
+          "url": "https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Madeline",
+      "url": "https://open.spotify.com/track/7IW0YwaqaIJUTkCsayk4cs"
+    },
+    {
+      "added_at": "2026-10-16 04:00:42",
+      "album": {
+        "name": "Small Town Hypocrite",
+        "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 241899,
+      "name": "Small Town Hypocrite",
+      "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
     },
     {
       "added_at": "2026-10-16 04:00:42",
@@ -43,6 +143,38 @@
     {
       "added_at": "2026-10-16 04:00:42",
       "album": {
+        "name": "Days Are Numbered",
+        "url": "https://open.spotify.com/album/1iZGf5BKCxiWSnVNViocOt"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "duration_ms": 226465,
+      "name": "Days Are Numbered",
+      "url": "https://open.spotify.com/track/1W0sh93nzsMbuQHrSdjYpG"
+    },
+    {
+      "added_at": "2026-10-16 04:00:42",
+      "album": {
+        "name": "You're So Vain - Spotify Singles",
+        "url": "https://open.spotify.com/album/1kKcUBgm2zIAirXfgOGzml"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 288707,
+      "name": "You're So Vain - Spotify Singles",
+      "url": "https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ"
+    },
+    {
+      "added_at": "2026-10-16 04:00:42",
+      "album": {
         "name": "Ramblin'",
         "url": "https://open.spotify.com/album/2mLOKf5bL07b6un4DENa6U"
       },
@@ -59,18 +191,22 @@
     {
       "added_at": "2026-10-16 04:00:42",
       "album": {
-        "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb"
+        "name": "My Expense",
+        "url": "https://open.spotify.com/album/4HWNcfegPrg2vmIaxqK3KL"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        },
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
         }
       ],
-      "duration_ms": 156973,
-      "name": "Middle of Nowhere",
-      "url": "https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME"
+      "duration_ms": 221462,
+      "name": "My Expense",
+      "url": "https://open.spotify.com/track/6CI6UohMB7T9AbKPltin9i"
     },
     {
       "added_at": "2026-10-16 04:00:42",
@@ -187,22 +323,6 @@
     {
       "added_at": "2026-10-16 04:00:42",
       "album": {
-        "name": "You're So Vain - Spotify Singles",
-        "url": "https://open.spotify.com/album/1kKcUBgm2zIAirXfgOGzml"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 288707,
-      "name": "You're So Vain - Spotify Singles",
-      "url": "https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ"
-    },
-    {
-      "added_at": "2026-10-16 04:00:42",
-      "album": {
         "name": "The Mountain Goat",
         "url": "https://open.spotify.com/album/75Bd99WLCgvlqE6LLaRUVU"
       },
@@ -247,26 +367,6 @@
       "duration_ms": 194604,
       "name": "Coal",
       "url": "https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw"
-    },
-    {
-      "added_at": "2026-10-16 04:00:42",
-      "album": {
-        "name": "Small Town Hypocrite",
-        "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
-      },
-      "artists": [
-        {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 241899,
-      "name": "Small Town Hypocrite",
-      "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
     },
     {
       "added_at": "2026-10-16 04:00:42",
@@ -447,22 +547,6 @@
       "duration_ms": 223342,
       "name": "Cone Off",
       "url": "https://open.spotify.com/track/1zjTmD96KKxnolQ0tp0Y80"
-    },
-    {
-      "added_at": "2026-10-16 04:00:42",
-      "album": {
-        "name": "Broken View",
-        "url": "https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 246562,
-      "name": "The More I Hope",
-      "url": "https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0"
     },
     {
       "added_at": "2026-10-16 04:00:42",
@@ -775,6 +859,22 @@
       "duration_ms": 314623,
       "name": "Gary",
       "url": "https://open.spotify.com/track/5HMmz01XM5IYaGP0KSsDvQ"
+    },
+    {
+      "added_at": "2026-10-16 04:00:42",
+      "album": {
+        "name": "Excuse The Mess",
+        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Could've Been Her",
+      "url": "https://open.spotify.com/track/1I8EAskXPELoy0q3EkErsg"
     },
     {
       "added_at": "2026-10-16 04:00:42",
@@ -1155,22 +1255,6 @@
     {
       "added_at": "2026-10-16 04:00:42",
       "album": {
-        "name": "Days Are Numbered",
-        "url": "https://open.spotify.com/album/1iZGf5BKCxiWSnVNViocOt"
-      },
-      "artists": [
-        {
-          "name": "Vincent Mason",
-          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
-        }
-      ],
-      "duration_ms": 226465,
-      "name": "Days Are Numbered",
-      "url": "https://open.spotify.com/track/1W0sh93nzsMbuQHrSdjYpG"
-    },
-    {
-      "added_at": "2026-10-16 04:00:42",
-      "album": {
         "name": "Old Dirt Roads",
         "url": "https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU"
       },
@@ -1355,22 +1439,6 @@
       "duration_ms": 192480,
       "name": "Pretty Please",
       "url": "https://open.spotify.com/track/6c3VgJNIX3MKTJZ1J3v8aI"
-    },
-    {
-      "added_at": "2026-10-16 04:00:42",
-      "album": {
-        "name": "Better Year / Jersey Giant",
-        "url": "https://open.spotify.com/album/5y0pO2GUp0WxLpA2mlr199"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Better Year",
-      "url": "https://open.spotify.com/track/16Dak03vkp5lEuwIFFpeOm"
     },
     {
       "added_at": "2026-10-16 04:00:42",
@@ -1795,22 +1863,6 @@
     {
       "added_at": "2026-10-16 04:00:42",
       "album": {
-        "name": "Here Lies the Fool",
-        "url": "https://open.spotify.com/album/3JU7dOvlocukChNhrVrtnj"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 252208,
-      "name": "Here Lies the Fool",
-      "url": "https://open.spotify.com/track/0RvDQ5Kp6uI2IAhGZT2V3o"
-    },
-    {
-      "added_at": "2026-10-16 04:00:42",
-      "album": {
         "name": "Wishbone",
         "url": "https://open.spotify.com/album/5IOSRV5r2C8y46A5gnKJPn"
       },
@@ -1927,22 +1979,6 @@
       "duration_ms": 208266,
       "name": "Out of Oklahoma (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
-    },
-    {
-      "added_at": "2026-10-16 04:00:42",
-      "album": {
-        "name": "Family Ties (Sampler)",
-        "url": "https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
     },
     {
       "added_at": "2026-10-16 04:00:42",
@@ -2075,22 +2111,6 @@
       "duration_ms": 232797,
       "name": "White On The Ground",
       "url": "https://open.spotify.com/track/0AqIBucHKfKaqYKN5zMNy4"
-    },
-    {
-      "added_at": "2026-10-16 04:00:42",
-      "album": {
-        "name": "Madeline",
-        "url": "https://open.spotify.com/album/0CSkndwqaDGbN4LOs6Ws2a"
-      },
-      "artists": [
-        {
-          "name": "Sons of Habit",
-          "url": "https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Madeline",
-      "url": "https://open.spotify.com/track/7IW0YwaqaIJUTkCsayk4cs"
     },
     {
       "added_at": "2026-10-16 04:00:42",
@@ -2411,26 +2431,6 @@
       "duration_ms": 211058,
       "name": "Bootstraps",
       "url": "https://open.spotify.com/track/5dOhsb84eymtsGPWHskyXf"
-    },
-    {
-      "added_at": "2026-10-16 04:00:42",
-      "album": {
-        "name": "My Expense",
-        "url": "https://open.spotify.com/album/4HWNcfegPrg2vmIaxqK3KL"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        },
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 221462,
-      "name": "My Expense",
-      "url": "https://open.spotify.com/track/6CI6UohMB7T9AbKPltin9i"
     },
     {
       "added_at": "2026-10-16 04:00:42",
@@ -3095,22 +3095,6 @@
       "duration_ms": 190973,
       "name": "One Night Standards",
       "url": "https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4"
-    },
-    {
-      "added_at": "2026-10-16 04:00:42",
-      "album": {
-        "name": "Excuse The Mess",
-        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Could've Been Her",
-      "url": "https://open.spotify.com/track/1I8EAskXPELoy0q3EkErsg"
     },
     {
       "added_at": "2026-10-16 04:00:42",

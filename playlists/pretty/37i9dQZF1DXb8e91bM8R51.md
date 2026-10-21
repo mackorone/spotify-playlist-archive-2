@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,968 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,965 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 99 | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Carefree \(with Femdot & Mick Jenkins\)](https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t) | 4:01 |
 | 100 | [Because \(feat\. Joey Bada$$, Russ, and Dylan Cartlidge\)](https://open.spotify.com/track/7ulKIiSeTO1P4kY6vh7RhV) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Because \(feat\. Joey Bada$$, Russ, and Dylan Cartlidge\)](https://open.spotify.com/album/1L87V0tvYy44z5A0F8dyUr) | 4:41 |
 
-Snapshot ID: `AAAAAMn4AvJvCLEduDvSb5eRVV6D7grD`
+Snapshot ID: `AAAAAPw6MwYtqhPQJUxYrhwdhFCmq5V3`

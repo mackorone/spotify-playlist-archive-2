@@ -1,6 +1,6 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 146156,
+  "num_followers": 146172,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
-        "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 138432,
-      "name": "Cosas De La Clica (feat. Legado 7)",
-      "url": "https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moreno 80 (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 182000,
       "name": "Moreno 80",
       "url": "https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
+        "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 138432,
+      "name": "Cosas De La Clica (feat. Legado 7)",
+      "url": "https://open.spotify.com/track/15s1GfJ55mO4HBXTFa1DmB"
     },
     {
       "added_at": null,

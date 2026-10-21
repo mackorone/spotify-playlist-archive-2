@@ -632,7 +632,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 205560,
       "name": "03' Bonnie & Clyde",
       "url": "https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw"
@@ -3918,7 +3918,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 252093,
       "name": "A Dream",
       "url": "https://open.spotify.com/track/2bQ2a7b8WuWRY3mkqk1MB8"
@@ -18418,7 +18418,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 289400,
       "name": "Blueprint 2",
       "url": "https://open.spotify.com/track/5zkMLiZLve4jFLGyqoKFMt"
@@ -32688,7 +32688,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 235600,
       "name": "Diamonds Is Forever",
       "url": "https://open.spotify.com/track/2oUtpSUBtfjsEBzZofkNGr"
@@ -33504,7 +33504,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 245173,
       "name": "Dirt Off Your Shoulder",
       "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
@@ -74701,6 +74701,24 @@
     },
     {
       "album": {
+        "name": "\u963f\u4fdd \u525bKID\u4f5c\u54c1\u96c6\uff5eMy Merry May",
+        "url": "https://open.spotify.com/album/7pCXJROsUJfJbTYAGoPdTn"
+      },
+      "artists": [
+        {
+          "name": "\u963f\u4fdd\u3000\u525b",
+          "url": "https://open.spotify.com/artist/1tlGMYIC16uiS2OFSkvpGT"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103468,
+      "name": "LEASE",
+      "url": "https://open.spotify.com/track/7nA1pselza5GOlk2IVVjxw"
+    },
+    {
+      "album": {
         "name": "Takeshi Abo KID Collection\uff5eMy Merry May",
         "url": "https://open.spotify.com/album/4YRtRcjV41e3YaiFylzuY0"
       },
@@ -89063,6 +89081,28 @@
     },
     {
       "album": {
+        "name": "Tha Carter III (MTV Bonus Version)",
+        "url": "https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316266,
+      "name": "Mr. Carter",
+      "url": "https://open.spotify.com/track/1zigoX1Bxo39a9lIHPxFyR"
+    },
+    {
+      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -91578,7 +91618,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 237066,
       "name": "Never Change",
       "url": "https://open.spotify.com/track/1ygITaWckccPnbVE2nadrz"
@@ -92006,7 +92046,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 272853,
       "name": "New Day",
       "url": "https://open.spotify.com/track/0x367gcUm6nsEoMXXFfEMy"
@@ -115839,6 +115879,28 @@
     },
     {
       "album": {
+        "name": "She Will",
+        "url": "https://open.spotify.com/album/4v2wkI8xYxp0gTtSMwbRoj"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307360,
+      "name": "She Will",
+      "url": "https://open.spotify.com/track/0WPbCs75tnRVM1Wag5PLeW"
+    },
+    {
+      "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
@@ -121120,7 +121182,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 302360,
       "name": "Song Cry",
       "url": "https://open.spotify.com/track/4xHQTdD5oItTLv0rTjM5XN"
@@ -121239,7 +121301,7 @@
     },
     {
       "album": {
-        "name": "TV anime \u201cYurukyan\u25b3\u201doriginal sound track",
+        "name": "TV anime \"Yurukyan\u25b3\"original sound track",
         "url": "https://open.spotify.com/album/04fr3cTBvVOa3FQPtZQCyg"
       },
       "artists": [
@@ -128404,7 +128466,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 313106,
       "name": "Takeover",
       "url": "https://open.spotify.com/track/135lkyQRwFlWfmHjJTxtld"
@@ -133636,7 +133698,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 356000,
       "name": "The Watcher 2",
       "url": "https://open.spotify.com/track/23qpfRkkOK4IrbVxIHQQIC"
@@ -146336,7 +146398,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 295160,
       "name": "What More Can I Say",
       "url": "https://open.spotify.com/track/75JwFVMnX88ypgshWYBSYL"
@@ -148436,7 +148498,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 201373,
       "name": "Why I Love You",
       "url": "https://open.spotify.com/track/4lLmG1fatRUgnRz0Ol0WUi"
@@ -153353,7 +153415,7 @@
     },
     {
       "album": {
-        "name": "TV anime \u201cYurukyan\u25b3\u201doriginal sound track",
+        "name": "TV anime \"Yurukyan\u25b3\"original sound track",
         "url": "https://open.spotify.com/album/04fr3cTBvVOa3FQPtZQCyg"
       },
       "artists": [
@@ -155040,6 +155102,24 @@
       "duration_ms": 249560,
       "name": "\u305d\u306e\u58f0\u3092\u899a\u3048\u3066\u308b",
       "url": "https://open.spotify.com/track/3NgpxOhkaiCZziu33xS4xx"
+    },
+    {
+      "album": {
+        "name": "\u305d\u306e\u7740\u305b\u66ff\u3048\u4eba\u5f62\u306f\u604b\u3092\u3059\u308b Original Soundtrack VOL.1",
+        "url": "https://open.spotify.com/album/22WJ7yTFy5skROvKGWyddA"
+      },
+      "artists": [
+        {
+          "name": "Takeshi Nakatsuka",
+          "url": "https://open.spotify.com/artist/20NsQIQXOKSrclmLOeZLIF"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176213,
+      "name": "\u305d\u306e\u7740\u305b\u66ff\u3048\u4eba\u5f62\u306f\u604b\u3092\u3059\u308b",
+      "url": "https://open.spotify.com/track/2ZRKBJNk5Ue5IdyCTO42mG"
     },
     {
       "album": {

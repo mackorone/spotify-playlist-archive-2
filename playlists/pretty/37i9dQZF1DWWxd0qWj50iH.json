@@ -1,12 +1,12 @@
 {
   "description": "A softer space.",
-  "num_followers": 607667,
+  "num_followers": 607629,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFVZ6ll/P/0i1Kmzm231hs/p8ImX",
+  "snapshot_id": "AAAAAHc9KE7bEkhae8dvhNx+xiSt8mwI",
   "tracks": [
     {
       "added_at": "2024-10-10 15:49:38",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "every day is a game",
-        "url": "https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 249687,
-      "name": "every day is a game",
-      "url": "https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Total Life Forever",
         "url": "https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 409560,
       "name": "Spanish Sahara",
       "url": "https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "every day is a game",
+        "url": "https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 249687,
+      "name": "every day is a game",
+      "url": "https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 398783,
-      "name": "Posing For Cars",
-      "url": "https://open.spotify.com/track/525BSr4N8jG8MpWbFTd6A9"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Process",
         "url": "https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 218160,
       "name": "(No One Knows Me) Like the Piano",
       "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 398783,
+      "name": "Posing For Cars",
+      "url": "https://open.spotify.com/track/525BSr4N8jG8MpWbFTd6A9"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1039,22 +1039,6 @@
       "duration_ms": 328931,
       "name": "Son",
       "url": "https://open.spotify.com/track/3qyBGhzXPbHSHjmEIqHo8S"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
-        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
-      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1103,6 +1087,22 @@
       "duration_ms": 165320,
       "name": "my love mine all mine",
       "url": "https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
+        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
+      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1253,22 +1253,6 @@
       "url": "https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt"
     },
     {
-      "added_at": "2026-07-23 17:10:49",
-      "album": {
-        "name": "Not for Nothing",
-        "url": "https://open.spotify.com/album/6h7Q4NvBdCagiNOCSz6rjy"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 189290,
-      "name": "Not for Nothing",
-      "url": "https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Maybe I\u2019m Lonely",
@@ -1283,6 +1267,22 @@
       "duration_ms": 152141,
       "name": "Maybe I\u2019m Lonely",
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
+    },
+    {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "Not for Nothing",
+        "url": "https://open.spotify.com/album/6h7Q4NvBdCagiNOCSz6rjy"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 189290,
+      "name": "Not for Nothing",
+      "url": "https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL"
     },
     {
-      "added_at": "2026-07-23 17:10:49",
-      "album": {
-        "name": "The Clearing (B Sides)",
-        "url": "https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Gospel Oak",
-      "url": "https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81"
-    },
-    {
       "added_at": "2024-08-29 19:59:48",
       "album": {
         "name": "Oblivion",
@@ -1347,6 +1331,22 @@
       "duration_ms": 184571,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/0R39eXyJMfdAQZ3Eac3DQG"
+    },
+    {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "The Clearing (B Sides)",
+        "url": "https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Gospel Oak",
+      "url": "https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Wide Eyed",
-        "url": "https://open.spotify.com/album/7n6rB3pvqkFzXeyBOeBPEh"
-      },
-      "artists": [
-        {
-          "name": "Billy Lockett",
-          "url": "https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Wide Eyed",
-      "url": "https://open.spotify.com/track/6Nl8gY9HumJMQrC3qwtc3r"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Eyes On You",
         "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
       },
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Your Hero Is Not Dead",
-        "url": "https://open.spotify.com/album/45gjNMd3mAP0zyTQMOQdGk"
+        "name": "Wide Eyed",
+        "url": "https://open.spotify.com/album/7n6rB3pvqkFzXeyBOeBPEh"
       },
       "artists": [
         {
-          "name": "Westerman",
-          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+          "name": "Billy Lockett",
+          "url": "https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA"
         }
       ],
-      "duration_ms": 258265,
-      "name": "Confirmation (SSBD)",
-      "url": "https://open.spotify.com/track/0gcNTflElPYcxajA1LelYd"
+      "duration_ms": 162000,
+      "name": "Wide Eyed",
+      "url": "https://open.spotify.com/track/6Nl8gY9HumJMQrC3qwtc3r"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1427,6 +1411,22 @@
       "duration_ms": 202873,
       "name": "If Only",
       "url": "https://open.spotify.com/track/4EdAQ5rPO3X9NClqwhqsIt"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Your Hero Is Not Dead",
+        "url": "https://open.spotify.com/album/45gjNMd3mAP0zyTQMOQdGk"
+      },
+      "artists": [
+        {
+          "name": "Westerman",
+          "url": "https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA"
+        }
+      ],
+      "duration_ms": 258265,
+      "name": "Confirmation (SSBD)",
+      "url": "https://open.spotify.com/track/0gcNTflElPYcxajA1LelYd"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1461,24 +1461,20 @@
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
+      "added_at": "2024-10-10 23:35:59",
       "album": {
-        "name": "Unknown",
-        "url": "https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I"
+        "name": "Sure",
+        "url": "https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW"
       },
       "artists": [
         {
           "name": "Alice Auer",
           "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
-        },
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
         }
       ],
-      "duration_ms": 214419,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU"
+      "duration_ms": 248421,
+      "name": "Sure",
+      "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
     },
     {
       "added_at": "2024-10-10 23:35:59",
@@ -1545,20 +1541,24 @@
       "url": "https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
+      "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Sure",
-        "url": "https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW"
+        "name": "Unknown",
+        "url": "https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I"
       },
       "artists": [
         {
           "name": "Alice Auer",
           "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+        },
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
         }
       ],
-      "duration_ms": 248421,
-      "name": "Sure",
-      "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
+      "duration_ms": 214419,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU"
     },
     {
       "added_at": "2024-05-31 15:25:10",

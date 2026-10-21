@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-187 songs - 11 hr 2 min
+188 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alysson](https://open.spotify.com/track/6JzJlCcG0trCCaVoWLXNVs) | [Fox Nigon](https://open.spotify.com/artist/4fwvArBJAXzNDEcSIjKOOV) | [Alysson](https://open.spotify.com/album/6QIlsjou5qYaIyeQJIME12) | 3:22 | 2025-04-02 |  |
 | [Amor](https://open.spotify.com/track/1Mn7hZdap0N5ESelaN2iPr) | [Elisa Duwez](https://open.spotify.com/artist/5EAQWvhBAaT9VQTxCjSmIF) | [Amor](https://open.spotify.com/album/54AZRd8MI8X6zJmyIWdRq7) | 2:17 | 2025-03-06 |  |
 | [Aussie](https://open.spotify.com/track/1yjpVk2HISf8UvBq7r1q3r) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Aussie](https://open.spotify.com/album/6bhP9jHpZDXQMITfNeESZV) | 2:52 | 2025-10-29 | 2025-11-24 |
+| [Aşk ve Keder](https://open.spotify.com/track/02CSOE8JMplwQLUQhbKJpw) | [Cem Onur Seçkin](https://open.spotify.com/artist/4XtVem56Aic26h1rbAcOW6) | [Aşk ve Keder](https://open.spotify.com/album/5NAqsLZvNOkZDdalV15hbp) | 3:49 | 2026-10-20 |  |
 | [Back To You](https://open.spotify.com/track/2bUyDbeoNmLDqN4Csq6Lef) | [J.H.M](https://open.spotify.com/artist/54YZ5anLIELQDNrxiEKfqE), [Eleanor Collides](https://open.spotify.com/artist/25BX6Xni6D9YdDmS4UhK34) | [Back To You](https://open.spotify.com/album/5PrKJaLZfN1YjLQNRXDSIb) | 2:51 | 2024-03-08 | 2026-03-25 |
 | [Bad Mistake](https://open.spotify.com/track/7qCLGt5o3agKocYAjy5P4A) | [Kardang](https://open.spotify.com/artist/6fgcUT8lhFDwAJwbnAriiI) | [Bad Mistake](https://open.spotify.com/album/58XFhFrZTAdkozoWRvWvaU) | 4:05 | 2025-11-26 | 2026-02-02 |
 | [Badali Badala](https://open.spotify.com/track/0ZNdALVJvUZ7ciSdY7yHIP) | [Sebastian McQueen](https://open.spotify.com/artist/35DV0SZfNbQyrILm1UYHzP) | [Badali Badala](https://open.spotify.com/album/4EEH4F18GeyyBvHkEjOAIP) | 5:03 | 2025-11-23 | 2025-12-17 |

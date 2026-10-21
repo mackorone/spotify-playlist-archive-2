@@ -1,12 +1,12 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 728941,
+  "num_followers": 728905,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPf/yyQ20Ybs6mF+SEu4WahUXsfz",
+  "snapshot_id": "AAAAACGKliIchX15oCFKyXcBy6vWwz+7",
   "tracks": [
     {
       "added_at": "2026-04-16 23:00:42",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "Morning Matters",
         "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 246800,
       "name": "Morning Matters",
       "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
+      },
+      "artists": [
+        {
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
+        "name": "Head in a Jar",
+        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "Head in a Jar",
+      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
         "name": "Vibrations",
         "url": "https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 178373,
       "name": "I Get The Sweetest Feeling",
       "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
-        "name": "Head in a Jar",
-        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Head in a Jar",
-      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Hold of Me",
-        "url": "https://open.spotify.com/album/2DWEwljuTE9nyq1Z65aCsN"
-      },
-      "artists": [
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        }
-      ],
-      "duration_ms": 213555,
-      "name": "Hold of Me",
-      "url": "https://open.spotify.com/track/7KY1unDGI0vtiHlvgPUwn6"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "Inside Friend (feat. John Mayer)",
         "url": "https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 175432,
       "name": "Inside Friend (feat. John Mayer)",
       "url": "https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Hold of Me",
+        "url": "https://open.spotify.com/album/2DWEwljuTE9nyq1Z65aCsN"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "duration_ms": 213555,
+      "name": "Hold of Me",
+      "url": "https://open.spotify.com/track/7KY1unDGI0vtiHlvgPUwn6"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1159,38 +1159,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd"
-      },
-      "artists": [
-        {
-          "name": "JONES",
-          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
-        }
-      ],
-      "duration_ms": 191689,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
-        "name": "Anyone In Love",
-        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Anyone In Love",
-      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -1219,6 +1187,38 @@
       "duration_ms": 236933,
       "name": "June's Cry",
       "url": "https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Anyone In Love",
+        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Anyone In Love",
+      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "duration_ms": 191689,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA"
     },
     {
       "added_at": "2026-04-16 23:00:42",

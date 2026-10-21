@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Maluma x Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,331 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,341 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 49 | [Cuál Es La Necesidad](https://open.spotify.com/track/1eIJVAmYYui2VHcQ1cmwR2) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Cuál Es La Necesidad](https://open.spotify.com/album/5EumHLtbT0Jc90E3I8j0On) | 2:24 |
 | 50 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
 
-Snapshot ID: `AAAAANiARykWkbrlh4APRVbY6ETRo3yp`
+Snapshot ID: `AAAAAJ4oSMpxs7ddIa6WxKi0LrGJo1lT`

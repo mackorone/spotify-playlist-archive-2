@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Franz Keloh
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,604 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,605 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 33 | [rules](https://open.spotify.com/track/2BTRbcij5UNvQ8ATrWjGhY) | [Franz Keloh](https://open.spotify.com/artist/0QtshFoajFl0OOk8ZydKdO) | [rules](https://open.spotify.com/album/2m1l66J4HhwOgbnmcUP0AE) | 2:01 |
 | 34 | [Right Now](https://open.spotify.com/track/13ZDPX0CkpCH80uFkykwwQ) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Berger](https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg) | 2:06 |
 | 35 | [DISCONTINUÉ](https://open.spotify.com/track/3O6o8MajhlS4IcBISakc1b) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Peeda](https://open.spotify.com/artist/5ss8XbfkdgN1sTdgyPp6Ed) | [DISCONTINUÉ](https://open.spotify.com/album/683y6ASL2p9KrgLO8w6Brh) | 2:55 |
-| 36 | [SAY LESS](https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [SAY LESS](https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv) | 3:15 |
-| 37 | [Gangsta](https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 2:32 |
-| 38 | [Soul pleureur](https://open.spotify.com/track/1DKgD6CCYoDdmqvUsveE8X) | [Dubmatique](https://open.spotify.com/artist/4uIMmnG9v9BVqSJbwhieny) | [La force de comprendre](https://open.spotify.com/album/1UxOD6dIiK68AlaBJgEuve) | 3:56 |
+| 36 | [Gangsta](https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 2:32 |
+| 37 | [Soul pleureur](https://open.spotify.com/track/1DKgD6CCYoDdmqvUsveE8X) | [Dubmatique](https://open.spotify.com/artist/4uIMmnG9v9BVqSJbwhieny) | [La force de comprendre](https://open.spotify.com/album/1UxOD6dIiK68AlaBJgEuve) | 3:56 |
+| 38 | [SAY LESS](https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [SAY LESS](https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv) | 3:15 |
 | 39 | [SHAWTYFREAKABELLADANGER](https://open.spotify.com/track/5Z62mISXqKe332tZcJHRs6) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm), [Nicky Savage](https://open.spotify.com/artist/1yG7xAkT8v6Ora2dBdkrgq) | [SHAWTYFREAKABELLADANGER](https://open.spotify.com/album/3F2SQXNU6CiDrpaTr5eRhR) | 2:22 |
 | 40 | [What it is](https://open.spotify.com/track/4ndF3bioygqvtqy3RoxLoU) | [Vago](https://open.spotify.com/artist/7uy5FZOHPwE01q5QXpqZRe), [TRAPMAT SAVIOR](https://open.spotify.com/artist/5vaj4nUcjIF9Op1rFtebxV) | [What it is](https://open.spotify.com/album/35RGKZ9l3Bumsz7V0jmRtr) | 2:45 |
 | 41 | [PALE ANPIL](https://open.spotify.com/track/4pbCNhxu0FzJtb9y3GZD0f) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Peeda](https://open.spotify.com/artist/5ss8XbfkdgN1sTdgyPp6Ed) | [CANICULE](https://open.spotify.com/album/7n6T6Z5kmKUar9s5RFhSpa) | 3:47 |
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 51 | [Flash](https://open.spotify.com/track/3uARaNkhIsF8o85fRU9fHP) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Flash](https://open.spotify.com/album/3o54ejNNHmO9PpsduX1QdW) | 3:47 |
 | 52 | [Buzzé \- Hip\-Hop](https://open.spotify.com/track/0DerIoTW99VdoDKNDBIVsU) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [Buzzé Pack](https://open.spotify.com/album/3ifgCpBb6nVh76QEVGldnI) | 3:13 |
 | 53 | [AUCUN MENSONGE](https://open.spotify.com/track/0QPuNKfrHyAegpwbwamwPm) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [AUCUN MENSONGE](https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h) | 3:34 |
-| 54 | [Voyou, Désolé](https://open.spotify.com/track/5TlbOmf39KB8JdAYxpV7nv) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [PRINCE](https://open.spotify.com/album/6tr6JfKaflbbIvxCDSM7D4) | 2:47 |
+| 54 | [MTL's Finest](https://open.spotify.com/track/7fsflRNwxudWTk1EwTfVBE) | [Prosperito](https://open.spotify.com/artist/5J0EbiAtpSbBynEwqZtt9O), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [MTL's Finest](https://open.spotify.com/album/2NknQDDlQ80LEljVeCmiHj) | 2:21 |
 | 55 | [D'où je viens](https://open.spotify.com/track/3j7JNU1EoEVXAUKgbI0Pgu) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [D'où je viens](https://open.spotify.com/album/0iaZZ36QDxZdcEmRuDDkMi) | 2:43 |
 | 56 | [Shot Kalla](https://open.spotify.com/track/4hIZZSZx5PJQsiIUjhNTPR) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [GAMAN](https://open.spotify.com/album/2dNduGPJJ9GznAhKrtASEe) | 2:32 |
-| 57 | [MTL's Finest](https://open.spotify.com/track/7fsflRNwxudWTk1EwTfVBE) | [Prosperito](https://open.spotify.com/artist/5J0EbiAtpSbBynEwqZtt9O), [SeinsSucrer](https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [MTL's Finest](https://open.spotify.com/album/2NknQDDlQ80LEljVeCmiHj) | 2:21 |
+| 57 | [Voyou, Désolé](https://open.spotify.com/track/5TlbOmf39KB8JdAYxpV7nv) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [PRINCE](https://open.spotify.com/album/6tr6JfKaflbbIvxCDSM7D4) | 2:47 |
 | 58 | [Fascinant](https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Big Wop \- Mile\-End sur la map](https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS) | 3:30 |
 | 59 | [TOUT CE QU'ON FAIT](https://open.spotify.com/track/7CNZPOguLnd1qacee7x58V) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [AUCUN MENSONGE](https://open.spotify.com/album/1bdsdHScln4FQsbgx68S2h) | 2:48 |
 | 60 | [TOUT VA TROP VITE](https://open.spotify.com/track/0NNxX6ZYEhpxGs0QwtyOB2) | [Floraison Tardive](https://open.spotify.com/artist/22h02uNReoFoSiyLU56tHz) | [Radeau Capharnaüm](https://open.spotify.com/album/3Zt8ueRsn2X80guFi53ERf) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [SALTO](https://open.spotify.com/track/31muJWHYJD8MKayMFSoVAz) | [Woody](https://open.spotify.com/artist/1YhXudDeTVvPrnuHaXiUDy), [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [STAFF MEAL](https://open.spotify.com/album/7AN1bIeyDydPiD4IOsKOwj) | 2:03 |
 | 75 | [Danger](https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Danger](https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs) | 2:40 |
 
-Snapshot ID: `AAAAABgegscl9pnKDQW7+8brZupzYhZ1`
+Snapshot ID: `AAAAAMY+EtpqBJW5/xgYZOZhggk0ZERa`

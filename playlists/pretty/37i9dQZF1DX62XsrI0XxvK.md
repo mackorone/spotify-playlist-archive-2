@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Kaleb J
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,715 likes - 102 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,717 likes - 102 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 | 33 | [Best Lesson](https://open.spotify.com/track/37V2WeqMC54TPFa7d9PsfM) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 4:25 |
 | 34 | [Something On Your Mind](https://open.spotify.com/track/4d8mYo1J66ro1l0vk7YPJo) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI), [The Soul & Rollers](https://open.spotify.com/artist/0oOKNUtbLhBGyq7ALH6ZMu) | [Something on Your Mind](https://open.spotify.com/album/5DnLaYwlXBwFQfQaey3jZV) | 4:43 |
 | 35 | [Million Different Reasons](https://open.spotify.com/track/4fSBL5qHDh3a7RJYDgp4vM) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Million Different Reasons](https://open.spotify.com/album/07VTJyUPDDIEuTABhiFH5R) | 4:06 |
-| 36 | [Emotional](https://open.spotify.com/track/0iZr4VsajY8fcp1H5vCE2y) | [DANE](https://open.spotify.com/artist/5dPtZlg7D3XGCrmaGmqY63) | [Emotional](https://open.spotify.com/album/1t1cDTh8F0FGlwxPtPrgkA) | 3:23 |
+| 36 | [Emotional](https://open.spotify.com/track/0iZr4VsajY8fcp1H5vCE2y) | [DANÉ](https://open.spotify.com/artist/4WgvnRuIMupz13i6epF0YH) | [Emotional](https://open.spotify.com/album/1t1cDTh8F0FGlwxPtPrgkA) | 3:23 |
 | 37 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
 | 38 | [VITAMIN U](https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [VITAMIN U](https://open.spotify.com/album/0pO2flwlHFvDoyP0Ty0C1F) | 3:58 |
 | 39 | [SO ASU](https://open.spotify.com/track/56TRhAB4SqpRn5NdqHSAFy) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [SO ASU](https://open.spotify.com/album/00r0dUE6PBHPNVsBsddH7t) | 2:36 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 | 101 | [Kubuka Pintu](https://open.spotify.com/track/5PP3Qbc5yDA7zvg3MPjpQm) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Kubuka Pintu](https://open.spotify.com/album/5IchrfWDYZmoJEaZKlUAcM) | 3:53 |
 | 102 | [Lika & Liku](https://open.spotify.com/track/7bsAM9K5gI0eTqYOqVg0tq) | [Dzulfahmi](https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio), [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [Lika & Liku](https://open.spotify.com/album/7lOptYZ3jVvZ0mELGJJQ6v) | 2:21 |
 
-Snapshot ID: `AAAAALstCYXPgsugTTRpApaKn/5ddENP`
+Snapshot ID: `AAAAAFNni1T6l5MT7FtZIgFClsePZYuh`

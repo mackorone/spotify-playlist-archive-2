@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 
 > Punjabi aa gaye oye!
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,152 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,189 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 49 | [Holster](https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:07 |
 | 50 | [Gunda](https://open.spotify.com/track/16fuug2g2M9fJfThGHkXsV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [604Blizzy](https://open.spotify.com/artist/14e2TXNDt3rjiDqa0p8Wsj) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 3:14 |
 
-Snapshot ID: `AAAAABzTIaU2aq2mQtoOQaZ7QMYx6oNM`
+Snapshot ID: `AAAAAJKd1+lV67KqfToDo8jc5wDEm7VT`

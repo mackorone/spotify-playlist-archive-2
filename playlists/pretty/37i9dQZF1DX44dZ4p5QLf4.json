@@ -1,28 +1,144 @@
 {
   "description": "Hand-picked releases from the new wave in soul. Cover: Shamis",
-  "num_followers": 493576,
+  "num_followers": 493558,
   "original_name": "Soul Currents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACfYprN1QGQ+qlVqk2DVNG5rUyXA",
+  "snapshot_id": "AAAAADy4D58wY95dWuFdP3bk0YUCxqpb",
   "tracks": [
     {
-      "added_at": "2026-09-28 12:28:37",
+      "added_at": "2026-10-20 15:18:48",
       "album": {
-        "name": "Stop Signs / Stop Signs Pt. 2",
-        "url": "https://open.spotify.com/album/3tFd67koMuFUz6Hd97V6bn"
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/52P77NykjNvql68U08PVVc"
+      },
+      "artists": [
+        {
+          "name": "Kay Young",
+          "url": "https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK"
+        },
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        }
+      ],
+      "duration_ms": 120697,
+      "name": "No Doubt",
+      "url": "https://open.spotify.com/track/5lf3BFZdQEOq2JNoL9diLg"
+    },
+    {
+      "added_at": "2026-10-20 15:18:48",
+      "album": {
+        "name": "(Self) Therapy",
+        "url": "https://open.spotify.com/album/3opDWtbpgQFHKnmfmgxyrU"
+      },
+      "artists": [
+        {
+          "name": "Yas Mayou",
+          "url": "https://open.spotify.com/artist/23tleadB20w0exvWcMYROK"
+        }
+      ],
+      "duration_ms": 197198,
+      "name": "Check In",
+      "url": "https://open.spotify.com/track/4pietxRA7NhQXhgwhpNz2Q"
+    },
+    {
+      "added_at": "2026-10-20 15:18:48",
+      "album": {
+        "name": "OTHELLO",
+        "url": "https://open.spotify.com/album/29rKr796TYpcplFyDnynpN"
+      },
+      "artists": [
+        {
+          "name": "Orson Claeys",
+          "url": "https://open.spotify.com/artist/6STER3uvIa0CEBNDGWxfDu"
+        },
+        {
+          "name": "Helena Casella",
+          "url": "https://open.spotify.com/artist/0cRh1NWKBsNPYyUwc7DiYN"
+        }
+      ],
+      "duration_ms": 279546,
+      "name": "SPIRAL",
+      "url": "https://open.spotify.com/track/5PldTvq0Oqx2L8J0ROhlcD"
+    },
+    {
+      "added_at": "2026-10-20 15:18:48",
+      "album": {
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/6CK1vs9xJkebDayXu0aCdG"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        },
+        {
+          "name": "S\u00e4m Wilder",
+          "url": "https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B"
+        }
+      ],
+      "duration_ms": 173922,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/1bCeED0zVJb4r3l1hEtG6C"
+    },
+    {
+      "added_at": "2026-10-20 15:18:48",
+      "album": {
+        "name": "Before the Soil",
+        "url": "https://open.spotify.com/album/7BCDuRam2f6YiwZ67Juk9d"
+      },
+      "artists": [
+        {
+          "name": "Jessy Yasmeen",
+          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Fig Tree",
+      "url": "https://open.spotify.com/track/6n595JkeZdlV3Zim3b9I0W"
+    },
+    {
+      "added_at": "2026-10-20 15:18:48",
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/4A5ECy2mBjbss76oK8Cpa2"
       },
       "artists": [
         {
           "name": "Shamis",
           "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
+        },
+        {
+          "name": "King Hassan",
+          "url": "https://open.spotify.com/artist/2bzq5kcWzqZCD9NSPyDN1e"
         }
       ],
-      "duration_ms": 244705,
-      "name": "Stop Signs",
-      "url": "https://open.spotify.com/track/33DqDuY7zb0H1BLl9HXbnV"
+      "duration_ms": 207751,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/5KJOGfdJjiwYNaEGAqTOPo"
+    },
+    {
+      "added_at": "2026-10-20 15:18:48",
+      "album": {
+        "name": "Eyes On Us",
+        "url": "https://open.spotify.com/album/1WvPx3iKweoLPne95JKyMz"
+      },
+      "artists": [
+        {
+          "name": "IFULKI",
+          "url": "https://open.spotify.com/artist/5R4QEGd2PqiDdBQjcsaR0T"
+        }
+      ],
+      "duration_ms": 183762,
+      "name": "Eyes On Us",
+      "url": "https://open.spotify.com/track/4fpREBvPFKAuSqdp1pK9HJ"
     },
     {
       "added_at": "2026-09-28 12:28:37",
@@ -39,6 +155,54 @@
       "duration_ms": 175136,
       "name": "I Am Human",
       "url": "https://open.spotify.com/track/0pI9nSJdUDgpG7rwc7B4CE"
+    },
+    {
+      "added_at": "2026-10-20 15:18:48",
+      "album": {
+        "name": "Summer Interlude",
+        "url": "https://open.spotify.com/album/7D3WwYXTIblhkNxZHLIBhI"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "duration_ms": 116136,
+      "name": "Summer Interlude",
+      "url": "https://open.spotify.com/track/7fqmdAlM5NZwml9LQbPXlo"
+    },
+    {
+      "added_at": "2026-10-20 15:18:48",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/3qCOUaXCTrQO1clDhqV39C"
+      },
+      "artists": [
+        {
+          "name": "Mara Mandeau",
+          "url": "https://open.spotify.com/artist/2mpPr7r7njJQ7bC66bghCp"
+        }
+      ],
+      "duration_ms": 176976,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/0s3Czbu8IxpmIgmKe3GGBE"
+    },
+    {
+      "added_at": "2026-09-28 12:28:37",
+      "album": {
+        "name": "Stop Signs / Stop Signs Pt. 2",
+        "url": "https://open.spotify.com/album/3tFd67koMuFUz6Hd97V6bn"
+      },
+      "artists": [
+        {
+          "name": "Shamis",
+          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
+        }
+      ],
+      "duration_ms": 244705,
+      "name": "Stop Signs",
+      "url": "https://open.spotify.com/track/33DqDuY7zb0H1BLl9HXbnV"
     },
     {
       "added_at": "2026-09-28 12:28:37",
@@ -71,22 +235,6 @@
       "duration_ms": 164826,
       "name": "Better Late Than Never",
       "url": "https://open.spotify.com/track/6P2k5UJMqRgYN3CMg7Kk2O"
-    },
-    {
-      "added_at": "2026-09-28 12:28:37",
-      "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/11tQN3KPZuvxU5qNw8lW5j"
-      },
-      "artists": [
-        {
-          "name": "Yann Gaudeuille",
-          "url": "https://open.spotify.com/artist/0gDrEtUaZkv4vOhMdojwkM"
-        }
-      ],
-      "duration_ms": 221853,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/3g6HDrKtRE84t76PyaHFdV"
     },
     {
       "added_at": "2026-09-28 12:28:37",
@@ -127,6 +275,38 @@
     {
       "added_at": "2026-09-28 12:28:37",
       "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2OBeqEMIFo2oqwwa2JxCI5"
+      },
+      "artists": [
+        {
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+        }
+      ],
+      "duration_ms": 139974,
+      "name": "stupid",
+      "url": "https://open.spotify.com/track/54bMZHRBLp5fEVFMVSYWj0"
+    },
+    {
+      "added_at": "2026-09-28 12:28:37",
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/11tQN3KPZuvxU5qNw8lW5j"
+      },
+      "artists": [
+        {
+          "name": "Yann Gaudeuille",
+          "url": "https://open.spotify.com/artist/0gDrEtUaZkv4vOhMdojwkM"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/3g6HDrKtRE84t76PyaHFdV"
+    },
+    {
+      "added_at": "2026-09-28 12:28:37",
+      "album": {
         "name": "Forsaken Soul",
         "url": "https://open.spotify.com/album/3iRiaNoU3uokCM2HalNHMR"
       },
@@ -155,22 +335,6 @@
       "duration_ms": 145822,
       "name": "Feel At Home",
       "url": "https://open.spotify.com/track/4RZHzZtfExcjFAqgFtwwrZ"
-    },
-    {
-      "added_at": "2026-09-28 12:28:37",
-      "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2OBeqEMIFo2oqwwa2JxCI5"
-      },
-      "artists": [
-        {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
-        }
-      ],
-      "duration_ms": 139974,
-      "name": "stupid",
-      "url": "https://open.spotify.com/track/54bMZHRBLp5fEVFMVSYWj0"
     },
     {
       "added_at": "2026-09-28 12:28:37",
@@ -807,22 +971,6 @@
     {
       "added_at": "2026-09-28 12:28:37",
       "album": {
-        "name": "Pour Some More",
-        "url": "https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF"
-      },
-      "artists": [
-        {
-          "name": "Yas Mayou",
-          "url": "https://open.spotify.com/artist/23tleadB20w0exvWcMYROK"
-        }
-      ],
-      "duration_ms": 207455,
-      "name": "Pour Some More",
-      "url": "https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a"
-    },
-    {
-      "added_at": "2026-09-28 12:28:37",
-      "album": {
         "name": "wHIMSY!",
         "url": "https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF"
       },
@@ -1115,30 +1263,6 @@
     {
       "added_at": "2026-09-28 12:28:37",
       "album": {
-        "name": "Helicopters",
-        "url": "https://open.spotify.com/album/53IVWLHnBwJ6KwpOAc5NRX"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        },
-        {
-          "name": "War Child Records",
-          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
-        }
-      ],
-      "duration_ms": 238086,
-      "name": "Helicopters",
-      "url": "https://open.spotify.com/track/2ofMsovltZ6Nn6wQz1ZphY"
-    },
-    {
-      "added_at": "2026-09-28 12:28:37",
-      "album": {
         "name": "Feeling Blue",
         "url": "https://open.spotify.com/album/4SBXfE0Szlqg6nUO19tzzH"
       },
@@ -1299,26 +1423,6 @@
     {
       "added_at": "2026-09-28 12:28:37",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/5E0vnfYJ8WJIFjEqwjettq"
-      },
-      "artists": [
-        {
-          "name": "Felix Hien",
-          "url": "https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ"
-        },
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        }
-      ],
-      "duration_ms": 156469,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/5V4iJ01jVGVokqy7mrwSoH"
-    },
-    {
-      "added_at": "2026-09-28 12:28:37",
-      "album": {
         "name": "BEAUTIFUL DAY",
         "url": "https://open.spotify.com/album/2CRjF7mOcgW1WRPMNMXAye"
       },
@@ -1335,118 +1439,6 @@
       "duration_ms": 120000,
       "name": "BEAUTIFUL DAY",
       "url": "https://open.spotify.com/track/3BytHPrP6HolL4qFikBs0y"
-    },
-    {
-      "added_at": "2026-09-28 12:28:37",
-      "album": {
-        "name": "Starbase 17",
-        "url": "https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg"
-      },
-      "artists": [
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        },
-        {
-          "name": "Audrey Powne",
-          "url": "https://open.spotify.com/artist/7haSdjsYwJxGe9suoweTLm"
-        },
-        {
-          "name": "Karizma",
-          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
-        }
-      ],
-      "duration_ms": 234782,
-      "name": "Oceans Apart",
-      "url": "https://open.spotify.com/track/1MZQt3aRLpGd9kn2otzxPX"
-    },
-    {
-      "added_at": "2026-09-28 12:28:37",
-      "album": {
-        "name": "ijan",
-        "url": "https://open.spotify.com/album/46w2hjL3YXuL9BYMRoo5p1"
-      },
-      "artists": [
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "somewhere in the world",
-      "url": "https://open.spotify.com/track/3HnnRFYdAqC6lRQZx07fxu"
-    },
-    {
-      "added_at": "2026-09-28 12:28:37",
-      "album": {
-        "name": "Rich",
-        "url": "https://open.spotify.com/album/7aNfY3tTMBkw8A7uK6tfNE"
-      },
-      "artists": [
-        {
-          "name": "Tera K\u00f2r\u00e1",
-          "url": "https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR"
-        },
-        {
-          "name": "abrahamblue",
-          "url": "https://open.spotify.com/artist/2TzrsJxlKAgMqEY2dSPJ9g"
-        },
-        {
-          "name": "Le Modo",
-          "url": "https://open.spotify.com/artist/5e717AzUl7w8jTjKyUY0om"
-        }
-      ],
-      "duration_ms": 173543,
-      "name": "Rich",
-      "url": "https://open.spotify.com/track/6XdUQ6ipN5btwCWzA1AvC2"
-    },
-    {
-      "added_at": "2026-09-28 12:28:37",
-      "album": {
-        "name": "Lookalike",
-        "url": "https://open.spotify.com/album/1nxcTYjiHn0tK3SYImIdOr"
-      },
-      "artists": [
-        {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Lookalike",
-      "url": "https://open.spotify.com/track/1MSSCIOpcASLtHvb2idZIo"
-    },
-    {
-      "added_at": "2026-09-28 12:28:37",
-      "album": {
-        "name": "IPA",
-        "url": "https://open.spotify.com/album/4Od6dfiIfhFaw6Ln4SxMbk"
-      },
-      "artists": [
-        {
-          "name": "Richard Cejer",
-          "url": "https://open.spotify.com/artist/2s1dVWuPyOdBkHOFU59v14"
-        }
-      ],
-      "duration_ms": 147550,
-      "name": "IPA",
-      "url": "https://open.spotify.com/track/57O6haKhVDNYS1nTnBdWbP"
-    },
-    {
-      "added_at": "2026-09-28 12:28:37",
-      "album": {
-        "name": "White Flag",
-        "url": "https://open.spotify.com/album/4I3eWUXAc2jS6a3ZiORnRn"
-      },
-      "artists": [
-        {
-          "name": "Lee Lewis",
-          "url": "https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D"
-        }
-      ],
-      "duration_ms": 196510,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/15ogUxj5nlIwXqq6h54fiH"
     }
   ],
   "unique_name": "Soul Currents",

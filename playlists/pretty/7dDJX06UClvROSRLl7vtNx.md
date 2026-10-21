@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 139,044 likes - 233 songs - 10 hr 2 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 139,067 likes - 233 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 64 | [Azizam](https://open.spotify.com/track/1lIT2ZiOQetROcnkCRK4pf) | [merchant](https://open.spotify.com/artist/0UEupuqVP2mpTTyf6wcOBY), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Azizam](https://open.spotify.com/album/0dCOv6UquuE3j5zmOXU1pe) | 2:11 |
 | 65 | [Call Me Home](https://open.spotify.com/track/1GcOaRhclyvvNadm56JljT) | [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Call Me Home](https://open.spotify.com/album/00eDUlgVbb8pR2xAhiD3V0) | 2:19 |
 | 66 | [All Night Long](https://open.spotify.com/track/13f0GBOFl1T983icdPRNIm) | [Palmero](https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn) | [All Night Long](https://open.spotify.com/album/00yjI7EzUOUCTQ8lVxUBoV) | 2:16 |
-| 67 | [Coastline](https://open.spotify.com/track/7Msp6y4kUqFjMNfnBxQty8) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Pherick](https://open.spotify.com/artist/261bs46BCFyBXzTUz9RPJe) | [Coastline](https://open.spotify.com/album/30dwOHMsQ1Lw2CHHiQufEj) | 2:06 |
-| 68 | [Till Sunrise](https://open.spotify.com/track/7KeDvpAYTm9lEwOT3DhU4H) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Felipe Allenn](https://open.spotify.com/artist/3ApsbRT5vKW3VaNcUlDy6D) | [Till Sunrise](https://open.spotify.com/album/3xCmLx8v2W27v47pMl2btL) | 2:41 |
-| 69 | [Sun Goes Down](https://open.spotify.com/track/1DxnGf4wQZG9Fe1J7bgSrH) | [VIS](https://open.spotify.com/artist/1Ntxpk3QGrN1J5eEOl4Ygg) | [Sun Goes Down](https://open.spotify.com/album/2qWy7g7QcOYpGb57arJhid) | 2:30 |
-| 70 | [Give It All](https://open.spotify.com/track/3pxrEQZGZcpXGJPEuWbzz2) | [ENVOL](https://open.spotify.com/artist/5h8U1AIYA23J6XR0mgNOD4) | [Give It All](https://open.spotify.com/album/06zxRlneQjU3xzhyb5MZkC) | 2:38 |
-| 71 | [Stuck In the Middle With You](https://open.spotify.com/track/0bxwR4TqpmJ1JcUqol2zqq) | [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7), [Menza](https://open.spotify.com/artist/1He0fcv3xRjliYzR7I84q7) | [Stuck In the Middle With You](https://open.spotify.com/album/0PLIdJ4iqYLko96i2BJIjK) | 2:54 |
-| 72 | [Let You Go](https://open.spotify.com/track/2V1MTi3oNO28dpeWxdaSjK) | [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ), [Erlando](https://open.spotify.com/artist/5cuIDrzlgb5jGwLlRWYnAc) | [Let You Go](https://open.spotify.com/album/2jQpXm8Q7wuZVu2tNxyWwF) | 2:19 |
+| 67 | [One Dance](https://open.spotify.com/track/2qMho8I1la1uEpnKOis48i) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [One Dance](https://open.spotify.com/album/6DUIWaRTb21GYS0DnAnGCY) | 3:22 |
+| 68 | [Coastline](https://open.spotify.com/track/7Msp6y4kUqFjMNfnBxQty8) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Pherick](https://open.spotify.com/artist/261bs46BCFyBXzTUz9RPJe) | [Coastline](https://open.spotify.com/album/30dwOHMsQ1Lw2CHHiQufEj) | 2:06 |
+| 69 | [Till Sunrise](https://open.spotify.com/track/7KeDvpAYTm9lEwOT3DhU4H) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Felipe Allenn](https://open.spotify.com/artist/3ApsbRT5vKW3VaNcUlDy6D) | [Till Sunrise](https://open.spotify.com/album/3xCmLx8v2W27v47pMl2btL) | 2:41 |
+| 70 | [Sun Goes Down](https://open.spotify.com/track/1DxnGf4wQZG9Fe1J7bgSrH) | [VIS](https://open.spotify.com/artist/1Ntxpk3QGrN1J5eEOl4Ygg) | [Sun Goes Down](https://open.spotify.com/album/2qWy7g7QcOYpGb57arJhid) | 2:30 |
+| 71 | [Give It All](https://open.spotify.com/track/3pxrEQZGZcpXGJPEuWbzz2) | [ENVOL](https://open.spotify.com/artist/5h8U1AIYA23J6XR0mgNOD4) | [Give It All](https://open.spotify.com/album/06zxRlneQjU3xzhyb5MZkC) | 2:38 |
+| 72 | [Stuck In the Middle With You](https://open.spotify.com/track/0bxwR4TqpmJ1JcUqol2zqq) | [Edwardo Atlas](https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7), [Menza](https://open.spotify.com/artist/1He0fcv3xRjliYzR7I84q7) | [Stuck In the Middle With You](https://open.spotify.com/album/0PLIdJ4iqYLko96i2BJIjK) | 2:54 |
 | 73 | [Golden Ticket \(runaway\)](https://open.spotify.com/track/0RZ5f33yE6l3L8RWIDvnyG) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [Golden Ticket \(runaway\)](https://open.spotify.com/album/3PW6pJ9KoAiLyJUBu9ZueA) | 3:11 |
 | 74 | [By My Side](https://open.spotify.com/track/49Qmjs7GYOybza7EZkmrBq) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [By My Side](https://open.spotify.com/album/0UFU8wcEipyW4lQJWRm35h) | 3:01 |
 | 75 | [Underwater](https://open.spotify.com/track/3Y8rEea0MlM2jnWaW3Wthp) | [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [Underwater](https://open.spotify.com/album/5Gc3mQ76l2GkaUPm30uAsH) | 2:12 |
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 232 | [Chills](https://open.spotify.com/track/7mCz5ly2yn5HEzc34IgUQG) | [Second Sun](https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS) | [Chills](https://open.spotify.com/album/5lckTaYHovHJdMHPKLp766) | 2:51 |
 | 233 | [Don't Forget \(About Me\)](https://open.spotify.com/track/7mIwqQouqiZVRYa0b13RLK) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Don't Forget \(About Me\)](https://open.spotify.com/album/30bKA6XdH6Fa5ghF1O29uc) | 2:51 |
 
-Snapshot ID: `AABWv0ql7g6C+gcRZsLNTGIFrSTNzLmR`
+Snapshot ID: `AABWwrkCJqADlE/1L70+jeDFFBL2WrBJ`

@@ -1,44 +1,148 @@
 {
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:6K3fUTZW103do4Y5mdHYw5\">agataishername</a>",
-  "num_followers": 31885,
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:0mU3KNJmSgtwHH6D6UHs2V\">Kacper Garncarz</a>",
+  "num_followers": 31892,
   "original_name": "Fresh Finds Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFcrfoZz3yvg58vib1l5KFwOItPv",
+  "snapshot_id": "AAAAAFi4I6dSy4Nji0Fg+ySbfegGF3L3",
   "tracks": [
     {
-      "added_at": "2026-10-13 22:00:23",
+      "added_at": "2026-10-20 22:00:14",
       "album": {
-        "name": "to nienormalne",
-        "url": "https://open.spotify.com/album/7bWoU9fTwTno0fnUKNJSsk"
+        "name": "takie nietypowe",
+        "url": "https://open.spotify.com/album/6VTzBjGC3Te2Jb0l8H54Ny"
       },
       "artists": [
         {
-          "name": "agataishername",
-          "url": "https://open.spotify.com/artist/6K3fUTZW103do4Y5mdHYw5"
+          "name": "Kacper Garncarz",
+          "url": "https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V"
         }
       ],
-      "duration_ms": 190153,
-      "name": "to nienormalne",
-      "url": "https://open.spotify.com/track/3XzUoBuFSVnkbxh0lCsdia"
+      "duration_ms": 224000,
+      "name": "takie nietypowe",
+      "url": "https://open.spotify.com/track/3wjeTOJ5Fdd54q8ruEm9t9"
     },
     {
-      "added_at": "2026-10-13 22:00:23",
+      "added_at": "2026-10-20 22:00:14",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/6QXs245ackdtqIr2ygkvrr"
+        "name": "czy to minie?",
+        "url": "https://open.spotify.com/album/2dnKLpXWBhsLuXkbZmyxtO"
       },
       "artists": [
         {
-          "name": "Latte",
-          "url": "https://open.spotify.com/artist/7B58D2UpaoF1Z3Y57maFxA"
+          "name": "igausagi",
+          "url": "https://open.spotify.com/artist/3LcJx7xLH2uw8RtrAnEriI"
+        },
+        {
+          "name": "betiszewc",
+          "url": "https://open.spotify.com/artist/2763j618exIFjOi6dV9DRk"
         }
       ],
-      "duration_ms": 213741,
-      "name": "23",
-      "url": "https://open.spotify.com/track/2BZpU2VNzSCvn1Ye3hj7CY"
+      "duration_ms": 244363,
+      "name": "czy to minie?",
+      "url": "https://open.spotify.com/track/0jW1CjII1TrO1uxtqLScm0"
+    },
+    {
+      "added_at": "2026-10-20 22:00:14",
+      "album": {
+        "name": "Jednym z tych ch\u0142opc\u00f3w",
+        "url": "https://open.spotify.com/album/59WrGwzelRpG3w6QCt9RHB"
+      },
+      "artists": [
+        {
+          "name": "Jerzy Koczur",
+          "url": "https://open.spotify.com/artist/1Y5FAU8ociSgGzRsfdPzLb"
+        }
+      ],
+      "duration_ms": 223130,
+      "name": "Jednym z tych ch\u0142opc\u00f3w",
+      "url": "https://open.spotify.com/track/4QNJPXNkOMwJ4M9FP4k14K"
+    },
+    {
+      "added_at": "2026-10-20 22:00:14",
+      "album": {
+        "name": "To nie tak",
+        "url": "https://open.spotify.com/album/6AC7K1bEaY2905wzsHSPOt"
+      },
+      "artists": [
+        {
+          "name": "Matt Wysota",
+          "url": "https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "To nie tak",
+      "url": "https://open.spotify.com/track/4D5OfBgY4MeaAzYyEADgud"
+    },
+    {
+      "added_at": "2026-10-20 22:00:14",
+      "album": {
+        "name": "What used to be",
+        "url": "https://open.spotify.com/album/2F9M2bsJULO6TN7vRdxhC7"
+      },
+      "artists": [
+        {
+          "name": "\u017bY\u0143Y",
+          "url": "https://open.spotify.com/artist/54zBQHvlW5wxOAhWVPVMlY"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "What used to be",
+      "url": "https://open.spotify.com/track/22uQ5GaBCfVIDQRgjLMffp"
+    },
+    {
+      "added_at": "2026-10-20 22:00:14",
+      "album": {
+        "name": "Listopad",
+        "url": "https://open.spotify.com/album/2oPGJqr0pWaAtWMtzGuHaG"
+      },
+      "artists": [
+        {
+          "name": "KORDYLAS",
+          "url": "https://open.spotify.com/artist/0KNCeQP9HsDlLa1bS0Ln9y"
+        }
+      ],
+      "duration_ms": 286511,
+      "name": "Listopad",
+      "url": "https://open.spotify.com/track/3bsimttVgGsnbPpBXz3J9I"
+    },
+    {
+      "added_at": "2026-10-20 22:00:14",
+      "album": {
+        "name": "otul\u0119",
+        "url": "https://open.spotify.com/album/2UC1c1H4yJk42z5ThNotFR"
+      },
+      "artists": [
+        {
+          "name": "damazy",
+          "url": "https://open.spotify.com/artist/05xJeZx7e7PTnIjroXe5OS"
+        }
+      ],
+      "duration_ms": 181008,
+      "name": "otul\u0119",
+      "url": "https://open.spotify.com/track/0TUu1V36iycUOG8yGoVg5e"
+    },
+    {
+      "added_at": "2026-10-20 22:00:14",
+      "album": {
+        "name": "Pod pr\u0105d",
+        "url": "https://open.spotify.com/album/1D6tr6vbHMm7BBcbyzhqnW"
+      },
+      "artists": [
+        {
+          "name": "Kasoil",
+          "url": "https://open.spotify.com/artist/6irQVvdoIUnHCFUQWBnMRK"
+        },
+        {
+          "name": "Ajzeja",
+          "url": "https://open.spotify.com/artist/2BIjch36SUB18OSL65fIYS"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Pod pr\u0105d",
+      "url": "https://open.spotify.com/track/5ibk27ZtPIAw47iXLbgcDM"
     },
     {
       "added_at": "2026-10-13 22:00:23",
@@ -59,6 +163,70 @@
       "duration_ms": 233966,
       "name": "No i co teraz",
       "url": "https://open.spotify.com/track/7hIhzCfDxWly0XcLeA2MkZ"
+    },
+    {
+      "added_at": "2026-10-13 22:00:23",
+      "album": {
+        "name": "to nienormalne",
+        "url": "https://open.spotify.com/album/7bWoU9fTwTno0fnUKNJSsk"
+      },
+      "artists": [
+        {
+          "name": "agataishername",
+          "url": "https://open.spotify.com/artist/6K3fUTZW103do4Y5mdHYw5"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "to nienormalne",
+      "url": "https://open.spotify.com/track/3XzUoBuFSVnkbxh0lCsdia"
+    },
+    {
+      "added_at": "2026-10-13 22:00:23",
+      "album": {
+        "name": "ZRYW",
+        "url": "https://open.spotify.com/album/26zItuxOXzD6S6C106vhuD"
+      },
+      "artists": [
+        {
+          "name": "Kuba Deka",
+          "url": "https://open.spotify.com/artist/2KbQqkw5Va1x3wE4PYdym7"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "ZRYW",
+      "url": "https://open.spotify.com/track/30t5eGevg8GBBXZYmctBLp"
+    },
+    {
+      "added_at": "2026-10-13 22:00:23",
+      "album": {
+        "name": "Nie wiem",
+        "url": "https://open.spotify.com/album/5pCRnOaMyl8IXlDWRVYOHH"
+      },
+      "artists": [
+        {
+          "name": "Basia B\u0142aszczyk",
+          "url": "https://open.spotify.com/artist/3igmtwKOleaM8OFqG6f7XR"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Nie wiem",
+      "url": "https://open.spotify.com/track/5zudn7I1rCATK4FljBuSW3"
+    },
+    {
+      "added_at": "2026-10-13 22:00:23",
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/6QXs245ackdtqIr2ygkvrr"
+      },
+      "artists": [
+        {
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/7B58D2UpaoF1Z3Y57maFxA"
+        }
+      ],
+      "duration_ms": 213741,
+      "name": "23",
+      "url": "https://open.spotify.com/track/2BZpU2VNzSCvn1Ye3hj7CY"
     },
     {
       "added_at": "2026-10-13 22:00:23",
@@ -207,38 +375,6 @@
       "duration_ms": 177375,
       "name": "LASTDAYS",
       "url": "https://open.spotify.com/track/7qeSBpGkbrcCCYJUNdQ4yQ"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "ZRYW",
-        "url": "https://open.spotify.com/album/26zItuxOXzD6S6C106vhuD"
-      },
-      "artists": [
-        {
-          "name": "Kuba Deka",
-          "url": "https://open.spotify.com/artist/2KbQqkw5Va1x3wE4PYdym7"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "ZRYW",
-      "url": "https://open.spotify.com/track/30t5eGevg8GBBXZYmctBLp"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "Nie wiem",
-        "url": "https://open.spotify.com/album/5pCRnOaMyl8IXlDWRVYOHH"
-      },
-      "artists": [
-        {
-          "name": "Basia B\u0142aszczyk",
-          "url": "https://open.spotify.com/artist/3igmtwKOleaM8OFqG6f7XR"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Nie wiem",
-      "url": "https://open.spotify.com/track/5zudn7I1rCATK4FljBuSW3"
     },
     {
       "added_at": "2026-10-13 22:00:23",
@@ -591,22 +727,6 @@
     {
       "added_at": "2026-10-13 22:00:23",
       "album": {
-        "name": "martwy pkt",
-        "url": "https://open.spotify.com/album/716KqzX632UCSLGy3fiZv5"
-      },
-      "artists": [
-        {
-          "name": "Kacper Garncarz",
-          "url": "https://open.spotify.com/artist/0mU3KNJmSgtwHH6D6UHs2V"
-        }
-      ],
-      "duration_ms": 186267,
-      "name": "martwy pkt",
-      "url": "https://open.spotify.com/track/1v7hCGGpA3LEjJXWGVSqt5"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
         "name": "Sentymental",
         "url": "https://open.spotify.com/album/7l6wWWYZA6ke25pMNpNWfB"
       },
@@ -687,74 +807,6 @@
     {
       "added_at": "2026-10-13 22:00:23",
       "album": {
-        "name": "Malta",
-        "url": "https://open.spotify.com/album/6U3PbYDXVjhz5yxfTEfRzW"
-      },
-      "artists": [
-        {
-          "name": "TOM PIGMENT",
-          "url": "https://open.spotify.com/artist/2Y0XnClqugqbVaHhgZIu3x"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Malta",
-      "url": "https://open.spotify.com/track/1yiIxGo07LNfxUvYbVAePg"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "B\u0119dziemy si\u0119 z tego \u015bmia\u0107",
-        "url": "https://open.spotify.com/album/2P5cyH871t97Jy8OsLtpYH"
-      },
-      "artists": [
-        {
-          "name": "Szymon Norkowski",
-          "url": "https://open.spotify.com/artist/3QNaRulfMHtPrj5QDAGGoS"
-        },
-        {
-          "name": "Jerzy Koczur",
-          "url": "https://open.spotify.com/artist/1Y5FAU8ociSgGzRsfdPzLb"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "B\u0119dziemy si\u0119 z tego \u015bmia\u0107",
-      "url": "https://open.spotify.com/track/208pXvC2UcIeaIAPpdJlKL"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "taki zwyk\u0142y dzie\u0144",
-        "url": "https://open.spotify.com/album/727fvp3c7O0ikBOZwv9115"
-      },
-      "artists": [
-        {
-          "name": "Morgan Morrison",
-          "url": "https://open.spotify.com/artist/2zOaxQrkHE4FGO1Vs0oyjL"
-        }
-      ],
-      "duration_ms": 240136,
-      "name": "taki zwyk\u0142y dzie\u0144",
-      "url": "https://open.spotify.com/track/6KC95IZDSK7Ao83VvyGWLS"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "Szk\u0142a kontaktowe",
-        "url": "https://open.spotify.com/album/4KhuJT2mjRRe410vaqihdj"
-      },
-      "artists": [
-        {
-          "name": "MeryMaks",
-          "url": "https://open.spotify.com/artist/6Ktj597K5DEKDYyJv38nkI"
-        }
-      ],
-      "duration_ms": 251832,
-      "name": "Szk\u0142a kontaktowe",
-      "url": "https://open.spotify.com/track/3Cf7BS4425uFLGRPiq27w3"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
         "name": "LUSTRO",
         "url": "https://open.spotify.com/album/7ARNLxczq7g5TrRQ10TEFE"
       },
@@ -783,54 +835,6 @@
       "duration_ms": 143414,
       "name": "o ksi\u0119\u017cycu",
       "url": "https://open.spotify.com/track/79L2plP4MRzcInx74KvKC3"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "Another",
-        "url": "https://open.spotify.com/album/7exz8DU8SsKiGQcJqYUDMr"
-      },
-      "artists": [
-        {
-          "name": "Pola",
-          "url": "https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa"
-        }
-      ],
-      "duration_ms": 101610,
-      "name": "Another",
-      "url": "https://open.spotify.com/track/5kAR1u54YGZM55Q8XVSRKi"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "Numero Uno",
-        "url": "https://open.spotify.com/album/681VXJGK3dBnTSkvvLZgTz"
-      },
-      "artists": [
-        {
-          "name": "KORDYLAS",
-          "url": "https://open.spotify.com/artist/0KNCeQP9HsDlLa1bS0Ln9y"
-        }
-      ],
-      "duration_ms": 254748,
-      "name": "Numero Uno",
-      "url": "https://open.spotify.com/track/36yAo70c3mngZxSeGDvdLl"
-    },
-    {
-      "added_at": "2026-10-13 22:00:23",
-      "album": {
-        "name": "Powiedz prosz\u0119",
-        "url": "https://open.spotify.com/album/6B9LnC9e8kUYwTXMUmDNYn"
-      },
-      "artists": [
-        {
-          "name": "Maja Janowska",
-          "url": "https://open.spotify.com/artist/5D4KYrXugbyFJf27b0PqH5"
-        }
-      ],
-      "duration_ms": 175939,
-      "name": "Powiedz prosz\u0119",
-      "url": "https://open.spotify.com/track/0LTspCaFwEtZqpJMnSdPqQ"
     }
   ],
   "unique_name": "Fresh Finds Polska",

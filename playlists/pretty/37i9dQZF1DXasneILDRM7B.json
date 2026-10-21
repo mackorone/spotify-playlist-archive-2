@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems. Cover: blink-182",
-  "num_followers": 2993970,
+  "num_followers": 2993876,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHpnzQK6Qh2+8m0hxFSF90CB9uqY",
+  "snapshot_id": "AAAAAB2gLka0MVIuz4UVetNP7E0nCyBt",
   "tracks": [
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "All Killer No Filler",
-        "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 206986,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/3u7EIgAlwNQtxkM4bOA7uI"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "Box Car Racer",
         "url": "https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 196600,
       "name": "There Is",
       "url": "https://open.spotify.com/track/3oQggzwBp8hqUwgoUcb3wJ"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "All Killer No Filler",
+        "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 206986,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/3u7EIgAlwNQtxkM4bOA7uI"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "All Killer No Filler",
-        "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 178320,
-      "name": "Fat Lip",
-      "url": "https://open.spotify.com/track/3tWudnj1NK7YUfnR91nezW"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "fever",
         "url": "https://open.spotify.com/album/4MwOuqjdK7OP1xaRPo83xT"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 197209,
       "name": "weapon",
       "url": "https://open.spotify.com/track/5z0QlOV93W6Yo7DG2SYOJP"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "All Killer No Filler",
+        "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 178320,
+      "name": "Fat Lip",
+      "url": "https://open.spotify.com/track/3tWudnj1NK7YUfnR91nezW"
     },
     {
       "added_at": "2023-02-10 16:26:23",

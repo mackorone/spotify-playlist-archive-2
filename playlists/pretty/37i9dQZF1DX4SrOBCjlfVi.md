@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Gucci Mane, A$AP Rocky, LUCKI and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,706 likes - 55 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,758 likes - 55 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 54 | [GET ME THERE](https://open.spotify.com/track/3QucsGB4Umvcx3kcs8e06F) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [BOYZ 2 MEN](https://open.spotify.com/album/68lzGFiPKROxiJsOHQt1S4) | 1:38 |
 | 55 | [World On Rock](https://open.spotify.com/track/7GBTFrqU3xlUsGxLo3aRsG) | [ffawty](https://open.spotify.com/artist/6rYO569C4mZHQUP7Q2oiDN) | [WORLD ON ROCK](https://open.spotify.com/album/7bPzQ4I7gEpsvfDteSn1H5) | 2:42 |
 
-Snapshot ID: `AAAAAPRlmuExbhVATE63FH58bau+Q6fm`
+Snapshot ID: `AAAAABeS5AlhiILpjTgaaHXxPV/DVhbh`

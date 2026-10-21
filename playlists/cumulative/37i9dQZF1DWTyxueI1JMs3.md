@@ -4,7 +4,7 @@
 
 > Music from “A3!”, Japan’s top anime style mobile games.©Liber Entertainment Inc\. All Rights Reserved.
 
-69 songs - 4 hr 40 min
+70 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [CROSS LINES](https://open.spotify.com/track/324VYrR88xs3T3Q3f57rhY) | [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt) | [A3! SUNNY WINTER EP](https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP) | 3:46 | 2024-07-10 |  |
 | [Crystal Love](https://open.spotify.com/track/39HA9kGdf6mgfFnMTqQAmn) | [FUYNEÉ](https://open.spotify.com/artist/5rCn4KYg9DFHpdMHdNEQtI) | [A3! PLEASANT WINTER EP](https://open.spotify.com/album/5ljXgQntRaX3hI7RlnnUQ4) | 3:40 | 2026-08-25 |  |
 | [Dawn of the Red](https://open.spotify.com/track/6uncdkL9OHRJFkMHZlImOP) | [大地\[七尾太一\(CV:濱 健人\)\]](https://open.spotify.com/artist/2lu0CEcFahsyYEdFL7mQ1n), [千里\[摂津万里\(CV:沢城千春\)\]](https://open.spotify.com/artist/1hDJMEX7HjYh3cn3zYVtQj) | [A3! INNOCENT AUTUMN EP](https://open.spotify.com/album/3gtNgqIqrLgvrRCmcIzUOq) | 4:25 | 2024-08-27 | 2025-04-23 |
+| [DEFRAGMENTATION](https://open.spotify.com/track/4mPn0OtOaLpiC5GGoZhmbM) | [ガイ\(CV:日野聡\)](https://open.spotify.com/artist/7EZcJktHiIdBdcpL6sNOTc) | [A3! VIVID WINTER EP](https://open.spotify.com/album/5kbcl1xM717EyFyXNiFhb5) | 4:01 | 2026-08-25 |  |
 | [Don't cry…](https://open.spotify.com/track/3fapJRiDGKeBOyzTy3nmFz) | [Michael \[Tsukioka Tsumugi \(CV: Atsushi Tamaru\)\]](https://open.spotify.com/artist/3WyTjFvzdEmAhFUn8pU0eJ), [Raphael \[Takato Tasuku \(CV: Takuya Sato\)\]](https://open.spotify.com/artist/0dbQzMn6up4woD5xtWExoW) | [A3! First WINTER EP](https://open.spotify.com/album/4oahcbvpn3vLFvp97Xk8lH) | 5:17 | 2024-07-10 | 2026-10-03 |
 | [esの憂鬱](https://open.spotify.com/track/1FELFRU0UWyem6p9xEcfEX) | [鷺島亨\[有栖川誉\(CV:豊永利行\)\]](https://open.spotify.com/artist/6KUXrqZJx2hsBa6T9TWjl9), [東条志岐\[御影密\(CV:寺島惇太\)\]](https://open.spotify.com/artist/04kIVzlU7nSGxFpppMCVEe) | [A3! Blooming WINTER EP](https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT) | 3:47 | 2024-07-10 |  |
 | [From Season to Season!](https://open.spotify.com/track/5bXMG4pZsJHnV49Q5lm91U) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv), [KICS](https://open.spotify.com/artist/2mIL6foP0C2WznBB5Mtgyf) | [From Season to Season!](https://open.spotify.com/album/6WK2gUgSo7OnwESNlOBYGP) | 3:50 | 2024-07-10 | 2025-04-23 |
@@ -47,7 +48,7 @@
 | [The Pride Of The Knights](https://open.spotify.com/track/6sOEAU7CXh3UkTrh8T6xx4) | [ランスロット\[茅ヶ崎至\(CV:浅沼晋太郎\)\]](https://open.spotify.com/artist/0geAtmre359jUVwss0ULdT), [ガウェイン\[卯木千景\(CV:羽多野渉\)\]](https://open.spotify.com/artist/0ZfTMW0bcID5P59q9uGXvX) | [A3! VIVID SPRING EP](https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC) | 5:45 | 2025-04-22 | 2026-10-20 |
 | [Third Impact](https://open.spotify.com/track/2u0jlZh5L0FCEDXK7CaHHb) | [秋組](https://open.spotify.com/artist/3PbIyfeqZWJx0GNsU9wrgX) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 4:00 | 2025-04-22 | 2026-08-26 |
 | [Ticket](https://open.spotify.com/track/1Yfm2ZNCEXlscOapvW7dvq) | [春組](https://open.spotify.com/artist/7iRNvnpkgbo91eiIabx1aJ) | [A3! ACT4! \-Spring\-](https://open.spotify.com/album/4QHVUfCjUPWB0KmylHDreo) | 3:58 | 2024-07-10 | 2025-04-23 |
-| [Ticket](https://open.spotify.com/track/4JKyqlViFlkDyQ95Br8EGM) | [春組](https://open.spotify.com/artist/7iRNvnpkgbo91eiIabx1aJ) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 3:58 | 2025-04-22 |  |
+| [Ticket](https://open.spotify.com/track/4JKyqlViFlkDyQ95Br8EGM) | [春組](https://open.spotify.com/artist/7iRNvnpkgbo91eiIabx1aJ) | [A3! NEW BLOOMING](https://open.spotify.com/album/39v9H4Lc7AGWjkN4PXqOZ0) | 3:58 | 2025-04-22 | 2026-10-21 |
 | [to bloom…](https://open.spotify.com/track/2p4YKA6IGbSKxyXJZ8jFV3) | [冬組](https://open.spotify.com/artist/22TokuezpjqIqb51lUUjah), [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt), [雪白東\(CV:柿原徹也\)](https://open.spotify.com/artist/5jOsh9ZDyWonTu56jdXrlp), [有栖川誉\(CV:豊永利行\)](https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo), [御影密\(CV:寺島惇太\)](https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn), [高遠丞\(CV:佐藤拓也\)](https://open.spotify.com/artist/3gYjY17THD6OTumZ38dwQr) | [A3! First WINTER EP](https://open.spotify.com/album/4oahcbvpn3vLFvp97Xk8lH) | 3:57 | 2024-07-10 |  |
 | [UNMASK](https://open.spotify.com/track/0CxxlKX5LEiMCWAoeaWOmY) | [クリス\[月岡紬\(CV:田丸篤志\)\]](https://open.spotify.com/artist/0qlkTWpx1ivSasGIPeEsD5), [ファントム\[ガイ\(CV:日野聡\)\]](https://open.spotify.com/artist/48WdEWBpzmX5LEMulJobvm) | [A3! VIVID WINTER EP](https://open.spotify.com/album/5kbcl1xM717EyFyXNiFhb5) | 5:02 | 2024-07-10 |  |
 | [You & Me](https://open.spotify.com/track/5HPfeOwPQQQISwB4i9kA0P) | [ロミオ\[佐久間咲也\(CV:酒井広大\)\]](https://open.spotify.com/artist/5YJQGxsCPe8sk9josxunAZ), [ジュリアス\[碓氷真澄\(CV:白井悠介\)\]](https://open.spotify.com/artist/6mSbP2I9NQLb2b27KvPzuX) | [A3! ACT4! \-Spring\-](https://open.spotify.com/album/4QHVUfCjUPWB0KmylHDreo) | 4:55 | 2024-07-10 | 2025-04-23 |

@@ -1,12 +1,12 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Maria Beth\u00e2nia",
-  "num_followers": 1473581,
+  "num_followers": 1473593,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAon3TDSXmvBsZyYukZrxk8KgR+R",
+  "snapshot_id": "AAAAAH9kM+QXJwU2mTKXbRqcuPE7PpD6",
   "tracks": [
     {
       "added_at": "2026-10-19 15:54:39",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-10-19 15:54:39",
       "album": {
+        "name": "Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
+      },
+      "artists": [
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "Encontro",
+      "url": "https://open.spotify.com/track/4THhSMVKTUASFp9N3mYlVU"
+    },
+    {
+      "added_at": "2026-10-19 15:54:39",
+      "album": {
         "name": "Amigos Novos e Antigos",
         "url": "https://open.spotify.com/album/1fR9eyUb98QHYIiB5Wz4ms"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 276013,
       "name": "Amigos Novos e Antigos",
       "url": "https://open.spotify.com/track/4lfemtNyGfHygcrF5C2tg4"
-    },
-    {
-      "added_at": "2026-10-19 15:54:39",
-      "album": {
-        "name": "Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
-      },
-      "artists": [
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "Encontro",
-      "url": "https://open.spotify.com/track/4THhSMVKTUASFp9N3mYlVU"
     },
     {
       "added_at": "2026-10-19 15:54:39",

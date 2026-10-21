@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos de la Música Mexicana\. Portada: Los Encinos De Sinaloa
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,651 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,653 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 80 | [Te Metiste \- Live](https://open.spotify.com/track/74GchIxY1V3NEKOSKt0mDy) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Recordando Ariel Camacho \(Live\)](https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq) | 3:26 |
 | 81 | [El Rey Del Pop \- En Vivo](https://open.spotify.com/track/1D5KDcr6BB3bHtK3NiBTye) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [La Cruda Deluxe \(En Vivo\)](https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u) | 3:42 |
 | 82 | [Aguanta Corazon](https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:17 |
-| 83 | [Changuito Me Apodaron](https://open.spotify.com/track/4c2zq4HTSVLQP7esFifI0M) | [Street Mob](https://open.spotify.com/artist/1kzLXra2oMAQtlJvQKHPzk), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Street Mob Live](https://open.spotify.com/album/7stG01sMWxZYo69cvGiOGl) | 2:23 |
-| 84 | [Que Lloro \- En Vivo](https://open.spotify.com/track/3qvlIyDfh30tUYr7s76Umh) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [En Vivo Desde El Rancho 2](https://open.spotify.com/album/4aa77DHr5hsvxxX9jxUB35) | 3:57 |
+| 83 | [Que Lloro \- En Vivo](https://open.spotify.com/track/3qvlIyDfh30tUYr7s76Umh) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [En Vivo Desde El Rancho 2](https://open.spotify.com/album/4aa77DHr5hsvxxX9jxUB35) | 3:57 |
+| 84 | [Changuito Me Apodaron](https://open.spotify.com/track/4c2zq4HTSVLQP7esFifI0M) | [Street Mob](https://open.spotify.com/artist/1kzLXra2oMAQtlJvQKHPzk), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Street Mob Live](https://open.spotify.com/album/7stG01sMWxZYo69cvGiOGl) | 2:23 |
 | 85 | [Crónicas de la Batalla](https://open.spotify.com/track/34udvnm0D8Lib2RLsREx04) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Crónicas de la Batalla](https://open.spotify.com/album/5Q4J26KtTCjWK9QQpp9ZqC) | 3:29 |
 | 86 | [AMOR LIMOSNERO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 4:02 |
 | 87 | [Una Aventura](https://open.spotify.com/track/1cznypGCkvfe1EnL2QAa6y) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 99 | [Chingo A Mi Madre \- En Vivo](https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Chingo A Mi Madre \(En Vivo\)](https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc) | 2:53 |
 | 100 | [Micaela](https://open.spotify.com/track/6tbPyJ4yVaSjZjHz2R99V6) | [Street Mob](https://open.spotify.com/artist/1kzLXra2oMAQtlJvQKHPzk), [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Street Mob Live](https://open.spotify.com/album/7stG01sMWxZYo69cvGiOGl) | 4:19 |
 
-Snapshot ID: `AAAAAE6r4J6EdQ0GTXFX13AMngq2xc8B`
+Snapshot ID: `AAAAAFLr0ceZDuixx41E0jmxWSPisTq+`

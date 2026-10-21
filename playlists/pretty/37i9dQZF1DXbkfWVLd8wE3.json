@@ -1,12 +1,12 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 308224,
+  "num_followers": 308341,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANp7ujaM3dm4nHTHH4omOcUSnpDx",
+  "snapshot_id": "AAAAAI0p7MvglLzHjvxg3QOx+AJqspdP",
   "tracks": [
     {
       "added_at": "2024-10-25 23:07:14",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
+        "name": "Keep Their Heads Ringin'",
+        "url": "https://open.spotify.com/album/74iv82AYPjxyWpGbt9LNuP"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 310226,
+      "name": "Keep Their Heads Ringin'",
+      "url": "https://open.spotify.com/track/1rylJ0VXvhOzLGNm401iaI"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 230133,
       "name": "Let Me Blow Ya Mind",
       "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "Keep Their Heads Ringin'",
-        "url": "https://open.spotify.com/album/74iv82AYPjxyWpGbt9LNuP"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 310226,
-      "name": "Keep Their Heads Ringin'",
-      "url": "https://open.spotify.com/track/1rylJ0VXvhOzLGNm401iaI"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Totally Krossed Out",
-        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross",
-          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Blow The Whistle",
         "url": "https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 163133,
       "name": "Blow the Whistle",
       "url": "https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Totally Krossed Out",
+        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross",
+          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
     },
     {
       "added_at": "2024-10-25 23:07:14",

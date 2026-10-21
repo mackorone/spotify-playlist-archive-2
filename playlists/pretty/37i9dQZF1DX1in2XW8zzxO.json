@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 107278,
+  "num_followers": 107302,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAICrC4DOr6UOO5JZfCL/e6OsL/Hc",
+  "snapshot_id": "AAAAAOOlS7Z/qxyY7EyP977rNxB/isC2",
   "tracks": [
     {
       "added_at": "2026-09-10 22:02:20",
@@ -455,6 +455,46 @@
     {
       "added_at": "2026-09-10 22:02:20",
       "album": {
+        "name": "Gibela",
+        "url": "https://open.spotify.com/album/2BeBEMD1u0cFkYsgfS14Hu"
+      },
+      "artists": [
+        {
+          "name": "House Of ESAMA",
+          "url": "https://open.spotify.com/artist/1nml1m6E2S513qiBWhgsZQ"
+        },
+        {
+          "name": "MINOR & Choppa",
+          "url": "https://open.spotify.com/artist/0teWRhdFFzNpsg4jMP6jbk"
+        },
+        {
+          "name": "Jay Music",
+          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
+        },
+        {
+          "name": "Kozzi",
+          "url": "https://open.spotify.com/artist/1NSa5966spOarJZhtfqaq4"
+        },
+        {
+          "name": "Nation-365",
+          "url": "https://open.spotify.com/artist/7EtyNQtFW6fsD34PVJzXj0"
+        },
+        {
+          "name": "LRD\u00c8",
+          "url": "https://open.spotify.com/artist/6qyC3kiMPTR0E6F63qQYue"
+        },
+        {
+          "name": "iNdlovukazi N.a.s.s",
+          "url": "https://open.spotify.com/artist/6uMZaPb5EkhtjsapARkV3o"
+        }
+      ],
+      "duration_ms": 404994,
+      "name": "Gibela",
+      "url": "https://open.spotify.com/track/3m8fmJWhgUvGOPpRE60OS8"
+    },
+    {
+      "added_at": "2026-09-10 22:02:20",
+      "album": {
         "name": "Shokozela",
         "url": "https://open.spotify.com/album/0iKJW3OAXgHBwIf8F56zmW"
       },
@@ -511,46 +551,6 @@
       "duration_ms": 381768,
       "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
       "url": "https://open.spotify.com/track/51fIDcNGiIp7pxHCCN5QaL"
-    },
-    {
-      "added_at": "2026-09-10 22:02:20",
-      "album": {
-        "name": "Gibela",
-        "url": "https://open.spotify.com/album/2BeBEMD1u0cFkYsgfS14Hu"
-      },
-      "artists": [
-        {
-          "name": "House Of ESAMA",
-          "url": "https://open.spotify.com/artist/1nml1m6E2S513qiBWhgsZQ"
-        },
-        {
-          "name": "MINOR & Choppa",
-          "url": "https://open.spotify.com/artist/0teWRhdFFzNpsg4jMP6jbk"
-        },
-        {
-          "name": "Jay Music",
-          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
-        },
-        {
-          "name": "Kozzi",
-          "url": "https://open.spotify.com/artist/1NSa5966spOarJZhtfqaq4"
-        },
-        {
-          "name": "Nation-365",
-          "url": "https://open.spotify.com/artist/7EtyNQtFW6fsD34PVJzXj0"
-        },
-        {
-          "name": "LRD\u00c8",
-          "url": "https://open.spotify.com/artist/6qyC3kiMPTR0E6F63qQYue"
-        },
-        {
-          "name": "iNdlovukazi N.a.s.s",
-          "url": "https://open.spotify.com/artist/6uMZaPb5EkhtjsapARkV3o"
-        }
-      ],
-      "duration_ms": 404994,
-      "name": "Gibela",
-      "url": "https://open.spotify.com/track/3m8fmJWhgUvGOPpRE60OS8"
     },
     {
       "added_at": "2026-09-10 22:02:20",

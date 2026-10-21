@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נועם בתן
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,524 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,528 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 49 | [לפני שתגרום לי לבכות](https://open.spotify.com/track/1OLjhnTjelqDSHxmlI69Yy) | [Meshi Kleinstein](https://open.spotify.com/artist/5UXzKAfgV4czwkDaJE5NmP) | [לפני שתגרום לי לבכות](https://open.spotify.com/album/0GSmjg7U59I8WOnxjZ3tJC) | 3:40 |
 | 50 | [עשר אלף מייל](https://open.spotify.com/track/1gFMnWoUZMELclu3AMAsYv) | [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [עשר אלף מייל](https://open.spotify.com/album/217J8UvtVoGaBSQBmk404H) | 3:02 |
 
-Snapshot ID: `AAAAAH3vRVseIvrC03khk5W0+ad4bEFG`
+Snapshot ID: `AAAAAKfUq1a/b/DaLmP8HJpQiL8mH7Pt`

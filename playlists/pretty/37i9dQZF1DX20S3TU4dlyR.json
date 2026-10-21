@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 77174,
+  "num_followers": 77191,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVwiLOdCFrFXq0cFkIxNP73J7Tw",
+  "snapshot_id": "AAAAAKXFP7jJDHoZr/34tUYX1s9KIvP2",
   "tracks": [
     {
       "added_at": "2026-09-18 03:00:25",
@@ -471,8 +471,8 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+        "name": "C\u00f3mo Ver?",
+        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 247785,
-      "name": "Flaca huella",
-      "url": "https://open.spotify.com/track/4ZEkXz3SCHOqV76GQVEIQ1"
+      "duration_ms": 308522,
+      "name": "C\u00f3mo Ver?",
+      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -1175,6 +1175,38 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Diablito",
+      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
+    },
+    {
+      "added_at": "2026-09-18 03:00:25",
+      "album": {
+        "name": "Cover Me",
+        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 250493,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
+    },
+    {
+      "added_at": "2026-09-18 03:00:25",
+      "album": {
         "name": "Soul Reggae",
         "url": "https://open.spotify.com/album/0ilGytXUMqHh6DPYQSmFqk"
       },
@@ -1199,38 +1231,6 @@
       "duration_ms": 218000,
       "name": "Trenchtown rock",
       "url": "https://open.spotify.com/track/4XYPh5gOB5cj02SE0NEig8"
-    },
-    {
-      "added_at": "2026-09-18 03:00:25",
-      "album": {
-        "name": "Cover Me",
-        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 250493,
-      "name": "Culpable O No",
-      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
-    },
-    {
-      "added_at": "2026-09-18 03:00:25",
-      "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Diablito",
-      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
-        "name": "Flores de Asfalto",
-        "url": "https://open.spotify.com/album/7qIbWGHp0kkfqXOcRP9Xfe"
+        "name": "Bebamos de las Copas Lindas",
+        "url": "https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV"
       },
       "artists": [
         {
-          "name": "Vida Pura",
-          "url": "https://open.spotify.com/artist/0C2jbGQ3uelHXnEiU65FLJ"
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
         }
       ],
-      "duration_ms": 301875,
-      "name": "Tiempo de Sanar",
-      "url": "https://open.spotify.com/track/42gffMEfyOkFe7rcwtFCfT"
+      "duration_ms": 207300,
+      "name": "Bebamos de las Copas Lindas",
+      "url": "https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy"
     }
   ],
   "unique_name": "Reggae al Sur",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in alt/rock\. Cover: breakkaway
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,943 likes - 175 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,936 likes - 175 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 174 | [Sayonara](https://open.spotify.com/track/7wMQ1YFWDu3EbpHEX7gBef) | [the burbank police department](https://open.spotify.com/artist/7IwFDbhYJr7vUAGg14ApdU) | [Sayonara](https://open.spotify.com/album/6pH6ASB1jZ4h1jO3LMuCEo) | 5:01 |
 | 175 | [Penny Drop](https://open.spotify.com/track/32GjuqtqII6OOUIzPYbrfs) | [studio20](https://open.spotify.com/artist/2RLTzU6T70BdbKDd7Fcata) | [Penny Drop](https://open.spotify.com/album/6GlTwfD72bVGcDYyG4Jyv9) | 2:12 |
 
-Snapshot ID: `AAAAAHD8pFI/mXtl97FlsH+V19OFydn3`
+Snapshot ID: `AAAAALXq8WxqwYr1zOwWSZ0meJ8fxFAo`

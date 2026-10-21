@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Kygo x Khalid x Gryffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,605 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,601 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 50 | [Loving You Is Life](https://open.spotify.com/track/0XSomaqxA3ic743NuPpEKe) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [JOSEPH](https://open.spotify.com/artist/7tPCHxx5JMvvlUDndg57nj) | [Loving You Is Life](https://open.spotify.com/album/62tX5DmEnXJiK8AuTHPoCT) | 2:19 |
 | 51 | [Hey Son](https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Hey Son](https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq) | 3:00 |
 | 52 | [Fight Machine \(feat\. NAIIM\)](https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Eli & Dani](https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw), [NAIIM](https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF) | [Fight Machine \(feat\. NAIIM\)](https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS) | 2:41 |
-| 53 | [Old Habits \(From Delta Force Game\)](https://open.spotify.com/track/5tKCXGkAsVCQW2Wce51Gs3) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Delta Force](https://open.spotify.com/artist/7LMRd2GY8us9EXHeY4Mi9G), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Old Habits \(From Delta Force Game\)](https://open.spotify.com/album/6JC5LFS1ZhuNjN31EMfWWX) | 3:10 |
+| 53 | [Old Habits \(From Delta Force Game\)](https://open.spotify.com/track/5tKCXGkAsVCQW2Wce51Gs3) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Delta Force](https://open.spotify.com/artist/1MIBr4T0vz2f6XWybFMzOU), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Old Habits \(From Delta Force Game\)](https://open.spotify.com/album/6JC5LFS1ZhuNjN31EMfWWX) | 3:10 |
 | 54 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
 | 55 | [The Moment](https://open.spotify.com/track/25XA7l8OJIirmdvhstQP5G) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT) | [The Moment](https://open.spotify.com/album/7uyWbwLsdB3QLwvIDlBNW7) | 3:33 |
 | 56 | [Loosen Up](https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Dawty](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8) | [Loosen Up](https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ) | 3:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 99 | [Lights Burn Dimmer](https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 4:20 |
 | 100 | [More Than A Friend](https://open.spotify.com/track/0gVlXqAE1HRkbcCDDFzJSg) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [More Than A Friend](https://open.spotify.com/album/426ESTUvVdCwRoTZ95PIxw) | 3:20 |
 
-Snapshot ID: `AAAAACEp8z9djGIG4kgCkVXFsRdTXO7+`
+Snapshot ID: `AAAAAK+WcG/9mRDP0uhrOYHiaFVwZ4xf`

@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,236 songs - 2 day 15 hr 52 min
+1,237 songs - 2 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,7 +628,7 @@
 | [Les Boss](https://open.spotify.com/track/197DrQNZuJmXILLAx0iKYO) | [Lebouseuh](https://open.spotify.com/artist/66RsL7LgNRvHNp09UqdtTf), [Pidi](https://open.spotify.com/artist/1r1Ugmy3z4r3lrsxurxBDx) | [Les Boss](https://open.spotify.com/album/3qDOGxShfquBWe2bjUK4AH) | 2:57 | 2024-02-23 | 2024-03-23 |
 | [Les derniers marioles \(feat\. SCH\)](https://open.spotify.com/track/3aIH3DPcGwMDPlOl43Lufl) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Les derniers marioles \(feat\. SCH\)](https://open.spotify.com/album/4RzryyT7JcO6cwuT8Kjbeb) | 3:31 | 2023-07-07 | 2023-11-11 |
 | [Les filles désir](https://open.spotify.com/track/3Cc0xsYtoaPDjVZyiPHiQ4) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:16 | 2025-01-03 | 2025-03-20 |
-| [LES OUBLIETTES](https://open.spotify.com/track/4hiIaMYWpkB0xcWAZ2GuHU) | [Metah](https://open.spotify.com/artist/0Dr1nbwa1KW5wHYUCsrnAF) | [LITTLE ITALY](https://open.spotify.com/album/7ofpw7I7KtFEF0AnL2Ehu5) | 2:49 | 2026-09-29 |  |
+| [LES OUBLIETTES](https://open.spotify.com/track/4hiIaMYWpkB0xcWAZ2GuHU) | [Metah](https://open.spotify.com/artist/0Dr1nbwa1KW5wHYUCsrnAF) | [LITTLE ITALY](https://open.spotify.com/album/7ofpw7I7KtFEF0AnL2Ehu5) | 2:49 | 2026-09-29 | 2026-10-21 |
 | [Les rois du monde \- Roméo & Juliette, Les enfants de Vérone](https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb) | [Damien Sargue](https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO), [Cyril Niccolaï](https://open.spotify.com/artist/7y4MSRqhrv8DXVv6dz2EVm), [John Eyzen](https://open.spotify.com/artist/3GlXN7PbkyOglkqldFcV4J) | [Roméo Et Juliette, Les enfants de Vérone](https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46) | 3:25 | 2024-11-29 | 2025-01-04 |
 | [Let Him Go](https://open.spotify.com/track/2ir5RP1s9KMC8P6h1eMJsk) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Let Him Go](https://open.spotify.com/album/4kqyenhfePkTqSPqfPOOmg) | 2:24 | 2025-07-25 | 2025-09-11 |
 | [Let's Get Loud](https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 3:59 | 2023-12-01 | 2024-02-10 |
@@ -955,6 +955,7 @@
 | [Quotidien](https://open.spotify.com/track/5Xf6nxo3H4sV8yXirea3Po) | [Mastu](https://open.spotify.com/artist/4V9vRZSqYVOgad1sDuDPHb) | [Quotidien](https://open.spotify.com/album/1QAmqgFqRYd0TVieJdxfys) | 2:28 | 2024-04-12 | 2024-05-18 |
 | [Rachel](https://open.spotify.com/track/6gltB0EWoYku8wbj4kJUHN) | [Dayarga](https://open.spotify.com/artist/5PcBbqK2yMNnbp7c3hRDuX) | [Rachel](https://open.spotify.com/album/6BO0W8tsdRGUQnjtEYLV21) | 2:09 | 2026-07-31 |  |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2025-12-30 | 2026-05-22 |
+| [RANIA](https://open.spotify.com/track/11toKjZRD7soOuH5ZFpWkL) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [RANIA](https://open.spotify.com/album/1FjfhevUGJ8RjvAi3ZhMPV) | 3:42 | 2026-10-20 |  |
 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 | 2025-06-06 | 2025-06-21 |
 | [Rebanav 126bpm](https://open.spotify.com/track/0zJ73feFCS8807usUclLWo) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Rebanav 126bpm](https://open.spotify.com/album/1pHOXBLIMAns5o6IZl4t9M) | 2:06 | 2025-11-07 | 2026-02-21 |
 | [Rebenga](https://open.spotify.com/track/0WqcGZ1Qd1r1zIA1Os2l14) | [Bhk220](https://open.spotify.com/artist/5eL7Hq6SnfxhK6CFYBesK1) | [Rebenga](https://open.spotify.com/album/6BZzs3spqdRhtR3EZymbgT) | 2:08 | 2023-03-24 | 2023-08-26 |

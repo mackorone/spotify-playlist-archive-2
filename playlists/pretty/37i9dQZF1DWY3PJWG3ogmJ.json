@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 726444,
+  "num_followers": 726480,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADPPDpJItebrVo0cGixpxBZqukjh",
+  "snapshot_id": "AAAAADnd9zMNzLva3Cf+NYz6YykNWSul",
   "tracks": [
     {
       "added_at": "2026-10-19 15:40:45",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-10-19 15:40:45",
       "album": {
+        "name": "Netherworlds",
+        "url": "https://open.spotify.com/album/4951xpcIwMAPnhBzCY47dn"
+      },
+      "artists": [
+        {
+          "name": "Insomnium",
+          "url": "https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS"
+        }
+      ],
+      "duration_ms": 272546,
+      "name": "Gleam in the Black",
+      "url": "https://open.spotify.com/track/1IcLYsjGmdyr0i2eLzkijS"
+    },
+    {
+      "added_at": "2026-10-19 15:40:45",
+      "album": {
         "name": "Death Above Life (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nCzCl86fY0jtgs4DbWWXb"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 296327,
       "name": "Barren and Breathless Macrocosm",
       "url": "https://open.spotify.com/track/5LoE9oTVlb2x59rKfkyyTZ"
-    },
-    {
-      "added_at": "2026-10-19 15:40:45",
-      "album": {
-        "name": "Netherworlds",
-        "url": "https://open.spotify.com/album/4951xpcIwMAPnhBzCY47dn"
-      },
-      "artists": [
-        {
-          "name": "Insomnium",
-          "url": "https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS"
-        }
-      ],
-      "duration_ms": 272546,
-      "name": "Gleam in the Black",
-      "url": "https://open.spotify.com/track/1IcLYsjGmdyr0i2eLzkijS"
     },
     {
       "added_at": "2026-10-19 15:40:45",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-10-19 15:40:45",
       "album": {
-        "name": "Brotherhood EP",
-        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
-      },
-      "artists": [
-        {
-          "name": "Fallbrawl",
-          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
-        }
-      ],
-      "duration_ms": 143493,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
-    },
-    {
-      "added_at": "2026-10-19 15:40:45",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 241767,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0"
+    },
+    {
+      "added_at": "2026-10-19 15:40:45",
+      "album": {
+        "name": "Brotherhood EP",
+        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
+      },
+      "artists": [
+        {
+          "name": "Fallbrawl",
+          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
+        }
+      ],
+      "duration_ms": 143493,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
     },
     {
       "added_at": "2026-10-19 15:40:45",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2026-10-19 15:40:45",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7"
+        "name": "Crook",
+        "url": "https://open.spotify.com/album/7HIqTShZ6AA8TbE20XJNdr"
       },
       "artists": [
         {
-          "name": "Angelmaker",
-          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
+          "name": "Earth Caller",
+          "url": "https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW"
         }
       ],
-      "duration_ms": 212480,
-      "name": "Exit Signs",
-      "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"
+      "duration_ms": 178307,
+      "name": "I Am No Good",
+      "url": "https://open.spotify.com/track/7MtsR2dUH5AqeHgpzVyPDv"
     },
     {
       "added_at": "2026-10-19 15:40:45",
@@ -1867,18 +1867,18 @@
     {
       "added_at": "2026-10-19 15:40:45",
       "album": {
-        "name": "Crook",
-        "url": "https://open.spotify.com/album/7HIqTShZ6AA8TbE20XJNdr"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7"
       },
       "artists": [
         {
-          "name": "Earth Caller",
-          "url": "https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW"
+          "name": "Angelmaker",
+          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
         }
       ],
-      "duration_ms": 178307,
-      "name": "I Am No Good",
-      "url": "https://open.spotify.com/track/7MtsR2dUH5AqeHgpzVyPDv"
+      "duration_ms": 212480,
+      "name": "Exit Signs",
+      "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"
     },
     {
       "added_at": "2026-10-19 15:40:45",

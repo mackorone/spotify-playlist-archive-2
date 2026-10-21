@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1000177,
+  "num_followers": 1000152,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAObPx+smCpvLDMJKQZkYtT2HYC14",
+  "snapshot_id": "AAAAAH6bzDuWz66JPbLLRt0gkSJQYehe",
   "tracks": [
     {
       "added_at": "2026-10-09 04:02:19",
@@ -623,6 +623,26 @@
     {
       "added_at": "2026-10-09 04:02:19",
       "album": {
+        "name": "I'M PART",
+        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
+    },
+    {
+      "added_at": "2026-10-09 04:02:19",
+      "album": {
         "name": "Sigue Bailandome",
         "url": "https://open.spotify.com/album/7v95vtyP4yh88N5fx5rYdB"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 352441,
       "name": "Sigue Bailandome",
       "url": "https://open.spotify.com/track/0GmiGIxXDNrePrHBpijYDp"
-    },
-    {
-      "added_at": "2026-10-09 04:02:19",
-      "album": {
-        "name": "I'M PART",
-        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
-      },
-      "artists": [
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        },
-        {
-          "name": "Dysbit",
-          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
     },
     {
       "added_at": "2026-10-09 04:02:19",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-10-09 04:02:19",
       "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
-    },
-    {
-      "added_at": "2026-10-09 04:02:19",
-      "album": {
         "name": "DONDE QUIERO ESTAR",
         "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 231428,
       "name": "DAME",
       "url": "https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D"
+    },
+    {
+      "added_at": "2026-10-09 04:02:19",
+      "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2026-10-09 04:02:19",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2026-10-09 04:02:19",
       "album": {
+        "name": "Vallenatico pa la Disco",
+        "url": "https://open.spotify.com/album/2NIdcHU9Bs37j9a7WHtUMH"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "duration_ms": 156712,
+      "name": "Dejarte Ir",
+      "url": "https://open.spotify.com/track/16vfIvWt0Gw8z2Kj3CE3qt"
+    },
+    {
+      "added_at": "2026-10-09 04:02:19",
+      "album": {
         "name": "Dime Cuantas Veces (Remix)",
         "url": "https://open.spotify.com/album/6qvGkkeW9g7I2k04lEwGU0"
       },
@@ -1987,22 +2003,6 @@
       "duration_ms": 157500,
       "name": "EX ASS",
       "url": "https://open.spotify.com/track/0ZPIxt9oYjX53iJOfLseHB"
-    },
-    {
-      "added_at": "2026-10-09 04:02:19",
-      "album": {
-        "name": "Vallenatico pa la Disco",
-        "url": "https://open.spotify.com/album/2NIdcHU9Bs37j9a7WHtUMH"
-      },
-      "artists": [
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        }
-      ],
-      "duration_ms": 156712,
-      "name": "Dejarte Ir",
-      "url": "https://open.spotify.com/track/16vfIvWt0Gw8z2Kj3CE3qt"
     }
   ],
   "unique_name": "perrear y llorar \ud83e\udd72",

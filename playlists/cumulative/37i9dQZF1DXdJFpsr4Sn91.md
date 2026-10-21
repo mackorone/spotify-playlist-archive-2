@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,305 songs - 2 day 17 hr 14 min
+1,306 songs - 2 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1094,7 +1094,7 @@
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-08-28 | 2026-04-24 |
 | [Teatterii](https://open.spotify.com/track/7unJcils43dvDrUjadoyI5) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Teatterii](https://open.spotify.com/album/7E5wNdC3AtJNchnf83KoLL) | 2:39 | 2026-04-09 | 2026-09-04 |
 | [Tee Mulle Mitä Vaan](https://open.spotify.com/track/225v95FOaSABtxkvndBTzk) | [Aston Kalmari](https://open.spotify.com/artist/69vemTfPojDRaDODOJHxAZ), [Johanna von Hertzen](https://open.spotify.com/artist/1vXWdiJwy9Lk0I4MKpRISB) | [Tee Mulle Mitä Vaan](https://open.spotify.com/album/5J5jLCfdxzp2fqbDUzW3Dj) | 3:48 | 2026-05-14 | 2026-09-04 |
-| [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/track/3AZor9wxZ9G4UmW38dK0cG) | [yaya](https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z), [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/album/2nzCAGid389eK1QYzRN84d) | 2:55 | 2026-10-01 |  |
+| [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/track/3AZor9wxZ9G4UmW38dK0cG) | [yaya](https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z), [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Tehty elää \(feat\. Asla Jo\)](https://open.spotify.com/album/2nzCAGid389eK1QYzRN84d) | 2:55 | 2026-10-01 | 2026-10-21 |
 | [Tehtävä tää](https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Tehtävä tää](https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd) | 3:13 | 2025-11-13 | 2026-01-31 |
 | [Tequila](https://open.spotify.com/track/3OONvR6HW8rdXNDGYO81Ru) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Everything Or Nothing \#DQH2](https://open.spotify.com/album/3qAA1ejpFJwfbSEyXzBikF) | 2:28 | 2024-07-18 | 2024-08-23 |
 | [Terapia](https://open.spotify.com/track/0dnLTX7Dz7iFRRR6DkLAjp) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [BLOCKFEST PACK](https://open.spotify.com/album/7pNPSHlTSF8JN4hNwXjOVt) | 3:36 | 2025-08-07 | 2025-09-19 |
@@ -1166,6 +1166,7 @@
 | [Tyhmä](https://open.spotify.com/track/55HOqI6aUmBUBe0jHi9cz5) | [leba](https://open.spotify.com/artist/329hEYn8r1SUGkRomjKqRP) | [Tyhmä](https://open.spotify.com/album/5pV0o7QimNEYCw67DFOTJX) | 2:27 | 2026-09-24 | 2026-10-17 |
 | [Tykkään](https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Make Trap Great Again](https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1) | 3:06 | 2026-01-09 | 2026-02-18 |
 | [Tyttö maan pääl](https://open.spotify.com/track/3YN9slNzWqj1r7yHV8ldji) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Tyttö maan pääl](https://open.spotify.com/album/1brYwLALGoOLWjwdCoM1WT) | 2:41 | 2025-08-07 | 2025-11-14 |
+| [Tyttö vaihtopenkillä](https://open.spotify.com/track/4vTyUCs9WKZ0FeR3Vxwgdr) | [martta](https://open.spotify.com/artist/0MiaKVPx1j2fJr4A37YhLW) | [Tyttö vaihtopenkillä](https://open.spotify.com/album/1mQjFFYbcBSKt4SONGFerO) | 3:20 | 2026-10-15 |  |
 | [Tyttöystävä](https://open.spotify.com/track/1ZYdynsL0Js9Ha7C9h6XtW) | [Julia Rautio](https://open.spotify.com/artist/1Ir1beWTLsaUykUvzctvFj) | [Tyttöystävä](https://open.spotify.com/album/1mcb7p1hHgV85NyPZvPpyL) | 3:05 | 2024-11-07 | 2024-11-29 |
 | [Tyttöystävä](https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Tyttöystävä](https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8) | 2:57 | 2025-10-23 | 2026-04-24 |
 | [Tytöt tietää](https://open.spotify.com/track/4jWL1qqesCvi9DafuJ5238) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tytöt tietää](https://open.spotify.com/album/5drhXGx6ojIgQzoLWJXMXc) | 2:34 | 2025-05-08 | 2025-08-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Hande Ünsal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551,724 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551,727 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 54 | [HANİ](https://open.spotify.com/track/2XvD5yqFAQspc5gIKXqfsA) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [HANİ](https://open.spotify.com/album/2W917yjMEoziKUmlR0I7Hh) | 2:33 |
 | 55 | [Ayay](https://open.spotify.com/track/06EsIRH0uVkxvyITqcK5Ok) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Ayay](https://open.spotify.com/album/3GrQZDphUsU1PyEBdICyDR) | 2:28 |
 
-Snapshot ID: `AAAAAIhDtrf+dcX5N954WQsdp+xS+EF3`
+Snapshot ID: `AAAAAHzoUUzSgwlru/hHpEtjRNgdf9bB`

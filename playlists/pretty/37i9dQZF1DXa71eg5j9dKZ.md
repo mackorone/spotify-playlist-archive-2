@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: KETTAMA, Prospa
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,749 likes - 110 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,752 likes - 110 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 109 | [Pulse](https://open.spotify.com/track/2TUAiQIUA0wKnQcpJslfoh) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [howtin](https://open.spotify.com/artist/17n21mJLkfRIaCnyYzuqWU) | [Pulse](https://open.spotify.com/album/4QpjUojSJeFkoqW4qMioyg) | 4:51 |
 | 110 | [ten toes](https://open.spotify.com/track/31nmYWiPPyVHnYFoCH2kZs) | [KTmelodies](https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd) | [ten toes](https://open.spotify.com/album/5OVHJp0XgK9cMW32m4eOXz) | 1:54 |
 
-Snapshot ID: `AAAAAEHQ16jrY/d/j6SCfuL1brJN9kEw`
+Snapshot ID: `AAAAAI5uaCqsfkc0d863Opmrks9ZAeFc`

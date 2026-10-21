@@ -1,0 +1,42 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIIeDESz1ZP.md) - [plain](/playlists/plain/37i9dQZF1DWZIIeDESz1ZP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZIIeDESz1ZP)
+
+### [En Casa](https://open.spotify.com/playlist/37i9dQZF1DWZIIeDESz1ZP)
+
+> Slow down and enjoy\. Music videos only available on Premium.
+
+[Spotify](https://open.spotify.com/user/spotify) - 24 likes - 30 songs - 1 hr 28 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [For Eva](https://open.spotify.com/track/69jTHsPXAij557lc73zcp2) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Para Cuando Sean Mayores](https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG) | 2:39 |
+| 2 | [Me Lo Merezco \(Live From Los Ángeles\)](https://open.spotify.com/track/4IEmRObLMwgK7oFpSgaRS5) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco \(Live From Los Ángeles\)](https://open.spotify.com/album/2qnCxHMQku9nCrOQZyuwb0) | 3:16 |
+| 3 | [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 |
+| 4 | [LLEVA AL SOL \(Live\) \- Spotify Live Room](https://open.spotify.com/track/3ukh2uh6yuHuyrYhiq0No8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Rels B \- Spotify Live Room](https://open.spotify.com/album/42xIr4vHShxAWnsIFmmG0N) | 2:37 |
+| 5 | [LEJOS](https://open.spotify.com/track/4gssyYgB9EegQ8Klp46Bvs) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [LEJOS](https://open.spotify.com/album/434f2GTmix3G9KBL469TUV) | 3:15 |
+| 6 | [No es tu estilo](https://open.spotify.com/track/5RikicLu1IWphJ0y6BadSE) | [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [No es tu estilo](https://open.spotify.com/album/6n2DgWN6TftYJKGNcBPW1G) | 2:22 |
+| 7 | [Ola <3](https://open.spotify.com/track/3dz8m6YV4kyQGsMpZOZwJF) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Ola <3](https://open.spotify.com/album/5QaOre1ZyTW0MrocZByawc) | 2:28 |
+| 8 | [INTERÉS HACIA TI](https://open.spotify.com/track/2NVrPOo4REC8eO77OJuIhb) | [FAMA](https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X) | [INTERÉS HACIA TI](https://open.spotify.com/album/3zBzy1qhmnXOz8astqS3ri) | 2:29 |
+| 9 | [TOTOTO \(+4\)](https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [TOTOTO \(+4\)](https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab) | 2:18 |
+| 10 | [Beso a Beso](https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Beso a Beso](https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln) | 2:17 |
+| 11 | [No Tengo Remedio](https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [No Tengo Remedio](https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F) | 3:09 |
+| 12 | [La Semana](https://open.spotify.com/track/4NMoJRudco3Fc2EO5DCtGe) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Semana](https://open.spotify.com/album/2vdBYs1jB7bAUC495Q1ZdO) | 3:30 |
+| 13 | [Las Cosas Que Solo Se Hacen En La Noche \(feat\. Nile Rodgers\)](https://open.spotify.com/track/525T9rlpX3m3LHEtyVuIFN) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Las Cosas Que Solo Se Hacen En La Noche \(feat\. Nile Rodgers\)](https://open.spotify.com/album/1ZDGbhCdCMCXAv3lYONIui) | 2:19 |
+| 14 | [Vida Loca](https://open.spotify.com/track/5dNky6SuEfNBan5perlSGl) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [FREE SPIRITS](https://open.spotify.com/album/2lbCB2zwGvqqn7IkRQGaEo) | 2:35 |
+| 15 | [Quiéreme así](https://open.spotify.com/track/59ZGZeD9krTAmIiXZtoHGZ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Quiéreme así](https://open.spotify.com/album/0t6yHJC5VBXAbc5KY6Wprl) | 3:31 |
+| 16 | [Te Vas A Arrepentir \(Don't Hurt Him\) \(Official Music Video\)](https://open.spotify.com/track/0WaevUgW1inPeqVw0N3ACz) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Te Vas A Arrepentir \(Don't Hurt Him\) \(Official Music Video\)](https://open.spotify.com/album/6NppnAgSsLeb7NwlcWn4et) | 3:10 |
+| 17 | [deditos cruzados](https://open.spotify.com/track/45EtLh8CJUOG4GBOVeX4Fx) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [deditos cruzados](https://open.spotify.com/album/2HBiV0fwniqS0yCV8ypE2j) | 3:25 |
+| 18 | [AMAPOLA](https://open.spotify.com/track/4iXgIc7EYYppSPmkMaGJRW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ricky y Mau](https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg) | 2:22 |
+| 19 | [Mantis](https://open.spotify.com/track/1MKyy1oUeivAmXyO8BKJjd) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 4:14 |
+| 20 | [LINEAS PARALELAS](https://open.spotify.com/track/0sqCdE6AyJnSO0TZIiOgdf) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [LINEAS PARALELAS](https://open.spotify.com/album/1kwYFhLdteuvP0Qv1gJVB7) | 3:02 |
+| 21 | [crush](https://open.spotify.com/track/3T0H2QTPtioQryfUaiRfez) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [crush](https://open.spotify.com/album/0jKsxe18Mv6fi3fjQjwioU) | 3:38 |
+| 22 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
+| 23 | [BBY ROMEO](https://open.spotify.com/track/0sVAsg0GP4JZHKn1Ohsiw0) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:18 |
+| 24 | [BABIECA!](https://open.spotify.com/track/61pHHYNCngD1S2t0k7ew3e) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [BABIECA!](https://open.spotify.com/album/6U1EaFgDcc3qNjCDsVcH7e) | 2:46 |
+| 25 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
+| 26 | [Natural](https://open.spotify.com/track/3TjJq3dLUien8DfEpxr52i) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Instrucciones Para Ser Feliz](https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV) | 2:59 |
+| 27 | [dame luz](https://open.spotify.com/track/0neuCXxllFo1Vw4kfd5PIP) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [dame luz](https://open.spotify.com/album/4rxpOM6DZEs3W21Q758omg) | 3:09 |
+| 28 | [penso en voce](https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [in this body](https://open.spotify.com/album/6haYphkZdT3j3DvhWcAemW) | 2:36 |
+| 29 | [A La Niña Que Fui](https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [PUERTA ABIERTA](https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P) | 3:05 |
+| 30 | [LA MENTIRA](https://open.spotify.com/track/1HARleByJr6d2W0YOGJaGz) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [LA MENTIRA](https://open.spotify.com/album/2tkALcfwiliE3kyOlVMWYQ) | 3:01 |
+
+Snapshot ID: `AAAAAHplOn7woSjU22z7JJNXMFS5qogd`

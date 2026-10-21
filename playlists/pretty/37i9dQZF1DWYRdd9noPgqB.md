@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,217 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,218 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 44 | [These Nights](https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [These Nights](https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7) | 4:39 |
 | 45 | [Somebody](https://open.spotify.com/track/0qyO4rqD2KCnuk8I6GM6KD) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Somebody](https://open.spotify.com/album/4ERzj0QbSR3IgerROEtPKG) | 3:44 |
 | 46 | [Sweet Emotion](https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Sweet Emotion](https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh) | 2:37 |
-| 47 | [All The Feels](https://open.spotify.com/track/0Hj3Q6sxr1U3cT4sJYzlqT) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All The Feels](https://open.spotify.com/album/04Si32XoV0WYgBMlX6q8xH) | 3:39 |
+| 47 | [Come And Get It](https://open.spotify.com/track/7iqqkkZYc5XJIUrdMv2a7v) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Come And Get It](https://open.spotify.com/album/57OMmUmjMjPRzxJAqnLLT1) | 3:19 |
 | 48 | [Home](https://open.spotify.com/track/28LN7UaMESB80svwZttTYF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Home](https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN) | 3:11 |
 | 49 | [You Love Me](https://open.spotify.com/track/48HVMmDbJuZDZY8wwSii4l) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [You Love Me](https://open.spotify.com/album/0svkRLuuzbdyZIs1yVUl4R) | 3:49 |
 | 50 | [Delusional](https://open.spotify.com/track/4YV1PTqHU45t70PJZSlqom) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Delusional](https://open.spotify.com/album/1RnkE63I6UR3FUTue5OG0a) | 3:34 |
 | 51 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 |
-| 52 | [Come And Get It](https://open.spotify.com/track/7iqqkkZYc5XJIUrdMv2a7v) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Come And Get It](https://open.spotify.com/album/57OMmUmjMjPRzxJAqnLLT1) | 3:19 |
+| 52 | [All The Feels](https://open.spotify.com/track/0Hj3Q6sxr1U3cT4sJYzlqT) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All The Feels](https://open.spotify.com/album/04Si32XoV0WYgBMlX6q8xH) | 3:39 |
 | 53 | [Promises](https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Promises](https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA) | 3:16 |
 | 54 | [Give Me More](https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Give Me More](https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e) | 3:10 |
 | 55 | [Fucked Up](https://open.spotify.com/track/7pAvvhOV8QN34jMl4jnisj) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Fucked Up](https://open.spotify.com/album/1N5sezYxUOFRCPibUnR9aQ) | 3:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 69 | [folding chairs on the moon](https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [folding chairs on the moon](https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc) | 3:20 |
 | 70 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 |
 
-Snapshot ID: `AAAAAKPTLp/htEt4B64wRZMFaLxCkvUi`
+Snapshot ID: `AAAAADPH7XOGKPhURHU8ENYlzmjn8SqW`

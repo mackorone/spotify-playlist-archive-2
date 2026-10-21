@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: @
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,156 likes - 200 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,121 likes - 200 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 199 | [Anarchy](https://open.spotify.com/track/0LiVCnDdwJDdsmLXn1yrh7) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Anarchy](https://open.spotify.com/album/2uIeZH1M6WlbROSA8UkAN4) | 3:59 |
 | 200 | [can't stop](https://open.spotify.com/track/3B29aKOdQx7vCvH486RW24) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [can't stop](https://open.spotify.com/album/1DjrCy4YBVNuXVtaebS2uK) | 3:24 |
 
-Snapshot ID: `AAAAAHMPNKK6UQTJ2pARsj635+cB4u7T`
+Snapshot ID: `AAAAAPgRjExs1hFlMG8PHhKbBHA/nJqi`

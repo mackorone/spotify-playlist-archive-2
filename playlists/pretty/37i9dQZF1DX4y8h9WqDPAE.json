@@ -1,12 +1,12 @@
 {
   "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: Victoria Mon\u00e9t",
-  "num_followers": 5652,
+  "num_followers": 5668,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJDkj1m3cotSx2+mwginuoR+E6nA",
+  "snapshot_id": "AAAAAE23If8iAJwPrBJXBKTs8JKp72EU",
   "tracks": [
     {
       "added_at": "2026-10-02 06:32:15",
@@ -1793,38 +1793,6 @@
       "url": "https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ"
     },
     {
-      "added_at": "2026-05-15 06:10:26",
-      "album": {
-        "name": "BELOVED: ACT II",
-        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 265127,
-      "name": "JEZEBEL",
-      "url": "https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY"
-    },
-    {
-      "added_at": "2025-09-05 04:00:27",
-      "album": {
-        "name": "Top Down",
-        "url": "https://open.spotify.com/album/3Yis6ZkwZakLeaXW8wpPfM"
-      },
-      "artists": [
-        {
-          "name": "3Quency",
-          "url": "https://open.spotify.com/artist/0Im6nZsuvL1W8yJg39xROA"
-        }
-      ],
-      "duration_ms": 130239,
-      "name": "Top Down",
-      "url": "https://open.spotify.com/track/4Ds9ilNivooMdSkTyovjJr"
-    },
-    {
       "added_at": "2026-02-20 18:30:52",
       "album": {
         "name": "OCTANE",
@@ -1845,6 +1813,38 @@
       "url": "https://open.spotify.com/track/3Hb28pse82bhnmW9sjTahL"
     },
     {
+      "added_at": "2025-09-05 04:00:27",
+      "album": {
+        "name": "Top Down",
+        "url": "https://open.spotify.com/album/3Yis6ZkwZakLeaXW8wpPfM"
+      },
+      "artists": [
+        {
+          "name": "3Quency",
+          "url": "https://open.spotify.com/artist/0Im6nZsuvL1W8yJg39xROA"
+        }
+      ],
+      "duration_ms": 130239,
+      "name": "Top Down",
+      "url": "https://open.spotify.com/track/4Ds9ilNivooMdSkTyovjJr"
+    },
+    {
+      "added_at": "2026-05-15 06:10:26",
+      "album": {
+        "name": "BELOVED: ACT II",
+        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 265127,
+      "name": "JEZEBEL",
+      "url": "https://open.spotify.com/track/50otYQj8x1wp6HpdRrLXpY"
+    },
+    {
       "added_at": "2026-07-24 04:43:12",
       "album": {
         "name": "A LITTLE VENGEANCE",
@@ -1859,6 +1859,22 @@
       "duration_ms": 182773,
       "name": "99%",
       "url": "https://open.spotify.com/track/5NZQXsdu2FCFOkqE6JRzAm"
+    },
+    {
+      "added_at": "2025-10-03 04:48:40",
+      "album": {
+        "name": "Never Gunna Give You Up",
+        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 165315,
+      "name": "Never Gunna Give You Up",
+      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -1881,38 +1897,6 @@
       "url": "https://open.spotify.com/track/4JxY3pNkxMKHjrPiOGQqcQ"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "TWENTIES",
-        "url": "https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 171955,
-      "name": "TWENTIES",
-      "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
-    },
-    {
-      "added_at": "2025-10-03 04:48:40",
-      "album": {
-        "name": "Never Gunna Give You Up",
-        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 165315,
-      "name": "Never Gunna Give You Up",
-      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
-    },
-    {
       "added_at": "2025-04-25 06:51:06",
       "album": {
         "name": "Gimme Dat",
@@ -1933,20 +1917,20 @@
       "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
     },
     {
-      "added_at": "2026-09-11 04:20:10",
+      "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "Pillow Fight / I\u2019d Rather Be Alone",
-        "url": "https://open.spotify.com/album/6X5U4xElXdT0V15Wvmn7Uv"
+        "name": "TWENTIES",
+        "url": "https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 141315,
-      "name": "Pillow Fight",
-      "url": "https://open.spotify.com/track/21Z76eAc2DWtBU4I3nYeAG"
+      "duration_ms": 171955,
+      "name": "TWENTIES",
+      "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -1967,6 +1951,22 @@
       "duration_ms": 213571,
       "name": "worst behaviour (feat. Kehlani)",
       "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
+    },
+    {
+      "added_at": "2026-09-11 04:20:10",
+      "album": {
+        "name": "Pillow Fight / I\u2019d Rather Be Alone",
+        "url": "https://open.spotify.com/album/6X5U4xElXdT0V15Wvmn7Uv"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 141315,
+      "name": "Pillow Fight",
+      "url": "https://open.spotify.com/track/21Z76eAc2DWtBU4I3nYeAG"
     },
     {
       "added_at": "2026-04-10 06:38:13",
@@ -2085,20 +2085,24 @@
       "url": "https://open.spotify.com/track/4Cl3M8C8goTBaoysf9jb7e"
     },
     {
-      "added_at": "2026-02-20 18:30:52",
+      "added_at": "2025-11-14 11:13:06",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
+        "name": "Can't Explain It (with Girlfriend)",
+        "url": "https://open.spotify.com/album/1rAGncOnfUWIcU8RUCKxMZ"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Jermain Reese Jr.",
+          "url": "https://open.spotify.com/artist/3qcuLIoSn9oRiqljDxvx2T"
+        },
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
         }
       ],
-      "duration_ms": 291513,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
+      "duration_ms": 171789,
+      "name": "Can't Explain It (with Girlfriend)",
+      "url": "https://open.spotify.com/track/6Cb7FCGm6Gatt4vhpJsynC"
     },
     {
       "added_at": "2026-05-08 05:33:09",
@@ -2121,24 +2125,20 @@
       "url": "https://open.spotify.com/track/5adWDt4mPuryG0IoC1ZKu1"
     },
     {
-      "added_at": "2025-11-14 11:13:06",
+      "added_at": "2026-02-20 18:30:52",
       "album": {
-        "name": "Can't Explain It (with Girlfriend)",
-        "url": "https://open.spotify.com/album/1rAGncOnfUWIcU8RUCKxMZ"
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
       },
       "artists": [
         {
-          "name": "Jermain Reese Jr.",
-          "url": "https://open.spotify.com/artist/3qcuLIoSn9oRiqljDxvx2T"
-        },
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 171789,
-      "name": "Can't Explain It (with Girlfriend)",
-      "url": "https://open.spotify.com/track/6Cb7FCGm6Gatt4vhpJsynC"
+      "duration_ms": 291513,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
     },
     {
       "added_at": "2026-07-31 07:43:15",
@@ -2233,26 +2233,6 @@
       "url": "https://open.spotify.com/track/3cq2IfK8NOuXDlc0cogY2K"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Bad For You (feat. Jazmine Sullivan)",
-      "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
-    },
-    {
       "added_at": "2026-02-20 18:30:52",
       "album": {
         "name": "She Knows Too Much",
@@ -2271,6 +2251,26 @@
       "duration_ms": 213106,
       "name": "She Knows Too Much",
       "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Bad For You (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2413,22 +2413,6 @@
       "url": "https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu"
     },
     {
-      "added_at": "2026-07-24 04:43:12",
-      "album": {
-        "name": "Remedied",
-        "url": "https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Remedied",
-      "url": "https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj"
-    },
-    {
       "added_at": "2026-06-19 08:47:29",
       "album": {
         "name": "THE GENTLEMEN'S CLUB",
@@ -2455,6 +2439,22 @@
       "duration_ms": 260629,
       "name": "SIMON SAYS feat isaiah falls, odeal & sasha keable",
       "url": "https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz"
+    },
+    {
+      "added_at": "2026-07-24 04:43:12",
+      "album": {
+        "name": "Remedied",
+        "url": "https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Remedied",
+      "url": "https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj"
     },
     {
       "added_at": "2026-02-01 02:45:05",
@@ -2521,6 +2521,22 @@
       "url": "https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB"
     },
     {
+      "added_at": "2026-02-01 02:45:05",
+      "album": {
+        "name": "BACKWARD",
+        "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 166687,
+      "name": "THEMSELVES",
+      "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
+    },
+    {
       "added_at": "2025-07-11 08:16:35",
       "album": {
         "name": "The Mood",
@@ -2539,22 +2555,6 @@
       "duration_ms": 172081,
       "name": "The Mood",
       "url": "https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7"
-    },
-    {
-      "added_at": "2026-02-01 02:45:05",
-      "album": {
-        "name": "BACKWARD",
-        "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 166687,
-      "name": "THEMSELVES",
-      "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
     },
     {
       "added_at": "2025-04-18 05:38:39",
@@ -2633,6 +2633,22 @@
       "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
     },
     {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "FROM FLORIDA'S FINEST",
+        "url": "https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "BITCHES BREW",
+      "url": "https://open.spotify.com/track/3mKMH0NA7Z3iHPmtqLyE9g"
+    },
+    {
       "added_at": "2026-03-27 06:15:19",
       "album": {
         "name": "$TILL PAID",
@@ -2653,22 +2669,6 @@
       "url": "https://open.spotify.com/track/0cvOfzykDoUaBKhWFSuB31"
     },
     {
-      "added_at": "2025-05-09 04:00:22",
-      "album": {
-        "name": "FROM FLORIDA'S FINEST",
-        "url": "https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "BITCHES BREW",
-      "url": "https://open.spotify.com/track/3mKMH0NA7Z3iHPmtqLyE9g"
-    },
-    {
       "added_at": "2025-06-06 05:47:14",
       "album": {
         "name": "Type Dangerous",
@@ -2683,6 +2683,22 @@
       "duration_ms": 175788,
       "name": "Type Dangerous",
       "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
+    },
+    {
+      "added_at": "2025-08-22 10:10:54",
+      "album": {
+        "name": "To Dry a Tear",
+        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 209589,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
     },
     {
       "added_at": "2025-05-30 04:19:50",
@@ -2703,22 +2719,6 @@
       "duration_ms": 230031,
       "name": "Oh Lala",
       "url": "https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD"
-    },
-    {
-      "added_at": "2025-08-22 10:10:54",
-      "album": {
-        "name": "To Dry a Tear",
-        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 209589,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
     },
     {
       "added_at": "2025-11-07 06:39:38",

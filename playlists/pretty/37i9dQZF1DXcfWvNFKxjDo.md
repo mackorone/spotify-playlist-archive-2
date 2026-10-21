@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Nachtigaller, Juju
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,766 likes - 87 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,757 likes - 87 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 86 | [Cash4Gold](https://open.spotify.com/track/1Fr6RsdLxupOXUVno8KWmW) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Cash4Gold / Close2Mine](https://open.spotify.com/album/5cdjwCb7EPCiLG9RtfnjBX) | 3:12 |
 | 87 | [Hyperfocused](https://open.spotify.com/track/2TZHX4W3Bmy4h2VHls9x84) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Hyperfocused](https://open.spotify.com/album/6dI1WUAn7dvkIsyspE9ZGO) | 2:16 |
 
-Snapshot ID: `AAAAAL0ME16Oale6nTwzi1YTRYNkxOmc`
+Snapshot ID: `AAAAAGNhHIovMb9hwBJU30/F/jdT4emC`

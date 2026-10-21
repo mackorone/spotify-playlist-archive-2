@@ -1,12 +1,12 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 229050,
+  "num_followers": 229102,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG2H7dmeYv7dcUJnOE9nBKaAtmkK",
+  "snapshot_id": "AAAAAF3/Xk+8hwxOvj6H/Hfzlr5z+bMJ",
   "tracks": [
     {
       "added_at": "2026-08-21 04:01:33",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Trail Of Flowers",
-        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 216128,
-      "name": "I Could Drive You Crazy",
-      "url": "https://open.spotify.com/track/6xgCx5NI5sE0yQ7Of1rkFo"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Guitar Town",
         "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 155266,
       "name": "Guitar Town",
       "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Trail Of Flowers",
+        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 216128,
+      "name": "I Could Drive You Crazy",
+      "url": "https://open.spotify.com/track/6xgCx5NI5sE0yQ7Of1rkFo"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Long Haired Country Boy",
+      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
         "name": "Whiskey Bent And Hell Bound",
         "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 232493,
       "name": "The Conversation",
       "url": "https://open.spotify.com/track/7GIBwtwVahJvvpot8g4Z4V"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Long Haired Country Boy",
-      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Longhaired Redneck",
-        "url": "https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 152426,
-      "name": "Living on the Run",
-      "url": "https://open.spotify.com/track/27Xzsz1vWsBn1Nq9PZy9hO"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "That Lonesome Song",
         "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 251960,
       "name": "Between Jennings And Jones",
       "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Longhaired Redneck",
+        "url": "https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 152426,
+      "name": "Living on the Run",
+      "url": "https://open.spotify.com/track/27Xzsz1vWsBn1Nq9PZy9hO"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Love And Danger",
-        "url": "https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A"
-      },
-      "artists": [
-        {
-          "name": "Joe Ely",
-          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
-        }
-      ],
-      "duration_ms": 273533,
-      "name": "The Road Goes On Forever",
-      "url": "https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Little Victories",
         "url": "https://open.spotify.com/album/2AQojGjLHM5zPgq9O5RpAQ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 214253,
       "name": "Nothing On Me",
       "url": "https://open.spotify.com/track/3FHzMLL7hgeGdzLf6J6ajS"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Love And Danger",
+        "url": "https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A"
+      },
+      "artists": [
+        {
+          "name": "Joe Ely",
+          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
+        }
+      ],
+      "duration_ms": 273533,
+      "name": "The Road Goes On Forever",
+      "url": "https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7"
     },
     {
       "added_at": "2026-08-21 04:01:33",

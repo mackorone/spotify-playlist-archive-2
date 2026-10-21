@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Los Estrambóticos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,160 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,195 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 85 | [Baile Brutal](https://open.spotify.com/track/7lA6jueW0G0hPlHnEJV4R2) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Baile Brutal](https://open.spotify.com/album/3NAGIyBzlhoTP0XqMVj87Y) | 3:30 |
 | 86 | [Un Amor Violento](https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Alvaro Henriquez](https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP) | [Un Amor Violento](https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1) | 4:49 |
 | 87 | [El Mosquito](https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [El Mosquito](https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr) | 3:08 |
-| 88 | [Mandar Obedeciendo](https://open.spotify.com/track/3cHjMYDl0nBEL940bTxxcO) | [Rude Boys](https://open.spotify.com/artist/4o3k1NXafCHBNUROdhaK3Z) | [Mandar Obedeciendo](https://open.spotify.com/album/57q4YukTgibWMPUN3mw0DP) | 3:13 |
-| 89 | [Amor Sin Odio](https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Que Empiece Ya!](https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti) | 5:32 |
+| 88 | [Amor Sin Odio](https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Que Empiece Ya!](https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti) | 5:32 |
+| 89 | [Mandar Obedeciendo](https://open.spotify.com/track/3cHjMYDl0nBEL940bTxxcO) | [Rude Boys](https://open.spotify.com/artist/4o3k1NXafCHBNUROdhaK3Z) | [Mandar Obedeciendo](https://open.spotify.com/album/57q4YukTgibWMPUN3mw0DP) | 3:13 |
 | 90 | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF) | [Raztlan](https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE), [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO) | 3:33 |
 | 91 | [Juntos](https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Juntos](https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd) | 3:19 |
 | 92 | [Estoy en Paz](https://open.spotify.com/track/0VXeUMWXIGIE6uOtPzlk7Z) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Estoy en Paz](https://open.spotify.com/album/2rAz4h0MvhaX1dScUuBGmM) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Voy a curarme de ti](https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Voy a curarme de ti](https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH) | 4:13 |
 | 100 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
 
-Snapshot ID: `AAAAAIaiDhLilozzVu93TCJDux4mJQWs`
+Snapshot ID: `AAAAABypMHq8fR9RrwHqQoQULPH8Se2o`

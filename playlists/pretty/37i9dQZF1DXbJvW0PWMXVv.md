@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,076 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,070 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 33 | [Azul, Bebê](https://open.spotify.com/track/6EGGqJCJgR1wD7Z39OD6O5) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Beleza\. Mas agora a gente faz o que com isso?](https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf) | 3:29 |
 | 34 | [Rota](https://open.spotify.com/track/2PfuIcBIEvArGhn10S46Rc) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Lucs Romero](https://open.spotify.com/artist/1yw5PZ4ceYDZWiptutFaAN) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 3:35 |
 | 35 | [Transe](https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ) | 3:10 |
-| 36 | [Cancionera](https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 5:36 |
-| 37 | [Lucidez \- Ao Vivo](https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Eu Gosto no Pagode Vol\. 3 \- Homenagem ao Fundo de Quintal \(Gravado em Londres\) \[Ao Vivo\]](https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR) | 4:18 |
+| 36 | [Lucidez \- Ao Vivo](https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Eu Gosto no Pagode Vol\. 3 \- Homenagem ao Fundo de Quintal \(Gravado em Londres\) \[Ao Vivo\]](https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR) | 4:18 |
+| 37 | [Cancionera](https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 5:36 |
 | 38 | [CONJUNTÃO DE TIME](https://open.spotify.com/track/3bvIkHpcpgw4vFXpAvrwZx) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MPC \(Música Popular Carioca\)](https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R) | 2:34 |
 | 39 | [A natureza das coisas](https://open.spotify.com/track/4zvqkPu8ajJc0Qglca07ZG) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Casa Coração](https://open.spotify.com/album/6vSNBpqihCHJcrCVTstJMv) | 4:01 |
 | 40 | [Santo, Santo, Santo \- Ao Vivo](https://open.spotify.com/track/6uQznfXz7xrinjN56u7tbv) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memóri4s \(Ao Vivo\)](https://open.spotify.com/album/6nVfk6R3u1SWg2xsD72zu7) | 4:37 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 50 | [Melhor Assim](https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav) | [Natascha Falcão](https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh) | [Universo de Paixão](https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y) | 4:01 |
 | 51 | [Romance de Filme](https://open.spotify.com/track/3CIBtDrCnomSWt4m9ucv3m) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [José & Durval](https://open.spotify.com/album/5mrMvvBNCmK4VWvmTDYzmu) | 4:25 |
 | 52 | [Um Vento Passou \(para Paul Simon\)](https://open.spotify.com/track/4KEvdc2UmMNMwTs4XlhmkG) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Milton + esperanza](https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar) | 4:36 |
-| 53 | [Feliz e Triste](https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A) | [Fitti](https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk) | [Transespacial](https://open.spotify.com/album/5ad60ItCkVWina53xajH4n) | 2:55 |
-| 54 | [Liberem os Brigadeiros Antes dos Parabéns](https://open.spotify.com/track/14DBuiss0102bbNBhLNGzu) | [Palavra Cantada](https://open.spotify.com/artist/44RRgJcFWyW7kfeEkgFPGT) | [Cenas Infantis](https://open.spotify.com/album/1cZVnIh1nC0tghnaBO7yCu) | 3:12 |
+| 53 | [Liberem os Brigadeiros Antes dos Parabéns](https://open.spotify.com/track/14DBuiss0102bbNBhLNGzu) | [Palavra Cantada](https://open.spotify.com/artist/44RRgJcFWyW7kfeEkgFPGT) | [Cenas Infantis](https://open.spotify.com/album/1cZVnIh1nC0tghnaBO7yCu) | 3:12 |
+| 54 | [Feliz e Triste](https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A) | [Fitti](https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk) | [Transespacial](https://open.spotify.com/album/5ad60ItCkVWina53xajH4n) | 2:55 |
 | 55 | [Último da Fila \- Ao Vivo](https://open.spotify.com/track/2Swl61aivF1I4JhZogKwG0) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Carfi 20 anos \(Ao Vivo\)](https://open.spotify.com/album/2vNkUge260SMhGlBBbQP4p) | 4:33 |
 | 56 | [Todo Dia É Um Recomeço](https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Hamilton de Holanda Trio \- Live in NYC](https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr) | 5:15 |
 | 57 | [Longe De Mim](https://open.spotify.com/track/1vA8qPRhgd9pv2egwvwPjW) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [IRADOH](https://open.spotify.com/album/4WgX6CsBHsZ8D3QzQEYFdS) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 74 | [LEGO](https://open.spotify.com/track/7q2LnH7uqOYJQk4m4LBSAV) | [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0), [André ViaMonte](https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct) | [FUGACIDADE](https://open.spotify.com/album/0QVDHqBLRd5AjHuU4bJmJ3) | 2:42 |
 | 75 | [Matagal](https://open.spotify.com/track/4dw8ZkzEQa5PY7gLL3D0C9) | [Maria Beraldo](https://open.spotify.com/artist/2433aSyXTs1Mnhss4lFqHW), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Colinho](https://open.spotify.com/album/2DphG5HgqpHRRsx1Ec1Wgy) | 4:08 |
 
-Snapshot ID: `AAAAANij8/xe8PL8DeKcpi/eeY8rgEMV`
+Snapshot ID: `AAAAALqAKBgc1dbJL3SDxZOF2M69ebEZ`

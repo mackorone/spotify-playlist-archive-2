@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 210354,
+  "num_followers": 210356,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM2/erwSif2pFxc7Ki5nWhGi22wj",
+  "snapshot_id": "AAAAABnUcGxeVSIbiHHO9S8csgCcuYla",
   "tracks": [
     {
       "added_at": "2026-07-29 15:15:10",
@@ -163,6 +163,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "More To This Life",
+        "url": "https://open.spotify.com/album/2RCszuL9awvBddKkB7Iknm"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "I Will Be Here",
+      "url": "https://open.spotify.com/track/7w0CEIlW8kcomXPgxQ55Hj"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Ever & Ever Before",
         "url": "https://open.spotify.com/album/6Ib03CnwNxVNok7OahkFwd"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 230263,
       "name": "ever & ever before",
       "url": "https://open.spotify.com/track/4YhMnXwp2khsqK05irNhDp"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "More To This Life",
-        "url": "https://open.spotify.com/album/2RCszuL9awvBddKkB7Iknm"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "I Will Be Here",
-      "url": "https://open.spotify.com/track/7w0CEIlW8kcomXPgxQ55Hj"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Pray With",
-        "url": "https://open.spotify.com/album/1pp4P84ZfhAvcjnu34khk7"
-      },
-      "artists": [
-        {
-          "name": "Justin Radford",
-          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
-        }
-      ],
-      "duration_ms": 159166,
-      "name": "Pray With",
-      "url": "https://open.spotify.com/track/0ulQ3VwyPArwpy1ahM1gY8"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Here In Your Arms",
         "url": "https://open.spotify.com/album/07pEzm2jpbU2FHE4Q1i3l7"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 172702,
       "name": "Here In Your Arms",
       "url": "https://open.spotify.com/track/4e8PDVGtTG1uvLOkKDR0gV"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Pray With",
+        "url": "https://open.spotify.com/album/1pp4P84ZfhAvcjnu34khk7"
+      },
+      "artists": [
+        {
+          "name": "Justin Radford",
+          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
+        }
+      ],
+      "duration_ms": 159166,
+      "name": "Pray With",
+      "url": "https://open.spotify.com/track/0ulQ3VwyPArwpy1ahM1gY8"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -823,6 +823,22 @@
       "duration_ms": 221183,
       "name": "Down To Earth",
       "url": "https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Slow Renaissance",
+        "url": "https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1"
+      },
+      "artists": [
+        {
+          "name": "Josh Gauton",
+          "url": "https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M"
+        }
+      ],
+      "duration_ms": 243146,
+      "name": "Love In the Time of Madness",
+      "url": "https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -863,22 +879,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Slow Renaissance",
-        "url": "https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1"
-      },
-      "artists": [
-        {
-          "name": "Josh Gauton",
-          "url": "https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M"
-        }
-      ],
-      "duration_ms": 243146,
-      "name": "Love In the Time of Madness",
-      "url": "https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "My Tribe",
         "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "#YOUTHEONE",
-        "url": "https://open.spotify.com/album/3UlpsQZyqK7utqJRHjlZVX"
-      },
-      "artists": [
-        {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
-        }
-      ],
-      "duration_ms": 189959,
-      "name": "#YOUTHEONE",
-      "url": "https://open.spotify.com/track/3cLrK4vOz2WRMDPeaAimx0"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Somewhere In Her Dreams",
         "url": "https://open.spotify.com/album/32B2j9yBBPTYZbPTsvdZ3G"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 256012,
       "name": "Somewhere In Her Dreams",
       "url": "https://open.spotify.com/track/31UptnBzWkmr0NGpMzKwdv"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "#YOUTHEONE",
+        "url": "https://open.spotify.com/album/3UlpsQZyqK7utqJRHjlZVX"
+      },
+      "artists": [
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        }
+      ],
+      "duration_ms": 189959,
+      "name": "#YOUTHEONE",
+      "url": "https://open.spotify.com/track/3cLrK4vOz2WRMDPeaAimx0"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Dear Future Husband",
-        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Dear Future Husband",
-      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "I Love You (Remix)",
         "url": "https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 193170,
       "name": "I Love You (Remix)",
       "url": "https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Dear Future Husband",
+        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Dear Future Husband",
+      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/4f13Etjf3KTeNZBFhj6MVy"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 216285,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/2AD7KwyYNkymVEHubojdMc"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 158260,
       "name": "True Love",
       "url": "https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/4f13Etjf3KTeNZBFhj6MVy"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 216285,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/2AD7KwyYNkymVEHubojdMc"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1227,6 +1227,38 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "If It Wasn't You",
+        "url": "https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N"
+      },
+      "artists": [
+        {
+          "name": "Airr",
+          "url": "https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz"
+        }
+      ],
+      "duration_ms": 186473,
+      "name": "If It Wasn't You",
+      "url": "https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Forever With You (Freestyle Session)",
+        "url": "https://open.spotify.com/album/6d3pB44ez3TsJ7ZShjP72R"
+      },
+      "artists": [
+        {
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+        }
+      ],
+      "duration_ms": 123386,
+      "name": "Forever With You (Freestyle Session)",
+      "url": "https://open.spotify.com/track/434WFp5IK0hnp2df22hdOv"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Junto a Ti",
         "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
       },
@@ -1259,34 +1291,18 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Forever With You (Freestyle Session)",
-        "url": "https://open.spotify.com/album/6d3pB44ez3TsJ7ZShjP72R"
+        "name": "Forever the Love of My Life",
+        "url": "https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq"
       },
       "artists": [
         {
-          "name": "ZOE Music",
-          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
         }
       ],
-      "duration_ms": 123386,
-      "name": "Forever With You (Freestyle Session)",
-      "url": "https://open.spotify.com/track/434WFp5IK0hnp2df22hdOv"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "If It Wasn't You",
-        "url": "https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N"
-      },
-      "artists": [
-        {
-          "name": "Airr",
-          "url": "https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz"
-        }
-      ],
-      "duration_ms": 186473,
-      "name": "If It Wasn't You",
-      "url": "https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW"
+      "duration_ms": 171315,
+      "name": "Forever the Love of My Life",
+      "url": "https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1311,22 +1327,6 @@
       "duration_ms": 180240,
       "name": "The One Out The Friendzone - Kevin Aleksander Remix",
       "url": "https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Forever the Love of My Life",
-        "url": "https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 171315,
-      "name": "Forever the Love of My Life",
-      "url": "https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/2srlmjB9im0S6bNnJGTZrN"
-      },
-      "artists": [
-        {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
-        }
-      ],
-      "duration_ms": 199846,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/56et7TBBCMKuje6nkI3EsB"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Good Love (feat. Kim Burrell)",
         "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 248066,
       "name": "Good Love (feat. Kim Burrell)",
       "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/2srlmjB9im0S6bNnJGTZrN"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "duration_ms": 199846,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/56et7TBBCMKuje6nkI3EsB"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Let Me Be There",
-        "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
-      },
-      "artists": [
-        {
-          "name": "Gaither Vocal Band",
-          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
-        }
-      ],
-      "duration_ms": 185095,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Breathe Life",
         "url": "https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 186468,
       "name": "Breathe Life",
       "url": "https://open.spotify.com/track/6jYStiz3SkwOHSfBApVxTA"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Let Me Be There",
+        "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "duration_ms": 185095,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/2jcpIxfkydmBZ0tdF8F7St"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 172730,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/1MDYOI1rPyR0BfrS7E8eMv"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Loving Me Like Jesus",
         "url": "https://open.spotify.com/album/6gvTi3AZ3njMAchWY4Rsfz"
       },
@@ -1659,6 +1643,38 @@
       "duration_ms": 192000,
       "name": "Loving Me Like Jesus",
       "url": "https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/2jcpIxfkydmBZ0tdF8F7St"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 172730,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/1MDYOI1rPyR0BfrS7E8eMv"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Me + You = Pi",
+        "url": "https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Me + You = Pi",
+      "url": "https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1683,18 +1699,18 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Me + You = Pi",
-        "url": "https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p"
+        "name": "If I Were an R&B Singer",
+        "url": "https://open.spotify.com/album/5Q7MUqwtF2LsoFCU0ZogH2"
       },
       "artists": [
         {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
         }
       ],
-      "duration_ms": 169846,
-      "name": "Me + You = Pi",
-      "url": "https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus"
+      "duration_ms": 199125,
+      "name": "Free Fallin",
+      "url": "https://open.spotify.com/track/0EWgI9kJgjGOlmfFkvbR2c"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1711,22 +1727,6 @@
       "duration_ms": 214142,
       "name": "I Do",
       "url": "https://open.spotify.com/track/23lQIH97ocBAw1cOJmZigq"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "If I Were an R&B Singer",
-        "url": "https://open.spotify.com/album/5Q7MUqwtF2LsoFCU0ZogH2"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 199125,
-      "name": "Free Fallin",
-      "url": "https://open.spotify.com/track/0EWgI9kJgjGOlmfFkvbR2c"
     }
   ],
   "unique_name": "Higher Love",

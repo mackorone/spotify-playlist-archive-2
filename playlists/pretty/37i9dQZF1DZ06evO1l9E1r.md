@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,528 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,529 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 | 49 | [Sería](https://open.spotify.com/track/0gByie4ptADcvfEEdFAFjB) | [Skúli Sverrisson](https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh), [Ólöf Arnalds](https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5), [Amedeo Pace](https://open.spotify.com/artist/0hdlEDPDfsgpg0CuicRpzi), [Peter Scherer](https://open.spotify.com/artist/2zP1W5f5sJb2zSxjzS3u41), [Anthony Burr](https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU), [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Sería](https://open.spotify.com/album/26qf6FtyaO41ZAHSxN7PEZ) | 3:35 |
 | 50 | [Alejandro Saves Isabelle](https://open.spotify.com/track/399IMeqnuZS65Hrs7lK2Vs) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Sicario: Day of the Soldado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12QFS9IPnlICbESBw96prr) | 2:30 |
 
-Snapshot ID: `atQMAAAAAAD8OKJdwP5t2zcLImcfOWuh`
+Snapshot ID: `atQMAAAAAABX6IJnsyp97qSdOeweDY3Q`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟 cover: Victor Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,547 likes - 79 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,546 likes - 79 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 78 | [Let's Make A \(Fucking\) Baby](https://open.spotify.com/track/4Bpq0ra8YsD9nFuiFGZLkB) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Let's Make A \(Fucking\) Baby](https://open.spotify.com/album/16i1l4ektijapcSxpTaqxG) | 3:04 |
 | 79 | [More Of You](https://open.spotify.com/track/59FNEgSTq2o442TKFHtLMx) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [More Of You](https://open.spotify.com/album/4m9FIQVMM9Ut01gmjBfDrw) | 3:19 |
 
-Snapshot ID: `AAAAAHHMuw6body8BU+p6/vWUEoeey+V`
+Snapshot ID: `AAAAAMy8kTADs4JtSf2o5YvZbLBjti/d`

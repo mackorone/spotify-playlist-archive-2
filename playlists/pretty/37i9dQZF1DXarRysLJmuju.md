@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,327 likes - 99 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,248 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 98 | [lucky girl](https://open.spotify.com/track/5o7N9iZ1AwB1pN2laZkItA) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [luckiest girl!](https://open.spotify.com/album/0UpMGniaoZWTK8skk4N6VA) | 2:36 |
 | 99 | [Serial Kisser](https://open.spotify.com/track/0XSj08H0vgkV8MFZiaL2D5) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Serial Kisser](https://open.spotify.com/album/33QYD1uYMCpsPMKllkvGZ6) | 2:46 |
 
-Snapshot ID: `AAAAAD3+exTx1flA1rbVl3PYyNnnedOF`
+Snapshot ID: `AAAAAMj8tqEF/a8v2n0DlGekuEJlnHQI`

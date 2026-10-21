@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 
 > a strictly smooth mood...
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,699 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,687 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 | 45 | [Ensalada \(feat\. Anderson .Paak\)](https://open.spotify.com/track/06ZX08uRQDK02emdw9mN28) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:46 |
 | 46 | [Yah Mean](https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 2:45 |
 | 47 | [Impatient](https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 4:05 |
-| 48 | [Drop The Lo](https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Drop The Lo](https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l) | 2:41 |
-| 49 | [Johnny P's Caddy](https://open.spotify.com/track/59ClUavkkfRhryajZBn2Lf) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Tana Talk 4](https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2) | 3:45 |
+| 48 | [Johnny P's Caddy](https://open.spotify.com/track/59ClUavkkfRhryajZBn2Lf) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Tana Talk 4](https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2) | 3:45 |
+| 49 | [Drop The Lo](https://open.spotify.com/track/2ehvynUj1tMnownVMQN0Rh) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Drop The Lo](https://open.spotify.com/album/4YDQTAnUD2x4FopQWdAX9l) | 2:41 |
 | 50 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 |
 | 51 | [FRE$H](https://open.spotify.com/track/5PU6gIDtiehjkK1iKWU4KR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [FRE$H](https://open.spotify.com/album/573iquT83sDj4mpGM6lZT3) | 2:18 |
 | 52 | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/track/57yu1WujridphAAkPgpkhC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8) | 2:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 | 74 | [Gen Z Luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Gen Z Luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 |
 | 75 | [the kill 2 \-1](https://open.spotify.com/track/0lnMoOf3epY6fQMfkHdiPw) | [Lex\_offline](https://open.spotify.com/artist/5iQLF4yHCCauDGHBXGbRZf), [2muchmotion](https://open.spotify.com/artist/1DW3WjdUKh9hvg2bh89IVw), [Lex Amarni](https://open.spotify.com/artist/1GJLP5vEHWn08VOlzfR8ID) | [the kill 2 \-1](https://open.spotify.com/album/7oZw7AIHKzdurcL20oleSt) | 2:17 |
 
-Snapshot ID: `AAAAANWGEJX5lGTkvFI/ssmrUmXxJAaw`
+Snapshot ID: `AAAAAD/lpIqywae2+10mB7MoA3yIHpZN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,221 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,216 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 15 | [SEE RIGHT THROUGH ME \(feat\. Kehlani\)](https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 4:16 |
 | 16 | [My Boy](https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [My Boy](https://open.spotify.com/album/6EI6Jmvat5PFCYXi8Cc9BD) | 4:14 |
 | 17 | [Westside](https://open.spotify.com/track/7GqtjPXE2gAEFgKLZ5436I) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Westside](https://open.spotify.com/album/6hejZTaY1xPzO9bKeSY51o) | 2:58 |
-| 18 | [Crack The Code](https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Crack The Code](https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q) | 3:00 |
-| 19 | [Slow Grind](https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Slow Grind](https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe) | 3:39 |
+| 18 | [Slow Grind](https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Slow Grind](https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe) | 3:39 |
+| 19 | [Crack The Code](https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Crack The Code](https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q) | 3:00 |
 | 20 | [To B Honest](https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [To Whom This May Concern](https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG) | 4:30 |
 | 21 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 |
 | 22 | [YES](https://open.spotify.com/track/6mSFZqIAC0is8g7B9bdl2m) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [YES](https://open.spotify.com/album/7mTgsCUAA1iQGNz7S4TrOr) | 3:43 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 27 | [Broken is the man](https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:12 |
 | 28 | [Maybe Again](https://open.spotify.com/track/4gBywkTx4P6ieTplo0euFO) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [When The City Sleeps](https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj) | 3:29 |
 | 29 | [Lil' Obsession](https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Lil' Obsession](https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt) | 3:01 |
-| 30 | [Changes Rising](https://open.spotify.com/track/2w506gm1anuCes4phbCaMP) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Changes Rising](https://open.spotify.com/album/19cu33f4nHMSR9WtwCjDVS) | 3:16 |
-| 31 | [BACK IN MY ARMS](https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [BACK IN MY ARMS](https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd) | 3:43 |
+| 30 | [BACK IN MY ARMS](https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [BACK IN MY ARMS](https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd) | 3:43 |
+| 31 | [Changes Rising](https://open.spotify.com/track/2w506gm1anuCes4phbCaMP) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Changes Rising](https://open.spotify.com/album/19cu33f4nHMSR9WtwCjDVS) | 3:16 |
 | 32 | [I Belong To You \[Feat\. Ledisi\]](https://open.spotify.com/track/3azayAcrGBdQy6TTl8fMWK) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [I Belong To You \[Feat\. Ledisi\]](https://open.spotify.com/album/3x5COvOp1lLkAE3uil0SIj) | 3:59 |
 | 33 | [Price Of It All](https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Price Of It All \(Music From the Original Series "Bait"\)](https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96) | 3:04 |
 | 34 | [Voicemail \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:07 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 48 | [YOU DON’T KNOW \(feat\. Alex Isley\)](https://open.spotify.com/track/4WVarJWtCuMLNPsOgLMBOC) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [i do this sh\*t in my sleep](https://open.spotify.com/album/41WKxZBjXPuqwPVbSWEhIg) | 2:03 |
 | 49 | [Stay](https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Stay](https://open.spotify.com/album/6oNqp5To5PeNL5VLGGoHSB) | 3:05 |
 | 50 | [moonlit room](https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [moonlit room](https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi) | 4:10 |
-| 51 | [Kissing Underwater](https://open.spotify.com/track/6bmcfa6rrkP63zqB3f3v9f) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Kissing Underwater](https://open.spotify.com/album/2TgfwqCYZyTv4n8omjFnqK) | 2:39 |
-| 52 | [He's Not Me](https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [He's Not Me](https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ) | 3:27 |
+| 51 | [He's Not Me](https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [He's Not Me](https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ) | 3:27 |
+| 52 | [Kissing Underwater](https://open.spotify.com/track/6bmcfa6rrkP63zqB3f3v9f) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Kissing Underwater](https://open.spotify.com/album/2TgfwqCYZyTv4n8omjFnqK) | 2:39 |
 | 53 | [Slow \(feat\. J Valentine\)](https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [J\. Valentine](https://open.spotify.com/artist/0YG3fiiee6tHuimu1klAMg) | [Slow \(feat\. J Valentine\)](https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl) | 3:20 |
 | 54 | [TOW](https://open.spotify.com/track/2uhInkIfAyWSLpRTwFTldW) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Forgive To Forget](https://open.spotify.com/album/5cvv3xLqA1vyxf4mGMfO27) | 3:08 |
 | 55 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 85 | [Lovely](https://open.spotify.com/track/7H4SWnkASjuDpQ0IBJMdxN) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Lovely](https://open.spotify.com/album/6Z9wZe07ALndfH3Q0Ne876) | 2:53 |
 | 86 | [No Pussy For Losers](https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [New Growth](https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO) | 2:57 |
 | 87 | [100](https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [100](https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr) | 3:54 |
-| 88 | [Damaged](https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:16 |
-| 89 | [Twin Flame](https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Twin Flame](https://open.spotify.com/album/73A0KaDyV4R6Qnsy6ewoJd) | 3:06 |
+| 88 | [Twin Flame](https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Twin Flame](https://open.spotify.com/album/73A0KaDyV4R6Qnsy6ewoJd) | 3:06 |
+| 89 | [Damaged](https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:16 |
 | 90 | [Nu Beginning](https://open.spotify.com/track/0y02zQ9NMivG2bJvhYshY4) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Amber Navran](https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt) | [Nu Beginning](https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO) | 3:54 |
 | 91 | [Wet Dreamz](https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 3:05 |
 | 92 | [All That Matters \- Spotify Singles](https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Spotify Singles](https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 99 | [Heaven](https://open.spotify.com/track/5CadVyJeeehuMNhESZxvvM) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Heaven](https://open.spotify.com/album/5eJI0nLtSgzMjrg1ENvM1G) | 3:03 |
 | 100 | [You Got One](https://open.spotify.com/track/1aHOxnrpKtdNonDJKI73qb) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [You Got One](https://open.spotify.com/album/4wK80fjjoENNScObJowugB) | 3:25 |
 
-Snapshot ID: `AAAAAIIeLUL2OyVIoAPM00WN7y6ivGK8`
+Snapshot ID: `AAAAAJ44zjA+A9VwBQ7+1oHKThIt5Kh3`

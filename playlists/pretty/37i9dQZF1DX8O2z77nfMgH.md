@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: PEDRO SAMPAIO y Kenia Os
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,284 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,160 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 50 | [Tapin](https://open.spotify.com/track/3mssXaNyjc2ANAKywGcare) | [Kidchen](https://open.spotify.com/artist/0rssDtHql43sHidf6XgMz8) | [Amalgama](https://open.spotify.com/album/5dUgQxv2SDI8lh66rFQbDg) | 2:10 |
 | 51 | [Fiesta de Té](https://open.spotify.com/track/2QFMXKfrfvVmV3GMB9zqoz) | [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9) | [Fiesta de Té](https://open.spotify.com/album/7qvPnDnadXxAqxfh6JJ4pX) | 3:59 |
 
-Snapshot ID: `AAAAAO2NsChSbe5XsBcP4NrWX75FW4bM`
+Snapshot ID: `AAAAABeg/X3CeP/2qMcpFF555wXL4Z87`

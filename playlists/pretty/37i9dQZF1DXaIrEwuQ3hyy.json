@@ -1,12 +1,12 @@
 {
   "description": "lass mal den herbst romantisieren",
-  "num_followers": 1106232,
+  "num_followers": 1106436,
   "original_name": "Herbst Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGCyBmOcH2oyTh44BLoTfUG1KnMu",
+  "snapshot_id": "AAAAAOS3FVLO8s5UTHyAwUsmsbOGCD4r",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:07",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-10-15 22:01:07",
       "album": {
-        "name": "Untitled (Black Is)",
-        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 206947,
-      "name": "Wildfires",
-      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
-    },
-    {
-      "added_at": "2026-10-15 22:01:07",
-      "album": {
         "name": "Take Me There",
         "url": "https://open.spotify.com/album/0hT1cJPUyBfkscqU1gMbpa"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 202626,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/5Xlm6r0hBIxe0OvtfUG9UX"
+    },
+    {
+      "added_at": "2026-10-15 22:01:07",
+      "album": {
+        "name": "Untitled (Black Is)",
+        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 206947,
+      "name": "Wildfires",
+      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
     },
     {
       "added_at": "2026-10-15 22:01:07",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-10-15 22:01:07",
       "album": {
-        "name": "Rehab - Spotify Singles",
-        "url": "https://open.spotify.com/album/5ryoNuIzvgmHGm1mswYtq2"
-      },
-      "artists": [
-        {
-          "name": "badm\u00f3mzjay",
-          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
-        }
-      ],
-      "duration_ms": 262198,
-      "name": "Rehab - Spotify Singles",
-      "url": "https://open.spotify.com/track/2zohPykSNrLEahqVi3gKfu"
-    },
-    {
-      "added_at": "2026-10-15 22:01:07",
-      "album": {
         "name": "Summer Someday",
         "url": "https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 229253,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh"
+    },
+    {
+      "added_at": "2026-10-15 22:01:07",
+      "album": {
+        "name": "Rehab - Spotify Singles",
+        "url": "https://open.spotify.com/album/5ryoNuIzvgmHGm1mswYtq2"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        }
+      ],
+      "duration_ms": 262198,
+      "name": "Rehab - Spotify Singles",
+      "url": "https://open.spotify.com/track/2zohPykSNrLEahqVi3gKfu"
     },
     {
       "added_at": "2026-10-15 22:01:07",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-10-15 22:01:07",
       "album": {
-        "name": "Esquina do Sol",
-        "url": "https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv"
-      },
-      "artists": [
-        {
-          "name": "Mari Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 204208,
-      "name": "Reza Braba",
-      "url": "https://open.spotify.com/track/05IQB3ByghBrhl1U0hYA6a"
-    },
-    {
-      "added_at": "2026-10-15 22:01:07",
-      "album": {
         "name": "Prolog I",
         "url": "https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 258505,
       "name": "All Again",
       "url": "https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b"
+    },
+    {
+      "added_at": "2026-10-15 22:01:07",
+      "album": {
+        "name": "Esquina do Sol",
+        "url": "https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv"
+      },
+      "artists": [
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 204208,
+      "name": "Reza Braba",
+      "url": "https://open.spotify.com/track/05IQB3ByghBrhl1U0hYA6a"
     },
     {
       "added_at": "2026-10-15 22:01:07",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-10-15 22:01:07",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 171662,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
-    },
-    {
-      "added_at": "2026-10-15 22:01:07",
-      "album": {
         "name": "when i close my eyes",
         "url": "https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 226117,
       "name": "when i close my eyes",
       "url": "https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY"
+    },
+    {
+      "added_at": "2026-10-15 22:01:07",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 171662,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
     },
     {
       "added_at": "2026-10-15 22:01:07",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-10-15 22:01:07",
       "album": {
-        "name": "Bigger Picture",
-        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 185753,
-      "name": "Bigger Picture",
-      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
-    },
-    {
-      "added_at": "2026-10-15 22:01:07",
-      "album": {
         "name": "1000 Tage",
         "url": "https://open.spotify.com/album/5TeTkaORghKxRZob0qxBqD"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 270315,
       "name": "Little Life",
       "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
+    },
+    {
+      "added_at": "2026-10-15 22:01:07",
+      "album": {
+        "name": "Bigger Picture",
+        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Bigger Picture",
+      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
     },
     {
       "added_at": "2026-10-15 22:01:07",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-10-15 22:01:07",
       "album": {
-        "name": "Feel The Rush",
-        "url": "https://open.spotify.com/album/33xNB3f9rzZhPpO8xs1xD0"
-      },
-      "artists": [
-        {
-          "name": "Asha Banks",
-          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
-        }
-      ],
-      "duration_ms": 193823,
-      "name": "Feel The Rush",
-      "url": "https://open.spotify.com/track/2Hu0FoS9V98LSQkkOtsKIx"
-    },
-    {
-      "added_at": "2026-10-15 22:01:07",
-      "album": {
         "name": "Lonely Island",
         "url": "https://open.spotify.com/album/0csQ5xD4LaQ7Zw2qOWis6L"
       },
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2026-10-15 22:01:07",
       "album": {
+        "name": "Feel The Rush",
+        "url": "https://open.spotify.com/album/33xNB3f9rzZhPpO8xs1xD0"
+      },
+      "artists": [
+        {
+          "name": "Asha Banks",
+          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
+        }
+      ],
+      "duration_ms": 193823,
+      "name": "Feel The Rush",
+      "url": "https://open.spotify.com/track/2Hu0FoS9V98LSQkkOtsKIx"
+    },
+    {
+      "added_at": "2026-10-15 22:01:07",
+      "album": {
         "name": "Weit weg",
         "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
       },
@@ -1539,38 +1539,6 @@
       "duration_ms": 161787,
       "name": "Weit weg",
       "url": "https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD"
-    },
-    {
-      "added_at": "2026-10-15 22:01:07",
-      "album": {
-        "name": "Iman",
-        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
-      },
-      "artists": [
-        {
-          "name": "Yuuf",
-          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Iman",
-      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
-    },
-    {
-      "added_at": "2026-10-15 22:01:07",
-      "album": {
-        "name": "WORRY.",
-        "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 243282,
-      "name": "WORRY.",
-      "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
     },
     {
       "added_at": "2026-10-15 22:01:07",
@@ -1599,18 +1567,34 @@
     {
       "added_at": "2026-10-15 22:01:07",
       "album": {
-        "name": "think twice",
-        "url": "https://open.spotify.com/album/5ZCaadoasMxcPFsMWeHlye"
+        "name": "WORRY.",
+        "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
       },
       "artists": [
         {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
         }
       ],
-      "duration_ms": 327160,
-      "name": "think twice",
-      "url": "https://open.spotify.com/track/3K8Dlk2IdXvb3kPDpf8zbU"
+      "duration_ms": 243282,
+      "name": "WORRY.",
+      "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
+    },
+    {
+      "added_at": "2026-10-15 22:01:07",
+      "album": {
+        "name": "Iman",
+        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
+      },
+      "artists": [
+        {
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Iman",
+      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
     },
     {
       "added_at": "2026-10-15 22:01:07",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2026-10-15 22:01:07",
       "album": {
+        "name": "think twice",
+        "url": "https://open.spotify.com/album/5ZCaadoasMxcPFsMWeHlye"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 327160,
+      "name": "think twice",
+      "url": "https://open.spotify.com/track/3K8Dlk2IdXvb3kPDpf8zbU"
+    },
+    {
+      "added_at": "2026-10-15 22:01:07",
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4"
       },
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-10-15 22:01:07",
       "album": {
-        "name": "Who Could Not Be Broken",
-        "url": "https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il"
-      },
-      "artists": [
-        {
-          "name": "Dominique Way",
-          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
-        }
-      ],
-      "duration_ms": 161506,
-      "name": "Lady In the GPS",
-      "url": "https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv"
-    },
-    {
-      "added_at": "2026-10-15 22:01:07",
-      "album": {
         "name": "Two Thirds",
         "url": "https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 206546,
       "name": "Two Thirds",
       "url": "https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1"
+    },
+    {
+      "added_at": "2026-10-15 22:01:07",
+      "album": {
+        "name": "Who Could Not Be Broken",
+        "url": "https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "Lady In the GPS",
+      "url": "https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv"
     },
     {
       "added_at": "2026-10-15 22:01:07",

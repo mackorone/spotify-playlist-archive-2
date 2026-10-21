@@ -1,12 +1,12 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 526307,
+  "num_followers": 526313,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIo2mucGf9Y6s4pcUQ5gh+v2IGHu",
+  "snapshot_id": "AAAAAO5BZf+2nHTCn3kpT72qETzeQeon",
   "tracks": [
     {
       "added_at": "2026-09-11 15:06:03",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-09-11 15:06:03",
       "album": {
-        "name": "Circo Beat",
-        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "Mariposa tecknicolor",
-      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
-    },
-    {
-      "added_at": "2026-09-11 15:06:03",
-      "album": {
         "name": "Bailar\u00edn Apocal\u00edptico",
         "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 195580,
       "name": "Raz\u00f3n",
       "url": "https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e"
+    },
+    {
+      "added_at": "2026-09-11 15:06:03",
+      "album": {
+        "name": "Circo Beat",
+        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 222346,
+      "name": "Mariposa tecknicolor",
+      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
     },
     {
       "added_at": "2026-09-11 15:06:03",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-09-11 15:06:03",
       "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 261971,
-      "name": "Magia Blanca",
-      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
-    },
-    {
-      "added_at": "2026-09-11 15:06:03",
-      "album": {
         "name": "Despedazado Por Mil Partes",
         "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2026-09-11 15:06:03",
       "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 234760,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
+      "duration_ms": 261971,
+      "name": "Magia Blanca",
+      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
     },
     {
       "added_at": "2026-09-11 15:06:03",
@@ -687,6 +671,22 @@
       "duration_ms": 262000,
       "name": "Zafar",
       "url": "https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX"
+    },
+    {
+      "added_at": "2026-09-11 15:06:03",
+      "album": {
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
     },
     {
       "added_at": "2026-09-11 15:06:03",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-09-11 15:06:03",
       "album": {
-        "name": "De Bichos Y Flores",
-        "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
-    },
-    {
-      "added_at": "2026-09-11 15:06:03",
-      "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 277011,
       "name": "Los Calientes",
       "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
+    },
+    {
+      "added_at": "2026-09-11 15:06:03",
+      "album": {
+        "name": "De Bichos Y Flores",
+        "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
     },
     {
       "added_at": "2026-09-11 15:06:03",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-09-11 15:06:03",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Llenos De Magia",
-      "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
-    },
-    {
-      "added_at": "2026-09-11 15:06:03",
-      "album": {
         "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
         "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 377399,
       "name": "Mujer Amante - Vivo",
       "url": "https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH"
+    },
+    {
+      "added_at": "2026-09-11 15:06:03",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Llenos De Magia",
+      "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
     },
     {
       "added_at": "2026-09-11 15:06:03",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-09-11 15:06:03",
       "album": {
+        "name": "Despedazado Por Mil Partes",
+        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 276573,
+      "name": "El Final Es En Donde Part\u00ed",
+      "url": "https://open.spotify.com/track/5zdazgWuhzFMMtwt5kdeFD"
+    },
+    {
+      "added_at": "2026-09-11 15:06:03",
+      "album": {
         "name": "Circolog\u00eda",
         "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 161133,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
-    },
-    {
-      "added_at": "2026-09-11 15:06:03",
-      "album": {
-        "name": "Despedazado Por Mil Partes",
-        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 276573,
-      "name": "El Final Es En Donde Part\u00ed",
-      "url": "https://open.spotify.com/track/5zdazgWuhzFMMtwt5kdeFD"
     },
     {
       "added_at": "2026-09-11 15:06:03",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-09-11 15:06:03",
       "album": {
-        "name": "El Costado Izquierdo",
-        "url": "https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 243104,
-      "name": "S\u00f3lo por Hoy (Chica Oriental)",
-      "url": "https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG"
-    },
-    {
-      "added_at": "2026-09-11 15:06:03",
-      "album": {
         "name": "Venganza",
         "url": "https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ"
       },
@@ -1519,18 +1503,34 @@
     {
       "added_at": "2026-09-11 15:06:03",
       "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+        "name": "El Costado Izquierdo",
+        "url": "https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe"
       },
       "artists": [
         {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
         }
       ],
-      "duration_ms": 248706,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
+      "duration_ms": 243104,
+      "name": "S\u00f3lo por Hoy (Chica Oriental)",
+      "url": "https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG"
+    },
+    {
+      "added_at": "2026-09-11 15:06:03",
+      "album": {
+        "name": "Airbag - En Vivo Estadio V\u00e9lez",
+        "url": "https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 303857,
+      "name": "Por Mil Noches - En Vivo",
+      "url": "https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320"
     },
     {
       "added_at": "2026-09-11 15:06:03",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2026-09-11 15:06:03",
       "album": {
-        "name": "Airbag - En Vivo Estadio V\u00e9lez",
-        "url": "https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP"
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
         }
       ],
-      "duration_ms": 303857,
-      "name": "Por Mil Noches - En Vivo",
-      "url": "https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320"
+      "duration_ms": 248706,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
     },
     {
       "added_at": "2026-09-11 15:06:03",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-09-11 15:06:03",
       "album": {
-        "name": "La Ciudad Liberada",
-        "url": "https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 252867,
-      "name": "Tu Vida Mi Vida",
-      "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
-    },
-    {
-      "added_at": "2026-09-11 15:06:03",
-      "album": {
         "name": "CUERPOS, Vol. 1",
         "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 226181,
       "name": "TIEMPO OFF",
       "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
+    },
+    {
+      "added_at": "2026-09-11 15:06:03",
+      "album": {
+        "name": "La Ciudad Liberada",
+        "url": "https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 252867,
+      "name": "Tu Vida Mi Vida",
+      "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
     },
     {
       "added_at": "2026-09-11 15:06:03",

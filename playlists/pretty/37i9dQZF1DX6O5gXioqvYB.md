@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > hyped perché Iosonouncane finalmente canta in italiano dopo un sacco!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,954 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,958 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 99 | [TANTOTANTO](https://open.spotify.com/track/3CRAPgDFRAMnXiEcXP5pW0) | [Basim](https://open.spotify.com/artist/06VrZAhcffLACn4VGBBspO) | [TANTOTANTO](https://open.spotify.com/album/1SyUVvppqtgTkq0EPoHg55) | 3:24 |
 | 100 | [Nulla di speciale](https://open.spotify.com/track/5Jmblle9kHRULP59dcVR8p) | [WISM](https://open.spotify.com/artist/3LXTbapp18J0PmQEPPeXmO), [Perenne](https://open.spotify.com/artist/1deGGaaHXorjwxQkdaYvcX) | [Nulla di speciale](https://open.spotify.com/album/68zHuAuaw0upKQcj1zw1EV) | 2:25 |
 
-Snapshot ID: `AAAAAI8RsGJj3o0TYFW0xEArHPAJgcs6`
+Snapshot ID: `AAAAAMXDJU53RKcD7lzngRPefyGTo9jn`

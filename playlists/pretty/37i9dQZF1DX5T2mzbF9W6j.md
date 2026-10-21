@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,065 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,062 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 15 | [Tańczę](https://open.spotify.com/track/5Rh4ZnhmhUj0LshCJZE6Jb) | [Męskie Granie Orkiestra](https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Tańczę](https://open.spotify.com/album/1YzaYcqieg8UA13VvY7r3S) | 3:14 |
 | 16 | [Talk To Me, Zara](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Talk To Me, Zara](https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM) | 3:13 |
 | 17 | [MANGO](https://open.spotify.com/track/5jVMVRFbk57ovUm15hl6zw) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [MANGO](https://open.spotify.com/album/1OtN3XYMdhEds2mdEtu5ui) | 3:16 |
-| 18 | [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 |
-| 19 | [AIOLI](https://open.spotify.com/track/7rPpyQOTrwogcFW1PZ6DYQ) | [Hi Hania](https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [AIOLI](https://open.spotify.com/album/2YtxeCsI2O64Zx6z6ChhAW) | 2:31 |
+| 18 | [AIOLI](https://open.spotify.com/track/7rPpyQOTrwogcFW1PZ6DYQ) | [Hi Hania](https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH), [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [AIOLI](https://open.spotify.com/album/2YtxeCsI2O64Zx6z6ChhAW) | 2:31 |
+| 19 | [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 |
 | 20 | [Faded Eyes](https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Faded Eyes](https://open.spotify.com/album/7unDB3yK0Z2tlam1P4MzwE) | 2:57 |
 | 21 | [Bez końca](https://open.spotify.com/track/65EGTb29Squ7K3HHh3sKi8) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Bez końca](https://open.spotify.com/album/1j0BJwMQ93VjRqerPUfV5e) | 2:35 |
 | 22 | [LUBIMY](https://open.spotify.com/track/1oGFMmJsbgif8ZVxMREseR) | [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Skolim](https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA), [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV) | [LUBIMY](https://open.spotify.com/album/0qzTWFez1xu7JsZm8sqWqT) | 2:28 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 36 | [Flora](https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN) | [Flora](https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K) | 3:30 |
 | 37 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
 | 38 | [Gravity](https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV) | [Wiktor Sas](https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT) | [Gravity](https://open.spotify.com/album/7vXymVunheG3BABabEky8f) | 2:40 |
-| 39 | [Tu Mój Dom](https://open.spotify.com/track/3qSLN8OEVw0kiQL7c7URcN) | [Staszek z Gór](https://open.spotify.com/artist/4GebTwB0ngkt65gcCjiQQr), [Sound'n'Grace](https://open.spotify.com/artist/6I7UMvppwGHHf3a7mZIqvo) | [Tu Mój Dom](https://open.spotify.com/album/6mUl6kLv57WEfwkmnIoFXB) | 2:18 |
-| 40 | [Moment](https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX) | [Kinga Wołoszyn](https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed) | [Moment](https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb) | 3:14 |
+| 39 | [Moment](https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX) | [Kinga Wołoszyn](https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed) | [Moment](https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb) | 3:14 |
+| 40 | [Tu Mój Dom](https://open.spotify.com/track/3qSLN8OEVw0kiQL7c7URcN) | [Staszek z Gór](https://open.spotify.com/artist/4GebTwB0ngkt65gcCjiQQr), [Sound'n'Grace](https://open.spotify.com/artist/6I7UMvppwGHHf3a7mZIqvo) | [Tu Mój Dom](https://open.spotify.com/album/6mUl6kLv57WEfwkmnIoFXB) | 2:18 |
 | 41 | [Co mi tam](https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Co mi tam](https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1) | 2:47 |
 | 42 | [Mogłeś tu być](https://open.spotify.com/track/040ISsaRJlzaQWpqBo81Dx) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [VOICE](https://open.spotify.com/album/1jla2nToQeZX2xHYxS8cfo) | 2:28 |
 | 43 | [nie wierzę w bajki](https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE) | [Qncicka](https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ) | [nie wierzę w bajki](https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw) | 3:12 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 56 | [love witch](https://open.spotify.com/track/3khAJu84JG3Rn3XnWUs8H9) | [Kasia Babis](https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1) | [love witch](https://open.spotify.com/album/1ZxGyMp64Ze85mkNF9RBEv) | 2:58 |
 | 57 | [Zanim Znikniesz](https://open.spotify.com/track/6J45lGQnkvq5MfhNKnbPkv) | [DJ Adamus](https://open.spotify.com/artist/0Db5Yl5ZBHvcqbH3KfCZAt), [Kayomee](https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL) | [Zanim Znikniesz](https://open.spotify.com/album/4Ci4KU4eCczjiGk1KyLRew) | 3:06 |
 | 58 | [Bierz co jest](https://open.spotify.com/track/19FscRLbetzPhQP9lbSB6R) | [GOLEC UORKIESTRA](https://open.spotify.com/artist/7sYIwdHZoqVUh6i58SJrmx) | [Bierz co jest](https://open.spotify.com/album/3VP7imZWBzBnXbxOB70Xcu) | 2:30 |
-| 59 | [Żebro](https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62) | [Plamy](https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P) | 3:31 |
-| 60 | [Zimne ognie](https://open.spotify.com/track/6asrniPJkQX8KYhcFbHRr0) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [To nie o mnie + Zimne ognie](https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6) | 3:03 |
+| 59 | [Zimne ognie](https://open.spotify.com/track/6asrniPJkQX8KYhcFbHRr0) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [To nie o mnie + Zimne ognie](https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6) | 3:03 |
+| 60 | [Żebro](https://open.spotify.com/track/5lkBxACWDaBkG91TtfGDUk) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62) | [Plamy](https://open.spotify.com/album/13XuGo1xqZV4gfrD7rB72P) | 3:31 |
 
-Snapshot ID: `AAAAAIj9u2+nrpnPved/HbICSBB4iHMI`
+Snapshot ID: `AAAAAAiHKFXwvcYJngQNuYb2Rv23ChZf`

@@ -1,12 +1,12 @@
 {
   "description": "Alegr\u00eda para tus ma\u00f1anas. ",
-  "num_followers": 981678,
+  "num_followers": 981680,
   "original_name": "Buen D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGdPpn50uUvjg9+mo3/cCm8ZnXyN",
+  "snapshot_id": "AAAAADuVKMPc4T+R5TkaYOdWmF1ACNHk",
   "tracks": [
     {
       "added_at": "2026-10-09 03:00:15",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-10-09 03:00:15",
       "album": {
-        "name": "El Merengue",
-        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 189668,
-      "name": "El Merengue",
-      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
-    },
-    {
-      "added_at": "2026-10-09 03:00:15",
-      "album": {
         "name": "Dije Que No Me Iba a Enamorar",
         "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 206146,
       "name": "El Bolero",
       "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
+    },
+    {
+      "added_at": "2026-10-09 03:00:15",
+      "album": {
+        "name": "El Merengue",
+        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 189668,
+      "name": "El Merengue",
+      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
     },
     {
       "added_at": "2026-10-09 03:00:15",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-10-09 03:00:15",
       "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
-    },
-    {
-      "added_at": "2026-10-09 03:00:15",
-      "album": {
         "name": "ori\u00f3N",
         "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2026-10-09 03:00:15",
       "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2026-10-09 03:00:15",
+      "album": {
         "name": "Cosas Pendientes",
         "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-10-09 03:00:15",
       "album": {
-        "name": "Apambichao",
-        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 161285,
-      "name": "Te hacen falta dos",
-      "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
-    },
-    {
-      "added_at": "2026-10-09 03:00:15",
-      "album": {
         "name": "TOTOTO (+4)",
         "url": "https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 138994,
       "name": "TOTOTO (+4)",
       "url": "https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm"
+    },
+    {
+      "added_at": "2026-10-09 03:00:15",
+      "album": {
+        "name": "Apambichao",
+        "url": "https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 161285,
+      "name": "Te hacen falta dos",
+      "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
     },
     {
       "added_at": "2026-10-09 03:00:15",

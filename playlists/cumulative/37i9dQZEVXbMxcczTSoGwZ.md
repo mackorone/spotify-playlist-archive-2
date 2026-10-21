@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-3,523 songs - 7 day 16 hr 37 min
+3,524 songs - 7 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2324,6 +2324,7 @@
 | [Pilvilinna](https://open.spotify.com/track/5rzkWNF7RVddxVFHklaYM3) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [Pilvilinna](https://open.spotify.com/album/4MffrEijW5fEDI1EleCmEI) | 3:10 | 2023-06-17 | 2023-06-22 |
 | [Pimee \(feat\. BESS\)](https://open.spotify.com/track/0HxPzvkpUhADgfRnXNF6zS) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Pimee \(feat\. BESS\)](https://open.spotify.com/album/634YAJrYaAofZGXDp8lHHG) | 2:38 | 2023-09-02 | 2023-10-08 |
 | [Pimeys](https://open.spotify.com/track/4v4bjubwrgkKxWOucHD628) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Pimeys](https://open.spotify.com/album/0op6pgGScA6JJBB0ZZWqG8) | 3:37 | 2022-09-24 | 2022-09-26 |
+| [Pimeä onni \- Sugared](https://open.spotify.com/track/1AJvFRnoOLDVuRRekmh6Z2) | [Jippu](https://open.spotify.com/artist/0KYGvSXrGDHlExTpandhct), [Samuli Edelmann](https://open.spotify.com/artist/1Z6uN0tVLoKb8RIqHQzdSu) | [Pimeä onni](https://open.spotify.com/album/36DfpgD5GqVPND7t4cQ4bt) | 3:51 | 2026-10-20 |  |
 | [Pink Clouding](https://open.spotify.com/track/3gyJbNBTRVRdZDA1yO3clm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:10 | 2026-09-26 | 2026-09-28 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-08-28 |
 | [PINKY UP](https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [PINKY UP](https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz) | 2:11 | 2026-04-11 | 2026-04-19 |
@@ -3382,7 +3383,7 @@
 | [Väärään aikaan \(feat\. HUGO\)](https://open.spotify.com/track/0HHQoono8fCyLgZOgAwosN) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 3:02 | 2024-09-28 | 2025-01-16 |
 | [Väärään aikaan \(feat\. HUGO\)](https://open.spotify.com/track/1iZOPk4TnPpL1NOqCXSoRv) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Väärään aikaan \(feat\. HUGO\)](https://open.spotify.com/album/1G8dR2Y01aQNhN46zacoMf) | 3:02 | 2023-12-08 | 2024-08-18 |
 | [Väärään ihmiseen](https://open.spotify.com/track/2x4xLxN2y6c7yUhK9Sxzpq) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Väärään ihmiseen](https://open.spotify.com/album/1JO9UvzcMtrJJ2nh5Pf7vk) | 2:07 | 2025-05-24 | 2025-06-08 |
-| [W](https://open.spotify.com/track/2vrAiDBNyQA040lLd9cs6z) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [W](https://open.spotify.com/album/2kfSV0m5oSJe7N7FKlZIgs) | 2:15 | 2026-10-17 |  |
+| [W](https://open.spotify.com/track/2vrAiDBNyQA040lLd9cs6z) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [W](https://open.spotify.com/album/2kfSV0m5oSJe7N7FKlZIgs) | 2:15 | 2026-10-17 | 2026-10-21 |
 | [wacced out murals](https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 5:17 | 2024-11-24 | 2024-11-27 |
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/1cA4wEmLkKlttS6N89LbJh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:08 | 2021-12-12 | 2021-12-13 |
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/5J6rTmMjF9DVIAF8G3M9n4) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/album/16ou1Elgll2ElsdnU4LNzn) | 3:09 | 2021-12-05 | 2021-12-06 |

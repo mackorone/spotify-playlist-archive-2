@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,174 likes - 89 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,191 likes - 89 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 24 | [Reggae en el Universo](https://open.spotify.com/track/6mn3ZBR2oH6OzrywqZUvzQ) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:06 |
 | 25 | [Cobarde](https://open.spotify.com/track/0fWn5iIK7sEc5RBnvae5am) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Cobarde](https://open.spotify.com/album/0xH8xw2DnHv4o6geSurULr) | 2:37 |
 | 26 | [En Tus Manos](https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:08 |
-| 27 | [Flaca huella](https://open.spotify.com/track/4ZEkXz3SCHOqV76GQVEIQ1) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:07 |
+| 27 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 |
 | 28 | [Oyelo](https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Bahiano BH+](https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj) | 3:08 |
 | 29 | [Pupilas Lejanas \(En Vivo\)](https://open.spotify.com/track/3b355y8meUI0ok4bhu9OpI) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:00 |
 | 30 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 63 | [Revolución DuB \(feat\. Tippy I\-Grade, Micah Shemaiah & Sly Dunbar\)](https://open.spotify.com/track/4jMKxILEpy6gf0SD3Xzsts) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Tippy I\-Grade](https://open.spotify.com/artist/2PzLpvNk9o1Lm1hQ0Djlb9), [Micah Shemaiah](https://open.spotify.com/artist/3eZZJk4Ik5kBSK2dsdxX6X), [Sly Dunbar](https://open.spotify.com/artist/2Ub1N1tF1AK2NkWvw87oP8) | [Tippy I Meets Nonpalidece • Hecho en Jamaica DuB \(feat\. Tippy I\-Grade\)](https://open.spotify.com/album/53qaELz2GflEOBS2PUxcPs) | 4:40 |
 | 64 | [My Love](https://open.spotify.com/track/2YKv6SXLar1fRtk9xYUd6b) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [My Love](https://open.spotify.com/album/2eYLzfawsxegd6ppMH2FVC) | 3:33 |
 | 65 | [Lo Que Dicta El Tiempo](https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 4:27 |
-| 66 | [Trenchtown rock](https://open.spotify.com/track/4XYPh5gOB5cj02SE0NEig8) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Sergio Rotman](https://open.spotify.com/artist/5LIztkABrgk6Qzb7XUSaSA), [Soul Reggae](https://open.spotify.com/artist/0pid9Vzg6fTn41JwVIVCJB) | [Soul Reggae](https://open.spotify.com/album/0ilGytXUMqHh6DPYQSmFqk) | 3:38 |
+| 66 | [Diablito](https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:50 |
 | 67 | [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 |
-| 68 | [Diablito](https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:50 |
+| 68 | [Trenchtown rock](https://open.spotify.com/track/4XYPh5gOB5cj02SE0NEig8) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Sergio Rotman](https://open.spotify.com/artist/5LIztkABrgk6Qzb7XUSaSA), [Soul Reggae](https://open.spotify.com/artist/0pid9Vzg6fTn41JwVIVCJB) | [Soul Reggae](https://open.spotify.com/album/0ilGytXUMqHh6DPYQSmFqk) | 3:38 |
 | 69 | [Family](https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl) | [Stailok](https://open.spotify.com/artist/3raEZI89hszEBTTvb5wLsi), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Family](https://open.spotify.com/album/3ErU1DF7DYc6bcFf2zcBrB) | 4:18 |
 | 70 | [Nadie Sabe](https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Que Bonita Vecindad](https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh) | 3:43 |
 | 71 | [Fiesta de zombis](https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fiesta de Zombis](https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp) | 4:14 |
@@ -96,6 +96,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 86 | [Cool and Calm](https://open.spotify.com/track/4b99UsjZul6cpWAHRfAqnq) | [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v) | [Cool and Calm](https://open.spotify.com/album/1SrHyPTxUtvtrVd2vHJ24U) | 2:58 |
 | 87 | [Volver a Sentir \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 4:11 |
 | 88 | [Arde](https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Arde](https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7) | 3:06 |
-| 89 | [Tiempo de Sanar](https://open.spotify.com/track/42gffMEfyOkFe7rcwtFCfT) | [Vida Pura](https://open.spotify.com/artist/0C2jbGQ3uelHXnEiU65FLJ) | [Flores de Asfalto](https://open.spotify.com/album/7qIbWGHp0kkfqXOcRP9Xfe) | 5:01 |
+| 89 | [Bebamos de las Copas Lindas](https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Bebamos de las Copas Lindas](https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV) | 3:27 |
 
-Snapshot ID: `AAAAAHVwiLOdCFrFXq0cFkIxNP73J7Tw`
+Snapshot ID: `AAAAAKXFP7jJDHoZr/34tUYX1s9KIvP2`

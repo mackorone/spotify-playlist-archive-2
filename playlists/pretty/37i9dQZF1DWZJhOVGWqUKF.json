@@ -1,12 +1,12 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: ITCHY",
-  "num_followers": 336973,
+  "num_followers": 336958,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP8Xmj8+qJMGFHWXghBK9+OuNxYd",
+  "snapshot_id": "AAAAAOz0QpyUMkiChNciHHDGV4I1bZ7Z",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:03",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-10-15 22:01:03",
       "album": {
-        "name": "Mourning",
-        "url": "https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 256024,
-      "name": "Mourning",
-      "url": "https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF"
-    },
-    {
-      "added_at": "2026-10-15 22:01:03",
-      "album": {
         "name": "Leave Me Behind",
         "url": "https://open.spotify.com/album/0PTnNwY4AWv7JaUJlq3IiE"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 228052,
       "name": "Leave Me Behind",
       "url": "https://open.spotify.com/track/725iRJfbDtAXjWiO3pDIpQ"
+    },
+    {
+      "added_at": "2026-10-15 22:01:03",
+      "album": {
+        "name": "Mourning",
+        "url": "https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 256024,
+      "name": "Mourning",
+      "url": "https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF"
     },
     {
       "added_at": "2026-10-15 22:01:03",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-10-15 22:01:03",
       "album": {
+        "name": "Lost In Translation",
+        "url": "https://open.spotify.com/album/4Bb2zE4hUL1g0Bc2aSfX55"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 195334,
+      "name": "Lost In Translation",
+      "url": "https://open.spotify.com/track/0HZK8CFbJECGqCXhCMlrQJ"
+    },
+    {
+      "added_at": "2026-10-15 22:01:03",
+      "album": {
         "name": "Swallow The Bomb",
         "url": "https://open.spotify.com/album/15sTjwRdBcNiRwHT2fjso4"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 283991,
       "name": "HELEN KELLER",
       "url": "https://open.spotify.com/track/2Ava4a7PWhrhAPFFnzN8Bb"
-    },
-    {
-      "added_at": "2026-10-15 22:01:03",
-      "album": {
-        "name": "Lost In Translation",
-        "url": "https://open.spotify.com/album/4Bb2zE4hUL1g0Bc2aSfX55"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 195334,
-      "name": "Lost In Translation",
-      "url": "https://open.spotify.com/track/0HZK8CFbJECGqCXhCMlrQJ"
     },
     {
       "added_at": "2026-10-15 22:01:03",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-10-15 22:01:03",
       "album": {
-        "name": "Ten Over Ten",
-        "url": "https://open.spotify.com/album/2bKHlLmzDVv2Yn3cB1o9za"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 197323,
-      "name": "Ten Over Ten",
-      "url": "https://open.spotify.com/track/2iXoZ4qfHQ4zfXpLo5RH0m"
-    },
-    {
-      "added_at": "2026-10-15 22:01:03",
-      "album": {
         "name": "Even If It Kills Me",
         "url": "https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 212239,
       "name": "Even If It Kills Me",
       "url": "https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA"
+    },
+    {
+      "added_at": "2026-10-15 22:01:03",
+      "album": {
+        "name": "Ten Over Ten",
+        "url": "https://open.spotify.com/album/2bKHlLmzDVv2Yn3cB1o9za"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 197323,
+      "name": "Ten Over Ten",
+      "url": "https://open.spotify.com/track/2iXoZ4qfHQ4zfXpLo5RH0m"
     },
     {
       "added_at": "2026-10-15 22:01:03",
@@ -987,22 +987,6 @@
       "duration_ms": 207344,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/7KLFCXhioKvErGSF0qD1Ag"
-    },
-    {
-      "added_at": "2026-10-15 22:01:03",
-      "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/10reOzyrRiJQehulKminkn"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 225229,
-      "name": "Evolution",
-      "url": "https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp"
     },
     {
       "added_at": "2026-10-15 22:01:03",
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2026-10-15 22:01:03",
       "album": {
-        "name": "Landfall",
-        "url": "https://open.spotify.com/album/4m7ho0oxRsgEnqMFPBIHdE"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/10reOzyrRiJQehulKminkn"
       },
       "artists": [
         {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 222418,
-      "name": "Landfall",
-      "url": "https://open.spotify.com/track/4mMItGEzQyEX7kZ6q2uUYd"
+      "duration_ms": 225229,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp"
     },
     {
       "added_at": "2026-10-15 22:01:03",
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2026-10-15 22:01:03",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 240151,
+      "name": "Wonderwall - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+    },
+    {
+      "added_at": "2026-10-15 22:01:03",
+      "album": {
         "name": "The Plot In You",
         "url": "https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf"
       },
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-10-15 22:01:03",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+        "name": "Landfall",
+        "url": "https://open.spotify.com/album/4m7ho0oxRsgEnqMFPBIHdE"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
         }
       ],
-      "duration_ms": 240151,
-      "name": "Wonderwall - Spotify Singles",
-      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+      "duration_ms": 222418,
+      "name": "Landfall",
+      "url": "https://open.spotify.com/track/4mMItGEzQyEX7kZ6q2uUYd"
     },
     {
       "added_at": "2026-10-15 22:01:03",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-10-15 22:01:03",
       "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 195161,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
+    },
+    {
+      "added_at": "2026-10-15 22:01:03",
+      "album": {
         "name": "Let The Good Times Roll (feat. The Offspring)",
         "url": "https://open.spotify.com/album/3DYNEZppvFYlMwHri5UrXt"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 210913,
       "name": "Let The Good Times Roll (feat. The Offspring)",
       "url": "https://open.spotify.com/track/2pdls2qWOcB33HveBJdS2f"
-    },
-    {
-      "added_at": "2026-10-15 22:01:03",
-      "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 195161,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
     },
     {
       "added_at": "2026-10-15 22:01:03",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-10-15 22:01:03",
       "album": {
-        "name": "If Not Now, When",
-        "url": "https://open.spotify.com/album/7GRsZT1o71GjMtbBNfOpB6"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        }
-      ],
-      "duration_ms": 237384,
-      "name": "If Not Now, When",
-      "url": "https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc"
-    },
-    {
-      "added_at": "2026-10-15 22:01:03",
-      "album": {
         "name": "Idols",
         "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 206000,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
+    },
+    {
+      "added_at": "2026-10-15 22:01:03",
+      "album": {
+        "name": "If Not Now, When",
+        "url": "https://open.spotify.com/album/7GRsZT1o71GjMtbBNfOpB6"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "duration_ms": 237384,
+      "name": "If Not Now, When",
+      "url": "https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc"
     },
     {
       "added_at": "2026-10-15 22:01:03",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-10-15 22:01:03",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/20Tmo6elKHBrSnz6hsuHKz"
-      },
-      "artists": [
-        {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        }
-      ],
-      "duration_ms": 203633,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/3TaeBT5aGh7qxbxTPoLpf1"
-    },
-    {
-      "added_at": "2026-10-15 22:01:03",
-      "album": {
         "name": "Unshatter",
         "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 196112,
       "name": "Unshatter",
       "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
+    },
+    {
+      "added_at": "2026-10-15 22:01:03",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/20Tmo6elKHBrSnz6hsuHKz"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 203633,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3TaeBT5aGh7qxbxTPoLpf1"
     },
     {
       "added_at": "2026-10-15 22:01:03",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-10-15 22:01:03",
       "album": {
-        "name": "Cryogen",
-        "url": "https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 301825,
-      "name": "Cryogen",
-      "url": "https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI"
-    },
-    {
-      "added_at": "2026-10-15 22:01:03",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
       },
@@ -1619,6 +1603,22 @@
     {
       "added_at": "2026-10-15 22:01:03",
       "album": {
+        "name": "Cryogen",
+        "url": "https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 301825,
+      "name": "Cryogen",
+      "url": "https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI"
+    },
+    {
+      "added_at": "2026-10-15 22:01:03",
+      "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts"
       },
@@ -1631,38 +1631,6 @@
       "duration_ms": 236775,
       "name": "1x1",
       "url": "https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN"
-    },
-    {
-      "added_at": "2026-10-15 22:01:03",
-      "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM"
-    },
-    {
-      "added_at": "2026-10-15 22:01:03",
-      "album": {
-        "name": "Everything Is Fine",
-        "url": "https://open.spotify.com/album/1nXFy9tqZLTLsKLBK9cWtT"
-      },
-      "artists": [
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        }
-      ],
-      "duration_ms": 217189,
-      "name": "Everything Is Fine",
-      "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
     },
     {
       "added_at": "2026-10-15 22:01:03",
@@ -1683,18 +1651,50 @@
     {
       "added_at": "2026-10-15 22:01:03",
       "album": {
-        "name": "Unravelling",
-        "url": "https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh"
+        "name": "Everything Is Fine",
+        "url": "https://open.spotify.com/album/1nXFy9tqZLTLsKLBK9cWtT"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
         }
       ],
-      "duration_ms": 238002,
-      "name": "Unravelling",
-      "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
+      "duration_ms": 217189,
+      "name": "Everything Is Fine",
+      "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
+    },
+    {
+      "added_at": "2026-10-15 22:01:03",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM"
+    },
+    {
+      "added_at": "2026-10-15 22:01:03",
+      "album": {
+        "name": "WE ARE EMPIRE",
+        "url": "https://open.spotify.com/album/4GtAnZ58WCp80acUpwM50P"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 360216,
+      "name": "WE ARE EMPIRE",
+      "url": "https://open.spotify.com/track/6ose7JySKEZszL4eisoFhM"
     }
   ],
   "unique_name": "Rock Rotation",

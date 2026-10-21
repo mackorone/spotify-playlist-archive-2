@@ -4,7 +4,7 @@
 
 > 9월 10\-13일, \[SPOTIFY HOUSE 서울\] 열기 그대로, 라이브 퍼포먼스 영상과 함께 라인업 아티스트의 셋리스트를 감상해보세요!
 
-308 songs - 17 hr 5 min
+310 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Knockdown](https://open.spotify.com/track/7Bok5pIQl8Wuj5xf6qZpE5) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Chill](https://open.spotify.com/album/3W873KOrXXUFqGxW2ESgoo) | 3:24 | 2026-08-11 | 2026-09-16 |
 | [KoK](https://open.spotify.com/track/0FkaSDPSLyOHFsFAWsB6ef) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [KoK](https://open.spotify.com/album/19D2E2n4tigW6HVZKfJgCU) | 8:26 | 2026-09-09 |  |
 | [KOLOK COLOK](https://open.spotify.com/track/0z2KNZtMFEe1BvON8pT1Ay) | [KC](https://open.spotify.com/artist/0hQTMC0zU4pFW0Lc7ExB6f), [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G) | [KC3](https://open.spotify.com/album/2m8rq4ip4MPBvceEHdgH5G) | 1:31 | 2026-08-11 |  |
+| [KOLOK COLOK \- Spotify House Seoul 2026](https://open.spotify.com/track/1PGkr29ARJCIQaXyzwY2Yo) | [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G) | [KOLOK COLOK \- Spotify House Seoul 2026](https://open.spotify.com/album/0aRdFs6Ek8MiyPr0txFKiJ) | 1:50 | 2026-10-20 |  |
 | [KOREAN ANTHEM](https://open.spotify.com/track/4vYLZn6tCxVmabeB18FmUH) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [KC](https://open.spotify.com/artist/0hQTMC0zU4pFW0Lc7ExB6f) | [2000 TAPE](https://open.spotify.com/album/0HhoqCRYpuH5sc9mlgCgrF) | 3:31 | 2026-08-11 |  |
 | [Landing in Love](https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Take\-off](https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV) | 2:45 | 2025-11-03 | 2026-08-11 |
 | [LEADPOISON \- VIP](https://open.spotify.com/track/6YMQoiEQ52iFkXwmRPOtSA) | [Acyan](https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4) | [PHANTOMS & FANGS](https://open.spotify.com/album/7N1ssmUi63c7mdzUmy2xka) | 2:58 | 2025-11-19 | 2026-08-11 |
@@ -302,6 +303,7 @@
 | [Wifey](https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Wifey](https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0) | 2:04 | 2026-09-15 |  |
 | [Yanghwa BRDG](https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Yanghwa BRDG](https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4) | 3:49 | 2025-11-03 | 2025-11-20 |
 | [Yarrr](https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Yarrr](https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ) | 2:46 | 2026-09-15 |  |
+| [Yarrr \- Spotify House Seoul 2026](https://open.spotify.com/track/1yKBIZGBU4JNqXX3ONTeC0) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Yarrr \- Spotify House Seoul 2026](https://open.spotify.com/album/16m9MshFjqm6kDftE9cJsW) | 1:47 | 2026-10-20 |  |
 | [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 | 2025-11-03 | 2026-08-11 |
 | [YGGR \(Feat\. MC Meta\)](https://open.spotify.com/track/78bISaVykjuQPSdQr490xK) | [Illionaire Records](https://open.spotify.com/artist/0cFZMug8SFBmK1saAOhC3z), [MC Meta](https://open.spotify.com/artist/4BNQJ8Afxte6sh70hKEFdu) | [11:11](https://open.spotify.com/album/3P8s6sPNLMDOm95Ij7AGr7) | 4:34 | 2026-09-15 |  |
 | [You](https://open.spotify.com/track/2Ue79QvhzL6lcaTuIsdckH) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Secret](https://open.spotify.com/album/5fnBN3lcX8BV4pwmUpghiv) | 2:08 | 2026-09-15 |  |

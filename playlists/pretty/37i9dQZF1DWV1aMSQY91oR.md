@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,709 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,745 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [BUNK](https://open.spotify.com/track/3jU9KYS2RPPUKaVPBAf7Xk) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5) | [BUNK](https://open.spotify.com/album/5dq2DpY9osvpzoRjTko6vG) | 2:20 |
 | 50 | [Location](https://open.spotify.com/track/6k15cYdLOjmEMSWHHCArUj) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Location](https://open.spotify.com/album/3Kpv3BRmK2PGeGPuvToFrh) | 2:34 |
 
-Snapshot ID: `AAAAADdU7piXiKthEYiYH/XhGm8nd2mc`
+Snapshot ID: `AAAAAH0Spci9+lc1TcTktLHqirfEt9Mw`

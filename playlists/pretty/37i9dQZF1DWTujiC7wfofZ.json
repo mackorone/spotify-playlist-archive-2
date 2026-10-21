@@ -1,12 +1,12 @@
 {
   "description": "100% indie floorfillers.",
-  "num_followers": 458653,
+  "num_followers": 458646,
   "original_name": "Indie Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJwRR/9XFFNzT6AXRgN5R6paOLZF",
+  "snapshot_id": "AAAAAJxdVP2decpX6l32mM1mSO9DuR26",
   "tracks": [
     {
       "added_at": "2024-12-20 01:31:11",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Tieduprightnow",
-        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 249956,
-      "name": "Tieduprightnow",
-      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Lungs (Deluxe Version)",
         "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 168666,
       "name": "You've Got The Love",
       "url": "https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Tieduprightnow",
+        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 249956,
+      "name": "Tieduprightnow",
+      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 140080,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 242266,
       "name": "D.A.N.C.E.",
       "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 140080,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1713,6 +1713,22 @@
       "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
     },
     {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 207587,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
+    },
+    {
       "added_at": "2024-12-30 11:00:05",
       "album": {
         "name": "Volcano",
@@ -1731,22 +1747,6 @@
       "duration_ms": 226280,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
-        "name": "Cherry Blossom",
-        "url": "https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 207587,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "How Big, How Blue, How Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 293468,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/12HB8AmFTovKrFcGG36KbL"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 157366,
       "name": "Apple featuring the japanese house",
       "url": "https://open.spotify.com/track/1PJe42QnCMD6JqhcooaWzc"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "How Big, How Blue, How Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 293468,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/12HB8AmFTovKrFcGG36KbL"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Django Django",
-        "url": "https://open.spotify.com/album/1in9OlbNsLoJ8obUGhktxa"
-      },
-      "artists": [
-        {
-          "name": "Django Django",
-          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Default",
-      "url": "https://open.spotify.com/track/1EmimnysAUBhiy8rDbNN01"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "It Won't Always Be Like This",
         "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 194586,
       "name": "Lost In My Bedroom",
       "url": "https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Django Django",
+        "url": "https://open.spotify.com/album/1in9OlbNsLoJ8obUGhktxa"
+      },
+      "artists": [
+        {
+          "name": "Django Django",
+          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Default",
+      "url": "https://open.spotify.com/track/1EmimnysAUBhiy8rDbNN01"
     },
     {
       "added_at": "2024-12-30 11:00:05",

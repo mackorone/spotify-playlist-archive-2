@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Fontaines D.C., Olivia Rodrigo & Chappell Roan, Zach Bryan, Rachel Chinouriri and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,039,768 likes - 98 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,680 likes - 98 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 68 | [Lucy, When You Wake Up](https://open.spotify.com/track/6zQxRQTscqIdvvi7C5JhX5) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Lucy, When You Wake Up](https://open.spotify.com/album/22jM2Q6r740ZFQOqJwnMs0) | 3:34 |
 | 69 | [You Still Love Me Anyway](https://open.spotify.com/track/7zV2WzbxFaYxC3Uv4LBQwF) | [Ruby Poole](https://open.spotify.com/artist/4NOjKCalI88oi54IV7vJ7o) | [You Still Love Me Anyway](https://open.spotify.com/album/4W1JzgDQTHFnENEJqkoSQd) | 2:59 |
 | 70 | [Libera](https://open.spotify.com/track/0wubCyhuUq3NRB73PdPxiS) | [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU), [Margaridas](https://open.spotify.com/artist/2s7Kara3RovkRHclzCt9jn) | [Luso](https://open.spotify.com/album/214sHCmITqZqhAr6lzSSda) | 4:55 |
-| 71 | [Lillies](https://open.spotify.com/track/4M0awukHJ1DanhC6CrsHS1) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Jazmine Johnson](https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz) | [Lillies](https://open.spotify.com/album/0pxugD9PQrcccc8azjzKLX) | 4:09 |
+| 71 | [Lilies](https://open.spotify.com/track/4M0awukHJ1DanhC6CrsHS1) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Jazmine Johnson](https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz) | [Lilies](https://open.spotify.com/album/0pxugD9PQrcccc8azjzKLX) | 4:09 |
 | 72 | [Easy Love](https://open.spotify.com/track/23QXuv4NHqC4TKUPLJhW4e) | [Beattie](https://open.spotify.com/artist/3wymvWMpCgtYf1CtV4ZddR) | [Inside My Mind](https://open.spotify.com/album/3lAWm2kc4A3A5SLLesRagS) | 3:52 |
 | 73 | [ONLY YOURS](https://open.spotify.com/track/4CVs4esTCWWJkUnOnDUUHq) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [ONLY YOURS](https://open.spotify.com/album/37zCy87vFnMTbxqXr4d2OJ) | 3:04 |
 | 74 | [Whole Room Dancing](https://open.spotify.com/track/4H7K86ED2CD527gllnpF0F) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [JRM](https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a) | [Whole Room Dancing](https://open.spotify.com/album/44wu5EOlqWT4yVUrAJ0qTC) | 2:56 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 97 | [Someone Like You](https://open.spotify.com/track/08T4rQxqam71tSDhl9Z318) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [THEOS](https://open.spotify.com/artist/1hfqK3rF48A3CDcV8SAiyM) | [Somehow It Flies](https://open.spotify.com/album/7bVIDJ4DSctHgCnPvBi3Mt) | 2:41 |
 | 98 | [Good Light](https://open.spotify.com/track/1k72oFz1g4x52G2YcOoT8z) | [Bash Croft](https://open.spotify.com/artist/0z6dMH7qcKgqKnJy4j9nil) | [Good Light](https://open.spotify.com/album/6HaelxqjtVMzcpSs6O2GjA) | 3:14 |
 
-Snapshot ID: `AAAAAFe7B6Fsny3kKaiX1uom1CULlsjX`
+Snapshot ID: `AAAAANd7Y5u7kLJvbXrXkSSjLqvjISnp`

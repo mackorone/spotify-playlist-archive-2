@@ -1,12 +1,12 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 518473,
+  "num_followers": 518470,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIqlUoutG+2otcYleKGhraDoqSRf",
+  "snapshot_id": "AAAAAGEwWNGQlN5FzgVa2Fe8nDiQe+3L",
   "tracks": [
     {
       "added_at": "2024-06-03 14:45:23",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C"
-      },
-      "artists": [
-        {
-          "name": "Andy Kim",
-          "url": "https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli"
-        }
-      ],
-      "duration_ms": 208333,
-      "name": "Rock Me Gently",
-      "url": "https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "The Way We Were: The Best Of Gladys Knight & The Pips",
         "url": "https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 280093,
       "name": "Midnight Train to Georgia",
       "url": "https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C"
+      },
+      "artists": [
+        {
+          "name": "Andy Kim",
+          "url": "https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "Rock Me Gently",
+      "url": "https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "All Things Must Pass (Remastered)",
-        "url": "https://open.spotify.com/album/16YCkHew4MBxGtpqkCTx6M"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 281226,
-      "name": "My Sweet Lord",
-      "url": "https://open.spotify.com/track/1chu8wc9zbNqTQ2ahROys1"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Honky Chateau (Remastered)",
         "url": "https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Lynyrd Skynyrd - Rock Legends",
-        "url": "https://open.spotify.com/album/7Mwqh8hDH11m3niZPzKIIC"
+        "name": "All Things Must Pass (Remastered)",
+        "url": "https://open.spotify.com/album/16YCkHew4MBxGtpqkCTx6M"
       },
       "artists": [
         {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 285346,
-      "name": "Sweet Home Alabama",
-      "url": "https://open.spotify.com/track/4X1LS2LEYxKdlvHq5oZesi"
+      "duration_ms": 281226,
+      "name": "My Sweet Lord",
+      "url": "https://open.spotify.com/track/1chu8wc9zbNqTQ2ahROys1"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -983,6 +967,22 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
+        "name": "Lynyrd Skynyrd - Rock Legends",
+        "url": "https://open.spotify.com/album/7Mwqh8hDH11m3niZPzKIIC"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 285346,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/4X1LS2LEYxKdlvHq5oZesi"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
       },
@@ -995,22 +995,6 @@
       "duration_ms": 254453,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/703BT1NQsfIwPFv8MXQ47m"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
-        "name": "Five-A-Side",
-        "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
-      },
-      "artists": [
-        {
-          "name": "Ace",
-          "url": "https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1031,6 +1015,22 @@
       "duration_ms": 275440,
       "name": "Don't Go Breaking My Heart",
       "url": "https://open.spotify.com/track/5nPdMALTEd7HOjn16oNf2X"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Five-A-Side",
+        "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
+      },
+      "artists": [
+        {
+          "name": "Ace",
+          "url": "https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
     },
     {
       "added_at": "2024-06-03 14:45:23",

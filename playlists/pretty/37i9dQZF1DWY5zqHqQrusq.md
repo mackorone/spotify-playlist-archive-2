@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind\. Cover: Shad Mziki
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,745 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,748 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 49 | [TAKES TWO TO TANGO](https://open.spotify.com/track/58h0eY4GbidYlPoFRMQlme) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Slailah](https://open.spotify.com/artist/22iYTRzRdq07ngvF5ZAC5U), [Mikkah](https://open.spotify.com/artist/77L9ffhefvK540POxDBkRA) | [TAKES TWO TO TANGO](https://open.spotify.com/album/6T3PBBwxvTcaKD3gdkK2GB) | 3:29 |
 | 50 | [Fly](https://open.spotify.com/track/1RboxJGwwhPee5v79GH8fJ) | [Garvin Mungai](https://open.spotify.com/artist/1ySToM2gqZ2iLR89TBJX81), [Onyach Pala](https://open.spotify.com/artist/0n6oUcA6fVz1OAGydM9s2U) | [Fly](https://open.spotify.com/album/2KQudMxXH2DVX533i2o8Gp) | 3:40 |
 
-Snapshot ID: `AAAAAO/MwvZFDjbK94Z/7n+1JxmVORur`
+Snapshot ID: `AAAAAB8HWm7aM2w6tIIePpHy6NuyWaoF`

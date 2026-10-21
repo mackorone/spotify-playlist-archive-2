@@ -4521,6 +4521,24 @@
     },
     {
       "album": {
+        "name": "\u3046\u3089\u3089\u304b",
+        "url": "https://open.spotify.com/album/6zLKsbPXwuP8tx4ZO7CktQ"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261480,
+      "name": "\u3046\u3089\u3089\u304b",
+      "url": "https://open.spotify.com/track/1DDzoKgiAZQQLqIo35mwi9"
+    },
+    {
+      "album": {
         "name": "\u4f59\u547d10\u5e74 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4BVxkC0NDkRLpTmNdDnPmz"
       },
@@ -9314,7 +9332,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 209777,
       "name": "\u7f8e\u3057\u3044\u9c2d",
       "url": "https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP"

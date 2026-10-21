@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Katy da Voz e As Abusadas",
-  "num_followers": 247585,
+  "num_followers": 247575,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAADtNmxtpR94LgkYjeOI5I9fasgG",
+  "snapshot_id": "AAAAAPlrswROVolh7WG98TX2IU4cTB2N",
   "tracks": [
     {
       "added_at": "2026-10-16 14:04:25",
@@ -555,18 +555,22 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "TE AMO SEM CULPA",
-        "url": "https://open.spotify.com/album/3piwEDU4YDP5yPJjsavx9g"
+        "name": "Ventos Favor\u00e1veis",
+        "url": "https://open.spotify.com/album/3APk0mq8iLapPoU0uCCtT0"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Duh Marinho",
+          "url": "https://open.spotify.com/artist/0tE54MnqIWq8HHl1LzoFKf"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 154277,
-      "name": "TE AMO SEM CULPA",
-      "url": "https://open.spotify.com/track/74g5gz1MusuqwDliRLaHBB"
+      "duration_ms": 161072,
+      "name": "O MUNDO \u00c9 DETALHE PRA N\u00d3S",
+      "url": "https://open.spotify.com/track/0BUdmQFbk14Cvuduk29UGS"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -595,22 +599,18 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "Ventos Favor\u00e1veis",
-        "url": "https://open.spotify.com/album/3APk0mq8iLapPoU0uCCtT0"
+        "name": "TE AMO SEM CULPA",
+        "url": "https://open.spotify.com/album/3piwEDU4YDP5yPJjsavx9g"
       },
       "artists": [
         {
-          "name": "Duh Marinho",
-          "url": "https://open.spotify.com/artist/0tE54MnqIWq8HHl1LzoFKf"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
         }
       ],
-      "duration_ms": 161072,
-      "name": "O MUNDO \u00c9 DETALHE PRA N\u00d3S",
-      "url": "https://open.spotify.com/track/0BUdmQFbk14Cvuduk29UGS"
+      "duration_ms": 154277,
+      "name": "TE AMO SEM CULPA",
+      "url": "https://open.spotify.com/track/74g5gz1MusuqwDliRLaHBB"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -987,6 +987,26 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
+        "name": "Alfazema e Sal Grosso",
+        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
+      },
+      "artists": [
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Alfazema e Sal Grosso",
+      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
         "name": "Intui\u00e7\u00e3o Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1Gb1JHL5TZ4GQKtdysHcQz"
       },
@@ -1027,26 +1047,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "Alfazema e Sal Grosso",
-        "url": "https://open.spotify.com/album/3T5vB0vosHgzAawwhwSI6B"
-      },
-      "artists": [
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Alfazema e Sal Grosso",
-      "url": "https://open.spotify.com/track/41y21qnAdrHhnWLRdd7O6U"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "Gambiarra Chic, Pt. 1",
         "url": "https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz"
       },
@@ -1083,6 +1083,30 @@
       "duration_ms": 186461,
       "name": "Dilema",
       "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
+        "name": "LCD (feat. kouth)",
+        "url": "https://open.spotify.com/album/6kuLYNfd3FlBY5rTW9lfFq"
+      },
+      "artists": [
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        },
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        },
+        {
+          "name": "FUSO!",
+          "url": "https://open.spotify.com/artist/2nVbDbaNm0KhD8zfkTk6pq"
+        }
+      ],
+      "duration_ms": 192241,
+      "name": "LCD (feat. kouth)",
+      "url": "https://open.spotify.com/track/1pcSp1ZZxInmzkFRKSfosW"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -1179,26 +1203,6 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "SANDRA ELETR\u00d4NICA",
-        "url": "https://open.spotify.com/album/2yVXAGytmz2Evn002WJ8m3"
-      },
-      "artists": [
-        {
-          "name": "Katy da Voz e as abusadas",
-          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
-        },
-        {
-          "name": "Christopher Luz",
-          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
-        }
-      ],
-      "duration_ms": 218482,
-      "name": "Drogas, Sexo, Techno, Repete!",
-      "url": "https://open.spotify.com/track/4wUsRZiduP97n8NDTPbNch"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
         "name": "Deixa a Gira Girar",
         "url": "https://open.spotify.com/album/7ufhsTfziKNTbMmSyu8LAS"
       },
@@ -1243,26 +1247,22 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
-        "name": "LCD (feat. kouth)",
-        "url": "https://open.spotify.com/album/6kuLYNfd3FlBY5rTW9lfFq"
+        "name": "SANDRA ELETR\u00d4NICA",
+        "url": "https://open.spotify.com/album/2yVXAGytmz2Evn002WJ8m3"
       },
       "artists": [
         {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
         },
         {
-          "name": "kouth",
-          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
-        },
-        {
-          "name": "FUSO!",
-          "url": "https://open.spotify.com/artist/2nVbDbaNm0KhD8zfkTk6pq"
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
         }
       ],
-      "duration_ms": 192241,
-      "name": "LCD (feat. kouth)",
-      "url": "https://open.spotify.com/track/1pcSp1ZZxInmzkFRKSfosW"
+      "duration_ms": 218482,
+      "name": "Drogas, Sexo, Techno, Repete!",
+      "url": "https://open.spotify.com/track/4wUsRZiduP97n8NDTPbNch"
     },
     {
       "added_at": "2026-10-16 14:04:25",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-10-16 14:04:25",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/3FYxYJtYa7JCL0P0G5tVg0"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/2OLLRxyUx1qVXo3t8lTZed"
+        }
+      ],
+      "duration_ms": 202052,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/0buwBMI8fS3RBvVF4H8W1a"
+    },
+    {
+      "added_at": "2026-10-16 14:04:25",
+      "album": {
         "name": "Sinal",
         "url": "https://open.spotify.com/album/4AqmNLl4yXukJZha7K6lOr"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 253150,
       "name": "Sinal",
       "url": "https://open.spotify.com/track/6Ayfv5QkbkmizeyjeQ5gRW"
-    },
-    {
-      "added_at": "2026-10-16 14:04:25",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/3FYxYJtYa7JCL0P0G5tVg0"
-      },
-      "artists": [
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/2OLLRxyUx1qVXo3t8lTZed"
-        }
-      ],
-      "duration_ms": 202052,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/0buwBMI8fS3RBvVF4H8W1a"
     },
     {
       "added_at": "2026-10-16 14:04:25",

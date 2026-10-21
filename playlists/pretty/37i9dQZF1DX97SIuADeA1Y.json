@@ -1,12 +1,12 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 339527,
+  "num_followers": 339518,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGCorTheoR6459t4Ba70c09COxb8",
+  "snapshot_id": "AAAAAGMlzUM2numBuBQUzRwuCNa5RRdy",
   "tracks": [
     {
       "added_at": "2025-02-14 16:04:15",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 172500,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U"
-      },
-      "artists": [
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Skippin",
+        "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
+      },
+      "artists": [
+        {
+          "name": "MAXAM",
+          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        }
+      ],
+      "duration_ms": 157446,
+      "name": "Skippin",
+      "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Heaven (feat. Sofia Quinn)",
         "url": "https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 171000,
       "name": "Heaven (feat. Sofia Quinn)",
       "url": "https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Skippin",
-        "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
-      },
-      "artists": [
-        {
-          "name": "MAXAM",
-          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
-        },
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        }
-      ],
-      "duration_ms": 157446,
-      "name": "Skippin",
-      "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
     },
     {
       "added_at": "2025-02-14 16:04:15",

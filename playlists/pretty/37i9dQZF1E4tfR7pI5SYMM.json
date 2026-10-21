@@ -1,12 +1,12 @@
 {
-  "description": "With Autoimmune, Bad Scullianz, The Inklings and more",
+  "description": "With Pablo Mercedes, Autoimmune, Bad Scullianz and more",
   "num_followers": 23,
   "original_name": "Bipolar Superstar Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVital6y6lyRuMwf7twlaMnYlry",
+  "snapshot_id": "AAAAAIXHof5+UZzDUjgs5FFPDbjC/uKZ",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damaged Too?",
+        "url": "https://open.spotify.com/album/6Fy8A2vIACrBRClFWVZDmj"
+      },
+      "artists": [
+        {
+          "name": "damage done",
+          "url": "https://open.spotify.com/artist/6lRXnnW2eobKikk7udzbfP"
+        }
+      ],
+      "duration_ms": 198853,
+      "name": "Daily Deadly Sin",
+      "url": "https://open.spotify.com/track/1fihFELXz1qLkaDwuhI8TE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "(Don`t Wait For) The Next Call",
         "url": "https://open.spotify.com/album/4Fqy1lBu3VebzMWPAsxz6b"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 169000,
       "name": "(Don`t Wait For) The Next Call - Feat Sixxkiller",
       "url": "https://open.spotify.com/track/6rORsjerzCWPwCawd8T76m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contrivances for the Soul",
-        "url": "https://open.spotify.com/album/328tKiQIypLdLRK43EmSzh"
-      },
-      "artists": [
-        {
-          "name": "Pete Jones",
-          "url": "https://open.spotify.com/artist/5XTKeYviTKOEj2xLSz0aLE"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "Psycho Drill",
-      "url": "https://open.spotify.com/track/6UXUcPabJyN1obijdKq7gr"
     },
     {
       "added_at": null,
@@ -119,34 +119,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lonely Heart",
-        "url": "https://open.spotify.com/album/5sxNgTEfhtUqfNG2bR4rG9"
+        "name": "Contrivances for the Soul",
+        "url": "https://open.spotify.com/album/328tKiQIypLdLRK43EmSzh"
       },
       "artists": [
         {
-          "name": "Sundrast",
-          "url": "https://open.spotify.com/artist/7xXdDxmTim2I1wkMn8QAuZ"
+          "name": "Pete Jones",
+          "url": "https://open.spotify.com/artist/5XTKeYviTKOEj2xLSz0aLE"
         }
       ],
-      "duration_ms": 183442,
-      "name": "Lonely Heart",
-      "url": "https://open.spotify.com/track/5UuGtAYFTPxOJYMH8pH3e3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damaged Too?",
-        "url": "https://open.spotify.com/album/6Fy8A2vIACrBRClFWVZDmj"
-      },
-      "artists": [
-        {
-          "name": "damage done",
-          "url": "https://open.spotify.com/artist/6lRXnnW2eobKikk7udzbfP"
-        }
-      ],
-      "duration_ms": 198853,
-      "name": "Daily Deadly Sin",
-      "url": "https://open.spotify.com/track/1fihFELXz1qLkaDwuhI8TE"
+      "duration_ms": 295200,
+      "name": "Psycho Drill",
+      "url": "https://open.spotify.com/track/6UXUcPabJyN1obijdKq7gr"
     },
     {
       "added_at": null,
@@ -167,18 +151,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kick the Shit",
-        "url": "https://open.spotify.com/album/3I40ugyrMAwqnNyODowg46"
+        "name": "Last Chance To Refill (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3seCqj6Z6cccrAGQubK0eb"
       },
       "artists": [
         {
-          "name": "Rats Arse",
-          "url": "https://open.spotify.com/artist/6jETvX4H1BGANHljYXTyRY"
+          "name": "Sanguine",
+          "url": "https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f"
         }
       ],
-      "duration_ms": 155846,
-      "name": "Kick the Shit",
-      "url": "https://open.spotify.com/track/3kvludAdfWJNKxacq95b5u"
+      "duration_ms": 161036,
+      "name": "Song For The Hanged Man - 2023 Remaster",
+      "url": "https://open.spotify.com/track/4SN0uYAxfgbKyruepzAvEs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lonely Heart",
+        "url": "https://open.spotify.com/album/5sxNgTEfhtUqfNG2bR4rG9"
+      },
+      "artists": [
+        {
+          "name": "Sundrast",
+          "url": "https://open.spotify.com/artist/7xXdDxmTim2I1wkMn8QAuZ"
+        }
+      ],
+      "duration_ms": 183442,
+      "name": "Lonely Heart",
+      "url": "https://open.spotify.com/track/5UuGtAYFTPxOJYMH8pH3e3"
     },
     {
       "added_at": null,
@@ -199,118 +199,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Chance To Refill (2023 Remaster)",
-        "url": "https://open.spotify.com/album/3seCqj6Z6cccrAGQubK0eb"
+        "name": "Casca Vazia",
+        "url": "https://open.spotify.com/album/0GK7D3cILFXqPxoShaRnUa"
       },
       "artists": [
         {
-          "name": "Sanguine",
-          "url": "https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f"
+          "name": "Clandestinos",
+          "url": "https://open.spotify.com/artist/5WHuIGWeszbpy5C3OXIsHK"
         }
       ],
-      "duration_ms": 161036,
-      "name": "Song For The Hanged Man - 2023 Remaster",
-      "url": "https://open.spotify.com/track/4SN0uYAxfgbKyruepzAvEs"
+      "duration_ms": 227696,
+      "name": "Casca Vazia",
+      "url": "https://open.spotify.com/track/7yjoF01OVUYeOSJqmaGxqz"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Apache",
-        "url": "https://open.spotify.com/album/2Fobe2ESxbhOXXS7Khz1hu"
+        "name": "Another Kind Of The Blues",
+        "url": "https://open.spotify.com/album/2BfnKG0A1FhWheZ4WFrTWO"
       },
       "artists": [
         {
-          "name": "Svigermors Dr\u00f8m",
-          "url": "https://open.spotify.com/artist/6Px0ZNCG7EM5HjLWXsijKP"
+          "name": "Pablo Mercedes",
+          "url": "https://open.spotify.com/artist/6lYfGVFFXkVTmnZRLsldvt"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Apache",
-      "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/05Fd1VCrD97Ym3srvf2Xwj"
-      },
-      "artists": [
-        {
-          "name": "Statsmenn",
-          "url": "https://open.spotify.com/artist/0pqxeZgDNtg4049z4CBDdx"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Ikkje Som De Andre",
-      "url": "https://open.spotify.com/track/2mz3afL5LYaYMCafQh50TR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Narakarappor Alias The GrandMaster (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Aii9pAV0sP3HQLd3rKkIh"
-      },
-      "artists": [
-        {
-          "name": "Chinna",
-          "url": "https://open.spotify.com/artist/6Qsx5pClocDX1YLkA5tlkH"
-        },
-        {
-          "name": "Sujay",
-          "url": "https://open.spotify.com/artist/3dr5NKc1nzUhtxUzoKHDEy"
-        },
-        {
-          "name": "Deva Rajesh",
-          "url": "https://open.spotify.com/artist/1k5IHLnQBFNW2iH3iRUxHc"
-        },
-        {
-          "name": "Malaiarasan Periyasamy",
-          "url": "https://open.spotify.com/artist/06xAmurChnfDtMVHp1he6E"
-        },
-        {
-          "name": "Dinesh Antony",
-          "url": "https://open.spotify.com/artist/2JuI4dYYClik4TDHXaljWO"
-        },
-        {
-          "name": "Pugazhendi",
-          "url": "https://open.spotify.com/artist/4qig5HvSaAF9jK0GuP8QDH"
-        }
-      ],
-      "duration_ms": 119052,
-      "name": "Por Por - From \"Narakarappor Alias The GrandMaster\"",
-      "url": "https://open.spotify.com/track/6GRXpbjruwNCNpAgFsjbIF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Manneklem",
-        "url": "https://open.spotify.com/album/36erD8rvt5RqfDale07HIe"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 190438,
-      "name": "Manneklem",
-      "url": "https://open.spotify.com/track/1Lq7eIHMXAe7mBalme6A9Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patient X",
-        "url": "https://open.spotify.com/album/0MONbWwfVyG75eNIhHKzsi"
-      },
-      "artists": [
-        {
-          "name": "Jon Drake",
-          "url": "https://open.spotify.com/artist/6aWf1uxTEunlrzTTlhCtkg"
-        }
-      ],
-      "duration_ms": 188625,
-      "name": "Man on a Horse",
-      "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
+      "duration_ms": 167285,
+      "name": "Iron Line",
+      "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
     },
     {
       "added_at": null,
@@ -331,40 +247,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hounds of Thunder",
-        "url": "https://open.spotify.com/album/7sq25UiClHJU0UfmiPirr2"
+        "name": "Fake News",
+        "url": "https://open.spotify.com/album/2Y5010O2gCt1EVd8aSDZPF"
       },
       "artists": [
         {
-          "name": "HOUNDS OF THUNDER",
-          "url": "https://open.spotify.com/artist/4DQ4NvLGWjcoHVZlX6Boq6"
+          "name": "Bad Scullianz",
+          "url": "https://open.spotify.com/artist/4bwT7RjBc5o10Q0bc389EC"
         }
       ],
-      "duration_ms": 416568,
-      "name": "Cryin' Shame",
-      "url": "https://open.spotify.com/track/2PV4SFnrTo6nyZ7A7oT3wg"
+      "duration_ms": 261821,
+      "name": "Fake News",
+      "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pussycats And Monkeymen",
-        "url": "https://open.spotify.com/album/1S9h9MTNQpWcDei2MpAHHQ"
-      },
-      "artists": [
-        {
-          "name": "Monkey Intrusion",
-          "url": "https://open.spotify.com/artist/7tyiFCrq5MZcoQlDZ81NY1"
-        }
-      ],
-      "duration_ms": 226628,
-      "name": "Police Of The Soul",
-      "url": "https://open.spotify.com/track/6G20yrL25CrwhGL64ZRbuW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+        "name": "Manneklem",
+        "url": "https://open.spotify.com/album/36erD8rvt5RqfDale07HIe"
       },
       "artists": [
         {
@@ -372,41 +272,41 @@
           "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
         }
       ],
-      "duration_ms": 151000,
-      "name": "Briste Eller B\u00e6re",
-      "url": "https://open.spotify.com/track/7g5yhc1cnKF6rRzYsrhG89"
+      "duration_ms": 190438,
+      "name": "Manneklem",
+      "url": "https://open.spotify.com/track/1Lq7eIHMXAe7mBalme6A9Q"
     },
     {
       "added_at": null,
       "album": {
-        "name": "IO",
-        "url": "https://open.spotify.com/album/5yhVsqIReapxdmmdpxkgfh"
+        "name": "Mamma Africa",
+        "url": "https://open.spotify.com/album/7AbzEugV7sdL1leTZcrCbm"
       },
       "artists": [
         {
-          "name": "OlD NATIVE OMEN",
-          "url": "https://open.spotify.com/artist/1GFUXRCYH0dAkrYty0vWf8"
+          "name": "Greg Maclennan",
+          "url": "https://open.spotify.com/artist/5UGq1GbypOeWsNOT7sxx0p"
         }
       ],
-      "duration_ms": 299655,
-      "name": "IO",
-      "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
+      "duration_ms": 199578,
+      "name": "Mamma Africa",
+      "url": "https://open.spotify.com/track/6Xk6wl1An7cH9RRpKIBdr9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Do What You Do",
-        "url": "https://open.spotify.com/album/1dcmFy3RtWky84ZeHW0tXp"
+        "name": "In the Shadow of the Mountain",
+        "url": "https://open.spotify.com/album/5qneeNSlHVrPUrqZXq8X8y"
       },
       "artists": [
         {
-          "name": "Ten Year Day",
-          "url": "https://open.spotify.com/artist/7KPxxlGJhH206VK8rFEWti"
+          "name": "Huston Sonhouse",
+          "url": "https://open.spotify.com/artist/52ijraAWkJRDLxiWOlQzgO"
         }
       ],
-      "duration_ms": 285400,
-      "name": "Do What You Do",
-      "url": "https://open.spotify.com/track/7pKmzz47bY2aINTsJWhix4"
+      "duration_ms": 220056,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/0Bif5hnjXGpCVLVqaYHBWG"
     },
     {
       "added_at": null,
@@ -427,24 +327,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake News",
-        "url": "https://open.spotify.com/album/2Y5010O2gCt1EVd8aSDZPF"
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/6d8aXGLzGLzfiWu8HJs7of"
       },
       "artists": [
         {
-          "name": "Bad Scullianz",
-          "url": "https://open.spotify.com/artist/4bwT7RjBc5o10Q0bc389EC"
+          "name": "Stephen Sol & the 7",
+          "url": "https://open.spotify.com/artist/175fOaStmHuztvNrMWrljb"
         }
       ],
-      "duration_ms": 261821,
-      "name": "Fake News",
-      "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
+      "duration_ms": 196182,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/6CCPTehzi55JkEiVRP6CcJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "En liten dose deg",
-        "url": "https://open.spotify.com/album/6qmBLYWma46iBh9xDmHksz"
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
       },
       "artists": [
         {
@@ -452,57 +352,57 @@
           "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
         }
       ],
-      "duration_ms": 267852,
-      "name": "En liten dose deg",
-      "url": "https://open.spotify.com/track/2JCtmSCajiSlK7O02N5oP4"
+      "duration_ms": 151000,
+      "name": "Briste Eller B\u00e6re",
+      "url": "https://open.spotify.com/track/7g5yhc1cnKF6rRzYsrhG89"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Straight To The Head",
-        "url": "https://open.spotify.com/album/29TVX97T6qczH6zqYVaHQO"
+        "name": "#StopPayola",
+        "url": "https://open.spotify.com/album/5nWbFmES8o4za0jBcMwmzv"
       },
       "artists": [
         {
-          "name": "Pistonhead",
-          "url": "https://open.spotify.com/artist/1VTGpfwYXvkVNPdeDIPO10"
+          "name": "Ed Eagle",
+          "url": "https://open.spotify.com/artist/533zHq8CZyLs9n75vs82aO"
         }
       ],
-      "duration_ms": 299413,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/0CJ6PtUuOi6wUBWo6WDk27"
+      "duration_ms": 158311,
+      "name": "#StopPayola",
+      "url": "https://open.spotify.com/track/5FFYcyT1354rYzaQ064bW3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Helvetia",
-        "url": "https://open.spotify.com/album/1SRmxx2uAcDno7dqC1koty"
+        "name": "One",
+        "url": "https://open.spotify.com/album/3yCFLYaUlpJT9ZuWK26rNc"
       },
       "artists": [
         {
-          "name": "Pierrock",
-          "url": "https://open.spotify.com/artist/61IPgeP1Sbnxo4ULmBzwdP"
+          "name": "The Bets",
+          "url": "https://open.spotify.com/artist/0GlMghoqaNd9BYFTbcwYu5"
         }
       ],
-      "duration_ms": 230156,
-      "name": "Helvetia",
-      "url": "https://open.spotify.com/track/3LpgOjwswO3pgBTuI0mjh0"
+      "duration_ms": 231808,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/3Mkwbxqb9xDTSSBzEevOS5"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mannen i speilet",
-        "url": "https://open.spotify.com/album/5OO1obcf6ECp0yIVliRLMl"
+        "name": "Last Chance To Refill (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3seCqj6Z6cccrAGQubK0eb"
       },
       "artists": [
         {
-          "name": "Autoimmune",
-          "url": "https://open.spotify.com/artist/5SUSfFv6OjcSdt6lWX0YZc"
+          "name": "Sanguine",
+          "url": "https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f"
         }
       ],
-      "duration_ms": 227600,
-      "name": "Mannen i speilet",
-      "url": "https://open.spotify.com/track/2XMkSnJrJwg7NbkJaiYFXY"
+      "duration_ms": 126226,
+      "name": "Hey Now Honey - 2023 Remaster",
+      "url": "https://open.spotify.com/track/1pD0KTRkta1feOk3tuDnNL"
     },
     {
       "added_at": null,
@@ -523,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+        "name": "En liten dose deg",
+        "url": "https://open.spotify.com/album/6qmBLYWma46iBh9xDmHksz"
       },
       "artists": [
         {
@@ -532,9 +432,93 @@
           "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Alles Historie",
-      "url": "https://open.spotify.com/track/6jL04UjI8xLC9FOzL6iQVA"
+      "duration_ms": 267852,
+      "name": "En liten dose deg",
+      "url": "https://open.spotify.com/track/2JCtmSCajiSlK7O02N5oP4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pale Ontology",
+        "url": "https://open.spotify.com/album/7xDRFDBkIeinYvAGc5ctT6"
+      },
+      "artists": [
+        {
+          "name": "Tom Markey",
+          "url": "https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ"
+        }
+      ],
+      "duration_ms": 201996,
+      "name": "Complaining",
+      "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mercury (In Retrograde)",
+        "url": "https://open.spotify.com/album/3GpzNNG8OP1sByLaeouBos"
+      },
+      "artists": [
+        {
+          "name": "Greg Maclennan",
+          "url": "https://open.spotify.com/artist/5UGq1GbypOeWsNOT7sxx0p"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Mercury (In Retrograde)",
+      "url": "https://open.spotify.com/track/7j6MPoDgVUSwvzNLJkdLf7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minds Behind the Music: Born Free",
+        "url": "https://open.spotify.com/album/5M9xZiIISmfFhAYnEcQMeo"
+      },
+      "artists": [
+        {
+          "name": "Bad Scullianz",
+          "url": "https://open.spotify.com/artist/4bwT7RjBc5o10Q0bc389EC"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "Mother Earth",
+      "url": "https://open.spotify.com/track/7EayrfRHK8Z42fsPDafL29"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hourly Rage",
+        "url": "https://open.spotify.com/album/2Q2LwZmwRnvJT7jig60wya"
+      },
+      "artists": [
+        {
+          "name": "PUNKTUALS",
+          "url": "https://open.spotify.com/artist/5xVsNGliQxxOEgxh0s9Ou9"
+        }
+      ],
+      "duration_ms": 238324,
+      "name": "Downsizer",
+      "url": "https://open.spotify.com/track/3y2QHqpm89ZFwSbLL6cCJ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        },
+        {
+          "name": "Mestringskoret",
+          "url": "https://open.spotify.com/artist/5lHRnjUHxrdWfPdyNQ6zzX"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Stjernene Lyser",
+      "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
     },
     {
       "added_at": null,
@@ -555,34 +539,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fall from Grace",
-        "url": "https://open.spotify.com/album/5RikhTUZ6wIyNsU5WezmZI"
+        "name": "Straight To The Head",
+        "url": "https://open.spotify.com/album/29TVX97T6qczH6zqYVaHQO"
       },
       "artists": [
         {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/3Le1Vxup51oZTtf6xMREXv"
+          "name": "Pistonhead",
+          "url": "https://open.spotify.com/artist/1VTGpfwYXvkVNPdeDIPO10"
         }
       ],
-      "duration_ms": 301250,
-      "name": "Fall from Grace",
-      "url": "https://open.spotify.com/track/5M2SJg1XfBiMh7OBEbx1kr"
+      "duration_ms": 299413,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/0CJ6PtUuOi6wUBWo6WDk27"
     },
     {
       "added_at": null,
       "album": {
-        "name": "#StopPayola",
-        "url": "https://open.spotify.com/album/5nWbFmES8o4za0jBcMwmzv"
+        "name": "Attrition",
+        "url": "https://open.spotify.com/album/2GnixSbgqFWAJEjOCptCTS"
       },
       "artists": [
         {
-          "name": "Ed Eagle",
-          "url": "https://open.spotify.com/artist/533zHq8CZyLs9n75vs82aO"
+          "name": "Facula",
+          "url": "https://open.spotify.com/artist/0giFkTzG5RrbItS5BzNYQf"
         }
       ],
-      "duration_ms": 158311,
-      "name": "#StopPayola",
-      "url": "https://open.spotify.com/track/5FFYcyT1354rYzaQ064bW3"
+      "duration_ms": 191225,
+      "name": "Attrition",
+      "url": "https://open.spotify.com/track/4RMccHZii59g4LsuXKdiCd"
     },
     {
       "added_at": null,
@@ -619,34 +603,114 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carry The Light",
-        "url": "https://open.spotify.com/album/5RRHyt3YETFIydjiXXjKL4"
+        "name": "My Heroin",
+        "url": "https://open.spotify.com/album/3fZ0ASFmrBiUUaQ5ub5fz5"
       },
       "artists": [
         {
-          "name": "Black Cart",
-          "url": "https://open.spotify.com/artist/5fXStMLN8YVqcGX1vo7bjl"
+          "name": "Greg Llatse",
+          "url": "https://open.spotify.com/artist/2YHENpAL3KjjYeBoJT9QF3"
         }
       ],
-      "duration_ms": 216756,
-      "name": "Carry The Light",
-      "url": "https://open.spotify.com/track/01QlANmhnuBGjN4ZzACMhR"
+      "duration_ms": 232000,
+      "name": "My Heroin",
+      "url": "https://open.spotify.com/track/6qmcht0ya4g8wzJIfL0MqO"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Another Kind Of The Blues",
-        "url": "https://open.spotify.com/album/2BfnKG0A1FhWheZ4WFrTWO"
+        "name": "Wild Wild Woman",
+        "url": "https://open.spotify.com/album/1zflmRV7ZUDn5XuGar0Umo"
       },
       "artists": [
         {
-          "name": "Pablo Mercedes",
-          "url": "https://open.spotify.com/artist/6lYfGVFFXkVTmnZRLsldvt"
+          "name": "Ade Wilding",
+          "url": "https://open.spotify.com/artist/3pDpLUj8IB9R85iWzuOBSo"
         }
       ],
-      "duration_ms": 167285,
-      "name": "Iron Line",
-      "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
+      "duration_ms": 223196,
+      "name": "Wild Wild Woman",
+      "url": "https://open.spotify.com/track/0rNHd0MyOfSCSQ79zF2oYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "InstantFamous",
+        "url": "https://open.spotify.com/album/6RSmX75kNdZPc4vJfuN4N2"
+      },
+      "artists": [
+        {
+          "name": "SUGAR JUNKIES",
+          "url": "https://open.spotify.com/artist/4o9FJ8F3q3qd6ZbZCoqES3"
+        }
+      ],
+      "duration_ms": 217636,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/5W0E5BbJJ3xhSsMQfOZSXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Country",
+        "url": "https://open.spotify.com/album/4kEvso2QVElud83dDhagQt"
+      },
+      "artists": [
+        {
+          "name": "Dead Hand Blues",
+          "url": "https://open.spotify.com/artist/5spwXsFf0kyopWjaAogsJC"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "Free Country",
+      "url": "https://open.spotify.com/track/5R0LTj36xTIQiC1bfsRKUc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Alles Historie",
+      "url": "https://open.spotify.com/track/6jL04UjI8xLC9FOzL6iQVA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silence please",
+        "url": "https://open.spotify.com/album/0VA3VFKOkpD5v4rSwhAFjD"
+      },
+      "artists": [
+        {
+          "name": "Air Vibration",
+          "url": "https://open.spotify.com/artist/3ScG84iDoG9YBdTg4tFVDu"
+        }
+      ],
+      "duration_ms": 148166,
+      "name": "Silence please",
+      "url": "https://open.spotify.com/track/7eKKokzLXlqjC7n1e4wbQw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfighter",
+        "url": "https://open.spotify.com/album/5nQ28nyWMnjg8Px2MIjaAl"
+      },
+      "artists": [
+        {
+          "name": "Juice",
+          "url": "https://open.spotify.com/artist/6PhdOFr1xqdZFmnxi1iLr7"
+        }
+      ],
+      "duration_ms": 291969,
+      "name": "Dragonfighter",
+      "url": "https://open.spotify.com/track/71KjAeng0I37N9wvdvbkbp"
     },
     {
       "added_at": null,
@@ -667,118 +731,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sn\u00f8r i Helvete",
-        "url": "https://open.spotify.com/album/7206ZPU72lQzRTkqgSlWbl"
+        "name": "IO",
+        "url": "https://open.spotify.com/album/5yhVsqIReapxdmmdpxkgfh"
       },
       "artists": [
         {
-          "name": "Autoimmune",
-          "url": "https://open.spotify.com/artist/5SUSfFv6OjcSdt6lWX0YZc"
+          "name": "OlD NATIVE OMEN",
+          "url": "https://open.spotify.com/artist/1GFUXRCYH0dAkrYty0vWf8"
         }
       ],
-      "duration_ms": 251281,
-      "name": "Sn\u00f8r i Helvete",
-      "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
+      "duration_ms": 299655,
+      "name": "IO",
+      "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+        "name": "Move 37",
+        "url": "https://open.spotify.com/album/7yODbiINdSz2H5ICkTHSsH"
       },
       "artists": [
         {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        },
-        {
-          "name": "Mestringskoret",
-          "url": "https://open.spotify.com/artist/5lHRnjUHxrdWfPdyNQ6zzX"
+          "name": "The Inklings",
+          "url": "https://open.spotify.com/artist/7acymkigVyBGh1cWbcBGu2"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Stjernene Lyser",
-      "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/3yCFLYaUlpJT9ZuWK26rNc"
-      },
-      "artists": [
-        {
-          "name": "The Bets",
-          "url": "https://open.spotify.com/artist/0GlMghoqaNd9BYFTbcwYu5"
-        }
-      ],
-      "duration_ms": 231808,
-      "name": "Do You Remember",
-      "url": "https://open.spotify.com/track/3Mkwbxqb9xDTSSBzEevOS5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minds Behind the Music: Born Free",
-        "url": "https://open.spotify.com/album/5M9xZiIISmfFhAYnEcQMeo"
-      },
-      "artists": [
-        {
-          "name": "Bad Scullianz",
-          "url": "https://open.spotify.com/artist/4bwT7RjBc5o10Q0bc389EC"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "Mother Earth",
-      "url": "https://open.spotify.com/track/7EayrfRHK8Z42fsPDafL29"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bright Connection",
-        "url": "https://open.spotify.com/album/0j2n5i1OYiFz8wGXH609Tp"
-      },
-      "artists": [
-        {
-          "name": "SoulDrift",
-          "url": "https://open.spotify.com/artist/6o6x9lpBQfNHLfhY1F4wBa"
-        }
-      ],
-      "duration_ms": 254683,
-      "name": "Bright Connection",
-      "url": "https://open.spotify.com/track/58S7PPJGrPbydd64qQ1K4q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ham-Fisted-Hate-Filled-Joy",
-        "url": "https://open.spotify.com/album/09PzeyFtGlHaoLM2eJHPwW"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Marshall Effect",
-          "url": "https://open.spotify.com/artist/6qWLUNjrDejYDpi33PnFvJ"
-        }
-      ],
-      "duration_ms": 189899,
-      "name": "I wanna feel like an Animal",
-      "url": "https://open.spotify.com/track/2pj1FkIeSO102FUof0vd7E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brother From Another Mother",
-        "url": "https://open.spotify.com/album/0pV7K14JMLxbwtRUFRTpoN"
-      },
-      "artists": [
-        {
-          "name": "Bad Habits",
-          "url": "https://open.spotify.com/artist/6RCQaiv8q09g8yyvMx8pu7"
-        }
-      ],
-      "duration_ms": 269507,
-      "name": "Wings Of An Angel",
-      "url": "https://open.spotify.com/track/6EbDacy2uom5FL8Y7ocdI3"
+      "duration_ms": 255833,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7d6ol9DlTfgLQQOX3o4QRR"
     },
     {
       "added_at": null,
@@ -799,50 +779,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Chance To Refill (2023 Remaster)",
-        "url": "https://open.spotify.com/album/3seCqj6Z6cccrAGQubK0eb"
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/76oW5Xyb7n7btEefSirZsc"
       },
       "artists": [
         {
-          "name": "Sanguine",
-          "url": "https://open.spotify.com/artist/5dmRKgmUlHVMoaR3rDDd8f"
+          "name": "Orango",
+          "url": "https://open.spotify.com/artist/3IvXLACN8U1ewuSVuUrvjt"
         }
       ],
-      "duration_ms": 126226,
-      "name": "Hey Now Honey - 2023 Remaster",
-      "url": "https://open.spotify.com/track/1pD0KTRkta1feOk3tuDnNL"
+      "duration_ms": 287093,
+      "name": "Freedom Train",
+      "url": "https://open.spotify.com/track/0IVL6MQf06qVBawKCN6l39"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Casca Vazia",
-        "url": "https://open.spotify.com/album/0GK7D3cILFXqPxoShaRnUa"
+        "name": "Mannen i speilet",
+        "url": "https://open.spotify.com/album/5OO1obcf6ECp0yIVliRLMl"
       },
       "artists": [
         {
-          "name": "Clandestinos",
-          "url": "https://open.spotify.com/artist/5WHuIGWeszbpy5C3OXIsHK"
+          "name": "Autoimmune",
+          "url": "https://open.spotify.com/artist/5SUSfFv6OjcSdt6lWX0YZc"
         }
       ],
-      "duration_ms": 227696,
-      "name": "Casca Vazia",
-      "url": "https://open.spotify.com/track/7yjoF01OVUYeOSJqmaGxqz"
+      "duration_ms": 227600,
+      "name": "Mannen i speilet",
+      "url": "https://open.spotify.com/track/2XMkSnJrJwg7NbkJaiYFXY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "And Bring It Down Again",
-        "url": "https://open.spotify.com/album/28xUIHml0qXP8tki2PwkJT"
+        "name": "Carry The Light",
+        "url": "https://open.spotify.com/album/5RRHyt3YETFIydjiXXjKL4"
       },
       "artists": [
         {
-          "name": "The Jix",
-          "url": "https://open.spotify.com/artist/2JDWsjauYuOi6uAGK5xMp1"
+          "name": "Black Cart",
+          "url": "https://open.spotify.com/artist/5fXStMLN8YVqcGX1vo7bjl"
         }
       ],
-      "duration_ms": 207706,
-      "name": "And Bring It Down Again",
-      "url": "https://open.spotify.com/track/5OnuEoQFPNQoNV5teFaxyT"
+      "duration_ms": 216756,
+      "name": "Carry The Light",
+      "url": "https://open.spotify.com/track/01QlANmhnuBGjN4ZzACMhR"
     }
   ],
   "unique_name": "Bipolar Superstar Radio",

@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1619597,
+  "num_followers": 1619594,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHewlMmMKO/pcCUC6C6wt+gG3X9S",
+  "snapshot_id": "AAAAAE6p538Dj/8334U+Rqq7ovmOUeDY",
   "tracks": [
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1435,18 +1435,22 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
-        "name": "Too High",
-        "url": "https://open.spotify.com/album/6YM7T0RhXNIUaZoF2ebETy"
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/5m5Ymv0cF173Zz1GnaSVUO"
       },
       "artists": [
         {
           "name": "Marsh",
           "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
         }
       ],
-      "duration_ms": 367973,
-      "name": "Too High",
-      "url": "https://open.spotify.com/track/7GsgjLyOXrcGHELD2Zt5dl"
+      "duration_ms": 267241,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/3iy57ZiUayRdFStKC2s9tq"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1499,6 +1503,26 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/62zfpf6wMu4nMyPqPAO0L6"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 225361,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3fDv3H85PgOOg65JZZP6ki"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
         "name": "Beg You",
         "url": "https://open.spotify.com/album/0BkeXVpMRmEu0V1mbmlh6I"
       },
@@ -1523,22 +1547,18 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/62zfpf6wMu4nMyPqPAO0L6"
+        "name": "Too High",
+        "url": "https://open.spotify.com/album/6YM7T0RhXNIUaZoF2ebETy"
       },
       "artists": [
         {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        },
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
         }
       ],
-      "duration_ms": 225361,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3fDv3H85PgOOg65JZZP6ki"
+      "duration_ms": 367973,
+      "name": "Too High",
+      "url": "https://open.spotify.com/track/7GsgjLyOXrcGHELD2Zt5dl"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1559,26 +1579,6 @@
       "duration_ms": 213965,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/5OpaQpPSkkpiSXUSrZx7ob"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/5m5Ymv0cF173Zz1GnaSVUO"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 267241,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/3iy57ZiUayRdFStKC2s9tq"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
-        "name": "I'm On Fire",
-        "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        },
-        {
-          "name": "James French",
-          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
-        }
-      ],
-      "duration_ms": 232607,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
         "name": "London To Buenos Aires",
         "url": "https://open.spotify.com/album/23voORn42hd5caxnLbTJwy"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 185943,
       "name": "London To Buenos Aires",
       "url": "https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
+        "name": "I'm On Fire",
+        "url": "https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "James French",
+          "url": "https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues"
+        }
+      ],
+      "duration_ms": 232607,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
-        "name": "My Love For You",
-        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        }
-      ],
-      "duration_ms": 173587,
-      "name": "My Love For You",
-      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
         "name": "before you go",
         "url": "https://open.spotify.com/album/0bRvZ6flyoQTRHOfSB83WS"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 258750,
       "name": "before you go",
       "url": "https://open.spotify.com/track/4y2wDeRQzaq6Yq2TiGTVCd"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
+        "name": "My Love For You",
+        "url": "https://open.spotify.com/album/3GquvhavJWRrc3VgAnzzDO"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        }
+      ],
+      "duration_ms": 173587,
+      "name": "My Love For You",
+      "url": "https://open.spotify.com/track/2mKSqsC50JQPjqqCjs4HLn"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1991,18 +1991,22 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/0AlqNZFSsJlDIoMBvrrZtF"
+        "name": "City Reverie",
+        "url": "https://open.spotify.com/album/0yCosyR8w4qAwmCpbYMYh4"
       },
       "artists": [
         {
-          "name": "Michael Canitrot",
-          "url": "https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv"
+          "name": "Deeparture",
+          "url": "https://open.spotify.com/artist/77jpUdhY3sur4mrNURonho"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
         }
       ],
-      "duration_ms": 227520,
-      "name": "Arcadia",
-      "url": "https://open.spotify.com/track/4pNicFII86qbS5BgFkx6Wa"
+      "duration_ms": 212883,
+      "name": "Forgive Them",
+      "url": "https://open.spotify.com/track/243FH8uZwrSMpQqEuoPjJ2"
     }
   ],
   "unique_name": "Night Rider",

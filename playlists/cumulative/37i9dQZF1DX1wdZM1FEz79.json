@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Kangziwon) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: \ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 189750,
       "name": "Da capo",
       "url": "https://open.spotify.com/track/060tUmy5CADx6SSaxCF0BN"
@@ -2627,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "EGERO",
+        "url": "https://open.spotify.com/album/419bm7nIoqiNXgGbtpBKlw"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233550,
+      "name": "EGERO",
+      "url": "https://open.spotify.com/track/4SDrNjs1in5RAL5GdCr3bZ"
+    },
+    {
+      "album": {
         "name": "Eiffel Tower effect",
         "url": "https://open.spotify.com/album/5Ee0f9SUslVEGLld3PqIO0"
       },
@@ -2728,7 +2746,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 240000,
       "name": "Ether Under the Parasol",
       "url": "https://open.spotify.com/track/0haLXhHU8DMx4mspQBvJC9"
@@ -2768,7 +2786,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 195882,
       "name": "EVEREST (with Sam Kim)",
       "url": "https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo"
@@ -10259,24 +10277,6 @@
     },
     {
       "album": {
-        "name": "The Acoustic Forest",
-        "url": "https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK"
-      },
-      "artists": [
-        {
-          "name": "Yoon Do Hyun",
-          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
-        }
-      ],
-      "date_added": "2021-12-10",
-      "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
-      "duration_ms": 266999,
-      "name": "The Sound Of Rain - Acoustic",
-      "url": "https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2"
-    },
-    {
-      "album": {
         "name": "The Trace \ud754\uc801",
         "url": "https://open.spotify.com/album/1o9Es6i5BIIpQgiFQCuE8X"
       },
@@ -10938,7 +10938,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 207079,
       "name": "Up the Hill",
       "url": "https://open.spotify.com/track/2Hkk0yOptEbhFudWGIsDfN"
@@ -12654,6 +12654,24 @@
       "duration_ms": 156000,
       "name": "\ube44\uc758 \ub178\ub798 (The Song of Rain)",
       "url": "https://open.spotify.com/track/2w3p7Aqseg9sYaYjDWYQHD"
+    },
+    {
+      "album": {
+        "name": "\uc74c\uc545 \ucea0\ud551 \uac08\ub798?",
+        "url": "https://open.spotify.com/album/3Wb9RXJv0dWuWPsGnoHBdK"
+      },
+      "artists": [
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266999,
+      "name": "\ube57\uc18c\ub9ac - Acoustic",
+      "url": "https://open.spotify.com/track/0gVl8IrGZIUL1cptCIzUj2"
     },
     {
       "album": {

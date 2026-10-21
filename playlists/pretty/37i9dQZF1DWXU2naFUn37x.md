@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Nerissima in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,998 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,953 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Warzone \(feat\. Artie 5ive, Capo Plaza & Nerissima Serpe\)](https://open.spotify.com/track/6iFfFjKnr615pD7aL5Z2Cx) | [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Warzone \(feat\. Artie 5ive, Capo Plaza & Nerissima Serpe\)](https://open.spotify.com/album/3AXrg1yOKAwMlUbRDRfQbu) | 2:26 |
 | 50 | [Take 6](https://open.spotify.com/track/0j4gmizuiIh5k7F62XISiF) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 6](https://open.spotify.com/album/5rBSou2aGWqVv28GiYx11N) | 2:44 |
 
-Snapshot ID: `AAAAAJNduyRQWCodooJQKHsvbnfGrI5c`
+Snapshot ID: `AAAAANXF3UU2MkNyltSaTti6VE/Fq6c5`

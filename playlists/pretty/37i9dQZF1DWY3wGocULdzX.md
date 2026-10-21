@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,503 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,535 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 10 | [Charanga Jam](https://open.spotify.com/track/3iHMDoxbOqkoA9uUJR2yes) | [Bobby Marin](https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3) | [New York Salsa](https://open.spotify.com/album/1v4ffpwV9H6YkuZ2jVF9wu) | 4:25 |
 | 11 | [Mambo](https://open.spotify.com/track/5EHfeFLbEWeYeNDzTyFby2) | [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [Cuba Salsa Sabrosa Vol\. 2](https://open.spotify.com/album/4TRIu8j6ea1pfnPMzbrHjT) | 3:12 |
 | 12 | [Patricia](https://open.spotify.com/track/4jmFSkpcqLOUN6scGU6BOO) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [El Rey Del Mambo](https://open.spotify.com/album/0uOqCrRJCMMcyArm5wsv78) | 2:08 |
-| 13 | [Sasauma \- Mambo](https://open.spotify.com/track/0gxKSoP8PGv1Xwis1J2EWO) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Orquesta Sabor De Cuba](https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO) | [El Manisero](https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK) | 2:49 |
-| 14 | [Saca Tu Mujer](https://open.spotify.com/track/6E2a4v0Sj2I5vAuaJb2UMO) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:04 |
-| 15 | [El Yerbero](https://open.spotify.com/track/0Ix8RTtzO4v6lC8mlpXkVq) | [Charlie Palmieri and His Orchestra La Duboney](https://open.spotify.com/artist/1jqzqfKGgaSN517pbyIdRh) | [Salsa Na' Ma'](https://open.spotify.com/album/1ETJ89KjLOTBrBrAG2Dv8W) | 2:25 |
+| 13 | [El Yerbero](https://open.spotify.com/track/0Ix8RTtzO4v6lC8mlpXkVq) | [Charlie Palmieri and His Orchestra La Duboney](https://open.spotify.com/artist/1jqzqfKGgaSN517pbyIdRh) | [Salsa Na' Ma'](https://open.spotify.com/album/1ETJ89KjLOTBrBrAG2Dv8W) | 2:25 |
+| 14 | [Sasauma \- Mambo](https://open.spotify.com/track/0gxKSoP8PGv1Xwis1J2EWO) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Orquesta Sabor De Cuba](https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO) | [El Manisero](https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK) | 2:49 |
+| 15 | [Saca Tu Mujer](https://open.spotify.com/track/6E2a4v0Sj2I5vAuaJb2UMO) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:04 |
 | 16 | [Wild Jungle \- 2000 Remaster](https://open.spotify.com/track/0uoOBKdEsBzqKjondmUTli) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Kenya](https://open.spotify.com/album/1BHUIrORQwywRkl5cjapQz) | 2:47 |
 | 17 | [Complicación](https://open.spotify.com/track/1McWg1rZqA1AGhYojNff8c) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:20 |
 | 18 | [Pachito E Che](https://open.spotify.com/track/5ZYO9ETsTxLMXfhzSmUTfA) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw), [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Legends Of Cuban Music](https://open.spotify.com/album/6tviOtL10UFy6Or8rpjlfR) | 3:32 |
-| 19 | [Mi Chiquita Quiere Bembé](https://open.spotify.com/track/5GbOYy9AZHOjeZCd3gAa2D) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:55 |
-| 20 | [The Peanut Vendor](https://open.spotify.com/track/2AW7BpJBv9AWlTiZwrP3pV) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambos Favoritos de Perez Prado, Machito, Y Tito Puente](https://open.spotify.com/album/05QnOkGorplyXGfUdhSgQY) | 2:41 |
+| 19 | [The Peanut Vendor](https://open.spotify.com/track/2AW7BpJBv9AWlTiZwrP3pV) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambos Favoritos de Perez Prado, Machito, Y Tito Puente](https://open.spotify.com/album/05QnOkGorplyXGfUdhSgQY) | 2:41 |
+| 20 | [Mi Chiquita Quiere Bembé](https://open.spotify.com/track/5GbOYy9AZHOjeZCd3gAa2D) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:55 |
 | 21 | [Si Si No No](https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Mi Amigo, Machito](https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap) | 3:16 |
 | 22 | [Varsity Drag \- Mambo Jazz Instrumental](https://open.spotify.com/track/023qcEfVt18bVng2maOp9I) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 2:50 |
 | 23 | [Buchipluma Na' Ma'](https://open.spotify.com/track/66eyTpvxV8aMlyR1gN6XHt) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Two Brothers Two Legends](https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh) | 5:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 49 | [Mambo Manila](https://open.spotify.com/track/1GMFNZPL68pjtUQuQCyI7Y) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito Rodriguez \- Greatest Hits](https://open.spotify.com/album/0STlCm7OuAFQvXctPFGO40) | 3:10 |
 | 50 | [Blen, Blen, Blen](https://open.spotify.com/track/2fRVPaccC6WaKjiksPV7yl) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito Rodriguez \- El Inolvidable](https://open.spotify.com/album/2zD0H7q9bIaNpV13cMOSUg) | 3:15 |
 
-Snapshot ID: `AAAAACatkSO5RvAy+SUUDSZo/0obM5jf`
+Snapshot ID: `AAAAAJSjahRk1hzEqfHLdtpM9fDfpM6B`

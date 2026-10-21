@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,991 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,017 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 10 | [Todo Cambia](https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [¿Será Posible El Sur?](https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj) | 4:44 |
 | 11 | [Paloma Negra](https://open.spotify.com/track/7pgmi4lsRXWh78vge5CaT9) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Paloma Negra](https://open.spotify.com/album/3egDtwPTtMNqDletQkLbXA) | 3:13 |
 | 12 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 |
-| 13 | [Aunque tú no lo sepas](https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1) | [Enrique Urquijo y Los problemas](https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT) | [Desde Que No Nos Vemos](https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN) | 2:24 |
+| 13 | [Estadio Azteca](https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 3:37 |
 | 14 | [Por el Bulevar de los Sueños Rotos](https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esta Boca Es Mia](https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk) | 3:59 |
 | 15 | [Tanto para dar](https://open.spotify.com/track/259F1hWeGbF7mBDxtBrrS0) | [Meritxell Neddermann](https://open.spotify.com/artist/59IkSVLk0jDhOyNrXrtpYv), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Tanto para dar](https://open.spotify.com/album/5hdBaw1u44rYRsGcASCmVp) | 2:54 |
 | 16 | [Ojalá](https://open.spotify.com/track/5sQGo3fB2NoFalyy4uZjiu) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 3:32 |
 | 17 | [Un Idiota en el Tejado](https://open.spotify.com/track/7Hk1PZpVP5IFrmAhEcpjpK) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei) | [Un Idiota en el Tejado](https://open.spotify.com/album/4PYqbbPvcOXoJqmkG4cduA) | 6:46 |
-| 18 | [¿Cómo se ama?](https://open.spotify.com/track/0aEIAGgFPbtWe9HX4lSEPk) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Taracá](https://open.spotify.com/album/3x8EqFhf17Rupeyh0k1a0H) | 3:38 |
+| 18 | [Aunque tú no lo sepas](https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1) | [Enrique Urquijo y Los problemas](https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT) | [Desde Que No Nos Vemos](https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN) | 2:24 |
 | 19 | [DE MOMENTO](https://open.spotify.com/track/36BPEKUIFzlkqbkraLzfuQ) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [DE MOMENTO](https://open.spotify.com/album/5A65LmVDvw8Qb6yQ2niqBL) | 3:31 |
-| 20 | [Estadio Azteca](https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 3:37 |
+| 20 | [¿Cómo se ama?](https://open.spotify.com/track/0aEIAGgFPbtWe9HX4lSEPk) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Taracá](https://open.spotify.com/album/3x8EqFhf17Rupeyh0k1a0H) | 3:38 |
 | 21 | [Desbocada y contenida](https://open.spotify.com/track/6V7l0Jl6ILDsLbqs0UAc5T) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Desbocada y contenida](https://open.spotify.com/album/1dN6TAVgHJP5US3uidMFWQ) | 3:11 |
 | 22 | [19 Días y 500 Noches \- En Directo](https://open.spotify.com/track/1nc8BtidrX9dfRdoA1PArc) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Hola y Adiós \(En Directo\)](https://open.spotify.com/album/7KSJmW2DZSoCixtv3jqWom) | 5:16 |
 | 23 | [Yo no soy esa](https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Escúchame](https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu) | 2:32 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 45 | [La Puerta Violeta](https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:22 |
 | 46 | [El sitio de mi recreo](https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Canciones 1980\-2009](https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u) | 3:10 |
 | 47 | [Desde Que Te Perdí](https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [City Zen](https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L) | 3:48 |
-| 48 | [Al alba](https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY) | [Jose Merce](https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8) | [Aire](https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk) | 4:16 |
-| 49 | [No Se por Que Te Quiero](https://open.spotify.com/track/7GITdJq0WUdMk2NgHIDFFq) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Mirame](https://open.spotify.com/album/0kCoPtVjOcbKXsgBSaCmVs) | 3:35 |
+| 48 | [No Se por Que Te Quiero](https://open.spotify.com/track/7GITdJq0WUdMk2NgHIDFFq) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Mirame](https://open.spotify.com/album/0kCoPtVjOcbKXsgBSaCmVs) | 3:35 |
+| 49 | [Al alba](https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY) | [Jose Merce](https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8) | [Aire](https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk) | 4:16 |
 | 50 | [La vida es más compleja de lo que parece](https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [12 segundos de oscuridad](https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz) | 3:08 |
 | 51 | [Si tú no estas](https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas Rotas: De casa a las ventas \(Standard version\)](https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR) | 4:16 |
 | 52 | [Solo Otra Vez \- Alone Again](https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Último Acto](https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt) | 3:26 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 92 | [TODO O NADA \(feat\. Bunbury\)](https://open.spotify.com/track/3CJFWQ1WNZhZWOsYvYG3lQ) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [TODO O NADA \(feat\. Bunbury\)](https://open.spotify.com/album/0VLPByInwnBNttWEeo68XC) | 3:28 |
 | 93 | [Me quedo contigo \- Radio Edit](https://open.spotify.com/track/59R6zsfUXb4zCnj1N8JS20) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Canciones 1980\-2009](https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u) | 4:08 |
 | 94 | [No Dudaria](https://open.spotify.com/track/1aiq7W0uUtQB70lyNjBpWa) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Esencial Antonio Flores](https://open.spotify.com/album/2tJ9CY3BGUdY8J3J52huZG) | 3:34 |
-| 95 | [Mi voz](https://open.spotify.com/track/6A2aJPiCRaZ3AJKB89aTBn) | [Albert Pla](https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN) | [Mi voz](https://open.spotify.com/album/1AU9PfraT7PooMWZ6wc6NQ) | 4:56 |
-| 96 | [Quererte](https://open.spotify.com/track/62JhUldtUH5uifSjkjDGUw) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Quererte](https://open.spotify.com/album/4kSkdT7RWpP8ihYX2esk92) | 3:01 |
+| 95 | [Quererte](https://open.spotify.com/track/62JhUldtUH5uifSjkjDGUw) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Quererte](https://open.spotify.com/album/4kSkdT7RWpP8ihYX2esk92) | 3:01 |
+| 96 | [Mi voz](https://open.spotify.com/track/6A2aJPiCRaZ3AJKB89aTBn) | [Albert Pla](https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN) | [Mi voz](https://open.spotify.com/album/1AU9PfraT7PooMWZ6wc6NQ) | 4:56 |
 | 97 | [Dice la gente](https://open.spotify.com/track/5nw6Uk1a2NkmTqfalBvMia) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Dice la gente](https://open.spotify.com/album/2M5yZ4i9t80oONCUyGlp26) | 4:48 |
 | 98 | [Risk](https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg) | [Tontxu](https://open.spotify.com/artist/04mKUV0wDVvsJ4vWcecdaO) | [Se Vende](https://open.spotify.com/album/7MQWHDDwwFhUW0tZ0XZbp6) | 3:57 |
 | 99 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 |
 | 100 | [Capitana \- A COLORS SHOW](https://open.spotify.com/track/2elUMQsM86Mc76C3kytRkq) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Capitana \- A COLORS SHOW](https://open.spotify.com/album/5bUTNLImQtVvWRc1TFv5um) | 4:32 |
 
-Snapshot ID: `AAAAAEz8SUa1TMlOwpxUC3+Kry7Nk0Ax`
+Snapshot ID: `AAAAAHg+4lt3P6TVFYWguSG1jfX3i+fm`

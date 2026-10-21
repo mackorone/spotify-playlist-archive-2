@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening ",
-  "num_followers": 20337,
+  "num_followers": 20336,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAArZyoGZx0CL7g+mLgnpQnvz/rJU9Jy",
+  "snapshot_id": "AAAradbISlhkcncOekGu1RImodynaEsQ",
   "tracks": [
     {
       "added_at": "2026-09-15 18:22:50",
@@ -1255,6 +1255,54 @@
       "duration_ms": 214250,
       "name": "Lightning In A Bottle",
       "url": "https://open.spotify.com/track/5X9akP1OfE8A1PPj5hNJ2k"
+    },
+    {
+      "added_at": "2026-10-20 16:39:20",
+      "album": {
+        "name": "Odd Boys",
+        "url": "https://open.spotify.com/album/6Q5xB8T6rX6zFaKM3sAjVt"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 184411,
+      "name": "Out Of Sight, Out Of Mind",
+      "url": "https://open.spotify.com/track/6ClI5b3S2i6cK21MsSQnJF"
+    },
+    {
+      "added_at": "2026-10-20 16:39:50",
+      "album": {
+        "name": "When We're Dancing",
+        "url": "https://open.spotify.com/album/4t4fRjRLrBhBOFxHdR4odx"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 205871,
+      "name": "When We're Dancing",
+      "url": "https://open.spotify.com/track/0BwJAN2zQWD9Zi42s2Zpso"
     }
   ],
   "unique_name": "Moving Castle Monthly",

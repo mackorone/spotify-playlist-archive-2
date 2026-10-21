@@ -1,12 +1,12 @@
 {
-  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u300210\u670818\u65e5\u4ed8\u3002",
-  "num_followers": 327601,
+  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u300210\u670819\u65e5\u4ed8\u3002",
+  "num_followers": 327576,
   "original_name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAXigfwkhTMxaWuzDSDkYUfvd06L",
+  "snapshot_id": "AAAAAL2gyYTvV4HR9HYieaH5mOt8N2E3",
   "tracks": [
     {
       "added_at": "2026-10-08 04:35:43",
@@ -465,24 +465,20 @@
       "url": "https://open.spotify.com/track/4q8shMNFx1n3bgVV9t4xyB"
     },
     {
-      "added_at": "2026-10-20 01:51:27",
+      "added_at": "2026-10-21 02:22:54",
       "album": {
-        "name": "LA\uff65LA\uff65LA LOVE THANG",
-        "url": "https://open.spotify.com/album/3sqTfrcrrVXqmquAQ5LqGc"
+        "name": "\u6c88\u9999\u5b66",
+        "url": "https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ"
       },
       "artists": [
         {
-          "name": "Toshinobu Kubota",
-          "url": "https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput"
-        },
-        {
-          "name": "Naomi Campbell",
-          "url": "https://open.spotify.com/artist/4IKQKM9T5OIshijgLD8ZyK"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 286493,
-      "name": "LA\uff65LA\uff65LA LOVE SONG",
-      "url": "https://open.spotify.com/track/2NFKSwzaNKXAqBqlXgeTEo"
+      "duration_ms": 254533,
+      "name": "\u3042\u3044\u3064\u3089\u5168\u54e1\u540c\u7a93\u4f1a",
+      "url": "https://open.spotify.com/track/7rzoBRR4LbJZH5t7Q6qeTn"
     },
     {
       "added_at": "2026-10-08 04:35:43",
@@ -583,22 +579,6 @@
       "duration_ms": 262693,
       "name": "\u30a2\u30a4\u30ce\u30ab\u30bf\u30c1",
       "url": "https://open.spotify.com/track/7mSVOYRseiZi20xtBKhHnF"
-    },
-    {
-      "added_at": "2026-10-20 01:51:27",
-      "album": {
-        "name": "\u30b3\u30ea\u30f3\u30ba",
-        "url": "https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk"
-      },
-      "artists": [
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "\u7b2c\u30bc\u30ed\u611f",
-      "url": "https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh"
     },
     {
       "added_at": "2026-10-13 02:00:45",

@@ -1,12 +1,12 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 50808,
+  "num_followers": 50811,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEJjx0J33ro1jPPT+Tp23PcxWlHp",
+  "snapshot_id": "AAAAAA55FoikXI3WvJzpBWoy9FSbtlIU",
   "tracks": [
     {
       "added_at": "2020-07-23 21:45:59",
@@ -403,22 +403,18 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "This Is How We Do It",
-        "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
+        "name": "I'm Ready",
+        "url": "https://open.spotify.com/album/4oMHSoFd6DKPVMVb8uiZYv"
       },
       "artists": [
         {
-          "name": "Montell Jordan",
-          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
-        },
-        {
-          "name": "Wino",
-          "url": "https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx"
+          "name": "Tevin Campbell",
+          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
         }
       ],
-      "duration_ms": 238800,
-      "name": "This Is How We Do It",
-      "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
+      "duration_ms": 284080,
+      "name": "Can We Talk",
+      "url": "https://open.spotify.com/track/3eRE1KwnUma75nu1HhoNY4"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -439,18 +435,22 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "I'm Ready",
-        "url": "https://open.spotify.com/album/4oMHSoFd6DKPVMVb8uiZYv"
+        "name": "This Is How We Do It",
+        "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
       "artists": [
         {
-          "name": "Tevin Campbell",
-          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
+          "name": "Montell Jordan",
+          "url": "https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT"
+        },
+        {
+          "name": "Wino",
+          "url": "https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx"
         }
       ],
-      "duration_ms": 284080,
-      "name": "Can We Talk",
-      "url": "https://open.spotify.com/track/3eRE1KwnUma75nu1HhoNY4"
+      "duration_ms": 238800,
+      "name": "This Is How We Do It",
+      "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
     },
     {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Where There's Smoke... (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 352920,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
-    },
-    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "Light Of Worlds",
@@ -895,6 +879,22 @@
       "duration_ms": 257866,
       "name": "Summer Madness",
       "url": "https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Where There's Smoke... (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 352920,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
     },
     {
       "added_at": "2023-06-16 17:58:31",

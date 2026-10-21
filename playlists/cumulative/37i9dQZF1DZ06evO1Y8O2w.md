@@ -4,7 +4,7 @@
 
 > This is Phyllis Hyman\. The essential tracks, all in one playlist.
 
-110 songs - 8 hr 34 min
+111 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [I'm Calling You](https://open.spotify.com/track/26JxIeSiCMikxLmEeZHwus) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:59 | 2022-06-18 |  |
 | [I'm Truly Yours](https://open.spotify.com/track/3pXp6U7fYTj2sy5bK2FMML) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 5:39 | 2022-06-01 |  |
 | [If You Ever Change Your Mind](https://open.spotify.com/track/51OqJq0FbJ6qLvsrpHBlV4) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 2:58 | 2025-05-18 | 2026-08-27 |
-| [If You Want Me](https://open.spotify.com/track/1kU7W8P5aCIyK7Qk19VcfB) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:19 | 2022-05-25 |  |
+| [If You Want Me](https://open.spotify.com/track/1kU7W8P5aCIyK7Qk19VcfB) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:19 | 2022-05-25 | 2026-10-21 |
 | [In A Sentimental Mood](https://open.spotify.com/track/73PpHL1BhZ3ji6c1FLhEfo) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [The Legacy Of Phyllis Hyman](https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505) | 3:26 | 2022-05-25 | 2026-09-05 |
 | [In Between the Heartaches](https://open.spotify.com/track/16pids01DZBwCLo1JAQvjY) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Can't We Fall In Love Again \(Expanded Edition\)](https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip) | 3:45 | 2022-06-03 | 2026-09-02 |
 | [It Takes Two](https://open.spotify.com/track/2FCbFUE0hMKvHje3DX8LYf) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 4:12 | 2024-03-28 | 2026-08-27 |
@@ -107,6 +107,7 @@
 | [What Ever Happened To Our Love](https://open.spotify.com/track/5guRhSosc8jWFmqVFDtdwj) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 4:06 | 2022-05-25 |  |
 | [What You Won't Do for Love](https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:02 | 2022-05-25 |  |
 | [When I Give My Love \(This Time\)](https://open.spotify.com/track/2unUCdfT0PO8snZdH9mdjF) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 7:03 | 2022-05-25 |  |
+| [When Love Comes Back](https://open.spotify.com/track/0Zv5JmaHSF79615toLcRVe) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [When Love Comes Back](https://open.spotify.com/album/1wt8huzn0reADcUyH6149A) | 2:47 | 2026-10-21 |  |
 | [When You Get Right Down to It](https://open.spotify.com/track/0LlfOstih9quyorg6AzhpZ) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Prime Of My Life](https://open.spotify.com/album/3Zt8flubel6shc4b9kmt2f) | 4:21 | 2022-05-25 |  |
 | [Why Did You Turn Me On](https://open.spotify.com/track/7Bx4kCWT6c8Z6Th747COko) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Goddess of Love \(Expanded Edition\)](https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY) | 4:12 | 2023-07-02 |  |
 | [Why Not Me](https://open.spotify.com/track/6rJ7eWJdusD4mgwMCHWMUc) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [I Refuse To Be Lonely](https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc) | 4:40 | 2022-05-25 |  |

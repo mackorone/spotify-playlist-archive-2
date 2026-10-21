@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > every single night...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,080,810 likes - 95 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,080,783 likes - 95 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 20 | [Space Between](https://open.spotify.com/track/49zQ9uJk6ssNFUYeqUmMwq) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Valley Girl Problems](https://open.spotify.com/album/0pRvEVRG9DS07oCKKBjeso) | 3:39 |
 | 21 | [December](https://open.spotify.com/track/0fRUI9Za9WmVqnN8U2fAZ2) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [December](https://open.spotify.com/album/60cGJFX6vy6JxUODLUMJbS) | 2:22 |
 | 22 | [Molly](https://open.spotify.com/track/2K6OICqRw35RvWFsCCCh1U) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Molly](https://open.spotify.com/album/7szwDKPkHb7sJejPieuRD0) | 3:12 |
-| 23 | [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 |
+| 23 | [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 |
 | 24 | [Lost Time \(feat\. Lily\-Rose Depp\)](https://open.spotify.com/track/67gpABBAAw3ySYLXHlnMIz) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [She’s the Best](https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD) | 4:00 |
 | 25 | [dumblond](https://open.spotify.com/track/4ULnRQJfVXPp91SOVv1D1s) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [dumblond](https://open.spotify.com/album/34siMC5snq4oWnTUljUWu3) | 2:29 |
 | 26 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 94 | [Endless Sundays](https://open.spotify.com/track/6r91l350cidymaEMcKceGc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Endless Sundays](https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks) | 4:08 |
 | 95 | [Fame is a Gun](https://open.spotify.com/track/1c2AFg2WpURtpsOTMr6ZBX) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Fame is a Gun](https://open.spotify.com/album/3SbgH2k3eJ6dPqAhbTBFzm) | 3:03 |
 
-Snapshot ID: `AAAAAAJ1VWI9+D7+1sfzY54UoFM5avA6`
+Snapshot ID: `AAAAAPzC0zbFCj7CqQoSmfwRIuJTT7Yp`

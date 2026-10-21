@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 212808,
+  "num_followers": 212844,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK66IqITNJ51V9NbTyKUgbusgaz1",
+  "snapshot_id": "AAAAALTKqggOTSxpfKsmimqOH5UCbP8/",
   "tracks": [
     {
       "added_at": "2025-12-23 11:35:17",
@@ -139,22 +139,6 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
-        "name": "The Green Light (The Great Gatsby) [Piano Version]",
-        "url": "https://open.spotify.com/album/63hveeHmbv5Kb1sRK1rIsd"
-      },
-      "artists": [
-        {
-          "name": "Je Suis Parte",
-          "url": "https://open.spotify.com/artist/0CAXDOuageq5zwYSpTqe63"
-        }
-      ],
-      "duration_ms": 137560,
-      "name": "The Green Light (The Great Gatsby) - Piano Version",
-      "url": "https://open.spotify.com/track/1JrIcQ0MzD0B6OddEflF0U"
-    },
-    {
-      "added_at": "2025-12-23 11:35:17",
-      "album": {
         "name": "Ad Infinitum",
         "url": "https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA"
       },
@@ -171,22 +155,18 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
-        "name": "Motifs in F# Major (Reimagined)",
-        "url": "https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI"
+        "name": "The Green Light (The Great Gatsby) [Piano Version]",
+        "url": "https://open.spotify.com/album/63hveeHmbv5Kb1sRK1rIsd"
       },
       "artists": [
         {
-          "name": "Solar Sleeper",
-          "url": "https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG"
-        },
-        {
-          "name": "rhubiqs",
-          "url": "https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT"
+          "name": "Je Suis Parte",
+          "url": "https://open.spotify.com/artist/0CAXDOuageq5zwYSpTqe63"
         }
       ],
-      "duration_ms": 331287,
-      "name": "Motifs in F# Major - Reimagined",
-      "url": "https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ"
+      "duration_ms": 137560,
+      "name": "The Green Light (The Great Gatsby) - Piano Version",
+      "url": "https://open.spotify.com/track/1JrIcQ0MzD0B6OddEflF0U"
     },
     {
       "added_at": "2025-12-23 11:35:17",
@@ -227,6 +207,26 @@
       "duration_ms": 228257,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL"
+    },
+    {
+      "added_at": "2025-12-23 11:35:17",
+      "album": {
+        "name": "Motifs in F# Major (Reimagined)",
+        "url": "https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI"
+      },
+      "artists": [
+        {
+          "name": "Solar Sleeper",
+          "url": "https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG"
+        },
+        {
+          "name": "rhubiqs",
+          "url": "https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT"
+        }
+      ],
+      "duration_ms": 331287,
+      "name": "Motifs in F# Major - Reimagined",
+      "url": "https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ"
     },
     {
       "added_at": "2025-12-23 11:35:17",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
-        "name": "Transcend",
-        "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
-      },
-      "artists": [
-        {
-          "name": "Franco Robert",
-          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
-    },
-    {
-      "added_at": "2025-12-23 11:35:17",
-      "album": {
         "name": "Everything Is Everything Else",
         "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 281841,
       "name": "Everything Is Everything Else",
       "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
+    },
+    {
+      "added_at": "2025-12-23 11:35:17",
+      "album": {
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
+      },
+      "artists": [
+        {
+          "name": "Franco Robert",
+          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
     },
     {
       "added_at": "2025-12-23 11:35:17",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
-        "name": "Walking on the Sand",
-        "url": "https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4"
-      },
-      "artists": [
-        {
-          "name": "Raf21",
-          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
-        }
-      ],
-      "duration_ms": 207046,
-      "name": "Walking on the Sand - Piano & Waves",
-      "url": "https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ"
-    },
-    {
-      "added_at": "2025-12-23 11:35:17",
-      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/0ebShmigwYPVYWM3avAn4U"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 132755,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/2VIXkigavUSZO66aQifzeZ"
+    },
+    {
+      "added_at": "2025-12-23 11:35:17",
+      "album": {
+        "name": "Walking on the Sand",
+        "url": "https://open.spotify.com/album/2EYGPQArAHH1cbaGELf7j4"
+      },
+      "artists": [
+        {
+          "name": "Raf21",
+          "url": "https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8"
+        }
+      ],
+      "duration_ms": 207046,
+      "name": "Walking on the Sand - Piano & Waves",
+      "url": "https://open.spotify.com/track/0sjTR8qQqGXyFS8QcccqMJ"
     },
     {
       "added_at": "2025-12-23 11:35:17",
@@ -851,26 +851,6 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
-        "name": "Things of the World (Piano and Strings)",
-        "url": "https://open.spotify.com/album/2yxNHqEapsxfDnheg65zrI"
-      },
-      "artists": [
-        {
-          "name": "Amelie Bernard",
-          "url": "https://open.spotify.com/artist/1VcWfPz5hcVdwJwmkzp37N"
-        },
-        {
-          "name": "Andy Muller",
-          "url": "https://open.spotify.com/artist/3GJdStK9xNIA5iOpesGg4d"
-        }
-      ],
-      "duration_ms": 100875,
-      "name": "Things of the World - Piano and Strings",
-      "url": "https://open.spotify.com/track/5e7rOKu6CZxntaa8gKOihj"
-    },
-    {
-      "added_at": "2025-12-23 11:35:17",
-      "album": {
         "name": "First Time Of Heaven (Piano and Strings)",
         "url": "https://open.spotify.com/album/5J4JVqt7PgLD5RzwYt5FjG"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 136521,
       "name": "First Time Of Heaven - Piano and Strings",
       "url": "https://open.spotify.com/track/28xXlF8sz0TgNL52WI7VkT"
+    },
+    {
+      "added_at": "2025-12-23 11:35:17",
+      "album": {
+        "name": "Things of the World (Piano and Strings)",
+        "url": "https://open.spotify.com/album/2yxNHqEapsxfDnheg65zrI"
+      },
+      "artists": [
+        {
+          "name": "Amelie Bernard",
+          "url": "https://open.spotify.com/artist/1VcWfPz5hcVdwJwmkzp37N"
+        },
+        {
+          "name": "Andy Muller",
+          "url": "https://open.spotify.com/artist/3GJdStK9xNIA5iOpesGg4d"
+        }
+      ],
+      "duration_ms": 100875,
+      "name": "Things of the World - Piano and Strings",
+      "url": "https://open.spotify.com/track/5e7rOKu6CZxntaa8gKOihj"
     },
     {
       "added_at": "2025-12-23 11:35:17",

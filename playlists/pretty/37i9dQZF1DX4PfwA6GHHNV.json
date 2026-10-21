@@ -1,12 +1,12 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23532,
+  "num_followers": 23535,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALtJ+tHN0FByJ5lGRp9FFmS8c4Z3",
+  "snapshot_id": "AAAAAINnS5BeZOz1/a+J/yBadeNBFpS9",
   "tracks": [
     {
       "added_at": "2026-10-19 15:51:33",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
+        "name": "PILLOW",
+        "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 125672,
+      "name": "PILLOW",
+      "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
         "name": "Insana",
         "url": "https://open.spotify.com/album/4aaopaXBXqztTnBOTi5BBd"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 206971,
       "name": "Insana",
       "url": "https://open.spotify.com/track/6hbYQFl2ybH0TVHyk2iWQR"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
-        "name": "PILLOW",
-        "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 125672,
-      "name": "PILLOW",
-      "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
     },
     {
       "added_at": "2026-10-19 15:51:33",
@@ -875,6 +875,26 @@
     {
       "added_at": "2026-10-19 15:51:33",
       "album": {
+        "name": "BRINDE",
+        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
+      },
+      "artists": [
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Avicena",
+          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "BRINDE",
+      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
+    },
+    {
+      "added_at": "2026-10-19 15:51:33",
+      "album": {
         "name": "Coulda Shown You",
         "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 135693,
       "name": "Doce Veneno",
       "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
-    },
-    {
-      "added_at": "2026-10-19 15:51:33",
-      "album": {
-        "name": "BRINDE",
-        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
-      },
-      "artists": [
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "Avicena",
-          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "BRINDE",
-      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
     },
     {
       "added_at": "2026-10-19 15:51:33",

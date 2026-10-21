@@ -12385,6 +12385,28 @@
     },
     {
       "album": {
+        "name": "I-Popstar: Vol. 2 | Episode 12",
+        "url": "https://open.spotify.com/album/75KH4AOjibvODsto6zORPV"
+      },
+      "artists": [
+        {
+          "name": "Sarkar",
+          "url": "https://open.spotify.com/artist/2R4yA8DlTWiUCpYlC0NMZh"
+        },
+        {
+          "name": "Aroob Khan",
+          "url": "https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180381,
+      "name": "Jugni",
+      "url": "https://open.spotify.com/track/269KS3Y4BYCLwK7g2s8TkP"
+    },
+    {
+      "album": {
         "name": "Julmi Sawariya",
         "url": "https://open.spotify.com/album/4qpU2MUMObHZKGh9021Itp"
       },
@@ -20624,8 +20646,8 @@
           "url": "https://open.spotify.com/artist/2Me9Hxjt0srBR4KMcPp6HP"
         },
         {
-          "name": "Momin Khan",
-          "url": "https://open.spotify.com/artist/4W3H0Rxj085dprH7XKaKlv"
+          "name": "MOMIN KHAN",
+          "url": "https://open.spotify.com/artist/1MlngYhDcXLiKXIqabA7s4"
         }
       ],
       "date_added": "2026-10-15",
@@ -25906,7 +25928,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 186521,
       "name": "Tujhse Bichad Ke - From \"Prem Keetanu\"",
       "url": "https://open.spotify.com/track/6moO5LyJbRASm0uPrBnGlu"

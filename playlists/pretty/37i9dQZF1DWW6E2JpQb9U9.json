@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Cuarteto de Nos",
-  "num_followers": 127580,
+  "num_followers": 127593,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALM1X4bNBfKsvOKvbHhayjLwHbcM",
+  "snapshot_id": "AAAAANyuo021oEWrWxXUpiEACZedfZ8C",
   "tracks": [
     {
       "added_at": "2026-09-14 18:42:36",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-09-14 18:42:36",
       "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 329893,
+      "name": "Demoliendo Hoteles - Live",
+      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
+    },
+    {
+      "added_at": "2026-09-14 18:42:36",
+      "album": {
         "name": "Obsesionario En La Mayor (feat. Abel Pintos) [En Vivo En River Plate]",
         "url": "https://open.spotify.com/album/0Osnyn6jIth0tYOeMCuHoT"
       },
@@ -499,34 +515,18 @@
     {
       "added_at": "2026-09-14 18:42:36",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+        "name": "El Rock De Mi Vida",
+        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
         }
       ],
-      "duration_ms": 329893,
-      "name": "Demoliendo Hoteles - Live",
-      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
-    },
-    {
-      "added_at": "2026-09-14 18:42:36",
-      "album": {
-        "name": "Otra Noche en la Luna (Episodio II)",
-        "url": "https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Homero - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
+      "duration_ms": 263573,
+      "name": "Reyes de la Noche",
+      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
     },
     {
       "added_at": "2026-09-14 18:42:36",
@@ -547,18 +547,18 @@
     {
       "added_at": "2026-09-14 18:42:36",
       "album": {
-        "name": "El Rock De Mi Vida",
-        "url": "https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym"
+        "name": "Otra Noche en la Luna (Episodio II)",
+        "url": "https://open.spotify.com/album/2i3jAjsGsoeP0Sq0DjF1vy"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 263573,
-      "name": "Reyes de la Noche",
-      "url": "https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s"
+      "duration_ms": 259200,
+      "name": "Homero - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/3ssaVppMVSm0WwO0Uz6NVe"
     },
     {
       "added_at": "2026-09-14 18:42:36",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-09-14 18:42:36",
       "album": {
-        "name": "Otra Noche en la Luna (Episodio I)",
-        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 311605,
-      "name": "De la Guitarra - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4"
-    },
-    {
-      "added_at": "2026-09-14 18:42:36",
-      "album": {
         "name": "C\u00f3mo Me Gusta Verte Re\u00edr",
         "url": "https://open.spotify.com/album/4lTU97kK1BZn8CM64e0qHK"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 251651,
       "name": "De Nada Sirve - En Vivo En Argentina",
       "url": "https://open.spotify.com/track/4xGfcgTkXzHDqEmBh2rWHS"
+    },
+    {
+      "added_at": "2026-09-14 18:42:36",
+      "album": {
+        "name": "Otra Noche en la Luna (Episodio I)",
+        "url": "https://open.spotify.com/album/49Dc7i19OTFHpmyqxdIGyI"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 311605,
+      "name": "De la Guitarra - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/4vBsZW0vafVcFmlG0ooRc4"
     },
     {
       "added_at": "2026-09-14 18:42:36",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-09-14 18:42:36",
       "album": {
-        "name": "Alucinados como la primera vez",
-        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
-      },
-      "artists": [
-        {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
-        }
-      ],
-      "duration_ms": 331453,
-      "name": "Sacrificio y Rock and Roll",
-      "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
-    },
-    {
-      "added_at": "2026-09-14 18:42:36",
-      "album": {
         "name": "MVD/05/03/05 (En Vivo)",
         "url": "https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 398705,
       "name": "Cosa Linda/Clara - En Vivo",
       "url": "https://open.spotify.com/track/48JNsIQ07dqVwpOdjjN8yu"
+    },
+    {
+      "added_at": "2026-09-14 18:42:36",
+      "album": {
+        "name": "Alucinados como la primera vez",
+        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
+      },
+      "artists": [
+        {
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+        }
+      ],
+      "duration_ms": 331453,
+      "name": "Sacrificio y Rock and Roll",
+      "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
     },
     {
       "added_at": "2026-09-14 18:42:36",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2026-09-14 18:42:36",
       "album": {
-        "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
-        "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 266824,
-      "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
-      "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
-    },
-    {
-      "added_at": "2026-09-14 18:42:36",
-      "album": {
         "name": "Sucio y Desprolijo (En Vivo Cosqu\u00edn Rock)",
         "url": "https://open.spotify.com/album/1PFc4pnap71P8RBNYxCfvR"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 333394,
       "name": "Sucio y Desprolijo - En Vivo Cosqu\u00edn Rock",
       "url": "https://open.spotify.com/track/76Bt5vjnbxyr0JmxZKToTW"
+    },
+    {
+      "added_at": "2026-09-14 18:42:36",
+      "album": {
+        "name": "Me Est\u00e1s Tratando Mal (Ac\u00fastico Gran Rex Vol. 2)",
+        "url": "https://open.spotify.com/album/4rMbWu6f2RBLP6NxcsB3EM"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 266824,
+      "name": "Me Est\u00e1s Tratando Mal - Ac\u00fastico Gran Rex Vol. 2",
+      "url": "https://open.spotify.com/track/6YgBLcBAdOnY4ol6XaKXLo"
     },
     {
       "added_at": "2026-09-14 18:42:36",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-09-14 18:42:36",
       "album": {
-        "name": "El Vuelo del Drag\u00f3n, Pt. 3",
-        "url": "https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x"
-      },
-      "artists": [
-        {
-          "name": "Palo Pandolfo",
-          "url": "https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf"
-        }
-      ],
-      "duration_ms": 289804,
-      "name": "Ella Vendr\u00e1",
-      "url": "https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU"
-    },
-    {
-      "added_at": "2026-09-14 18:42:36",
-      "album": {
         "name": "M\u00fasica del Alma (En Vivo)",
         "url": "https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 251296,
       "name": "M\u00fasica Del Alma - En Vivo",
       "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
+    },
+    {
+      "added_at": "2026-09-14 18:42:36",
+      "album": {
+        "name": "El Vuelo del Drag\u00f3n, Pt. 3",
+        "url": "https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x"
+      },
+      "artists": [
+        {
+          "name": "Palo Pandolfo",
+          "url": "https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf"
+        }
+      ],
+      "duration_ms": 289804,
+      "name": "Ella Vendr\u00e1",
+      "url": "https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU"
     },
     {
       "added_at": "2026-09-14 18:42:36",

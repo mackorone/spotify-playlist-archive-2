@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 1493605,
+  "num_followers": 1494032,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEH9mtb4ZQut+TORIss/y0J0Dsv3",
+  "snapshot_id": "AAAAADNAaTimHnnbI6x3rPYE6OBWPFOD",
   "tracks": [
     {
       "added_at": "2024-07-12 16:20:49",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Happy Nation",
         "url": "https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 255413,
       "name": "Happy Nation",
       "url": "https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Movin' Melodies",
-        "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "9Pm (Till I Come)",
-      "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 244146,
       "name": "Cosmic Girl - Remastered 2013",
       "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Movin' Melodies",
+        "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "9Pm (Till I Come)",
+      "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Say You'll Be There - Single Mix",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "Ghetto Supastar",
         "url": "https://open.spotify.com/album/0bCx3zLZj4wezD07YFrLPM"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 212133,
       "name": "Ecuador - Original Radio Edit",
       "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There - Single Mix",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 264000,
       "name": "Dreams (Will Come Alive)",
       "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Back For Good",
-        "url": "https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u"
-      },
-      "artists": [
-        {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "You're My Heart, You're My Soul '98",
-      "url": "https://open.spotify.com/track/1bNYIF1HZlWJe8ZKmTIFfT"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Music For The People",
         "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 269306,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Back For Good",
+        "url": "https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u"
+      },
+      "artists": [
+        {
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "You're My Heart, You're My Soul '98",
+      "url": "https://open.spotify.com/track/1bNYIF1HZlWJe8ZKmTIFfT"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
-      },
-      "artists": [
-        {
-          "name": "La Bouche",
-          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW"
       },
@@ -1751,18 +1735,34 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Backstreet Boys",
-        "url": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
         }
       ],
-      "duration_ms": 219466,
-      "name": "We've Got It Goin' On - Radio Edit",
-      "url": "https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX"
+      "duration_ms": 204586,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Pronounced Jah-Nay",
+        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
+      },
+      "artists": [
+        {
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "Hey Mr. D.J.",
+      "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Pronounced Jah-Nay",
-        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
       },
       "artists": [
         {
-          "name": "Zhan\u00e9",
-          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 252400,
-      "name": "Hey Mr. D.J.",
-      "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
+      "duration_ms": 219466,
+      "name": "We've Got It Goin' On - Radio Edit",
+      "url": "https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Get Ready",
-        "url": "https://open.spotify.com/album/6NhL15fEltVRFpld3hvaWV"
-      },
-      "artists": [
-        {
-          "name": "2 Unlimited",
-          "url": "https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "Get Ready",
-      "url": "https://open.spotify.com/track/4tvOVmc2jorV20Z2hFDtDg"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Toonage",
         "url": "https://open.spotify.com/album/0lKry7c7VLzsx4dD0DXSiI"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 187533,
       "name": "Witch Doctor - Radio Mix",
       "url": "https://open.spotify.com/track/1li2UA33w6LQcVXt4Di5UA"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Get Ready",
+        "url": "https://open.spotify.com/album/6NhL15fEltVRFpld3hvaWV"
+      },
+      "artists": [
+        {
+          "name": "2 Unlimited",
+          "url": "https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC"
+        }
+      ],
+      "duration_ms": 222911,
+      "name": "Get Ready",
+      "url": "https://open.spotify.com/track/4tvOVmc2jorV20Z2hFDtDg"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "In Stereo",
-        "url": "https://open.spotify.com/album/21Z00Rt15tDCUM4mStVNKI"
-      },
-      "artists": [
-        {
-          "name": "Bomfunk MC's",
-          "url": "https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Freestyler",
-      "url": "https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 277293,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "In Stereo",
+        "url": "https://open.spotify.com/album/21Z00Rt15tDCUM4mStVNKI"
+      },
+      "artists": [
+        {
+          "name": "Bomfunk MC's",
+          "url": "https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Freestyler",
+      "url": "https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2127,18 +2127,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Sunchyme",
-        "url": "https://open.spotify.com/album/6TtZuP1WRvIScmqLlUwet2"
+        "name": "Feel the heat of the night",
+        "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
       },
       "artists": [
         {
-          "name": "Dario G",
-          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
+          "name": "Masterboy",
+          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
         }
       ],
-      "duration_ms": 235850,
-      "name": "Sunchyme",
-      "url": "https://open.spotify.com/track/2YOuBWIyHgyvHnLMpjzBf2"
+      "duration_ms": 221840,
+      "name": "Feel the heat of the night - Radio Edit",
+      "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2159,34 +2159,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Feel the heat of the night",
-        "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
+        "name": "Sunchyme",
+        "url": "https://open.spotify.com/album/6TtZuP1WRvIScmqLlUwet2"
       },
       "artists": [
         {
-          "name": "Masterboy",
-          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
+          "name": "Dario G",
+          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
         }
       ],
-      "duration_ms": 221840,
-      "name": "Feel the heat of the night - Radio Edit",
-      "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "Funky Divas",
-        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 293106,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
+      "duration_ms": 235850,
+      "name": "Sunchyme",
+      "url": "https://open.spotify.com/track/2YOuBWIyHgyvHnLMpjzBf2"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2203,6 +2187,22 @@
       "duration_ms": 230186,
       "name": "Don't Turn Around",
       "url": "https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Funky Divas",
+        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
+      },
+      "artists": [
+        {
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+        }
+      ],
+      "duration_ms": 293106,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Flying High",
-        "url": "https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a"
-      },
-      "artists": [
-        {
-          "name": "Captain Hollywood Project",
-          "url": "https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4"
-        }
-      ],
-      "duration_ms": 226933,
-      "name": "Flying High - Radio Mix",
-      "url": "https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 351026,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a"
+      },
+      "artists": [
+        {
+          "name": "Captain Hollywood Project",
+          "url": "https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4"
+        }
+      ],
+      "duration_ms": 226933,
+      "name": "Flying High - Radio Mix",
+      "url": "https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa"
     },
     {
       "added_at": "2024-07-12 16:20:49",

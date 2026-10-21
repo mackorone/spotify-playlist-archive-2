@@ -11687,6 +11687,24 @@
     },
     {
       "album": {
+        "name": "Reconectarme",
+        "url": "https://open.spotify.com/album/1ujXy9iFbpDEF34zKYbSVW"
+      },
+      "artists": [
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136915,
+      "name": "Vida de Rockstar",
+      "url": "https://open.spotify.com/track/3fWXbatRWjTInoLpPu8bNS"
+    },
+    {
+      "album": {
         "name": "Pura Lumbre",
         "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
@@ -11710,24 +11728,6 @@
       "duration_ms": 172316,
       "name": "Vida Peligrosa (feat. Arsenal Efectivo & Omar Ruiz)",
       "url": "https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn"
-    },
-    {
-      "album": {
-        "name": "Reconectarme",
-        "url": "https://open.spotify.com/album/1ujXy9iFbpDEF34zKYbSVW"
-      },
-      "artists": [
-        {
-          "name": "Equipo HC",
-          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
-        }
-      ],
-      "date_added": "2026-10-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 136915,
-      "name": "Vida Rockstar",
-      "url": "https://open.spotify.com/track/3fWXbatRWjTInoLpPu8bNS"
     },
     {
       "album": {

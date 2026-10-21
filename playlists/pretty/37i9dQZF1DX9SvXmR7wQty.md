@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Angèle, Ino Casablanca, RnBoi, La Bronze, Cherry Lena, King Melrose, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,321 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,327 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 98 | [Aujourd'hui c'est l'amour](https://open.spotify.com/track/0KIXogpShPcVyhWIWJfohm) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [Thérèse, ma petite voie](https://open.spotify.com/album/02WpG6PntnvEeodQCu0mu7) | 4:05 |
 | 99 | [Heaven Sent](https://open.spotify.com/track/6RDnE56IgXL124OFK17Ws4) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Heaven Sent](https://open.spotify.com/album/0kyf1fKHdnKPrEtStxT4w4) | 2:56 |
 
-Snapshot ID: `AAAAADzDaL6K/Nc6zoFJZQrxb7UIRiX+`
+Snapshot ID: `AAAAAKgv6lt6s0dQDwxaAjbqqqZgHQhs`

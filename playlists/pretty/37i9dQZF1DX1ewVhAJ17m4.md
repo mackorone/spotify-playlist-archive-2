@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: WATERPARKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,612 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,596 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 85 | [Don't Let Me Get Too Low](https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Don't Let Me Get Too Low](https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af) | 2:38 |
 | 86 | [Take What You Want](https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Take What You Want](https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw) | 2:26 |
 | 87 | [I'M THE MAN \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/3uxwMc7iM3z0Jz0C0k4Vb2) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [I'M THE MAN \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/5XC95kPi0453QJxtx0zLaS) | 2:42 |
-| 88 | [Fields Behind the House](https://open.spotify.com/track/56S9xo3qIGOeLAhcYJzWxt) | [Oakwood](https://open.spotify.com/artist/26QUnNKXoLwA4M7EPXMVCf) | [Fields Behind The House](https://open.spotify.com/album/7v2BjRHb8j9D90khy7VPJF) | 2:42 |
-| 89 | [Someone You Need](https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Someone You Need](https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy) | 3:03 |
-| 90 | [Sandbox](https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sandbox](https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd) | 2:25 |
-| 91 | [Oxy Moron](https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Oxy Moron](https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6) | 4:06 |
-| 92 | [No Hope](https://open.spotify.com/track/0OAQGBvxb4XiZCBmsl7nZZ) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Who Will Look After The Dogs?](https://open.spotify.com/album/5wTc5JHsIufcPGetKKnrlv) | 1:59 |
-| 93 | [F.O.M.O.](https://open.spotify.com/track/6jOawNlALCZPj7L0MZALIz) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp) | [F.O.M.O.](https://open.spotify.com/album/72XfxMBfIthRjqqB7jvJA6) | 3:00 |
+| 88 | [Someone You Need](https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Someone You Need](https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy) | 3:03 |
+| 89 | [Sandbox](https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sandbox](https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd) | 2:25 |
+| 90 | [Fields Behind the House](https://open.spotify.com/track/56S9xo3qIGOeLAhcYJzWxt) | [Oakwood](https://open.spotify.com/artist/26QUnNKXoLwA4M7EPXMVCf) | [Fields Behind The House](https://open.spotify.com/album/7v2BjRHb8j9D90khy7VPJF) | 2:42 |
+| 91 | [F.O.M.O.](https://open.spotify.com/track/6jOawNlALCZPj7L0MZALIz) | [SUCKERPUNCH!](https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp) | [F.O.M.O.](https://open.spotify.com/album/72XfxMBfIthRjqqB7jvJA6) | 3:00 |
+| 92 | [Oxy Moron](https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Oxy Moron](https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6) | 4:06 |
+| 93 | [No Hope](https://open.spotify.com/track/0OAQGBvxb4XiZCBmsl7nZZ) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Who Will Look After The Dogs?](https://open.spotify.com/album/5wTc5JHsIufcPGetKKnrlv) | 1:59 |
 | 94 | [me against me](https://open.spotify.com/track/2lj5ljvoJTA7wZnEHL8gnI) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [me against me](https://open.spotify.com/album/0OCwUiSpRZNj9GQATlexSE) | 3:43 |
 | 95 | [Enchanted](https://open.spotify.com/track/77DzxGgjkYSKfBkx6bfyON) | [For When You Can't Breathe](https://open.spotify.com/artist/0dsmktuBoYwdNHvyhrbQ2J), [Lil Used](https://open.spotify.com/artist/5Y22XMM6JdOn9Saxox9uHw) | [Enchanted](https://open.spotify.com/album/2En35JTlQ54QTwpRrp7xTP) | 5:39 |
-| 96 | [Give or Take](https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Give or Take](https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu) | 3:23 |
-| 97 | [Be Someone](https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [Extremely Fragile Human Being](https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw) | 3:10 |
+| 96 | [Be Someone](https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [Extremely Fragile Human Being](https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw) | 3:10 |
+| 97 | [Give or Take](https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Give or Take](https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu) | 3:23 |
 | 98 | [Circulate](https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Circulate](https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx) | 2:39 |
 | 99 | [Back To Basics](https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O) | [iNTeRNeT FReNDz](https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ) | [Back To Basics](https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc) | 2:40 |
 | 100 | [One Zero Zero](https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [One Zero Zero](https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv) | 2:46 |
 
-Snapshot ID: `AAAAAJuhl8nJswEs0Fv+Hh8hqN0qHEy/`
+Snapshot ID: `AAAAAPjiAPjuZbJqwnUgxhKV2xRoWYiJ`

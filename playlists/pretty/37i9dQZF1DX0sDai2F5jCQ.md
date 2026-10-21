@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,367 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,336 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 74 | [Out The Blue](https://open.spotify.com/track/3dQ8MRBpgHLm2fKBkxLykd) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [Out The Blue](https://open.spotify.com/album/2xJTHtzH8amjbriR8O2zJg) | 1:59 |
 | 75 | [My Heart](https://open.spotify.com/track/3KzqPheSwyNSvYtjtOtmP4) | [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO) | [My Heart](https://open.spotify.com/album/6Zcy3dIE2qyVwqBVpSvy3U) | 4:27 |
 
-Snapshot ID: `AAAAAC5sE3Ynv1fb77MzkpUo5RlYw3eu`
+Snapshot ID: `AAAAAHfGBz95brlW5DbxErz89DJZKjUk`

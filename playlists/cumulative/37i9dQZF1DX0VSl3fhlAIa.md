@@ -4,7 +4,7 @@
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-60 songs - 4 hr 16 min
+62 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,13 +15,13 @@
 | [Anytime](https://open.spotify.com/track/4Yplq7B18jCFSyIHGDnbEq) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ALL YOURS](https://open.spotify.com/album/5caA9xJnnyArusGKB0GsbP) | 4:40 | 2025-09-30 |  |
 | [Automatic](https://open.spotify.com/track/6DJ3dfsY7fOU161ZMjzWIH) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 5:28 | 2025-09-30 |  |
 | [B & C](https://open.spotify.com/track/7zzJVfJqdB2mjNCXRyNCvT) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Movin' on without you](https://open.spotify.com/album/5WjRwt4fHDlU9EzxhowFkS) | 4:19 | 2025-09-30 |  |
-| [baby baby,Service \- Tastes Like Champagne Mix](https://open.spotify.com/track/6V54jaqja7pxUA6GL4Pgxq) | [Momoe Shimano](https://open.spotify.com/artist/0rMvBGE18xMbehJueZqQUJ) | [5 3 1](https://open.spotify.com/album/2o0eW6zX5c1EnC2Ww73YNk) | 4:59 | 2025-09-30 |  |
+| [baby baby,Service \- Tastes Like Champagne Mix](https://open.spotify.com/track/6V54jaqja7pxUA6GL4Pgxq) | [Momoe Shimano](https://open.spotify.com/artist/0rMvBGE18xMbehJueZqQUJ) | [5 3 1](https://open.spotify.com/album/2o0eW6zX5c1EnC2Ww73YNk) | 4:59 | 2025-09-30 | 2026-10-21 |
 | [Bad Bad](https://open.spotify.com/track/5gS9ZfVrVB7mcKgihppC2n) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Partition](https://open.spotify.com/album/13279ajN2EJXxOF1oTWLUK) | 3:45 | 2025-09-30 |  |
 | [BED \(DOUBLES\)](https://open.spotify.com/track/5AhAbUiIlGP6Cp4Lq6rigR) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:21 | 2025-09-30 |  |
 | [been so long](https://open.spotify.com/track/1mBq2k3CJq5bXWDrprKbNi) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [Planet Shining](https://open.spotify.com/album/2cPylo5CrePCII64XeTZnT) | 5:51 | 2025-09-30 |  |
 | [Breakfast In Bed \(feat\. Ryohu\)](https://open.spotify.com/track/3xOWQaqBr9DQ0ArHuvvOxF) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U) | [ego](https://open.spotify.com/album/7cbw0I9da0FHVzCAaynFCl) | 4:17 | 2025-09-30 |  |
 | [Buddies](https://open.spotify.com/track/5MUtNMkyc3wG8k4Zwzdvmv) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Buddies](https://open.spotify.com/album/6vDY8mPP5fAjhbk5T2reay) | 3:59 | 2025-09-30 |  |
-| [Burn](https://open.spotify.com/track/2QQDuGzMpNX0hfMCZLqXGP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 2:49 | 2025-09-30 |  |
+| [Burn](https://open.spotify.com/track/2QQDuGzMpNX0hfMCZLqXGP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 2:49 | 2025-09-30 | 2026-10-21 |
 | [Changes](https://open.spotify.com/track/7FkCColdGXYdkLZf7HbjK5) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Changes](https://open.spotify.com/album/5qHPDhMOkATOEzV2JSG20B) | 4:24 | 2026-06-26 | 2026-10-09 |
 | [Chosen One](https://open.spotify.com/track/4VZJyx96dNBeRAZnUyNfrB) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Chosen One](https://open.spotify.com/album/1zamcgFy1aMew8FQBVUS31) | 2:31 | 2025-09-30 |  |
 | [come again](https://open.spotify.com/track/477CB93mH986mrIheQD0RR) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [EXPO EXPO](https://open.spotify.com/album/5s6G3HzAqcKNJt90LeFw19) | 5:51 | 2025-09-30 |  |
@@ -35,9 +35,11 @@
 | [I'm In Love](https://open.spotify.com/track/0ZHEfv2raGfXN9zC9R9fOo) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [double](https://open.spotify.com/album/215aaYIKF4stitCyFZ95al) | 4:57 | 2025-09-30 | 2026-04-16 |
 | [In My Room](https://open.spotify.com/track/3R4Yhp87d7GsGHgp92qlUH) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 4:19 | 2025-09-30 |  |
 | [Is it a crime?](https://open.spotify.com/track/2hy9onH96hRqGOAW50W3Iq) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Is it a crime?](https://open.spotify.com/album/1fiAF9KstmdCFtcog112Wx) | 3:14 | 2025-09-30 | 2026-09-17 |
+| [Kirakuni \- DK Remix](https://open.spotify.com/track/1VRg90rpRv7usFnOQTqDKE) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [Do Hyun Kim](https://open.spotify.com/artist/4v0r2FTwARi4Fq8KCV3YQg) | [REFRESH: One](https://open.spotify.com/album/4Umn1iYWkLNEY9S2Fvd2qk) | 3:56 | 2026-10-20 |  |
 | [Lady Soul \(Day\-lite Version\)](https://open.spotify.com/track/2LvTZDycD0ZzlwXuCedIY3) | [ACO](https://open.spotify.com/artist/1G29J8b3UnUFUilGCbUlXf) | [Lady Soul](https://open.spotify.com/album/1wHCBE51BOkm2B54mAxzTg) | 6:34 | 2025-09-30 |  |
 | [LET'S GO!](https://open.spotify.com/track/2yS62ySi7e53qMzJ32ClQH) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Sunny Side Of Original Love](https://open.spotify.com/album/1tXNcSMy345oksuxlQppRH) | 6:07 | 2025-09-30 |  |
 | [LOOP](https://open.spotify.com/track/40TPC9leP3bl1YJsjtTgqs) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [SIRUP EP2](https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8) | 5:05 | 2025-09-30 |  |
+| [Love / Hate](https://open.spotify.com/track/2dr0U0kEHfZv19o0lESsPO) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [Love / Hate](https://open.spotify.com/album/7IVEMKNDRehODrCp0owdds) | 4:36 | 2026-10-20 |  |
 | [Magic](https://open.spotify.com/track/4Cab8axKMPvZbxpwgGQhUJ) | [Tina](https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L) | [Colorado](https://open.spotify.com/album/7D3tX9U9qzmr0HOiU3GlB7) | 5:31 | 2025-09-30 |  |
 | [Moonlight](https://open.spotify.com/track/7gMxXLjM6RvQuNeMxTFf8H) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Sea of Love](https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA) | 3:29 | 2025-09-30 |  |
 | [my apologiesss](https://open.spotify.com/track/4Co4LOu8vVJ5mntIWLRqRd) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [You Were Wrong](https://open.spotify.com/album/6qpDp066saTszT71b8pm3t) | 3:04 | 2025-09-30 |  |

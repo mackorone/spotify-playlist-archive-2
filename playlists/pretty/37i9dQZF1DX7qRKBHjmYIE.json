@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Chuwi.",
-  "num_followers": 733369,
+  "num_followers": 733279,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD6ZzNPCzHA1hsN7RB9oUlolt0QG",
+  "snapshot_id": "AAAAAD8xgQfp51H0hZoevIcqMelRLt9V",
   "tracks": [
     {
       "added_at": "2026-10-16 04:01:17",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
+        "name": "Turnaround / I'm Hooked",
+        "url": "https://open.spotify.com/album/3Nt7AounpxUPNRkMJErdtw"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 194227,
+      "name": "Turnaround",
+      "url": "https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5"
+    },
+    {
+      "added_at": "2026-10-16 04:01:17",
+      "album": {
         "name": "\u00bfD\u00f3nde Es El After?",
         "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 207853,
       "name": "Cimarr\u00f3n",
       "url": "https://open.spotify.com/track/03E4111ppLF3qUQme0Sw70"
-    },
-    {
-      "added_at": "2026-10-16 04:01:17",
-      "album": {
-        "name": "Turnaround / I'm Hooked",
-        "url": "https://open.spotify.com/album/3Nt7AounpxUPNRkMJErdtw"
-      },
-      "artists": [
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 194227,
-      "name": "Turnaround",
-      "url": "https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -444,7 +444,7 @@
       },
       "artists": [
         {
-          "name": "Maia Reficco",
+          "name": "maia reficco",
           "url": "https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM"
         }
       ],
@@ -543,26 +543,6 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
-        "name": "La gravedad y el tiempo.",
-        "url": "https://open.spotify.com/album/5L95oJ4x1Lrj419blyzCZM"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "La gravedad y el tiempo.",
-      "url": "https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT"
-    },
-    {
-      "added_at": "2026-10-16 04:01:17",
-      "album": {
         "name": "PECADO",
         "url": "https://open.spotify.com/album/6HdWXqAuMdCKcgmBfk5p7S"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 185760,
       "name": "PECADO",
       "url": "https://open.spotify.com/track/5dp2V32B476hbdJGJZqZtu"
+    },
+    {
+      "added_at": "2026-10-16 04:01:17",
+      "album": {
+        "name": "La gravedad y el tiempo.",
+        "url": "https://open.spotify.com/album/5L95oJ4x1Lrj419blyzCZM"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 162333,
+      "name": "La gravedad y el tiempo.",
+      "url": "https://open.spotify.com/track/2PSWcnLzIl0vSxEIzKfTYT"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
+        "name": "si",
+        "url": "https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "duration_ms": 151624,
+      "name": "si",
+      "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"
+    },
+    {
+      "added_at": "2026-10-16 04:01:17",
+      "album": {
         "name": "Quiero",
         "url": "https://open.spotify.com/album/5wNz8c67H9BpqJHyr5YOTq"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
-        "name": "si",
-        "url": "https://open.spotify.com/album/4KZG1pHNQdUQlNNIm4mt6f"
+        "name": "T O M A !",
+        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
       },
       "artists": [
         {
-          "name": "Sparklmami",
-          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
         }
       ],
-      "duration_ms": 151624,
-      "name": "si",
-      "url": "https://open.spotify.com/track/7bIHolmbqyiJ5lPtfoZfL4"
+      "duration_ms": 160645,
+      "name": "T O M A !",
+      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -659,22 +675,6 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
-        "name": "T O M A !",
-        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "T O M A !",
-      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
-    },
-    {
-      "added_at": "2026-10-16 04:01:17",
-      "album": {
         "name": "ENTREOLAS Mixtape, Vol. 2",
         "url": "https://open.spotify.com/album/4PDhaXAcqaGXklORHXTJwo"
       },
@@ -687,6 +687,26 @@
       "duration_ms": 152784,
       "name": "Ambiente<3",
       "url": "https://open.spotify.com/track/1xG5edatLwH6bW1CiWWIEC"
+    },
+    {
+      "added_at": "2026-10-16 04:01:17",
+      "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
+        "url": "https://open.spotify.com/album/2yhcXITwUBTEAs3g3l5AXB"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 173778,
+      "name": "Todo Baila (feat. M. Ward)",
+      "url": "https://open.spotify.com/track/2rkUvywotsLZBxHg4L6YP2"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -731,26 +751,6 @@
       "duration_ms": 248923,
       "name": "Mentirasmentiras",
       "url": "https://open.spotify.com/track/5NLZW2tGwAQfixHhrVv6O2"
-    },
-    {
-      "added_at": "2026-10-16 04:01:17",
-      "album": {
-        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
-        "url": "https://open.spotify.com/album/2yhcXITwUBTEAs3g3l5AXB"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        },
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 173778,
-      "name": "Todo Baila (feat. M. Ward)",
-      "url": "https://open.spotify.com/track/2rkUvywotsLZBxHg4L6YP2"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -855,6 +855,26 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
+        "name": "aunquetelopida",
+        "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        },
+        {
+          "name": "Riosse",
+          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
+        }
+      ],
+      "duration_ms": 180631,
+      "name": "aunquetelopida",
+      "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
+    },
+    {
+      "added_at": "2026-10-16 04:01:17",
+      "album": {
         "name": "BARBIE",
         "url": "https://open.spotify.com/album/3TinbkrnP1G8QTZvD67PLz"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 207096,
       "name": "BARBIE",
       "url": "https://open.spotify.com/track/3JmqKgkmWzwfM8W600UCIy"
-    },
-    {
-      "added_at": "2026-10-16 04:01:17",
-      "album": {
-        "name": "aunquetelopida",
-        "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        },
-        {
-          "name": "Riosse",
-          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
-        }
-      ],
-      "duration_ms": 180631,
-      "name": "aunquetelopida",
-      "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
+        "name": "Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
+      },
+      "artists": [
+        {
+          "name": "Blua",
+          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
+        }
+      ],
+      "duration_ms": 181344,
+      "name": "Pr\u00edncipe",
+      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
+    },
+    {
+      "added_at": "2026-10-16 04:01:17",
+      "album": {
         "name": "PINK LEMONADE",
         "url": "https://open.spotify.com/album/0Zv6IMPprJQeSqKsMpCVLq"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 235906,
       "name": "creiziiii",
       "url": "https://open.spotify.com/track/7F37hWsqlVNux3dATtr4ls"
-    },
-    {
-      "added_at": "2026-10-16 04:01:17",
-      "album": {
-        "name": "Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/7pgIrWQsslCCYVKvXSxcb9"
-      },
-      "artists": [
-        {
-          "name": "Blua",
-          "url": "https://open.spotify.com/artist/43Vc14K5S0k4Vt34OpVFdM"
-        }
-      ],
-      "duration_ms": 181344,
-      "name": "Pr\u00edncipe",
-      "url": "https://open.spotify.com/track/2b39GNmHpEx0RRbKNJEdlf"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -1427,18 +1427,22 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
-        "name": "Creo En Ti",
-        "url": "https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v"
+        "name": "Camas Separadas (ft. Disco Bah\u00eda)",
+        "url": "https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
         }
       ],
-      "duration_ms": 202425,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ"
+      "duration_ms": 235136,
+      "name": "Camas Separadas - ft. Disco Bah\u00eda",
+      "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -1459,22 +1463,18 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
-        "name": "Camas Separadas (ft. Disco Bah\u00eda)",
-        "url": "https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or"
+        "name": "Creo En Ti",
+        "url": "https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         }
       ],
-      "duration_ms": 235136,
-      "name": "Camas Separadas - ft. Disco Bah\u00eda",
-      "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
+      "duration_ms": 202425,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
+        "name": "NI\u00d1O BUENO",
+        "url": "https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e"
+      },
+      "artists": [
+        {
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
+        }
+      ],
+      "duration_ms": 191375,
+      "name": "contraste",
+      "url": "https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt"
+    },
+    {
+      "added_at": "2026-10-16 04:01:17",
+      "album": {
         "name": "YORU",
         "url": "https://open.spotify.com/album/46NnC6qj5SlVbqMPFoeQQs"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 168750,
       "name": "MENTIRNOS HOY",
       "url": "https://open.spotify.com/track/0zkSyPNlEyKQetyLi4Plxb"
-    },
-    {
-      "added_at": "2026-10-16 04:01:17",
-      "album": {
-        "name": "NI\u00d1O BUENO",
-        "url": "https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e"
-      },
-      "artists": [
-        {
-          "name": "FABIAN",
-          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
-        }
-      ],
-      "duration_ms": 191375,
-      "name": "contraste",
-      "url": "https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
-        "name": "EL QUE NO LLORA NO MAMA",
-        "url": "https://open.spotify.com/album/6HSgzh8ytBsALx1cqVcDH8"
-      },
-      "artists": [
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 189598,
-      "name": "ME TEN\u00cdA QUE PASAR",
-      "url": "https://open.spotify.com/track/6ma0wyYOS2p1TusUdT16bp"
-    },
-    {
-      "added_at": "2026-10-16 04:01:17",
-      "album": {
         "name": "En Tercera Persona",
         "url": "https://open.spotify.com/album/0MqVHSORj4pxurPL2VYuKT"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 211435,
       "name": "En Tercera Persona",
       "url": "https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n"
+    },
+    {
+      "added_at": "2026-10-16 04:01:17",
+      "album": {
+        "name": "EL QUE NO LLORA NO MAMA",
+        "url": "https://open.spotify.com/album/6HSgzh8ytBsALx1cqVcDH8"
+      },
+      "artists": [
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 189598,
+      "name": "ME TEN\u00cdA QUE PASAR",
+      "url": "https://open.spotify.com/track/6ma0wyYOS2p1TusUdT16bp"
     },
     {
       "added_at": "2026-10-16 04:01:17",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2026-10-16 04:01:17",
       "album": {
-        "name": "En bucle",
-        "url": "https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u"
+        "name": "Lucero",
+        "url": "https://open.spotify.com/album/3S8BSzmo1AQcShRuxJgN6A"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Vicente Cifuentes",
+          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
         }
       ],
-      "duration_ms": 316026,
-      "name": "En bucle",
-      "url": "https://open.spotify.com/track/6Fclh8eoItr2T0QulGtZyO"
+      "duration_ms": 226697,
+      "name": "Lucero",
+      "url": "https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5"
     }
   ],
   "unique_name": "Mixto",

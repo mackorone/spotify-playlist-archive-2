@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALkdyuxlcULrp9uwLMGcKNYwnOyu",
+  "snapshot_id": "AAAAADYxYMX8DrmidWrTotZB2TCTSPsu",
   "tracks": [
     {
       "added_at": "2026-10-16 04:00:00",
@@ -31,22 +31,6 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
-        "name": "The Devil's Tax Return: Volume 1",
-        "url": "https://open.spotify.com/album/3rgOMpJ4GTgsHY1tyuof2r"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 193082,
-      "name": "When You Were Young",
-      "url": "https://open.spotify.com/track/6PDlFzxxVnvxsqJ33cxp2M"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/3wx7cjtpbUwFYliNoX01qa"
       },
@@ -63,22 +47,46 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
-        "name": "No Bad Memories",
-        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
+        "name": "The Devil's Tax Return: Volume 1",
+        "url": "https://open.spotify.com/album/3rgOMpJ4GTgsHY1tyuof2r"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Loaded Honey",
-          "url": "https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 97693,
-      "name": "I Give Everything I Have 2 U (feat. Loaded Honey)",
-      "url": "https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu"
+      "duration_ms": 193082,
+      "name": "When You Were Young",
+      "url": "https://open.spotify.com/track/6PDlFzxxVnvxsqJ33cxp2M"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
+        "name": "C.R.E.A.M. (Call of Duty: Modern Warfare 4 Remix)",
+        "url": "https://open.spotify.com/album/6mzqGoOSkzCh675eqenfVz"
+      },
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "C.R.E.A.M. - Call of Duty: Modern Warfare 4 Remix",
+      "url": "https://open.spotify.com/track/3vMJu8ZXevRbVNUb5fDLLZ"
     },
     {
       "added_at": "2026-10-16 04:00:00",
@@ -115,50 +123,22 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
-        "name": "C.R.E.A.M. (Call of Duty: Modern Warfare 4 Remix)",
-        "url": "https://open.spotify.com/album/6mzqGoOSkzCh675eqenfVz"
+        "name": "No Bad Memories",
+        "url": "https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX"
       },
       "artists": [
         {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
         },
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+          "name": "Loaded Honey",
+          "url": "https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB"
         }
       ],
-      "duration_ms": 205226,
-      "name": "C.R.E.A.M. - Call of Duty: Modern Warfare 4 Remix",
-      "url": "https://open.spotify.com/track/3vMJu8ZXevRbVNUb5fDLLZ"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
-        "name": "TRIBE",
-        "url": "https://open.spotify.com/album/21Fc4pwRKUdCRHsD7aZu5M"
-      },
-      "artists": [
-        {
-          "name": "Matt McGhee",
-          "url": "https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        }
-      ],
-      "duration_ms": 181515,
-      "name": "TRIBE",
-      "url": "https://open.spotify.com/track/0O49vaglluMVZcVbC5lDXy"
+      "duration_ms": 97693,
+      "name": "I Give Everything I Have 2 U (feat. Loaded Honey)",
+      "url": "https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu"
     },
     {
       "added_at": "2026-10-16 04:00:00",
@@ -203,6 +183,26 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
+        "name": "TRIBE",
+        "url": "https://open.spotify.com/album/21Fc4pwRKUdCRHsD7aZu5M"
+      },
+      "artists": [
+        {
+          "name": "Matt McGhee",
+          "url": "https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "duration_ms": 181515,
+      "name": "TRIBE",
+      "url": "https://open.spotify.com/track/0O49vaglluMVZcVbC5lDXy"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
         "name": "L\u00e6knisgaldr",
         "url": "https://open.spotify.com/album/0EUqyG3KOFsBdduECPmGmw"
       },
@@ -215,26 +215,6 @@
       "duration_ms": 375285,
       "name": "L\u00e6knisgaldr",
       "url": "https://open.spotify.com/track/1YVEvH42tBvNZHnheYvTny"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
-        "name": "Japur\u00e1 River",
-        "url": "https://open.spotify.com/album/4o67WCl3kwoI4P5O48QyXk"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Avanti Guitar Trio",
-          "url": "https://open.spotify.com/artist/6KyE6ubvzLxZN7I5GFo0ri"
-        }
-      ],
-      "duration_ms": 292906,
-      "name": "Japur\u00e1 River",
-      "url": "https://open.spotify.com/track/1nfGclGvquT9fyPNMBGyit"
     },
     {
       "added_at": "2026-10-16 04:00:00",
@@ -279,6 +259,46 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
+        "name": "Japur\u00e1 River",
+        "url": "https://open.spotify.com/album/4o67WCl3kwoI4P5O48QyXk"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Avanti Guitar Trio",
+          "url": "https://open.spotify.com/artist/6KyE6ubvzLxZN7I5GFo0ri"
+        }
+      ],
+      "duration_ms": 292906,
+      "name": "Japur\u00e1 River",
+      "url": "https://open.spotify.com/track/1nfGclGvquT9fyPNMBGyit"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
+        "name": "prayerhands and headnods",
+        "url": "https://open.spotify.com/album/3Qry3Wx5JoXYQDtrqBmvB5"
+      },
+      "artists": [
+        {
+          "name": "Otis Mensah",
+          "url": "https://open.spotify.com/artist/7k5Y1D2fR4hNGx2ZtVjpUw"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 193187,
+      "name": "prayerhands and headnods",
+      "url": "https://open.spotify.com/track/1o55fZYgAUpS8FTQvEaVU7"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
         "name": "Great Concertos for Violin",
         "url": "https://open.spotify.com/album/5mQ5qhshCss5WjOuMs9oOM"
       },
@@ -307,46 +327,6 @@
       "duration_ms": 336800,
       "name": "Beethoven: Triple Concerto in C Major, Op. 56: II. Largo",
       "url": "https://open.spotify.com/track/1xkYgJO3O7h8UJuoD1C5AJ"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
-        "name": "prayerhands and headnods",
-        "url": "https://open.spotify.com/album/3Qry3Wx5JoXYQDtrqBmvB5"
-      },
-      "artists": [
-        {
-          "name": "Otis Mensah",
-          "url": "https://open.spotify.com/artist/7k5Y1D2fR4hNGx2ZtVjpUw"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 193187,
-      "name": "prayerhands and headnods",
-      "url": "https://open.spotify.com/track/1o55fZYgAUpS8FTQvEaVU7"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
-        "name": "Moving at Light Speed",
-        "url": "https://open.spotify.com/album/1iytMWtFrdmv0koG2f6r8L"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Button Masher",
-          "url": "https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3"
-        }
-      ],
-      "duration_ms": 107402,
-      "name": "Moving at Light Speed",
-      "url": "https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4"
     },
     {
       "added_at": "2026-10-16 04:00:00",
@@ -416,25 +396,29 @@
           "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
         }
       ],
-      "duration_ms": 45714,
-      "name": "Study",
-      "url": "https://open.spotify.com/track/2JZkkfXGuy2Z8w7mShXbZI"
+      "duration_ms": 56478,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/61UPgMzGQiSg8y97tZIKft"
     },
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
-        "name": "The Allfather Awakens",
-        "url": "https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh"
+        "name": "Moving at Light Speed",
+        "url": "https://open.spotify.com/album/1iytMWtFrdmv0koG2f6r8L"
       },
       "artists": [
         {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Button Masher",
+          "url": "https://open.spotify.com/artist/3p0OtpbgE6a46IBMirYCe3"
         }
       ],
-      "duration_ms": 276706,
-      "name": "The Allfather Awakes",
-      "url": "https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS"
+      "duration_ms": 107402,
+      "name": "Moving at Light Speed",
+      "url": "https://open.spotify.com/track/6jEO5RmiesaiY7zlQDoHq4"
     },
     {
       "added_at": "2026-10-16 04:00:00",
@@ -475,18 +459,18 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
-        "name": "Pullin' Out",
-        "url": "https://open.spotify.com/album/4pNhOyU4lUMtANwbDGtvJ6"
+        "name": "The Allfather Awakens",
+        "url": "https://open.spotify.com/album/3wWGwDzC7aLeOOV85PUMmh"
       },
       "artists": [
         {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
         }
       ],
-      "duration_ms": 115778,
-      "name": "DSL",
-      "url": "https://open.spotify.com/track/4EfiKVYocBi7szQHSI8SSm"
+      "duration_ms": 276706,
+      "name": "The Allfather Awakes",
+      "url": "https://open.spotify.com/track/4ndnzG7zf1Rqdq50OcOqsS"
     },
     {
       "added_at": "2026-10-16 04:00:00",
@@ -515,38 +499,18 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
-        "name": "Holding Space",
-        "url": "https://open.spotify.com/album/6CgyEtg4jaqOKE2g5MyzPj"
+        "name": "Pullin' Out",
+        "url": "https://open.spotify.com/album/4pNhOyU4lUMtANwbDGtvJ6"
       },
       "artists": [
         {
-          "name": "Benjamin Adamson",
-          "url": "https://open.spotify.com/artist/4qpCwiMgToVn4hUe6hMkZF"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
         }
       ],
-      "duration_ms": 803994,
-      "name": "Breath Meditation",
-      "url": "https://open.spotify.com/track/4EE1MPWf8ReE14JrYpRtFY"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
-        "name": "Sad Wings of Destiny (Original 1976 Masters)",
-        "url": "https://open.spotify.com/album/3xsb7YOwzYShxVLewJ3DNl"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 472130,
-      "name": "Victim of Changes - Original 1976 Masters",
-      "url": "https://open.spotify.com/track/6nRpof5gPgogrU87jsJnhq"
+      "duration_ms": 115778,
+      "name": "DSL",
+      "url": "https://open.spotify.com/track/4EfiKVYocBi7szQHSI8SSm"
     },
     {
       "added_at": "2026-10-16 04:00:00",
@@ -583,6 +547,58 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
+        "name": "Holding Space",
+        "url": "https://open.spotify.com/album/6CgyEtg4jaqOKE2g5MyzPj"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Adamson",
+          "url": "https://open.spotify.com/artist/4qpCwiMgToVn4hUe6hMkZF"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 803994,
+      "name": "Breath Meditation",
+      "url": "https://open.spotify.com/track/4EE1MPWf8ReE14JrYpRtFY"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
+        "name": "What Do I Do If You Don't",
+        "url": "https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 174470,
+      "name": "What Do I Do If You Don't",
+      "url": "https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
+        "name": "Sad Wings of Destiny (Original 1976 Masters)",
+        "url": "https://open.spotify.com/album/3xsb7YOwzYShxVLewJ3DNl"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 472130,
+      "name": "Victim of Changes - Original 1976 Masters",
+      "url": "https://open.spotify.com/track/6nRpof5gPgogrU87jsJnhq"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
         "name": "Jungle Noire",
         "url": "https://open.spotify.com/album/2IAAbamIP2plGErikuiWYd"
       },
@@ -607,6 +623,22 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
+        "name": "Beyond Zeta Reticuli",
+        "url": "https://open.spotify.com/album/0zWln9L7ewaoAngMg4rscO"
+      },
+      "artists": [
+        {
+          "name": "Yngwie Malmsteen",
+          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+        }
+      ],
+      "duration_ms": 380026,
+      "name": "Beyond Zeta Reticuli",
+      "url": "https://open.spotify.com/track/3WtWoEF1QNiOsXnUhDHzoC"
+    },
+    {
+      "added_at": "2026-10-16 04:00:00",
+      "album": {
         "name": "TTW (Kaytranada Remix)",
         "url": "https://open.spotify.com/album/1xAna72t1R4SFlsztBiGvr"
       },
@@ -627,18 +659,18 @@
     {
       "added_at": "2026-10-16 04:00:00",
       "album": {
-        "name": "Beyond Zeta Reticuli",
-        "url": "https://open.spotify.com/album/0zWln9L7ewaoAngMg4rscO"
+        "name": "Live In Krakow",
+        "url": "https://open.spotify.com/album/2TsxHULDHOfbHXGcxizmai"
       },
       "artists": [
         {
-          "name": "Yngwie Malmsteen",
-          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+          "name": "Till Lindemann",
+          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
         }
       ],
-      "duration_ms": 380026,
-      "name": "Beyond Zeta Reticuli",
-      "url": "https://open.spotify.com/track/3WtWoEF1QNiOsXnUhDHzoC"
+      "duration_ms": 294637,
+      "name": "Blut - Live In Krakow",
+      "url": "https://open.spotify.com/track/3LhO24F2pKPbrv0VwBBSQ7"
     },
     {
       "added_at": "2026-10-16 04:00:00",
@@ -655,38 +687,6 @@
       "duration_ms": 194473,
       "name": "waiting for me",
       "url": "https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
-        "name": "Live In Krakow",
-        "url": "https://open.spotify.com/album/2TsxHULDHOfbHXGcxizmai"
-      },
-      "artists": [
-        {
-          "name": "Till Lindemann",
-          "url": "https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP"
-        }
-      ],
-      "duration_ms": 295580,
-      "name": "Golden Shower - Live In Krakow",
-      "url": "https://open.spotify.com/track/6abushQObMifGaSrI7CbUl"
-    },
-    {
-      "added_at": "2026-10-16 04:00:00",
-      "album": {
-        "name": "What Do I Do If You Don't",
-        "url": "https://open.spotify.com/album/1rfUYX7kRfZQ9nxCAX87ZQ"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 174470,
-      "name": "What Do I Do If You Don't",
-      "url": "https://open.spotify.com/track/6ZZKX4n0HvL7PRYXAeEFSC"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

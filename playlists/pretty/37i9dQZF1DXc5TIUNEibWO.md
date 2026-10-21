@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,750 likes - 80 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,758 likes - 80 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 79 | [Me Nko Meda](https://open.spotify.com/track/2s0eloIGarvn2AyPBCBNRc) | [Nana Quame](https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3), [Sass Squad](https://open.spotify.com/artist/3E16mwczdDDwAAysKVnISx) | [Fakye](https://open.spotify.com/album/6giJXZ1DPdH494smPqqeb5) | 6:29 |
 | 80 | [Okwanti Nyi](https://open.spotify.com/track/4B5V4CuWLDxIhvnuTq630f) | [Felix Owusu](https://open.spotify.com/artist/4JUwsChOzwk5vUol3AP4gy) | [E'SHOW ME](https://open.spotify.com/album/6DSdZfJ6QC2UEJVNjuweZk) | 4:47 |
 
-Snapshot ID: `AAAAANzW5gf8S74x7dsNiWIsbQZNkQBe`
+Snapshot ID: `AAAAAOC2eKsuzPPyF4iIPSeKWBor6xui`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Stephen Wilson Jr., Zach Bryan, Emily Ann Roberts and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,783 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,843 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 79 | [Happy That We Met](https://open.spotify.com/track/1WK4CCIcgWXV647zl85Gtf) | [Baylee Lynn](https://open.spotify.com/artist/2Tkaxet46RKhWpDQqYiaij) | [Happy That We Met](https://open.spotify.com/album/1AE2myzuxOR0x2Z7fpaq2A) | 3:15 |
 | 80 | [Trust the Land](https://open.spotify.com/track/3kZRjqZZUQVtsSFbKUrlDu) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Trust the Land](https://open.spotify.com/album/1JJmq1Bq51YIWXEfIEpQuA) | 3:26 |
 
-Snapshot ID: `AAAAAORAcSsb8TH4LOyDSUt38QGfBmX2`
+Snapshot ID: `AAAAAFc5OIsH845sB694OudGxeojmk/o`

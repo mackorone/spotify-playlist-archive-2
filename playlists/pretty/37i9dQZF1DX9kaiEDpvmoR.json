@@ -1,12 +1,12 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93773,
+  "num_followers": 93768,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK+LMnh3lQLvy+O+kyYlwpz/qcDE",
+  "snapshot_id": "AAAAAAw9y68P+sjGoQ9jNu/zayKKWsAV",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:20",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "H\u00e4lsningar",
-        "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
-      },
-      "artists": [
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 248506,
-      "name": "H\u00e4lsningar",
-      "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
-    },
-    {
-      "added_at": "2026-10-15 22:01:20",
-      "album": {
         "name": "Ain't Built For Leaving",
         "url": "https://open.spotify.com/album/0PKcL6pMkHUV8SxxcefHL9"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 212442,
       "name": "Ain't Built For Leaving",
       "url": "https://open.spotify.com/track/0ENM2AleJ8dzdYrYar0jPA"
+    },
+    {
+      "added_at": "2026-10-15 22:01:20",
+      "album": {
+        "name": "H\u00e4lsningar",
+        "url": "https://open.spotify.com/album/5X4b9kCzUtdTGXt8oRkIGC"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 248506,
+      "name": "H\u00e4lsningar",
+      "url": "https://open.spotify.com/track/1aSOb7BoCz0ZHrbbA4vLla"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -735,18 +735,18 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "Just n\u00e4r du trodde allt var \u00f6ver",
-        "url": "https://open.spotify.com/album/6BFhRkDiD2KnD8Iv6N4yC2"
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/3iKB1YRZqrO6YVeEnNGaAm"
       },
       "artists": [
         {
-          "name": "Bo Kaspers Orkester",
-          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
+          "name": "Sanna Nielsen",
+          "url": "https://open.spotify.com/artist/3PvEhkL4pgu9glR6yOlYKK"
         }
       ],
-      "duration_ms": 232869,
-      "name": "N\u00e5got vi beh\u00f6ver",
-      "url": "https://open.spotify.com/track/7xqxpjGvMlMYc5Cf4WCqaU"
+      "duration_ms": 188550,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/6nliQtmwAzeEXnynfX6TNf"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/3iKB1YRZqrO6YVeEnNGaAm"
+        "name": "Just n\u00e4r du trodde allt var \u00f6ver",
+        "url": "https://open.spotify.com/album/6BFhRkDiD2KnD8Iv6N4yC2"
       },
       "artists": [
         {
-          "name": "Sanna Nielsen",
-          "url": "https://open.spotify.com/artist/3PvEhkL4pgu9glR6yOlYKK"
+          "name": "Bo Kaspers Orkester",
+          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
         }
       ],
-      "duration_ms": 188550,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/6nliQtmwAzeEXnynfX6TNf"
+      "duration_ms": 232869,
+      "name": "N\u00e5got vi beh\u00f6ver",
+      "url": "https://open.spotify.com/track/7xqxpjGvMlMYc5Cf4WCqaU"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "Scandinavian Eyes",
-        "url": "https://open.spotify.com/album/6iTppFge6VRGcyR1NeJLpR"
+        "name": "Waste Your Love",
+        "url": "https://open.spotify.com/album/1GqD0bu8057H5RIbVuQEui"
       },
       "artists": [
         {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+          "name": "Sanna Nielsen",
+          "url": "https://open.spotify.com/artist/3PvEhkL4pgu9glR6yOlYKK"
         }
       ],
-      "duration_ms": 291197,
-      "name": "Scandinavian Eyes",
-      "url": "https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH"
+      "duration_ms": 173000,
+      "name": "Waste Your Love",
+      "url": "https://open.spotify.com/track/4bm0u48rIv7Ezj25lEkevq"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "Waste Your Love",
-        "url": "https://open.spotify.com/album/1GqD0bu8057H5RIbVuQEui"
+        "name": "Scandinavian Eyes",
+        "url": "https://open.spotify.com/album/6iTppFge6VRGcyR1NeJLpR"
       },
       "artists": [
         {
-          "name": "Sanna Nielsen",
-          "url": "https://open.spotify.com/artist/3PvEhkL4pgu9glR6yOlYKK"
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Waste Your Love",
-      "url": "https://open.spotify.com/track/4bm0u48rIv7Ezj25lEkevq"
+      "duration_ms": 291197,
+      "name": "Scandinavian Eyes",
+      "url": "https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -947,18 +947,18 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "Himmel helvete",
-        "url": "https://open.spotify.com/album/0ddsTPi7LV7rfVC01CCZc5"
+        "name": "Bar N\u00eemes - Primi",
+        "url": "https://open.spotify.com/album/06AGXEqbJ1UENdFc72MHwt"
       },
       "artists": [
         {
-          "name": "Genom Natten",
-          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+          "name": "Petter",
+          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
         }
       ],
-      "duration_ms": 209146,
-      "name": "Himmel helvete",
-      "url": "https://open.spotify.com/track/2HaAG5udHa2CJdit4MDWU3"
+      "duration_ms": 152564,
+      "name": "En sida kvar",
+      "url": "https://open.spotify.com/track/7owM8j72H8DL82iaeKWzfQ"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -991,6 +991,22 @@
       "duration_ms": 171706,
       "name": "Inte bra i grupp",
       "url": "https://open.spotify.com/track/2HvBHmIOIhK5BXQP1sbT2A"
+    },
+    {
+      "added_at": "2026-10-15 22:01:20",
+      "album": {
+        "name": "Himmel helvete",
+        "url": "https://open.spotify.com/album/0ddsTPi7LV7rfVC01CCZc5"
+      },
+      "artists": [
+        {
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "Himmel helvete",
+      "url": "https://open.spotify.com/track/2HaAG5udHa2CJdit4MDWU3"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -1075,38 +1091,6 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "Bar N\u00eemes - Primi",
-        "url": "https://open.spotify.com/album/06AGXEqbJ1UENdFc72MHwt"
-      },
-      "artists": [
-        {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
-        }
-      ],
-      "duration_ms": 152564,
-      "name": "En sida kvar",
-      "url": "https://open.spotify.com/track/7owM8j72H8DL82iaeKWzfQ"
-    },
-    {
-      "added_at": "2026-10-15 22:01:20",
-      "album": {
-        "name": "Tillbaka",
-        "url": "https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs"
-      },
-      "artists": [
-        {
-          "name": "Bo Kaspers Orkester",
-          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
-        }
-      ],
-      "duration_ms": 211233,
-      "name": "Tillbaka",
-      "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
-    },
-    {
-      "added_at": "2026-10-15 22:01:20",
-      "album": {
         "name": "Can't Frame the Moonlight",
         "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "One on One",
-        "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
+        "name": "Tillbaka",
+        "url": "https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs"
       },
       "artists": [
         {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+          "name": "Bo Kaspers Orkester",
+          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
         }
       ],
-      "duration_ms": 221623,
-      "name": "One on One",
-      "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
+      "duration_ms": 211233,
+      "name": "Tillbaka",
+      "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
+        "name": "One on One",
+        "url": "https://open.spotify.com/album/6589BDSLHBG8zCDWanKDxW"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 221623,
+      "name": "One on One",
+      "url": "https://open.spotify.com/track/00AdnLQexne2adipm3n8Ip"
+    },
+    {
+      "added_at": "2026-10-15 22:01:20",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/3oEPgnaHXwi02DjenAQRyT"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "Tiden",
-        "url": "https://open.spotify.com/album/16q6FX0WuHi5RhtwGhf5Gc"
-      },
-      "artists": [
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
-        }
-      ],
-      "duration_ms": 242641,
-      "name": "Tiden",
-      "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
-    },
-    {
-      "added_at": "2026-10-15 22:01:20",
-      "album": {
         "name": "jaywalking",
         "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 170818,
       "name": "Glasshouse",
       "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
+    },
+    {
+      "added_at": "2026-10-15 22:01:20",
+      "album": {
+        "name": "Tiden",
+        "url": "https://open.spotify.com/album/16q6FX0WuHi5RhtwGhf5Gc"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 242641,
+      "name": "Tiden",
+      "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
     },
     {
       "added_at": "2026-10-15 22:01:20",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-10-15 22:01:20",
       "album": {
-        "name": "Mina v\u00e4nner",
-        "url": "https://open.spotify.com/album/4IQQuut1NZdLxj1Zbf23yV"
-      },
-      "artists": [
-        {
-          "name": "Tomas Andersson Wij",
-          "url": "https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL"
-        }
-      ],
-      "duration_ms": 194405,
-      "name": "Mina v\u00e4nner",
-      "url": "https://open.spotify.com/track/07D0NgqZr1r9Doj4VQp5pK"
-    },
-    {
-      "added_at": "2026-10-15 22:01:20",
-      "album": {
         "name": "Neverending Love (40th Anniversary Edition)",
         "url": "https://open.spotify.com/album/68fW8pj3fzuthylZYPtYLD"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 149508,
       "name": "Neverending Love (8-track Remix by MP)",
       "url": "https://open.spotify.com/track/1ljz808fIH4BgIeg02uZyE"
+    },
+    {
+      "added_at": "2026-10-15 22:01:20",
+      "album": {
+        "name": "Mina v\u00e4nner",
+        "url": "https://open.spotify.com/album/4IQQuut1NZdLxj1Zbf23yV"
+      },
+      "artists": [
+        {
+          "name": "Tomas Andersson Wij",
+          "url": "https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL"
+        }
+      ],
+      "duration_ms": 194405,
+      "name": "Mina v\u00e4nner",
+      "url": "https://open.spotify.com/track/07D0NgqZr1r9Doj4VQp5pK"
     },
     {
       "added_at": "2026-10-15 22:01:20",

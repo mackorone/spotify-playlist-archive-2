@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 122,421 likes - 63 songs - 3 hr 16 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 122,407 likes - 63 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [AWAKENING](https://open.spotify.com/track/0H4IxZniI62EaDECyoyDP7) | [FLEYT5](https://open.spotify.com/artist/60M7uI70IASrB6hAs5d5pd) | [Monstercat Uncaged Selections 04](https://open.spotify.com/album/19C5jd3JcKNEYMl19z6y1S) | 2:54 |
+| 1 | [AWAKENING](https://open.spotify.com/track/0H4IxZniI62EaDECyoyDP7) | [FLEYT5](https://open.spotify.com/artist/60M7uI70IASrB6hAs5d5pd) | [Monstercat Uncaged Selections 04](https://open.spotify.com/album/19C5jd3JcKNEYMl19z6y1S) | 2:53 |
 | 2 | [Killer Instinct](https://open.spotify.com/track/5QxsTNWixkNSuhlsVMdiOn) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Killer Instinct](https://open.spotify.com/album/5dwrtS7cJBbDQtCACylbtO) | 3:12 |
 | 3 | [LONELY](https://open.spotify.com/track/0G24L0HnxskslJ0luwE6eJ) | [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97) | [LONELY](https://open.spotify.com/album/2bYbFsfmAg6jrxapfAHjeg) | 2:47 |
 | 4 | [Never](https://open.spotify.com/track/0K6BjzzhUqBmOvHvxqpRpG) | [zero point](https://open.spotify.com/artist/01FrY7ADQlorpdhqH1j7qr), [Nyrus](https://open.spotify.com/artist/4K129VU520mAbin25QcKfH) | [Never](https://open.spotify.com/album/6N52uQkEp8b7m4V86ZaLrq) | 3:13 |

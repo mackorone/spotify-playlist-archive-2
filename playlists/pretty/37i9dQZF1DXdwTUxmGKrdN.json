@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 463128,
+  "num_followers": 463151,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJMdWoM/Hz6N5sEZzNT9yGvcrSGR",
+  "snapshot_id": "AAAAAMwiSr3iGDGxgXDl7oeiDgHwoEac",
   "tracks": [
     {
       "added_at": "2026-10-02 07:49:51",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Avenue",
-      "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Echoes Of The Heart",
         "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 238213,
       "name": "Echoes of the Heart",
       "url": "https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/0RXMMiDCOhnt2IFldaHuAi"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/0LWUULlpkZ5PoM9Mj4JOyk"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
+      },
+      "artists": [
+        {
+          "name": "Jacob Webb",
+          "url": "https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko"
+        }
+      ],
+      "duration_ms": 266145,
+      "name": "Groovin' J",
+      "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Can You Hear Me",
         "url": "https://open.spotify.com/album/2MkCZIFcfWCjsQtdunZrU5"
       },
@@ -463,22 +479,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
-      },
-      "artists": [
-        {
-          "name": "Jacob Webb",
-          "url": "https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko"
-        }
-      ],
-      "duration_ms": 266145,
-      "name": "Groovin' J",
-      "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Global Kiss",
-        "url": "https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp"
-      },
-      "artists": [
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "Long Road",
-      "url": "https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Into the Light",
         "url": "https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 264186,
       "name": "When We Dance",
       "url": "https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Global Kiss",
+        "url": "https://open.spotify.com/album/3gPybe3xBAw2M8AqTXfPLp"
+      },
+      "artists": [
+        {
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "Long Road",
+      "url": "https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Let's Have a Good Time",
+        "url": "https://open.spotify.com/album/4RvJ6FiVXoeWyepFOLWlVv"
+      },
+      "artists": [
+        {
+          "name": "Braxton Brothers",
+          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
+        }
+      ],
+      "duration_ms": 233819,
+      "name": "Let's Have a Good Time",
+      "url": "https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Full Tank 2.0",
         "url": "https://open.spotify.com/album/0dHZWw5DjxaAPxvvJUoLfF"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 221186,
       "name": "Rainy Sunday (feat. Paul Jackson Jr.)",
       "url": "https://open.spotify.com/track/4Z3doYsQ7L3o0TPHZhk0vF"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Let's Have a Good Time",
-        "url": "https://open.spotify.com/album/4RvJ6FiVXoeWyepFOLWlVv"
-      },
-      "artists": [
-        {
-          "name": "Braxton Brothers",
-          "url": "https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw"
-        }
-      ],
-      "duration_ms": 233819,
-      "name": "Let's Have a Good Time",
-      "url": "https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Fluid",
-        "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
-      },
-      "artists": [
-        {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
-        }
-      ],
-      "duration_ms": 265875,
-      "name": "Fluid",
-      "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Tranquility",
         "url": "https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
+        "name": "Fluid",
+        "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
       },
       "artists": [
         {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
         }
       ],
-      "duration_ms": 295156,
-      "name": "Stockholm Summer",
-      "url": "https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq"
+      "duration_ms": 265875,
+      "name": "Fluid",
+      "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -807,6 +791,22 @@
       "duration_ms": 253577,
       "name": "Listen to This",
       "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 295156,
+      "name": "Stockholm Summer",
+      "url": "https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "The Limit's the Sky",
-        "url": "https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S"
-      },
-      "artists": [
-        {
-          "name": "Oli Silk",
-          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
-        }
-      ],
-      "duration_ms": 223669,
-      "name": "Chill or Be Chilled",
-      "url": "https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "On the Up and Up",
         "url": "https://open.spotify.com/album/0fendbHIfxrBOViSQahezC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 248412,
       "name": "On the Up and Up",
       "url": "https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "The Limit's the Sky",
+        "url": "https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S"
+      },
+      "artists": [
+        {
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+        }
+      ],
+      "duration_ms": 223669,
+      "name": "Chill or Be Chilled",
+      "url": "https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 245925,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/7qOXrZte4eeBH3S7LYoO1T"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Deep Dive",
-        "url": "https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 245925,
-      "name": "Deep Dive",
-      "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/7ccpGuH9fqMtC5nH65NdHS"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Risin' Up",
-        "url": "https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t"
-      },
-      "artists": [
-        {
-          "name": "Adam Hawley",
-          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
-        }
-      ],
-      "duration_ms": 289946,
-      "name": "On The One",
-      "url": "https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Stylin'",
         "url": "https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv"
+        "name": "Risin' Up",
+        "url": "https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t"
       },
       "artists": [
         {
-          "name": "Jeffery Smith",
-          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
+          "name": "Adam Hawley",
+          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
         }
       ],
-      "duration_ms": 259186,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm"
+      "duration_ms": 289946,
+      "name": "On The One",
+      "url": "https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1211,6 +1195,22 @@
       "duration_ms": 287400,
       "name": "Spray Bay",
       "url": "https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv"
+      },
+      "artists": [
+        {
+          "name": "Jeffery Smith",
+          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
+      },
+      "artists": [
+        {
+          "name": "Paul Brown",
+          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Round And Round",
+      "url": "https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
         "name": "Ready to Go",
         "url": "https://open.spotify.com/album/3lMmhPqyO3M5ECUj0enyJr"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 240300,
       "name": "Ready to Go",
       "url": "https://open.spotify.com/track/6aFbcAvsjTgQyfEw4M1hyz"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
-      },
-      "artists": [
-        {
-          "name": "Paul Brown",
-          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Round And Round",
-      "url": "https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 293533,
-      "name": "Undun",
-      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "A Song For You",
         "url": "https://open.spotify.com/album/51ilWc2VBkdoBQOUIohhil"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 281920,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 293533,
+      "name": "Undun",
+      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
     },
     {
       "added_at": "2026-10-02 07:49:51",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2026-10-02 07:49:51",
       "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/2emYvyogfNZbvdVJwUFRrb"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 303693,
-      "name": "Reverence",
-      "url": "https://open.spotify.com/track/5aCHWYlwuHAnZkV0Po17Yn"
-    },
-    {
-      "added_at": "2026-10-02 07:49:51",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0ivqeO68UTwDwuaVIo0sU3"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 256973,
       "name": "Pacifica",
       "url": "https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK"
+    },
+    {
+      "added_at": "2026-10-02 07:49:51",
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/2emYvyogfNZbvdVJwUFRrb"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 303693,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/5aCHWYlwuHAnZkV0Po17Yn"
     },
     {
       "added_at": "2026-10-02 07:49:51",

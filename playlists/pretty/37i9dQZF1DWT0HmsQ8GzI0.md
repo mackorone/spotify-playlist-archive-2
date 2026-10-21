@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Дeva
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,080 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,081 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 71 | [MARIO](https://open.spotify.com/track/08m9oJ1bpBWLl1k66Uk7LS) | [veryraredome](https://open.spotify.com/artist/7zYwh77AsmmjXoUr8AIHTv), [26ckay](https://open.spotify.com/artist/0VvoEGyKZ9tWbD0EYk9yTv), [starboyrolo](https://open.spotify.com/artist/3A7iNlFgagq1pt7yzyynMq) | [MR\. CITYWIDE](https://open.spotify.com/album/68sblQXoXXUG7KHyXw6RGz) | 3:07 |
 | 72 | [4 akkordos számok](https://open.spotify.com/track/6Phs4DJE9Vb7mMCZnHIH9m) | [Héra Barnabás](https://open.spotify.com/artist/42xKpR9Qeev4I5IFby0WUR) | [Héra](https://open.spotify.com/album/1IEtuvTgixEj2jmiGxOuFc) | 3:26 |
 | 73 | [Pillangóhatás](https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN) | [Tóth Abigél](https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS) | [Pillangóhatás](https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y) | 2:18 |
-| 74 | [Menj](https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [Menj](https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9) | 3:47 |
-| 75 | [Groteszk](https://open.spotify.com/track/7DEz8GHB8LxhYNgamY9zXa) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [Blaize](https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD), [OB](https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt) | [Nárcisz](https://open.spotify.com/album/2Ds2rjH6PrfQ5c6VTqUqLK) | 2:59 |
+| 74 | [Groteszk](https://open.spotify.com/track/7DEz8GHB8LxhYNgamY9zXa) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [Blaize](https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD), [OB](https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt) | [Nárcisz](https://open.spotify.com/album/2Ds2rjH6PrfQ5c6VTqUqLK) | 2:59 |
+| 75 | [Menj](https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [Menj](https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9) | 3:47 |
 | 76 | [Utcasarki fény](https://open.spotify.com/track/4hXUyPaRvIleZ0kyxfFw8R) | [Artūr Rambo](https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe) | [Utcasarki fény](https://open.spotify.com/album/1V3e1jy9kToUikxhzK7Ges) | 3:10 |
-| 77 | [Szilánkok](https://open.spotify.com/track/2u8iSrFqIwMuIlCNRp5IdQ) | [Korinna](https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH), [UTAZØ](https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc) | [Szilánkok](https://open.spotify.com/album/3do3YI0XDOwP50ujHfw4Gc) | 4:06 |
-| 78 | [közöny](https://open.spotify.com/track/4eMZw6XRSLEXrVWLmXCgyq) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [csendháborítás?!](https://open.spotify.com/album/1xjOE1GQmQQzq0OCae1XMl) | 2:59 |
+| 77 | [közöny](https://open.spotify.com/track/4eMZw6XRSLEXrVWLmXCgyq) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [csendháborítás?!](https://open.spotify.com/album/1xjOE1GQmQQzq0OCae1XMl) | 2:59 |
+| 78 | [Szilánkok](https://open.spotify.com/track/2u8iSrFqIwMuIlCNRp5IdQ) | [Korinna](https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH), [UTAZØ](https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc) | [Szilánkok](https://open.spotify.com/album/3do3YI0XDOwP50ujHfw4Gc) | 4:06 |
 | 79 | [Magam sem tudom](https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [Magam sem tudom](https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r) | 3:10 |
 | 80 | [Csillagból fény](https://open.spotify.com/track/4gWLzsy21pYAa5mxUo0zLQ) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [Csillagból fény](https://open.spotify.com/album/75ehWIPCih0JSCRexiIm0V) | 4:11 |
 
-Snapshot ID: `AAAAAHSFb+mS4FVNDtSpE/B37/DnWjN0`
+Snapshot ID: `AAAAAK/Q+s5LUP/j0coGpVASps83ciWU`

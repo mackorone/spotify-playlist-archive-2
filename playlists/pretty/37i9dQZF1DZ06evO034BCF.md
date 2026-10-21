@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO034BCF.md) - [plain]
 
 > This is Gustavo Dudamel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,354 likes - 31 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,359 likes - 31 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO034BCF.md) - [plain]
 | 30 | [Adagio for Strings, Op\. 11](https://open.spotify.com/track/1KdTxZoXr0xrwtAKlbuHoA) | [Samuel Barber](https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) | [Sommernachtskonzert 2019 / Summer Night Concert 2019](https://open.spotify.com/album/7k1nb2LBIDwS1WdNNQnzqA) | 8:59 |
 | 31 | [Violin Concerto in D Major, Op\. 35: I\. Moderato nobile](https://open.spotify.com/track/2CozG9JJ2FH84TqFXGXuJm) | [Erich Wolfgang Korngold](https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [Simón Bolívar Symphony Orchestra Of Venezuela](https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Homage to Heifetz](https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09) | 9:43 |
 
-Snapshot ID: `atQMAAAAAABo1A5EcBzJr86BqVbALgSC`
+Snapshot ID: `atQMAAAAAABfnqhZTcj3RrabDB2KTSS1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > a new generation of emo, screamo, post\-hardcore and more\. Cover: Static Dress
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,564 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,549 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 36 | [It's Just A Title](https://open.spotify.com/track/0LHJeXwTtI6PS0hmnm8Bes) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [Wisher](https://open.spotify.com/album/0EfjNXqCOimYUWpx3xkr4O) | 3:25 |
 | 37 | [Refrain](https://open.spotify.com/track/3DAsgbDYtskF6BwkDBuMHX) | [Frail Body](https://open.spotify.com/artist/087dxTWzkw5RjrjOiJCfBH) | [Artificial Bouquet](https://open.spotify.com/album/2xxdvegQmg1cOVGPolCUus) | 2:43 |
 | 38 | [Ruin The Best Of Me](https://open.spotify.com/track/2zEw2pyiV5Xaw80gJtE5zo) | [holder](https://open.spotify.com/artist/0La7dwvDr7tD8omdqnkLpw) | [Ruin The Best Of Me](https://open.spotify.com/album/3yXof8CIOy9M08V4rwJ4YE) | 2:50 |
-| 39 | [Fall Away](https://open.spotify.com/track/4NYHY8M02jqbW0y1kEk3Hf) | [footballheadv](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Fall Away](https://open.spotify.com/album/07KZwGwHJ2PKFDeLBMgEiL) | 3:33 |
+| 39 | [Fall Away](https://open.spotify.com/track/4NYHY8M02jqbW0y1kEk3Hf) | [footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Fall Away](https://open.spotify.com/album/07KZwGwHJ2PKFDeLBMgEiL) | 3:33 |
 | 40 | [As The Seasons Change, You'll Find Me The Same](https://open.spotify.com/track/5ZaTfvZsHld1mxQJZxvLVu) | [Arranged in April](https://open.spotify.com/artist/0RpqbgRdtG57TKD0z0aTHf) | [It Always Starts Mid Winter](https://open.spotify.com/album/2T6RKlZWDFm3aCuezRQa1o) | 3:06 |
 | 41 | [one year later](https://open.spotify.com/track/0nnWBOLzafc81dKcSrdcdJ) | [Sherane](https://open.spotify.com/artist/69ctHvaLA49rTg5Udcy4cW) | [sherane](https://open.spotify.com/album/62Ry6Qaxkoo3TvkW8GiaFT) | 3:48 |
 | 42 | [They've Always Lived In The Castle](https://open.spotify.com/track/745Kg4n8SUn5YzKmiQUKkH) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [They've Always Lived In The Castle](https://open.spotify.com/album/1EN7pNG7oQRray7Vr8TuDP) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 49 | [Headfirst](https://open.spotify.com/track/5X5Y5wiWlCUUxRc60oDmjG) | [Dogleg](https://open.spotify.com/artist/5WSlKTn8XCAH31eAVaJ4Wj) | [Melee](https://open.spotify.com/album/6tCvAxUcCTFBEQeCKEAvT0) | 3:44 |
 | 50 | [poison](https://open.spotify.com/track/0V10XVqIsD0vTKGrf9b0Hc) | [Houses We Die In](https://open.spotify.com/artist/5p62veiIRA1sgEM1miwamk) | [A Brief Glimpse of Solace](https://open.spotify.com/album/1hWehO8t95BzMKbgoFSsLu) | 4:05 |
 
-Snapshot ID: `AAAAADdjNWZtGQ2V6xI6IsnKrjPDzSfc`
+Snapshot ID: `AAAAAJYdV5NCMmHdIy8DtAzk19ZYwVB2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a> and <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 204333,
       "name": "04.12.11",
       "url": "https://open.spotify.com/track/0DGZveC7hGczDt9UPNJpCN"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-06",
+      "date_removed": null,
       "duration_ms": 205853,
       "name": "A Certain Death",
       "url": "https://open.spotify.com/track/6570Ws4MQ6eDI0EZc6TFNM"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 210893,
       "name": "A Threnody For Modern Romance",
       "url": "https://open.spotify.com/track/40hir97i5PBSkB3rURdnLl"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 232040,
       "name": "Charmer",
       "url": "https://open.spotify.com/track/1KpMxnMMaWkyFnx0V5PoTA"
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 267373,
       "name": "Cherished",
       "url": "https://open.spotify.com/track/7wjCWw8TdapyzVkxLGEuuf"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Compromised",
       "url": "https://open.spotify.com/track/62bn0wrhmzWQzsBLQNGlwp"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 253920,
       "name": "Connected",
       "url": "https://open.spotify.com/track/3vkkXFwSQjjVoHeBTcX4ba"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 242906,
       "name": "Crowns",
       "url": "https://open.spotify.com/track/4prky9H55Mo5jy63BJY2Ao"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 227293,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/0iGbZvEQaiwMhvANv5lztz"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 216457,
       "name": "End Transmission",
       "url": "https://open.spotify.com/track/7GJmigVsxwIvDO3iy7hZa8"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Endseekers",
       "url": "https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV"
@@ -2432,7 +2432,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 239746,
       "name": "High Rise",
       "url": "https://open.spotify.com/track/45J8B35bOjB7UlZmIDq6WT"
@@ -2846,7 +2846,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 268106,
       "name": "Lamnidae",
       "url": "https://open.spotify.com/track/29eeXRFIJ9xPtFTGvVkU97"
@@ -3498,7 +3498,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 217573,
       "name": "Oh, Infamous City",
       "url": "https://open.spotify.com/track/6I4lRiQP7fijSd2V9LRn8n"
@@ -4150,7 +4150,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 241226,
       "name": "Safe To Say",
       "url": "https://open.spotify.com/track/35NvGV3iB5OkLRJHa4wKot"
@@ -4550,7 +4550,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 281813,
       "name": "Sorry Seacrest It's Casey's Countdown",
       "url": "https://open.spotify.com/track/0QyuVvyW2NMBQcSKZT62Ob"
@@ -4946,7 +4946,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 225386,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/5gcqdcjYGAqDMGWL9pRO1b"
@@ -5018,7 +5018,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 244493,
       "name": "The First Words",
       "url": "https://open.spotify.com/track/6V8wuGpVJmzzyxHveZcvM0"
@@ -5054,7 +5054,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 276226,
       "name": "The Gunslinger",
       "url": "https://open.spotify.com/track/2h3DmW0Vk6drmSy6LKs4k6"
@@ -5252,7 +5252,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 176226,
       "name": "The Night Your Guardian Fell Asleep",
       "url": "https://open.spotify.com/track/2RjuVguni9Ri7bPDclNvrJ"
@@ -5652,7 +5652,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 261013,
       "name": "This Ship, A Coffin",
       "url": "https://open.spotify.com/track/1UabJxjcG7QquUxbFNZDqM"
@@ -5940,7 +5940,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 258933,
       "name": "Vices Like Vipers",
       "url": "https://open.spotify.com/track/0Y5vHtaGw8vneadk6fYyPm"
@@ -6156,7 +6156,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 268093,
       "name": "White Walls",
       "url": "https://open.spotify.com/track/1Fxdmk9xFeUxChpHNohE2w"
@@ -6246,7 +6246,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 262173,
       "name": "With A Thousand Words To Say But One",
       "url": "https://open.spotify.com/track/6x5dFcv0JhzU25jjvHh21K"
@@ -6264,7 +6264,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 234637,
       "name": "With The Wind At Your Back",
       "url": "https://open.spotify.com/track/3lYS0wEWiL3eEDKJP4yArr"
@@ -6336,7 +6336,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 189146,
       "name": "Wolf's Jaw",
       "url": "https://open.spotify.com/track/6Hv3BomCozhJmgBo9TUOCQ"

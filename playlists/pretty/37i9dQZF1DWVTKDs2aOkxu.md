@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,926,850 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,926,735 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [Wishing Bone](https://open.spotify.com/track/1Rpc4MF6q5kH63rozkvlZg) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Wishing Bone](https://open.spotify.com/album/7xtBW8XGdQdjPwnlZ8G42P) | 3:28 |
 | 80 | [Room to Room](https://open.spotify.com/track/0YPFvZoEOexIpxVXiFOoAX) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Room to Room](https://open.spotify.com/album/1oMQtuhboPCKFrfU5W6cG7) | 3:16 |
 
-Snapshot ID: `AAAAADBGGJhgK/yN4fhOsuviTM2XLsfC`
+Snapshot ID: `AAAAAKm6x8P4BeKpuKg43aFCShLJNYje`

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 20463,
+  "num_followers": 20489,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAxRBzD1apcA3jLqNq6fSpUUi1bu",
+  "snapshot_id": "AAAAAAvxWAebGnqGuuYV8XB58QEn7tNz",
   "tracks": [
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "AWKWARD FREESTYLE",
-        "url": "https://open.spotify.com/album/0VqxvtvAycKlOonkkUx1uN"
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
       "artists": [
         {
-          "name": "Eem Triplin",
-          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
         }
       ],
-      "duration_ms": 127720,
-      "name": "AWKWARD FREESTYLE",
-      "url": "https://open.spotify.com/track/5covx4W77ZCuXI0ejgoZh0"
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1303,6 +1287,22 @@
       "duration_ms": 225600,
       "name": "Play God",
       "url": "https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "AWKWARD FREESTYLE",
+        "url": "https://open.spotify.com/album/0VqxvtvAycKlOonkkUx1uN"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "duration_ms": 127720,
+      "name": "AWKWARD FREESTYLE",
+      "url": "https://open.spotify.com/track/5covx4W77ZCuXI0ejgoZh0"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 198466,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "safety",
-      "url": "https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Tuning In",
         "url": "https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 197727,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "safety",
+      "url": "https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Can't Hide",
         "url": "https://open.spotify.com/album/7mtjKxnZh0ISlfYa149pTW"
       },
@@ -2287,22 +2303,6 @@
       "duration_ms": 184000,
       "name": "Can't Hide",
       "url": "https://open.spotify.com/track/7CotyU8EcChJlqOFnxPPmI"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Essentials",
-        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd"
-      },
-      "artists": [
-        {
-          "name": "Lucy Park",
-          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
-        }
-      ],
-      "duration_ms": 151150,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "34Corine",
         "url": "https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 147920,
       "name": "Lotto",
       "url": "https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd"
+      },
+      "artists": [
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "duration_ms": 151150,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
     },
     {
       "added_at": "2025-05-19 03:00:14",

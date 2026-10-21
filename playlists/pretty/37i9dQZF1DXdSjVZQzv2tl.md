@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Felipe e Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,052,910 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,052,742 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Transa Pendente](https://open.spotify.com/track/1f3IKtD2BBmy1mrVPtGYbF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Feito À Mão](https://open.spotify.com/album/3ZqeqDoYXUEUvfdPkohMjl) | 2:26 |
 | 50 | [TADINHA](https://open.spotify.com/track/0K7qMa0JqOIETkWmQXmQvw) | [Raffa Torres](https://open.spotify.com/artist/6jncnjvxMwbLIEYDhwsGlu), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [ALMA \- PARTE 1](https://open.spotify.com/album/6MxCEhK9taTuUO6Ephm983) | 3:51 |
 
-Snapshot ID: `AAAAAODM/meyI8FJ/L67oUyVaw93v/9W`
+Snapshot ID: `AAAAAFVwFU6E66XpYOiYMcl4/sDnVRSk`

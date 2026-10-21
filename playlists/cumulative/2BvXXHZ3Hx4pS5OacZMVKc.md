@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-488 songs - 1 day 1 hr 5 min
+489 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Dreams pt\. II](https://open.spotify.com/track/6hwF25W29VOWw1nZ76EAXY) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Sara Skinner](https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y) | [Dreams pt\. II](https://open.spotify.com/album/3T9xfxcHKA1tXjPVULySWq) | 3:35 | 2022-02-03 | 2022-09-15 |
 | [Dynamiser](https://open.spotify.com/track/1nruXXU3erq3cQvs8v2FCv) | [CENTRIC](https://open.spotify.com/artist/1mTKB32KqqaiEp7GP4lK1L), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 4:10 | 2023-08-10 | 2024-11-20 |
 | [Dynamiser](https://open.spotify.com/track/0OCkTNAy4sPrfvszddvt1k) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Dynamiser](https://open.spotify.com/album/1aiS0GZCYo6b5JwnQQP1fD) | 4:10 | 2023-02-15 | 2023-08-11 |
+| [DÉVOTION](https://open.spotify.com/track/4cojtx2gE1VJ5BvdZsUfhy) | [IYCE MANN](https://open.spotify.com/artist/39HC0kFcV5ZDLuu60eSL66) | [DÉVOTION](https://open.spotify.com/album/69mKyFfboVtSA6xdbkJUkP) | 3:34 | 2026-10-20 |  |
 | [E Welem Bah](https://open.spotify.com/track/7h0qG1QdtSTF72yrKOL8rA) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [E Welem Bah](https://open.spotify.com/album/7wrishZ94tx9y2xZ7nrr3m) | 2:30 | 2022-09-23 | 2023-08-11 |
 | [Echo](https://open.spotify.com/track/0B4Ee3vZHEKV0zztHgWYxF) | [Apollo On The Run](https://open.spotify.com/artist/0x2RLf2uOSrfnaO80ao6gM) | [Echo](https://open.spotify.com/album/2O6HSgKstTDpO9r5XPjgGn) | 2:49 | 2024-10-01 | 2024-11-20 |
 | [echoes](https://open.spotify.com/track/0g8D4TwKmyZF6w0Y8sSG2j) | [criticaleye](https://open.spotify.com/artist/00Be3qCb8kvv6VXXLYzLlr), [SHIRO](https://open.spotify.com/artist/44y7O50xAJlIfvCL66L4nb), [dolshi](https://open.spotify.com/artist/0cUZenB8aVwqMmzxb4WgCj) | [echoes](https://open.spotify.com/album/0MLFgtfHN6QmNGZGPx8Owp) | 3:18 | 2025-07-31 |  |

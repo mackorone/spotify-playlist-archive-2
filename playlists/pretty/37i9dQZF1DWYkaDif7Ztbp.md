@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: Fireboy DML
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,781,350 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,781,460 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Ama hem hem](https://open.spotify.com/track/1ydfIuriiat9o4ItjhaFs5) | [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85) | [Ama hem hem](https://open.spotify.com/album/3N5Chlwt8bjI7GI26pHpb3) | 7:30 |
 | 50 | [YoYo](https://open.spotify.com/track/1KIv5Z3YLlURsQ8e2OwXuo) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [YoYo](https://open.spotify.com/album/50zFt2TgGXsfDnf6W0gYys) | 3:20 |
 
-Snapshot ID: `AAAAABcWFriCiofgJcOIM2qc96iV/xhs`
+Snapshot ID: `AAAAABYw0gAgzblvwg7JGm50flgl1M9G`

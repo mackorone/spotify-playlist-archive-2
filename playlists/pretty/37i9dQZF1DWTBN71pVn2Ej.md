@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > the best of modern alternative rock\. Cover: Basement
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,213 likes - 110 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,176 likes - 110 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 78 | [Nobody’s](https://open.spotify.com/track/3WBFG43oD1qU3yJSDjQJ2O) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:15 |
 | 79 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 |
 | 80 | [Fun Facts](https://open.spotify.com/track/1vjTwx21Veo3c9B5tlIQhV) | [Keep](https://open.spotify.com/artist/0oPLf7tpRZAVZMHWA0Nu7W) | [Fun Facts](https://open.spotify.com/album/0ORkCuMcp2oUWWn3Wg1mkh) | 2:32 |
-| 81 | [Sliver](https://open.spotify.com/track/5CzXwnIdde1PNkV3NByQXU) | [footballheadv](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Sliver](https://open.spotify.com/album/498Sr7Fxlid1v57fhEjBSy) | 3:18 |
+| 81 | [Sliver](https://open.spotify.com/track/5CzXwnIdde1PNkV3NByQXU) | [footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Sliver](https://open.spotify.com/album/498Sr7Fxlid1v57fhEjBSy) | 3:18 |
 | 82 | [Country Girl](https://open.spotify.com/track/7bmPfsGNntrLq8ZRP5g8wj) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [Country Girl](https://open.spotify.com/album/0rfZDZkoQMBHJfvPSQHBM2) | 5:54 |
 | 83 | [Iron Gate](https://open.spotify.com/track/3hxOUdnf1zeY2RoH7ozob5) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Labyrinthine](https://open.spotify.com/album/3WOLRTjNMQBPzHB1wgFYev) | 4:01 |
 | 84 | [Take Your Aim](https://open.spotify.com/track/0rDq4W12BQzwKYYuYP0EIj) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [Take Your Aim](https://open.spotify.com/album/3ZYRmGFXWmTHDu08QRPuM0) | 3:20 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 95 | [Queen Of Nothing](https://open.spotify.com/track/5S03UZD1PCeuXyBWZ9Ugml) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Queen of Nothing](https://open.spotify.com/album/6EU1TLfLxJ9pGLD66Gy8aB) | 3:01 |
 | 96 | [the chase](https://open.spotify.com/track/2qNww5D7A3E5Jo1wtVQKMD) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [the chase](https://open.spotify.com/album/2B6Zano0KSvh8J7fOPdOOH) | 3:25 |
 | 97 | [unwind](https://open.spotify.com/track/4RvYafsdYCh7WEVZU2dJVt) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [unwind](https://open.spotify.com/album/2C7gdbC4kgBqPOEkhtjkaA) | 4:33 |
-| 98 | [Diversion](https://open.spotify.com/track/35GsI9rs2Ogsqa34WyIx8w) | [footballheadv](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Diversion](https://open.spotify.com/album/61xKeULyzHUjN6sRblOASG) | 2:58 |
+| 98 | [Diversion](https://open.spotify.com/track/35GsI9rs2Ogsqa34WyIx8w) | [footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Diversion](https://open.spotify.com/album/61xKeULyzHUjN6sRblOASG) | 2:58 |
 | 99 | [Get To It](https://open.spotify.com/track/46YHl5eDF9Ofn5sdiwbf0M) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Get To It](https://open.spotify.com/album/501oPIRjZkYmnCqGrAp9aj) | 2:44 |
 | 100 | [Weighted \(So Long\)](https://open.spotify.com/track/2dtJA0I6EgxvJTMYA8MyNO) | [whither](https://open.spotify.com/artist/1j5n8v8YxdS8FrMjauRn8j) | [Weighted \(So Long\)](https://open.spotify.com/album/0wd2weCkWJiceUA7B5yXk1) | 3:00 |
 | 101 | [pylon](https://open.spotify.com/track/13a44jgmdMKQ83q1qbWrXC) | [thistle.](https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5) | [pylon](https://open.spotify.com/album/1EmVyAK3OZFFLHqHekJHA7) | 2:26 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 109 | [2 Soon 2 Tell](https://open.spotify.com/track/6b9B6v1U2eXO5gLvQOC0pu) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Sunset Funeral](https://open.spotify.com/album/4lpSiyk1XlQYz1fZENMSye) | 3:12 |
 | 110 | [You Said](https://open.spotify.com/track/45pFbqZ3efKNj3WXvZm3w5) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD) | [You Said](https://open.spotify.com/album/60H82aaGA8mqvOrVZInqQj) | 1:26 |
 
-Snapshot ID: `AAAAADH6pofhjjfL3Kuf8mP3YHxiBwfy`
+Snapshot ID: `AAAAAN23GHDPgQRLqNRt7M2OIPr6fV2g`

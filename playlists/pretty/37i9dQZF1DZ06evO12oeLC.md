@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,904 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,901 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 13 | [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 |
 | 14 | [Nudes](https://open.spotify.com/track/2m5xfxB2MuEEDEAsunQxJb) | [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Nudes](https://open.spotify.com/album/17pL16UfqKUlIoZHMRW5h3) | 3:18 |
 | 15 | [ONE MORE TIME](https://open.spotify.com/track/2nDmt51NZoiDMCpoRdr00I) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [ONE MORE TIME](https://open.spotify.com/album/5udFKmbffhWKbXaRDgCj1m) | 2:41 |
-| 16 | [Superstar](https://open.spotify.com/track/0m7irE9fQpYzqWvVnXQYzj) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Superstar](https://open.spotify.com/album/1MXDUYzVkR8AvpCOdKiVQq) | 3:54 |
+| 16 | [SUPERSTAR](https://open.spotify.com/track/0m7irE9fQpYzqWvVnXQYzj) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [SUPERSTAR](https://open.spotify.com/album/1MXDUYzVkR8AvpCOdKiVQq) | 3:54 |
 | 17 | [I LOVE YOU](https://open.spotify.com/track/1VbxvZ4Rv8Xw9Hvcp1iGRp) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [I LOVE YOU](https://open.spotify.com/album/3SJhcGgcwKvJlw2epL7123) | 3:39 |
 | 18 | [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 |
 | 19 | [BITCH YOU COULD NEVER](https://open.spotify.com/track/5zQlCwM9crafkj3Al40Ptd) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:28 |

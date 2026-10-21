@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🩷 with ISOxo
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,752 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,681 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 85 | [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 |
 | 86 | [UH OH!](https://open.spotify.com/track/4hd3nmmHJ53ztZllQG6CQl) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [UH OH!](https://open.spotify.com/album/6tCOYN1hYjW0HcUrQ2IDu2) | 3:58 |
 | 87 | [Ghoul](https://open.spotify.com/track/53ICazVbw0uQNOBnUff09a) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Monomyth](https://open.spotify.com/album/3snB2cQcZUkFYS1aawRQm9) | 3:05 |
-| 88 | [Children](https://open.spotify.com/track/5sIW6LZPdo9q8i7MxuhJTe) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn) | [Children](https://open.spotify.com/album/6Ix3pmPZdP1MhiLeI1b4YD) | 3:56 |
-| 89 | [Work](https://open.spotify.com/track/2jrLfQLB3WUpaM9mDqGHp7) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [imellem](https://open.spotify.com/album/5PxIYxaG1LM2DmuNmZSJOw) | 2:33 |
+| 88 | [Work](https://open.spotify.com/track/2jrLfQLB3WUpaM9mDqGHp7) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [imellem](https://open.spotify.com/album/5PxIYxaG1LM2DmuNmZSJOw) | 2:33 |
+| 89 | [COME THRU](https://open.spotify.com/track/0TDbrFbVeoA2hb865dI6pY) | [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut), [Lokal](https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C) | [MAXED OUT](https://open.spotify.com/album/1B8dvAO5PtebTpskWvpXX2) | 3:02 |
 | 90 | [Earthquake](https://open.spotify.com/track/4xBQW0iZhjl7mSpse69gn5) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Earthquake](https://open.spotify.com/album/6KWKY20MFMllfE0B65JCha) | 1:59 |
-| 91 | [COME THRU](https://open.spotify.com/track/0TDbrFbVeoA2hb865dI6pY) | [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut), [Lokal](https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C) | [MAXED OUT](https://open.spotify.com/album/1B8dvAO5PtebTpskWvpXX2) | 3:02 |
+| 91 | [Children](https://open.spotify.com/track/5sIW6LZPdo9q8i7MxuhJTe) | [KEPIK](https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn) | [Children](https://open.spotify.com/album/6Ix3pmPZdP1MhiLeI1b4YD) | 3:56 |
 | 92 | [Dozer](https://open.spotify.com/track/57FuwSCElE898TwZAXS4Wn) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Dozer](https://open.spotify.com/album/5IoHFM2WHRB4oytlJa86gn) | 2:52 |
 | 93 | [POWER](https://open.spotify.com/track/0P5KTcGLQludTZtkKoUOjK) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq), [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [POWER](https://open.spotify.com/album/3mcCT5ge4xxobfw0bdeGNm) | 2:24 |
 | 94 | [EGOTRIP](https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Get Off The Internet](https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV) | 2:24 |
 | 95 | [Dead To Me](https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Dead To Me](https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5) | 2:59 |
-| 96 | [SPEAK](https://open.spotify.com/track/3D3WgzzVpqyoBp48yZAT9M) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [SPEAK](https://open.spotify.com/album/66qFXca7WRZE6s70Zs3EUv) | 2:49 |
-| 97 | [Sometimes / DOPAMINE++++](https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME : ZERO](https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa) | 3:15 |
-| 98 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
-| 99 | [Hitz](https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hitz](https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8) | 2:48 |
-| 100 | [FEAR](https://open.spotify.com/track/4baB7bmvoAs6FV81d2TAua) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [FEAR](https://open.spotify.com/album/7eSlYvS41yQ0OW767FJSHN) | 2:58 |
+| 96 | [Sometimes / DOPAMINE++++](https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME : ZERO](https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa) | 3:15 |
+| 97 | [SPEAK](https://open.spotify.com/track/3D3WgzzVpqyoBp48yZAT9M) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [SPEAK](https://open.spotify.com/album/66qFXca7WRZE6s70Zs3EUv) | 2:49 |
+| 98 | [FEAR](https://open.spotify.com/track/4baB7bmvoAs6FV81d2TAua) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [FEAR](https://open.spotify.com/album/7eSlYvS41yQ0OW767FJSHN) | 2:58 |
+| 99 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
+| 100 | [Hitz](https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hitz](https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8) | 2:48 |
 
-Snapshot ID: `AAAAACc0F0uNtZ/m8WQpE4Pl4i+YmRvY`
+Snapshot ID: `AAAAAMKWeuMmuRoLdT7JvEEh+NKHYa3k`

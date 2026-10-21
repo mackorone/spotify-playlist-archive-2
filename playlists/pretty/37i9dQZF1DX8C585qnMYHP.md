@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. The Nightclubs on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,569 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,614 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 74 | [Picture Of Return](https://open.spotify.com/track/08Iwl4JFtDD6tgSx84J2ek) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Picture Of Return](https://open.spotify.com/album/0utfWf9rY1xfvtJTw9wvhU) | 4:23 |
 | 75 | [Terra Sigillata](https://open.spotify.com/track/4nBo834VksEonZPymzdOpb) | [Secret Bisous](https://open.spotify.com/artist/4SdvkIy4PnLyLMQLrb3QvF) | [Terra Sigillata](https://open.spotify.com/album/3GIWCJRQGMZUTvt7C4EDKh) | 3:30 |
 
-Snapshot ID: `AAAAABlrVTnt08Yg8l2lYC0n/bmaAzET`
+Snapshot ID: `AAAAAO8OcF3cEWrMl+kSzWTEDWROyTu8`

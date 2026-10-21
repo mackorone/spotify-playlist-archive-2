@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 
 > This is Harrison\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518 likes - 43 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 519 likes - 43 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0m6Px6.md) - [plain]
 | 37 | [Play No Games \(Harrison Remix\)](https://open.spotify.com/track/32fG2SvpIGVJxYQsSzGMzE) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Parallel World \(Deluxe Edition\)](https://open.spotify.com/album/32m2OO7A1J6wuDO8FUNZ50) | 2:25 |
 | 38 | [Right Hook](https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:15 |
 | 39 | [Once Upon A Time](https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR) | [Kill The Buzz](https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Once Upon A Time](https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX) | 3:39 |
-| 40 | [Gum’s Groove](https://open.spotify.com/track/2wVhp1yFVDV3mUEWygWkUJ) | [gum.mp3](https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa), [Coldwaterchris](https://open.spotify.com/artist/2ipT1DoIRr7UK9G2PqmMT9), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Time Traveler](https://open.spotify.com/album/0Xb71lL4YTtHSM36dWYn9L) | 3:20 |
-| 41 | [She's Strong \(feat\. Maddee\)](https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 4:42 |
+| 40 | [She's Strong \(feat\. Maddee\)](https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Colors](https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42) | 4:42 |
+| 41 | [Gum’s Groove](https://open.spotify.com/track/2wVhp1yFVDV3mUEWygWkUJ) | [gum.mp3](https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa), [Coldwaterchris](https://open.spotify.com/artist/2ipT1DoIRr7UK9G2PqmMT9), [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Time Traveler](https://open.spotify.com/album/0Xb71lL4YTtHSM36dWYn9L) | 3:20 |
 | 42 | [So Far From Home](https://open.spotify.com/track/4uxotSDHxQehaHnkaVA9uR) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [GUV](https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 3:14 |
 | 43 | [Vanilla](https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Checkpoint Titanium](https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55) | 2:22 |
 

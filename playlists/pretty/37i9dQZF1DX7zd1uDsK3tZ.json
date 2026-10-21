@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes served over easy for the perfect brunch soundtrack.",
-  "num_followers": 210177,
+  "num_followers": 210196,
   "original_name": "Sunday Brunch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGqiHmgzcvWBuqazjQMnrUhgzlWL",
+  "snapshot_id": "AAAAAHzenjy2lWn0Y+HhZByk32QOPTz/",
   "tracks": [
     {
       "added_at": "2026-07-26 13:39:24",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-07-26 13:39:24",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
-    },
-    {
-      "added_at": "2026-07-26 13:39:24",
-      "album": {
         "name": "It Never Rains In Southern California",
         "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 233506,
       "name": "It Never Rains in Southern California",
       "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
+    },
+    {
+      "added_at": "2026-07-26 13:39:24",
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2026-07-26 13:39:24",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-07-26 13:39:24",
       "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
-    },
-    {
-      "added_at": "2026-07-26 13:39:24",
-      "album": {
         "name": "The Essential Daryl Hall & John Oates",
         "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 144333,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
+    },
+    {
+      "added_at": "2026-07-26 13:39:24",
+      "album": {
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2026-07-26 13:39:24",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-07-26 13:39:24",
       "album": {
-        "name": "Come To My Garden",
-        "url": "https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Les Fleurs",
-      "url": "https://open.spotify.com/track/4XCGfHpGVq8xw800o5cwWs"
-    },
-    {
-      "added_at": "2026-07-26 13:39:24",
-      "album": {
         "name": "Low (2017 Remaster)",
         "url": "https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 184381,
       "name": "Sound and Vision - 2017 Remaster",
       "url": "https://open.spotify.com/track/1vP2JEXRsGrFbwOZ0foOQ5"
+    },
+    {
+      "added_at": "2026-07-26 13:39:24",
+      "album": {
+        "name": "Come To My Garden",
+        "url": "https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Les Fleurs",
+      "url": "https://open.spotify.com/track/4XCGfHpGVq8xw800o5cwWs"
     },
     {
       "added_at": "2026-07-26 13:39:24",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-07-26 13:39:24",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Johnson",
-          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Strawberry Letter 23",
-      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
-    },
-    {
-      "added_at": "2026-07-26 13:39:24",
-      "album": {
         "name": "Year of the Cat",
         "url": "https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 400066,
       "name": "Year of the Cat",
       "url": "https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j"
+    },
+    {
+      "added_at": "2026-07-26 13:39:24",
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "Strawberry Letter 23",
+      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
     },
     {
       "added_at": "2026-07-26 13:39:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The newest in Ambient music and the sounds it explores beyond\. <br/>On the cover: Masayoshi Fujita
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,308 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,368 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Emergence](https://open.spotify.com/track/2iX8JeAwhdElCOOXOBkmST) | [Oowets](https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo) | [Emergence](https://open.spotify.com/album/11TeUYDhUYDW1nnDCZ7KRX) | 2:45 |
 | 100 | [The Juniper Tree](https://open.spotify.com/track/7xKTUxIlfkZmJetfRZ1VwH) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [The Juniper Tree & Good Bye](https://open.spotify.com/album/6psYYzidZzlW8j8GpmmowI) | 3:05 |
 
-Snapshot ID: `AAAAANEaWQAJy/HaEyrBKGwxZQwL49hN`
+Snapshot ID: `AAAAAEC53KV2yTHAaC7cXkhjODfYQa3W`

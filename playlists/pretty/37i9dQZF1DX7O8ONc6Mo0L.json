@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 388069,
+  "num_followers": 388116,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKo6XjN6FoZrGTpU9H37cGJynPl9",
+  "snapshot_id": "AAAAAEzaCYJTGjRDslvBld9UIBNKLM2E",
   "tracks": [
     {
       "added_at": "2026-08-10 15:32:09",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Eu Sei Que N\u00e3o Estou S\u00f3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0DEHvPPLbnhAPQR40QDm2l"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Sinfr\u00f4nio",
-          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Eu Sei Que N\u00e3o Estou S\u00f3 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3WOErrC9fsgv1x9rig0Co8"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "Lukas Agustinho (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5APvOGecNpXVX7A147Nj2b"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 139880,
       "name": "Ele \u00e9 Exaltado - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5Z1bAuX0pHETilmLlmUoFa"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "Eu Sei Que N\u00e3o Estou S\u00f3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0DEHvPPLbnhAPQR40QDm2l"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "Eu Sei Que N\u00e3o Estou S\u00f3 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3WOErrC9fsgv1x9rig0Co8"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Ton Canta",
-        "url": "https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 316055,
-      "name": "Algo Novo",
-      "url": "https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "Algo Novo (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5mT4Ohgb4ZJe2AN22B62mG"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 217826,
       "name": "Algo Novo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7xIoYG2DgfZ92SkIzHZzXm"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "Ton Canta",
+        "url": "https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 316055,
+      "name": "Algo Novo",
+      "url": "https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "P\u00e9s Descal\u00e7os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7i50ZWb0o1IlMBpJl4x57G"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 443013,
-      "name": "P\u00e9s Descal\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4VOsJRyiADQaROG2e6NZyL"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "N\u00e3o Mais Escravos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1LC96GSyEYHJaKg6314wB3"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 246506,
       "name": "N\u00e3o Mais Escravos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0NW8ucEVIPzLRp4zBhJyv4"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "P\u00e9s Descal\u00e7os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7i50ZWb0o1IlMBpJl4x57G"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 443013,
+      "name": "P\u00e9s Descal\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4VOsJRyiADQaROG2e6NZyL"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
+        "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
         "name": "Eu e o Rei (Ao Vivo)",
         "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 337525,
       "name": "Eu e o Rei - Ao Vivo",
       "url": "https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
-        "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
-      },
-      "artists": [
-        {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        }
-      ],
-      "duration_ms": 211817,
-      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "Encaixe",
         "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 222607,
       "name": "Encaixe",
       "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
+      },
+      "artists": [
+        {
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
+        }
+      ],
+      "duration_ms": 211817,
+      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "At\u00e9 Te Encontrar (Em Casa Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/019siXdjcZnRaYu461N7US"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 347727,
-      "name": "At\u00e9 Te Encontrar - Em Casa Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "Nova Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 206053,
       "name": "Nova Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "At\u00e9 Te Encontrar (Em Casa Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/019siXdjcZnRaYu461N7US"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 347727,
+      "name": "At\u00e9 Te Encontrar - Em Casa Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Me Enche de Amor (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Guilherme Franco",
-          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
-        }
-      ],
-      "duration_ms": 309333,
-      "name": "Me Enche de Amor - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "Quem Sou",
         "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 270933,
       "name": "Quem Sou",
       "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "Me Enche de Amor (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3TU29wyioIazh3c70dXs8f"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Guilherme Franco",
+          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
+        }
+      ],
+      "duration_ms": 309333,
+      "name": "Me Enche de Amor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
     },
     {
       "added_at": "2026-08-10 15:32:09",

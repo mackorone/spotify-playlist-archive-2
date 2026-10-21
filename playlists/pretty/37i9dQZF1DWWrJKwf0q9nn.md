@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: ANOTR
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,505 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,500 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 99 | [JJ Tribute](https://open.spotify.com/track/4vA9oFk2xn9MhbJP5J7O39) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [A.S.H.A.](https://open.spotify.com/artist/3UxLxLc2l7Nm5llwBneeGI) | [JJ Tribute](https://open.spotify.com/album/0qkWkjPyeagSirumXJlNoU) | 2:33 |
 | 100 | [Somebody That I Used To Know \(ARTBAT x David Guetta Mix\) \(feat\. Gotye & Kimbra\)](https://open.spotify.com/track/4IKvewaZnwe4n3jJi3dT8t) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Somebody That I Used To Know \(ARTBAT x David Guetta Mix\) \(feat\. Gotye & Kimbra\)](https://open.spotify.com/album/5WZBSlCTwxhXZCg8W4WEr8) | 3:14 |
 
-Snapshot ID: `AAAAAFyh2bYV9aysbNJAWjQA9U8a2FLQ`
+Snapshot ID: `AAAAAFwZWVJqPeFj+oBnFUWwdjWEk84Q`

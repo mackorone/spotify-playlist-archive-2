@@ -1,12 +1,12 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1023743,
+  "num_followers": 1023655,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE4qfzxXAjzaIOzNVSmyvV6o3fiQ",
+  "snapshot_id": "AAAAAFq8tgl7aIsa3E8k85JvbsWLK30I",
   "tracks": [
     {
       "added_at": "2026-10-09 04:02:08",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-10-09 04:02:08",
       "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 163411,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
+    },
+    {
+      "added_at": "2026-10-09 04:02:08",
+      "album": {
         "name": "Malas Ma\u00f1as",
         "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 176760,
       "name": "Malas Ma\u00f1as",
       "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
-    },
-    {
-      "added_at": "2026-10-09 04:02:08",
-      "album": {
-        "name": "Babylon Club",
-        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
     },
     {
       "added_at": "2026-10-09 04:02:08",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2026-10-09 04:02:08",
       "album": {
+        "name": "Ooh Laka Laka La",
+        "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "duration_ms": 134797,
+      "name": "Ooh Laka Laka La",
+      "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
+    },
+    {
+      "added_at": "2026-10-09 04:02:08",
+      "album": {
         "name": "ESTA ES TU CASA NENA",
         "url": "https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5"
       },
@@ -1231,22 +1251,22 @@
     {
       "added_at": "2026-10-09 04:02:08",
       "album": {
-        "name": "Ooh Laka Laka La",
-        "url": "https://open.spotify.com/album/2DvVwgvTeursrplYuXc1Xj"
+        "name": "Tal Vez Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/51elj8SNea5ht8B7Cd7l5N"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         },
         {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
         }
       ],
-      "duration_ms": 134797,
-      "name": "Ooh Laka Laka La",
-      "url": "https://open.spotify.com/track/1daYqzioWz91LXUzgGYwjA"
+      "duration_ms": 208465,
+      "name": "Tal Vez Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM"
     },
     {
       "added_at": "2026-10-09 04:02:08",
@@ -1271,26 +1291,6 @@
     {
       "added_at": "2026-10-09 04:02:08",
       "album": {
-        "name": "Tal Vez Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/51elj8SNea5ht8B7Cd7l5N"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 208465,
-      "name": "Tal Vez Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM"
-    },
-    {
-      "added_at": "2026-10-09 04:02:08",
-      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
       },
@@ -1307,26 +1307,6 @@
       "duration_ms": 259333,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
-    },
-    {
-      "added_at": "2026-10-09 04:02:08",
-      "album": {
-        "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "BUBALU",
-      "url": "https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt"
     },
     {
       "added_at": "2026-10-09 04:02:08",
@@ -1351,22 +1331,22 @@
     {
       "added_at": "2026-10-09 04:02:08",
       "album": {
-        "name": "Desah\u00f3gate",
-        "url": "https://open.spotify.com/album/2lRg660je3IBftd8DnTgNK"
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 118588,
-      "name": "Desah\u00f3gate",
-      "url": "https://open.spotify.com/track/1BSB5vq75OxagxoJbjnnjs"
+      "duration_ms": 228186,
+      "name": "BUBALU",
+      "url": "https://open.spotify.com/track/62xla8336vUnmxTWNzCfRt"
     },
     {
       "added_at": "2026-10-09 04:02:08",
@@ -1387,6 +1367,26 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq"
+    },
+    {
+      "added_at": "2026-10-09 04:02:08",
+      "album": {
+        "name": "Desah\u00f3gate",
+        "url": "https://open.spotify.com/album/2lRg660je3IBftd8DnTgNK"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Desah\u00f3gate",
+      "url": "https://open.spotify.com/track/1BSB5vq75OxagxoJbjnnjs"
     },
     {
       "added_at": "2026-10-09 04:02:08",

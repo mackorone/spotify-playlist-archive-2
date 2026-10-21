@@ -1,12 +1,12 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 499245,
+  "num_followers": 499251,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHIqP6AU0uaVn9MDN3JxNJswdqzr",
+  "snapshot_id": "AAAAAIQOV5vInuP3FdMG4XWGb4AoDg3a",
   "tracks": [
     {
       "added_at": "2026-10-08 22:01:50",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-10-08 22:01:50",
       "album": {
+        "name": "Herzfrequenz",
+        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "Herz an Herz",
+      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
+    },
+    {
+      "added_at": "2026-10-08 22:01:50",
+      "album": {
         "name": "Der Zug hat keine Bremse (Mallorcastyle Edition)",
         "url": "https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 207301,
       "name": "Der Zug hat keine Bremse - Mallorcastyle Edition",
       "url": "https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz"
-    },
-    {
-      "added_at": "2026-10-08 22:01:50",
-      "album": {
-        "name": "Herzfrequenz",
-        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "Herz an Herz",
-      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
     },
     {
       "added_at": "2026-10-08 22:01:50",
@@ -1179,30 +1179,6 @@
     {
       "added_at": "2026-10-08 22:01:50",
       "album": {
-        "name": "ALDI",
-        "url": "https://open.spotify.com/album/2wwqzUmTfouQC2lw9lPvl3"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "Marc Eggers",
-          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
-        },
-        {
-          "name": "bozi",
-          "url": "https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU"
-        }
-      ],
-      "duration_ms": 140818,
-      "name": "ALDI",
-      "url": "https://open.spotify.com/track/3eK5kbG3fY07qyNAgNBtv0"
-    },
-    {
-      "added_at": "2026-10-08 22:01:50",
-      "album": {
         "name": "WIR SIND DIE DEUTSCHEN",
         "url": "https://open.spotify.com/album/602HAtnVA6Z3YC0UOXD8yO"
       },
@@ -1223,6 +1199,30 @@
       "duration_ms": 147724,
       "name": "WIR SIND DIE DEUTSCHEN",
       "url": "https://open.spotify.com/track/4zFSajqGWIvzih1dfyfwjP"
+    },
+    {
+      "added_at": "2026-10-08 22:01:50",
+      "album": {
+        "name": "ALDI",
+        "url": "https://open.spotify.com/album/2wwqzUmTfouQC2lw9lPvl3"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Marc Eggers",
+          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
+        },
+        {
+          "name": "bozi",
+          "url": "https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU"
+        }
+      ],
+      "duration_ms": 140818,
+      "name": "ALDI",
+      "url": "https://open.spotify.com/track/3eK5kbG3fY07qyNAgNBtv0"
     },
     {
       "added_at": "2026-10-08 22:01:50",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-10-08 22:01:50",
       "album": {
+        "name": "10 von 10",
+        "url": "https://open.spotify.com/album/51rg3umrp0IXNtrI77zEd9"
+      },
+      "artists": [
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+        }
+      ],
+      "duration_ms": 134924,
+      "name": "10 von 10",
+      "url": "https://open.spotify.com/track/37xCUommA4coyrL4d8Vylf"
+    },
+    {
+      "added_at": "2026-10-08 22:01:50",
+      "album": {
         "name": "Mallelelele",
         "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 133898,
       "name": "Mallelelele",
       "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
-    },
-    {
-      "added_at": "2026-10-08 22:01:50",
-      "album": {
-        "name": "10 von 10",
-        "url": "https://open.spotify.com/album/51rg3umrp0IXNtrI77zEd9"
-      },
-      "artists": [
-        {
-          "name": "Julian Benz",
-          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
-        }
-      ],
-      "duration_ms": 134924,
-      "name": "10 von 10",
-      "url": "https://open.spotify.com/track/37xCUommA4coyrL4d8Vylf"
     },
     {
       "added_at": "2026-10-08 22:01:50",
@@ -1487,22 +1487,22 @@
     {
       "added_at": "2026-10-08 22:01:50",
       "album": {
-        "name": "Ein bisschen Aroma (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
+        "name": "Erwischt",
+        "url": "https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m"
       },
       "artists": [
         {
-          "name": "Roger Whittaker",
-          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
         },
         {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
         }
       ],
-      "duration_ms": 178540,
-      "name": "Ein bisschen Aroma - Stereoact Remix",
-      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
+      "duration_ms": 121000,
+      "name": "Erwischt",
+      "url": "https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI"
     }
   ],
   "unique_name": "Malle Party 2026",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Fontaines D.C, Zach Bryan, Lana Del Ray, Olivia Rodrigo, Chappell Roan + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,432 likes - 103 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,409 likes - 103 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 102 | [One of One](https://open.spotify.com/track/0m7n4F48Uiopiz28nLYiXw) | [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [One of One](https://open.spotify.com/album/7CvxiZ49jVxJ1BtwNZZPYs) | 2:58 |
 | 103 | [Laneway Switch](https://open.spotify.com/track/1E88rOrQ0vWFqitNzdEGjj) | [Kalus](https://open.spotify.com/artist/2k6FiPBKN4TzVqXHs9FTZE) | [Laneway Switch](https://open.spotify.com/album/0gEQPQdK2cVwAc2uU3tnB1) | 2:23 |
 
-Snapshot ID: `AAAAAKDe4bJt2szvzVQUOITc1Qo8CNKS`
+Snapshot ID: `AAAAAOJ4M1de2qgCQDBrdRRSnUbMkbBm`

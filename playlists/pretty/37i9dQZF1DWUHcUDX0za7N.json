@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Blaqbonez",
-  "num_followers": 86802,
+  "num_followers": 86812,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPGQ5KxWfMHUHmhCRdpD15VY7hZ0",
+  "snapshot_id": "AAAAABr3zyVUC8/VArIWEYgTHIiexGdc",
   "tracks": [
     {
       "added_at": "2026-10-16 00:20:27",
@@ -183,6 +183,22 @@
     {
       "added_at": "2026-10-16 00:20:27",
       "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 167349,
+      "name": "Oba",
+      "url": "https://open.spotify.com/track/59zlaPDhvE414BZ82AFjH5"
+    },
+    {
+      "added_at": "2026-10-16 00:20:27",
+      "album": {
         "name": "MOTION SICKNESS",
         "url": "https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 167586,
       "name": "MOTION SICKNESS (feat. Zlatan)",
       "url": "https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse"
-    },
-    {
-      "added_at": "2026-10-16 00:20:27",
-      "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 167349,
-      "name": "Oba",
-      "url": "https://open.spotify.com/track/59zlaPDhvE414BZ82AFjH5"
     },
     {
       "added_at": "2026-10-16 00:20:27",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-10-16 00:20:27",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 102400,
-      "name": "TYPO",
-      "url": "https://open.spotify.com/track/4BkRYui4PKN8GY7ieFEP5F"
-    },
-    {
-      "added_at": "2026-10-16 00:20:27",
-      "album": {
         "name": "Lalakula",
         "url": "https://open.spotify.com/album/5gIPupWRwioFOuuW6Qjq5k"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 152635,
       "name": "Lalakula",
       "url": "https://open.spotify.com/track/5IVdYdrTLndg67bZMcwF7c"
+    },
+    {
+      "added_at": "2026-10-16 00:20:27",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 102400,
+      "name": "TYPO",
+      "url": "https://open.spotify.com/track/4BkRYui4PKN8GY7ieFEP5F"
     },
     {
       "added_at": "2026-10-16 00:20:27",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-10-16 00:20:27",
       "album": {
-        "name": "Never Fold",
-        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 170475,
-      "name": "Rules Of Life",
-      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
-    },
-    {
-      "added_at": "2026-10-16 00:20:27",
-      "album": {
         "name": "Ijoba",
         "url": "https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 139285,
       "name": "Ijoba",
       "url": "https://open.spotify.com/track/3Hjc3DbOgSqBw1kWtHeRXG"
+    },
+    {
+      "added_at": "2026-10-16 00:20:27",
+      "album": {
+        "name": "Never Fold",
+        "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 170475,
+      "name": "Rules Of Life",
+      "url": "https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD"
     },
     {
       "added_at": "2026-10-16 00:20:27",
@@ -1143,6 +1143,30 @@
     {
       "added_at": "2026-10-16 00:20:27",
       "album": {
+        "name": "Top Swag",
+        "url": "https://open.spotify.com/album/7kmtp8xQRcKiHEdNWelgCW"
+      },
+      "artists": [
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        },
+        {
+          "name": "DaveTheOracle",
+          "url": "https://open.spotify.com/artist/5KbCVC6DvprtEp30AA093z"
+        }
+      ],
+      "duration_ms": 197777,
+      "name": "Top Swag",
+      "url": "https://open.spotify.com/track/7Dj8uoNSgsnJiNvCfN2jdy"
+    },
+    {
+      "added_at": "2026-10-16 00:20:27",
+      "album": {
         "name": "Asawana",
         "url": "https://open.spotify.com/album/4HS9WgvXeamheMVUeuIfMm"
       },
@@ -1223,22 +1247,18 @@
     {
       "added_at": "2026-10-16 00:20:27",
       "album": {
-        "name": "365 Days",
-        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
+        "name": "Ore Agbako",
+        "url": "https://open.spotify.com/album/2FhHvlT5xp2K4imuLyuzge"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Double Gee2x",
+          "url": "https://open.spotify.com/artist/1rHgBi9laQFZlR4hhjeU4C"
         }
       ],
-      "duration_ms": 188041,
-      "name": "365 Days",
-      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
+      "duration_ms": 155400,
+      "name": "Ore Agbako",
+      "url": "https://open.spotify.com/track/2hRN9AqC0Fugv7oHb0Cg1b"
     },
     {
       "added_at": "2026-10-16 00:20:27",
@@ -1267,18 +1287,22 @@
     {
       "added_at": "2026-10-16 00:20:27",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+        "name": "365 Days",
+        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 153070,
-      "name": "CLEAR",
-      "url": "https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0"
+      "duration_ms": 188041,
+      "name": "365 Days",
+      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
     },
     {
       "added_at": "2026-10-16 00:20:27",
@@ -1295,30 +1319,6 @@
       "duration_ms": 134482,
       "name": "THEY LOVE ME",
       "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
-    },
-    {
-      "added_at": "2026-10-16 00:20:27",
-      "album": {
-        "name": "AMIRI",
-        "url": "https://open.spotify.com/album/1ZdrMSPDz6nhzMtm7jxdmu"
-      },
-      "artists": [
-        {
-          "name": "Tiphe",
-          "url": "https://open.spotify.com/artist/42qOy9uBsoFpQQgawI8dIZ"
-        },
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "AMIRI",
-      "url": "https://open.spotify.com/track/0rr63wJFZJNILXcdpHTrD0"
     }
   ],
   "unique_name": "Naija Bars ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Elif Buse Doğan ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,488 likes - 144 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,480 likes - 144 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 31 | [PEŞİMDE LANET](https://open.spotify.com/track/4we7RRijlTum1vyF9Yl2Hs) | [Öge471](https://open.spotify.com/artist/0aS9UPqODEOPZaUT0cWYMw), [Metth](https://open.spotify.com/artist/6T5EThaaQrfKqzdQ4eRuHf) | [PEŞİMDE LANET](https://open.spotify.com/album/4kcIfF8f0U54RXQ4ki7l6u) | 2:30 |
 | 32 | [Nasip](https://open.spotify.com/track/3WAVhLthT001vsOAmVHtOz) | [Birol Namoğlu](https://open.spotify.com/artist/3IzmGNYeQnx285Npwt1Zvh), [Yüksel Baltacı](https://open.spotify.com/artist/5tlE5dBPT5muL6dpPSExWw) | [Nasip](https://open.spotify.com/album/1Zdhgr0QBX6LBHJfujBJ2a) | 3:19 |
 | 33 | [Son Durak](https://open.spotify.com/track/4938f3HYjtuyRz1lj9kWku) | [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO) | [Son Durak](https://open.spotify.com/album/15Ce8JCemQe936OukW27ZS) | 4:17 |
-| 34 | [Hold On Let Go](https://open.spotify.com/track/7uhNCw4om8CK6YJ0VIyil3) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [Hold On Let Go](https://open.spotify.com/album/0K4LTdHZ781XPfHINDrTN7) | 2:54 |
+| 34 | [Hold On Let Go](https://open.spotify.com/track/4UNu6MqiSL4e7u1Evcb9eV) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [Hold On Let Go](https://open.spotify.com/album/6d26jd3I2W3LFpyLK6XFv3) | 2:54 |
 | 35 | [Beyoğlu'nda Devriyeler](https://open.spotify.com/track/4qrGHMqzLii0BzUhgeZUVW) | [Tuna Kiremitçi](https://open.spotify.com/artist/799GDxXgsUDuGSbh5HJ3Kv) | [Beyoğlu'nda Devriyeler](https://open.spotify.com/album/3gNYIBcSK0OhKsArfBExit) | 3:12 |
 | 36 | [Dönülmez Uzaklardayım](https://open.spotify.com/track/3S31UAtav1iCWUsFiuE97I) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW) | [Dönülmez Uzaklardayım](https://open.spotify.com/album/4OoplCOfAu8oFUie7Mfy7k) | 3:01 |
 | 37 | [Döndün Sözünden](https://open.spotify.com/track/5wmPaE7jnUwzTLByAEOwVb) | [Mehmet Elmas](https://open.spotify.com/artist/10BA29Asr9YbvkcBFJixDb) | [Döndün Sözünden](https://open.spotify.com/album/59Z7VOcUtnA73VWgLXQMZa) | 1:49 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 143 | [çöpe at ztn](https://open.spotify.com/track/4h8cvRdwm6V2YZ3qhnp4WF) | [yargoz](https://open.spotify.com/artist/2iZzwbb1rxXKeUqeOOiyxj) | [çöpe at ztn](https://open.spotify.com/album/3iKiYV2MkxdBS0KP1vJdfr) | 1:29 |
 | 144 | [Into the Woods](https://open.spotify.com/track/4Lp44EknIoiHAmKNVW6vrx) | [Suat Can](https://open.spotify.com/artist/4VwExYfZvPe6xjXLpNcwhY) | [RPG Music Pack: Enchanted Forest](https://open.spotify.com/album/3lRNGocNUyyqvD5rujHcvF) | 2:32 |
 
-Snapshot ID: `AAAAAM1FWs87m6K6B560a0GsqI2LtHYR`
+Snapshot ID: `AAAAAOFaTiwc8TKJ+UHxqjhEMXL1Msil`

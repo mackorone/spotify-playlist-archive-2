@@ -1,12 +1,12 @@
 {
   "description": "The hottest songs you need to listen to right now. Cover: Olivia Rodrigo, Chappell Roan",
-  "num_followers": 2188611,
+  "num_followers": 2188162,
   "original_name": "It's a Hit!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOMFKTVivb4UnG2ynjYV0E0MaBQo",
+  "snapshot_id": "AAAAAMMxub8yOBpUiMb5a8oGdjHLFOMF",
   "tracks": [
     {
       "added_at": "2026-10-19 04:57:13",
@@ -184,12 +184,12 @@
       },
       "artists": [
         {
-          "name": "A2O",
-          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
-        },
-        {
           "name": "A2O LITE",
           "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
         }
       ],
       "duration_ms": 208000,

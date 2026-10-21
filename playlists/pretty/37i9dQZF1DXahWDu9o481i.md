@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Mackeeper
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,399 likes - 72 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,436 likes - 72 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,16 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 36 | [Blood Bank \- Spotify Singles](https://open.spotify.com/track/3UAB5IGVkLgBHxn5vzEn2w) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Blood Bank \(Spotify Singles\)](https://open.spotify.com/album/78fVJQuJUToifqbMGHH8Jw) | 5:05 |
 | 37 | [Angel Vision](https://open.spotify.com/track/3bstintYmtTAA8fbjoUerL) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Gem](https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic) | 3:41 |
 | 38 | [Lucky\[Hymn\]](https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Lucky\[Hymn\]](https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz) | 3:48 |
-| 39 | [easy rider](https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [easy rider](https://open.spotify.com/album/2gwi64eVUVuQddXfNcaFLH) | 3:54 |
-| 40 | [E.T.](https://open.spotify.com/track/5J4PcF9jlWVNlTkXy8Lxu1) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [My Forte](https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg) | 2:31 |
+| 39 | [E.T.](https://open.spotify.com/track/5J4PcF9jlWVNlTkXy8Lxu1) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [My Forte](https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg) | 2:31 |
+| 40 | [easy rider](https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [easy rider](https://open.spotify.com/album/2gwi64eVUVuQddXfNcaFLH) | 3:54 |
 | 41 | [Perderte](https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Perderte](https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL) | 3:39 |
 | 42 | [Sometimes I rush](https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Sometimes I rush](https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B) | 1:30 |
 | 43 | [Kid](https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Kid](https://open.spotify.com/album/2HPku9riwrjNlCcJQignjp) | 3:40 |
 | 44 | [Call It What You Want](https://open.spotify.com/track/46museEHuxvmYT16wjAEkD) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Call It What You Want](https://open.spotify.com/album/0uTweYClqGCcTGFnUoBme9) | 2:50 |
 | 45 | [WONDERMAN](https://open.spotify.com/track/6vABC09vTTBOXMJRGvfVBt) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [WONDERMAN](https://open.spotify.com/album/05zjvrwPwTXvfMslUDN2V9) | 4:04 |
 | 46 | [NOBODY](https://open.spotify.com/track/2DcondevKbL7i5dreAdWpG) | [ICXN](https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [NOBODY](https://open.spotify.com/album/2RnwESL833DuPq9ch1pkD7) | 3:04 |
-| 47 | [Product of Profit \(P.O.P\)](https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Product of Profit \(P.O.P\)](https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C) | 3:29 |
-| 48 | [When We First Met](https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [When We First Met](https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd) | 1:52 |
+| 47 | [When We First Met](https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [When We First Met](https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd) | 1:52 |
+| 48 | [Product of Profit \(P.O.P\)](https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Product of Profit \(P.O.P\)](https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C) | 3:29 |
 | 49 | [Wouldn't Say](https://open.spotify.com/track/21NbcXsuKVVdymWt8Kz57t) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [Wouldn't Say](https://open.spotify.com/album/5syUY2ehWGz7LCHMnYF2wL) | 4:35 |
 | 50 | [JEEP](https://open.spotify.com/track/7ctWQyAdC1OVpFDtqxNk8t) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [JEEP](https://open.spotify.com/album/2g5iVDVoQ1WvWTUfxhtzOm) | 3:15 |
 | 51 | [ON THE SCHEDULE](https://open.spotify.com/track/4YSqHMRMRjREUrWqmj2tFS) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [ON THE SCHEDULE](https://open.spotify.com/album/7vHO368QppzJL9g1jnozna) | 3:16 |
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 63 | [FUNKY MONKEY/CHARACTERISTICS](https://open.spotify.com/track/0kMCGREbHR3jJThi3xvpxe) | [Zukenee](https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc) | [BLUNTS & BLADES](https://open.spotify.com/album/0Gl1uDfVFpR19tdgbov1N4) | 3:10 |
 | 64 | [To Me](https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [M3lon](https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf) | [Stylish](https://open.spotify.com/album/3LJtOTCierH7NQUhOubKvk) | 2:27 |
 | 65 | [The Whale](https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462), [D.A\. Crimson](https://open.spotify.com/artist/5CbObJeF21ADnTwI5RnvzW) | [The Whale](https://open.spotify.com/album/1ROt8BQL63XpffgUQngj2Z) | 3:25 |
-| 66 | [I can fix him](https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [I can fix him](https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r) | 3:04 |
-| 67 | [February Theory](https://open.spotify.com/track/1DLDvZuETlolJpVkpnlT1I) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [February Theory](https://open.spotify.com/album/6Z3xax7xkuVUyP0ab201J6) | 3:20 |
-| 68 | [Better Than Mine](https://open.spotify.com/track/4YR5OvWsJ8GsXwkmubdMFF) | [Deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Valeria Litvakov](https://open.spotify.com/artist/3FBE2uYOyGl3z0QmAJNp4q) | [Better Than Mine](https://open.spotify.com/album/6Am91CfOO7VHDHArlb7HMu) | 3:36 |
-| 69 | [Get Out Of My Life](https://open.spotify.com/track/1gGAivV6WCU48CFxac8SUE) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [Get Out Of My Life](https://open.spotify.com/album/0aCTOwf7uDiYTzGKnPQvVX) | 3:18 |
-| 70 | [Heaven \(feat\. Faris Badwan\)](https://open.spotify.com/track/6WnvwvUlbkStbTBuQNGsKs) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Faris Badwan](https://open.spotify.com/artist/7H5F95b3evCn4PRE2jZUup) | [Danseur](https://open.spotify.com/album/36VryG7BuShlfxD2l4cPVx) | 4:06 |
+| 66 | [Better Than Mine](https://open.spotify.com/track/4YR5OvWsJ8GsXwkmubdMFF) | [Deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Valeria Litvakov](https://open.spotify.com/artist/3FBE2uYOyGl3z0QmAJNp4q) | [Better Than Mine](https://open.spotify.com/album/6Am91CfOO7VHDHArlb7HMu) | 3:36 |
+| 67 | [I can fix him](https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [I can fix him](https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r) | 3:04 |
+| 68 | [February Theory](https://open.spotify.com/track/1DLDvZuETlolJpVkpnlT1I) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [February Theory](https://open.spotify.com/album/6Z3xax7xkuVUyP0ab201J6) | 3:20 |
+| 69 | [Heaven \(feat\. Faris Badwan\)](https://open.spotify.com/track/6WnvwvUlbkStbTBuQNGsKs) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Faris Badwan](https://open.spotify.com/artist/7H5F95b3evCn4PRE2jZUup) | [Danseur](https://open.spotify.com/album/36VryG7BuShlfxD2l4cPVx) | 4:06 |
+| 70 | [Get Out Of My Life](https://open.spotify.com/track/1gGAivV6WCU48CFxac8SUE) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [Get Out Of My Life](https://open.spotify.com/album/0aCTOwf7uDiYTzGKnPQvVX) | 3:18 |
 | 71 | [Wave Has a Place](https://open.spotify.com/track/71xCkmstbvZJwpu8lKNAFW) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [I see them, I see me](https://open.spotify.com/album/2dIevXo4isEeTr9fmU9eZd) | 2:09 |
 | 72 | [Ride or Die](https://open.spotify.com/track/6RF1tFa8IdvWgT9D3ovkeo) | [Glasshouse Red Spider Mite](https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli) | [Ride or Die](https://open.spotify.com/album/2U3rlBImJjkhUQbjb3CyeE) | 3:26 |
 
-Snapshot ID: `AAAAAD30eQNixPKS80IC3q/j6JNLXZMu`
+Snapshot ID: `AAAAAALjIIRFZg4NJq9uOUySOxJLPQjN`

@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-548 songs - 1 day 10 hr 43 min
+549 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [いたい](https://open.spotify.com/track/6MSosUtVQ7O4uZBF9EPAZg) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x) | [いたい](https://open.spotify.com/album/2DtTw78HZaP7aGhYsaJzhG) | 3:16 | 2025-06-17 | 2025-07-09 |
 | [いつも隣で](https://open.spotify.com/track/1XsHrA5ivHWYn68UNb9cFK) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [いつも隣で](https://open.spotify.com/album/7o2DHL1U5lSLkvbjzaL3MC) | 4:00 | 2025-08-05 | 2025-10-01 |
 | [うたたね](https://open.spotify.com/track/4C2kdvTzgJAfYO07dDwc5x) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [tulip](https://open.spotify.com/album/3Z2RJ7elYZZxug2WVDIwmT) | 3:01 | 2024-04-16 | 2024-05-08 |
+| [うららか](https://open.spotify.com/track/1DDzoKgiAZQQLqIo35mwi9) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [うららか](https://open.spotify.com/album/6zLKsbPXwuP8tx4ZO7CktQ) | 4:21 | 2026-10-20 |  |
 | [うるうびと](https://open.spotify.com/track/6mJIn3fvwWHHAnrR3LEdxp) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [余命10年 \(Original Soundtrack\)](https://open.spotify.com/album/4BVxkC0NDkRLpTmNdDnPmz) | 5:18 | 2025-03-18 | 2025-03-28 |
 | [おくすり](https://open.spotify.com/track/6hx93BC7f14bffbKr82cOq) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [おくすり](https://open.spotify.com/album/5ECXkzYGgaN9L70Hehi02Q) | 4:01 | 2025-02-04 | 2025-03-12 |
 | [おそろい](https://open.spotify.com/track/2jSEmOfJqEJ632m1ovfv0s) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [おそろい](https://open.spotify.com/album/4P1wSKCJxFl1BcxxKoReft) | 3:21 | 2026-01-21 | 2026-01-28 |
@@ -517,7 +518,7 @@
 | [結び](https://open.spotify.com/track/2j0mQg77Ivev2aIksyiiqc) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [結び](https://open.spotify.com/album/6EiurupQASTiD9uFEJwxqg) | 3:26 | 2026-10-06 |  |
 | [絶対約束](https://open.spotify.com/track/49Q8rKDz5VcAyomvbubfKi) | [浜野はるき](https://open.spotify.com/artist/5sx4iy6FarYtWbiChpFOZp) | [絶対約束](https://open.spotify.com/album/6zJaVfdIRNrn3jfwMLhj5x) | 2:53 | 2024-02-20 | 2024-03-13 |
 | [織姫とBABY](https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld), [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [織姫とBABY](https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD) | 3:42 | 2025-06-17 |  |
-| [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 | 2023-04-11 |  |
+| [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 | 2023-04-11 | 2026-10-21 |
 | [群青](https://open.spotify.com/track/72mV4ZPL2UBGwgWyqdllIx) | [あれくん](https://open.spotify.com/artist/7voEy17zvlQojgmQYUlKDK) | [群青](https://open.spotify.com/album/2QFaN8BQErxlES5rP3opuI) | 3:10 | 2024-11-12 | 2025-03-26 |
 | [聖なるクリスマス](https://open.spotify.com/track/7i3YnL4zlmqGeQV9G1xLzr) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [聖なるクリスマス](https://open.spotify.com/album/2xC5tynQ7PhYwoOrooAlJ5) | 4:11 | 2023-11-28 | 2023-12-27 |
 | [脱兎](https://open.spotify.com/track/7HWVVXNE0MwQ8xSEBFatvk) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH) | [脱兎](https://open.spotify.com/album/172Sg03akNdj5bIV0mnRkh) | 3:45 | 2025-07-15 | 2025-10-08 |

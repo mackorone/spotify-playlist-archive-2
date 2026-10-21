@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Ryan Fidelis e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,011 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,968 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Endrick](https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Endrick](https://open.spotify.com/album/1wVrK0oeBormPS5ZHmzavK) | 2:20 |
 | 50 | [Esconde Sua Namorada](https://open.spotify.com/track/56ActsrgGySMIkRtpDTtQs) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk) | [Esconde Sua Namorada](https://open.spotify.com/album/0YtHnpF7CLZldk0SX0pkeh) | 2:30 |
 
-Snapshot ID: `AAAAAL3eIzv9APEKZvaK7xuQC8YnkCeq`
+Snapshot ID: `AAAAABSzXUwpyyEuJROm/imvwr3wve/7`

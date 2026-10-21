@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. It's alive with Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,151,494 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,150,989 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 84 | [milkweed butterfly](https://open.spotify.com/track/21NzjKNEzy2k8hCP9N79NC) | [smush](https://open.spotify.com/artist/0X7rdOQMhW5OjD3cdxdEoU) | [milkweed butterfly](https://open.spotify.com/album/7JjlVb5nafn69VZt8cSSHE) | 3:01 |
 | 85 | [SAPPHIRE](https://open.spotify.com/track/6b0LNiTXjfPXRUq3j8ktmc) | [Empty Shell Casing](https://open.spotify.com/artist/2k180xyVia1kQlgNbmQuwK) | [UNLIMITED](https://open.spotify.com/album/27w64AmjxPZ1ydzNJi7NFk) | 3:38 |
 
-Snapshot ID: `AAAAAAG15ndvDghiUazL/eHlXpRDEkKg`
+Snapshot ID: `AAAAAFZFvATqfcgQrgu54BFgyZldkKsE`

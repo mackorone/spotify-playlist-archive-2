@@ -2963,6 +2963,28 @@
     },
     {
       "album": {
+        "name": "\u5c0f\u724c\u5927\u800d",
+        "url": "https://open.spotify.com/album/6VRGnZFFwQVynqeSOARaLx"
+      },
+      "artists": [
+        {
+          "name": "Billionhappy",
+          "url": "https://open.spotify.com/artist/348VulOjvQcgJgL8hBCFZr"
+        },
+        {
+          "name": "Akemen\u6740",
+          "url": "https://open.spotify.com/artist/13C9C6bk4DDD98Bg2XkdVt"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150265,
+      "name": "\u5c0f\u724c\u5927\u800d",
+      "url": "https://open.spotify.com/track/17tQ6PZUPDDYVifimFdMwm"
+    },
+    {
+      "album": {
         "name": "Infinity Journey",
         "url": "https://open.spotify.com/album/43A14wOfi59SPQGbIoRCia"
       },

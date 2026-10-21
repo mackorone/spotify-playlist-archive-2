@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,039 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,033 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 29 | [Letícia](https://open.spotify.com/track/1Qzse4pBfaUXY6wWOqYoRH) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [O Original](https://open.spotify.com/album/2v3K3T2LkhnYNlPhFI0yAZ) | 2:47 |
 | 30 | [Revoada No Colchão](https://open.spotify.com/track/4kGdnA7FzSVsXC29LPghej) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Revoada No Colchão](https://open.spotify.com/album/7hzvwdgrY4xuqKehIntS3o) | 2:33 |
 | 31 | [Como É Que Fala Não \- Ao Vivo em Fortaleza](https://open.spotify.com/track/7nGa1g2h11waps42jwfQPa) | [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [SENTIMENTO \(Ao Vivo Em Fortaleza\)](https://open.spotify.com/album/78AGsXwaEeeldx45IYQwD7) | 2:27 |
-| 32 | [Pra Que Fui Me Apaixonar](https://open.spotify.com/track/5npAAiROGib00LdqxUoqRb) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Iguinho e Lulinha](https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C) | [Ao Vivo no Sertão](https://open.spotify.com/album/3GijMKhlZt53WEakYLukRs) | 3:12 |
-| 33 | [Inquilina \- Ao Vivo](https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Xperience Na Praia \(ao Vivo\)](https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5) | 4:05 |
+| 32 | [Inquilina \- Ao Vivo](https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Xperience Na Praia \(ao Vivo\)](https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5) | 4:05 |
+| 33 | [Pra Que Fui Me Apaixonar](https://open.spotify.com/track/5npAAiROGib00LdqxUoqRb) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Iguinho e Lulinha](https://open.spotify.com/artist/45MLFvHRAGIOvnslTnzS8C) | [Ao Vivo no Sertão](https://open.spotify.com/album/3GijMKhlZt53WEakYLukRs) | 3:12 |
 | 34 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6) | 2:15 |
 | 35 | [Cena de Amor](https://open.spotify.com/track/6RMYuqlTn8777j5arY9zhC) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Cena de Amor](https://open.spotify.com/album/7x46uFO4ntA1LfbJt2VP3Y) | 3:42 |
 | 36 | [Paraquedas \- Live](https://open.spotify.com/track/208IlWWWgzeaNe53aHeoKO) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Gabriel Diniz Na Ilha \(Ao Vivo\)](https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp) | 2:49 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 57 | [Se quiser é assim \- Ao Vivo](https://open.spotify.com/track/4eIz5tYOpqUrZiCxTm1ZAa) | [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Solange Almeida 50/50 Ao Vivo em Fortaleza Deluxe](https://open.spotify.com/album/2bFebA9Rb9o1t6e1jJJt8m) | 3:45 |
 | 58 | [Não Digita \- Ao Vivo](https://open.spotify.com/track/3pj8CGadPM5hYJjC1gxpP8) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Nossa História \- Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/6ZgVLQPG1FsY7JCT5tFPeY) | 3:15 |
 | 59 | [Ele Não Te Merece](https://open.spotify.com/track/48nxUG7ATqzudxNqzRXt4S) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [WS Sem Limites \(Deluxe\)](https://open.spotify.com/album/1lSBPfQScnxvu24BbRQ2BD) | 3:07 |
-| 60 | [Aquelas Coisas / Me Ama Sem Pausa \- Ao Vivo](https://open.spotify.com/track/5755b7FAJceOZauY3qBJze) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Aquelas Coisas / Me Ama Sem Pausa \(Ao Vivo\)](https://open.spotify.com/album/2RRxbzWPrBQ305aRt48anL) | 4:11 |
+| 60 | [Edilene](https://open.spotify.com/track/7xEvzxbqAxFYDC5OzF51aQ) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Edilene](https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN) | 3:09 |
 
-Snapshot ID: `AAAAAD2vy0gptQMGxNaxIUSllSSGw+jS`
+Snapshot ID: `AAAAAHm+zIuHNZsDZrqTRf6uJVPwdPhw`

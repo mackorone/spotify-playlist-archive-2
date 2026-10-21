@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Leo Middea",
-  "num_followers": 352993,
+  "num_followers": 352989,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALPVqzdU7nKb6uVdUnGM7vn/qJ0V",
+  "snapshot_id": "AAAAAGLv2YyT/5ykXo1WysBRTVZlrLko",
   "tracks": [
     {
       "added_at": "2026-10-09 17:04:01",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
+        "name": "Pra Ter Fim",
+        "url": "https://open.spotify.com/album/4PzEiRBXgj2D5hSEW4ZaL5"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 204177,
+      "name": "Pra Ter Fim",
+      "url": "https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
         "name": "Mano",
         "url": "https://open.spotify.com/album/6CRy9PfqYrPyrW75jb0Ny7"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Pra Ter Fim",
-        "url": "https://open.spotify.com/album/4PzEiRBXgj2D5hSEW4ZaL5"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 204177,
-      "name": "Pra Ter Fim",
-      "url": "https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
         "name": "Jo\u00e3o",
         "url": "https://open.spotify.com/album/4afLVA7wfxfZb3ZMV2DtUb"
       },
@@ -471,6 +471,62 @@
       "duration_ms": 214831,
       "name": "Jo\u00e3o",
       "url": "https://open.spotify.com/track/4rfBy8eeyvMaaXbuWjIkBe"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
+        "name": "Dr\u00e3o",
+        "url": "https://open.spotify.com/album/4TGsSN1w7Pgm888HMSW4mq"
+      },
+      "artists": [
+        {
+          "name": "Trio Mana Flor",
+          "url": "https://open.spotify.com/artist/6ukYLqyY9U2iLEzikHCkNT"
+        },
+        {
+          "name": "M\u00e3eana",
+          "url": "https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE"
+        }
+      ],
+      "duration_ms": 205415,
+      "name": "Dr\u00e3o",
+      "url": "https://open.spotify.com/track/3iULRVHchU7ARgxHrIzsTS"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
+        "name": "Leo Jaime - As Mais Pedidas",
+        "url": "https://open.spotify.com/album/7eGFIc6VQRRpUvZ9Ucnpcy"
+      },
+      "artists": [
+        {
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "Preciso Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/6PFaC1vSe27DTWN7jfX3Zz"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
+        "name": "1\u00b0 Ato (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0o6JR0Qoj0JY2UVUecBaS4"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        },
+        {
+          "name": "Orquestra Sesiminas",
+          "url": "https://open.spotify.com/artist/01U8E4zRYrHYIehSb9YqX1"
+        }
+      ],
+      "duration_ms": 228314,
+      "name": "Admir\u00e1vel Gado Novo / Toada - Ao Vivo",
+      "url": "https://open.spotify.com/track/5j1gqrBK1aCYxyon31CVnq"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -499,46 +555,6 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Dr\u00e3o",
-        "url": "https://open.spotify.com/album/4TGsSN1w7Pgm888HMSW4mq"
-      },
-      "artists": [
-        {
-          "name": "Trio Mana Flor",
-          "url": "https://open.spotify.com/artist/6ukYLqyY9U2iLEzikHCkNT"
-        },
-        {
-          "name": "M\u00e3eana",
-          "url": "https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE"
-        }
-      ],
-      "duration_ms": 205415,
-      "name": "Dr\u00e3o",
-      "url": "https://open.spotify.com/track/3iULRVHchU7ARgxHrIzsTS"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
-        "name": "1\u00b0 Ato (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0o6JR0Qoj0JY2UVUecBaS4"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        },
-        {
-          "name": "Orquestra Sesiminas",
-          "url": "https://open.spotify.com/artist/01U8E4zRYrHYIehSb9YqX1"
-        }
-      ],
-      "duration_ms": 228314,
-      "name": "Admir\u00e1vel Gado Novo / Toada - Ao Vivo",
-      "url": "https://open.spotify.com/track/5j1gqrBK1aCYxyon31CVnq"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
         "name": "ContraTempo",
         "url": "https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq"
       },
@@ -555,26 +571,6 @@
       "duration_ms": 192519,
       "name": "Sinto",
       "url": "https://open.spotify.com/track/2og3ppm4mGvlbK5abmpoTj"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
-        "name": "Sangue Bom",
-        "url": "https://open.spotify.com/album/7DypAdT7904ztdjudUGVen"
-      },
-      "artists": [
-        {
-          "name": "Paulo Ricardo",
-          "url": "https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 179663,
-      "name": "Sangue Bom",
-      "url": "https://open.spotify.com/track/6SofGoEv9lZvL5ej9eULkP"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -599,18 +595,22 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Leo Jaime - As Mais Pedidas",
-        "url": "https://open.spotify.com/album/7eGFIc6VQRRpUvZ9Ucnpcy"
+        "name": "Sangue Bom",
+        "url": "https://open.spotify.com/album/7DypAdT7904ztdjudUGVen"
       },
       "artists": [
         {
-          "name": "Leo Jaime",
-          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+          "name": "Paulo Ricardo",
+          "url": "https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
         }
       ],
-      "duration_ms": 190605,
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/6PFaC1vSe27DTWN7jfX3Zz"
+      "duration_ms": 179663,
+      "name": "Sangue Bom",
+      "url": "https://open.spotify.com/track/6SofGoEv9lZvL5ej9eULkP"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -931,26 +931,6 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Pra Gente Se Acabar",
-        "url": "https://open.spotify.com/album/4aPQULZO2vMg0UhUqzlOx6"
-      },
-      "artists": [
-        {
-          "name": "Samuca e a Selva",
-          "url": "https://open.spotify.com/artist/3xRsjZtEO4W7Y4Wgr4wSLD"
-        },
-        {
-          "name": "Carlos Daf\u00e9",
-          "url": "https://open.spotify.com/artist/7c2M9J4vkC24hmNwQyl4vZ"
-        }
-      ],
-      "duration_ms": 186938,
-      "name": "O Tempo Leva",
-      "url": "https://open.spotify.com/track/6vljTD3BamQ2TFWxm26cnz"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
         "name": "A Paz",
         "url": "https://open.spotify.com/album/7bplnsf0SiATd2ttUgTaxo"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 236061,
       "name": "Garotos II - Ao Vivo",
       "url": "https://open.spotify.com/track/5D7x9PXK62bJ1FzNmsNK4l"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
+        "name": "Pra Gente Se Acabar",
+        "url": "https://open.spotify.com/album/4aPQULZO2vMg0UhUqzlOx6"
+      },
+      "artists": [
+        {
+          "name": "Samuca e a Selva",
+          "url": "https://open.spotify.com/artist/3xRsjZtEO4W7Y4Wgr4wSLD"
+        },
+        {
+          "name": "Carlos Daf\u00e9",
+          "url": "https://open.spotify.com/artist/7c2M9J4vkC24hmNwQyl4vZ"
+        }
+      ],
+      "duration_ms": 186938,
+      "name": "O Tempo Leva",
+      "url": "https://open.spotify.com/track/6vljTD3BamQ2TFWxm26cnz"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "Minha Pele",
-        "url": "https://open.spotify.com/album/4ByzxT38Zd94Mj1ehc7bnu"
-      },
-      "artists": [
-        {
-          "name": "Michael Pipoquinha",
-          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
-        },
-        {
-          "name": "Vanessa Moreno",
-          "url": "https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4"
-        }
-      ],
-      "duration_ms": 264993,
-      "name": "Ser \u00c1gua",
-      "url": "https://open.spotify.com/track/04TKTnue3bVfL76UnzlrcL"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
         "name": "A paz que desejamos",
         "url": "https://open.spotify.com/album/4UtfTgEX52zOjNyWmwb6Sl"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 191232,
       "name": "A paz que desejamos",
       "url": "https://open.spotify.com/track/5e7ztWak213GequwvCnK0l"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
+        "name": "Minha Pele",
+        "url": "https://open.spotify.com/album/4ByzxT38Zd94Mj1ehc7bnu"
+      },
+      "artists": [
+        {
+          "name": "Michael Pipoquinha",
+          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
+        },
+        {
+          "name": "Vanessa Moreno",
+          "url": "https://open.spotify.com/artist/3E4sXUXWL4yK5adNYER3a4"
+        }
+      ],
+      "duration_ms": 264993,
+      "name": "Ser \u00c1gua",
+      "url": "https://open.spotify.com/track/04TKTnue3bVfL76UnzlrcL"
     },
     {
       "added_at": "2026-10-09 17:04:01",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-10-09 17:04:01",
       "album": {
-        "name": "EU MANDEI MEU AMOR PRO ESPA\u00c7O",
-        "url": "https://open.spotify.com/album/4WX0iDuk6xm6e7x8E06hzC"
-      },
-      "artists": [
-        {
-          "name": "Lucas Bezerra",
-          "url": "https://open.spotify.com/artist/6AHoiwR7PE2CBXvBB9DP6W"
-        },
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 237580,
-      "name": "eu mandei meu amor pro espa\u00e7o",
-      "url": "https://open.spotify.com/track/3Yaaohz7X5t5kMG9rhCzvg"
-    },
-    {
-      "added_at": "2026-10-09 17:04:01",
-      "album": {
         "name": "N\u00d3S",
         "url": "https://open.spotify.com/album/2DTb4PV6ULoaHWgRJ2Xauh"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 152000,
       "name": "N\u00d3S",
       "url": "https://open.spotify.com/track/2X50ZlAwADKYkmgliV03Gm"
+    },
+    {
+      "added_at": "2026-10-09 17:04:01",
+      "album": {
+        "name": "EU MANDEI MEU AMOR PRO ESPA\u00c7O",
+        "url": "https://open.spotify.com/album/4WX0iDuk6xm6e7x8E06hzC"
+      },
+      "artists": [
+        {
+          "name": "Lucas Bezerra",
+          "url": "https://open.spotify.com/artist/6AHoiwR7PE2CBXvBB9DP6W"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 237580,
+      "name": "eu mandei meu amor pro espa\u00e7o",
+      "url": "https://open.spotify.com/track/3Yaaohz7X5t5kMG9rhCzvg"
     },
     {
       "added_at": "2026-10-09 17:04:01",

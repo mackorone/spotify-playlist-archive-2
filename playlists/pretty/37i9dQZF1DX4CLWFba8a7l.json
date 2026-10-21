@@ -1,12 +1,12 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Sycco",
-  "num_followers": 139165,
+  "num_followers": 139183,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGyYPUw5W83qCDTcl2yO0c6Cj9AF",
+  "snapshot_id": "AAAAAECn3VvpIfWT62znDclV3iWTG07C",
   "tracks": [
     {
       "added_at": "2026-10-15 13:01:21",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-10-15 13:01:21",
       "album": {
+        "name": "A COLD PLAY",
+        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "A COLD PLAY",
+      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
+    },
+    {
+      "added_at": "2026-10-15 13:01:21",
+      "album": {
         "name": "Addicted To Bass (Dom Dolla Relapse)",
         "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 189179,
       "name": "Addicted To Bass (Dom Dolla Relapse)",
       "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
-    },
-    {
-      "added_at": "2026-10-15 13:01:21",
-      "album": {
-        "name": "A COLD PLAY",
-        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "A COLD PLAY",
-      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
     },
     {
       "added_at": "2026-10-15 13:01:21",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-10-15 13:01:21",
       "album": {
-        "name": "Hummer",
-        "url": "https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 361631,
-      "name": "Hummer",
-      "url": "https://open.spotify.com/track/1GfEpihzfbV6HFt21JA1dz"
-    },
-    {
-      "added_at": "2026-10-15 13:01:21",
-      "album": {
         "name": "DANGER DANGER (feat. Skepta)",
         "url": "https://open.spotify.com/album/7MUTu0zrGAnszw4SbT8pHx"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 212195,
       "name": "PQC",
       "url": "https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO"
+    },
+    {
+      "added_at": "2026-10-15 13:01:21",
+      "album": {
+        "name": "Hummer",
+        "url": "https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 361631,
+      "name": "Hummer",
+      "url": "https://open.spotify.com/track/1GfEpihzfbV6HFt21JA1dz"
     },
     {
       "added_at": "2026-10-15 13:01:21",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-10-15 13:01:21",
       "album": {
-        "name": "Pursuit of Anything",
-        "url": "https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Lucky, Forever",
-      "url": "https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa"
-    },
-    {
-      "added_at": "2026-10-15 13:01:21",
-      "album": {
         "name": "Everything On Fire",
         "url": "https://open.spotify.com/album/3X4JQKQqriikASbUet3yBN"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 228240,
       "name": "Everything On Fire",
       "url": "https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp"
+    },
+    {
+      "added_at": "2026-10-15 13:01:21",
+      "album": {
+        "name": "Pursuit of Anything",
+        "url": "https://open.spotify.com/album/0NLI9IZhkXdAd39HJeo76c"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Lucky, Forever",
+      "url": "https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa"
     },
     {
       "added_at": "2026-10-15 13:01:21",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-10-15 13:01:21",
       "album": {
+        "name": "Lethal Devotion",
+        "url": "https://open.spotify.com/album/3KpYEsXJKOxJUQI2IyoMzk"
+      },
+      "artists": [
+        {
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+        }
+      ],
+      "duration_ms": 321777,
+      "name": "Hypoxia",
+      "url": "https://open.spotify.com/track/2pmmcSLH66QJ20E6Fn6E7r"
+    },
+    {
+      "added_at": "2026-10-15 13:01:21",
+      "album": {
         "name": "Every Single Weekend (feat. Jamie xx)",
         "url": "https://open.spotify.com/album/0bDV16KDFYNix2fGuUQ6cw"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 130133,
       "name": "Every Single Weekend (feat. Jamie xx)",
       "url": "https://open.spotify.com/track/0nac7FVmtrYm0O3Iu27ijo"
-    },
-    {
-      "added_at": "2026-10-15 13:01:21",
-      "album": {
-        "name": "Lethal Devotion",
-        "url": "https://open.spotify.com/album/3KpYEsXJKOxJUQI2IyoMzk"
-      },
-      "artists": [
-        {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
-        }
-      ],
-      "duration_ms": 321777,
-      "name": "Hypoxia",
-      "url": "https://open.spotify.com/track/2pmmcSLH66QJ20E6Fn6E7r"
     },
     {
       "added_at": "2026-10-15 13:01:21",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-10-15 13:01:21",
       "album": {
-        "name": "Sweet Hallelujah",
-        "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 182156,
-      "name": "Sweet Hallelujah",
-      "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
-    },
-    {
-      "added_at": "2026-10-15 13:01:21",
-      "album": {
         "name": "Love Love (Love Love)",
         "url": "https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2026-10-15 13:01:21",
       "album": {
+        "name": "Sweet Hallelujah",
+        "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 182156,
+      "name": "Sweet Hallelujah",
+      "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
+    },
+    {
+      "added_at": "2026-10-15 13:01:21",
+      "album": {
         "name": "If That Makes Sense",
         "url": "https://open.spotify.com/album/5xG6I0x1jJzC6eWWEB6cwx"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 178303,
       "name": "Whateverrrr",
       "url": "https://open.spotify.com/track/4QkFVyMAaCheg4rCoaytYZ"
-    },
-    {
-      "added_at": "2026-10-15 13:01:21",
-      "album": {
-        "name": "Fluent",
-        "url": "https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 112353,
-      "name": "Fluent",
-      "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
     },
     {
       "added_at": "2026-10-15 13:01:21",
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2026-10-15 13:01:21",
       "album": {
-        "name": "Send It Back",
-        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
+        "name": "Fluent",
+        "url": "https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA"
       },
       "artists": [
         {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
         }
       ],
-      "duration_ms": 173112,
-      "name": "Send It Back",
-      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
+      "duration_ms": 112353,
+      "name": "Fluent",
+      "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
     },
     {
       "added_at": "2026-10-15 13:01:21",
@@ -1275,6 +1259,38 @@
     {
       "added_at": "2026-10-15 13:01:21",
       "album": {
+        "name": "Send It Back",
+        "url": "https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 173112,
+      "name": "Send It Back",
+      "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"
+    },
+    {
+      "added_at": "2026-10-15 13:01:21",
+      "album": {
+        "name": "Campdraft Queen",
+        "url": "https://open.spotify.com/album/6mM8BIYzDO0m1l0LZX4v4D"
+      },
+      "artists": [
+        {
+          "name": "Mack Geiger",
+          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Campdraft Queen",
+      "url": "https://open.spotify.com/track/0TmTKYWgUlQMJf8GQw6U9a"
+    },
+    {
+      "added_at": "2026-10-15 13:01:21",
+      "album": {
         "name": "NEXT2U",
         "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 196508,
       "name": "NEXT2U",
       "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
-    },
-    {
-      "added_at": "2026-10-15 13:01:21",
-      "album": {
-        "name": "Swallowed By The World",
-        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
-      },
-      "artists": [
-        {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
-        }
-      ],
-      "duration_ms": 375642,
-      "name": "Swallowed By The World",
-      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
     },
     {
       "added_at": "2026-10-15 13:01:21",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2026-10-15 13:01:21",
       "album": {
-        "name": "Campdraft Queen",
-        "url": "https://open.spotify.com/album/6mM8BIYzDO0m1l0LZX4v4D"
+        "name": "Swallowed By The World",
+        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
       },
       "artists": [
         {
-          "name": "Mack Geiger",
-          "url": "https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ"
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Campdraft Queen",
-      "url": "https://open.spotify.com/track/0TmTKYWgUlQMJf8GQw6U9a"
+      "duration_ms": 375642,
+      "name": "Swallowed By The World",
+      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
     },
     {
       "added_at": "2026-10-15 13:01:21",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-10-15 13:01:21",
       "album": {
-        "name": "Last Call",
-        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
-    },
-    {
-      "added_at": "2026-10-15 13:01:21",
-      "album": {
         "name": "GHOST WORLD",
         "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
       },
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2026-10-15 13:01:21",
       "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
+    },
+    {
+      "added_at": "2026-10-15 13:01:21",
+      "album": {
         "name": "Get Away From Me (I Think I'll Love You Soon)",
         "url": "https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W"
       },
@@ -1407,22 +1407,6 @@
       "duration_ms": 168523,
       "name": "Get Away From Me (I Think I'll Love You Soon)",
       "url": "https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo"
-    },
-    {
-      "added_at": "2026-10-15 13:01:21",
-      "album": {
-        "name": "The Biggest Dick",
-        "url": "https://open.spotify.com/album/1AvlJXt6F6pSNhP4tY3pqy"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 163296,
-      "name": "The Biggest Dick",
-      "url": "https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY"
     },
     {
       "added_at": "2026-10-15 13:01:21",
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2026-10-15 13:01:21",
       "album": {
+        "name": "The Biggest Dick",
+        "url": "https://open.spotify.com/album/1AvlJXt6F6pSNhP4tY3pqy"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 163296,
+      "name": "The Biggest Dick",
+      "url": "https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY"
+    },
+    {
+      "added_at": "2026-10-15 13:01:21",
+      "album": {
         "name": "Wishing Well",
         "url": "https://open.spotify.com/album/73agEe7EOBj973yHVERdiX"
       },
@@ -1455,6 +1455,22 @@
       "duration_ms": 233000,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/7iU74nTWQMKlbmVasRY6Kf"
+    },
+    {
+      "added_at": "2026-10-15 13:01:21",
+      "album": {
+        "name": "Evian",
+        "url": "https://open.spotify.com/album/68WNy1c7yNaKv0vDK3FVjP"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 302322,
+      "name": "Evian",
+      "url": "https://open.spotify.com/track/0VPMvHXO7K1Ukj0DAmtvPs"
     },
     {
       "added_at": "2026-10-15 13:01:21",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2026-10-15 13:01:21",
       "album": {
-        "name": "Evian",
-        "url": "https://open.spotify.com/album/68WNy1c7yNaKv0vDK3FVjP"
-      },
-      "artists": [
-        {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
-        }
-      ],
-      "duration_ms": 302322,
-      "name": "Evian",
-      "url": "https://open.spotify.com/track/0VPMvHXO7K1Ukj0DAmtvPs"
-    },
-    {
-      "added_at": "2026-10-15 13:01:21",
-      "album": {
         "name": "boy that's loving you",
         "url": "https://open.spotify.com/album/1wjkQnmMpbXyNkMJjmmLgW"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 184694,
       "name": "boy that's loving you",
       "url": "https://open.spotify.com/track/3zuhn8OqdMQFjrQdlZJ5Hw"
-    },
-    {
-      "added_at": "2026-10-15 13:01:21",
-      "album": {
-        "name": "If I Had The Hand Of God",
-        "url": "https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 161816,
-      "name": "If I Had The Hand Of God",
-      "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
     },
     {
       "added_at": "2026-10-15 13:01:21",
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2026-10-15 13:01:21",
       "album": {
+        "name": "If I Had The Hand Of God",
+        "url": "https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 161816,
+      "name": "If I Had The Hand Of God",
+      "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
+    },
+    {
+      "added_at": "2026-10-15 13:01:21",
+      "album": {
         "name": "Karaoke Bar",
         "url": "https://open.spotify.com/album/7DLnvFVKBQog7Iu0fZgrvc"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 196665,
       "name": "The Start",
       "url": "https://open.spotify.com/track/5Jh7h57SHsgmvPLnkN2P76"
+    },
+    {
+      "added_at": "2026-10-15 13:01:21",
+      "album": {
+        "name": "A PERFECT WORLD",
+        "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "A PERFECT WORLD",
+      "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
     },
     {
       "added_at": "2026-10-15 13:01:21",
@@ -1619,38 +1635,6 @@
     {
       "added_at": "2026-10-15 13:01:21",
       "album": {
-        "name": "A PERFECT WORLD",
-        "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "A PERFECT WORLD",
-      "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
-    },
-    {
-      "added_at": "2026-10-15 13:01:21",
-      "album": {
-        "name": "I Need My Woman",
-        "url": "https://open.spotify.com/album/7kwcsiuZPkYrgVIr4SM7im"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 265451,
-      "name": "I Need My Woman",
-      "url": "https://open.spotify.com/track/0xdc0Erm5n6Dsvhp6EYMTS"
-    },
-    {
-      "added_at": "2026-10-15 13:01:21",
-      "album": {
         "name": "I Used to Kill",
         "url": "https://open.spotify.com/album/5LTyhdL10LyFTLrNxLiiuJ"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 214956,
       "name": "I Used to Kill",
       "url": "https://open.spotify.com/track/4mOt7GoUAe3UdNCJrVFmgm"
+    },
+    {
+      "added_at": "2026-10-15 13:01:21",
+      "album": {
+        "name": "I Need My Woman",
+        "url": "https://open.spotify.com/album/7kwcsiuZPkYrgVIr4SM7im"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 265451,
+      "name": "I Need My Woman",
+      "url": "https://open.spotify.com/track/0xdc0Erm5n6Dsvhp6EYMTS"
     },
     {
       "added_at": "2026-10-15 13:01:21",

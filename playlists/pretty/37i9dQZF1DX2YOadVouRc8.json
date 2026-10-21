@@ -1,13 +1,29 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 50525,
+  "num_followers": 50544,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGe13NDQH9gLUWAutXJgoxs4Tc1J",
+  "snapshot_id": "AAAAABeiwFMciOOe5r+v/TfQANDcMXNu",
   "tracks": [
+    {
+      "added_at": "2026-10-16 00:16:52",
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/7hiRlw64LXcHpGAVJ6eUzv"
+    },
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 166150,
       "name": "B4 B4 (with Mayorkun & FOLA)",
       "url": "https://open.spotify.com/track/37BTNKEaW6aUvsKH3O2UUt"
-    },
-    {
-      "added_at": "2026-10-16 00:16:52",
-      "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/7hiRlw64LXcHpGAVJ6eUzv"
     },
     {
       "added_at": "2026-10-16 00:16:52",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
-        "name": "BROWN (The Chocolate Edition)",
-        "url": "https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 232736,
-      "name": "Man On A Mission (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep"
-    },
-    {
-      "added_at": "2026-10-16 00:16:52",
-      "album": {
         "name": "ZUKO!",
         "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 171436,
       "name": "GODDESS (feat. Lojay)",
       "url": "https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM"
+    },
+    {
+      "added_at": "2026-10-16 00:16:52",
+      "album": {
+        "name": "BROWN (The Chocolate Edition)",
+        "url": "https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 232736,
+      "name": "Man On A Mission (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep"
     },
     {
       "added_at": "2026-10-16 00:16:52",
@@ -947,78 +947,6 @@
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
-        "name": "Intentions (feat. Urban Chords)",
-        "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
-      },
-      "artists": [
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        },
-        {
-          "name": "Urban Chords",
-          "url": "https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "Intentions (feat. Urban Chords)",
-      "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
-    },
-    {
-      "added_at": "2026-10-16 00:16:52",
-      "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 106105,
-      "name": "CAN JUICE",
-      "url": "https://open.spotify.com/track/3Lty2YgO8rYeaZyiCrLedq"
-    },
-    {
-      "added_at": "2026-10-16 00:16:52",
-      "album": {
-        "name": "365 Days",
-        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188041,
-      "name": "365 Days",
-      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
-    },
-    {
-      "added_at": "2026-10-16 00:16:52",
-      "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 159994,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz"
-    },
-    {
-      "added_at": "2026-10-16 00:16:52",
-      "album": {
         "name": "Top Swag",
         "url": "https://open.spotify.com/album/7kmtp8xQRcKiHEdNWelgCW"
       },
@@ -1039,6 +967,78 @@
       "duration_ms": 197777,
       "name": "Top Swag",
       "url": "https://open.spotify.com/track/7Dj8uoNSgsnJiNvCfN2jdy"
+    },
+    {
+      "added_at": "2026-10-16 00:16:52",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 106105,
+      "name": "CAN JUICE",
+      "url": "https://open.spotify.com/track/3Lty2YgO8rYeaZyiCrLedq"
+    },
+    {
+      "added_at": "2026-10-16 00:16:52",
+      "album": {
+        "name": "Intentions (feat. Urban Chords)",
+        "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "Urban Chords",
+          "url": "https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Intentions (feat. Urban Chords)",
+      "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
+    },
+    {
+      "added_at": "2026-10-16 00:16:52",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 159994,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz"
+    },
+    {
+      "added_at": "2026-10-16 00:16:52",
+      "album": {
+        "name": "365 Days",
+        "url": "https://open.spotify.com/album/6vJGlGiLYhrPHJ7WE2cSSH"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 188041,
+      "name": "365 Days",
+      "url": "https://open.spotify.com/track/4EVkM3HQSj0oDxoHzdbx03"
     },
     {
       "added_at": "2026-10-16 00:16:52",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-10-16 00:16:52",
       "album": {
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 152869,
+      "name": "ONAZO!",
+      "url": "https://open.spotify.com/track/6aRhkPzTCrSGrDZJEUvtBM"
+    },
+    {
+      "added_at": "2026-10-16 00:16:52",
+      "album": {
         "name": "ONE CALL",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 158712,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
-    },
-    {
-      "added_at": "2026-10-16 00:16:52",
-      "album": {
-        "name": "ZUKO!",
-        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 152869,
-      "name": "ONAZO!",
-      "url": "https://open.spotify.com/track/6aRhkPzTCrSGrDZJEUvtBM"
     },
     {
       "added_at": "2026-10-16 00:16:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > GRECAS, Estopa, Fontaines D.C\. con ROSALÍA,  Nyno Vargas, mafalda cardenal y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,498 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,487 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 74 | [Making Time](https://open.spotify.com/track/2ugaCgUAfAzzIC7XyHJW9m) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Making Time](https://open.spotify.com/album/79TB7PuEJjs4lMKR2b1Zwd) | 3:28 |
 | 75 | [black entertaiNMENT \(feat\. Serious Klein\)](https://open.spotify.com/track/2RJ4mLwL01w14jLt4zSKR6) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O), [Serious Klein](https://open.spotify.com/artist/118HlFjDgUCku033j3YD81) | [Piks.](https://open.spotify.com/album/12sbriQIi8xgJLyfpzKiCa) | 3:15 |
 
-Snapshot ID: `AAAAANzsZJrhUJWjQ5cWUIBzZKeUZFCR`
+Snapshot ID: `AAAAAHarWGq1h4zjFI5QDpJMazNkgHCs`

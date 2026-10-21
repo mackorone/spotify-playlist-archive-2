@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Angèle,  RnBoi, Tate McRae et La Fouine x La Mano 1.9 au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,987 likes - 103 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,941 likes - 103 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 102 | [Making Time](https://open.spotify.com/track/2ugaCgUAfAzzIC7XyHJW9m) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Making Time](https://open.spotify.com/album/79TB7PuEJjs4lMKR2b1Zwd) | 3:28 |
 | 103 | [black entertaiNMENT \(feat\. Serious Klein\)](https://open.spotify.com/track/2RJ4mLwL01w14jLt4zSKR6) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O), [Serious Klein](https://open.spotify.com/artist/118HlFjDgUCku033j3YD81) | [Piks.](https://open.spotify.com/album/12sbriQIi8xgJLyfpzKiCa) | 3:15 |
 
-Snapshot ID: `AAAAAI/SKnkZXpbcIyv9FfkXOgT8/RIn`
+Snapshot ID: `AAAAAHtQLsF01dDQXMa70EItXvqJIwWe`

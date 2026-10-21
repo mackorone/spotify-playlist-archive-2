@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 172000,
       "name": "AGAINST ALL",
       "url": "https://open.spotify.com/track/3klqwu80XOZBszq7TS214C"
@@ -23132,7 +23132,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 169846,
       "name": "GEN Z",
       "url": "https://open.spotify.com/track/4MNXP9RbzehazE3ZwyWrKJ"
@@ -33432,7 +33432,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 213120,
       "name": "LETE LETE",
       "url": "https://open.spotify.com/track/6wNjJ10ZAdbyp5LzhOPsEh"
@@ -52688,7 +52688,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 229714,
       "name": "Savvato",
       "url": "https://open.spotify.com/track/0j7zV0njYYnzBGSZHcFCib"
@@ -55547,6 +55547,28 @@
     },
     {
       "album": {
+        "name": "Xeria Ston Theo",
+        "url": "https://open.spotify.com/album/1CPppjW6z5gk0YCkrvPZTi"
+      },
+      "artists": [
+        {
+          "name": "Orestis Ntantos",
+          "url": "https://open.spotify.com/artist/0ywXBvMabVdbaY3UtsnBN8"
+        },
+        {
+          "name": "Mariana Katsimicha",
+          "url": "https://open.spotify.com/artist/3UiDrccF5BtDQWf2JYkzPY"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224623,
+      "name": "Sproxno Ti Mera Gia Na Vgei",
+      "url": "https://open.spotify.com/track/62qoL8BaHLjhSc519sByh8"
+    },
+    {
+      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
@@ -57760,7 +57782,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Tarantula",
       "url": "https://open.spotify.com/track/6HT6yixcVqYieGZXBDwrOY"
@@ -63236,7 +63258,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 151714,
       "name": "Via Sth Via",
       "url": "https://open.spotify.com/track/5OsHp2IiYxJdajcc1qaeZr"
@@ -65160,7 +65182,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 169523,
       "name": "Xeno Nisi",
       "url": "https://open.spotify.com/track/7yzcbzhDUt0MACVK6uEz6f"

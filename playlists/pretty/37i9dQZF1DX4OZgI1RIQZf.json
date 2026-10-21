@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 140999,
+  "num_followers": 141009,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO8xh2PIo7+f4gDFutPZmh8oqCG+",
+  "snapshot_id": "AAAAALb28JciI3H2N8Gi5YTNrvjAC6ts",
   "tracks": [
     {
       "added_at": "2026-08-28 07:24:22",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Friendly Fires",
-        "url": "https://open.spotify.com/album/2IYQugcYGspBIJRz67Ppft"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "Skeleton Boy",
-      "url": "https://open.spotify.com/track/7nNyOfMS79SwXWum8XHnJa"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "One Thousand Pictures",
         "url": "https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Call Me The Witch",
-        "url": "https://open.spotify.com/album/0yfHcJzLqipWIvB8KPHTnz"
+        "name": "Friendly Fires",
+        "url": "https://open.spotify.com/album/2IYQugcYGspBIJRz67Ppft"
       },
       "artists": [
         {
-          "name": "l\u00f9isa",
-          "url": "https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa"
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
         }
       ],
-      "duration_ms": 186151,
-      "name": "Call Me The Witch",
-      "url": "https://open.spotify.com/track/3xQG9PIAhv20rO1tusH380"
+      "duration_ms": 213640,
+      "name": "Skeleton Boy",
+      "url": "https://open.spotify.com/track/7nNyOfMS79SwXWum8XHnJa"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -647,6 +631,22 @@
       "duration_ms": 158680,
       "name": "The Witch",
       "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Call Me The Witch",
+        "url": "https://open.spotify.com/album/0yfHcJzLqipWIvB8KPHTnz"
+      },
+      "artists": [
+        {
+          "name": "l\u00f9isa",
+          "url": "https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa"
+        }
+      ],
+      "duration_ms": 186151,
+      "name": "Call Me The Witch",
+      "url": "https://open.spotify.com/track/3xQG9PIAhv20rO1tusH380"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Holiday in Lily Dale",
-        "url": "https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ"
-      },
-      "artists": [
-        {
-          "name": "Get Well Soon",
-          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
-        }
-      ],
-      "duration_ms": 293901,
-      "name": "Holiday in Lily Dale",
-      "url": "https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Transangelic Exodus",
         "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 289000,
       "name": "Suck the Blood from My Wound",
       "url": "https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Holiday in Lily Dale",
+        "url": "https://open.spotify.com/album/1S70ipYvTPlGMGVY44JxzZ"
+      },
+      "artists": [
+        {
+          "name": "Get Well Soon",
+          "url": "https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s"
+        }
+      ],
+      "duration_ms": 293901,
+      "name": "Holiday in Lily Dale",
+      "url": "https://open.spotify.com/track/2EPP24G3UlFz3zxZZgTtlQ"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
+        "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
+        "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 215179,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
         "name": "Carry On The Grudge",
         "url": "https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 191040,
       "name": "To Lose My Life",
       "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
-        "name": "Plastic Surgery Disasters/In God We Trust, Inc.",
-        "url": "https://open.spotify.com/album/7vtq4mlZSC1HC4a6UdcVug"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 215179,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/4QL6epCx6rlUbDG4TF3sj9"
     },
     {
       "added_at": "2026-08-28 07:24:22",

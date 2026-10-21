@@ -45709,6 +45709,28 @@
     },
     {
       "album": {
+        "name": "Pime\u00e4 onni",
+        "url": "https://open.spotify.com/album/36DfpgD5GqVPND7t4cQ4bt"
+      },
+      "artists": [
+        {
+          "name": "Jippu",
+          "url": "https://open.spotify.com/artist/0KYGvSXrGDHlExTpandhct"
+        },
+        {
+          "name": "Samuli Edelmann",
+          "url": "https://open.spotify.com/artist/1Z6uN0tVLoKb8RIqHQzdSu"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231506,
+      "name": "Pime\u00e4 onni - Sugared",
+      "url": "https://open.spotify.com/track/1AJvFRnoOLDVuRRekmh6Z2"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl: The Encore",
         "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
       },
@@ -66268,7 +66290,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 135464,
       "name": "W",
       "url": "https://open.spotify.com/track/2vrAiDBNyQA040lLd9cs6z"

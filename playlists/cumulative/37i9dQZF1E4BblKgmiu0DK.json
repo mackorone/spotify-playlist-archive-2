@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, Bif Naked, Cherri Bomb and more",
+  "description": "With Die Mannequin, Cherri Bomb, The Rumours and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -2944,7 +2944,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 187366,
       "name": "Damage Is Done",
       "url": "https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs"
@@ -2998,7 +2998,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 191240,
       "name": "Dead Honey",
       "url": "https://open.spotify.com/track/1UClxw7v1bRhB6GpoVmO3O"
@@ -3218,7 +3218,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 253846,
       "name": "Divine",
       "url": "https://open.spotify.com/track/50S1t4twWPp2FgUAhZZkRc"
@@ -3564,7 +3564,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 167786,
       "name": "Drawing a Blank",
       "url": "https://open.spotify.com/track/4uq8q972ePu8YT6cy2eTgj"
@@ -3618,7 +3618,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 211140,
       "name": "Drown",
       "url": "https://open.spotify.com/track/6XEmxbPWZN7JbZ230dPLkX"
@@ -3870,7 +3870,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 202133,
       "name": "Every Girl",
       "url": "https://open.spotify.com/track/4C4oQjntCiPjPltwKoSll7"
@@ -4458,7 +4458,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 232621,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6jzw4EEnXgI2nrpYRrz6qG"
@@ -4530,7 +4530,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 195146,
       "name": "Fuck You 2",
       "url": "https://open.spotify.com/track/3lOMHsQnZ5E6XXqz8fEMPD"
@@ -4674,7 +4674,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 205311,
       "name": "Get By",
       "url": "https://open.spotify.com/track/11dav0PkNPDaOLeIJYzIvZ"
@@ -4782,7 +4782,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 145454,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/2sKjgZiOUGoiflC6eo1UPg"
@@ -5142,7 +5142,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 178466,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
@@ -5221,6 +5221,24 @@
     },
     {
       "album": {
+        "name": "Harder To Say",
+        "url": "https://open.spotify.com/album/0yGdpFXQ8mZTW1RadX8Dul"
+      },
+      "artists": [
+        {
+          "name": "Louise Aubrie",
+          "url": "https://open.spotify.com/artist/7p7Vqfnte6hZbTIQxrZMmx"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232672,
+      "name": "Harder To Say",
+      "url": "https://open.spotify.com/track/3Rz8N4GDONB8ttE4HSpL3R"
+    },
+    {
+      "album": {
         "name": "hate u right back!",
         "url": "https://open.spotify.com/album/6hPY79Bd6vKItp4LkzOyJw"
       },
@@ -5286,7 +5304,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 216693,
       "name": "Headstone",
       "url": "https://open.spotify.com/track/3bQncwb8OmzEnY94GiqJB9"
@@ -5304,7 +5322,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 226117,
       "name": "Hear Me Break",
       "url": "https://open.spotify.com/track/5YHeqtTgcGW19SOZA1ySB4"
@@ -5722,7 +5740,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 161013,
       "name": "Hot Tonight",
       "url": "https://open.spotify.com/track/6DJ7CDYlN9XcWuUUf71ZDT"
@@ -5812,7 +5830,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 177243,
       "name": "Howl at the Moon",
       "url": "https://open.spotify.com/track/2QMCDAyludxNL3zPuqiLF8"
@@ -6934,7 +6952,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 159944,
       "name": "Keep Diggin",
       "url": "https://open.spotify.com/track/2e1L8kmgviwZ1mcgqWsoxC"
@@ -7294,7 +7312,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -8480,7 +8498,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-05",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -8646,7 +8664,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 208375,
       "name": "My Size",
       "url": "https://open.spotify.com/track/5JA4gqlKDV5BeVdI6g3eEs"
@@ -9784,7 +9802,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 199800,
       "name": "Overthrow Me",
       "url": "https://open.spotify.com/track/1QpMTtJQeslslYpPrL02DJ"
@@ -11168,7 +11186,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 166891,
       "name": "Short Piece",
       "url": "https://open.spotify.com/track/373esSRWQHKlQk08h75kzI"
@@ -11222,7 +11240,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 159914,
       "name": "Shrivel/Shrink",
       "url": "https://open.spotify.com/track/0bErIJW6hWVkOW8BIHMCNK"
@@ -11352,7 +11370,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 172000,
       "name": "So Annoying",
       "url": "https://open.spotify.com/track/4WY8gGOm7OQqO0iaMX7vml"
@@ -11658,7 +11676,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 169181,
       "name": "Starting Over Again",
       "url": "https://open.spotify.com/track/6qw1pf05lD4EAUofujvtUZ"
@@ -11748,7 +11766,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -11784,7 +11802,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 175435,
       "name": "Stfu",
       "url": "https://open.spotify.com/track/2pfrfu9M4ynsEWA0bUAoc2"
@@ -12202,7 +12220,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 145544,
       "name": "Take Me Shake Me",
       "url": "https://open.spotify.com/track/5rdizXWkKOJwxtacJqUHT8"
@@ -12458,7 +12476,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -13438,7 +13456,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 177890,
       "name": "Watching You Watching Her",
       "url": "https://open.spotify.com/track/7G8eGrSjdXxAjbHWQsUUNR"
@@ -13456,7 +13474,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 253136,
       "name": "We Should Never Be Alone",
       "url": "https://open.spotify.com/track/4brZGwllzw61JLPFM7hnbt"
@@ -14126,7 +14144,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 224811,
       "name": "Your Ex-Girlfriend",
       "url": "https://open.spotify.com/track/3RPjiDsKLrzcNRAYUCnKPa"

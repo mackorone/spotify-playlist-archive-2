@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Ski Aggu, Giant Rooks, Paula Hartmann, The Chainsmokers, Helene Fischer & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,596 likes - 92 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,539 likes - 92 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 91 | [Pretty Girl](https://open.spotify.com/track/4TXeZhDInJT7osQTazk7Tt) | [Queen Mahoro](https://open.spotify.com/artist/4hxPH9nqIhqRQVaXwNeevB) | [Pretty Girl](https://open.spotify.com/album/08k611hM5Bgd1GVb6SVgey) | 2:43 |
 | 92 | [Material zum Weglassen](https://open.spotify.com/track/0plqg01uau0iZ898maCn9E) | [Frittenbude](https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk), [Herrenmagazin](https://open.spotify.com/artist/0jjCQcyzvVgiT6FyrYvDUl) | [Raveland](https://open.spotify.com/album/37sYAL3aXgIMUa2iLnEdfa) | 3:27 |
 
-Snapshot ID: `AAAAAO6xxlkdzWmet6dRlvE5GXvof2Lp`
+Snapshot ID: `AAAAAArVDtSnr6Ior/W398fSXNiS8T/I`

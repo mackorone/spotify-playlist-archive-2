@@ -1,12 +1,12 @@
 {
   "description": "On October 3rd he asked me what day it was",
-  "num_followers": 633838,
+  "num_followers": 633931,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMb+ir0V1mHVromB7NwIUSad0+a6",
+  "snapshot_id": "AAAAAHByFaaV0PvaSzmcLvWItvkURnFc",
   "tracks": [
     {
       "added_at": "2024-10-03 04:00:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 211066,
+      "name": "...Baby One More Time",
+      "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -247,18 +263,18 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "...Baby One More Time (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
         }
       ],
-      "duration_ms": 211066,
-      "name": "...Baby One More Time",
-      "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+      "duration_ms": 258893,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -279,18 +295,18 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
       "artists": [
         {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 258893,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM"
+      "duration_ms": 244506,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -307,22 +323,6 @@
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. JA\u0178-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Under Construction",
-        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "Nina Sky",
         "url": "https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
+        "name": "The Slim Shady LP",
+        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 268400,
+      "name": "My Name Is",
+      "url": "https://open.spotify.com/track/75IN3CtuZwTHTnZvYM4qnJ"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
         "name": "Love. Angel. Music. Baby.",
         "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "The Slim Shady LP",
-        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 268400,
-      "name": "My Name Is",
-      "url": "https://open.spotify.com/track/75IN3CtuZwTHTnZvYM4qnJ"
+      "duration_ms": 263226,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "The Spirit Room",
         "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 214826,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Greetings From Imrie House (U.S. Version)",
-        "url": "https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ"
-      },
-      "artists": [
-        {
-          "name": "The Click Five",
-          "url": "https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Just the Girl",
-      "url": "https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
         "name": "This Is The End: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 224960,
       "name": "Everybody (Backstreet's Back) - Radio Edit",
       "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
+        "name": "Greetings From Imrie House (U.S. Version)",
+        "url": "https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ"
+      },
+      "artists": [
+        {
+          "name": "The Click Five",
+          "url": "https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Just the Girl",
+      "url": "https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa"
     },
     {
       "added_at": "2024-07-12 21:13:59",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
+        "name": "Willa Was Here",
+        "url": "https://open.spotify.com/album/3QQsh7NGbYK1Igxenqi4MZ"
+      },
+      "artists": [
+        {
+          "name": "Willa Ford",
+          "url": "https://open.spotify.com/artist/0kuEP1E9k3WBEwMKwEmp9u"
+        }
+      ],
+      "duration_ms": 183560,
+      "name": "I Wanna Be Bad",
+      "url": "https://open.spotify.com/track/6f67kjvFmXZTA47K8JNVBU"
+    },
+    {
+      "added_at": "2024-07-12 21:13:59",
+      "album": {
         "name": "PCD",
         "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 229360,
       "name": "Beep",
       "url": "https://open.spotify.com/track/5TXNLJ2EENAt3Tf9MX4kT2"
-    },
-    {
-      "added_at": "2024-07-12 21:13:59",
-      "album": {
-        "name": "Willa Was Here",
-        "url": "https://open.spotify.com/album/3QQsh7NGbYK1Igxenqi4MZ"
-      },
-      "artists": [
-        {
-          "name": "Willa Ford",
-          "url": "https://open.spotify.com/artist/0kuEP1E9k3WBEwMKwEmp9u"
-        }
-      ],
-      "duration_ms": 183560,
-      "name": "I Wanna Be Bad",
-      "url": "https://open.spotify.com/track/6f67kjvFmXZTA47K8JNVBU"
     },
     {
       "added_at": "2024-07-12 21:13:59",

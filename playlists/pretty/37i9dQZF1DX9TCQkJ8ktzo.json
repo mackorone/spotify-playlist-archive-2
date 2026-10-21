@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 60s! Cover: Armando Manzanero",
-  "num_followers": 51982,
+  "num_followers": 51985,
   "original_name": "Los 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJbDZhXun/wJH+WyYH0FRUszr0aP",
+  "snapshot_id": "AAAAAP5+VIpOZHwaJCC8DjXfoB6dc01B",
   "tracks": [
     {
       "added_at": "2026-10-02 20:37:56",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-10-02 20:37:56",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Sonora Santanera",
-        "url": "https://open.spotify.com/album/6poi9pfnqjVUt5EZtWEUA4"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 163493,
-      "name": "De Mil Maneras",
-      "url": "https://open.spotify.com/track/23SdQDuoyHarQwRC95Xo6c"
-    },
-    {
-      "added_at": "2026-10-02 20:37:56",
-      "album": {
         "name": "Guantanamera",
         "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 193720,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
+    },
+    {
+      "added_at": "2026-10-02 20:37:56",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Sonora Santanera",
+        "url": "https://open.spotify.com/album/6poi9pfnqjVUt5EZtWEUA4"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 163493,
+      "name": "De Mil Maneras",
+      "url": "https://open.spotify.com/track/23SdQDuoyHarQwRC95Xo6c"
     },
     {
       "added_at": "2026-10-02 20:37:56",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-10-02 20:37:56",
       "album": {
-        "name": "15 EXITOS",
-        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "El Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
-    },
-    {
-      "added_at": "2026-10-02 20:37:56",
-      "album": {
         "name": "Los \u00c9xitos en Espa\u00f1ol y Franc\u00e9s",
         "url": "https://open.spotify.com/album/6wjhvF4EuYuZFcs5PpKzRn"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2026-10-02 20:37:56",
       "album": {
-        "name": "Cuidado",
-        "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
+        "name": "15 EXITOS",
+        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 244493,
-      "name": "Agua Con Sal",
-      "url": "https://open.spotify.com/track/1AlTQ6xBhe1qfEQ9zvUDth"
+      "duration_ms": 166066,
+      "name": "El Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
     },
     {
       "added_at": "2026-10-02 20:37:56",
@@ -315,6 +299,22 @@
       "duration_ms": 179266,
       "name": "Cre\u00ed",
       "url": "https://open.spotify.com/track/5oJ4XY3eheyLf9PZo3vzQv"
+    },
+    {
+      "added_at": "2026-10-02 20:37:56",
+      "album": {
+        "name": "Cuidado",
+        "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 244493,
+      "name": "Agua Con Sal",
+      "url": "https://open.spotify.com/track/1AlTQ6xBhe1qfEQ9zvUDth"
     },
     {
       "added_at": "2026-10-02 20:37:56",

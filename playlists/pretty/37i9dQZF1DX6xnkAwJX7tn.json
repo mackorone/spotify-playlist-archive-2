@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s.",
-  "num_followers": 1480439,
+  "num_followers": 1480705,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAP3qgwq8whIlqJbEf9GTMm9eq1Y",
+  "snapshot_id": "AAAAAO8xG4st10fD34ohB4XVdjEkYIxv",
   "tracks": [
     {
       "added_at": "2024-07-09 02:34:23",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
       "artists": [
         {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 215773,
-      "name": "She Drives Me Crazy",
-      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
+      "duration_ms": 233270,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
         }
       ],
-      "duration_ms": 233270,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+      "duration_ms": 215773,
+      "name": "She Drives Me Crazy",
+      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL"
       },
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+        "name": "True (Special Edition)",
+        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
         }
       ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
+      "duration_ms": 290720,
+      "name": "Gold - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1355,22 +1371,6 @@
       "duration_ms": 208653,
       "name": "Fight For Your Right",
       "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "True (Special Edition)",
-        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 290720,
-      "name": "Gold - 2003 Remaster",
-      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "The Very Best Of Kool & The Gang",
+        "url": "https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "Get Down On It - Single Version",
+      "url": "https://open.spotify.com/track/4yKZACkuudvfd600H2dQie"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "Private Eyes (Expanded Edition)",
         "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "The Very Best Of Kool & The Gang",
-        "url": "https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf"
+        "name": "Dirty Cash (Money Talks)",
+        "url": "https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs"
       },
       "artists": [
         {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+          "name": "The Adventures Of Stevie V",
+          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
         }
       ],
-      "duration_ms": 212906,
-      "name": "Get Down On It - Single Version",
-      "url": "https://open.spotify.com/track/4yKZACkuudvfd600H2dQie"
+      "duration_ms": 243133,
+      "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
+      "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1519,22 +1535,6 @@
       "duration_ms": 228266,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "Dirty Cash (Money Talks)",
-        "url": "https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs"
-      },
-      "artists": [
-        {
-          "name": "The Adventures Of Stevie V",
-          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
-      "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Forever Your Girl",
-        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
-      },
-      "artists": [
-        {
-          "name": "Paula Abdul",
-          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "Straight Up",
-      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Hot, Cool & Vicious",
         "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 272133,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Forever Your Girl",
+        "url": "https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu"
+      },
+      "artists": [
+        {
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Straight Up",
+      "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "...But Seriously (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 291586,
-      "name": "Something Happened on the Way to Heaven - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4ziqqoW1o3P5EhNqK6CPb1"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 268533,
       "name": "Papa Don't Preach",
       "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 291586,
+      "name": "Something Happened on the Way to Heaven - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4ziqqoW1o3P5EhNqK6CPb1"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 263106,
-      "name": "Sussudio - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "The Age of Consent",
         "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 243773,
       "name": "Why ?",
       "url": "https://open.spotify.com/track/7vOLJwP5O0woITaIQWOoUX"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "Sussudio - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "The Lexicon Of Love",
         "url": "https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 209160,
       "name": "The Look Of Love, Pt.1",
       "url": "https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/2BgWv15eKCDfiubKo6o76k"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
-      },
-      "artists": [
-        {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "The Very Best of Billy Ocean",
         "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 284373,
       "name": "Get Outta My Dreams, Get Into My Car",
       "url": "https://open.spotify.com/track/2D4D3hiOf5U0W6SvJoCQph"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
+      },
+      "artists": [
+        {
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "Kilroy Was Here",
+        "url": "https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "duration_ms": 328706,
+      "name": "Mr. Roboto",
+      "url": "https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "Get Close (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
       },
@@ -2367,22 +2383,6 @@
       "duration_ms": 227626,
       "name": "Don't Get Me Wrong - 2007 Remaster",
       "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "A Night To Remember",
-        "url": "https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 251506,
-      "name": "I Drove All Night",
-      "url": "https://open.spotify.com/track/3J0AoQhAufniMrznCRJASD"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2403,18 +2403,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Kilroy Was Here",
-        "url": "https://open.spotify.com/album/0fRptUxZ5A1EAJww9bcqu6"
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz"
       },
       "artists": [
         {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 328706,
-      "name": "Mr. Roboto",
-      "url": "https://open.spotify.com/track/7C0rG4oWO7VeZcffyW1sK9"
+      "duration_ms": 251506,
+      "name": "I Drove All Night",
+      "url": "https://open.spotify.com/track/3J0AoQhAufniMrznCRJASD"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2435,18 +2435,18 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Let the Music Play",
-        "url": "https://open.spotify.com/album/1HS8Jkoaa1BweXfJ2hwLcL"
+        "name": "Paradise Theatre",
+        "url": "https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF"
       },
       "artists": [
         {
-          "name": "Shannon",
-          "url": "https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB"
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
         }
       ],
-      "duration_ms": 213824,
-      "name": "Let the Music Play",
-      "url": "https://open.spotify.com/track/6b9hm8mvZ2KH7Fl7LLA5ct"
+      "duration_ms": 271266,
+      "name": "Too Much Time On My Hands",
+      "url": "https://open.spotify.com/track/4hWUOIDHda9XOb1zDchftP"
     }
   ],
   "unique_name": "80s Party",

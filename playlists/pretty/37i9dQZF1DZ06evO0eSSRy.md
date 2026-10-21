@@ -8,8 +8,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [What You Want](https://open.spotify.com/track/1W0cKIoIaG8nS2VgGYRlVi) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [What You Want](https://open.spotify.com/album/2eaPOiqTtREnX68IAAnGxd) | 3:23 |
-| 2 | [Heal](https://open.spotify.com/track/2g6xTb76TSiERqOy1Ttsxe) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [RITA](https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww) | 2:43 |
+| 1 | [Heal](https://open.spotify.com/track/2g6xTb76TSiERqOy1Ttsxe) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [RITA](https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww) | 2:43 |
+| 2 | [What You Want](https://open.spotify.com/track/1W0cKIoIaG8nS2VgGYRlVi) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [What You Want](https://open.spotify.com/album/2eaPOiqTtREnX68IAAnGxd) | 3:23 |
 | 3 | [Vapor Cloud](https://open.spotify.com/track/796tohSUErTI6MUojnv4Rc) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Vapor Cloud](https://open.spotify.com/album/41FPKRCtST0yaiWeHc6zwM) | 3:10 |
 | 4 | [Still There](https://open.spotify.com/track/7Dux06ZgwiPe0LHb4WAkGP) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 3:09 |
 | 5 | [Wait For Dark](https://open.spotify.com/track/5LCYfYYsJN96vzy9a8SqIY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Wait For Dark](https://open.spotify.com/album/2madKsttGJIXf3yTMIS5oE) | 4:18 |

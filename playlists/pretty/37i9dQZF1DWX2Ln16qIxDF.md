@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Canciones que tenés que escuchar  📸 Lali
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,199,734 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,199,709 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 75 | [Hombres de Papel](https://open.spotify.com/track/39qiaHpKEl28rkheH8BbYt) | [143leti](https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr), [Roxxee](https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg) | [Hombres de Papel](https://open.spotify.com/album/0ZsjJIwGDuV4FIGMMrrTlT) | 2:04 |
 | 76 | [me asfixia LA CIUDAD](https://open.spotify.com/track/51hMMibOQhxk6kWWZdlL7m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [me asfixia LA CIUDAD](https://open.spotify.com/album/0DpCVfdtF5alKkKMKLCG8V) | 2:20 |
 | 77 | [Vida Mala](https://open.spotify.com/track/3pwUgRjmvwWKOUwOsjAsFa) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Vida Mala](https://open.spotify.com/album/1nqwq6c5mwnpjeSykPebpH) | 3:12 |
-| 78 | [amapola](https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [amapola](https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx) | 3:00 |
-| 79 | [sur](https://open.spotify.com/track/0IAYKP2nXhO5ozI79bscGj) | [Maia Reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [de visita](https://open.spotify.com/album/3jbDVu4ZdnA9j40ADDBWDx) | 3:13 |
+| 78 | [amapola](https://open.spotify.com/track/34oh16FHG28sYrorhAmQ6m) | [maia reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [amapola](https://open.spotify.com/album/0wON3bJcOk6NqPJqzfFWfx) | 3:00 |
+| 79 | [sur](https://open.spotify.com/track/0IAYKP2nXhO5ozI79bscGj) | [maia reficco](https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM) | [de visita](https://open.spotify.com/album/3jbDVu4ZdnA9j40ADDBWDx) | 3:13 |
 | 80 | [El Árbol](https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [El Árbol](https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v) | 3:01 |
 | 81 | [Haditas](https://open.spotify.com/track/6Rqc7r9cZ7IG8c8xvPyQvK) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Díscolo](https://open.spotify.com/album/22MYjYwCITSV9lJQfkPiJw) | 3:03 |
 | 82 | [Tus Errores](https://open.spotify.com/track/57JOyleJlwAZRzB5LQQQVf) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Otra Que Arde](https://open.spotify.com/album/3BI8faWtulqixNf6JaGhGj) | 3:06 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 98 | [Desde Lo Profundo](https://open.spotify.com/track/27hRMC9jWzFGR6D57EtuQe) | [Joaco Burgos](https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A) | [Desde Lo Profundo](https://open.spotify.com/album/50mpx6WAcMgGAmjPt169pJ) | 3:23 |
 | 99 | [OTRA NOCHE MÁS](https://open.spotify.com/track/28lGd1vKd5v8UPEvccdbsT) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [OTRA NOCHE MÁS](https://open.spotify.com/album/0fp4aihuep4yUtd1CqVGO3) | 2:33 |
 
-Snapshot ID: `AAAAALXKcSCblNx9BUGKa60AWdIA4Lje`
+Snapshot ID: `AAAAABlm9DMujZBUJX4Gz9QTuAXqOTDs`

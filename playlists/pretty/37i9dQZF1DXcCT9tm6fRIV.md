@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,411 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,409 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 39 | [Romance de barrio](https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Manzi, caminos de barro y pampa](https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG) | 3:36 |
 | 40 | [Los Mareados](https://open.spotify.com/track/03bPLvobYz452ePAEksJgY) | [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [Raul Lavié\-Los Elegidos](https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV) | 2:38 |
 | 41 | [Muñeca Brava](https://open.spotify.com/track/52e64XTYEcYdbe6RmTr6a7) | [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Los Cien Barrios Porteños](https://open.spotify.com/album/5mfNbUxufnu0rKy61i3Qzq) | 2:50 |
-| 42 | [Flor de lino \- Live](https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc) | [Horacio Molina](https://open.spotify.com/artist/68swBzVNVKLgWAPFOFkeWs) | [A Pedido](https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9) | 3:31 |
-| 43 | [Un Guiño](https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Un Guiño](https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF) | 2:55 |
+| 42 | [Un Guiño](https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Un Guiño](https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF) | 2:55 |
+| 43 | [Flor de lino \- Live](https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc) | [Horacio Molina](https://open.spotify.com/artist/68swBzVNVKLgWAPFOFkeWs) | [A Pedido](https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9) | 3:31 |
 | 44 | [Pesar](https://open.spotify.com/track/0kVPTk7BfLGDTqYPdOrysr) | [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI), [Pity](https://open.spotify.com/artist/6HD4DyMa0dpNb1TPCWFg2g) | [Pesar](https://open.spotify.com/album/5mpDQEO7EhSLuDrcdZ7Qky) | 4:27 |
 | 45 | [Volvio Una Noche](https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF) | [Hugo Díaz](https://open.spotify.com/artist/45sN1U4xtrQEyzIaOUmavp) | [Tangos](https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow) | 2:57 |
 | 46 | [Si Sos Brujo](https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX) | [Alfredo Gobbi](https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7) | [Si Sos Brujo](https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh) | 3:29 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 70 | [Barrio de Tango \- En Vivo](https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:47 |
 | 71 | [Fruta Amarga](https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:29 |
 | 72 | [Tango Del Angel](https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog) | [Leopoldo Federico y su Orquesta Tipica](https://open.spotify.com/artist/0ILH1dJHi09i2y3kfnj81w) | [Todo Piazzolla](https://open.spotify.com/album/6FQQl99gDEofN8eAJ5FGmO) | 3:16 |
-| 73 | [Tarde](https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Federico Mizrahi](https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 3:41 |
-| 74 | [El Mundo De La Fantasía](https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF) | [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [El Mundo De La Fantasía](https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD) | 3:27 |
+| 73 | [El Mundo De La Fantasía](https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF) | [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [El Mundo De La Fantasía](https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD) | 3:27 |
+| 74 | [Tarde](https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Federico Mizrahi](https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 3:41 |
 | 75 | [Si Tu Quisieras](https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol\. 3: Yuyo Verde](https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT) | 2:13 |
 | 76 | [Barrio de Tango](https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [The Horacio Avilano Guitar Quartet](https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N) | [Doce Milongas de Amor y un Tango Desesperado](https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3) | 3:10 |
-| 77 | [Cualquiera de Estas Noches](https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 3:53 |
-| 78 | [Desencuentro](https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 2:38 |
-| 79 | [Quedemonos Aqui \- En Vivo](https://open.spotify.com/track/6Y0EIzZmLz9zWQineeK6Kz) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Andrés Linetzky](https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH) | [Intimos, Vol\. 1 en vivo en Bebop](https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg) | 3:56 |
+| 77 | [Quedemonos Aqui \- En Vivo](https://open.spotify.com/track/6Y0EIzZmLz9zWQineeK6Kz) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Andrés Linetzky](https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH) | [Intimos, Vol\. 1 en vivo en Bebop](https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg) | 3:56 |
+| 78 | [Cualquiera de Estas Noches](https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 3:53 |
+| 79 | [Desencuentro](https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 2:38 |
 | 80 | [Cafetin](https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Osvaldo Pugliese con Alberto Moran y Roberto Chanel](https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA) | 2:34 |
 
-Snapshot ID: `AAAAADGGku6R8lFn/7qeo0+Aj6mksoyo`
+Snapshot ID: `AAAAABaTfD76exlGoKAG2YVSooSZe8Nz`

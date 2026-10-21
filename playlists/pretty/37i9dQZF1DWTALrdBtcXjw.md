@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,473 likes - 122 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,455 likes - 122 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 19 | [With Just A Word](https://open.spotify.com/track/26sXeAD1FjmUoFjw6os2S0) | [Diego Rivera](https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa) | [With Just A Word](https://open.spotify.com/album/2Oo2IDL5MsYIpGT0BHQkGE) | 5:53 |
 | 20 | [In a Mellow Tone](https://open.spotify.com/track/5vfiFS9j1uiPnteOg81JM1) | [Axel Schlosser Quartet](https://open.spotify.com/artist/1gyU95deycuGxh38euzxip) | [To Satch and Duke](https://open.spotify.com/album/2B6HWXNXmNflTBd3Lj3Z4B) | 5:17 |
 | 21 | [Embraceable You](https://open.spotify.com/track/4RDgqonbCp4dyv9iMYrxsF) | [Atzko Kohashi](https://open.spotify.com/artist/663fDRhznKHDmaCT2lIuro), [Frans Van Der Hoeven](https://open.spotify.com/artist/43UY4tYgs9ksxkJxyowUTe), [Sebastiaan Kaptein](https://open.spotify.com/artist/2pJ8MtliDompiMC7eTKSI8) | [Lujon](https://open.spotify.com/album/1Z8cPX2dIVnagh8Dmtzo9E) | 3:54 |
-| 22 | [This Morning](https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Lennart Ginman](https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX), [Anders Kjellberg](https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98) | [This Morning](https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs) | 5:04 |
+| 22 | [This Morning](https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V) | [Thomas Agergaard](https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8), [Lars Jansson](https://open.spotify.com/artist/21MjSz9LJALu460pQXK1jc), [Anders Kjellberg](https://open.spotify.com/artist/6MtpHE8QO9V568RaqGeSeH), [Lennart Ginman](https://open.spotify.com/artist/4hQGBONASru7DmWSchYuNl) | [This Morning](https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs) | 5:04 |
 | 23 | [Polka Dots and Moonbeams](https://open.spotify.com/track/6eYTj1vrX1hzj8WijBC0sf) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg) | [Twilight](https://open.spotify.com/album/4zjIL7HY1OKA16Pb7puwKl) | 6:05 |
 | 24 | [Laura](https://open.spotify.com/track/0UwLwTTurSDXBzGQCfGno8) | [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3) | [Laura](https://open.spotify.com/album/5f4u1UAeaEXeyxNRwbHcUu) | 4:48 |
 | 25 | [I'll Be Seeing You](https://open.spotify.com/track/55tez5zrk52P4sV6yn3siJ) | [Michael Ragonese](https://open.spotify.com/artist/0EjGd9H6W1MwrxignO2N4w) | [Stracci](https://open.spotify.com/album/6pCgHAbu0Yj4TOwnQ9kqv8) | 6:16 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 121 | [Joy Is Sorrow Unmasked](https://open.spotify.com/track/1no5aBlOtuHcBeY6fWU0Oc) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 4:46 |
 | 122 | [Prelude to a Kiss](https://open.spotify.com/track/5rnQpqWZ1KKJynn5INNh4Y) | [Jeb Patton](https://open.spotify.com/artist/0wYKpSqMDbPDpq2wVxqNgj) | [Preludes](https://open.spotify.com/album/5HZ0VaFyCKZsJgU3ab82T4) | 7:48 |
 
-Snapshot ID: `AAAAAMPjKZdcePwGZV46GnYDeu553ueQ`
+Snapshot ID: `AAAAAL0IIO4VU5yfXq4pxndW0koEYOFg`

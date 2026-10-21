@@ -4450,7 +4450,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 203973,
       "name": "Fronteo",
       "url": "https://open.spotify.com/track/5SE62j47eAyxSOplRGS6st"
@@ -5332,6 +5332,24 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "album": {
+        "name": "Desde Abajo",
+        "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
+      },
+      "artists": [
+        {
+          "name": "Mach & Daddy",
+          "url": "https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8"
+        }
+      ],
+      "date_added": "2026-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177293,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb"
     },
     {
       "album": {

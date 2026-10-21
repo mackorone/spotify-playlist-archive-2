@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-737 songs - 1 day 17 hr 10 min
+739 songs - 1 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [ORANGES](https://open.spotify.com/track/3r9Cxh3C8aYaph5D8lT4cW) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [ORANGES](https://open.spotify.com/album/0TPBV5t6GkkAPYu35zj8aV) | 2:03 | 2023-07-20 | 2024-08-07 |
 | [OTW](https://open.spotify.com/track/6P7TP6ifKNaIp0y59Q3pCF) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [BUFFERING...](https://open.spotify.com/album/5p611tPdHx6106delXBiHv) | 2:52 | 2021-12-07 | 2022-01-08 |
 | [Out Loud](https://open.spotify.com/track/49U21MjHXlWGrXnnDvf19I) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Zhuli](https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz) | [Out Loud](https://open.spotify.com/album/7spOlqAzvR0Qy9fXy6UYXM) | 2:52 | 2023-07-20 | 2024-09-07 |
+| [Out Of Sight, Out Of Mind](https://open.spotify.com/track/6ClI5b3S2i6cK21MsSQnJF) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Odd Boys](https://open.spotify.com/album/6Q5xB8T6rX6zFaKM3sAjVt) | 3:04 | 2026-10-20 |  |
 | [over n over](https://open.spotify.com/track/6TYhK78FWxSMhGZ1lAEjHV) | [Marty Valentine](https://open.spotify.com/artist/7JCYYyIBno1eDpBqI436yk) | [over n over](https://open.spotify.com/album/5BWL5L3fYAzC7BrOCt2Dvj) | 2:12 | 2023-06-16 | 2023-08-18 |
 | [Over the Sun](https://open.spotify.com/track/6zqcYS3RD9SPG9I6u2n4DD) | [Manic Focus](https://open.spotify.com/artist/2xx0ChFyXa0a4S48GAXFUz) | [Over the Sun](https://open.spotify.com/album/3mS2aEDIWw9Fr15ljWJdQT) | 3:09 | 2023-02-03 | 2023-04-01 |
 | [Paradise](https://open.spotify.com/track/3D9gig3g2yGheqkpzjnKnN) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Paradise](https://open.spotify.com/album/5FjrKHMfuMTNnp2SqAUzUN) | 2:39 | 2023-12-12 | 2024-03-23 |
@@ -712,6 +713,7 @@
 | [Weekdays](https://open.spotify.com/track/1fmLw7Ai93hZI7b34NPhyn) | [George Gretton](https://open.spotify.com/artist/2NG92AgykZYQwwuQ479zMo) | [Ordinary Life](https://open.spotify.com/album/4n7CoMmbjWPyMDikoNNFg0) | 3:27 | 2022-09-06 | 2022-10-06 |
 | [Westside](https://open.spotify.com/track/397VHjYaU6hhu78CdPuop7) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Westside](https://open.spotify.com/album/4bND1VOsTwTtVHBcDksry5) | 2:56 | 2023-09-06 | 2023-09-26 |
 | [Whatever You Want](https://open.spotify.com/track/7hlml5x7bmGCjNz408WIrh) | [Zuli Jr.](https://open.spotify.com/artist/01O6qxIrBMxnALWGgrKmJW) | [Whatever You Want](https://open.spotify.com/album/40gxf5OtiUy2XMOUPUiG0m) | 2:38 | 2022-03-17 | 2022-04-19 |
+| [When We're Dancing](https://open.spotify.com/track/0BwJAN2zQWD9Zi42s2Zpso) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [When We're Dancing](https://open.spotify.com/album/4t4fRjRLrBhBOFxHdR4odx) | 3:25 | 2026-10-20 |  |
 | [When You Lose Someone](https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [When You Lose Someone](https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq) | 3:20 | 2022-02-15 | 2022-03-10 |
 | [WHERE2GO](https://open.spotify.com/track/1AymWwYyPX5883XRNnKRnK) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [WHERE2GO](https://open.spotify.com/album/05JpXKWyFLYk3aHOp9tJ5y) | 3:32 | 2023-10-09 | 2024-03-23 |
 | [While My Waves Wonder \- Slow Magic Remix](https://open.spotify.com/track/5D6DcNe4mRDejrA68zyXTH) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [While My Waves Wonder \(Slow Magic Remix\)](https://open.spotify.com/album/2SRBOc1uiyQKVOrWesetuH) | 4:17 | 2022-01-18 | 2022-02-05 |

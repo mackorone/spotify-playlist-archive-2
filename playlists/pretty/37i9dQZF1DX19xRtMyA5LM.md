@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: HIGH SOCIETY, Qlas & Isabèl Usher, Saaff, 3robi & Lijpe, Zack Ink & Vic9 en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,609 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 701,587 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Prada](https://open.spotify.com/track/0kOM96pwJtRFJKP4WPARZD) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK) | [Prada](https://open.spotify.com/album/4emQwPNc2X8LQBOFspxfmf) | 2:00 |
 | 60 | [Macho Man](https://open.spotify.com/track/6dw2b4HlQgeeAuLFMgCOt0) | [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ) | [Macho Man](https://open.spotify.com/album/6aJEpnLt09zGWlK7SMPsRi) | 1:54 |
 
-Snapshot ID: `AAAAAKqvaa+WpXcV+oIlTBZ7qJlJO7Ew`
+Snapshot ID: `AAAAAJpyh/JjqkEciLU2XlO/5/YQfuBi`

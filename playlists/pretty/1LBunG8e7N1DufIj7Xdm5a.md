@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,965 songs - 11 day 5 hr 18 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 287 likes - 4,971 songs - 11 day 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4973,5 +4973,11 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4963 | [Al pairo](https://open.spotify.com/track/2e03RteiwIk5cliJ6OQ7rT) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Verso de amor](https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK) | 2:15 |
 | 4964 | [De ti](https://open.spotify.com/track/0G3RpCIyrivV1Iwslpd4sr) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Verso de amor](https://open.spotify.com/album/54Gb8eFYdCaoPW1trLPtqK) | 2:29 |
 | 4965 | [Warm Bodies](https://open.spotify.com/track/52OQHCO5GpHKMK4V2hHmy8) | [MPC Smoke](https://open.spotify.com/artist/7Dbyx5Qw8XaH8qX86Kh2fQ) | [Blood Soaked Canvas](https://open.spotify.com/album/4CDoRdcgHWUiKiE7gfoKyB) | 2:07 |
+| 4966 | [Annie](https://open.spotify.com/track/33IfycG6dgnlTEkZ9RpcdA) | [Pepi](https://open.spotify.com/artist/1JcqlMEa8HWxcRm8zM5oUR) | [Criminal](https://open.spotify.com/album/3WvTgFusl8GmoIeZujSWM5) | 3:21 |
+| 4967 | [Just Me](https://open.spotify.com/track/4hJNU6qooEa5nD8TLUfAt8) | [Armina Akopyan](https://open.spotify.com/artist/00L4wR1oh5qPogB48a58oV) | [Just Me](https://open.spotify.com/album/3dsjIKRvXh3vUPZ1jOUB9c) | 3:22 |
+| 4968 | [Missing You](https://open.spotify.com/track/4QlbPBnTPhyZDi0vlDGIuN) | [Who's Molly?](https://open.spotify.com/artist/5cdF3kdHKfTkPS9t9778wp) | [Missing You](https://open.spotify.com/album/2N5M8052YhgdZtrO3vUuny) | 2:56 |
+| 4969 | [Do not give up](https://open.spotify.com/track/53PkVboVCwrHpT8VEPlsyn) | [Stephen Dane](https://open.spotify.com/artist/2xYFifG4GUu3m2CKOlJUu3) | [Do not give up](https://open.spotify.com/album/4eKT5ELVX3j07XQbNidxNn) | 3:08 |
+| 4970 | [Blackbird Jesus](https://open.spotify.com/track/6GCQeEusHe8tNtCxDeebp7) | [MX the American](https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU) | [Blackbird Jesus](https://open.spotify.com/album/4rIYQnYsxOaKctx7cROblR) | 3:58 |
+| 4971 | [Neverending](https://open.spotify.com/track/5t32Xg2Aqwc4MKfMCcf244) | [Brother Venus](https://open.spotify.com/artist/45ZPkbeHuBIsgk4fzjmg3R) | [Neverending](https://open.spotify.com/album/0d8H1lT7wVzDmIIgRPbtdY) | 4:38 |
 
-Snapshot ID: `AAAKrU/ZySOqwZj7Hnsvm1LXooxw93NS`
+Snapshot ID: `AAAKs/pZTMcJaySV7uxsxChhaRWClYXK`

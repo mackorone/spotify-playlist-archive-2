@@ -4,7 +4,7 @@
 
 > Our editors’ picks for this year's best\-kept pop secrets\. Cover: Mia Wray
 
-165 songs - 8 hr 33 min
+166 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Drama King](https://open.spotify.com/track/4dlGGvKNYl5uC9bwUZfrqa) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Drama King](https://open.spotify.com/album/6Do69YHGEiFnvLC70QGXW7) | 2:37 | 2023-11-29 | 2024-12-05 |
 | [Earth \(Dradada\)](https://open.spotify.com/track/3waCGj1YKEYeaVs07lbWtX) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Earth \(Dradada\)](https://open.spotify.com/album/5xXILGfkz9CDVg2cV0V4me) | 3:29 | 2025-12-03 |  |
 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-12-04 | 2025-12-04 |
+| [EDEN](https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [EDEN](https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA) | 3:22 | 2025-12-03 |  |
 | [Ego](https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Ego](https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz) | 3:13 | 2025-12-03 |  |
 | [EL ÚNICO](https://open.spotify.com/track/2wuZ3kg5ChBjRKqBYfJ9H7) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:32 | 2024-12-04 | 2025-12-04 |
 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 | 2024-12-04 | 2025-12-04 |
@@ -149,7 +150,7 @@
 | [superstar loser](https://open.spotify.com/track/4eVzhh0Ebb3epXyuhKfGTx) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [brand new girl, brand new machine](https://open.spotify.com/album/44OdCi96s0fPvjDCrFdJ1Q) | 2:54 | 2024-12-04 | 2025-08-18 |
 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 | 2025-12-03 |  |
 | [Tailored by Design](https://open.spotify.com/track/671jBUKxQUrRSQcbjAN4Sm) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Tailored by Design](https://open.spotify.com/album/7gmYvVntAFEqRsBr8OVgnE) | 3:31 | 2024-12-04 | 2025-05-04 |
-| [Talk Me Down](https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Talk Me Down](https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL) | 2:52 | 2025-12-03 |  |
+| [Talk Me Down](https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Talk Me Down](https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL) | 2:52 | 2025-12-03 | 2026-10-21 |
 | [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 | 2025-12-03 |  |
 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 | 2024-12-04 | 2025-12-04 |
 | [the one](https://open.spotify.com/track/6LFPHLubdcAxbP8yZyzHdM) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [the one](https://open.spotify.com/album/2CcZcCkpboZmpITmwfSWfe) | 2:37 | 2025-12-03 |  |

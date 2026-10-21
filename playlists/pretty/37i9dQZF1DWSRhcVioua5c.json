@@ -1,12 +1,12 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 93765,
+  "num_followers": 93780,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOoislHJEIQaIueA2xRqXp2atLzV",
+  "snapshot_id": "AAAAAAJoTNCQWlVczKbQABJGcBGUeYGK",
   "tracks": [
     {
       "added_at": "2026-09-03 15:43:48",
@@ -43,6 +43,22 @@
     {
       "added_at": "2026-09-03 15:43:48",
       "album": {
+        "name": "Signos",
+        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 291040,
+      "name": "Entre La Tierra Y El Cielo",
+      "url": "https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf"
+    },
+    {
+      "added_at": "2026-09-03 15:43:48",
+      "album": {
         "name": "No me sale",
         "url": "https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 208506,
       "name": "No me sale",
       "url": "https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx"
-    },
-    {
-      "added_at": "2026-09-03 15:43:48",
-      "album": {
-        "name": "Signos",
-        "url": "https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 291040,
-      "name": "Entre La Tierra Y El Cielo",
-      "url": "https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf"
     },
     {
       "added_at": "2026-09-03 15:43:48",
@@ -223,22 +223,18 @@
     {
       "added_at": "2026-09-03 15:43:48",
       "album": {
-        "name": "Carnaval, Pasi\u00f3n del Norte",
-        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
+        "name": "Mas Alla De La Ternura",
+        "url": "https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc"
       },
       "artists": [
         {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        },
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+          "name": "Los Changos",
+          "url": "https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71"
         }
       ],
-      "duration_ms": 297360,
-      "name": "Vuela una Lagrima",
-      "url": "https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP"
+      "duration_ms": 252813,
+      "name": "Anaranjado - Mas All\u00e1 De La Ternura",
+      "url": "https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk"
     },
     {
       "added_at": "2026-09-03 15:43:48",
@@ -291,18 +287,22 @@
     {
       "added_at": "2026-09-03 15:43:48",
       "album": {
-        "name": "Mas Alla De La Ternura",
-        "url": "https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc"
+        "name": "Carnaval, Pasi\u00f3n del Norte",
+        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
       },
       "artists": [
         {
-          "name": "Los Changos",
-          "url": "https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71"
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
         }
       ],
-      "duration_ms": 252813,
-      "name": "Anaranjado - Mas All\u00e1 De La Ternura",
-      "url": "https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk"
+      "duration_ms": 297360,
+      "name": "Vuela una Lagrima",
+      "url": "https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP"
     },
     {
       "added_at": "2026-09-03 15:43:48",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-09-03 15:43:48",
       "album": {
-        "name": "A Escondidas",
-        "url": "https://open.spotify.com/album/6VUieUgmlyiJ13NYI81Fn2"
-      },
-      "artists": [
-        {
-          "name": "Angelo Aranda",
-          "url": "https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz"
-        }
-      ],
-      "duration_ms": 170762,
-      "name": "A Escondidas",
-      "url": "https://open.spotify.com/track/3hf7Fhg3kMO3teI1xt9fWB"
-    },
-    {
-      "added_at": "2026-09-03 15:43:48",
-      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/55sN3ewoEyGxBfaJ5klMeb"
       },
@@ -431,18 +415,18 @@
     {
       "added_at": "2026-09-03 15:43:48",
       "album": {
-        "name": "Mi Cantar",
-        "url": "https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX"
+        "name": "A Escondidas",
+        "url": "https://open.spotify.com/album/6VUieUgmlyiJ13NYI81Fn2"
       },
       "artists": [
         {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+          "name": "Angelo Aranda",
+          "url": "https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz"
         }
       ],
-      "duration_ms": 259566,
-      "name": "Olvida Que Te He Amado",
-      "url": "https://open.spotify.com/track/0addwQw947UzHhby2thnGg"
+      "duration_ms": 170762,
+      "name": "A Escondidas",
+      "url": "https://open.spotify.com/track/3hf7Fhg3kMO3teI1xt9fWB"
     },
     {
       "added_at": "2026-09-03 15:43:48",
@@ -463,6 +447,22 @@
       "duration_ms": 201701,
       "name": "Cosa Peligrosa",
       "url": "https://open.spotify.com/track/73P9ywsIA24QwWvL6E1gjT"
+    },
+    {
+      "added_at": "2026-09-03 15:43:48",
+      "album": {
+        "name": "Mi Cantar",
+        "url": "https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 259566,
+      "name": "Olvida Que Te He Amado",
+      "url": "https://open.spotify.com/track/0addwQw947UzHhby2thnGg"
     },
     {
       "added_at": "2026-09-03 15:43:48",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-09-03 15:43:48",
       "album": {
-        "name": "Churita",
-        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
-      },
-      "artists": [
-        {
-          "name": "Mariana Baraj",
-          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "La Guada",
-      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
-    },
-    {
-      "added_at": "2026-09-03 15:43:48",
-      "album": {
         "name": "Cerca del Sol",
         "url": "https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 217020,
       "name": "Cerca del Sol",
       "url": "https://open.spotify.com/track/4KEm7GdjGYMpGdDrrwr5K2"
+    },
+    {
+      "added_at": "2026-09-03 15:43:48",
+      "album": {
+        "name": "Churita",
+        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
+      },
+      "artists": [
+        {
+          "name": "Mariana Baraj",
+          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "La Guada",
+      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
     },
     {
       "added_at": "2026-09-03 15:43:48",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-09-03 15:43:48",
       "album": {
-        "name": "Al Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 228961,
-      "name": "Al Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY"
-    },
-    {
-      "added_at": "2026-09-03 15:43:48",
-      "album": {
         "name": "La Historia Vol 3",
         "url": "https://open.spotify.com/album/1rfBblbUZrUaYmspitkgiq"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 319116,
       "name": "Gotas de Amor",
       "url": "https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD"
+    },
+    {
+      "added_at": "2026-09-03 15:43:48",
+      "album": {
+        "name": "Al Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 228961,
+      "name": "Al Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY"
     },
     {
       "added_at": "2026-09-03 15:43:48",

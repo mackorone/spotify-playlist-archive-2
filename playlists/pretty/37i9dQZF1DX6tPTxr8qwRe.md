@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- GRANT KNOCHE on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,563 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,535 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [WHERE’S THE FUN?](https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [WHERE’S THE FUN?](https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl) | 3:25 |
 | 50 | [Suffer](https://open.spotify.com/track/2zVfQnoQ13vUtDgeQtdAHQ) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Suffer](https://open.spotify.com/album/6AbCeJrzZyaHhm7DWDeZ24) | 2:19 |
 
-Snapshot ID: `AAAAAOBglnP+LTAtZc+/VlO6OhZdIfo3`
+Snapshot ID: `AAAAADRAO/S8oGF9U8+BqNPBuCeDbM0V`

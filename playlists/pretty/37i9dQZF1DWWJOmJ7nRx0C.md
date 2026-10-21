@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,822 likes - 101 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,794 likes - 101 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 100 | [When We First Met](https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [When We First Met](https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd) | 1:52 |
 | 101 | [Freaking Out](https://open.spotify.com/track/0DR7mYqiG81ZTQPct6AwpV) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Freaking Out](https://open.spotify.com/album/3A3Sj2PmDEm1gBSFX7gDwL) | 3:03 |
 
-Snapshot ID: `AAAAAMB9alSEM6vgNiqupPh1tKgAm0v7`
+Snapshot ID: `AAAAAES/c8oNEU//hMzY/IbYcAWXHJK3`

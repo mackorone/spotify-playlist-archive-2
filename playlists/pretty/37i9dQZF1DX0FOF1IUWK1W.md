@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Mari Fernandez e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,720,276 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,719,883 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Aurora](https://open.spotify.com/track/6PPB5jKQ257UqzP7tgmozP) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Memórias Póstumas](https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3) | 3:40 |
 | 50 | [PENSANDO EM MIM](https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X), [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV) | [ZERO BALA](https://open.spotify.com/album/7MujiaQZnoo6AQ3CNZEJja) | 3:39 |
 
-Snapshot ID: `AAAAADFMkXwbcDKJET7oaHm65ucn5FOU`
+Snapshot ID: `AAAAAGwhCal5g1FbMkERWYN0HyqP/cTM`

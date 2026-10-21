@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,988 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,004 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 99 | [The Crowd Was Singing Wonderwall](https://open.spotify.com/track/7B5Ih7H5cyxJjzARLhGUY6) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Crowd Was Singing Wonderwall](https://open.spotify.com/album/1b3kP8SfVqLdi5AMtWhPsQ) | 4:00 |
 | 100 | [Sixteen](https://open.spotify.com/track/5jMgYPWRj0cDcpv8rJrbO1) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Doomsday...Don't Leave Me Here](https://open.spotify.com/album/41cGERYiX0rB1MTrKZbmBG) | 3:28 |
 
-Snapshot ID: `AAAAAJ5FvBR4c97wiAUPx2w8tXtQNQLI`
+Snapshot ID: `AAAAAPn+vdv40yEcL8COBN0JGB1/oVhZ`

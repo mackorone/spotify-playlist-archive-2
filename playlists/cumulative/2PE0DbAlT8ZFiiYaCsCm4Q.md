@@ -56,7 +56,7 @@
 | [What in the World's Come over You \(Rerecorded\)](https://open.spotify.com/track/4Cn4BUIv3TS0uZG45YXvUP) | [Jack Scott](https://open.spotify.com/artist/2Q3hWwyXVQn0UPexrerLrc) | [Rock 'n' Roll Love Songs](https://open.spotify.com/album/1PSizWnzUXGF9B1qpbxjTe) | 2:45 | 2013-06-27 |  |
 | [Where Or When](https://open.spotify.com/track/0OLIIwpl8vDQWXYZa7becp) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [The Best Of Dion & The Belmonts](https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu) | 2:37 | 2013-06-27 |  |
 | [Why](https://open.spotify.com/track/3hvakqVpwaz4L7zN5HfTCY) | [Frankie Avalon](https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ) | [\#1 Hits Of The '50s, '60s & '70s](https://open.spotify.com/album/286yhoPxSXjLS3uM479iXx) | 2:35 | 2013-06-27 |  |
-| [Wild One \(Rerecorded\)](https://open.spotify.com/track/1aOWQh759ZSHiAdt8jEqLV) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [100 Hits of the Swingin' Sixties](https://open.spotify.com/album/36QisDW5zB4phHrXOzE60V) | 2:16 | 2013-06-27 |  |
+| [Wild One \- Rerecorded](https://open.spotify.com/track/1aOWQh759ZSHiAdt8jEqLV) | [Bobby Rydell](https://open.spotify.com/artist/4hJTgr1adnhIkhmD9jLzd6) | [100 Hits of the Swingin' Sixties](https://open.spotify.com/album/36QisDW5zB4phHrXOzE60V) | 2:16 | 2013-06-27 |  |
 | [You Got What It Takes](https://open.spotify.com/track/49ax6w7sxo2vkDrISdRd89) | [Marv Johnson](https://open.spotify.com/artist/40PAEtNxO98lBeQHCza9vA) | [United Artists Black Singles 1959\-1967: ''Motor City To Central Park''](https://open.spotify.com/album/0QIsqKfh4h5dWicuHWSxOC) | 2:43 | 2013-06-27 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

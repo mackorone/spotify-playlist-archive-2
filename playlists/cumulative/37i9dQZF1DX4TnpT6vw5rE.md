@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-442 songs - 1 day 0 hr 8 min
+443 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Not Going Back to the Harbour \(Dauwd Remix\)](https://open.spotify.com/track/5fd2HLarNa3tqHEZK4uyCB) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Low Tide](https://open.spotify.com/album/5gowhGeWFaDsMxfWiT9O8e) | 4:13 | 2022-07-22 | 2022-09-16 |
 | [Not Going Back To The Harbour \- Dauwd Remix](https://open.spotify.com/track/3KYH5A1SQg6poc9cTr5TjR) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng), [Dauwd Muhammad](https://open.spotify.com/artist/6T1WoscBXu9YjFzN8uvTTG) | [Low Tide](https://open.spotify.com/album/5fgdzuVFij8Qw6xa7aeJSY) | 4:13 | 2020-12-08\* | 2022-07-29 |
 | [Nothing It Can](https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Moiety](https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO) | 4:47 | 2020-12-08\* | 2024-08-22 |
+| [now departing my heart](https://open.spotify.com/track/5uLbkQiVdVv5BZDNOwsygh) | [emptyshape](https://open.spotify.com/artist/5uhXTVZhYVCspG4dSLRI9t) | [now departing my heart](https://open.spotify.com/album/4MWvoJW6Xln5wZCx3DtA5G) | 2:13 | 2026-10-05 |  |
 | [NYC/Night Time](https://open.spotify.com/track/1Y5TuZ4lGEeB4UKIvgieWC) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Summer Tales](https://open.spotify.com/album/6ppAmnM0WuNYgrSXC43dKJ) | 3:47 | 2020-12-08\* | 2021-05-27 |
 | [Nyligen](https://open.spotify.com/track/6u5TZEuNThWqVHUWeysPO6) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Nyligen](https://open.spotify.com/album/449FOsDuTGwpeK6frsUEdT) | 2:21 | 2024-05-10 |  |
 | [Oak](https://open.spotify.com/track/7Lo7jDbapcmXpebXRyp9Oy) | [Weep Year](https://open.spotify.com/artist/2dY44RNmNsg8vrWHiP7PPq) | [Oak](https://open.spotify.com/album/1pqBzqkR97qhMriPbovhPw) | 3:19 | 2025-10-01 | 2026-09-21 |
@@ -438,7 +439,7 @@
 | [We Come and We Go](https://open.spotify.com/track/1mBz7t3HGqDWZ5Wo5IEmDx) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [We Come and We Go](https://open.spotify.com/album/6EZNjD3i26f7ODIz42ymim) | 2:35 | 2025-01-14 | 2026-02-13 |
 | [We're Almost Home](https://open.spotify.com/track/0UGJ7pI399zNAYvGxcpXGO) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [We're Almost Home](https://open.spotify.com/album/1j5J3X5s6x2gvq4alZD5rG) | 2:26 | 2025-05-14 | 2026-02-13 |
 | [Weave Of Dreams](https://open.spotify.com/track/23xr0LguCmzvlN6OeTaTFb) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [Weave Of Dreams](https://open.spotify.com/album/0nMZ0q6ssZV679M2zZzoXN) | 2:55 | 2024-09-19 |  |
-| [Weightless Dreams](https://open.spotify.com/track/5UfsYYVyxWRpJ5sBA32Rns) | [Vayalada](https://open.spotify.com/artist/2MMloDSBp4kDC7SflBJrZi) | [Weightless Dreams](https://open.spotify.com/album/1a3IWoGFoLQ1leCfaT0h81) | 2:53 | 2023-10-06 |  |
+| [Weightless Dreams](https://open.spotify.com/track/5UfsYYVyxWRpJ5sBA32Rns) | [Vayalada](https://open.spotify.com/artist/2MMloDSBp4kDC7SflBJrZi) | [Weightless Dreams](https://open.spotify.com/album/1a3IWoGFoLQ1leCfaT0h81) | 2:53 | 2023-10-06 | 2026-10-21 |
 | [Westerfall](https://open.spotify.com/track/2pbp5D1W6KHMTHjVCopP1t) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN) | [Westerfall](https://open.spotify.com/album/47VRzxnUBkgeF0wVc5wTLy) | 3:19 | 2022-05-19 | 2023-11-22 |
 | [What is left](https://open.spotify.com/track/2hT6zO1ypm884utAj6e2jX) | [Estra Blue](https://open.spotify.com/artist/2RAV1xltflSfWELSJuAB1S) | [What is left](https://open.spotify.com/album/0VJkU8QT6RsS8gXsMMKZua) | 2:32 | 2026-10-05 |  |
 | [When We Dream](https://open.spotify.com/track/3G66wRJMrcCzAODD90738Z) | [lake balboa](https://open.spotify.com/artist/3WdeppzrwwIJOhlN12ryDR) | [When We Dream](https://open.spotify.com/album/0pROtLDVtDRrCWiHFK4FzA) | 2:45 | 2026-07-07 |  |

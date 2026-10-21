@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,664 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,681 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 74 | [Dancing](https://open.spotify.com/track/4rcF5dwIHEVOgQQhva1OOI) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What Are The Odds](https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa) | 2:41 |
 | 75 | [Pouring](https://open.spotify.com/track/6x1RfhNMyXuopmGSCPcT4q) | [Mack Geiger](https://open.spotify.com/artist/1ylRveckaItA2kOhQh8rnQ) | [Pouring](https://open.spotify.com/album/4QQmW6sae4Zc48VoDFObQ5) | 3:34 |
 
-Snapshot ID: `AAAAAMBWMD5AXC1sWXA81DJfIRziROOA`
+Snapshot ID: `AAAAAB0tOEBH0P8wp+Yi8+i9OtZ+9mTq`

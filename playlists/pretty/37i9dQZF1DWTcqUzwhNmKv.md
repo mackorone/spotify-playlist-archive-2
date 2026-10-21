@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Deafheaven are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,658,702 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,658,710 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 99 | [Solar Will](https://open.spotify.com/track/7vK8MwPgzAHyEKphAdBarr) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Solar Will](https://open.spotify.com/album/2QSu5aGc6EcfjTjQedZO5W) | 4:39 |
 | 100 | [Pangs of Conscience](https://open.spotify.com/track/5pD2JxlCEtcNV9cKJijmwr) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Pangs of Conscience](https://open.spotify.com/album/4XrsSsrkMkkYLzbvvnxxrr) | 4:47 |
 
-Snapshot ID: `AAAAAF+STjNDYapTw/2kPrBUufh4UY5W`
+Snapshot ID: `AAAAANoCKbfKIGhJYg8v9KMYCoDeStSO`

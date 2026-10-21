@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 264013,
+  "num_followers": 264059,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG2DK9eyZBmKQ8s/ZIgwE2EMFdqy",
+  "snapshot_id": "AAAAAD7tbXJR9kgo791lVi6TOySPQTq6",
   "tracks": [
     {
       "added_at": "2026-10-16 00:00:15",
@@ -743,26 +743,6 @@
     {
       "added_at": "2026-10-16 00:00:15",
       "album": {
-        "name": "Down For You (feat. Jyll)",
-        "url": "https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "Jyll",
-          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Down For You (feat. Jyll)",
-      "url": "https://open.spotify.com/track/5N0hLKYNwYhTLQsGyLz8As"
-    },
-    {
-      "added_at": "2026-10-16 00:00:15",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1v9r2LPHOtzLHGq0qp6mlA"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 258409,
       "name": "Closer",
       "url": "https://open.spotify.com/track/25s9f4TrrZZzZTYjA8NE19"
+    },
+    {
+      "added_at": "2026-10-16 00:00:15",
+      "album": {
+        "name": "Down For You (feat. Jyll)",
+        "url": "https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Down For You (feat. Jyll)",
+      "url": "https://open.spotify.com/track/5N0hLKYNwYhTLQsGyLz8As"
     },
     {
       "added_at": "2026-10-16 00:00:15",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2026-10-16 00:00:15",
       "album": {
-        "name": "When I Look In Your Eyes",
-        "url": "https://open.spotify.com/album/4UzLPqPG3qQ18R7SzcJREj"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Justine Suissa",
-          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
-        }
-      ],
-      "duration_ms": 213748,
-      "name": "When I Look In Your Eyes",
-      "url": "https://open.spotify.com/track/3WTvepgeDZ5Og5G5aNbIH8"
-    },
-    {
-      "added_at": "2026-10-16 00:00:15",
-      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/5g7eHEiWZexaG3OoMTY8Jk"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 276956,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/1X5zjaul0MoZVJMmq6RtYK"
+    },
+    {
+      "added_at": "2026-10-16 00:00:15",
+      "album": {
+        "name": "When I Look In Your Eyes",
+        "url": "https://open.spotify.com/album/4UzLPqPG3qQ18R7SzcJREj"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Justine Suissa",
+          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
+        }
+      ],
+      "duration_ms": 213748,
+      "name": "When I Look In Your Eyes",
+      "url": "https://open.spotify.com/track/3WTvepgeDZ5Og5G5aNbIH8"
     },
     {
       "added_at": "2026-10-16 00:00:15",

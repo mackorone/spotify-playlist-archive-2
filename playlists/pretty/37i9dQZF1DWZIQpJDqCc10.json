@@ -1,12 +1,12 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 782059,
+  "num_followers": 782164,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAZg5QihESWN6ILhXQK6DC4aySqE",
+  "snapshot_id": "AAAAAFfLVOtwmXs84S8e37Xir25afvgE",
   "tracks": [
     {
       "added_at": "2026-02-19 14:58:26",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 296146,
-      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "The 1975",
         "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 254509,
       "name": "Robbers",
       "url": "https://open.spotify.com/track/73jVPicY2G9YHmzgjk69ae"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Animal Kingdom",
-        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 278991,
-      "name": "Juliet",
-      "url": "https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "So Long Forever",
         "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 249840,
       "name": "Live Well",
       "url": "https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Animal Kingdom",
+        "url": "https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 278991,
+      "name": "Juliet",
+      "url": "https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"
     },
     {
       "added_at": "2026-02-19 14:58:26",

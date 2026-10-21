@@ -1,12 +1,12 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 8735,
+  "num_followers": 8743,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOku3s2DmlVbG+UFE4XndD4Pxjo0",
+  "snapshot_id": "AAAAAD06Sldxk/QWAqAzHAX9cdjsdYk5",
   "tracks": [
     {
       "added_at": "2025-12-12 05:00:29",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "SOCKS",
-        "url": "https://open.spotify.com/album/6GFdPihjWOAE7OsauYu5uC"
-      },
-      "artists": [
-        {
-          "name": "JD McPherson",
-          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
-        }
-      ],
-      "duration_ms": 176826,
-      "name": "Ugly Sweater Blues",
-      "url": "https://open.spotify.com/track/4vqUiwZ2f6bYjpmbo7LW5x"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Sing: Christmas Songs",
         "url": "https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 131746,
       "name": "Have Yourself A Merry Little Christmas - Live From BBC Radio 2",
       "url": "https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "SOCKS",
+        "url": "https://open.spotify.com/album/6GFdPihjWOAE7OsauYu5uC"
+      },
+      "artists": [
+        {
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Ugly Sweater Blues",
+      "url": "https://open.spotify.com/track/4vqUiwZ2f6bYjpmbo7LW5x"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Christmas Time's A-Comin'",
-        "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
-      },
-      "artists": [
-        {
-          "name": "Jerry Garcia Acoustic Band",
-          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
-        }
-      ],
-      "duration_ms": 182406,
-      "name": "Christmas Time's A-Comin' - Live",
-      "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Light of the Stable (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 161266,
       "name": "The First Noel - 2004 Remaster",
       "url": "https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Christmas Time's A-Comin'",
+        "url": "https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia Acoustic Band",
+          "url": "https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1"
+        }
+      ],
+      "duration_ms": 182406,
+      "name": "Christmas Time's A-Comin' - Live",
+      "url": "https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Auld Lang Syne",
-        "url": "https://open.spotify.com/album/7FVRYiLhtZhDj7tQkmlvso"
-      },
-      "artists": [
-        {
-          "name": "Palmyra",
-          "url": "https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664"
-        }
-      ],
-      "duration_ms": 194582,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/5TceVTcfSq23eNJfQizLFD"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "I Heard the Bells",
         "url": "https://open.spotify.com/album/3inmUzW5uliXu4hNQdpDUl"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 149853,
       "name": "I Heard the Bells on Christmas Day",
       "url": "https://open.spotify.com/track/3u7aseV74piywxb3SeFtWt"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/7FVRYiLhtZhDj7tQkmlvso"
+      },
+      "artists": [
+        {
+          "name": "Palmyra",
+          "url": "https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664"
+        }
+      ],
+      "duration_ms": 194582,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/5TceVTcfSq23eNJfQizLFD"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
+        "name": "Christmas Tree in the Window",
+        "url": "https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Christmas Tree in the Window",
+      "url": "https://open.spotify.com/track/0yvWyeKe1Og8DDprkEv8gS"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
         "name": "The Sweetest Season",
         "url": "https://open.spotify.com/album/21Pf0DS5gAEkosJmfB3kmj"
       },
@@ -831,34 +847,18 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Christmas Tree in the Window",
-        "url": "https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES"
+        "name": "Let It Snow",
+        "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
       },
       "artists": [
         {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Christmas Tree in the Window",
-      "url": "https://open.spotify.com/track/0yvWyeKe1Og8DDprkEv8gS"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Is It Far To Bethlehem?",
-        "url": "https://open.spotify.com/album/4X7AnDouIRYOU1vclZ7Nn5"
-      },
-      "artists": [
-        {
-          "name": "Kacy & Clayton",
-          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "Is It Far To Bethlehem?",
-      "url": "https://open.spotify.com/track/4ZnEbEj9GONWSV1WSRcvcD"
+      "duration_ms": 136566,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
     }
   ],
   "unique_name": "Americana Christmas",

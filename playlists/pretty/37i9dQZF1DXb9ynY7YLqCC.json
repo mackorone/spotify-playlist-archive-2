@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: reybruja",
-  "num_followers": 188324,
+  "num_followers": 188325,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACErPq/xRIkk1aQbHGS2dQzJItq4",
+  "snapshot_id": "AAAAAETx8j5bHDKWkqCWc4D77kT6TefZ",
   "tracks": [
     {
       "added_at": "2026-04-24 03:01:11",
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
         }
       ],
-      "duration_ms": 263653,
-      "name": "Homero",
-      "url": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
+      "duration_ms": 248693,
+      "name": "\u00bfQu\u00e9 Vas A Hacer Tan Sola Hoy?",
+      "url": "https://open.spotify.com/track/2wH2ZanAfGj9REJSbC4nIQ"
     },
     {
       "added_at": "2026-04-24 03:01:11",
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
         }
       ],
-      "duration_ms": 248693,
-      "name": "\u00bfQu\u00e9 Vas A Hacer Tan Sola Hoy?",
-      "url": "https://open.spotify.com/track/2wH2ZanAfGj9REJSbC4nIQ"
+      "duration_ms": 263653,
+      "name": "Homero",
+      "url": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
     },
     {
       "added_at": "2026-04-24 03:01:11",
@@ -363,18 +363,18 @@
     {
       "added_at": "2026-04-24 03:01:11",
       "album": {
-        "name": "SHOC",
-        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
+        "name": "Gardeliando",
+        "url": "https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3"
       },
       "artists": [
         {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+          "name": "Los Gardelitos",
+          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
         }
       ],
-      "duration_ms": 255851,
-      "name": "Solo voy",
-      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
+      "duration_ms": 262160,
+      "name": "Cobarde para Amar",
+      "url": "https://open.spotify.com/track/5wRABVeikfx8nwyyG3xVLQ"
     },
     {
       "added_at": "2026-04-24 03:01:11",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-04-24 03:01:11",
       "album": {
+        "name": "SHOC",
+        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
+      },
+      "artists": [
+        {
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+        }
+      ],
+      "duration_ms": 255851,
+      "name": "Solo voy",
+      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
+    },
+    {
+      "added_at": "2026-04-24 03:01:11",
+      "album": {
         "name": "Gardeliando",
         "url": "https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3"
       },
@@ -452,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
         }
       ],
-      "duration_ms": 262160,
-      "name": "Cobarde para Amar",
-      "url": "https://open.spotify.com/track/5wRABVeikfx8nwyyG3xVLQ"
+      "duration_ms": 222666,
+      "name": "Nadie Cree en Mi Canci\u00f3n",
+      "url": "https://open.spotify.com/track/33fq6yez7xTPhIYsv3vLZs"
     },
     {
       "added_at": "2026-04-24 03:01:11",
@@ -471,22 +487,6 @@
       "duration_ms": 208373,
       "name": "Nunca me ense\u00f1aste",
       "url": "https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf"
-    },
-    {
-      "added_at": "2026-04-24 03:01:11",
-      "album": {
-        "name": "El Origen",
-        "url": "https://open.spotify.com/album/0S6egWzUaW2gR2MX16UKHb"
-      },
-      "artists": [
-        {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
-        }
-      ],
-      "duration_ms": 375040,
-      "name": "Cruz de Sal",
-      "url": "https://open.spotify.com/track/3wSEaw1s73DTuS1iNPaK4G"
     },
     {
       "added_at": "2026-04-24 03:01:11",
@@ -523,18 +523,18 @@
     {
       "added_at": "2026-04-24 03:01:11",
       "album": {
-        "name": "Gardeliando",
-        "url": "https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3"
+        "name": "El Origen",
+        "url": "https://open.spotify.com/album/0S6egWzUaW2gR2MX16UKHb"
       },
       "artists": [
         {
-          "name": "Los Gardelitos",
-          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
         }
       ],
-      "duration_ms": 222666,
-      "name": "Nadie Cree en Mi Canci\u00f3n",
-      "url": "https://open.spotify.com/track/33fq6yez7xTPhIYsv3vLZs"
+      "duration_ms": 375040,
+      "name": "Cruz de Sal",
+      "url": "https://open.spotify.com/track/3wSEaw1s73DTuS1iNPaK4G"
     },
     {
       "added_at": "2026-04-24 03:01:11",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-04-24 03:01:11",
       "album": {
-        "name": "Ya No Somos Dos Ahora",
-        "url": "https://open.spotify.com/album/3Vb3asHz7rDa6Q55jol7Vt"
-      },
-      "artists": [
-        {
-          "name": "Salta La Banca",
-          "url": "https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "Qui\u00e9n Dice",
-      "url": "https://open.spotify.com/track/71j3MkQq2xb0RehQMfJdc2"
-    },
-    {
-      "added_at": "2026-04-24 03:01:11",
-      "album": {
         "name": "Guerra de Nada",
         "url": "https://open.spotify.com/album/4BpvpQg1SoId37jAosecWu"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 251706,
       "name": "Miras sin ver",
       "url": "https://open.spotify.com/track/0h977C6sVvhYg2fEf3tIO6"
+    },
+    {
+      "added_at": "2026-04-24 03:01:11",
+      "album": {
+        "name": "Ya No Somos Dos Ahora",
+        "url": "https://open.spotify.com/album/3Vb3asHz7rDa6Q55jol7Vt"
+      },
+      "artists": [
+        {
+          "name": "Salta La Banca",
+          "url": "https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "Qui\u00e9n Dice",
+      "url": "https://open.spotify.com/track/71j3MkQq2xb0RehQMfJdc2"
     },
     {
       "added_at": "2026-04-24 03:01:11",
@@ -955,18 +955,22 @@
     {
       "added_at": "2026-04-24 03:01:11",
       "album": {
-        "name": "El disco maldito",
-        "url": "https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN"
+        "name": "Irreal",
+        "url": "https://open.spotify.com/album/4oX28XEb23WndGHhKBY8Pk"
       },
       "artists": [
         {
-          "name": "Luceros el Ojo Dalt\u00f3nico",
-          "url": "https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV"
+          "name": "El Bordo",
+          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+        },
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
         }
       ],
-      "duration_ms": 136234,
-      "name": "El \u00faltimo poeta maldito",
-      "url": "https://open.spotify.com/track/4i3NV6znz9XgQOpEelbhic"
+      "duration_ms": 218755,
+      "name": "Certezas de cart\u00f3n",
+      "url": "https://open.spotify.com/track/70C1X4mE6cIgXyg5WsuCHI"
     },
     {
       "added_at": "2026-04-24 03:01:11",
@@ -987,22 +991,18 @@
     {
       "added_at": "2026-04-24 03:01:11",
       "album": {
-        "name": "Irreal",
-        "url": "https://open.spotify.com/album/4oX28XEb23WndGHhKBY8Pk"
+        "name": "El disco maldito",
+        "url": "https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN"
       },
       "artists": [
         {
-          "name": "El Bordo",
-          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
-        },
-        {
-          "name": "Ricardo Mollo",
-          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+          "name": "Luceros el Ojo Dalt\u00f3nico",
+          "url": "https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV"
         }
       ],
-      "duration_ms": 218755,
-      "name": "Certezas de cart\u00f3n",
-      "url": "https://open.spotify.com/track/70C1X4mE6cIgXyg5WsuCHI"
+      "duration_ms": 136234,
+      "name": "El \u00faltimo poeta maldito",
+      "url": "https://open.spotify.com/track/4i3NV6znz9XgQOpEelbhic"
     },
     {
       "added_at": "2026-04-24 03:01:11",

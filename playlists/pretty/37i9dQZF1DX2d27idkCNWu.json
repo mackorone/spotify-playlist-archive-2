@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259831,
+  "num_followers": 259843,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC3qaG45/5wE6pPW0qoZjmMc6UYB",
+  "snapshot_id": "AAAAABWDc3yBVKZbxvSms0OG6HD6ohm9",
   "tracks": [
     {
       "added_at": "2026-08-21 03:00:30",
@@ -351,26 +351,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Best Part of Me (feat. YEBBA)",
-        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 243266,
-      "name": "Best Part of Me (feat. YEBBA)",
-      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 265652,
       "name": "Every Time You Go Away",
       "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Best Part of Me (feat. YEBBA)",
+        "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 243266,
+      "name": "Best Part of Me (feat. YEBBA)",
+      "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "New Rules (Acoustic)",
-        "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 213436,
-      "name": "New Rules - Acoustic",
-      "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 227927,
       "name": "Somewhere Only We know - Live from Spotify, London",
       "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "New Rules (Acoustic)",
+        "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 213436,
+      "name": "New Rules - Acoustic",
+      "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Acoustic In Nashville - Bootleg No. 2",
-        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
-      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Girassol (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 65059,
       "name": "Girassol - Ac\u00fastico",
       "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Acoustic In Nashville - Bootleg No. 2",
+        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
+      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
         "name": "Poema",
         "url": "https://open.spotify.com/album/1vYw1oycPT5VI2FYEw94iX"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 228640,
       "name": "Poema",
       "url": "https://open.spotify.com/track/5Ej9jsKKWRnogY4ct3ETLr"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Sozinho e Bem Acompanhado",
-        "url": "https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 206445,
-      "name": "Por Voc\u00ea - Sozinho e Bem Acompanhado",
-      "url": "https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 202482,
       "name": "Stan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Sozinho e Bem Acompanhado",
+        "url": "https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 206445,
+      "name": "Por Voc\u00ea - Sozinho e Bem Acompanhado",
+      "url": "https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "penhasco. (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 213934,
-      "name": "penhasco. - (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
         "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 295223,
       "name": "Ovelha Negra - Ac\u00fastico MTV",
       "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "penhasco. (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 213934,
+      "name": "penhasco. - (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
     },
     {
       "added_at": "2026-08-21 03:00:30",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-08-21 03:00:30",
       "album": {
-        "name": "Can't Tame Her (Acoustic)",
-        "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Can't Tame Her - Acoustic",
-      "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
-    },
-    {
-      "added_at": "2026-08-21 03:00:30",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 222270,
       "name": "Attention - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
+    },
+    {
+      "added_at": "2026-08-21 03:00:30",
+      "album": {
+        "name": "Can't Tame Her (Acoustic)",
+        "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Can't Tame Her - Acoustic",
+      "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
     },
     {
       "added_at": "2026-08-21 03:00:30",

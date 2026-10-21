@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 315419,
+  "num_followers": 315481,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAACjDdIOpBV4+hUtqkfELN9M3Rob",
+  "snapshot_id": "AAAAAOApyZYqJcahRAFnAEnO0VfI455k",
   "tracks": [
     {
       "added_at": "2026-07-16 23:50:42",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 216317,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Como Tu Mujer",
         "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 178426,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/7fYr68C6tRUsGIym4poraT"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 216317,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Como Este Loco",
-        "url": "https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f"
-      },
-      "artists": [
-        {
-          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
-          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Sigue Sin Mi",
-      "url": "https://open.spotify.com/track/0AVLg8enpkzc7cypGu1wYQ"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Dos Mundos Tradici\u00f3n",
         "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 214400,
       "name": "Mi Rechazo",
       "url": "https://open.spotify.com/track/7mPVt1aTriYEefSYJP49Xy"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Como Este Loco",
+        "url": "https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
+          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Sigue Sin Mi",
+      "url": "https://open.spotify.com/track/0AVLg8enpkzc7cypGu1wYQ"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
+        "name": "Pura Pieza De Mi Gusto, Vol. 2",
+        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 207342,
+      "name": "Presiento Que Voy A Llorar",
+      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
         "name": "SEX AND LOVE (Deluxe)",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 191426,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
-        "name": "Pura Pieza De Mi Gusto, Vol. 2",
-        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 207342,
-      "name": "Presiento Que Voy A Llorar",
-      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
     },
     {
       "added_at": "2026-07-16 23:50:42",

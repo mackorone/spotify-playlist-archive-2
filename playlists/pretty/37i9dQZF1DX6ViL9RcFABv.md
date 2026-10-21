@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Fernando Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,562 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,566 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [Trigueirinha](https://open.spotify.com/track/5J02C6BJEWlRZKcoaIyz0F) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [Trigueirinha](https://open.spotify.com/album/3Wa6egHHQhOzETuD1Oz7XD) | 2:39 |
 | 70 | [10MIN ∆](https://open.spotify.com/track/0ciIldffIACGFzaQ8PuQ6t) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [HORMONAL](https://open.spotify.com/album/5tnMRzUb5oNXUn9O7bEojK) | 2:48 |
 
-Snapshot ID: `AAAAAHB5KwEI6t5Yy7AteNFkfL8WtYR+`
+Snapshot ID: `AAAAAHBW3xKhary9E5tM/ifadF8dj+so`

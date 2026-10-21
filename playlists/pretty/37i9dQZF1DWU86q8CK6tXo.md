@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Josie Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,695 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,697 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 9 | [Mourning](https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Mourning](https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o) | 4:16 |
 | 10 | [Everything You Ever Wanted](https://open.spotify.com/track/4Ndgwg8fEtOqrWlvqVV1Tj) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Have You Ever Looked Around And Realized Everything You Ever Wanted Is Right In Front Of Your Eyes](https://open.spotify.com/album/21Uh4WXwyUosULfM1gqI5L) | 3:22 |
 | 11 | [lamb \(feat\. Kellin Quinn\)](https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [lamb \(feat\. Kellin Quinn\)](https://open.spotify.com/album/6q5Ifer7omoq9iBJ6tADaP) | 2:24 |
-| 12 | [Lean In, Kiss Me](https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Lean In, Kiss Me](https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6) | 2:38 |
-| 13 | [Not Yours](https://open.spotify.com/track/1Wlxvl98MLBcyXsVF6VDnt) | [Lady Binladen](https://open.spotify.com/artist/7uhhz6hbxdJlbHIbmqvAAT) | [Not Yours](https://open.spotify.com/album/2dmEvjeosmWip7SSpV7wro) | 2:36 |
+| 12 | [Not Yours](https://open.spotify.com/track/1Wlxvl98MLBcyXsVF6VDnt) | [Lady Binladen](https://open.spotify.com/artist/7uhhz6hbxdJlbHIbmqvAAT) | [Not Yours](https://open.spotify.com/album/2dmEvjeosmWip7SSpV7wro) | 2:36 |
+| 13 | [Lean In, Kiss Me](https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Lean In, Kiss Me](https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6) | 2:38 |
 | 14 | [Paranoia](https://open.spotify.com/track/2awPLeyEr18Z3wq7vzFxpM) | [Porch Light](https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH) | [Paranoia / James](https://open.spotify.com/album/0Su7mSZHT1poyMsNEGsX2z) | 2:34 |
 | 15 | [You're So Vain \- Spotify Singles](https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [You're So Vain \- Spotify Singles](https://open.spotify.com/album/1kKcUBgm2zIAirXfgOGzml) | 4:48 |
 | 16 | [Notting Hill](https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:10 |
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 29 | [BANDERA BLANCA](https://open.spotify.com/track/2dxpAO137w9TbVnnN4Roo1) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [BARAJA BENDITA](https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY) | 3:04 |
 | 30 | [Take It Off For You](https://open.spotify.com/track/5brhefwMpr2H1E9UaBo3ix) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Take It Off For You](https://open.spotify.com/album/2yumCPc0yEgORe9X6WRlQ7) | 2:36 |
 | 31 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
-| 32 | [Used To Be](https://open.spotify.com/track/4wj4ogBPevGweczZNtHoZ2) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Used To Be](https://open.spotify.com/album/3RYKpZIW82JbMpULEdcxHG) | 3:01 |
-| 33 | [gloria!](https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gloria!](https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh) | 3:21 |
+| 32 | [gloria!](https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gloria!](https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh) | 3:21 |
+| 33 | [Used To Be](https://open.spotify.com/track/4wj4ogBPevGweczZNtHoZ2) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Used To Be](https://open.spotify.com/album/3RYKpZIW82JbMpULEdcxHG) | 3:01 |
 | 34 | [Same Circus](https://open.spotify.com/track/7uanUiwGDy6VbYnrpJc8db) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Honest Woman](https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga) | 3:22 |
 | 35 | [Honest To God](https://open.spotify.com/track/7wtjMjxPbKlWikgmTtO6Dt) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Here I Am](https://open.spotify.com/album/4by63MmBpTRKY8ZbqtGuIh) | 2:59 |
 | 36 | [only one way to know](https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [only one way to know](https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS) | 2:46 |
 | 37 | [Too Much Of A Good Thing](https://open.spotify.com/track/60UGNZlMSAQnNwWVlKS4Ma) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Too Much Of A Good Thing](https://open.spotify.com/album/72fu5cHbVyHCdTRNO3se9x) | 2:53 |
-| 38 | [Her](https://open.spotify.com/track/4IvgjdQD4mG7yDvftdBOft) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Thank God](https://open.spotify.com/album/6KI31QMuC77LZi5GS8Ipqf) | 2:53 |
-| 39 | [It Just So Happens](https://open.spotify.com/track/39VskX4yIWsxCSE1x7Wa8j) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Feelings Are Forever](https://open.spotify.com/album/01rDa3R9E2OMXOISdH1295) | 2:48 |
+| 38 | [It Just So Happens](https://open.spotify.com/track/39VskX4yIWsxCSE1x7Wa8j) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Feelings Are Forever](https://open.spotify.com/album/01rDa3R9E2OMXOISdH1295) | 2:48 |
+| 39 | [Her](https://open.spotify.com/track/4IvgjdQD4mG7yDvftdBOft) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Thank God](https://open.spotify.com/album/6KI31QMuC77LZi5GS8Ipqf) | 2:53 |
 | 40 | [WYO](https://open.spotify.com/track/7y306i1Fyfzapyo0CbeMRp) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [NOT DA 2](https://open.spotify.com/album/3Ntu1axGIlTbDhtAWFIeYi) | 2:36 |
 | 41 | [Focus](https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Mad Big World](https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4) | 2:49 |
 | 42 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 53 | [LSD \(Love, Sex & Diamonds\)](https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG) | [VANITY](https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7) | [Mascara Masquerade](https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0) | 3:56 |
 | 54 | [Sleeping with My Boots On](https://open.spotify.com/track/6NIFqS0Rz2Zbjh1RN69hzX) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Lucky to Be](https://open.spotify.com/album/50TURqK9AFsbLTS5lguddv) | 2:08 |
 
-Snapshot ID: `AAAAACQubtwaUuI4b/zsBbMg0G2lcQtR`
+Snapshot ID: `AAAAACcTRzclC3U8t8SbnOY4zjWzIhsF`

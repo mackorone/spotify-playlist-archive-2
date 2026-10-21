@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,761 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,759 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 49 | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/track/6lmtoNV7S2U8ETrDgjWZaq) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Dirt Does Dylan](https://open.spotify.com/album/4F0CjdewrCbNZ5k13SOs3T) | 4:47 |
 | 50 | [Nights In White Satin](https://open.spotify.com/track/04ESC8d6h0xCJADLl9PROo) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/0W7YXl1HqU7lzgI0BAlpfu) | 3:40 |
 
-Snapshot ID: `atQMAAAAAACHSR0XoAYvXDqx708fEKKa`
+Snapshot ID: `atVdgAAAAABF/4Va2OeI3oQ8+C/VBe5g`

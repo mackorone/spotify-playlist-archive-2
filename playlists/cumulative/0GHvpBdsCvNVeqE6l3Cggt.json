@@ -1033,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "Muscle",
+        "url": "https://open.spotify.com/album/3QmwsT82fU3YeGYPAbKGyX"
+      },
+      "artists": [
+        {
+          "name": "Sia Vaiz",
+          "url": "https://open.spotify.com/artist/3KXDHgGTsVxS9tVl3bVX64"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257794,
+      "name": "Hurt Me",
+      "url": "https://open.spotify.com/track/5SZDQAuJ1Gpzy8RE0E3sD4"
+    },
+    {
+      "album": {
         "name": "I Have Myself",
         "url": "https://open.spotify.com/album/34v9wtjbxHZ1qz4SY6UbPl"
       },

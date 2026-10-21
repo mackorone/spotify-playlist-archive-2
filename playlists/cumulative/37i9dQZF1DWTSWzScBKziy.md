@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Jovonta Patton
 
-1,600 songs - 4 day 3 hr 2 min
+1,601 songs - 4 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -931,6 +931,7 @@
 | [More Than Enough](https://open.spotify.com/track/1PaexQyJGayTwBvbGVOpR6) | [Rylee Orr](https://open.spotify.com/artist/0N4p8Is9wCKlnXrlEYRQxk) | [More Than Enough](https://open.spotify.com/album/2ScX5YuW3HgGGbFjrYVrqb) | 4:46 | 2026-04-17 | 2026-05-20 |
 | [More Than Ever](https://open.spotify.com/track/00cHdJO9E4TvmJBeuJq0pr) | [After Grace](https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd) | [More Than Ever](https://open.spotify.com/album/68OLHztu1jW6VilxvWZEtf) | 3:14 | 2022-05-27 | 2023-02-19 |
 | [Morning & Evening](https://open.spotify.com/track/74GoBfkK3D21udBlPwZsDX) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Morning & Evening](https://open.spotify.com/album/0FpnrCxGuggOQJCWFv5CJY) | 4:10 | 2026-04-04 | 2026-05-02 |
+| [Morning By Morning \- Live](https://open.spotify.com/track/1oPa9nRpSSO4MDomXtqvUd) | [Century Worship](https://open.spotify.com/artist/5sWkuThhqRdUFwy7faCWoH) | [Morning By Morning \(Live\)](https://open.spotify.com/album/4I0eo2ja9xpDoTMKovYtM9) | 4:40 | 2026-10-02 |  |
 | [Morning glory, don't you worry.](https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Morning glory, don't you worry.](https://open.spotify.com/album/485K5RKBArRkto27KG5SWT) | 4:13 | 2025-04-04 | 2025-05-01 |
 | [Mothers Womb](https://open.spotify.com/track/0v7tqM086OM3qguLPv79Zl) | [ALTAR POETRY](https://open.spotify.com/artist/3c1TfhJzB4ZYEiaWQPRNdv), [Cory Simon](https://open.spotify.com/artist/3cotWBCaWoM2BIG24Dy1f6), [Kelly B.](https://open.spotify.com/artist/2NoppAhDqgz87PiUyV3tte) | [Mothers Womb](https://open.spotify.com/album/6IWdFdH83oYb9L2sSMLvvb) | 4:36 | 2026-05-19 | 2026-07-04 |
 | [Mountains](https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Mountains](https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP) | 3:24 | 2022-10-29 | 2024-06-08 |
@@ -1392,7 +1393,7 @@
 | [This Wine Is Alive](https://open.spotify.com/track/3mnTUaCnwreaKe2rbeJitq) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [This Wine Is Alive](https://open.spotify.com/album/011OH2t332Xb11kdc7TGMH) | 2:47 | 2024-06-07 | 2024-08-10 |
 | [Thorns](https://open.spotify.com/track/51ntQprVv963OPeFxdLCJt) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Thorns](https://open.spotify.com/album/5alop0gQAbADANQLRa90uP) | 3:02 | 2025-06-06 | 2025-07-20 |
 | [Though War Break Out Against Me](https://open.spotify.com/track/2mVKWnnVVULQKkQGDFGmC1) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Though War Break Out Against Me](https://open.spotify.com/album/4zZeVsP8r9geYWWWYaBTjG) | 4:25 | 2026-05-01 | 2026-07-04 |
-| [Through the Fire](https://open.spotify.com/track/7MYcEpn9vVcHGaHxDPC7C5) | [The Hill City Collective](https://open.spotify.com/artist/6UFR6fr6tc8ejg3penXJUG), [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Lillian Loyd](https://open.spotify.com/artist/74BPXshSaCwHGRi5oJfAg6) | [Through the Fire](https://open.spotify.com/album/2wKkih6MFWiCjNdbmVsF82) | 4:26 | 2026-09-18 |  |
+| [Through the Fire](https://open.spotify.com/track/7MYcEpn9vVcHGaHxDPC7C5) | [The Hill City Collective](https://open.spotify.com/artist/6UFR6fr6tc8ejg3penXJUG), [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Lillian Loyd](https://open.spotify.com/artist/74BPXshSaCwHGRi5oJfAg6) | [Through the Fire](https://open.spotify.com/album/2wKkih6MFWiCjNdbmVsF82) | 4:26 | 2026-09-18 | 2026-10-21 |
 | [Thy Kingdom Come](https://open.spotify.com/track/0FW9rnr5G8Ox5trZAMs2rc) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [MAMA](https://open.spotify.com/album/1H8UY7wjoqPphysMksDT2l) | 4:08 | 2026-05-29 | 2026-07-04 |
 | [tide](https://open.spotify.com/track/5cnpqXnGR6EvPbagw5HMiq) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [tide](https://open.spotify.com/album/2cNQa9pBlv6tU4iKc5Neam) | 2:52 | 2026-08-21 |  |
 | [Till You're Home](https://open.spotify.com/track/2RrkLEP2YYsi2CXIpL3OZ8) | [Joshua's Giants](https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T), [Zach Paradis](https://open.spotify.com/artist/1W2W85bJ8lG3g409Lm6goy) | [Till You're Home](https://open.spotify.com/album/7Fzy7mkW8NgeVCRtNzv7Uu) | 3:24 | 2026-01-17 | 2026-03-22 |

@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: ADOY\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Wonjin\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,407 songs - 3 day 13 hr 15 min
+1,409 songs - 3 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Echo \(feat\. JUKJAE\)](https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v), [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Echo \(feat .JUKJAE\)](https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj) | 3:12 | 2024-09-23 | 2024-11-30 |
 | [Echo! \(talk to me baby\)](https://open.spotify.com/track/5BYdnzxaLxqOXk1a94qliS) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [Echo! \(talk to me baby\)](https://open.spotify.com/album/7kCuNUFdsY91GvViZ86Qha) | 2:54 | 2025-09-11 | 2025-10-31 |
 | [Eden](https://open.spotify.com/track/0o7DpobP2DG9TCCPlcnloZ) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Eden](https://open.spotify.com/album/7DKWTFyONUmqYSyDFA2D7V) | 3:08 | 2022-03-31 | 2022-04-09 |
+| [EGERO](https://open.spotify.com/track/4SDrNjs1in5RAL5GdCr3bZ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [EGERO](https://open.spotify.com/album/419bm7nIoqiNXgGbtpBKlw) | 3:53 | 2026-10-20 |  |
 | [Elena Coda \(feat\. Elaine\)](https://open.spotify.com/track/2f7C47RCGc10UHfK1dsgun) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [New Edition 34](https://open.spotify.com/album/6V3qsD3AcGwyXtDxcG9fAj) | 4:23 | 2021-12-21 | 2022-07-27 |
 | [Ember](https://open.spotify.com/track/0J2Wi2fua93HE7KIX56oy5) | [Jung Woo](https://open.spotify.com/artist/0kiyFsj1MwYO464H5luc2m) | [LOVED](https://open.spotify.com/album/146jDbYZEKoYEIz1ggnpCy) | 4:14 | 2026-04-13 | 2026-06-30 |
 | [Empty Space Above](https://open.spotify.com/track/5eek1iO2hgsffOssvVtICp) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Empty Space Above](https://open.spotify.com/album/5hCKuPY5AWeMaIlTTTHpwa) | 2:34 | 2025-01-09 | 2025-03-15 |
@@ -1375,6 +1376,7 @@
 | [Youth](https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE) | 6:01 | 2022-07-27 | 2024-04-19 |
 | [Youth](https://open.spotify.com/track/6clmN7YzxNFd8FR2O7yrtz) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [Youth](https://open.spotify.com/album/5RmJvM2QkPYcgEMNAoqOLg) | 3:24 | 2026-01-14 | 2026-02-20 |
 | [You’re my summer](https://open.spotify.com/track/1umthbyIYNuzjLSRiJESMY) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [You’re my summer](https://open.spotify.com/album/0uDar1M8hqUsDDQeJtRRTw) | 2:51 | 2026-06-12 |  |
+| [Yuranga](https://open.spotify.com/track/26oKdWzutBsJWGS3GIwXdr) | [Wonjin](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d) | [Mangsangrok](https://open.spotify.com/album/5EVU1kPrqbogDPEqTRRZsU) | 3:13 | 2026-10-20 |  |
 | [Zero One](https://open.spotify.com/track/2MPynctIqjFhmRLKRpBamF) | [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp) | [Zero One](https://open.spotify.com/album/6hHfHInmTWnwDPyOUpzMXn) | 4:27 | 2022-03-31 | 2022-04-12 |
 | [각자의 밤 Night Night](https://open.spotify.com/track/3KZaT9PJu1rTrDYiK9OG0t) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [각자의 밤 Night Night](https://open.spotify.com/album/7s0Ari3SZ2pxqZtjWw57v9) | 3:45 | 2022-04-12 | 2022-04-21 |
 | [걔 \(Feat\. 허주\)](https://open.spotify.com/track/0cRS4PPxbAZVuZWtz6Ri7D) | [TIKITIK](https://open.spotify.com/artist/4I5VHsJIkTdNbQNC2xkSEO), [Heo Joo](https://open.spotify.com/artist/7Km6Gh01neY3bvN3LJ0vWI) | [걔](https://open.spotify.com/album/62RlkwFl3HIFAdyv8gJykr) | 1:47 | 2024-04-30 | 2024-05-09 |

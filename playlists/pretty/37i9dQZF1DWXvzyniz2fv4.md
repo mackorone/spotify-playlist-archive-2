@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,966 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,962 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 27 | [Tóxico \(feat\. Ivandro & WIU\)](https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:16 |
 | 28 | [Drogas e Sanfona](https://open.spotify.com/track/5OVfyWUnDUmCCoNvz0wYN9) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [DUPÊ](https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm), [Drake D.N](https://open.spotify.com/artist/1vzDo7jFkbW3beWrNYDB27), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Drogas e Sanfona](https://open.spotify.com/album/7sdSlxyUNrYIGnr7Gjtd7r) | 2:28 |
 | 29 | [Favorita](https://open.spotify.com/track/3c2ymV9wzu8hN250I8R7EJ) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi) | [Favorita](https://open.spotify.com/album/20rjum05KirLwgB42dOHei) | 2:31 |
-| 30 | [Sábado](https://open.spotify.com/track/6Abi9YlVMQ5iDRwIU9WYfo) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [Voos Internacionais, Vol\. 2](https://open.spotify.com/album/7gzZ5z8Nd66LrjXu71Z3Bj) | 2:23 |
-| 31 | [replay](https://open.spotify.com/track/4INHlf0BAwHWVr0LCBHmWa) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [replay](https://open.spotify.com/album/5PvhVMVRXCUyjKrTCfILI4) | 2:31 |
+| 30 | [replay](https://open.spotify.com/track/4INHlf0BAwHWVr0LCBHmWa) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [replay](https://open.spotify.com/album/5PvhVMVRXCUyjKrTCfILI4) | 2:31 |
+| 31 | [Sábado](https://open.spotify.com/track/6Abi9YlVMQ5iDRwIU9WYfo) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [Voos Internacionais, Vol\. 2](https://open.spotify.com/album/7gzZ5z8Nd66LrjXu71Z3Bj) | 2:23 |
 | 32 | [Jangada](https://open.spotify.com/track/04s5nBXVzrFSmpQYsU1AvH) | [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Jangada](https://open.spotify.com/album/45Mu8p9khZQVZCgO0PE23f) | 2:10 |
 | 33 | [Partido Alto](https://open.spotify.com/track/70yP3HNhXDC3PpcCTfPBPK) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Partido Alto](https://open.spotify.com/album/4tFgIJ3E2NcjlibDWdSqZn) | 3:26 |
 | 34 | [4 da Manhã \- Acústico](https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Acústico: Sem Perceber + 4 da Manhã](https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR) | 3:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 59 | [Conexão](https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Conexão](https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i) | 2:23 |
 | 60 | [Proposital \(Citação Aquele Abraço\)](https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [Ato 3: TODAMANHÃ](https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw) | 2:48 |
 
-Snapshot ID: `AAAAAMHEdA/osO/QZxhfDLzk3FRylvdj`
+Snapshot ID: `AAAAAKwZ6LUb0Lc9OISV0OPHKfleYLzK`

@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 22 | [Holy Water](https://open.spotify.com/track/4x8KGMFJ2KiIvYF03Hoaa9) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 3:06 |
 | 23 | [He's Trippi](https://open.spotify.com/track/7CLfpXbv3Nt7QDDclvvyfo) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Facsimile](https://open.spotify.com/album/7avdF6sTNZkC771gxNmj1n) | 3:04 |
 | 24 | [What I Know Now](https://open.spotify.com/track/4TdvTst17a1sB4nFgEgMC1) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [What I Know Now](https://open.spotify.com/album/6CEcy25megcuYifhqxgzkn) | 3:04 |
-| 25 | [Show Me](https://open.spotify.com/track/4U9O5yQAIxi4GsZGhcRXsS) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Show Me](https://open.spotify.com/album/1nVmuytyAbzD8Bk1SqDv04) | 3:40 |
-| 26 | [Another World](https://open.spotify.com/track/2hIDp0Wsysagyn7VZkqNhL) | [CONTROL Resonant](https://open.spotify.com/artist/3eBiwUiMiQWhOpm4z8356l), [Frida Amundsen](https://open.spotify.com/artist/7bWpniIKlAHKaXyn3BFPlr), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Zoe's Mixtape](https://open.spotify.com/album/3tvQ7tUbztcIdUMHQDXkT7) | 3:11 |
+| 25 | [Another World](https://open.spotify.com/track/2hIDp0Wsysagyn7VZkqNhL) | [CONTROL Resonant](https://open.spotify.com/artist/3eBiwUiMiQWhOpm4z8356l), [Frida Amundsen](https://open.spotify.com/artist/7bWpniIKlAHKaXyn3BFPlr), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Zoe's Mixtape](https://open.spotify.com/album/3tvQ7tUbztcIdUMHQDXkT7) | 3:11 |
+| 26 | [Show Me](https://open.spotify.com/track/4U9O5yQAIxi4GsZGhcRXsS) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Show Me](https://open.spotify.com/album/1nVmuytyAbzD8Bk1SqDv04) | 3:40 |
 | 27 | [Arm’s Length](https://open.spotify.com/track/4SR5sDCQfNlum4GSzexVKA) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/4jeFaZ3TvNTgHAdTFzTKoF) | 3:28 |
 | 28 | [Energy](https://open.spotify.com/track/6T5wFYTKuMntiTXXR5Efbs) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Energy](https://open.spotify.com/album/4AiRfctFktplV3Xdnv8DkQ) | 3:55 |
 | 29 | [WATR](https://open.spotify.com/track/0a4BrUFx3UGrK5LYiWfSHr) | [REGN](https://open.spotify.com/artist/6Wis87yBDzJkmiRxsqRNIL) | [WATR](https://open.spotify.com/album/4HB2HMHQoVw9py2VLy7Ke9) | 2:56 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 57 | [Fuck Things Up](https://open.spotify.com/track/4J2r5n7wTXGdaRGse0ON6G) | [Vera Hotsauce](https://open.spotify.com/artist/5KucN3rNvkbmfNWqknOvth) | [Hot N Saucy](https://open.spotify.com/album/5aerQ661gL2BTTPjPpYsm1) | 3:03 |
 | 58 | [Punch](https://open.spotify.com/track/7JtmLurRXvcyvqVGwxoS9M) | [Darcy Day](https://open.spotify.com/artist/0jsZR31z3SUBQ1BJuAdEDn) | [Punch](https://open.spotify.com/album/0MgS9kN89HMeT1m2YuWPVF) | 2:29 |
 
-Snapshot ID: `AcfZRAAAAAA5WnxyHvWSp32PK9IxUoGE`
+Snapshot ID: `AcfevAAAAADb5CJcLYokSCgOTHcQNBPa`

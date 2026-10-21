@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: JANEY
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,711 likes - 104 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,710 likes - 104 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 103 | [Ouder Word](https://open.spotify.com/track/0woSSr7ZRt6sAJorMQc4j0) | [Kafke](https://open.spotify.com/artist/0nC1zkioNJaPntz8XAeLx9) | [Ouder Word](https://open.spotify.com/album/2DrMMDwhWi4iyEJcG3Sr0K) | 2:26 |
 | 104 | [Misschien Is Het Tijd](https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Misschien Is Het Tijd](https://open.spotify.com/album/4SyQopHqsRexQCsxaADSRa) | 2:57 |
 
-Snapshot ID: `AAAAAIqKkjEZnEEDrwZKOGnc7ll7Jy82`
+Snapshot ID: `AAAAANHXTWFKpUG5kBRP2mNYIkSy5LXZ`

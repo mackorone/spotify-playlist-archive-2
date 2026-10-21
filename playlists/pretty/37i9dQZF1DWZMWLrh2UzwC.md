@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Ernie Zakri, Mimifly, Sheila Majid, Ashe, Sarah Suhairi, Rex Orange County, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,164 likes - 109 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,148 likes - 109 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 78 | [Obsessed with Youth](https://open.spotify.com/track/4H0NRY1CSAKgV7przexSxY) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [IMPULSE](https://open.spotify.com/album/5KBVJq6jXRyLg9d0OJuy8f) | 3:15 |
 | 79 | [Next Chapter](https://open.spotify.com/track/0eTzMGetnDvA6G3QpQc2d4) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Next Chapter](https://open.spotify.com/album/1bbff8xB6Bk59qgFqON2BT) | 2:49 |
 | 80 | [Andless](https://open.spotify.com/track/54E6zLaoW4ofXKaXhLVu3G) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<LOVE&POP> pt.2](https://open.spotify.com/album/4xzONnGPY3wEMHOSsmeJEf) | 2:46 |
-| 81 | [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 |
+| 81 | [NEON](https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4) | [A2O LITE](https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [NEON](https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd) | 3:28 |
 | 82 | [Psycho](https://open.spotify.com/track/5iLRXdRtpB9AOqV8exoBi8) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Confessions of a Lonely Heart](https://open.spotify.com/album/5WkPO28CXngFj8ET2d6pyj) | 2:50 |
 | 83 | [Blessed](https://open.spotify.com/track/20dDIAqQEqaRBFWWkEjwhI) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB), [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Blessed](https://open.spotify.com/album/6CTnhjsCTTXdCu2126UUHo) | 3:52 |
 | 84 | [Unloaded](https://open.spotify.com/track/2HJYOteIQ7Zp7PrCUQDeTd) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [All Tomorrows](https://open.spotify.com/album/6JRke0thZV22zjwv797jba) | 3:22 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 97 | [H.O.U.S.E](https://open.spotify.com/track/1BTZKp1hBSeApqQh1ngqpZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [H.O.U.S.E](https://open.spotify.com/album/4q7mI2Qh8J13e1IWkXCXdA) | 2:31 |
 | 98 | [Girls Girl](https://open.spotify.com/track/3b2OEzF5rlmxyMiwU3d7lz) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [When Saturn Returns](https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51) | 3:24 |
 | 99 | [Ridin′ \(CAN YOU HEAR THAT\)](https://open.spotify.com/track/14vIZxeOoOinZ0Xg1iL2RQ) | [MODYSSEY](https://open.spotify.com/artist/6R1ubSvhLgLg13yl4n6f5q) | [2.Multitude: How We Bloom](https://open.spotify.com/album/5bep5dOZ7SYYp7KI2jUFqe) | 3:07 |
-| 100 | [SUPERSTAR](https://open.spotify.com/track/1DWMei2F4L94avyzZh3Ms9) | [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O SOUL](https://open.spotify.com/artist/1sqWFSwBcJ6eunJRrCsmYb) | [SUPERSTAR](https://open.spotify.com/album/1DzXeVnrXrHT6hciDfbGLf) | 4:08 |
+| 100 | [SUPERSTAR](https://open.spotify.com/track/1DWMei2F4L94avyzZh3Ms9) | [A2O SOUL](https://open.spotify.com/artist/1sqWFSwBcJ6eunJRrCsmYb), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE) | [SUPERSTAR](https://open.spotify.com/album/1DzXeVnrXrHT6hciDfbGLf) | 4:08 |
 | 101 | [WHICH WAY](https://open.spotify.com/track/4t25GxC3kgK4krFOHaJpW2) | [DAILY:DIRECTION](https://open.spotify.com/artist/7tEX36hrHuwMnHXrZUkzx7) | [WHICH WAY](https://open.spotify.com/album/5sDUhA85xqNra0VHL8zfBE) | 3:00 |
 | 102 | [Summer Interlude](https://open.spotify.com/track/7fqmdAlM5NZwml9LQbPXlo) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Summer Interlude](https://open.spotify.com/album/7D3WwYXTIblhkNxZHLIBhI) | 1:56 |
 | 103 | [Coded Ways](https://open.spotify.com/track/25OGZtSh6I37SczwCXpxmL) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [A Simple Binary and a Complex Phrase](https://open.spotify.com/album/2Jxie5ogAiKdVNnDVuYLKr) | 4:29 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 108 | [Outta My System \(Bx With A Bob\)](https://open.spotify.com/track/3QDvKezQandOrobWqjWdIm) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Laugh Now Cry Later](https://open.spotify.com/album/7mI18u91chIHQc35WQa6Ja) | 2:27 |
 | 109 | [60 mgs](https://open.spotify.com/track/3g0UsA0hxpwAtkrk9JHW9l) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Last Laugh \[archive tape\]](https://open.spotify.com/album/3c4YSsbZQRcnnFPni2ORG8) | 2:05 |
 
-Snapshot ID: `AAAAACxeDWkCWDVkvq1U/tGb0NwWXIEQ`
+Snapshot ID: `AAAAAKzHRJvV2LWKtHf9FsX5xWez+6Jn`

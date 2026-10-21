@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,773 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,774 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 64 | [O Holy Night](https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [O Holy Night](https://open.spotify.com/album/2H8X72tUBjkUEn97HGzjx8) | 3:58 |
 | 65 | [Joy to the World](https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 1:28 |
 | 66 | [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 |
-| 67 | [Holly Jolly Christmas](https://open.spotify.com/track/0quJINxC2EJafaaAFYA2sE) | [Mauro Meira](https://open.spotify.com/artist/5P3e6ZdtW6wdkTG7Fu7WBr) | [Holly Jolly Christmas](https://open.spotify.com/album/0AdbsAnET4JV9zsd9LTHDd) | 2:03 |
-| 68 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c) | 2:29 |
+| 67 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c) | 2:29 |
+| 68 | [Holly Jolly Christmas](https://open.spotify.com/track/0quJINxC2EJafaaAFYA2sE) | [Mauro Meira](https://open.spotify.com/artist/5P3e6ZdtW6wdkTG7Fu7WBr) | [Holly Jolly Christmas](https://open.spotify.com/album/0AdbsAnET4JV9zsd9LTHDd) | 2:03 |
 | 69 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 |
 | 70 | [Busy Santa](https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Busy Santa](https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD) | 3:20 |
 | 71 | [Where Are You Christmas](https://open.spotify.com/track/0EuP5frP5f6YrzA9J0sJ6F) | [Swinging Renegades](https://open.spotify.com/artist/2Cbjo8F8AQ3ZZEJwmxlD8k) | [Where Are You Christmas](https://open.spotify.com/album/7MkJv5yyWK1lBjaLlODknj) | 3:30 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 79 | [Winter Wonderland](https://open.spotify.com/track/0IbVA4IxnJx49LvtubFILM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Winter Wonderland](https://open.spotify.com/album/7FfxASu1BtqyyqMLs7ZOiA) | 2:19 |
 | 80 | [Under My Christmas Tree](https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Under My Christmas Tree](https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA) | 3:06 |
 
-Snapshot ID: `AAAAAKY4Gk8jWtHYJAWy/bGx2R559VgW`
+Snapshot ID: `AAAAAC0phBY4bxOOgHEx4qsL6ak8iFx2`

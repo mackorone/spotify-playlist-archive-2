@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,337 likes - 66 songs - 3 hr 41 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,336 likes - 68 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,5 +74,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 64 | [Bad Habit](https://open.spotify.com/track/0ZL0LiEdUas8eiMlhBWMh9) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [SAYAK DAS](https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A) | [Bad Habit](https://open.spotify.com/album/4xYP4WbxY4JViO6OLYjCbK) | 2:34 |
 | 65 | [Stay With Me](https://open.spotify.com/track/0ce3j6wnI1zasUA65b0YyS) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl), [Eda Hinkova](https://open.spotify.com/artist/4doUjy4CUhKC3Hf0lZMTmq) | [Stay With Me](https://open.spotify.com/album/3SBxaJgLTgrhlVsVMXlvQJ) | 2:46 |
 | 66 | [Lightning In A Bottle](https://open.spotify.com/track/5X9akP1OfE8A1PPj5hNJ2k) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [5T4RP0W3R](https://open.spotify.com/album/66V5NZ2YA7kOza3gONqARK) | 3:34 |
+| 67 | [Out Of Sight, Out Of Mind](https://open.spotify.com/track/6ClI5b3S2i6cK21MsSQnJF) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Odd Boys](https://open.spotify.com/album/6Q5xB8T6rX6zFaKM3sAjVt) | 3:04 |
+| 68 | [When We're Dancing](https://open.spotify.com/track/0BwJAN2zQWD9Zi42s2Zpso) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [When We're Dancing](https://open.spotify.com/album/4t4fRjRLrBhBOFxHdR4odx) | 3:25 |
 
-Snapshot ID: `AAArZyoGZx0CL7g+mLgnpQnvz/rJU9Jy`
+Snapshot ID: `AAAradbISlhkcncOekGu1RImodynaEsQ`

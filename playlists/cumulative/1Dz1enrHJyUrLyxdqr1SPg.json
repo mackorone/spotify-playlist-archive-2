@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "A\u015fk ve Keder",
+        "url": "https://open.spotify.com/album/5NAqsLZvNOkZDdalV15hbp"
+      },
+      "artists": [
+        {
+          "name": "Cem Onur Se\u00e7kin",
+          "url": "https://open.spotify.com/artist/4XtVem56Aic26h1rbAcOW6"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229846,
+      "name": "A\u015fk ve Keder",
+      "url": "https://open.spotify.com/track/02CSOE8JMplwQLUQhbKJpw"
+    },
+    {
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/5PrKJaLZfN1YjLQNRXDSIb"
       },

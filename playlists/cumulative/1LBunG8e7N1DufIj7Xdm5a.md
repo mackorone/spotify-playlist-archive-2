@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,910 songs - 11 day 2 hr 27 min
+4,916 songs - 11 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Angels Only Pick Sunflowers](https://open.spotify.com/track/5wn1mUP4JIQLLjm2HNZ5Fc) | [End Credits](https://open.spotify.com/artist/6oLfpsrrNYAlkCIhB6Qafs) | [Angels Only Pick Sunflowers](https://open.spotify.com/album/4jJ5ssQOVXd4RndCi140kA) | 3:37 | 2025-07-12 |  |
 | [Anger Strike](https://open.spotify.com/track/6mhbQ0i36khByCU3o3IVsA) | [Cannonball](https://open.spotify.com/artist/1xVztnwVO4I97Y9dEBR7Ao) | [Anger Strike](https://open.spotify.com/album/1vjJ3x9glDLsEp6djbMnvl) | 4:18 | 2025-02-27 |  |
 | [Anna](https://open.spotify.com/track/1T4qXhpof8oD7Y1q3yQskp) | [Roan Grevel](https://open.spotify.com/artist/4wxjtS4x7ygkkfEw3Tg627) | [Anna](https://open.spotify.com/album/5241ZW0UXjRpXswRhZ3Sjs) | 4:30 | 2026-05-19 |  |
+| [Annie](https://open.spotify.com/track/33IfycG6dgnlTEkZ9RpcdA) | [Pepi](https://open.spotify.com/artist/1JcqlMEa8HWxcRm8zM5oUR) | [Criminal](https://open.spotify.com/album/3WvTgFusl8GmoIeZujSWM5) | 3:21 | 2026-10-20 |  |
 | [ANOMALIST](https://open.spotify.com/track/66ut1Lnn0vhd7YSxlBSc59) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [ANOMALIST](https://open.spotify.com/album/5kfN2PHjnOH32ZrJU5WCUq) | 2:52 | 2025-07-03 |  |
 | [Anora](https://open.spotify.com/track/6aatZDd10jSN8blwLBURlE) | [9mice](https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm) | [Anora](https://open.spotify.com/album/02SAuWHkTaO6onlJx2JO5x) | 2:41 | 2025-07-28 |  |
 | [Another Earth](https://open.spotify.com/track/6UZgVKwEHllCXJ6IR0d62d) | [Orrin](https://open.spotify.com/artist/57MSCk9ocHFyzO9phFgPt0) | [Another Earth](https://open.spotify.com/album/5fucSXGpUS2zYlqRlXkWig) | 2:12 | 2025-05-16 |  |
@@ -435,6 +436,7 @@
 | [Black or White](https://open.spotify.com/track/4tok7s1cquoHTxgHPIv8Xe) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [Black or White](https://open.spotify.com/album/6jAQM6dV7PLwD05KnDotSk) | 6:05 | 2026-05-14 |  |
 | [BLACK STAR \- SINGOLO](https://open.spotify.com/track/7In4JGEpZPLTyuckV69bBV) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [BLACK STAR \(SINGOLO\)](https://open.spotify.com/album/6DrwTjhBvwsIpDHGdGRUdi) | 3:50 | 2025-10-04 |  |
 | [Black tie and crazy nights](https://open.spotify.com/track/2l3bJWPo2JzRifBk4MOJyU) | [One North One](https://open.spotify.com/artist/0Yj7qWFMY6mYnITGMxCaaa), [Ben Lafleur](https://open.spotify.com/artist/0o62ddvLBHfZ2WFLzWA7a3) | [Black tie and crazy nights](https://open.spotify.com/album/4R6Ds80WVh7f3VE5UW5n6O) | 4:39 | 2026-09-22 |  |
+| [Blackbird Jesus](https://open.spotify.com/track/6GCQeEusHe8tNtCxDeebp7) | [MX the American](https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU) | [Blackbird Jesus](https://open.spotify.com/album/4rIYQnYsxOaKctx7cROblR) | 3:58 | 2026-10-20 |  |
 | [Blacked Out](https://open.spotify.com/track/3kdRdlEqHdnGXeqUjFrH06) | [Kiid Jay](https://open.spotify.com/artist/3ozVEXSQBtsOPFwvnOXpTD), [Multiszn](https://open.spotify.com/artist/3YVGBwNQmEMDiEMn1RGK9W) | [Blacked Out](https://open.spotify.com/album/44MJn0Qaeli0noRTd0Erwm) | 3:10 | 2025-03-03 |  |
 | [Blackout Trauma](https://open.spotify.com/track/0UNpnDhGLD7jOziJqRhiEs) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 3:04 | 2026-04-13 |  |
 | [Blackout Trauma \(fomo mode\)](https://open.spotify.com/track/1eyuBpGBSeM3dQpzzf87ux) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:56 | 2026-04-13 |  |
@@ -1158,6 +1160,7 @@
 | [Divide](https://open.spotify.com/track/5dsHDEtCMqELLu9cC0KCic) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Blindspot](https://open.spotify.com/album/0mwDzmvlLD8w6XiMURxOiv) | 3:33 | 2025-11-26 |  |
 | [DIY Till I Die](https://open.spotify.com/track/4CD0MYDmHQpyIbkAebAb85) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Old school punk](https://open.spotify.com/album/7HRvEw1JJpUpB1CmseoZZQ) | 1:59 | 2025-09-19 |  |
 | [Djinn](https://open.spotify.com/track/4dKaGPw2NAcpLTETHaU4NG) | [Atopics](https://open.spotify.com/artist/4zrFaxH2qgffuRDxgna5wI) | [Djinn](https://open.spotify.com/album/0JPLWWXfW9y82D4RV75IB8) | 3:00 | 2025-06-11 |  |
+| [Do not give up](https://open.spotify.com/track/53PkVboVCwrHpT8VEPlsyn) | [Stephen Dane](https://open.spotify.com/artist/2xYFifG4GUu3m2CKOlJUu3) | [Do not give up](https://open.spotify.com/album/4eKT5ELVX3j07XQbNidxNn) | 3:08 | 2026-10-20 |  |
 | [DOE DAN](https://open.spotify.com/track/0k6moj6JXKY0r7g7jDo2oF) | [Meester Do](https://open.spotify.com/artist/1FVbmIOPjODNt5IlM9r7vT) | [DOE DAN](https://open.spotify.com/album/62ngumopXDkWWiA1Nrk96e) | 2:30 | 2026-10-09 |  |
 | [DOG DAG BAU BAU](https://open.spotify.com/track/5SU8PgiAudB0sQrDKkSTLY) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:06 | 2026-05-21 |  |
 | [dogon](https://open.spotify.com/track/2Vc9ilT0HXP208Duu45b8W) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 3:18 | 2026-02-01 |  |
@@ -2246,6 +2249,7 @@
 | [Just for Andria](https://open.spotify.com/track/5DzCJJOZBxoWswf65wxr7s) | [Dark King](https://open.spotify.com/artist/5dzP6McjdagUikp6JCsq0t) | [Just for Andria](https://open.spotify.com/album/6uoQdMzgrfTFEvOyVnNrt4) | 2:48 | 2025-06-29 |  |
 | [just hit a jugg](https://open.spotify.com/track/59rUAYNrN9PUVhs3YTRctV) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [just hit a jugg](https://open.spotify.com/album/7l4KjCqSzWOItEDJF5FKXT) | 1:36 | 2025-10-14 |  |
 | [Just Human](https://open.spotify.com/track/7mZ4brZqkAI08vy4N2up7S) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Just Human](https://open.spotify.com/album/7gCOnjUhcrGZotRhbydePn) | 3:46 | 2025-02-13 |  |
+| [Just Me](https://open.spotify.com/track/4hJNU6qooEa5nD8TLUfAt8) | [Armina Akopyan](https://open.spotify.com/artist/00L4wR1oh5qPogB48a58oV) | [Just Me](https://open.spotify.com/album/3dsjIKRvXh3vUPZ1jOUB9c) | 3:22 | 2026-10-20 |  |
 | [Just the Thing](https://open.spotify.com/track/0TnbWHg68Z0fLDl4HYV31r) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [I Am](https://open.spotify.com/album/0k77QzqX1NJf5B8anY0Uif) | 2:43 | 2025-03-30 |  |
 | [JUST WAIT](https://open.spotify.com/track/0jn4pFs4qJhAILTDIIUlSb) | [BB](https://open.spotify.com/artist/79IIXXtsmNkpN2btrkbIot) | [MICHAEL 2](https://open.spotify.com/album/4voAERiKo3EYGvhKXJqz5U) | 2:08 | 2026-01-15 |  |
 | [Justice for Lucy Letby](https://open.spotify.com/track/7foZi9ro64GDP1dOrAS6x3) | [BRD Investigations](https://open.spotify.com/artist/5iDvgzPhfxEWwXEjesv0Jn) | [Justice for Lucy Letby](https://open.spotify.com/album/6g1xo1RvUj8ptweteqI2Hq) | 3:38 | 2026-03-01 |  |
@@ -2718,6 +2722,7 @@
 | [Misonzi Mbwee](https://open.spotify.com/track/6ag6oI8gvsRRLnjts6U43R) | [Kay Krush](https://open.spotify.com/artist/1NTEEE22b4tOhZQvMctIlT) | [Misonzi Mbwee](https://open.spotify.com/album/5bZtNoEOO7q73ellDvr6VG) | 2:20 | 2025-06-05 |  |
 | [Miss & Mister](https://open.spotify.com/track/5olQqq0SKbmBwnYtm1ULwx) | [David Lenoc](https://open.spotify.com/artist/0bwgixs0srFeTkbOEA7CvJ) | [Miss & Mister](https://open.spotify.com/album/7KksWeTZuUnkUtZtgtjOSG) | 2:40 | 2025-05-26 |  |
 | [MISS ME?](https://open.spotify.com/track/19T5c0CENOO6K32TJTUg7r) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [MISS ME?](https://open.spotify.com/album/3cJ0inyTwpiEqKRxnPpeJ9) | 2:06 | 2025-07-28 |  |
+| [Missing You](https://open.spotify.com/track/4QlbPBnTPhyZDi0vlDGIuN) | [Who's Molly?](https://open.spotify.com/artist/5cdF3kdHKfTkPS9t9778wp) | [Missing You](https://open.spotify.com/album/2N5M8052YhgdZtrO3vUuny) | 2:56 | 2026-10-20 |  |
 | [Mister B](https://open.spotify.com/track/3Nf6MGcIZEFOULezd4lJpw) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Mister B](https://open.spotify.com/album/6tTmt9YBr54Z9rqHkdQWXw) | 1:54 | 2025-12-10 |  |
 | [Mit deiner Stimme](https://open.spotify.com/track/5HBNvAu2ZApr2E4aLH2WZX) | [gebi.sounds](https://open.spotify.com/artist/3fJr7wKHIl9wPDKvQE9B5a) | [Mit deiner Stimme](https://open.spotify.com/album/56vwqYlCD6CjzGzzbuqT9T) | 2:55 | 2026-01-23 |  |
 | [Mitwa Tere Bina](https://open.spotify.com/track/2EDgCVfxupZN9Sk4DApy9N) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Mitwa Tere Bina](https://open.spotify.com/album/6aA1oRLgyradWRPoMSWGQW) | 3:11 | 2026-08-04 |  |
@@ -2918,6 +2923,7 @@
 | [Never Never](https://open.spotify.com/track/4XfvXDR9ldrq26YOHukESs) | [Gabi Garbutt](https://open.spotify.com/artist/1zdPDrnGi5pv0U8f8kFEmi) | [Cockerel](https://open.spotify.com/album/7K4IwPHd9KkN7T0PGvT7zQ) | 2:46 | 2025-11-05 |  |
 | [Never too Late](https://open.spotify.com/track/3aFOwNnDfwNK76TfQAdgPb) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Never too Late](https://open.spotify.com/album/2Wd8hr5AlJ1UObwueanYlA) | 3:55 | 2025-10-01 |  |
 | [Never Trust A Pig](https://open.spotify.com/track/0amXYhhJnE5jby745KLxIg) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Never Trust A Pig](https://open.spotify.com/album/2pDvvEkFY7ymQKO480r1Ar) | 3:36 | 2026-07-24 |  |
+| [Neverending](https://open.spotify.com/track/5t32Xg2Aqwc4MKfMCcf244) | [Brother Venus](https://open.spotify.com/artist/45ZPkbeHuBIsgk4fzjmg3R) | [Neverending](https://open.spotify.com/album/0d8H1lT7wVzDmIIgRPbtdY) | 4:38 | 2026-10-20 |  |
 | [NEW](https://open.spotify.com/track/5n6AqTx1nw3ETpMY5sxKzu) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 2:43 | 2025-08-28 |  |
 | [New AF](https://open.spotify.com/track/2gFC4YxXi5RZiEBwmlxiTQ) | [Blue Drip](https://open.spotify.com/artist/7GgaHnzEx7IFkJearygbKk) | [NEW AF](https://open.spotify.com/album/4BDsREUhuUoILVquZuRlfh) | 4:00 | 2026-08-07 |  |
 | [New Horizons](https://open.spotify.com/track/2QBJJk1XIUVtu07TTMKIXd) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Cyber Electro\-Music](https://open.spotify.com/album/3vRDhvvZ7bNY4ZidlEHF2B) | 2:06 | 2025-09-18 |  |

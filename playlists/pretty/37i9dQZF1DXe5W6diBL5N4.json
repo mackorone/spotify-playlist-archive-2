@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the freshest K-Pop new releases (Cover: IVE) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 362832,
+  "num_followers": 362872,
   "original_name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH5SSWcRpgX8T1oUjurftSq1piDV",
+  "snapshot_id": "AAAAAOpod1ggqQGYe/MYt8CJKXZ3Y0Ke",
   "tracks": [
     {
       "added_at": "2026-10-19 09:03:49",
@@ -23,6 +23,102 @@
       "duration_ms": 195559,
       "name": "Looks Can Kill",
       "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
+    },
+    {
+      "added_at": "2026-10-20 09:00:29",
+      "album": {
+        "name": "Come into my world!",
+        "url": "https://open.spotify.com/album/6ylnjm0URGeTGGo0xYdsW3"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 204018,
+      "name": "Come into my world!",
+      "url": "https://open.spotify.com/track/5zacvTOytsVSZneiZT5J7u"
+    },
+    {
+      "added_at": "2026-10-20 09:00:29",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/7IVdc3CwCG2eQn4q8L8I3O"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/6BWxQgYLrm70Vo6XDsMONU"
+    },
+    {
+      "added_at": "2026-10-20 09:00:29",
+      "album": {
+        "name": "Mangsangrok",
+        "url": "https://open.spotify.com/album/2H1OWQXGSlbaUkxO88u0l2"
+      },
+      "artists": [
+        {
+          "name": "Wonjin",
+          "url": "https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "Yuranga",
+      "url": "https://open.spotify.com/track/6FZrgH1QpFqrnbZPWf1oZ5"
+    },
+    {
+      "added_at": "2026-10-20 09:00:29",
+      "album": {
+        "name": "EGERO",
+        "url": "https://open.spotify.com/album/419bm7nIoqiNXgGbtpBKlw"
+      },
+      "artists": [
+        {
+          "name": "\ub370\uc774\uba3c\uc2a4 \uc774\uc5b4 Damons year",
+          "url": "https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus"
+        }
+      ],
+      "duration_ms": 233550,
+      "name": "EGERO",
+      "url": "https://open.spotify.com/track/4SDrNjs1in5RAL5GdCr3bZ"
+    },
+    {
+      "added_at": "2026-10-20 09:00:29",
+      "album": {
+        "name": "THE REAL DEAL",
+        "url": "https://open.spotify.com/album/0OIyVtDLKWEd7mVg2Dzu7N"
+      },
+      "artists": [
+        {
+          "name": "B THE HOOD",
+          "url": "https://open.spotify.com/artist/4wWfs5kmKMaIqlsX6OJTYJ"
+        }
+      ],
+      "duration_ms": 182413,
+      "name": "CHOP!",
+      "url": "https://open.spotify.com/track/6YXwcmV3Uyo2pseUwEBGHI"
+    },
+    {
+      "added_at": "2026-10-20 09:00:29",
+      "album": {
+        "name": "Island",
+        "url": "https://open.spotify.com/album/15asr0J33eGcKkAY9K3ATZ"
+      },
+      "artists": [
+        {
+          "name": "\uc57c\uc790\uc218",
+          "url": "https://open.spotify.com/artist/6S4lccsgpUHRk007vr54Ag"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/31YoFGgL0FiuPhvqOE76by"
     },
     {
       "added_at": "2026-10-19 09:03:49",
@@ -596,12 +692,12 @@
       },
       "artists": [
         {
-          "name": "A2O",
-          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
-        },
-        {
           "name": "A2O LITE",
           "url": "https://open.spotify.com/artist/0Vkn28k7P4K95Ce3knN0hQ"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
         }
       ],
       "duration_ms": 208000,
@@ -616,12 +712,12 @@
       },
       "artists": [
         {
-          "name": "A2O",
-          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
-        },
-        {
           "name": "A2O SOUL",
           "url": "https://open.spotify.com/artist/1sqWFSwBcJ6eunJRrCsmYb"
+        },
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
         }
       ],
       "duration_ms": 248000,
@@ -1520,8 +1616,8 @@
       },
       "artists": [
         {
-          "name": "TIOT(\ud2f0\uc544\uc774\uc624\ud2f0)",
-          "url": "https://open.spotify.com/artist/2DJzIfHGUVqiclKplfsFMW"
+          "name": "TIOT",
+          "url": "https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7"
         }
       ],
       "duration_ms": 215000,

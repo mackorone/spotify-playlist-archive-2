@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 49189,
+  "num_followers": 49188,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKGqMsbtcz5wMxe5z/5J7A4XlN2u",
+  "snapshot_id": "AAAAAKNcK8ZRNEPb6spIP+TkaHtm4+ZI",
   "tracks": [
     {
       "added_at": "2026-05-29 09:57:53",
@@ -607,18 +607,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Background",
-        "url": "https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72"
+        "name": "Classe 73",
+        "url": "https://open.spotify.com/album/54GeEc4tDY4pozqquEQ8qj"
       },
       "artists": [
         {
           "name": "Bassi Maestro",
           "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        },
+        {
+          "name": "Ape",
+          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
+        },
+        {
+          "name": "Zampa",
+          "url": "https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8"
         }
       ],
-      "duration_ms": 304066,
-      "name": "S.I.C.",
-      "url": "https://open.spotify.com/track/73PGxHOmukjSv5fLHvRqkJ"
+      "duration_ms": 222000,
+      "name": "Giorni matti",
+      "url": "https://open.spotify.com/track/4UcEhlM24HS6DkVwnv7Hys"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -691,26 +699,18 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Classe 73",
-        "url": "https://open.spotify.com/album/54GeEc4tDY4pozqquEQ8qj"
+        "name": "Background",
+        "url": "https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72"
       },
       "artists": [
         {
           "name": "Bassi Maestro",
           "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        },
-        {
-          "name": "Ape",
-          "url": "https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM"
-        },
-        {
-          "name": "Zampa",
-          "url": "https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Giorni matti",
-      "url": "https://open.spotify.com/track/4UcEhlM24HS6DkVwnv7Hys"
+      "duration_ms": 304066,
+      "name": "S.I.C.",
+      "url": "https://open.spotify.com/track/73PGxHOmukjSv5fLHvRqkJ"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "Bastavano Le Briciole",
+      "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "QVC 10 - Quello Che Vi Consiglio Vol. 10",
         "url": "https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 132919,
       "name": "Hip Hop Snippet (feat. Dj Shocca)",
       "url": "https://open.spotify.com/track/4XvOoyOmHrE9RwwTWNBh5Y"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 233120,
-      "name": "Bastavano Le Briciole",
-      "url": "https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "CRISTI E DIAVOLI",
         "url": "https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 168546,
       "name": "Tinta unita (feat. Danno)",
       "url": "https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1219,6 +1219,30 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "107 Elementi",
+        "url": "https://open.spotify.com/album/6FVB7bR0jpYAZWEXy6aj1o"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Chico Mdee",
+          "url": "https://open.spotify.com/artist/65PTy8VhfLZr64mWIff2ek"
+        },
+        {
+          "name": "Anna Marotta",
+          "url": "https://open.spotify.com/artist/3KSmHFvqVcqN4RYoKWH8vr"
+        }
+      ],
+      "duration_ms": 293160,
+      "name": "Guerra E Pace",
+      "url": "https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "VOCE e BATTERIA",
         "url": "https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2"
       },
@@ -1263,30 +1287,6 @@
       "duration_ms": 309466,
       "name": "Piombo & fango",
       "url": "https://open.spotify.com/track/2X6W0Y0FeAhT7HU20iSXwy"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "107 Elementi",
-        "url": "https://open.spotify.com/album/6FVB7bR0jpYAZWEXy6aj1o"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Chico Mdee",
-          "url": "https://open.spotify.com/artist/65PTy8VhfLZr64mWIff2ek"
-        },
-        {
-          "name": "Anna Marotta",
-          "url": "https://open.spotify.com/artist/3KSmHFvqVcqN4RYoKWH8vr"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Guerra E Pace",
-      "url": "https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Musica Cicatrene",
+        "url": "https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 206626,
+      "name": "SECONDO MEDIOEVO",
+      "url": "https://open.spotify.com/track/5pqHMW2Nubqpii1BJhhVnZ"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "ALHAMBRA",
         "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 138461,
       "name": "Cielo Grigio (feat. NeS)",
       "url": "https://open.spotify.com/track/4PXaODmjOGleP7q9UkyYQy"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Musica Cicatrene",
-        "url": "https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "SECONDO MEDIOEVO",
-      "url": "https://open.spotify.com/track/5pqHMW2Nubqpii1BJhhVnZ"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Quelli come noi",
+      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Still From The '90s (The Manifesto) [Reloaded Version]",
         "url": "https://open.spotify.com/album/4fxxXPJbmqqDc82MZdGHYf"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 162151,
       "name": "Still From The '90s (The Manifesto) - Reloaded Version",
       "url": "https://open.spotify.com/track/7M8ITVNCWKcUTGGKvrsFCc"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Questo non \u00e8 un cane",
-        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Quelli come noi",
-      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2427,6 +2427,26 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "FONDAZIONE STRADA",
+        "url": "https://open.spotify.com/album/5BJ1RaQg0t5LAvGWXMirvw"
+      },
+      "artists": [
+        {
+          "name": "Vacca",
+          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Buste di Figu",
+      "url": "https://open.spotify.com/track/3vUZOWEfzbWawRLZQdN54o"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Rosso Fuoco",
         "url": "https://open.spotify.com/album/488oHGsY9aP0vynkOBwZCE"
       },
@@ -2447,26 +2467,6 @@
       "duration_ms": 227520,
       "name": "Rosso Fuoco",
       "url": "https://open.spotify.com/track/5dpmfVEMO4Lb2lHSEzpK68"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "FONDAZIONE STRADA",
-        "url": "https://open.spotify.com/album/5BJ1RaQg0t5LAvGWXMirvw"
-      },
-      "artists": [
-        {
-          "name": "Vacca",
-          "url": "https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR"
-        },
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Buste di Figu",
-      "url": "https://open.spotify.com/track/3vUZOWEfzbWawRLZQdN54o"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2847,22 +2847,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Nostra Signora delle Lacrime",
-        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
-      },
-      "artists": [
-        {
-          "name": "Kento",
-          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
-        }
-      ],
-      "duration_ms": 229588,
-      "name": "Nostra Signora delle Lacrime",
-      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Day Off",
         "url": "https://open.spotify.com/album/3VByS2MsqxN343yE4C3vHr"
       },
@@ -2887,6 +2871,22 @@
       "duration_ms": 242758,
       "name": "Verde (feat. Willie Peyote & Cicco Sanchez)",
       "url": "https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Nostra Signora delle Lacrime",
+        "url": "https://open.spotify.com/album/6Q4NWz9AbD2c9gUZcLxxyv"
+      },
+      "artists": [
+        {
+          "name": "Kento",
+          "url": "https://open.spotify.com/artist/3syqfb0GkvvMTS5sq0ugMd"
+        }
+      ],
+      "duration_ms": 229588,
+      "name": "Nostra Signora delle Lacrime",
+      "url": "https://open.spotify.com/track/6nY6rEcmJhbJAxkV3gCoX8"
     },
     {
       "added_at": "2026-05-29 09:57:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Ella Herold & Cledos, Alina Burnet, F..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,934 likes - 101 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,924 likes - 101 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 100 | [Tale of four broken men](https://open.spotify.com/track/3Iv0kDOjiKgEOB84GZUvRY) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [Tale of four broken men](https://open.spotify.com/album/3UlpP2wvOYPnKutrayA7wL) | 3:12 |
 | 101 | [Sacrifice](https://open.spotify.com/track/6hZlvOrSSquPmmPK51Ju29) | [Suzi Sabotage](https://open.spotify.com/artist/4Xg5IOdSKG15oMi05Xf1yn) | [Sacrifice](https://open.spotify.com/album/3qfo1dksZ4shrLfHJyCW3f) | 5:00 |
 
-Snapshot ID: `AAAAAEczjUrvo53vXxG93STA//tHHSSg`
+Snapshot ID: `AAAAAHz5zClN2Ln4BmqHcValQ8OzuPjw`

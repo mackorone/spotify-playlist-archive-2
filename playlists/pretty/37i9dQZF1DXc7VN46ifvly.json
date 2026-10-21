@@ -1,12 +1,12 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21845,
+  "num_followers": 21846,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP9RQJhZ3ZvB8Z1779ULzwGtJjT8",
+  "snapshot_id": "AAAAANTJ+hehLxvidcnbtSZuBEYlTf+D",
   "tracks": [
     {
       "added_at": "2026-06-29 08:20:19",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
+        "name": "Bandit",
+        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 147746,
+      "name": "BANDIT",
+      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Bandit",
-        "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 147746,
-      "name": "BANDIT",
-      "url": "https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s"
+      "duration_ms": 229186,
+      "name": "Crocodile Tearz",
+      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -831,22 +847,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 229186,
-      "name": "Crocodile Tearz",
-      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "4SHOBOIZ Vol. 2: 4SHOVILLE",
         "url": "https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl"
       },
@@ -863,6 +863,26 @@
       "duration_ms": 224571,
       "name": "GUKBBONG",
       "url": "https://open.spotify.com/track/0pL85aHxxulv9XtoB0S68m"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "Miracle Maker",
+        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 188592,
+      "name": "Miracle Maker",
+      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -899,26 +919,6 @@
       "duration_ms": 270304,
       "name": "SSAK (Feat. Loco) (Prod. By GRAY)",
       "url": "https://open.spotify.com/track/0FOReGSXypVBP1q3CLEbfN"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "Miracle Maker",
-        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 188592,
-      "name": "Miracle Maker",
-      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Ambition For Cash",
-        "url": "https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 143480,
-      "name": "Ambition For Cash",
-      "url": "https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "MIC Drop (feat. Desiigner) [Steve Aoki Remix]",
         "url": "https://open.spotify.com/album/6wIyi2KokLUlWMnn3fQc6C"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 238726,
       "name": "MIC Drop (feat. Desiigner) [Steve Aoki Remix]",
       "url": "https://open.spotify.com/track/6XxpvCj3eLWs3lYowSgC4G"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "Ambition For Cash",
+        "url": "https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 143480,
+      "name": "Ambition For Cash",
+      "url": "https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
+        "name": "THE REV3NGE",
+        "url": "https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 147213,
+      "name": "THE REV3NGE",
+      "url": "https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 197388,
       "name": "Alive",
       "url": "https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "THE REV3NGE",
-        "url": "https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 147213,
-      "name": "THE REV3NGE",
-      "url": "https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1"
     },
     {
       "added_at": "2026-06-29 08:20:19",

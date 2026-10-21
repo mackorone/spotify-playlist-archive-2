@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 801208,
+  "num_followers": 801442,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACW1KMpVvbxxSTO9U2ZFjb6eA/mY",
+  "snapshot_id": "AAAAALfbNFyH9EFzhIKrJ1UURqU7tKND",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1523,18 +1523,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Evacuate The Dancefloor",
-        "url": "https://open.spotify.com/album/2VdVCzqQ6MyOSLEZh75iMn"
+        "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
+        "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
       },
       "artists": [
         {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
         }
       ],
-      "duration_ms": 207200,
-      "name": "Evacuate The Dancefloor",
-      "url": "https://open.spotify.com/track/0jDWRUbxSn8zQlwFbeLHwo"
+      "duration_ms": 181680,
+      "name": "In And Out Of Love",
+      "url": "https://open.spotify.com/track/57nKL06bKwjaM5Y0aMtY9v"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1555,22 +1559,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
-        "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
+        "name": "Evacuate The Dancefloor",
+        "url": "https://open.spotify.com/album/2VdVCzqQ6MyOSLEZh75iMn"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Sharon Den Adel",
-          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
         }
       ],
-      "duration_ms": 181680,
-      "name": "In And Out Of Love",
-      "url": "https://open.spotify.com/track/57nKL06bKwjaM5Y0aMtY9v"
+      "duration_ms": 207200,
+      "name": "Evacuate The Dancefloor",
+      "url": "https://open.spotify.com/track/0jDWRUbxSn8zQlwFbeLHwo"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "20 Years of Hardcore",
+        "url": "https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "One (Always Hardcore)",
+      "url": "https://open.spotify.com/track/076xVAqkadBKbU7kI7yXaV"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Belle Epoque",
         "url": "https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr"
       },
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "20 Years of Hardcore",
-        "url": "https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "One (Always Hardcore)",
-      "url": "https://open.spotify.com/track/076xVAqkadBKbU7kI7yXaV"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Vicious Delicious",
         "url": "https://open.spotify.com/album/3W2rs8vCNzvB5BmAoCjART"
       },
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Wash My World",
-        "url": "https://open.spotify.com/album/096zju7jYYYpvaimFPiPrT"
+        "name": "20 Years of Hardcore",
+        "url": "https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt"
       },
       "artists": [
         {
-          "name": "Laurent Wolf",
-          "url": "https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn"
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
         }
       ],
-      "duration_ms": 200813,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/3AMExQQyUUBr9e6WftMVCp"
+      "duration_ms": 234116,
+      "name": "The Logical Song",
+      "url": "https://open.spotify.com/track/6ACG1I3qXRpnkIKLVzy4Ww"
     }
   ],
   "unique_name": "Dance Hits 2000s",

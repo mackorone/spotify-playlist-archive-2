@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 
 > 
 
-[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 13 likes - 260 songs - 16 hr 24 min
+[Sally\_e713](https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u) - 13 likes - 261 songs - 16 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -268,5 +268,6 @@ pretty - [cumulative](/playlists/cumulative/5QCgGvCDWDLSVMBloZrie3.md) - [plain]
 | 258 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
 | 259 | [Crimson & Clover \- Single Version](https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [The Essentials: Tommy James & The Shondells](https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ) | 3:28 |
 | 260 | [The House of the Rising Sun](https://open.spotify.com/track/6lyzUrhvbZIl8JU2iRKquL) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 4:03 |
+| 261 | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [expectations \(feat\. Chappell Roan\)](https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx) | 3:43 |
 
-Snapshot ID: `AAAGM0OR7tPHDm69tMlkeV8ezyZa0w2v`
+Snapshot ID: `AAAGNBXnyAtfyn9tHNjyyYBeJtwOUdO+`

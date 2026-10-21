@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,295 likes - 567 songs - 1 day 3 hr 48 min
+[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,297 likes - 579 songs - 1 day 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -575,5 +575,17 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 565 | [Die In a Fire \(feat\. EileMonty & Orko\)](https://open.spotify.com/track/1SXuOan5v9G1mM7X0ieXrM) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Eile Monty](https://open.spotify.com/artist/57QIoalYNjG2FjtUfxUNPW), [Orko](https://open.spotify.com/artist/2kRavccHfl8m4XE28aCHf6) | [Die In A Fire](https://open.spotify.com/album/6WSiuu95XuXlVryhuDy4Ub) | 3:05 |
 | 566 | [7teen](https://open.spotify.com/track/1jfjlQPrVQhNEFXlQLelLE) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [NO NICE THINGS](https://open.spotify.com/album/4Ke9hTIEJjucuy4kaWy3P1) | 2:59 |
 | 567 | [SPOTS](https://open.spotify.com/track/4xHxs1KKLOntFjaTyzB6aW) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [SPOTS](https://open.spotify.com/album/6xchgBoEKNZjRGaM9EydBo) | 2:26 |
+| 568 | [Fox Paws](https://open.spotify.com/track/7tiPt81dGVuX14yNVe8cvT) | [Autumn J.](https://open.spotify.com/artist/5F2rhyaflgXmVeW7NMUXAW) | [Fox Paws](https://open.spotify.com/album/0nsb8DM6Dhzb4LrHN5zC8g) | 2:57 |
+| 569 | [Introduction: I Am](https://open.spotify.com/track/1MzX7qHr2YLWOlPaC6Pw92) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 2:15 |
+| 570 | [The Next Horizon](https://open.spotify.com/track/51eMtDdFt1UU5XM6kwjFCK) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 3:41 |
+| 571 | [Phd in Mixology](https://open.spotify.com/track/4Jb54tTColGMsJj3izqWke) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 4:08 |
+| 572 | [Could You Ever](https://open.spotify.com/track/4lXZhvmoVm5a2Xf5IIvqsG) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 4:01 |
+| 573 | [Heart in Me](https://open.spotify.com/track/58mwr0h1f8e2u0Gp9jwgQK) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 5:11 |
+| 574 | [The Watchmaker](https://open.spotify.com/track/4My9LIm4MXzqwVVvbb5Wzn) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 4:41 |
+| 575 | [We Are Lovers \(Of the Light\)](https://open.spotify.com/track/3rGBgIcx1wXnvrOb2FQ89y) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 3:19 |
+| 576 | [The Dog House](https://open.spotify.com/track/6xSNlPhdTZuRj15vpGwQac) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 4:18 |
+| 577 | [Thank You \(For Being There\)](https://open.spotify.com/track/4KqbnXbKDiOo0Cehd0P8lu) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 5:26 |
+| 578 | [President of the United States of Dance](https://open.spotify.com/track/0Y9vWBv6jrhIz9RD7zjLYj) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 4:24 |
+| 579 | [Our Time Will Come](https://open.spotify.com/track/6JTsSYXzHuuaqx85RwGRxF) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Beast](https://open.spotify.com/album/6Vt9EJc1KG0GXzXOqsOkIx) | 4:46 |
 
-Snapshot ID: `AAACHWhCNmbpiFYISi1wKr/L9lpQNA4X`
+Snapshot ID: `AAACH8kKcbUZHb2oaIS64okTZ9/wZnMJ`

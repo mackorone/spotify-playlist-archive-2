@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Wuicho Kun",
-  "num_followers": 876924,
+  "num_followers": 876933,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACiefnvLURAnTS7/WQpqAiU1Kn3n",
+  "snapshot_id": "AAAAACW90hm/jTg2Hjyn2KS8siI5SylH",
   "tracks": [
     {
       "added_at": "2026-10-16 06:00:35",
@@ -375,26 +375,6 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
-        "name": "Recuerdos en Com\u00fan",
-        "url": "https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 214700,
-      "name": "Recuerdos en Com\u00fan",
-      "url": "https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf"
-    },
-    {
-      "added_at": "2026-10-16 06:00:35",
-      "album": {
         "name": "Que Se Siente",
         "url": "https://open.spotify.com/album/45XvFLRB93yz21YcXAB29L"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 138512,
       "name": "Que Se Siente",
       "url": "https://open.spotify.com/track/2vTorS5pBxHr4LNrbbJk8K"
+    },
+    {
+      "added_at": "2026-10-16 06:00:35",
+      "album": {
+        "name": "Recuerdos en Com\u00fan",
+        "url": "https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 214700,
+      "name": "Recuerdos en Com\u00fan",
+      "url": "https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf"
     },
     {
       "added_at": "2026-10-16 06:00:35",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
-        "name": "Seguro Le Doli\u00f3",
-        "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 149459,
-      "name": "Seguro Le Doli\u00f3",
-      "url": "https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc"
-    },
-    {
-      "added_at": "2026-10-16 06:00:35",
-      "album": {
         "name": "Afr1n",
         "url": "https://open.spotify.com/album/2xQgu93rXVVOH83sHcAc2E"
       },
@@ -499,6 +479,26 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
+        "name": "Seguro Le Doli\u00f3",
+        "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 149459,
+      "name": "Seguro Le Doli\u00f3",
+      "url": "https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc"
+    },
+    {
+      "added_at": "2026-10-16 06:00:35",
+      "album": {
         "name": "OSAD\u00cdA",
         "url": "https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
-        "name": "Hombre De Bien",
-        "url": "https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Hombre De Bien",
-      "url": "https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy"
-    },
-    {
-      "added_at": "2026-10-16 06:00:35",
-      "album": {
         "name": "No Quiere Salir",
         "url": "https://open.spotify.com/album/2uqpfbEYw8AMnLxGtqMjUg"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 209520,
       "name": "No Quiere Salir",
       "url": "https://open.spotify.com/track/4D7e8opeFSkFhXQXXZey3a"
+    },
+    {
+      "added_at": "2026-10-16 06:00:35",
+      "album": {
+        "name": "Hombre De Bien",
+        "url": "https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Hombre De Bien",
+      "url": "https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy"
     },
     {
       "added_at": "2026-10-16 06:00:35",
@@ -963,18 +963,22 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
-        "name": "PASE Y PASE",
-        "url": "https://open.spotify.com/album/7z9NCCZBv2lnejkFRlUlAm"
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/7xjbCvnNkn3rojsgoKl02j"
       },
       "artists": [
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
         }
       ],
-      "duration_ms": 181149,
-      "name": "PASE Y PASE",
-      "url": "https://open.spotify.com/track/3UI9nM0xrI0ywhqoZQvLFt"
+      "duration_ms": 194180,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/49CcSnr5vJ74hohdCzJaHk"
     },
     {
       "added_at": "2026-10-16 06:00:35",
@@ -995,22 +999,18 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
-        "name": "Melancol\u00eda",
-        "url": "https://open.spotify.com/album/7xjbCvnNkn3rojsgoKl02j"
+        "name": "PASE Y PASE",
+        "url": "https://open.spotify.com/album/7z9NCCZBv2lnejkFRlUlAm"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 194180,
-      "name": "Melancol\u00eda",
-      "url": "https://open.spotify.com/track/49CcSnr5vJ74hohdCzJaHk"
+      "duration_ms": 181149,
+      "name": "PASE Y PASE",
+      "url": "https://open.spotify.com/track/3UI9nM0xrI0ywhqoZQvLFt"
     },
     {
       "added_at": "2026-10-16 06:00:35",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
-        "name": "N\u00d3MADA",
-        "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 233733,
-      "name": "Adicci\u00f3n",
-      "url": "https://open.spotify.com/track/3qv6l0SkmPSQmTpMtaRRUH"
-    },
-    {
-      "added_at": "2026-10-16 06:00:35",
-      "album": {
         "name": "Dr. Doctor",
         "url": "https://open.spotify.com/album/3KWUk81qv6TqqSZvfy7QzJ"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 158769,
       "name": "Dr. Doctor",
       "url": "https://open.spotify.com/track/5wEomIRDE8ELPNfXI1NF53"
+    },
+    {
+      "added_at": "2026-10-16 06:00:35",
+      "album": {
+        "name": "N\u00d3MADA",
+        "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 233733,
+      "name": "Adicci\u00f3n",
+      "url": "https://open.spotify.com/track/3qv6l0SkmPSQmTpMtaRRUH"
     },
     {
       "added_at": "2026-10-16 06:00:35",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2026-10-16 06:00:35",
       "album": {
-        "name": "A La Luz De La luna",
-        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
-      },
-      "artists": [
-        {
-          "name": "Pepe Walker",
-          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 165212,
-      "name": "A La Luz De La luna",
-      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
-    },
-    {
-      "added_at": "2026-10-16 06:00:35",
-      "album": {
         "name": "Perdonarte, \u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/3LLzCUi4FDCG7C3HYyENn8"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 193432,
       "name": "Perdonarte, \u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/3lJpgC9I7R3Botguwpi6j8"
+    },
+    {
+      "added_at": "2026-10-16 06:00:35",
+      "album": {
+        "name": "A La Luz De La luna",
+        "url": "https://open.spotify.com/album/5FknMjAXtPKD26VySnMtNs"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 165212,
+      "name": "A La Luz De La luna",
+      "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
     },
     {
       "added_at": "2026-10-16 06:00:35",

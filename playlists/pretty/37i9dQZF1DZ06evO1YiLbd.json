@@ -11,26 +11,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Say Run (10th Anniversary ver.)",
-        "url": "https://open.spotify.com/album/1sCeRAMF6PlSzVGuoEIk55"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        },
-        {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        }
-      ],
-      "duration_ms": 231771,
-      "name": "You Say Run - 10th Anniversary ver.",
-      "url": "https://open.spotify.com/track/3T8OGzdBT8aUMRuqvSoFdY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f4th \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE"
       },
@@ -827,6 +807,22 @@
       "duration_ms": 232666,
       "name": "Next, it's our turn!",
       "url": "https://open.spotify.com/track/6TajSVdj5kaPGQ8ucMhM6V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 126440,
+      "name": "\u79c1\u304c\u6765\u305f!!",
+      "url": "https://open.spotify.com/track/0RFOMhUwMgKTAg1kFsU2BI"
     }
   ],
   "unique_name": "This Is Yuki Hayashi",

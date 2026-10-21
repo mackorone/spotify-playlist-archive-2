@@ -1,12 +1,12 @@
 {
   "description": "we choose the bear",
-  "num_followers": 894988,
+  "num_followers": 895357,
   "original_name": "crash out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG3o6V+QSm21GmgZsfSlSS+0l/06",
+  "snapshot_id": "AAAAAE9dkk04oMlckSuWYCr8J6Xvp5aZ",
   "tracks": [
     {
       "added_at": "2026-09-25 16:35:45",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-09-25 16:35:45",
       "album": {
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 296653,
+      "name": "party 4 u",
+      "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
+    },
+    {
+      "added_at": "2026-09-25 16:35:45",
+      "album": {
         "name": "EVOL",
         "url": "https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 313546,
       "name": "Low Life (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX"
-    },
-    {
-      "added_at": "2026-09-25 16:35:45",
-      "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "party 4 u",
-      "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
     },
     {
       "added_at": "2026-09-25 16:35:45",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-09-25 16:35:45",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 293840,
-      "name": "THE GREATEST",
-      "url": "https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET"
-    },
-    {
-      "added_at": "2026-09-25 16:35:45",
-      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 156642,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/3OfqwyE7RrZrtuxCRixfII"
+    },
+    {
+      "added_at": "2026-09-25 16:35:45",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 293840,
+      "name": "THE GREATEST",
+      "url": "https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET"
     },
     {
       "added_at": "2026-09-25 16:35:45",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-09-25 16:35:45",
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 199505,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
-    },
-    {
-      "added_at": "2026-09-25 16:35:45",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 316066,
       "name": "Throw Away",
       "url": "https://open.spotify.com/track/2ML7vSeIZEmOCOiLUmz7Sv"
+    },
+    {
+      "added_at": "2026-09-25 16:35:45",
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 199505,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
     },
     {
       "added_at": "2026-09-25 16:35:45",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-09-25 16:35:45",
       "album": {
-        "name": "All the Things She Said",
-        "url": "https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ"
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
       "artists": [
         {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 170891,
-      "name": "All the Things She Said",
-      "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
+      "duration_ms": 210787,
+      "name": "Be Careful",
+      "url": "https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd"
     },
     {
       "added_at": "2026-09-25 16:35:45",

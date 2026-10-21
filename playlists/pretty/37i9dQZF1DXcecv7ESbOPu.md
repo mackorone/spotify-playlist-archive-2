@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Norlie & KKV, Benjamin Ingrosso och Snoh Aalegra med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,709 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,703 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 98 | [Trouble](https://open.spotify.com/track/3OB7tql5cqZdJ71U2HprBf) | [nikocorlin](https://open.spotify.com/artist/4eIb8b7I3OGJGnEacJgtXm) | [Trouble](https://open.spotify.com/album/0nJjMh55SCm9WeGpyD9Vj3) | 2:22 |
 | 99 | [Hot & talking](https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Hot & talking](https://open.spotify.com/album/20Y6q5ZPTUhiF4h3FogpbW) | 3:11 |
 
-Snapshot ID: `AAAAAHBmK1i35xSuCTS1QBrTJo34nXfb`
+Snapshot ID: `AAAAAFH41DUMOUqKv9YV54dye7ih+ya6`

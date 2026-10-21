@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-810 songs - 3 day 2 hr 45 min
+811 songs - 3 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Elements of Trust \- Sanchez & Pietkun Remix](https://open.spotify.com/track/0TT6SbrHgkhmWx01S03jah) | [Gabriel Filip](https://open.spotify.com/artist/0RTHaVU7mWqrznMzZ9PwTP), [Pietkun](https://open.spotify.com/artist/2TAEAlmHigdK9FoOiSiruu), [Ignacio Sanchez](https://open.spotify.com/artist/61EaMjDo9dzzoU2FJVwWew) | [Elements of Trust](https://open.spotify.com/album/7aIdMrakwT0uSvy4CTsMjp) | 7:01 | 2019-08-06\* | 2019-09-13 |
 | [Elevation](https://open.spotify.com/track/118BQT160hFuM2JsBsa92g) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Elevation](https://open.spotify.com/album/5DHK349qDEGtNXfpmQ32hN) | 6:41 | 2023-11-27 | 2024-12-07 |
 | [Emerge As New](https://open.spotify.com/track/4NHmMiu6zav9APbX1JNgU4) | [Monvol](https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl) | [Emerge As New](https://open.spotify.com/album/7KUSyPorZaNXUhNjda6BFM) | 5:10 | 2022-02-25 | 2022-07-19 |
-| [Empty Skies](https://open.spotify.com/track/1JFWNrBSaz1HdWUPPILJ3V) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Empty Skies](https://open.spotify.com/album/1A8ijkzRwAmJuzLN6IVWxs) | 3:34 | 2026-01-16 |  |
+| [Empty Skies](https://open.spotify.com/track/1JFWNrBSaz1HdWUPPILJ3V) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Empty Skies](https://open.spotify.com/album/1A8ijkzRwAmJuzLN6IVWxs) | 3:34 | 2026-01-16 | 2026-10-21 |
 | [Empty Theatre, Pretty Picture](https://open.spotify.com/track/7Djw8fIOWbZC7T6JMxLLZ8) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Davey Havok](https://open.spotify.com/artist/1Q1ItjYrk6Si5q4tQtRbx8) | [Empty Theatre, Pretty Picture](https://open.spotify.com/album/4MXinFbftiy9loZOapfUhu) | 5:01 | 2026-05-22 | 2026-06-30 |
 | [ENERGY](https://open.spotify.com/track/0uctQM22xBeaklsxCtOcrk) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [ENERGY](https://open.spotify.com/album/3NcLjhT0XNhY6NmMgjFL8P) | 3:35 | 2026-08-07 |  |
 | [Engine](https://open.spotify.com/track/1gLucsjGXqpbyiA8Hkp8Z1) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Engine](https://open.spotify.com/album/0vD5h7ShEyz40OqiHrw5Dx) | 8:00 | 2026-03-09 | 2026-05-26 |
@@ -495,6 +495,7 @@
 | [Nova](https://open.spotify.com/track/2ZNAmdQfr8yDjoHJOUxFte) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Nova](https://open.spotify.com/album/1zoiCco8YMpb9AeIuJWo4c) | 4:00 | 2019-09-13 | 2020-06-05 |
 | [Now Here No Where](https://open.spotify.com/track/6RghttTzB1OsbSEDuNfvSW) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [While Waiting For Something To Care About / Now Here No Where](https://open.spotify.com/album/0CNv7rjS4MtaFWrCUtgDaU) | 5:46 | 2020-09-11 | 2022-04-19 |
 | [Oblivion](https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Thermal / Oblivion](https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl) | 3:49 | 2021-06-06 | 2023-04-29 |
+| [Obsidian](https://open.spotify.com/track/7s87x3nioZJO4Yt1YIxqhQ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Juan Elvadin](https://open.spotify.com/artist/6HieW9hwQClrvr5bKvw0lo) | [Obsidian](https://open.spotify.com/album/275PPpRQ8N7EqbAqk45Tmy) | 3:22 | 2026-10-16 |  |
 | [Ocean](https://open.spotify.com/track/1qOWl2foJb594pmyCtxOqK) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Ocean](https://open.spotify.com/album/4ugI62TomlTqbBQXVb4Zn8) | 3:40 | 2022-05-03 | 2022-07-26 |
 | [Ocean](https://open.spotify.com/track/6oS9qKdkN1VMRR2e8BbKvM) | [NOYSE](https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2) | [Ocean](https://open.spotify.com/album/7JRshsSfHo4CT0TcIcawcg) | 2:59 | 2022-04-04 | 2022-06-25 |
 | [Octave](https://open.spotify.com/track/3ov7g9uVv0Mj3GLhOLxxa1) | [Delph](https://open.spotify.com/artist/0Rs8r7QtnfbfaAm2AQ3ugE) | [Octave](https://open.spotify.com/album/7iayY4YOIVqPLeQSDjKYX5) | 6:25 | 2019-08-06\* | 2021-06-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,682 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,681 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 74 | [L F G](https://open.spotify.com/track/3oaDqABHAzKwOXdLbuPdgd) | [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml), [Yungboyvegeta](https://open.spotify.com/artist/0RYxiK8P3O1SwUY9jRt7sh), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Relentless](https://open.spotify.com/album/2E55tzIeMiNScqBLX7rF9T) | 4:26 |
 | 75 | [Drifting](https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Drifting](https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj) | 3:42 |
 
-Snapshot ID: `AAAAADeZ1F2HB/0zT9bytSKV8rj6hH6n`
+Snapshot ID: `AAAAALz2mLlO6/gUFt6/yGPds9k3mUns`

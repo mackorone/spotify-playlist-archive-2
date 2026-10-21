@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 
 > A dreamy, beautiful musical companion to your time for rest and relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,077 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,084 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 74 | [Just Life](https://open.spotify.com/track/3bpArkvt2TWoTxG2rXxb1H) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Just Life](https://open.spotify.com/album/0BFnVbBBL7xHSYVX880PGr) | 3:18 |
 | 75 | [greener](https://open.spotify.com/track/2GU2QSVrYPtSnBxtg2nyBU) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [greener / garden](https://open.spotify.com/album/6BRxSf36UXoi7WWdyr3xHF) | 4:00 |
 
-Snapshot ID: `AAAAAJu6aZ0Ipi1ZMKygGFzZIuuSOKlY`
+Snapshot ID: `AAAAAIlWqEvHOh/+F1o8IXLcpxDATYNH`

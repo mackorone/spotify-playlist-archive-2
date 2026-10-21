@@ -1,12 +1,12 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295296,
+  "num_followers": 295291,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOWFWE82gk+wIIQdLWsAD1MaiYhw",
+  "snapshot_id": "AAAAAKYLeK0osFq3zVyXObU+5delH9sF",
   "tracks": [
     {
       "added_at": "2026-07-17 17:28:38",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Skint",
-        "url": "https://open.spotify.com/album/1Z2THAqBZWpdytE1YncuYc"
-      },
-      "artists": [
-        {
-          "name": "The Dead Bolts",
-          "url": "https://open.spotify.com/artist/3dV5tGTAVKea7D3ifjjy5K"
-        }
-      ],
-      "duration_ms": 222196,
-      "name": "Skint",
-      "url": "https://open.spotify.com/track/6zJd1NMRlhYQjqp3wioiiW"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Call U Back",
         "url": "https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 184053,
       "name": "Call U Back",
       "url": "https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Skint",
+        "url": "https://open.spotify.com/album/1Z2THAqBZWpdytE1YncuYc"
+      },
+      "artists": [
+        {
+          "name": "The Dead Bolts",
+          "url": "https://open.spotify.com/artist/3dV5tGTAVKea7D3ifjjy5K"
+        }
+      ],
+      "duration_ms": 222196,
+      "name": "Skint",
+      "url": "https://open.spotify.com/track/6zJd1NMRlhYQjqp3wioiiW"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Secret Love",
-        "url": "https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 363918,
-      "name": "Hit My Head All Day",
-      "url": "https://open.spotify.com/track/0quJpknjZo8gMmwzMhiHb3"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "U Should Not Be Doing That / Facts",
         "url": "https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Man Made of Meat",
-        "url": "https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo"
+        "name": "Secret Love",
+        "url": "https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4"
       },
       "artists": [
         {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
         }
       ],
-      "duration_ms": 189947,
-      "name": "Man Made of Meat",
-      "url": "https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ"
+      "duration_ms": 363918,
+      "name": "Hit My Head All Day",
+      "url": "https://open.spotify.com/track/0quJpknjZo8gMmwzMhiHb3"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -699,18 +683,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Florida Water Blues",
-        "url": "https://open.spotify.com/album/2Gyxm1N8hGyBgVdApmpm4I"
+        "name": "Man Made of Meat",
+        "url": "https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo"
       },
       "artists": [
         {
-          "name": "Twisted Teens",
-          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
         }
       ],
-      "duration_ms": 233197,
-      "name": "Riding",
-      "url": "https://open.spotify.com/track/2kfrzSpyxTuipgYPqtvwda"
+      "duration_ms": 189947,
+      "name": "Man Made of Meat",
+      "url": "https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -731,6 +715,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Florida Water Blues",
+        "url": "https://open.spotify.com/album/2Gyxm1N8hGyBgVdApmpm4I"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "duration_ms": 233197,
+      "name": "Riding",
+      "url": "https://open.spotify.com/track/2kfrzSpyxTuipgYPqtvwda"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "Numerology",
         "url": "https://open.spotify.com/album/4ImkOlXMswzRT69SPcFhD0"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "i wait, i sink",
-        "url": "https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o"
-      },
-      "artists": [
-        {
-          "name": "The Healing Power of Horses",
-          "url": "https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J"
-        }
-      ],
-      "duration_ms": 166167,
-      "name": "i wait, i sink",
-      "url": "https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Real Deal",
         "url": "https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 234566,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/1qjdgDgapvORPzzB45Qi1F"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "i wait, i sink",
+        "url": "https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o"
+      },
+      "artists": [
+        {
+          "name": "The Healing Power of Horses",
+          "url": "https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J"
+        }
+      ],
+      "duration_ms": 166167,
+      "name": "i wait, i sink",
+      "url": "https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Something Worth Waiting For",
-        "url": "https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG"
-      },
-      "artists": [
-        {
-          "name": "Friko",
-          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
-        }
-      ],
-      "duration_ms": 204123,
-      "name": "Still Around",
-      "url": "https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "POSTINDUSTRIAL HOMETOWN BLUES",
         "url": "https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 177597,
       "name": "BLACK COUNTRY GOTHIC",
       "url": "https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Something Worth Waiting For",
+        "url": "https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "duration_ms": 204123,
+      "name": "Still Around",
+      "url": "https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -951,22 +951,6 @@
       "duration_ms": 227537,
       "name": "Body Meat",
       "url": "https://open.spotify.com/track/2FRsz2oqynIBu2FBk8M3FJ"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "Black Paint",
-        "url": "https://open.spotify.com/album/6jtbWvwTX0UHN2d7O8ol2d"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 119280,
-      "name": "Black Paint",
-      "url": "https://open.spotify.com/track/2gDEpVWYCQvJQo2Q0qfM5z"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1015,6 +999,22 @@
       "duration_ms": 201236,
       "name": "GUTS",
       "url": "https://open.spotify.com/track/4RjDr8lV9QTdsYTeBKc9Pq"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Black Paint",
+        "url": "https://open.spotify.com/album/6jtbWvwTX0UHN2d7O8ol2d"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 119280,
+      "name": "Black Paint",
+      "url": "https://open.spotify.com/track/2gDEpVWYCQvJQo2Q0qfM5z"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Sleep In It",
-        "url": "https://open.spotify.com/album/3fnZ1zAEH8WxcdeTMHMp6v"
-      },
-      "artists": [
-        {
-          "name": "C.O.F.F.I.N",
-          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "Sleep In It",
-      "url": "https://open.spotify.com/track/4LrsCVVKPgJrGbEukJl8EF"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Sunshine and Balance Beams",
         "url": "https://open.spotify.com/album/0mlgaAp88EcwGbKfiq7xo4"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Who's Gonna Love You Now?",
-        "url": "https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW"
+        "name": "Sleep In It",
+        "url": "https://open.spotify.com/album/3fnZ1zAEH8WxcdeTMHMp6v"
       },
       "artists": [
         {
-          "name": "The Tubs",
-          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
+          "name": "C.O.F.F.I.N",
+          "url": "https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3"
         }
       ],
-      "duration_ms": 175050,
-      "name": "Who's Gonna Love You Now?",
-      "url": "https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr"
+      "duration_ms": 179133,
+      "name": "Sleep In It",
+      "url": "https://open.spotify.com/track/4LrsCVVKPgJrGbEukJl8EF"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1143,6 +1127,22 @@
       "duration_ms": 234600,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/3irsYddwo18WmLYSiUvc8J"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Who's Gonna Love You Now?",
+        "url": "https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW"
+      },
+      "artists": [
+        {
+          "name": "The Tubs",
+          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
+        }
+      ],
+      "duration_ms": 175050,
+      "name": "Who's Gonna Love You Now?",
+      "url": "https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "O, My Love",
-        "url": "https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD"
-      },
-      "artists": [
-        {
-          "name": "Grrrl Gang",
-          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
-        }
-      ],
-      "duration_ms": 178006,
-      "name": "O, My Love",
-      "url": "https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "The Clip",
         "url": "https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 165346,
       "name": "Barn Boiler",
       "url": "https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "O, My Love",
+        "url": "https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD"
+      },
+      "artists": [
+        {
+          "name": "Grrrl Gang",
+          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
+        }
+      ],
+      "duration_ms": 178006,
+      "name": "O, My Love",
+      "url": "https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Death Destruction Mayhem",
-        "url": "https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8"
-      },
-      "artists": [
-        {
-          "name": "Ceremony",
-          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Death Destruction Mayhem",
-      "url": "https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Glass and Bones",
         "url": "https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O"
       },
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Death Destruction Mayhem",
+        "url": "https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8"
+      },
+      "artists": [
+        {
+          "name": "Ceremony",
+          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Death Destruction Mayhem",
+      "url": "https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "Hedgesitting",
         "url": "https://open.spotify.com/album/2E0JTOwCfuhmk6JIcwy6cW"
       },
@@ -1543,22 +1543,6 @@
       "duration_ms": 286771,
       "name": "Hedgesitting",
       "url": "https://open.spotify.com/track/6qSL9W78L6viJxBA2eetYY"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ"
-      },
-      "artists": [
-        {
-          "name": "Ultra Lights",
-          "url": "https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA"
-        }
-      ],
-      "duration_ms": 127173,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1591,6 +1575,22 @@
       "duration_ms": 267010,
       "name": "Miracle Drug",
       "url": "https://open.spotify.com/track/1YPj6me3zqn1uvevAquXq4"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ"
+      },
+      "artists": [
+        {
+          "name": "Ultra Lights",
+          "url": "https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA"
+        }
+      ],
+      "duration_ms": 127173,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8"
     },
     {
       "added_at": "2026-07-17 17:28:38",

@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Coraz\u00f3n Serrano, Maria Becerra",
-  "num_followers": 135981,
+  "num_followers": 136003,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExN9i/4X+JI8/G6tfPJoKsKJDy+",
+  "snapshot_id": "AAAAANWMKAcHmG/G/easpeXFSJM6wM/a",
   "tracks": [
     {
       "added_at": "2026-05-15 05:35:32",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-05-15 05:35:32",
       "album": {
+        "name": "Imposible Olvidarte",
+        "url": "https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT"
+      },
+      "artists": [
+        {
+          "name": "Son de R\u00edos",
+          "url": "https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z"
+        }
+      ],
+      "duration_ms": 358000,
+      "name": "Por Siempre Mi Angel",
+      "url": "https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN"
+    },
+    {
+      "added_at": "2026-05-15 05:35:32",
+      "album": {
         "name": "Falso Amor",
         "url": "https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2026-05-15 05:35:32",
       "album": {
-        "name": "Imposible Olvidarte",
-        "url": "https://open.spotify.com/album/1G71N908z995Kj6sNJ40DT"
+        "name": "VOL.1",
+        "url": "https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg"
       },
       "artists": [
         {
-          "name": "Son de R\u00edos",
-          "url": "https://open.spotify.com/artist/7n4KfJhG8p9DJyOo3nWK0z"
+          "name": "Orquesta Ca\u00f1a Brava",
+          "url": "https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM"
         }
       ],
-      "duration_ms": 358000,
-      "name": "Por Siempre Mi Angel",
-      "url": "https://open.spotify.com/track/2rM68rJ4fQCFxZdpqjpSyN"
+      "duration_ms": 329280,
+      "name": "El Casorio",
+      "url": "https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6"
     },
     {
       "added_at": "2026-05-15 05:35:32",
@@ -379,22 +395,6 @@
       "duration_ms": 246141,
       "name": "No S\u00e9",
       "url": "https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf"
-    },
-    {
-      "added_at": "2026-05-15 05:35:32",
-      "album": {
-        "name": "VOL.1",
-        "url": "https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Ca\u00f1a Brava",
-          "url": "https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM"
-        }
-      ],
-      "duration_ms": 329280,
-      "name": "El Casorio",
-      "url": "https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6"
     },
     {
       "added_at": "2026-05-15 05:35:32",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-05-15 05:35:32",
       "album": {
-        "name": "Cumbia",
-        "url": "https://open.spotify.com/album/4pw5CUedCL8T3kDSTRTDeU"
-      },
-      "artists": [
-        {
-          "name": "Bareto",
-          "url": "https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7"
-        }
-      ],
-      "duration_ms": 300930,
-      "name": "Mujer Hilandera",
-      "url": "https://open.spotify.com/track/0JbR3UC5ZLQATxFrJXIkgu"
-    },
-    {
-      "added_at": "2026-05-15 05:35:32",
-      "album": {
         "name": "Cumbias Pegaditas",
         "url": "https://open.spotify.com/album/2REuaCmnwYV8H2CWTfhCO2"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 1203760,
       "name": "Cumbias Pegaditas Mix 1",
       "url": "https://open.spotify.com/track/1KZpDYhD4ke4QipSxp4mbP"
+    },
+    {
+      "added_at": "2026-05-15 05:35:32",
+      "album": {
+        "name": "Cumbia",
+        "url": "https://open.spotify.com/album/4pw5CUedCL8T3kDSTRTDeU"
+      },
+      "artists": [
+        {
+          "name": "Bareto",
+          "url": "https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7"
+        }
+      ],
+      "duration_ms": 300930,
+      "name": "Mujer Hilandera",
+      "url": "https://open.spotify.com/track/0JbR3UC5ZLQATxFrJXIkgu"
     },
     {
       "added_at": "2026-05-15 05:35:32",
@@ -847,18 +847,22 @@
     {
       "added_at": "2026-05-15 05:35:32",
       "album": {
-        "name": "La Caballita",
-        "url": "https://open.spotify.com/album/0a7Dnjb0Pzai5WcUxFy9xp"
+        "name": "Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los A\u00f1os / Costumbres",
+        "url": "https://open.spotify.com/album/2nxq09nZ3xzVxwXNEfhuG7"
       },
       "artists": [
         {
-          "name": "Los 5 de Oro",
-          "url": "https://open.spotify.com/artist/6FOEcawuPvpdwjryvY2kI0"
+          "name": "Cielo Torres",
+          "url": "https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ"
+        },
+        {
+          "name": "Bryan Arambulo",
+          "url": "https://open.spotify.com/artist/6q6LbyDaoIKIJh7b6STyhs"
         }
       ],
-      "duration_ms": 218101,
-      "name": "La Caballita",
-      "url": "https://open.spotify.com/track/57njETyUk3WXYhXiPSa74P"
+      "duration_ms": 297798,
+      "name": "Mix Rocio Durcal: La Gata Bajo la Lluvia / Como Han Pasado los A\u00f1os / Costumbres",
+      "url": "https://open.spotify.com/track/5Vube3wJSuVrzTntOpCp2Y"
     }
   ],
   "unique_name": "Cumbias de Oro",

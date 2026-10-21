@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,996 likes - 50 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,061 likes - 50 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [I have escaped](https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [I have escaped \(Main Version\)](https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0) | 3:20 |
 | 50 | [Dependable God \(Medley\)](https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Dependable God \(Medley\)](https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj) | 3:52 |
 
-Snapshot ID: `AAAAAJG4DAvXULwTEYvxLLQbywQtLCry`
+Snapshot ID: `AAAAAPo9f+TrIPfImOBbG59eoYhqXy8z`

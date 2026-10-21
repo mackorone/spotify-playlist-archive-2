@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: cleopatrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,227 likes - 148 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,215 likes - 148 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 147 | [If You Don't Know](https://open.spotify.com/track/1jeIkTzDvre9dyh1Zekume) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [If You Don't Know](https://open.spotify.com/album/3hwJnG7iBzdR3OWsfEZP15) | 3:14 |
 | 148 | [The Ride](https://open.spotify.com/track/5eeMCQlmXRkCETQ61AGnUh) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [The Ride](https://open.spotify.com/album/6xg8Xs4Y3fNq1uJlj7kMXu) | 3:32 |
 
-Snapshot ID: `AAAAAINC3ElTa9UzHT0xMWtg9q7pz0c+`
+Snapshot ID: `AAAAAHCmwxtFv9EqA+0hvTeH+EDNnHds`

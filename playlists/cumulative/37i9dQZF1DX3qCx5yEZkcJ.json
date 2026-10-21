@@ -3090,7 +3090,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 147200,
       "name": "Faded Curtains",
       "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
@@ -7563,6 +7563,32 @@
     },
     {
       "album": {
+        "name": "Memory Bomb",
+        "url": "https://open.spotify.com/album/4LyevrLzvyquVTex1GSjuB"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Shibo",
+          "url": "https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167794,
+      "name": "Overture (feat. Nate Smith, Shibo)",
+      "url": "https://open.spotify.com/track/2NvLivoGmNiAxKdI6ylzPk"
+    },
+    {
+      "album": {
         "name": "Whateva",
         "url": "https://open.spotify.com/album/7treXKIvovnXEdNfNp0ZAJ"
       },
@@ -10149,6 +10175,28 @@
     },
     {
       "album": {
+        "name": "Tender Rose (Mr. K\u00e4fer Remix)",
+        "url": "https://open.spotify.com/album/4xSiUPonw1Cdn5n8nRkj73"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        },
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170508,
+      "name": "Tender Rose (Mr. K\u00e4fer Remix)",
+      "url": "https://open.spotify.com/track/6x9shM2o8AeiTnHbPTkVtN"
+    },
+    {
+      "album": {
         "name": "That's Just Me",
         "url": "https://open.spotify.com/album/01SkyAcTlSdHNE6Vm8z6tq"
       },
@@ -11364,7 +11412,7 @@
       ],
       "date_added": "2019-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-21",
       "duration_ms": 88279,
       "name": "White Tea",
       "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"

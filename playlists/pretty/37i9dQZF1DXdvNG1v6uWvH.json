@@ -1,12 +1,12 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 Olivia Rodrigo & Chappell Roan,  Zack Bryan og m\u00f6rgum fleirum!",
-  "num_followers": 9723,
+  "num_followers": 9726,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEd5pDrAhSP0aRILUPruwk1vaw5v",
+  "snapshot_id": "AAAAAIOd/e7PoRyYcYr3T5cm3IjmKsxM",
   "tracks": [
     {
       "added_at": "2026-10-16 00:00:07",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
+        "name": "Hvis Jeg Er Uden Dig",
+        "url": "https://open.spotify.com/album/2egnW9hO7NHMLGRS1RuprV"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 187262,
+      "name": "Hvis Jeg Er Uden Dig",
+      "url": "https://open.spotify.com/track/6ZZtjJLHrlD9vildo1Qaei"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
         "name": "Staring At The Sun",
         "url": "https://open.spotify.com/album/4uUYfu9Qtnt5RiTZnPDceK"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 97693,
       "name": "I Give Everything I Have 2 U (feat. Loaded Honey)",
       "url": "https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
-        "name": "Hvis Jeg Er Uden Dig",
-        "url": "https://open.spotify.com/album/2egnW9hO7NHMLGRS1RuprV"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 187262,
-      "name": "Hvis Jeg Er Uden Dig",
-      "url": "https://open.spotify.com/track/6ZZtjJLHrlD9vildo1Qaei"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
+        "name": "Spill For Galleriet (Deluxe)",
+        "url": "https://open.spotify.com/album/72PNEVNGN56BrNjx4fD4Dk"
+      },
+      "artists": [
+        {
+          "name": "Makosir",
+          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
+        }
+      ],
+      "duration_ms": 163989,
+      "name": "I et annet liv",
+      "url": "https://open.spotify.com/track/7zDHLQdW8XmntvuuMMMexZ"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
         "name": "LEFT RIGHT (feat. Big Sean)",
         "url": "https://open.spotify.com/album/1idkI5gS8c5P7CAWzF4TjU"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 165495,
       "name": "MADE 4 THIS",
       "url": "https://open.spotify.com/track/3rwO8smwGsmi09PJ8qXyFp"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
-        "name": "Spill For Galleriet (Deluxe)",
-        "url": "https://open.spotify.com/album/72PNEVNGN56BrNjx4fD4Dk"
-      },
-      "artists": [
-        {
-          "name": "Makosir",
-          "url": "https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh"
-        }
-      ],
-      "duration_ms": 163989,
-      "name": "I et annet liv",
-      "url": "https://open.spotify.com/track/7zDHLQdW8XmntvuuMMMexZ"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
-        "name": "KNIGHT OF SWORDS",
-        "url": "https://open.spotify.com/album/1HmXOys0QBU0SDJaibBfE4"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 118200,
-      "name": "KNIGHT OF SWORDS",
-      "url": "https://open.spotify.com/track/5AfeR7HTSBF9AOiQUYbI6S"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
         "name": "When Saturn Returns",
         "url": "https://open.spotify.com/album/7747qoZwY5j8OkSkQ4kM51"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 197908,
       "name": "Sten, sax, p\u00e5se sten",
       "url": "https://open.spotify.com/track/0CmOjLIwPdMqS5VELlU45j"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
+        "name": "KNIGHT OF SWORDS",
+        "url": "https://open.spotify.com/album/1HmXOys0QBU0SDJaibBfE4"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 118200,
+      "name": "KNIGHT OF SWORDS",
+      "url": "https://open.spotify.com/track/5AfeR7HTSBF9AOiQUYbI6S"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -1047,6 +1047,38 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
+        "name": "Pass Me By",
+        "url": "https://open.spotify.com/album/4GNaTViaMzDzbg5XYE7kp7"
+      },
+      "artists": [
+        {
+          "name": "Alba Akvama",
+          "url": "https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "Pass Me By",
+      "url": "https://open.spotify.com/track/2YtbpuYoqOqpr6aij1Tdfc"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
+        "name": "BULLSEYE",
+        "url": "https://open.spotify.com/album/6cBdLtktEMZP9m3e0jKytE"
+      },
+      "artists": [
+        {
+          "name": "Moyka",
+          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
+        }
+      ],
+      "duration_ms": 239491,
+      "name": "Dust U Off",
+      "url": "https://open.spotify.com/track/1MjkvZOLEgJqSShFr1Ixui"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
         "name": "Creep Into My Mind",
         "url": "https://open.spotify.com/album/28r7oLyn7N7wIFoBw265Af"
       },
@@ -1075,38 +1107,6 @@
       "duration_ms": 274618,
       "name": "Hush",
       "url": "https://open.spotify.com/track/4eNdcndrt563qgh4tSGldR"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
-        "name": "BULLSEYE",
-        "url": "https://open.spotify.com/album/6cBdLtktEMZP9m3e0jKytE"
-      },
-      "artists": [
-        {
-          "name": "Moyka",
-          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
-        }
-      ],
-      "duration_ms": 239491,
-      "name": "Dust U Off",
-      "url": "https://open.spotify.com/track/1MjkvZOLEgJqSShFr1Ixui"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
-        "name": "Pass Me By",
-        "url": "https://open.spotify.com/album/4GNaTViaMzDzbg5XYE7kp7"
-      },
-      "artists": [
-        {
-          "name": "Alba Akvama",
-          "url": "https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe"
-        }
-      ],
-      "duration_ms": 132500,
-      "name": "Pass Me By",
-      "url": "https://open.spotify.com/track/2YtbpuYoqOqpr6aij1Tdfc"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
-        "name": "Off The Wall",
-        "url": "https://open.spotify.com/album/0flIPYVkNiDgGEChCnaDZa"
-      },
-      "artists": [
-        {
-          "name": "The Court",
-          "url": "https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ"
-        }
-      ],
-      "duration_ms": 158798,
-      "name": "Off The Wall",
-      "url": "https://open.spotify.com/track/1vt2UsHgSybyBp1v1b3xLZ"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
         "name": "SAVIOUR",
         "url": "https://open.spotify.com/album/0QbTmgwvwHG8r8WYaIIOZe"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 191838,
       "name": "SAVIOUR",
       "url": "https://open.spotify.com/track/44nRfsoES2tkjF62xCFEt5"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
+        "name": "Off The Wall",
+        "url": "https://open.spotify.com/album/0flIPYVkNiDgGEChCnaDZa"
+      },
+      "artists": [
+        {
+          "name": "The Court",
+          "url": "https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ"
+        }
+      ],
+      "duration_ms": 158798,
+      "name": "Off The Wall",
+      "url": "https://open.spotify.com/track/1vt2UsHgSybyBp1v1b3xLZ"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
-        "name": "Fuck No",
-        "url": "https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu"
-      },
-      "artists": [
-        {
-          "name": "Yangze",
-          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
-        }
-      ],
-      "duration_ms": 172368,
-      "name": "Fuck No",
-      "url": "https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
         "name": "Shame On You",
         "url": "https://open.spotify.com/album/5SqJ2McLcIayAlHdHNdpge"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 194640,
       "name": "Shame On You",
       "url": "https://open.spotify.com/track/7pqxkmxv8fnEzisucirWGq"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
+        "name": "Fuck No",
+        "url": "https://open.spotify.com/album/3dSTp2spKl6qHW3bo9eoZu"
+      },
+      "artists": [
+        {
+          "name": "Yangze",
+          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
+        }
+      ],
+      "duration_ms": 172368,
+      "name": "Fuck No",
+      "url": "https://open.spotify.com/track/2szibRtsUxphMFvIKKchaX"
     },
     {
       "added_at": "2026-10-16 00:00:07",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/298OclQ4H4XUsB4SA3jkxB"
-      },
-      "artists": [
-        {
-          "name": "tigerstate",
-          "url": "https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1"
-        }
-      ],
-      "duration_ms": 203135,
-      "name": "Love Letters",
-      "url": "https://open.spotify.com/track/47rzqPammbRYWdso5ckthI"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
         "name": "Love me/Leave me alone",
         "url": "https://open.spotify.com/album/0w9GMaYx3ya9HVgkbdP1xF"
       },
@@ -1323,22 +1307,6 @@
     {
       "added_at": "2026-10-16 00:00:07",
       "album": {
-        "name": "Words (About You)",
-        "url": "https://open.spotify.com/album/5ttMC342ltnOhcqTD4P7ET"
-      },
-      "artists": [
-        {
-          "name": "Elliot",
-          "url": "https://open.spotify.com/artist/13HlSDWIZ8CBSq1ruAZxAe"
-        }
-      ],
-      "duration_ms": 249146,
-      "name": "Words (About You)",
-      "url": "https://open.spotify.com/track/5wclYUbW0ikHRit2eUsQ6m"
-    },
-    {
-      "added_at": "2026-10-16 00:00:07",
-      "album": {
         "name": "Lucy in B-minor",
         "url": "https://open.spotify.com/album/2O5pu3d0BLaKlbsfzHZ14s"
       },
@@ -1351,6 +1319,38 @@
       "duration_ms": 175570,
       "name": "Lucy in B-minor",
       "url": "https://open.spotify.com/track/2MHcP0F01n9GS88WHLRc09"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/298OclQ4H4XUsB4SA3jkxB"
+      },
+      "artists": [
+        {
+          "name": "tigerstate",
+          "url": "https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1"
+        }
+      ],
+      "duration_ms": 203135,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/47rzqPammbRYWdso5ckthI"
+    },
+    {
+      "added_at": "2026-10-16 00:00:07",
+      "album": {
+        "name": "Words (About You)",
+        "url": "https://open.spotify.com/album/5ttMC342ltnOhcqTD4P7ET"
+      },
+      "artists": [
+        {
+          "name": "Elliot",
+          "url": "https://open.spotify.com/artist/13HlSDWIZ8CBSq1ruAZxAe"
+        }
+      ],
+      "duration_ms": 249146,
+      "name": "Words (About You)",
+      "url": "https://open.spotify.com/track/5wclYUbW0ikHRit2eUsQ6m"
     },
     {
       "added_at": "2026-10-16 00:00:07",

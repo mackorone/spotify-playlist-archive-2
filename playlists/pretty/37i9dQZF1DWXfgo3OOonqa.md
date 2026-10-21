@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,036 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,017 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [Gammal & Fri](https://open.spotify.com/track/3Tgzh94thbwCf6sSX5McQM) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Gammal & Fri](https://open.spotify.com/album/5gomkCFOjj4tOemembWUkX) | 2:20 |
 | 100 | [WHINE \(feat\. Naod\)](https://open.spotify.com/track/2PLuU9yFCmlCYNelvRQWu0) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ), [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [BLANDADE KÄNSLOR](https://open.spotify.com/album/5ihqs1Xc66QhDEQzPOwYCG) | 2:04 |
 
-Snapshot ID: `AAAAABLOVrmakP7QJ+RC/7qjJBvFiUSy`
+Snapshot ID: `AAAAALjAiQCqfkyV8WbzHTR4usSwFoh7`

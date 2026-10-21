@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Please uplift Tinashe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,086 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,210 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 99 | [SAWA](https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1) | [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [SAWA](https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5) | 3:40 |
 | 100 | [Fireflies](https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Fireflies](https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23) | 4:23 |
 
-Snapshot ID: `AAAAAIdrQWuei/udD2FL0ikBGsR0axEG`
+Snapshot ID: `AAAAAKN0FdYa1OtQ8hVoapvf94EWoJWJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,719 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,729 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 49 | [La traversée](https://open.spotify.com/track/2pgOiAr03DlaNLFwljFwF6) | [Radio Elvis](https://open.spotify.com/artist/1U1tfTJHxezIBnlay13sVA) | [Les conquêtes \(Deluxe edition\)](https://open.spotify.com/album/4EGzP5VOcMpD3wolbI8Fcj) | 3:30 |
 | 50 | [Le pire et le meilleur](https://open.spotify.com/track/3SrUddck55h8vSltaiRGdi) | [F.F.F.](https://open.spotify.com/artist/0jf1mgJNTrNdgFXmcwKmkL) | [F F F](https://open.spotify.com/album/3dl7Hqd2srZudubpaD8sTC) | 3:25 |
 
-Snapshot ID: `AAAAADNWKW6jxpmkqIEYdxAznZPDkUxN`
+Snapshot ID: `AAAAACGygRgU+ddJw+L5Xv/3kzgbxqsR`

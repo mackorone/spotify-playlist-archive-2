@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 | 14 | [Director Phoebe Wolfe on Female Friendships and Ambition](https://open.spotify.com/episode/1VI3YHVKLextXYyUnOI4TD) | [I Want Your Job](https://open.spotify.com/show/1vtu7Z7duC9qPdjRKNWWmO) | [I Want Your Job](https://open.spotify.com/album/1vtu7Z7duC9qPdjRKNWWmO) | 36:23 |
 | 15 | [How can you not be romantic about FINALS FOOTY\* \| AFL WEEK 1 FINALS \| TYPECast EP 30](https://open.spotify.com/episode/5MKWJZ3btKKuwO8Ibryz7o) | [The TYPECast](https://open.spotify.com/show/0DxPgkauoWHnpFPzwh3cCW) | [The TYPECast](https://open.spotify.com/album/0DxPgkauoWHnpFPzwh3cCW) | 1:24:33 |
 
-Snapshot ID: `AAAAAMQq8bFTrZkcZzNff1+YxtT77knx`
+Snapshot ID: `AAAAAPaC3AFOpG1WltviYL/GZtp4dkcb`

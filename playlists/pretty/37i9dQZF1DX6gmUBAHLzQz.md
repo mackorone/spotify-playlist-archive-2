@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. \(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,622 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,623 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 46 | [アイドル活動! \- Ver\. Rock](https://open.spotify.com/track/2hjmr7hlCTOt9gGShVtu3u) | [わか・ふうり from STAR☆ANIS](https://open.spotify.com/artist/0PZJ3espREBVEYDIypZoBI) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目1](https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT) | 3:55 |
 | 47 | [Moonlight destiny](https://open.spotify.com/track/7k23PwzprCuA2cAgPTMgmW) | [りすこfrom STAR☆ANIS](https://open.spotify.com/artist/7DK1Wv6HgOGHNqrj6WnOHq) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目2](https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ) | 6:28 |
 | 48 | [薄紅デイトリッパー](https://open.spotify.com/track/6YiUwixptag2rVsU4DvTJz) | [れみ from STAR☆ANIS & みほ from AIKATSU☆STARS!](https://open.spotify.com/artist/7Jea0SMwP0knjKChiGjlKI) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 3年目1](https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y) | 3:53 |
-| 49 | [同じ地球のしあわせに](https://open.spotify.com/track/1EIqSuixgDjAxPATBnfRV8) | [えり from STAR☆ANIS](https://open.spotify.com/artist/6ZwHtbx1PROrUIPxNJPqtL) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目2](https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ) | 5:16 |
-| 50 | [stranger alien](https://open.spotify.com/track/6hoHlpL2uWWt0eDY5oraUs) | [ふうり・ゆな from STAR☆ANIS](https://open.spotify.com/artist/2ZsTyDZDZtDiAe0gdNrUwb) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目2](https://open.spotify.com/album/2HJdoqtoKMRUBkhFwHwXqX) | 4:42 |
+| 49 | [stranger alien](https://open.spotify.com/track/6hoHlpL2uWWt0eDY5oraUs) | [ふうり・ゆな from STAR☆ANIS](https://open.spotify.com/artist/2ZsTyDZDZtDiAe0gdNrUwb) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目2](https://open.spotify.com/album/2HJdoqtoKMRUBkhFwHwXqX) | 4:42 |
+| 50 | [同じ地球のしあわせに](https://open.spotify.com/track/1EIqSuixgDjAxPATBnfRV8) | [えり from STAR☆ANIS](https://open.spotify.com/artist/6ZwHtbx1PROrUIPxNJPqtL) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目2](https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ) | 5:16 |
 
-Snapshot ID: `AAAAAOQXS38AqzM79Kk7GhtsM8n5Vl2+`
+Snapshot ID: `AAAAAMQQDRmLosacrp3elehkOdROauLy`

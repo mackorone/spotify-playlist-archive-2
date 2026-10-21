@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 737 likes - 117 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 738 likes - 117 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 59 | [A Ver Cómo Le Haces](https://open.spotify.com/track/7E3UrySjZ5OL5Xo5j72ayR) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Amor Ranchero](https://open.spotify.com/album/6FvBBSD0Pdn5NCM28khRHS) | 3:59 |
 | 60 | [MEJOR NADOTA](https://open.spotify.com/track/5zsSgFcNDaLDPmiWTjFu6k) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [DOLIDO Y BANDIDO](https://open.spotify.com/album/0Znacdq1rbB8Wx9zZEAl10) | 2:42 |
 | 61 | [Cambio De Planes](https://open.spotify.com/track/2nzM5lAhEPPGmiDr6ehl3U) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Cambio De Planes](https://open.spotify.com/album/1eHXhWtaD7Bcead6sFJJNZ) | 3:23 |
-| 62 | [Porque Sigo Vivo](https://open.spotify.com/track/1sWJERxemKdTKXVGL4zFrJ) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Porque Sigo Vivo](https://open.spotify.com/album/75AAhtE3Tff60VDqsQ8hOf) | 3:04 |
-| 63 | [El Migajero](https://open.spotify.com/track/0ie7ujONjpBeKcDs8VoaNW) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Gravedad](https://open.spotify.com/album/2OwsYFE6lN5idbIGI8eFSg) | 3:19 |
+| 62 | [El Migajero](https://open.spotify.com/track/0ie7ujONjpBeKcDs8VoaNW) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Gravedad](https://open.spotify.com/album/2OwsYFE6lN5idbIGI8eFSg) | 3:19 |
+| 63 | [Porque Sigo Vivo](https://open.spotify.com/track/1sWJERxemKdTKXVGL4zFrJ) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Porque Sigo Vivo](https://open.spotify.com/album/75AAhtE3Tff60VDqsQ8hOf) | 3:04 |
 | 64 | [Ni Te Topo](https://open.spotify.com/track/1z1hcg5tuKx8KCKsl011zX) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:51 |
 | 65 | [Contéstame Mi Amor \- En Vivo](https://open.spotify.com/track/1mVUxI2d9iMRSyiUrUyJ33) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Contéstame Mi Amor \(En Vivo\)](https://open.spotify.com/album/63m6Q9VSlZiLK5tHIAXsx4) | 3:23 |
 | 66 | [Si Tuviera Sombrero](https://open.spotify.com/track/5OKEpX0t6hePxRTdcSxiDR) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Al Tiempo](https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U) | 3:01 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 116 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 117 | [Vestidito Rojo](https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Vestidito Rojo](https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ) | 3:12 |
 
-Snapshot ID: `AcfZRAAAAADq1TFlR4ZdExl+8pj17M+u`
+Snapshot ID: `AcfexgAAAAAggsFSbYIxaulaKSes+L5O`

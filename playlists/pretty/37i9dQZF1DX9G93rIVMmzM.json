@@ -1,12 +1,12 @@
 {
   "description": "heavy vibes for cuffing season.\n",
-  "num_followers": 417419,
+  "num_followers": 417498,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPSaB9OHkO/I4wvrZwy2LVCJgNhs",
+  "snapshot_id": "AAAAAPYG9+j6tS1or8Kb4zW+yWcjRi7v",
   "tracks": [
     {
       "added_at": "2026-02-13 21:18:20",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-02-13 21:18:20",
       "album": {
-        "name": "kenopsia",
-        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
-      },
-      "artists": [
-        {
-          "name": "quannnic",
-          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
-        }
-      ],
-      "duration_ms": 245346,
-      "name": "snarky",
-      "url": "https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r"
-    },
-    {
-      "added_at": "2026-02-13 21:18:20",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/2vrDdwbqzL9edJ53azSCn6"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 113333,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/33QpFUeut0hAVQ8dqhwsCM"
+    },
+    {
+      "added_at": "2026-02-13 21:18:20",
+      "album": {
+        "name": "kenopsia",
+        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
+      },
+      "artists": [
+        {
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+        }
+      ],
+      "duration_ms": 245346,
+      "name": "snarky",
+      "url": "https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r"
     },
     {
       "added_at": "2026-02-13 21:18:20",
