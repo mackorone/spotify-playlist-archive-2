@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: André e Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,814 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,827 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 22 | [Deus Ouviu \(Ao Vivo\)](https://open.spotify.com/track/5iJsUblS3HGFWMfOK6nrHf) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m), [Tuca Nascimento](https://open.spotify.com/artist/4TksVnQmXsjKlm9JjdzcWf) | [Deus Ouviu \(Ao Vivo\)](https://open.spotify.com/album/2QrGXyQn83lcGEmuHWmgXb) | 4:22 |
 | 23 | [Melhor Herança](https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU) | [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Melhor Herança](https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5) | 3:52 |
 | 24 | [Deus Está Fazendo \- Ao Vivo](https://open.spotify.com/track/4BWA1SCzCG5R312tqdfKBW) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/album/7hVYHjv7SanNhMK7Nz8ArO) | 5:28 |
-| 25 | [Somente Filho \(Ao Vivo\)](https://open.spotify.com/track/1ykJvFCm52W7knHC0mwoD1) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Canção e Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Somente Filho \(Ao Vivo\)](https://open.spotify.com/album/4r0G88MyU4XHrpBch3Rb7F) | 4:09 |
-| 26 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |
+| 25 | [Estou de Volta](https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Estou de Volta](https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf) | 4:05 |
+| 26 | [Somente Filho \(Ao Vivo\)](https://open.spotify.com/track/1ykJvFCm52W7knHC0mwoD1) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Canção e Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Somente Filho \(Ao Vivo\)](https://open.spotify.com/album/4r0G88MyU4XHrpBch3Rb7F) | 4:09 |
 | 27 | [Você Vai Sobreviver \(Ao Vivo\)](https://open.spotify.com/track/3O7CFkDcQvP9aYcSCu4cQ9) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ), [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Você Vai Sobreviver \(Ao Vivo\)](https://open.spotify.com/album/4AUVnFwTVktFH2Dq5DcJzh) | 4:34 |
 | 28 | [Quem Foi Que Me Tocou](https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Quem Foi Que Me Tocou](https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX) | 4:41 |
 | 29 | [De Volta à Inocência](https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [De Volta à Inocência](https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf) | 4:48 |

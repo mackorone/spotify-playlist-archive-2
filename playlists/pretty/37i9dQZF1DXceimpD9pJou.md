@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Debby Velasquez, Onell Diaz, & DIMEMOII
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,480 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,530 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 33 | [Buen Siervo Fiel](https://open.spotify.com/track/41OHWmq0ROTeeDhqXMOluZ) | [Pedro Gómez](https://open.spotify.com/artist/7KPwITRBXOJdscT1ktIwlx) | [Buen Siervo Fiel](https://open.spotify.com/album/2o7uAuV74qH8g9xfCNSY1D) | 3:58 |
 | 34 | [Pintándote \- Acústico](https://open.spotify.com/track/7MU0IqGdNhmjPUBExKhcYY) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Pintándote \(Acústico\)](https://open.spotify.com/album/3f4ydqSJZuOm0lT6clyJgg) | 4:16 |
 | 35 | [Agua Pal Sediento](https://open.spotify.com/track/0iIwX1uK6PzPEuwQCWOnku) | [Martin Alonso](https://open.spotify.com/artist/4eV6vWQNknlFJu7W2nGxk5) | [Agua Pal Sediento](https://open.spotify.com/album/1zgFyQWTxZ3JxsgpFTAujN) | 3:59 |
-| 36 | [Lujo & Detalle](https://open.spotify.com/track/320MYOR1a2v8x3NoI11Iny) | [Isaac Vera](https://open.spotify.com/artist/3EkiPneGVhBmVQ3AL6wnoY), [Redil Worship](https://open.spotify.com/artist/2wl3olBaPUMGQg7g7Ol49i), [Luis Vera](https://open.spotify.com/artist/7nVZ9Ht6uPbE6ZGfVbygrY) | [Lujo & Detalle](https://open.spotify.com/album/7IZUTH83HJsvrQxZAOvpw5) | 4:04 |
+| 36 | [Lujo & Detalle](https://open.spotify.com/track/320MYOR1a2v8x3NoI11Iny) | [Isaac Vera](https://open.spotify.com/artist/3EkiPneGVhBmVQ3AL6wnoY), [Redil Worship](https://open.spotify.com/artist/2wl3olBaPUMGQg7g7Ol49i), [Luis Vera](https://open.spotify.com/artist/1eCkBlD2Lv3up1ctVsvHU0) | [Lujo & Detalle](https://open.spotify.com/album/7IZUTH83HJsvrQxZAOvpw5) | 4:04 |
 | 37 | [Lo Que No Se Conoce](https://open.spotify.com/track/1NIJX70K9TRXf6IazlLMc4) | [Fruto del Madero](https://open.spotify.com/artist/2udrher3tAyZhAhTqOHktf) | [Lo Que No Se Conoce](https://open.spotify.com/album/0N2HqfyhbsFZCrfB7Ne0G7) | 4:41 |
 | 38 | [Tu Gracia Me Basta](https://open.spotify.com/track/3E4B9AKIjlNJOSjDem3Hi7) | [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb), [Chloe Edgecombe](https://open.spotify.com/artist/0H8IebIWwHBF8E5wUXZetr) | [Tu Gracia Me Basta](https://open.spotify.com/album/2UKjkqYYmrizDz6o5eQ6t8) | 8:15 |
 | 39 | [Gracias a Dios Libre Soy](https://open.spotify.com/track/5nZTnp80n6iIitV4ugz7e0) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [Gracias a Dios Libre Soy](https://open.spotify.com/album/6OPeMBsoefephMj4zklwcA) | 5:00 |

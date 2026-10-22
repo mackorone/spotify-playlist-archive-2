@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 342618,
+  "num_followers": 342638,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Dock of the Bay Sessions",
-        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Where Did Our Love Go",
         "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 153333,
       "name": "Where Did Our Love Go",
       "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Dock of the Bay Sessions",
+        "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/7FXuCkl1kfxwS5icDjTwbM"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Best Of Chubby Checker 1959-1963",
-        "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 153760,
-      "name": "The Twist",
-      "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Legends Of Rock n' Roll",
         "url": "https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 146333,
       "name": "Jambalaya (On The Bayou)",
       "url": "https://open.spotify.com/track/6YS9gh6dxp4rYKWk5jjBDC"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Best Of Chubby Checker 1959-1963",
+        "url": "https://open.spotify.com/album/4I4NKz4jIy7hYke8jvCpPA"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 153760,
+      "name": "The Twist",
+      "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Pat Boone's Greatest Hits (Reissue)",
         "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 153093,
       "name": "Speedy Gonzales",
       "url": "https://open.spotify.com/track/3TmnUIbelFiDzrhZqavHU0"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Pure... '60s",
-        "url": "https://open.spotify.com/album/3cceuam4ZfqSSC4uVchxvx"
-      },
-      "artists": [
-        {
-          "name": "Love Affair",
-          "url": "https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "Everlasting Love",
-      "url": "https://open.spotify.com/track/2Rp4qTPWa91ctCSq0pu3zv"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 151666,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Pure... '60s",
+        "url": "https://open.spotify.com/album/3cceuam4ZfqSSC4uVchxvx"
+      },
+      "artists": [
+        {
+          "name": "Love Affair",
+          "url": "https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "Everlasting Love",
+      "url": "https://open.spotify.com/track/2Rp4qTPWa91ctCSq0pu3zv"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "#1 Hits of the 60's",
+        "url": "https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY"
+      },
+      "artists": [
+        {
+          "name": "Del Shannon",
+          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Runaway (Rerecorded)",
+      "url": "https://open.spotify.com/track/0E59YEu2gtTp8MoEWV8KFk"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "More Hits By The Supremes - Expanded Edition",
         "url": "https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH"
       },
@@ -1967,18 +1983,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "#1 Hits of the 60's",
-        "url": "https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY"
+        "name": "Rhino Hi-Five: Trini Lopez",
+        "url": "https://open.spotify.com/album/0njpKtai2m3jKLzsiLSGWI"
       },
       "artists": [
         {
-          "name": "Del Shannon",
-          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
+          "name": "Trini Lopez",
+          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
         }
       ],
-      "duration_ms": 147080,
-      "name": "Runaway (Rerecorded)",
-      "url": "https://open.spotify.com/track/0E59YEu2gtTp8MoEWV8KFk"
+      "duration_ms": 179400,
+      "name": "If I Had a Hammer",
+      "url": "https://open.spotify.com/track/44Btht5msS0IQ7o2DZuFdu"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2027,22 +2043,6 @@
       "duration_ms": 122160,
       "name": "My Boy Lollipop",
       "url": "https://open.spotify.com/track/4Tsx5uLCyJphR0oAzbFS9D"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Rhino Hi-Five: Trini Lopez",
-        "url": "https://open.spotify.com/album/0njpKtai2m3jKLzsiLSGWI"
-      },
-      "artists": [
-        {
-          "name": "Trini Lopez",
-          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "If I Had a Hammer",
-      "url": "https://open.spotify.com/track/44Btht5msS0IQ7o2DZuFdu"
     },
     {
       "added_at": "2022-06-16 22:02:00",

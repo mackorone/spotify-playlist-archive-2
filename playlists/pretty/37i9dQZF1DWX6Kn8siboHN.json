@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Ram\u00f3n Ayala en portada.",
-  "num_followers": 1057226,
+  "num_followers": 1057505,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "Mi Casa Nueva",
-      "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Intocable",
         "url": "https://open.spotify.com/album/5Gr3x3xc7fYz6SALeFK7BH"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 260066,
       "name": "Perdedor",
       "url": "https://open.spotify.com/track/1VTmlCO0jODdzh0m9i1Q0d"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "Mi Casa Nueva",
+      "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "A Ellas",
-        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
-      },
-      "artists": [
-        {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Ni Que Valieras Tanto",
-      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 214400,
       "name": "Un Desenga\u00f1o",
       "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "A Ellas",
+        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Ni Que Valieras Tanto",
+      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Mi Amuleto Eres Tu",
-        "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
-      },
-      "artists": [
-        {
-          "name": "Vagon Chicano",
-          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Mi Amuleto Eres T\u00fa",
-      "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 207226,
       "name": "Eres Mi Droga",
       "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Mi Amuleto Eres Tu",
+        "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
+      },
+      "artists": [
+        {
+          "name": "Vagon Chicano",
+          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Mi Amuleto Eres T\u00fa",
+      "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Los Huracanes del Norte - 40 Aniversario",
-        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 220682,
-      "name": "Nomas Por Tu Culpa",
-      "url": "https://open.spotify.com/track/1YvVbuRKDU9zRE3OsZxx4v"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Es Para Ti",
         "url": "https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 232693,
       "name": "Est\u00e1s Que Te Pelas",
       "url": "https://open.spotify.com/track/1rnjkfvu6h8aH1sYcXkjID"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Los Huracanes del Norte - 40 Aniversario",
+        "url": "https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 220682,
+      "name": "Nomas Por Tu Culpa",
+      "url": "https://open.spotify.com/track/1YvVbuRKDU9zRE3OsZxx4v"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
+        "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
       },
       "artists": [
         {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 188946,
-      "name": "El Chubasco",
-      "url": "https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x"
+      "duration_ms": 263466,
+      "name": "Casas de Madera",
+      "url": "https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
-        "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
       "artists": [
         {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 263466,
-      "name": "Casas de Madera",
-      "url": "https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0"
+      "duration_ms": 188946,
+      "name": "El Chubasco",
+      "url": "https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
+        "name": "Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
         "name": "Era Cabron El Viejo",
         "url": "https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 209293,
       "name": "Acepto Mi Derrota",
       "url": "https://open.spotify.com/track/04WZrScUUzNGXExDtUrQe5"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
-        "name": "Rinconcito En El Cielo",
-        "url": "https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Recu\u00e9rdame Y Ven A M\u00ed",
-        "url": "https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 171413,
-      "name": "Mi Golondrina",
-      "url": "https://open.spotify.com/track/28cEjHqqh494m594SwLyvt"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Los A\u00f1os Viejos",
         "url": "https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 249026,
       "name": "Los A\u00f1os Viejos",
       "url": "https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Recu\u00e9rdame Y Ven A M\u00ed",
+        "url": "https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 171413,
+      "name": "Mi Golondrina",
+      "url": "https://open.spotify.com/track/28cEjHqqh494m594SwLyvt"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Casas de Madera",
-        "url": "https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "S\u00f3lo una Patada",
-      "url": "https://open.spotify.com/track/34x84kiFbL2pdwlGT8BYcd"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Y Por Esa Calle Vive",
         "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 218013,
       "name": "Y Por Esa Calle Vive",
       "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Casas de Madera",
+        "url": "https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "S\u00f3lo una Patada",
+      "url": "https://open.spotify.com/track/34x84kiFbL2pdwlGT8BYcd"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "Quisiera Ser Una L\u00e1grima",
-      "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "S\u00f3lo Exitos una Pagina Mas",
         "url": "https://open.spotify.com/album/5x828YRyGbYuMxm8RNPyon"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 177841,
       "name": "Aquel Amor",
       "url": "https://open.spotify.com/track/6Syhx2jXvL0jjSdh8RsP8q"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Quisiera Ser Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 170973,
-      "name": "Abeja Re\u00edna",
-      "url": "https://open.spotify.com/track/406qqOwEMlBUUugyHXBy8B"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "30 Primeros Exitos",
         "url": "https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 185373,
       "name": "Alta Y Delgadita",
       "url": "https://open.spotify.com/track/2oF3tfZb9B0xS9ilXzc65D"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 170973,
+      "name": "Abeja Re\u00edna",
+      "url": "https://open.spotify.com/track/406qqOwEMlBUUugyHXBy8B"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Te Sigo Amando",
-        "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "No Hay Problema",
-      "url": "https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Cari\u00f1o Santo",
         "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 200213,
       "name": "Cuando Nadie Te Quiera",
       "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Te Sigo Amando",
+        "url": "https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "No Hay Problema",
+      "url": "https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3155,18 +3155,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Cachorreando - 40 A\u00f1os",
-        "url": "https://open.spotify.com/album/0Simav4No6MitVWpeBWXe6"
+        "name": "Relaciones Conflictivas",
+        "url": "https://open.spotify.com/album/74bjZLjDhzywJCyky6HyK3"
       },
       "artists": [
         {
-          "name": "Los Cachorros de Juan Villarreal",
-          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
         }
       ],
-      "duration_ms": 178026,
-      "name": "La Duda",
-      "url": "https://open.spotify.com/track/7EwVxBzfa7dHmeEKH7AyPw"
+      "duration_ms": 205893,
+      "name": "Un Idiota Como Yo",
+      "url": "https://open.spotify.com/track/44evv7IRYiR0O6rQqok1gX"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3235,18 +3235,18 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Relaciones Conflictivas",
-        "url": "https://open.spotify.com/album/74bjZLjDhzywJCyky6HyK3"
+        "name": "Cachorreando - 40 A\u00f1os",
+        "url": "https://open.spotify.com/album/0Simav4No6MitVWpeBWXe6"
       },
       "artists": [
         {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
         }
       ],
-      "duration_ms": 205893,
-      "name": "Un Idiota Como Yo",
-      "url": "https://open.spotify.com/track/44evv7IRYiR0O6rQqok1gX"
+      "duration_ms": 178026,
+      "name": "La Duda",
+      "url": "https://open.spotify.com/track/7EwVxBzfa7dHmeEKH7AyPw"
     },
     {
       "added_at": "2026-03-10 01:04:29",

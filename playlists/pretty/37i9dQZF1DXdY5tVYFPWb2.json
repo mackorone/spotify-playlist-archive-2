@@ -831,8 +831,8 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "\u5fae\u70ad\u9178",
-        "url": "https://open.spotify.com/album/2yvUedNwMr1aq1bFXvUXFA"
+        "name": "W.O.R.K.S.",
+        "url": "https://open.spotify.com/album/5edBDvzGuHBa6PtdhSclis"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 180441,
-      "name": "\u5fae\u70ad\u9178",
-      "url": "https://open.spotify.com/track/3BpigDZZmi6bRACtKhCUeu"
+      "duration_ms": 199173,
+      "name": "\u9000\u8077\u4ee3\u884c",
+      "url": "https://open.spotify.com/track/5RrsQErSWsXL4wwLOPtzwK"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "\u305d\u308c\u306f\u30b8\u30e5\u30fc\u30b7\u30fc",
-        "url": "https://open.spotify.com/album/79LronoW9pIfeNzRrljxWZ"
-      },
-      "artists": [
-        {
-          "name": "Yuma Abe",
-          "url": "https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z"
-        }
-      ],
-      "duration_ms": 171100,
-      "name": "\u305d\u308c\u306f\u30b8\u30e5\u30fc\u30b7\u30fc",
-      "url": "https://open.spotify.com/track/2h2piLl2sLgYl7WQtHOlIZ"
-    },
-    {
-      "added_at": "2026-10-20 15:00:16",
-      "album": {
         "name": "\u767d\u7121\u57a2",
         "url": "https://open.spotify.com/album/0QyNQAjr0iOZOp4n5EeyiB"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 206533,
       "name": "\u767d\u7121\u57a2",
       "url": "https://open.spotify.com/track/2QzJWdpJOGKwAIyA4anrbo"
+    },
+    {
+      "added_at": "2026-10-20 15:00:16",
+      "album": {
+        "name": "\u305d\u308c\u306f\u30b8\u30e5\u30fc\u30b7\u30fc",
+        "url": "https://open.spotify.com/album/79LronoW9pIfeNzRrljxWZ"
+      },
+      "artists": [
+        {
+          "name": "Yuma Abe",
+          "url": "https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z"
+        }
+      ],
+      "duration_ms": 171100,
+      "name": "\u305d\u308c\u306f\u30b8\u30e5\u30fc\u30b7\u30fc",
+      "url": "https://open.spotify.com/track/2h2piLl2sLgYl7WQtHOlIZ"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -919,8 +919,8 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "W.O.R.K.S.",
-        "url": "https://open.spotify.com/album/5edBDvzGuHBa6PtdhSclis"
+        "name": "\u5fae\u70ad\u9178",
+        "url": "https://open.spotify.com/album/2yvUedNwMr1aq1bFXvUXFA"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 199173,
-      "name": "\u9000\u8077\u4ee3\u884c",
-      "url": "https://open.spotify.com/track/5RrsQErSWsXL4wwLOPtzwK"
+      "duration_ms": 180441,
+      "name": "\u5fae\u70ad\u9178",
+      "url": "https://open.spotify.com/track/3BpigDZZmi6bRACtKhCUeu"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "We won't last forever",
-        "url": "https://open.spotify.com/album/7t8eZ4T5ggu677XyIZxgoi"
-      },
-      "artists": [
-        {
-          "name": "lili maua",
-          "url": "https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM"
-        }
-      ],
-      "duration_ms": 183862,
-      "name": "We won't last forever",
-      "url": "https://open.spotify.com/track/7fpiNWwolSZNS4VT2ZsacF"
-    },
-    {
-      "added_at": "2026-10-20 15:00:16",
-      "album": {
         "name": "from JAPAN 2",
         "url": "https://open.spotify.com/album/6MQkhc7AduXNgGCv43WCxl"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 275973,
       "name": "\u9769\u547d\u524d\u591c",
       "url": "https://open.spotify.com/track/2vOeE2Uh2UDG5jow8F2WQ9"
+    },
+    {
+      "added_at": "2026-10-20 15:00:16",
+      "album": {
+        "name": "We won't last forever",
+        "url": "https://open.spotify.com/album/7t8eZ4T5ggu677XyIZxgoi"
+      },
+      "artists": [
+        {
+          "name": "lili maua",
+          "url": "https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM"
+        }
+      ],
+      "duration_ms": 183862,
+      "name": "We won't last forever",
+      "url": "https://open.spotify.com/track/7fpiNWwolSZNS4VT2ZsacF"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
-        "url": "https://open.spotify.com/album/5OZdzA65lHi0E53GT57XZf"
-      },
-      "artists": [
-        {
-          "name": "I Don't Like Mondays.",
-          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
-        }
-      ],
-      "duration_ms": 168353,
-      "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
-      "url": "https://open.spotify.com/track/6eArsdpADo1RTt7zX2Ys1K"
-    },
-    {
-      "added_at": "2026-10-20 15:00:16",
-      "album": {
         "name": "\u30d0\u30b0\u3063\u305f\u5973\u795e",
         "url": "https://open.spotify.com/album/3zZR5S5dbKN1h0vp6g5QAJ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 187896,
       "name": "\u30d0\u30b0\u3063\u305f\u5973\u795e",
       "url": "https://open.spotify.com/track/3eqLFoEeE09019Chfmhlrq"
+    },
+    {
+      "added_at": "2026-10-20 15:00:16",
+      "album": {
+        "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
+        "url": "https://open.spotify.com/album/5OZdzA65lHi0E53GT57XZf"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "duration_ms": 168353,
+      "name": "kiri\u304c\u306a\u3044\u3067\u3059\u308f",
+      "url": "https://open.spotify.com/track/6eArsdpADo1RTt7zX2Ys1K"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "\u30ab \u30df \u30ca \u30ea",
-        "url": "https://open.spotify.com/album/2zqIBWA4EAuPPNqeznO68y"
-      },
-      "artists": [
-        {
-          "name": "I Don't Like Mondays.",
-          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
-        }
-      ],
-      "duration_ms": 213164,
-      "name": "\u30ab \u30df \u30ca \u30ea",
-      "url": "https://open.spotify.com/track/1zFY4oOz58ps2Eeztu12S3"
-    },
-    {
-      "added_at": "2026-10-20 15:00:16",
-      "album": {
         "name": "RIDE ON TIME",
         "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 244752,
       "name": "RIDE ON TIME",
       "url": "https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1"
+    },
+    {
+      "added_at": "2026-10-20 15:00:16",
+      "album": {
+        "name": "\u30ab \u30df \u30ca \u30ea",
+        "url": "https://open.spotify.com/album/2zqIBWA4EAuPPNqeznO68y"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "duration_ms": 213164,
+      "name": "\u30ab \u30df \u30ca \u30ea",
+      "url": "https://open.spotify.com/track/1zFY4oOz58ps2Eeztu12S3"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "Black Humor",
-        "url": "https://open.spotify.com/album/0LNnAK39uQkjEa0fSCYjBt"
-      },
-      "artists": [
-        {
-          "name": "I Don't Like Mondays.",
-          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
-        }
-      ],
-      "duration_ms": 190906,
-      "name": "MOON NIGHT",
-      "url": "https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5"
-    },
-    {
-      "added_at": "2026-10-20 15:00:16",
-      "album": {
         "name": "My Plan",
         "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 223350,
       "name": "My Plan",
       "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+    },
+    {
+      "added_at": "2026-10-20 15:00:16",
+      "album": {
+        "name": "Black Humor",
+        "url": "https://open.spotify.com/album/0LNnAK39uQkjEa0fSCYjBt"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "MOON NIGHT",
+      "url": "https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5"
     },
     {
       "added_at": "2026-10-20 15:00:16",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-10-20 15:00:16",
       "album": {
-        "name": "Season",
-        "url": "https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
-    },
-    {
-      "added_at": "2026-10-20 15:00:16",
-      "album": {
         "name": "Fools in the Rain",
         "url": "https://open.spotify.com/album/6XTxcPDF68xATWKxvxGkVE"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 176990,
       "name": "Fools in the Rain",
       "url": "https://open.spotify.com/track/2Yv4p5nBE2FCOI8s7qggct"
+    },
+    {
+      "added_at": "2026-10-20 15:00:16",
+      "album": {
+        "name": "Season",
+        "url": "https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
     },
     {
       "added_at": "2026-10-20 15:00:16",

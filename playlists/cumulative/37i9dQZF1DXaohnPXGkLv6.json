@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340942,
+      "name": "cigarette smoke",
+      "url": "https://open.spotify.com/track/0e4u0sFRGxHL4U2iFBrUvZ"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 
 > A selection of anime tracks perfect for listening to during your gaming time\. ゲームの時間にぴったりなアニメ楽曲をセレクト。 Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 10 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWOC7yZ9Tq5.md) - [plain]
 | 20 | [euro nerv](https://open.spotify.com/track/2z9ROEYQ33EcPrLVLFi0ZD) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION"](https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG) | 1:22 |
 | 21 | [怪獣８号のテーマ](https://open.spotify.com/track/26upe4jRiSViE2uZ7D5uP0) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [「怪獣８号」オリジナル・サウンドトラック](https://open.spotify.com/album/4r7MuwiXbYJpPJT61bB5Pc) | 1:27 |
 | 22 | [Never Coming Back](https://open.spotify.com/track/3Ah4c5PA249AR1QOyVCsc4) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Violet Evergarden: Automemories](https://open.spotify.com/album/72gCyV73fW93aTkOM8C4W2) | 2:24 |
-| 23 | [LEASE](https://open.spotify.com/track/2PV4Xn0Jy9Z5uz7akQUhdg) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [Takeshi Abo KID Collection～My Merry May](https://open.spotify.com/album/4YRtRcjV41e3YaiFylzuY0) | 1:43 |
-| 24 | [il vento d'oro](https://open.spotify.com/track/4eFjE882anJTh5j0lGeek5) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険 黄金の風 O.S.T \(vol.1 Overture\)](https://open.spotify.com/album/3F39P75zBe3YTwWCGmxUNL) | 4:55 |
+| 23 | [il vento d'oro](https://open.spotify.com/track/4eFjE882anJTh5j0lGeek5) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険 黄金の風 O.S.T \(vol.1 Overture\)](https://open.spotify.com/album/3F39P75zBe3YTwWCGmxUNL) | 4:55 |
+| 24 | [LEASE](https://open.spotify.com/track/2PV4Xn0Jy9Z5uz7akQUhdg) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [Takeshi Abo KID Collection～My Merry May](https://open.spotify.com/album/4YRtRcjV41e3YaiFylzuY0) | 1:43 |
 | 25 | [clavar la espada](https://open.spotify.com/track/4QRCdMTZegDH27rOUbOEFY) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 3:39 |
 | 26 | [SAE](https://open.spotify.com/track/68slfkIx29BAtyBZJu8pj3) | [村山☆潤](https://open.spotify.com/artist/3lhpkn7TNzz8kqNE8PUOqm) | [TVアニメ『ブルーロック VS\. U\-20 JAPAN』オリジナルサウンドトラック](https://open.spotify.com/album/2gAHilt1aA7tO194lQBdKC) | 2:47 |
 | 27 | [The Voice in My Heart](https://open.spotify.com/track/0RcKa0WPrURVtBNz5SNd3W) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Violet Evergarden: Automemories](https://open.spotify.com/album/72gCyV73fW93aTkOM8C4W2) | 2:20 |

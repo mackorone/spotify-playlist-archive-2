@@ -1,6 +1,6 @@
 {
   "description": "darf man so ?? (in den tag starten, kurz leben leben, bisschen pause machen) ",
-  "num_followers": 617534,
+  "num_followers": 617481,
   "original_name": "morning glow",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-10-15 22:01:06",
       "album": {
-        "name": "Want It Back",
-        "url": "https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 207509,
-      "name": "Want It Back",
-      "url": "https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA"
-    },
-    {
-      "added_at": "2026-10-15 22:01:06",
-      "album": {
         "name": "Fickle",
         "url": "https://open.spotify.com/album/5KtwyOJfROXPeOpemvxz2Y"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 195770,
       "name": "Fickle",
       "url": "https://open.spotify.com/track/4FCLTBBVlva3LnaX3UpNgH"
+    },
+    {
+      "added_at": "2026-10-15 22:01:06",
+      "album": {
+        "name": "Want It Back",
+        "url": "https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 207509,
+      "name": "Want It Back",
+      "url": "https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA"
     },
     {
       "added_at": "2026-10-15 22:01:06",

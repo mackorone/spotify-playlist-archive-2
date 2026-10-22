@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sara Evelyn",
-  "num_followers": 211016,
+  "num_followers": 211068,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-10-19 15:46:46",
       "album": {
+        "name": "Deus Vai Agir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Deus Vai Agir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o"
+    },
+    {
+      "added_at": "2026-10-19 15:46:46",
+      "album": {
         "name": "Hebreus 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 625714,
       "name": "Hebreus 1 - Ao Vivo",
       "url": "https://open.spotify.com/track/7DQOqbaquRT0VZmkfgo54z"
-    },
-    {
-      "added_at": "2026-10-19 15:46:46",
-      "album": {
-        "name": "Deus Vai Agir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Deus Vai Agir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o"
     },
     {
       "added_at": "2026-10-19 15:46:46",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2026-10-19 15:46:46",
       "album": {
+        "name": "Fara\u00f3 ou Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2EGueMHMVDoJsShvZpXrIZ"
+      },
+      "artists": [
+        {
+          "name": "Fam\u00edlia Cavalcanty",
+          "url": "https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU"
+        },
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        }
+      ],
+      "duration_ms": 325026,
+      "name": "Fara\u00f3 ou Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0ZeQCW8kf6jcRkv0J9TTrQ"
+    },
+    {
+      "added_at": "2026-10-19 15:46:46",
+      "album": {
         "name": "Esse Adorador (Ao vivo)",
         "url": "https://open.spotify.com/album/7ywjvtIHI0op1tUOXUoWOk"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 300306,
       "name": "Metade do Filho (Ao Vivo)",
       "url": "https://open.spotify.com/track/0bI0ggOso17BOsNbsVJ2Om"
-    },
-    {
-      "added_at": "2026-10-19 15:46:46",
-      "album": {
-        "name": "Fara\u00f3 ou Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2EGueMHMVDoJsShvZpXrIZ"
-      },
-      "artists": [
-        {
-          "name": "Fam\u00edlia Cavalcanty",
-          "url": "https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU"
-        },
-        {
-          "name": "Shirley Carvalhaes",
-          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
-        }
-      ],
-      "duration_ms": 325026,
-      "name": "Fara\u00f3 ou Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0ZeQCW8kf6jcRkv0J9TTrQ"
     },
     {
       "added_at": "2026-10-19 15:46:46",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 
 > Look fear in the face\. Scary movie themes, including tracks from Clayface, only in theatres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,176 likes - 86 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,351 likes - 86 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Clayface Theme \- from "Clayface"](https://open.spotify.com/track/5rM5qO8taQbwguyBUxLxrs) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Clayface Theme \(from "Clayface"\)](https://open.spotify.com/album/6Lj7OEb9GcnZ9GeaFa9Wcj) | 1:54 |
+| 1 | [Clayface Theme](https://open.spotify.com/track/5rM5qO8taQbwguyBUxLxrs) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Clayface Theme](https://open.spotify.com/album/6Lj7OEb9GcnZ9GeaFa9Wcj) | 1:54 |
 | 2 | [Main Title \(The Shining\)](https://open.spotify.com/track/4WnuHIJTLrFkAQdpryLDe7) | [Wendy Carlos](https://open.spotify.com/artist/53MmKrtEp4WjTg5yavKBqq), [Rachel Elkind](https://open.spotify.com/artist/3upw7LeLuCjuLPywNdkUHY) | [The Shining \(Selections from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7eA1RWzxtmV8x4DO1IKHfI) | 3:24 |
 | 3 | [Prelude](https://open.spotify.com/track/3kOLSO0EZvDZvJh1uX3J5X) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [Psycho \(The Complete Original Motion Picture Score\)](https://open.spotify.com/album/6edM5SIgWBo8EdbiWQwIUs) | 1:56 |
 | 4 | [Tubular Bells \- Opening Theme / From "The Exorcist"](https://open.spotify.com/track/2hJyhHWeDrnTuy24TtD4sd) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Halloween Party](https://open.spotify.com/album/1AQGra8TF7PX94whCy7tsY) | 3:16 |

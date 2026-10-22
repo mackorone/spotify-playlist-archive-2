@@ -377,6 +377,28 @@
     },
     {
       "album": {
+        "name": "Big Fish (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3Cn2jrMkdeC6uOtoYWio5v"
+      },
+      "artists": [
+        {
+          "name": "Norbert Leo Butz",
+          "url": "https://open.spotify.com/artist/2LEinBhufpsqT17c5XYomF"
+        },
+        {
+          "name": "Kate Baldwin",
+          "url": "https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308773,
+      "name": "Daffodils",
+      "url": "https://open.spotify.com/track/575iCJ8dSMEhO9XZIxT9wk"
+    },
+    {
+      "album": {
         "name": "Damocles",
         "url": "https://open.spotify.com/album/5ariqOmY9FYLTn2HmXcwAw"
       },

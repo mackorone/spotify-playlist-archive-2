@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 79209,
+  "num_followers": 79215,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAADnBkI5wTvzHNCBSdmAAzVn",
+  "snapshot_id": "atVdgAAAAAB91TzmrnBWLS3kvwiV+TWb",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Found My Smile Again",
-        "url": "https://open.spotify.com/album/2DuxNAsjra84Q3zYu1LG6I"
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 240453,
-      "name": "I Found My Smile Again (Radio Edit)",
-      "url": "https://open.spotify.com/track/3uq6qe8ouF012GLOcLyWcH"
+      "duration_ms": 344346,
+      "name": "Really Love",
+      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
     },
     {
       "added_at": null,
@@ -95,8 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+        "name": "I Found My Smile Again",
+        "url": "https://open.spotify.com/album/2DuxNAsjra84Q3zYu1LG6I"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 344346,
-      "name": "Really Love",
-      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
+      "duration_ms": 240453,
+      "name": "I Found My Smile Again (Radio Edit)",
+      "url": "https://open.spotify.com/track/3uq6qe8ouF012GLOcLyWcH"
     },
     {
       "added_at": null,
@@ -435,22 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+        "name": "The Best So Far",
+        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
       },
       "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 299533,
-      "name": "Ain't Nobody Home",
-      "url": "https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX"
+      "duration_ms": 252640,
+      "name": "Heaven Must Be Like This",
+      "url": "https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb"
     },
     {
       "added_at": null,
@@ -471,18 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best So Far",
-        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
       "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 252640,
-      "name": "Heaven Must Be Like This",
-      "url": "https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb"
+      "duration_ms": 299533,
+      "name": "Ain't Nobody Home",
+      "url": "https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX"
     },
     {
       "added_at": null,

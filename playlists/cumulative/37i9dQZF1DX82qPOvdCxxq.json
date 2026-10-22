@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Lily Hooten",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Sinmidele",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -856,7 +856,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 155196,
       "name": "All Night!",
       "url": "https://open.spotify.com/track/1ZxPgRT70IBQr3lw807Uk2"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 217399,
       "name": "And The Next Day",
       "url": "https://open.spotify.com/track/4KHf4XGHNYjQq1MsTdejJC"
@@ -2800,7 +2800,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 194686,
       "name": "BREATHE",
       "url": "https://open.spotify.com/track/4yohajjrNUPdK9WB5ugoiK"
@@ -5714,7 +5714,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 213913,
       "name": "enough",
       "url": "https://open.spotify.com/track/1ajvWQ22Iu420eQkFix6ge"
@@ -5808,7 +5808,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 166874,
       "name": "Estar As\u00ed",
       "url": "https://open.spotify.com/track/5TxbXPfh7dioI30mMUQBJK"
@@ -7187,6 +7187,24 @@
     },
     {
       "album": {
+        "name": "WHO AM I?: DISC 2",
+        "url": "https://open.spotify.com/album/7kp1N1Do6rQOICDFvFCg3G"
+      },
+      "artists": [
+        {
+          "name": "DKG KIE",
+          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158142,
+      "name": "FREE",
+      "url": "https://open.spotify.com/track/5GWXshlOl3XsngVUGVNbIX"
+    },
+    {
+      "album": {
         "name": "FREE",
         "url": "https://open.spotify.com/album/12Bz8M2cn1cdmedkZCi1nw"
       },
@@ -7198,7 +7216,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 161142,
       "name": "FREE",
       "url": "https://open.spotify.com/track/6m2PoI1uab7HSlRLdpTiE9"
@@ -7310,6 +7328,24 @@
       "duration_ms": 198500,
       "name": "Freedom Chant",
       "url": "https://open.spotify.com/track/5466Ixc0emLF658Edrh6j0"
+    },
+    {
+      "album": {
+        "name": "pilgrim",
+        "url": "https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221116,
+      "name": "freefall",
+      "url": "https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB"
     },
     {
       "album": {
@@ -8680,6 +8716,24 @@
       "duration_ms": 261918,
       "name": "Gutter Punk",
       "url": "https://open.spotify.com/track/45A5UqTo2EEWJU9U2XpvVy"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/6DawHg3wg4LPoTnNrmuqcq"
+      },
+      "artists": [
+        {
+          "name": "Lee Vasi",
+          "url": "https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213938,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/2prxVbNBYsu5jj44QfqVbb"
     },
     {
       "album": {
@@ -10652,7 +10706,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 243195,
       "name": "I Talked to God",
       "url": "https://open.spotify.com/track/6AYJDBR5dsYussX3rkyYNW"
@@ -11032,7 +11086,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 195833,
       "name": "If you tell God, I won't tell mom",
       "url": "https://open.spotify.com/track/2aPJOFUDlDCHIa8fjWFebC"
@@ -11198,6 +11252,24 @@
       "duration_ms": 225881,
       "name": "In Your Hands",
       "url": "https://open.spotify.com/track/5eprHro0hjcFn4xqmeWSVU"
+    },
+    {
+      "album": {
+        "name": "In-Between",
+        "url": "https://open.spotify.com/album/7p0Ylsmuljmdsk5UySQSjA"
+      },
+      "artists": [
+        {
+          "name": "Anne Elise",
+          "url": "https://open.spotify.com/artist/2UPEn7IF9Fo87q1oyS3oKP"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232333,
+      "name": "In-Between",
+      "url": "https://open.spotify.com/track/46PTcQtkLdI6SLK55RNTkY"
     },
     {
       "album": {
@@ -14088,7 +14160,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 241977,
       "name": "Melodies Over Me",
       "url": "https://open.spotify.com/track/7DtWTMIyCmACFzsxtY5HhL"
@@ -14681,6 +14753,24 @@
     },
     {
       "album": {
+        "name": "My Forever",
+        "url": "https://open.spotify.com/album/3tTVKzLEPClBY7e4TT1RP6"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249714,
+      "name": "My Forever",
+      "url": "https://open.spotify.com/track/1R8I3H65pxDY4t9ujP0huO"
+    },
+    {
+      "album": {
         "name": "My God",
         "url": "https://open.spotify.com/album/0mn9jEpAESIUCRpmGkVQZz"
       },
@@ -14736,6 +14826,24 @@
       "duration_ms": 274500,
       "name": "My Heart Is Your Home",
       "url": "https://open.spotify.com/track/6GABVf6kLJklKKZBFcWc2O"
+    },
+    {
+      "album": {
+        "name": "Free The Slaves III",
+        "url": "https://open.spotify.com/album/413okUY0vQucjpruyM9EpJ"
+      },
+      "artists": [
+        {
+          "name": "Jaz Donell",
+          "url": "https://open.spotify.com/artist/2AOPxALbQxgAhG49uFEmgb"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206451,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/1XUntqbeTEwWgaG8NxlyQD"
     },
     {
       "album": {
@@ -19364,7 +19472,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 285915,
       "name": "Sin Reflectores",
       "url": "https://open.spotify.com/track/2MEep18MblsiDHN2Gjad4c"
@@ -20686,6 +20794,28 @@
       "duration_ms": 260571,
       "name": "Take Care of Me",
       "url": "https://open.spotify.com/track/6lrFxFgwf9ePXlQhJS7tcI"
+    },
+    {
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/7qnXQlNoUT5mZhdX6N1R9P"
+      },
+      "artists": [
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        },
+        {
+          "name": "Aaron Cottman",
+          "url": "https://open.spotify.com/artist/7pTOhmw9MyalrQj6vKRRw2"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154585,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/21yNrcEHo9vFSbuByDgHeg"
     },
     {
       "album": {
@@ -23153,6 +23283,24 @@
     },
     {
       "album": {
+        "name": "EYES ON YOU (VOL 2.)",
+        "url": "https://open.spotify.com/album/6WFssO5UZMZYottlxDo1fR"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Danos",
+          "url": "https://open.spotify.com/artist/7GmgBosrGTp3T3mSQsUjJV"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184440,
+      "name": "Waiting On The Shore",
+      "url": "https://open.spotify.com/track/0FHwsCuCi8ret2CJ62wIfR"
+    },
+    {
+      "album": {
         "name": "wake up",
         "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
       },
@@ -24765,6 +24913,24 @@
     },
     {
       "album": {
+        "name": "YAHWEH (YA TU SABES)",
+        "url": "https://open.spotify.com/album/3A3jWpZNMVUsLz8YPmLNbC"
+      },
+      "artists": [
+        {
+          "name": "Cash Cortes",
+          "url": "https://open.spotify.com/artist/4PRsDz38Pho7HP2e9V4vXz"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178347,
+      "name": "YAHWEH (YA TU SABES)",
+      "url": "https://open.spotify.com/track/4eZ9GNAuWI14tI2Al1Ebul"
+    },
+    {
+      "album": {
         "name": "Nuff Said",
         "url": "https://open.spotify.com/album/6GrJvQYXipvJ39pVNogGMi"
       },
@@ -25204,6 +25370,24 @@
       "duration_ms": 216155,
       "name": "You Put My Mind at Ease",
       "url": "https://open.spotify.com/track/5EjFqeH8AtSN2HGMXNXcTR"
+    },
+    {
+      "album": {
+        "name": "you say you know about jesus",
+        "url": "https://open.spotify.com/album/2hj6F9O3BiuZCh6ZRzDZAr"
+      },
+      "artists": [
+        {
+          "name": "Rylie Davis",
+          "url": "https://open.spotify.com/artist/5tXJYT8F29KYHPlSY9KERi"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208978,
+      "name": "you say you know about jesus",
+      "url": "https://open.spotify.com/track/3IkKKaQEl8YpPwKuEN7MJ6"
     },
     {
       "album": {

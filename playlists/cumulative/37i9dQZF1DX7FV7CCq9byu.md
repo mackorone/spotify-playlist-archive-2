@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-2,038 songs - 4 day 8 hr 32 min
+2,039 songs - 4 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Andra sidan \(vi är klara\)](https://open.spotify.com/track/4zShxXNfJ8QuBo0KOzg3lV) | [Lukas Söderholm](https://open.spotify.com/artist/6H3bChd6nBuQ7bzGzYSDqB) | [Andra sidan \(vi är klara\)](https://open.spotify.com/album/5Enp8TTAJW8rI59xbBdNb9) | 2:35 | 2025-06-02 | 2025-06-27 |
 | [andromeda](https://open.spotify.com/track/7g0RxMZlNSrlTwEVRXqv8L) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [brb…<3](https://open.spotify.com/album/2Tv0WnJJ1HR6iTLXMZlqty) | 2:27 | 2024-06-27 | 2024-07-05 |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-08-06 | 2024-09-13 |
+| [Angel Of My Dreams](https://open.spotify.com/track/3Zu0AWO9PN2lP2kCls5mkq) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:17 | 2026-10-21 |  |
 | [Angela](https://open.spotify.com/track/0ltWabjFKp4e1qqS93DI2n) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 4:12 | 2024-10-24 | 2025-01-10 |
 | [Animal](https://open.spotify.com/track/04hCF2m0TsrSL0OwgYJHHx) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Animal](https://open.spotify.com/album/2rU0hPF2YxpLbCx0dcgHlz) | 3:34 | 2026-06-11 | 2026-08-14 |
 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 | 2026-07-23 | 2026-10-02 |

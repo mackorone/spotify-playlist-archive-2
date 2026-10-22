@@ -1,6 +1,6 @@
 {
   "description": "\uc2dc\uc6d0\ud55c \uad6d\ub0b4\uc74c\uc545\ub4e4\uacfc \ub4dc\ub77c\uc774\ube59\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Tap your feet to the K-Pop beats on your way through the driving moments.)",
-  "num_followers": 119709,
+  "num_followers": 119697,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \ub304\uc2a4+ (K-Pop Dance Driving)",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "LEMONADE - The 2nd Album",
-        "url": "https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "LEMONADE",
-      "url": "https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "DRIP",
         "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 180845,
       "name": "DRIP",
       "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "LEMONADE - The 2nd Album",
+        "url": "https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "NO LABELS: PART 02",
-        "url": "https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg"
-      },
-      "artists": [
-        {
-          "name": "YEONJUN",
-          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
-        }
-      ],
-      "duration_ms": 124896,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "BABYMONS7ER",
         "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
       },
@@ -575,22 +559,6 @@
       "duration_ms": 170356,
       "name": "SHEESH",
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
-        "name": "GREENGREEN",
-        "url": "https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT"
-      },
-      "artists": [
-        {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "ACAI",
-      "url": "https://open.spotify.com/track/7Ldcvhcl4Xj4eOTSWpZus5"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -611,18 +579,18 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "How Sweet",
-        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+        "name": "GREENGREEN",
+        "url": "https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
         }
       ],
-      "duration_ms": 219026,
-      "name": "How Sweet",
-      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+      "duration_ms": 173947,
+      "name": "ACAI",
+      "url": "https://open.spotify.com/track/7Ldcvhcl4Xj4eOTSWpZus5"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -643,6 +611,22 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
+        "name": "How Sweet",
+        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "How Sweet",
+      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
         "name": "SUGAR HONEY ICE TEA",
         "url": "https://open.spotify.com/album/2KiMyHuf4NDqnM7GhGysBC"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
+        "name": "NO LABELS: PART 02",
+        "url": "https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
         }
       ],
-      "duration_ms": 189725,
-      "name": "Body to Body",
-      "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
+      "duration_ms": 124896,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -691,6 +675,22 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
         "name": "Drama - The 4th Mini Album",
         "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 214973,
       "name": "Drama",
       "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
-        "name": "BITE NOW",
-        "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
-      },
-      "artists": [
-        {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
-        }
-      ],
-      "duration_ms": 195935,
-      "name": "DDI RO RI",
-      "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -739,18 +723,18 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "SCENEDROME",
-        "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
+        "name": "BITE NOW",
+        "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
       },
       "artists": [
         {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
         }
       ],
-      "duration_ms": 181560,
-      "name": "LOVE ATTACK",
-      "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
+      "duration_ms": 195935,
+      "name": "DDI RO RI",
+      "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -771,6 +755,22 @@
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "SCENEDROME",
+        "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "LOVE ATTACK",
+      "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "Heavy Serenade",
-        "url": "https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Heavy Serenade",
-      "url": "https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -859,18 +843,18 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "SYNK : PARALLEL LINE - Special Digital Single",
-        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
+        "name": "Heavy Serenade",
+        "url": "https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "duration_ms": 166640,
-      "name": "UP - KARINA Solo",
-      "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
+      "duration_ms": 180000,
+      "name": "Heavy Serenade",
+      "url": "https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -907,18 +891,18 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "Blue Valentine",
-        "url": "https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB"
+        "name": "I.O.I 3rd MINI ALBUM [I.O.I : LOOP]",
+        "url": "https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp"
       },
       "artists": [
         {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+          "name": "I.O.I",
+          "url": "https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Blue Valentine",
-      "url": "https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh"
+      "duration_ms": 195000,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -939,18 +923,34 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "I.O.I 3rd MINI ALBUM [I.O.I : LOOP]",
-        "url": "https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp"
+        "name": "Blue Valentine",
+        "url": "https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB"
       },
       "artists": [
         {
-          "name": "I.O.I",
-          "url": "https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku"
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19"
+      "duration_ms": 186000,
+      "name": "Blue Valentine",
+      "url": "https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "SYNK : PARALLEL LINE - Special Digital Single",
+        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "UP - KARINA Solo",
+      "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "IT'z ME",
-        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 180180,
-      "name": "THAT\u2019S A NO NO",
-      "url": "https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "Take",
         "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 214136,
       "name": "Way Back Home",
       "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "IT'z ME",
+        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 180180,
+      "name": "THAT\u2019S A NO NO",
+      "url": "https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1435,6 +1435,30 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
+        "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+        "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "duration_ms": 211330,
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
         "name": "We Are UNCHILD",
         "url": "https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP"
       },
@@ -1463,30 +1487,6 @@
       "duration_ms": 171600,
       "name": "BOTH SIDES",
       "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
-        "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
-        "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        },
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
-        }
-      ],
-      "duration_ms": 211330,
-      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
-      "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "Delulu Pack",
-        "url": "https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc"
-      },
-      "artists": [
-        {
-          "name": "KiiiKiii",
-          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "404 (New Era)",
-      "url": "https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "ONE MORE TIME",
         "url": "https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 195259,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "404 (New Era)",
+      "url": "https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "WhyKiiiKiii",
-        "url": "https://open.spotify.com/album/5k18hWGQBeS8a0CchCJrf6"
-      },
-      "artists": [
-        {
-          "name": "KiiiKiii",
-          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
-        }
-      ],
-      "duration_ms": 166149,
-      "name": "Candy Pink Magic Hole Flip Phone",
-      "url": "https://open.spotify.com/track/5ImBkrqjl1xCxJK7yNDOsq"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "<LOVE&POP> pt.1",
         "url": "https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 188000,
       "name": "Baby Flower",
       "url": "https://open.spotify.com/track/1ET5lou3teBMA3a5cYeYzN"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "WhyKiiiKiii",
+        "url": "https://open.spotify.com/album/5k18hWGQBeS8a0CchCJrf6"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "duration_ms": 166149,
+      "name": "Candy Pink Magic Hole Flip Phone",
+      "url": "https://open.spotify.com/track/5ImBkrqjl1xCxJK7yNDOsq"
     },
     {
       "added_at": "2026-08-27 04:18:30",

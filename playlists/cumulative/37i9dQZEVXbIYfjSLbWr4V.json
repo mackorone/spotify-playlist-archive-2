@@ -3957,6 +3957,48 @@
     },
     {
       "album": {
+        "name": "FIRESTARTER",
+        "url": "https://open.spotify.com/album/1yz28fnKHjF4Yr06M6oCep"
+      },
+      "artists": [
+        {
+          "name": "K/DA",
+          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        },
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        },
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187280,
+      "name": "FIRESTARTER",
+      "url": "https://open.spotify.com/track/6UeSC8jEhf9XmUL8EX2rni"
+    },
+    {
+      "album": {
         "name": "BRATLAND",
         "url": "https://open.spotify.com/album/0LsI3DFSoCXBSSXCtriNRj"
       },
@@ -4642,6 +4684,24 @@
       "duration_ms": 135000,
       "name": "having fun",
       "url": "https://open.spotify.com/track/0UXVH7EDGW86UbGCDR7IYI"
+    },
+    {
+      "album": {
+        "name": "manifestival",
+        "url": "https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129108,
+      "name": "Hay\u0131r",
+      "url": "https://open.spotify.com/track/6p0FgOOuvcXcmTM5ZcESDY"
     },
     {
       "album": {
@@ -8258,7 +8318,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 73937,
       "name": "pepsi p",
       "url": "https://open.spotify.com/track/3nLGhosc8yCGsYBbMikG7N"
@@ -9194,7 +9254,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 200929,
       "name": "Set Me Free Pt.2",
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
@@ -13118,7 +13178,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 144000,
       "name": "\u0412\u0441\u0435 \u0445\u043e\u0442\u044f\u0442 \u043c\u0435\u043d\u044f \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/6yMFLAVzfpHZdN98V99Zsb"
@@ -13136,7 +13196,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 260560,
       "name": "\u0412\u0441\u0435\u043b\u0435\u043d\u043d\u0430\u044f \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u0430?",
       "url": "https://open.spotify.com/track/5bkfPKnHLi6AUP3fJA5Xf5"
@@ -13894,7 +13954,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 142325,
       "name": "\u0434\u043d\u044f\u043c\u0438 \u0438 \u043d\u043e\u0447\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/5c5PYbVqMGltm76SjqmF0o"
@@ -16354,7 +16414,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 89665,
       "name": "\u043d\u0430\u0437\u0430\u0434 \u0432 \u043a\u0440\u0435\u0441\u0442\u044b",
       "url": "https://open.spotify.com/track/36zMpCNLEEpNWnFfVOzbt2"
@@ -17490,7 +17550,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 125575,
       "name": "\u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043a\u0438\u043b\u043b",
       "url": "https://open.spotify.com/track/1FxcGrzFaxNWR9YXfdNQKX"
@@ -19700,7 +19760,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 188240,
       "name": "\u0421\u0442\u0430\u043d\u044c",
       "url": "https://open.spotify.com/track/475G1r5398lgxVY7Ld7m8r"

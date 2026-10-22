@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > greatest.album.of.all.time\_hyper\_sleaze.electro\_glitch\_☆▽☆\_power\_\[FINAL\]\_\[REAL\]\_\_coverartist.sophiastel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369,903 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,369,830 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 25 | [Dancing On Your Grave \- MGNA Crrrta Remix](https://open.spotify.com/track/5cTMNYTcPBDJFxT1Zxy3NM) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Dancing On Your Grave \(MGNA Crrrta Remix\)](https://open.spotify.com/album/4zeXl7NS5OaNhWdb69wdJm) | 3:11 |
 | 26 | [crank 2](https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [crank 2](https://open.spotify.com/album/3mG3Hvwq8rF1yfY8zQPpwC) | 3:19 |
 | 27 | [You're Gonna Be OK!](https://open.spotify.com/track/5MsfEsSSopXeBdfmXVZAQa) | [dear cupid.](https://open.spotify.com/artist/31nUrCOQRMlh4cg7aUpD43) | [You're Gonna Be OK!](https://open.spotify.com/album/6TEuwyzYGbTG0sILwujNm6) | 2:35 |
-| 28 | [ADDICTED2U \(feat\. underscores\)](https://open.spotify.com/track/265m78JMXBWdUIft3ch7Ez) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [ADDICTED2U \(feat\. underscores\)](https://open.spotify.com/album/2sjKZOLNyQl0Glf0sev6Ie) | 3:00 |
+| 28 | [ADDICTED2U \(feat\. underscores\)](https://open.spotify.com/track/265m78JMXBWdUIft3ch7Ez) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [ADDICTED2U \(feat\. underscores\)](https://open.spotify.com/album/2sjKZOLNyQl0Glf0sev6Ie) | 2:57 |
 | 29 | [MISS BEHAVIOR](https://open.spotify.com/track/5DaK0bzgMYLGUEGKKe8kMH) | [Lucy Bedroque](https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O) | [c](https://open.spotify.com/album/6cwZdsIawCaF4Ukh7KV24l) | 3:12 |
 | 30 | [Purr](https://open.spotify.com/track/5R4EUIVhVy3XsQVZ5dYBHC) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [Purr](https://open.spotify.com/album/5GJzma38z9xw6N9h93Yhz7) | 2:51 |
 | 31 | [iPod Touch \- Madeon Remix](https://open.spotify.com/track/2gRrj7LQZMTtUQv0gvhHpQ) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [iPod Touch \(Madeon Remix\)](https://open.spotify.com/album/43tYbnCgnbu1MlJU51XNyS) | 3:34 |

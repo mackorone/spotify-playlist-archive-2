@@ -1,13 +1,161 @@
 {
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Lily Hooten",
-  "num_followers": 62417,
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Sinmidele",
+  "num_followers": 62431,
   "original_name": "Fresh Finds Faith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL2nioLHZz5hobM3jHrSAcfaA5QH",
+  "snapshot_id": "AAAAAN6BFJMib3rnEnZ2RHE4RkuV8qtO",
   "tracks": [
+    {
+      "added_at": "2026-10-21 17:00:09",
+      "album": {
+        "name": "pilgrim",
+        "url": "https://open.spotify.com/album/44fQq4uTh4eKoeKnbgs3SV"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "duration_ms": 221116,
+      "name": "freefall",
+      "url": "https://open.spotify.com/track/0IbfOEL77YrIytZLoZEgLB"
+    },
+    {
+      "added_at": "2026-10-21 17:00:09",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/6DawHg3wg4LPoTnNrmuqcq"
+      },
+      "artists": [
+        {
+          "name": "Lee Vasi",
+          "url": "https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf"
+        }
+      ],
+      "duration_ms": 213938,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/2prxVbNBYsu5jj44QfqVbb"
+    },
+    {
+      "added_at": "2026-10-21 17:00:09",
+      "album": {
+        "name": "My Forever",
+        "url": "https://open.spotify.com/album/3tTVKzLEPClBY7e4TT1RP6"
+      },
+      "artists": [
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "duration_ms": 249714,
+      "name": "My Forever",
+      "url": "https://open.spotify.com/track/1R8I3H65pxDY4t9ujP0huO"
+    },
+    {
+      "added_at": "2026-10-21 17:00:09",
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/7qnXQlNoUT5mZhdX6N1R9P"
+      },
+      "artists": [
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        },
+        {
+          "name": "Aaron Cottman",
+          "url": "https://open.spotify.com/artist/7pTOhmw9MyalrQj6vKRRw2"
+        }
+      ],
+      "duration_ms": 154585,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/21yNrcEHo9vFSbuByDgHeg"
+    },
+    {
+      "added_at": "2026-10-21 17:00:09",
+      "album": {
+        "name": "EYES ON YOU (VOL 2.)",
+        "url": "https://open.spotify.com/album/6WFssO5UZMZYottlxDo1fR"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Danos",
+          "url": "https://open.spotify.com/artist/7GmgBosrGTp3T3mSQsUjJV"
+        }
+      ],
+      "duration_ms": 184440,
+      "name": "Waiting On The Shore",
+      "url": "https://open.spotify.com/track/0FHwsCuCi8ret2CJ62wIfR"
+    },
+    {
+      "added_at": "2026-10-21 17:00:09",
+      "album": {
+        "name": "In-Between",
+        "url": "https://open.spotify.com/album/7p0Ylsmuljmdsk5UySQSjA"
+      },
+      "artists": [
+        {
+          "name": "Anne Elise",
+          "url": "https://open.spotify.com/artist/2UPEn7IF9Fo87q1oyS3oKP"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "In-Between",
+      "url": "https://open.spotify.com/track/46PTcQtkLdI6SLK55RNTkY"
+    },
+    {
+      "added_at": "2026-10-21 17:00:09",
+      "album": {
+        "name": "you say you know about jesus",
+        "url": "https://open.spotify.com/album/2hj6F9O3BiuZCh6ZRzDZAr"
+      },
+      "artists": [
+        {
+          "name": "Rylie Davis",
+          "url": "https://open.spotify.com/artist/5tXJYT8F29KYHPlSY9KERi"
+        }
+      ],
+      "duration_ms": 208978,
+      "name": "you say you know about jesus",
+      "url": "https://open.spotify.com/track/3IkKKaQEl8YpPwKuEN7MJ6"
+    },
+    {
+      "added_at": "2026-10-21 17:00:09",
+      "album": {
+        "name": "YAHWEH (YA TU SABES)",
+        "url": "https://open.spotify.com/album/3A3jWpZNMVUsLz8YPmLNbC"
+      },
+      "artists": [
+        {
+          "name": "Cash Cortes",
+          "url": "https://open.spotify.com/artist/4PRsDz38Pho7HP2e9V4vXz"
+        }
+      ],
+      "duration_ms": 178347,
+      "name": "YAHWEH (YA TU SABES)",
+      "url": "https://open.spotify.com/track/4eZ9GNAuWI14tI2Al1Ebul"
+    },
+    {
+      "added_at": "2026-10-21 17:00:09",
+      "album": {
+        "name": "Free The Slaves III",
+        "url": "https://open.spotify.com/album/413okUY0vQucjpruyM9EpJ"
+      },
+      "artists": [
+        {
+          "name": "Jaz Donell",
+          "url": "https://open.spotify.com/artist/2AOPxALbQxgAhG49uFEmgb"
+        }
+      ],
+      "duration_ms": 206451,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/1XUntqbeTEwWgaG8NxlyQD"
+    },
     {
       "added_at": "2026-10-05 19:21:28",
       "album": {
@@ -209,10 +357,10 @@
       "url": "https://open.spotify.com/track/1SkIYhU12hvP2uzCZoyjAf"
     },
     {
-      "added_at": "2026-10-15 07:14:15",
+      "added_at": "2026-10-21 17:00:09",
       "album": {
-        "name": "FREE",
-        "url": "https://open.spotify.com/album/12Bz8M2cn1cdmedkZCi1nw"
+        "name": "WHO AM I?: DISC 2",
+        "url": "https://open.spotify.com/album/7kp1N1Do6rQOICDFvFCg3G"
       },
       "artists": [
         {
@@ -220,9 +368,9 @@
           "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
         }
       ],
-      "duration_ms": 161142,
+      "duration_ms": 158142,
       "name": "FREE",
-      "url": "https://open.spotify.com/track/6m2PoI1uab7HSlRLdpTiE9"
+      "url": "https://open.spotify.com/track/5GWXshlOl3XsngVUGVNbIX"
     },
     {
       "added_at": "2026-10-15 07:14:15",
@@ -355,26 +503,6 @@
     {
       "added_at": "2026-10-05 19:21:28",
       "album": {
-        "name": "Melodies Over Me",
-        "url": "https://open.spotify.com/album/69ympSx1dt3xxVEnrguHJ5"
-      },
-      "artists": [
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        },
-        {
-          "name": "Dari Odman",
-          "url": "https://open.spotify.com/artist/5K8ftA3zcqxdj5OiGE2FDQ"
-        }
-      ],
-      "duration_ms": 241977,
-      "name": "Melodies Over Me",
-      "url": "https://open.spotify.com/track/7DtWTMIyCmACFzsxtY5HhL"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
         "name": "Coming Back (Recorded Live at Susan Street)",
         "url": "https://open.spotify.com/album/0BPunEmWEfVXmDlFmrHwY4"
       },
@@ -439,22 +567,6 @@
       "duration_ms": 164883,
       "name": "wanna be at peace tonight",
       "url": "https://open.spotify.com/track/4mo7sjk3IDB6h7f87TZ42c"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "enough",
-        "url": "https://open.spotify.com/album/2nptBY3GiYkOvwbv3vbQRL"
-      },
-      "artists": [
-        {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
-        }
-      ],
-      "duration_ms": 213913,
-      "name": "enough",
-      "url": "https://open.spotify.com/track/1ajvWQ22Iu420eQkFix6ge"
     },
     {
       "added_at": "2026-10-05 19:21:28",
@@ -1187,122 +1299,6 @@
       "duration_ms": 125280,
       "name": "Amen",
       "url": "https://open.spotify.com/track/5NisISY5N8H32buAIZKUeD"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "All Night!",
-        "url": "https://open.spotify.com/album/36Z3i7sXy6540WFQQNiHIo"
-      },
-      "artists": [
-        {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        },
-        {
-          "name": "Lady Audri",
-          "url": "https://open.spotify.com/artist/75HzJOTVySISxmtIxZnqke"
-        }
-      ],
-      "duration_ms": 155196,
-      "name": "All Night!",
-      "url": "https://open.spotify.com/track/1ZxPgRT70IBQr3lw807Uk2"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/1S9MRjerTfmBCwwqQiBaRx"
-      },
-      "artists": [
-        {
-          "name": "Ashley Hess",
-          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
-        }
-      ],
-      "duration_ms": 194686,
-      "name": "BREATHE",
-      "url": "https://open.spotify.com/track/4yohajjrNUPdK9WB5ugoiK"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "Sin Reflectores",
-        "url": "https://open.spotify.com/album/7KNND33R7oWRhCr9fRHDpT"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Deliser",
-          "url": "https://open.spotify.com/artist/43e6Co88ZgWpwzeMEaFI97"
-        }
-      ],
-      "duration_ms": 285915,
-      "name": "Sin Reflectores",
-      "url": "https://open.spotify.com/track/2MEep18MblsiDHN2Gjad4c"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "If you tell God, I won't tell mom",
-        "url": "https://open.spotify.com/album/4JA3tcqwDuakj14BZh6b66"
-      },
-      "artists": [
-        {
-          "name": "Harrison Boe",
-          "url": "https://open.spotify.com/artist/4dzmMuL91FOToLfF2CgG1E"
-        }
-      ],
-      "duration_ms": 195833,
-      "name": "If you tell God, I won't tell mom",
-      "url": "https://open.spotify.com/track/2aPJOFUDlDCHIa8fjWFebC"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "Estar As\u00ed",
-        "url": "https://open.spotify.com/album/7rCrv2v5sfpiDtRUMM6trY"
-      },
-      "artists": [
-        {
-          "name": "Chloe Edgecombe",
-          "url": "https://open.spotify.com/artist/0H8IebIWwHBF8E5wUXZetr"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "Estar As\u00ed",
-      "url": "https://open.spotify.com/track/5TxbXPfh7dioI30mMUQBJK"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "I Talked to God",
-        "url": "https://open.spotify.com/album/2c2h6mIcCz5q8dCd8oUD6F"
-      },
-      "artists": [
-        {
-          "name": "Ava Dallas",
-          "url": "https://open.spotify.com/artist/6xFIVfJLRbHvyEW2AyezJg"
-        }
-      ],
-      "duration_ms": 243195,
-      "name": "I Talked to God",
-      "url": "https://open.spotify.com/track/6AYJDBR5dsYussX3rkyYNW"
-    },
-    {
-      "added_at": "2026-10-05 19:21:28",
-      "album": {
-        "name": "When Did I Move The Goalposts?",
-        "url": "https://open.spotify.com/album/6Extj31OeHopAmUEcUVFw6"
-      },
-      "artists": [
-        {
-          "name": "MUCH MORE",
-          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "And The Next Day",
-      "url": "https://open.spotify.com/track/4KHf4XGHNYjQq1MsTdejJC"
     }
   ],
   "unique_name": "Fresh Finds Faith",

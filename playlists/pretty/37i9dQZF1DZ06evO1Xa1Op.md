@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,535 likes - 37 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,534 likes - 37 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 36 | [Soko](https://open.spotify.com/track/2QPRGNETO1GeEcth5pfWyH) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Radio Mali](https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r) | 5:08 |
 | 37 | [Goydiotodam](https://open.spotify.com/track/1vOXlVPiI7F8hBwy9CD5qc) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The River](https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O) | 6:24 |
 
-Snapshot ID: `atQMAAAAAABuM2Eo7Jc7WUqG0O7/p2eE`
+Snapshot ID: `atVdgAAAAADk7l2Aa29WqAVZzNqBrHIo`

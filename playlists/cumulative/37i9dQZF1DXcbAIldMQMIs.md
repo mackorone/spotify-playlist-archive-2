@@ -2,7 +2,7 @@
 
 ### [crash out](https://open.spotify.com/playlist/37i9dQZF1DXcbAIldMQMIs)
 
-> we choose the bear
+> crash out.
 
 395 songs - 21 hr 51 min
 
@@ -15,7 +15,7 @@
 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 | 2021-04-30 | 2022-10-29 |
 | [7PM](https://open.spotify.com/track/76tztTt7xAC6E0RZggd9xg) | [Lilacs.](https://open.spotify.com/artist/2MgMN5BR3mfAMR5y7S2UIr), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [7PM](https://open.spotify.com/album/7skYaHXGxK6JiRwlVgJ5ri) | 3:22 | 2021-04-30 | 2022-07-29 |
 | [80's makeout session](https://open.spotify.com/track/6RObO033GGC7mReVoRQJPU) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [80's makeout session](https://open.spotify.com/album/6MHmgFBPMdhNdj6HamqlYe) | 1:42 | 2021-08-13 | 2022-12-14 |
-| [A car wash and a new pair of pants](https://open.spotify.com/track/2YgS9Lstqqrr8mo1KH2amW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 3:55 | 2026-09-25 |  |
+| [A car wash and a new pair of pants](https://open.spotify.com/track/2YgS9Lstqqrr8mo1KH2amW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 3:55 | 2026-09-25 | 2026-10-22 |
 | [A Cosmic Yes](https://open.spotify.com/track/4yoi9XLOG48REmXtImAU5y) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [A Cosmic Yes](https://open.spotify.com/album/2oue0Dyi1nsDf3QAijrwtA) | 4:18 | 2022-03-04 | 2022-07-01 |
 | [A Sad Song About a Girl I No Longer Know](https://open.spotify.com/track/78TzliRJJhCgsZ0ARUm8vI) | [Bedside Kites](https://open.spotify.com/artist/5zKinanOH8komuiAx6fmvL) | [Bedside Kites](https://open.spotify.com/album/49LaVq4xveyPNmLU165QRi) | 5:28 | 2023-09-29 | 2025-03-29 |
 | [A Shitty Gay Song About You](https://open.spotify.com/track/15ZQD1iYC6kZ0Z07D2aTcT) | [Smoothboi Ezra](https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj) | [A Shitty Gay Song About You](https://open.spotify.com/album/0j4m5d4NaTU2y94sVAWz25) | 1:55 | 2021-08-13 | 2022-04-16 |
@@ -28,7 +28,7 @@
 | [AHH!!](https://open.spotify.com/track/5usoDf4LqO4wPmmlEVXNWv) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [AHH!!](https://open.spotify.com/album/0qbKZllp43YAIDfDuQFapc) | 1:36 | 2021-07-09 | 2022-04-18 |
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2025-06-23 |  |
 | [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-04-30 | 2022-07-25 |
-| [All the Things She Said](https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All the Things She Said](https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ) | 2:50 | 2026-02-12 | 2026-10-21 |
+| [All the Things She Said](https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All the Things She Said](https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ) | 2:50 | 2026-02-12 |  |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2025-03-28 |  |
 | [All We Do For Love](https://open.spotify.com/track/5wzAaUY0F7CExZmEInGwAN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Art](https://open.spotify.com/album/5VKMuDNl95bLr3xsfU2Owm) | 3:01 | 2022-05-20 | 2022-05-24 |
 | [Already Gone](https://open.spotify.com/track/0gdWSthwNMJ4TPVya8b0bh) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Already Gone](https://open.spotify.com/album/38y54I2KaIqtjq2OCEXJGL) | 2:58 | 2021-06-11 | 2022-06-24 |

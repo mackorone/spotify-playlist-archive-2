@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sydney Ross Mitchell
 
-2,556 songs - 5 day 16 hr 23 min
+2,557 songs - 5 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Black Cat](https://open.spotify.com/track/2wQoKMGGqhndLMjEgdnQi1) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Black Cat](https://open.spotify.com/album/2u0K1niKQ8thzgF22Y20tO) | 2:56 | 2020-10-13\* | 2021-03-27 |
 | [Black Coffee](https://open.spotify.com/track/5XFnuOu9ReQ1BjyV7qUxqU) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Black Coffee \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/album/0KONPUiVqapPUbrdYSsGvV) | 2:24 | 2022-01-14 | 2022-07-24 |
 | [Black Coffee \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/track/1kOzY6GwBam1lTWxD7OloO) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo), [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Black Coffee \(feat\. OCTAVIO the Dweeb\)](https://open.spotify.com/album/0KONPUiVqapPUbrdYSsGvV) | 2:24 | 2021-08-04 | 2022-04-15 |
-| [Black Hole Baby Bottom Feeder](https://open.spotify.com/track/50QL0ndjMQrpeTnAm1zYo0) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Black Hole Baby Bottom Feeder](https://open.spotify.com/album/2e496nVHcmNZEZvR3BDj66) | 3:44 | 2026-09-18 |  |
+| [Black Hole Baby Bottom Feeder](https://open.spotify.com/track/50QL0ndjMQrpeTnAm1zYo0) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Black Hole Baby Bottom Feeder](https://open.spotify.com/album/2e496nVHcmNZEZvR3BDj66) | 3:44 | 2026-09-18 | 2026-10-22 |
 | [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 | 2023-06-09 | 2023-10-18 |
 | [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 | 2024-08-02 | 2024-10-17 |
 | [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 | 2025-02-07 | 2025-02-25 |
@@ -1806,6 +1806,7 @@
 | [Promise](https://open.spotify.com/track/7fVzvxyIZtUKB85yjGHdXK) | [People I’ve Met](https://open.spotify.com/artist/0IDpTcrUiflR4OMeFA2Qwi) | [Promise](https://open.spotify.com/album/2dabxlmiE2lPhYvNEB7yGl) | 3:34 | 2025-12-12 | 2026-06-16 |
 | [Promise \(When You Go\)](https://open.spotify.com/track/4FNptC8qbW6cAJBsymtHMI) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Promise \(When You Go\)](https://open.spotify.com/album/5QRKjIJlOEKNCxXk5KlCtR) | 3:06 | 2026-05-08 | 2026-08-25 |
 | [promised](https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder](https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ) | 3:58 | 2023-02-24 | 2024-01-25 |
+| [Pull Me Under](https://open.spotify.com/track/6r0xyOtKasCe1CpaWKs78O) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Pull Me Under](https://open.spotify.com/album/3V5lxN1LFCFDmCmoX37m1w) | 4:52 | 2026-10-16 |  |
 | [Punching Bag](https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl) | 2:33 | 2021-06-04 | 2022-10-18 |
 | [Puppet](https://open.spotify.com/track/400F8qcb3vxxk7iqRhV1tr) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Puppet](https://open.spotify.com/album/68rJY7Zio90SZPpWJyLGfx) | 3:17 | 2023-11-17 | 2024-01-28 |
 | [Puppy](https://open.spotify.com/track/3R5YAmx1HzkobNpMDNbFT4) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Puppy](https://open.spotify.com/album/7yVEnMhX4OPPftLAsU6zsn) | 2:26 | 2020-10-13\* | 2020-10-16 |

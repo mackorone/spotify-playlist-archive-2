@@ -4579,6 +4579,24 @@
     },
     {
       "album": {
+        "name": "Strange Muse",
+        "url": "https://open.spotify.com/album/68dI3yXiCXbAHRbW2T09Uy"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Birthday Wish",
+      "url": "https://open.spotify.com/track/6cnhP7JmTV1CHJJEonNC4b"
+    },
+    {
+      "album": {
         "name": "DARK BLOOD",
         "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
       },
@@ -5180,7 +5198,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Born Savage",
       "url": "https://open.spotify.com/track/21AdIbIIP9cFgwnwEnEl07"
@@ -6332,7 +6350,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 180000,
       "name": "Catch Catch",
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
@@ -9218,7 +9236,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -21967,6 +21985,24 @@
     },
     {
       "album": {
+        "name": "Looks Can Kill",
+        "url": "https://open.spotify.com/album/6DStYRq1Xvia2jXG2XQv6g"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195559,
+      "name": "Looks Can Kill",
+      "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -30398,7 +30434,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 160000,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/60UaZ1MiaNKfidvhQt60TX"

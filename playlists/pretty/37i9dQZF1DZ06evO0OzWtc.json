@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAD/7lGDkGvqiF3afoeXWhIZ",
+  "snapshot_id": "atVdgAAAAABxSocpxxP1AzSOxhtAQV3X",
   "tracks": [
     {
       "added_at": null,
@@ -159,38 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RENATA",
-        "url": "https://open.spotify.com/album/4reKG6djpYUUDTDbcLX1jz"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "FREEKIDS",
-          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 234642,
-      "name": "RENATA",
-      "url": "https://open.spotify.com/track/78rFjdqCo8SOH9WHQDUCbT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "6AM",
         "url": "https://open.spotify.com/album/5T8BE0bIWYbJo8r5lNhoC1"
       },
@@ -247,6 +215,38 @@
       "duration_ms": 172500,
       "name": "Pa'l Malec\u00f3n",
       "url": "https://open.spotify.com/track/37Qp2YjAx8sAtUVBEWbDR4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RENATA",
+        "url": "https://open.spotify.com/album/4reKG6djpYUUDTDbcLX1jz"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 234642,
+      "name": "RENATA",
+      "url": "https://open.spotify.com/track/78rFjdqCo8SOH9WHQDUCbT"
     },
     {
       "added_at": null,
@@ -775,30 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Covers y Recuerdos",
-        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "La Chona",
-      "url": "https://open.spotify.com/track/0ZaMvWl7iYd2kWzpqQeuq6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pari Pari",
         "url": "https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 155818,
       "name": "Cartier en Mano",
       "url": "https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Covers y Recuerdos",
+        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/0ZaMvWl7iYd2kWzpqQeuq6"
     },
     {
       "added_at": null,
@@ -959,6 +959,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dicen Que Soy Belic\u00f3n",
+        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 197294,
+      "name": "Dicen Que Soy Belic\u00f3n",
+      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
         "url": "https://open.spotify.com/album/71kYjtmfd7gZcTMM73LyPV"
       },
@@ -991,30 +1015,6 @@
       "duration_ms": 151697,
       "name": "De Perro",
       "url": "https://open.spotify.com/track/00xrZYL6PeaEDOd5086vDh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dicen Que Soy Belic\u00f3n",
-        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 197294,
-      "name": "Dicen Que Soy Belic\u00f3n",
-      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
     },
     {
       "added_at": null,

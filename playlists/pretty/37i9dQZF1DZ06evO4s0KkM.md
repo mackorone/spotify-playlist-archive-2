@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,614 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,627 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [The Hardest Mile](https://open.spotify.com/track/3tJLadifOqL3teq4NHZ7JJ) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Going Out In Style](https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq) | 3:26 |
 | 50 | [Out of Our Heads](https://open.spotify.com/track/6pYfWV7I1M5vNU3DsVSXhS) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Signed and Sealed In Blood](https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc) | 3:11 |
 
-Snapshot ID: `atQMAAAAAACoRgdeYokz5TIMUja+Bp9f`
+Snapshot ID: `atVdgAAAAAAC2beuU9W8BZnwHaH5PVn3`

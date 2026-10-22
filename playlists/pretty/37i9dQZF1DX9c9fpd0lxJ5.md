@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine \(✿◠‿◠\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,864 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,827 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 32 | [Así Es el Calor](https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Así Es el Calor](https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo) | 3:00 |
 | 33 | [Días Negros](https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ) | [Chango Menas](https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9) | [Días Negros](https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt) | 3:02 |
 | 34 | [No Sé \(feat\. Girl Ultra\)](https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:38 |
-| 35 | [Un día más](https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Un día más](https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT) | 3:22 |
-| 36 | [Fuma](https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fuma](https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM) | 3:19 |
+| 35 | [Fuma](https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fuma](https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM) | 3:19 |
+| 36 | [Un día más](https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Un día más](https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT) | 3:22 |
 | 37 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 |
 | 38 | [Ya no nos hablamos](https://open.spotify.com/track/3KjIRxUv81zmSqiphtRxGp) | [Veintiuno](https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Ya no nos hablamos](https://open.spotify.com/album/2POquPZMJWFB1SocRQGW9A) | 3:35 |
 | 39 | [Hasta Málaga](https://open.spotify.com/track/6F9FBd4ZTKlhCuvxzJWcZf) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Hasta Málaga](https://open.spotify.com/album/40R3ygyEgApOC8fnmH7Ayx) | 2:28 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 61 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 |
 | 62 | [Nostalgia](https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nostalgia](https://open.spotify.com/album/056KBSR2KBMankHXTbizsL) | 2:55 |
 | 63 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 |
-| 64 | [Eres](https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Eres](https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs) | 3:24 |
-| 65 | [Intrépida](https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [El Sol De Las 3](https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA) | 2:48 |
+| 64 | [Intrépida](https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [El Sol De Las 3](https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA) | 2:48 |
+| 65 | [Eres](https://open.spotify.com/track/2qKb3jyXEb4yqeZHlJaS3M) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Eres](https://open.spotify.com/album/5X4LwzmV4YI6ZgUSTrLzNs) | 3:24 |
 | 66 | [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 |
 | 67 | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [TBT 4 EVER 2.0 \(feat\. Jesse Baez\)](https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY) | 2:47 |
 | 68 | [Sexy](https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Quemar La Casa](https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE) | 4:03 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 89 | [OTRA COSA MARIPOSA](https://open.spotify.com/track/4bEt3v7NRisM84YVfzgdyy) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [OTRA COSA MARIPOSA](https://open.spotify.com/album/5WbuT5XstCjeeZTz4eUWki) | 2:43 |
 | 90 | [Si Nos Vamos](https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:15 |
 | 91 | [Ganas](https://open.spotify.com/track/2COIPWPW4VmT9FKiNx1xry) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Ganas](https://open.spotify.com/album/12ZTthAi7mA6pZqvafJip2) | 2:46 |
-| 92 | [Todo Pasa](https://open.spotify.com/track/4rOspeyPrz4ayP4WsnXmpu) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Todo Pasa](https://open.spotify.com/album/7hahBXkyUgf3A3JwBYU1CR) | 2:38 |
-| 93 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 |
+| 92 | [me perdono](https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [me perdono](https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V) | 3:32 |
+| 93 | [Todo Pasa](https://open.spotify.com/track/4rOspeyPrz4ayP4WsnXmpu) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Todo Pasa](https://open.spotify.com/album/7hahBXkyUgf3A3JwBYU1CR) | 2:38 |
 | 94 | [donjulio](https://open.spotify.com/track/31w5L4yW2an3IlelD1htJ1) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl) | [donjulio](https://open.spotify.com/album/0ErQsoGFidaUIXmX5eOkJ6) | 2:40 |
 | 95 | [Destiempo](https://open.spotify.com/track/4La8SpJL3ecn6EZc6tSyO9) | [Casa de Kello](https://open.spotify.com/artist/3ZzhFV13vSnWtx0TPkbpOl), [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Destiempo](https://open.spotify.com/album/1v2Ieeo8LvAq8adnEktx8h) | 3:32 |
 | 96 | [Todo Es Perfecto](https://open.spotify.com/track/00CaDxVVxJaUeAOebDI65k) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Todo Es Perfecto](https://open.spotify.com/album/542V4yB6vkGz9lJhBHnIGp) | 3:31 |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Ella Hoff
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,807 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,812 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Leap](https://open.spotify.com/track/1wQO7RFvhGSWPkDvU5981J) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Leap](https://open.spotify.com/album/5L0UdEERU935VXMzq8pGyH) | 3:41 |
-| 2 | [Off The Wall](https://open.spotify.com/track/1vt2UsHgSybyBp1v1b3xLZ) | [The Court](https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ) | [Off The Wall](https://open.spotify.com/album/0flIPYVkNiDgGEChCnaDZa) | 2:38 |
-| 3 | [V.I.P](https://open.spotify.com/track/1x69BAI5ds3rl3SBLql1dB) | [Yuti](https://open.spotify.com/artist/2PQPBZUsdiz2pUewFnp8eY) | [V.I.P](https://open.spotify.com/album/4kDRGvlM29UDUmqxUqdWrT) | 2:55 |
-| 4 | [curbstone](https://open.spotify.com/track/2W0DPHfAgEXQQwdo4EQoKS) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [curbstone](https://open.spotify.com/album/6TtFyyYzlwhEuDZoIIQmvt) | 3:19 |
-| 5 | [Steady Baby](https://open.spotify.com/track/4DGKtg1YzmGwbG175DFTYY) | [Ella Hoff](https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6) | [Steady Baby](https://open.spotify.com/album/2eaBxA9k8csZdcbNyctkmy) | 3:01 |
+| 1 | [Steady Baby](https://open.spotify.com/track/4DGKtg1YzmGwbG175DFTYY) | [Ella Hoff](https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6) | [Steady Baby](https://open.spotify.com/album/2eaBxA9k8csZdcbNyctkmy) | 3:01 |
+| 2 | [Leap](https://open.spotify.com/track/1wQO7RFvhGSWPkDvU5981J) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Leap](https://open.spotify.com/album/5L0UdEERU935VXMzq8pGyH) | 3:41 |
+| 3 | [Off The Wall](https://open.spotify.com/track/1vt2UsHgSybyBp1v1b3xLZ) | [The Court](https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ) | [Off The Wall](https://open.spotify.com/album/0flIPYVkNiDgGEChCnaDZa) | 2:38 |
+| 4 | [V.I.P](https://open.spotify.com/track/1x69BAI5ds3rl3SBLql1dB) | [Yuti](https://open.spotify.com/artist/2PQPBZUsdiz2pUewFnp8eY) | [V.I.P](https://open.spotify.com/album/4kDRGvlM29UDUmqxUqdWrT) | 2:55 |
+| 5 | [curbstone](https://open.spotify.com/track/2W0DPHfAgEXQQwdo4EQoKS) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [curbstone](https://open.spotify.com/album/6TtFyyYzlwhEuDZoIIQmvt) | 3:19 |
 | 6 | [No One Calls](https://open.spotify.com/track/5gliUXO8gBwsESAmCJVCXn) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [You Said Jump..\. And I Flew](https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs) | 2:35 |
 | 7 | [In Our Prime](https://open.spotify.com/track/5fAH8m3khx6QmLJtTAYSTT) | [NATHALIA](https://open.spotify.com/artist/5NTS78KR2R1X37eRqtuEDE) | [In Our Prime / Waste of Time](https://open.spotify.com/album/52L5jLQCdaAL0UFWGvlAaC) | 2:42 |
 | 8 | [hringja](https://open.spotify.com/track/1qYdEL0ske7wieombhZPbA) | [lára](https://open.spotify.com/artist/6ErQHeCo3fok5FFg3rfyxP) | [í bleiku ljósi](https://open.spotify.com/album/1qbeu0prgn2HSCEq8UYjBF) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 49 | [Lady Love](https://open.spotify.com/track/10nw6y9It4go7FGkOQpyAo) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Lady Love](https://open.spotify.com/album/7gSEtRaXhGTaxiKlFkeUqa) | 3:28 |
 | 50 | [euro trash girl 2](https://open.spotify.com/track/5dPir4tJQil6mBosEJEzdf) | [Zoumer](https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB), [Chicks On Speed](https://open.spotify.com/artist/4EySud7Ww0GNvkwhRYZHLV) | [euro trash girl 2](https://open.spotify.com/album/6eYHnfSwei7Lk4ycR72GZL) | 2:36 |
 
-Snapshot ID: `AAAAAFMMpwVqG037/QuqvUY5IJNmSN/u`
+Snapshot ID: `AAAAAIhTa3lZ01nuo++A+55pJZgU6ITA`

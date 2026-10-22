@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,177 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,201 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 49 | [April's Gone \(with Chris Stapleton\)](https://open.spotify.com/track/3dQGIaKFqXMaWunmfxPNjN) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [April's Gone \(with Chris Stapleton\)](https://open.spotify.com/album/1bqunVAYMifyWG4VXYRix5) | 4:32 |
 | 50 | [Arkansas](https://open.spotify.com/track/0NdEdsXS9jbX1hnufawZ0z) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 2:58 |
 
-Snapshot ID: `atQMAAAAAABvClywODCCuFt+rjZqMHRd`
+Snapshot ID: `atVdgAAAAABpp68rYCtjbyA+/04vksWo`

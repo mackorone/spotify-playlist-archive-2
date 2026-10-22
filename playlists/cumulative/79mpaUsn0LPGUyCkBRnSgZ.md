@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,255 songs - 3 day 9 hr 16 min
+1,256 songs - 3 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Gone Hollywood](https://open.spotify.com/track/254AmmsIPAWg1nxwrnEpHj) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America](https://open.spotify.com/album/7i75GRwJbhDDiLi2uQHTtZ) | 5:17 | 2024-01-08 |  |
 | [Gone Under Sea](https://open.spotify.com/track/0s2fkGnkRf7uWaRiK4TrnW) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 3:12 | 2025-11-21 |  |
 | [Good Times Roll](https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 | 2024-01-08 | 2024-09-10 |
+| [Goodbye to All That](https://open.spotify.com/track/7rvykT4YaOkRwCg0ciXvtJ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [A Mile South of Heaven](https://open.spotify.com/album/5gtnnY39j0QRzGXqAVJbd7) | 3:19 | 2026-10-21 |  |
 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [MC Moose](https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 | 2024-01-05 |  |
 | [Gospel For A New Century](https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 3:18 | 2023-11-22 | 2024-04-10 |
 | [Gostar do Mundo](https://open.spotify.com/track/4JFbDXnpgNLxX83jJytV15) | [Sessa](https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ) | [Estrela Acesa](https://open.spotify.com/album/6INpt0l0lIDYZKAKO8vIC5) | 2:21 | 2024-07-25 |  |

@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 378078,
+  "num_followers": 378088,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,34 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
+        "name": "I Want Your Love",
+        "url": "https://open.spotify.com/album/21HJ7l1A9ucgEzfupxpFA6"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Kaesu",
+          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
+        },
+        {
+          "name": "TABLE",
+          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
+        },
+        {
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
+        }
+      ],
+      "duration_ms": 153050,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/14i1XgUcPXmB74ezzk5172"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/5qmEF78Uq9CjwIgvKQe7WG"
       },
@@ -435,34 +463,6 @@
       "duration_ms": 219035,
       "name": "Spit It Out (feat. Rochelle Jordan)",
       "url": "https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
-        "name": "I Want Your Love",
-        "url": "https://open.spotify.com/album/21HJ7l1A9ucgEzfupxpFA6"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "Kaesu",
-          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
-        },
-        {
-          "name": "TABLE",
-          "url": "https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy"
-        },
-        {
-          "name": "Teuteu",
-          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
-        }
-      ],
-      "duration_ms": 153050,
-      "name": "I Want Your Love",
-      "url": "https://open.spotify.com/track/14i1XgUcPXmB74ezzk5172"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "Orpheus",
-        "url": "https://open.spotify.com/album/5Tex6HzPTc7LZw4ZkdoWqr"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 161068,
-      "name": "Orpheus",
-      "url": "https://open.spotify.com/track/6IN34fpoCdMi8fovTdjQfJ"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
         "name": "Piece Of Me",
         "url": "https://open.spotify.com/album/4wEdCOFLRFC8fmgb8t0IuO"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 189651,
       "name": "Piece Of Me",
       "url": "https://open.spotify.com/track/65EwgM3cxN9aPUDKopCFif"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
+        "name": "Orpheus",
+        "url": "https://open.spotify.com/album/5Tex6HzPTc7LZw4ZkdoWqr"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "Orpheus",
+      "url": "https://open.spotify.com/track/6IN34fpoCdMi8fovTdjQfJ"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
         "name": "North",
         "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 222000,
       "name": "Middle of Things, Beautiful Wife (feat. Xavier Om\u00e4r))",
       "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
     },
     {
       "added_at": "2026-09-03 23:00:36",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-09-03 23:00:36",
       "album": {
-        "name": "Ching",
-        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
-      },
-      "artists": [
-        {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
-        }
-      ],
-      "duration_ms": 118604,
-      "name": "Ching",
-      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
-    },
-    {
-      "added_at": "2026-09-03 23:00:36",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/0pAeOztdTpCdExPMEbziSn"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 195716,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC"
+    },
+    {
+      "added_at": "2026-09-03 23:00:36",
+      "album": {
+        "name": "Ching",
+        "url": "https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa"
+      },
+      "artists": [
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        }
+      ],
+      "duration_ms": 118604,
+      "name": "Ching",
+      "url": "https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK"
     }
   ],
   "unique_name": "Soultronic",

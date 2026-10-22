@@ -1,6 +1,6 @@
 {
   "description": "Upbeat pop bangers to keep you going",
-  "num_followers": 639196,
+  "num_followers": 639237,
   "original_name": "Fast Pop Run",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-06-18 23:00:54",
       "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 224034,
+      "name": "Womanizer",
+      "url": "https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2"
+    },
+    {
+      "added_at": "2026-06-18 23:00:54",
+      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
-    },
-    {
-      "added_at": "2026-06-18 23:00:54",
-      "album": {
-        "name": "Circus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 224034,
-      "name": "Womanizer",
-      "url": "https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2"
     },
     {
       "added_at": "2026-06-18 23:00:54",

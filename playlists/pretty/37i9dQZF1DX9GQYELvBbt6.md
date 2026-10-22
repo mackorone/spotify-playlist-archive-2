@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,552 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,557 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 | 45 | [ドラマツルギー](https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [文化](https://open.spotify.com/album/1CwKQljJ7biZM8t01FiQ1d) | 3:58 |
 | 46 | [なないろ](https://open.spotify.com/track/1k1zTwX433BlwP6FLOPBpD) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [なないろ](https://open.spotify.com/album/2sUrTKjCG9KpLfORi8v87S) | 4:19 |
 | 47 | [ロンリーラプソディ](https://open.spotify.com/track/2T2PRhaEQLPoo78E8zyVgw) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 4:46 |
-| 48 | [Answer](https://open.spotify.com/track/5hVAQTNarrb3lmWqg9Ens4) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Answer](https://open.spotify.com/album/6jWEkDAAvJ18hqR0QAR60B) | 4:06 |
-| 49 | [LONELY NIGHTS](https://open.spotify.com/track/40It4gOs70ssV0IFMRuul1) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [FANTASY CLUB](https://open.spotify.com/album/4J0ksIXuqCi3gdFh9qqOII) | 3:56 |
+| 48 | [LONELY NIGHTS](https://open.spotify.com/track/40It4gOs70ssV0IFMRuul1) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [FANTASY CLUB](https://open.spotify.com/album/4J0ksIXuqCi3gdFh9qqOII) | 3:56 |
+| 49 | [Answer](https://open.spotify.com/track/5hVAQTNarrb3lmWqg9Ens4) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Answer](https://open.spotify.com/album/6jWEkDAAvJ18hqR0QAR60B) | 4:06 |
 | 50 | [17さいのうた。](https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [17さいのうた。](https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO) | 5:09 |
 
 Snapshot ID: `AAAAAIjhYhmI5aZn1gOGmFXN8M7WEDoI`

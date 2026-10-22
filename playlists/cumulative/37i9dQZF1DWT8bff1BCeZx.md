@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,153 songs - 3 day 4 hr 40 min
+1,154 songs - 3 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Everyday](https://open.spotify.com/track/2nBw0ZufkPAM2x8vVj7cbE) | [Eric Hazael](https://open.spotify.com/artist/1cNoDafdMBXOouFUFkY8wZ) | [Everyday](https://open.spotify.com/album/1vCrKARVayoNh4B9DH9Izu) | 2:14 | 2026-02-06 | 2026-07-17 |
 | [Everyday](https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Everyday](https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3) | 3:20 | 2025-06-27 | 2025-09-05 |
 | [Everywhere I Go](https://open.spotify.com/track/1ly69ZUc0uXC6DAtadqePO) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Everywhere I Go](https://open.spotify.com/album/4dpoTKvQm7MCbTvfYkN26z) | 2:29 | 2025-10-03 | 2025-10-17 |
-| [Everywhere I Go \- Live](https://open.spotify.com/track/13dUU8tvT6juLVhhcPSt0C) | [Brenton Brown](https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST), [Kings College](https://open.spotify.com/artist/7u9zdwv2pvSwUUDWJ72zir) | [Everywhere I Go \(Live\)](https://open.spotify.com/album/2S7n94sYKgK90qn7WTKj46) | 3:56 | 2026-09-11 |  |
+| [Everywhere I Go \- Live](https://open.spotify.com/track/13dUU8tvT6juLVhhcPSt0C) | [Brenton Brown](https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST), [Kings College](https://open.spotify.com/artist/7u9zdwv2pvSwUUDWJ72zir) | [Everywhere I Go \(Live\)](https://open.spotify.com/album/2S7n94sYKgK90qn7WTKj46) | 3:56 | 2026-09-11 | 2026-10-22 |
 | [Evidence](https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Evidence](https://open.spotify.com/album/1RNuAj6VRCUuqa5QEREdZA) | 3:28 | 2024-08-16 | 2025-11-14 |
 | [Ewe Afro Medley](https://open.spotify.com/track/6LzBRn7PJD7oN0RKbTGePY) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Ewe Afro Medley](https://open.spotify.com/album/7eOTLhqdh9g0If7SJP3Gbd) | 12:22 | 2026-01-09 | 2026-02-06 |
 | [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 | 2023-06-16 | 2024-04-19 |
@@ -1043,6 +1043,7 @@
 | [Unlimited](https://open.spotify.com/track/3aQpI7roTQjQ4vPVxTZex2) | [Winter Amadin](https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Egar Boi](https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV) | [Unlimited](https://open.spotify.com/album/2W01P4GVXwonD30GbVK5JB) | 4:16 | 2025-10-03 | 2025-10-17 |
 | [uptown](https://open.spotify.com/track/3VGUd7kzUu7e7z93Ij4Vcs) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [uptown](https://open.spotify.com/album/3tVKCVSO21t2ZVdnid4EBe) | 2:03 | 2026-02-13 |  |
 | [Very Very Good God](https://open.spotify.com/track/02jGwsFU2OjT4PgGN6nAHf) | [GEMS](https://open.spotify.com/artist/5VwQwtATk6Op8e9NcdSHPF) | [Very Very Good God](https://open.spotify.com/album/0i7EG2XXGexq6fAL6Kd8wW) | 5:50 | 2025-08-29 | 2025-10-17 |
+| [Victory](https://open.spotify.com/track/5pcpmt28hIjhHYA40yhCQP) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [Victory](https://open.spotify.com/album/30Qjic9AW3hM0B3ZIGaKV5) | 2:54 | 2026-10-09 |  |
 | [Victory](https://open.spotify.com/track/4xcMv1iV07YxiEjRPUCHYz) | [Rudo Chakwera](https://open.spotify.com/artist/7sFPtEKL22dH7skEk2Zjt2), [Minister Michael Mahendere](https://open.spotify.com/artist/6v0zo3IWc6Tdfs1AievsNZ) | [Victory](https://open.spotify.com/album/5gxghaLdPLVS5jqgLnA4SH) | 4:11 | 2024-07-26 | 2025-02-28 |
 | [VICTORY PARADE](https://open.spotify.com/track/3MByijQAgmA5Hw9jrza9cf) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb) | [VICTORY PARADE](https://open.spotify.com/album/0moivP8CnSdu05d9pShi4y) | 2:51 | 2025-12-12 | 2026-02-20 |
 | [Vyote Vyangu](https://open.spotify.com/track/34wSbg3s4fFm7ItUuc5KCn) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Vyote Vyangu](https://open.spotify.com/album/5SQ1UjFzy7DzRJ5J9UiHpT) | 3:06 | 2025-12-05 | 2026-01-15 |

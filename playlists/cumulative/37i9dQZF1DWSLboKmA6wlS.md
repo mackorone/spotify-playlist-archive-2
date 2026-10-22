@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: THREETIME\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: deephordee\. Artwork: Isu Kim
 
-2,702 songs - 7 day 1 hr 31 min
+2,704 songs - 7 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [F.A.W](https://open.spotify.com/track/34ORUzYu57eLNpo5PZ9XT1) | [Chilly Chally](https://open.spotify.com/artist/2CGpWY07U2MrarjGsdyJgH) | [F.A.W](https://open.spotify.com/album/4ddIEOc8uPoRjMpsLRRk7u) | 4:31 | 2025-10-24 | 2025-12-05 |
 | [Fade](https://open.spotify.com/track/7JKVJR0HibAxspdNpETrCx) | [AXCE WINTER](https://open.spotify.com/artist/6MfqX4PRjxHwawy2ArWbqL) | [Fade](https://open.spotify.com/album/5taRjjeqQOLfDP1MTZcJa3) | 3:21 | 2025-03-20 | 2025-05-23 |
 | [Faded Sea](https://open.spotify.com/track/5a396MJKuZFba9U060Svpl) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM) | [A Blessing in Disguise](https://open.spotify.com/album/4MoBa53HXIiSSZqJcfhv7s) | 5:49 | 2023-01-27 | 2023-04-01 |
-| [Fading Starlight](https://open.spotify.com/track/0Yr4EFFlnJOl2kqCNQftvn) | [Jikkafone](https://open.spotify.com/artist/298jfKASUYsJU1RT5tdlAp) | [Fading Starlight](https://open.spotify.com/album/0i9bP3bO3JgOQT15VPLuj8) | 4:22 | 2026-06-24 |  |
+| [Fading Starlight](https://open.spotify.com/track/0Yr4EFFlnJOl2kqCNQftvn) | [Jikkafone](https://open.spotify.com/artist/298jfKASUYsJU1RT5tdlAp) | [Fading Starlight](https://open.spotify.com/album/0i9bP3bO3JgOQT15VPLuj8) | 4:22 | 2026-06-24 | 2026-10-22 |
 | [FAKEดีออก](https://open.spotify.com/track/4jUwGi2gIlWiqNabjzwRPI) | [QEETHA](https://open.spotify.com/artist/3l0GAlP5fa1GLyjq7JhexM) | [FAKEดีออก](https://open.spotify.com/album/287P1Dsb5SBKiNa86hcDYA) | 2:57 | 2023-02-02 | 2023-04-07 |
 | [Fall in Love](https://open.spotify.com/track/2eBIya9AvMDqCn1EfcD2Vv) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/0xNw3QifPY1o13VDyxTfEM) | 3:19 | 2023-06-30 | 2023-07-03 |
 | [Fall in Love](https://open.spotify.com/track/45dtFcaOs4lBf8gXAAoN8W) | [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD) | [Fall in Love](https://open.spotify.com/album/2GuhTPysxjc8C0wkMJKPCX) | 3:19 | 2023-06-30 | 2024-01-06 |
@@ -507,7 +507,7 @@
 | [Tell Me Moon](https://open.spotify.com/track/1vTnzA7PVfr4GG62cvTAy4) | [Okomo P](https://open.spotify.com/artist/71wrDZRYadma6qaodkVHev) | [Tell Me Moon](https://open.spotify.com/album/2kHHOGhg3nC4LawypsYdqC) | 4:24 | 2025-02-20 | 2025-02-28 |
 | [Textrovert](https://open.spotify.com/track/0P34kEEnYyldcHJNsZu9oT) | [JJPERR](https://open.spotify.com/artist/47FXfjKh07G2XnEqBLh0z1) | [Textrovert](https://open.spotify.com/album/0LmERz0Y3J2DhGUtoIP9sw) | 3:48 | 2023-11-17 | 2024-01-13 |
 | [Thank You Kateyki \(lalala\)](https://open.spotify.com/track/5uKashKF11mn718cnzUPo3) | [Aon Somrutai](https://open.spotify.com/artist/7B2N5R9hjnoyG4NSRWSAdP) | [Thank You Kateyki \(lalala\)](https://open.spotify.com/album/6miRs0jGFABZpoArJtMkZZ) | 3:09 | 2025-02-14 | 2025-02-28 |
-| [The Ace \(of spades\)](https://open.spotify.com/track/5aI5AHEAxVSRYSkKh1ihx9) | [The Young Wolf](https://open.spotify.com/artist/1D9YuAgk4GI9co3rvv5b1Y) | [The Dead Man's Hand](https://open.spotify.com/album/2W8UlHxDfat0iea73Z9lmo) | 4:21 | 2026-10-06 |  |
+| [The Ace \(of spades\)](https://open.spotify.com/track/5aI5AHEAxVSRYSkKh1ihx9) | [The Young Wolf](https://open.spotify.com/artist/1D9YuAgk4GI9co3rvv5b1Y) | [The Dead Man's Hand](https://open.spotify.com/album/2W8UlHxDfat0iea73Z9lmo) | 4:21 | 2026-10-06 | 2026-10-22 |
 | [The Last Star \(ดาวดวงสุดท้าย\)](https://open.spotify.com/track/2DYQ8faFjPufVeYl2F9uoQ) | [4\-FILL](https://open.spotify.com/artist/6zZpzFnnHT8hMLKdvGJFYe), [Archy](https://open.spotify.com/artist/19vBE89Dl5CQo01T9bdHsJ) | [The Last Star \(ดาวดวงสุดท้าย\)](https://open.spotify.com/album/6N0VgpNFUiYYKVoGMcY34v) | 3:29 | 2024-01-05 | 2024-01-13 |
 | [TikTok Girl](https://open.spotify.com/track/2w8Zrz96QEp1U2IDryJgPR) | [TONHON](https://open.spotify.com/artist/4oWLiDNUCS097Cef0sfLN1) | [TikTok Girl](https://open.spotify.com/album/2aBxQANf65d6llmxEUYNjy) | 2:58 | 2023-09-29 | 2023-10-07 |
 | [TIME MACHINE](https://open.spotify.com/track/3oMgDz84kGhpmoNZGLq7Dz) | [FLIRT](https://open.spotify.com/artist/5wOhBcUyRHCfqjPgNd2sGJ) | [TIME MACHINE](https://open.spotify.com/album/5r8CqHiE5zvNKOSG3ki88I) | 3:06 | 2024-05-31 | 2024-07-02 |
@@ -1559,6 +1559,7 @@
 | [ยามราตรี](https://open.spotify.com/track/4WvExjXzrmXTMxktp6F5kU) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [ยามราตรี](https://open.spotify.com/album/1C0BNBXAhTkmxxer5fRARN) | 3:31 | 2024-07-19 | 2024-08-24 |
 | [ยามวิกาล](https://open.spotify.com/track/45IU7fMOqqtQOBzRqYiq9e) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [ยามวิกาล](https://open.spotify.com/album/1Mj8Ys9nyHdT6MbO39RbNE) | 3:32 | 2025-11-07 | 2025-12-05 |
 | [ยามเมื่อลมพัดมาพาฉันย้อนกลับไป](https://open.spotify.com/track/76f0EYKaPbHHshFPmDcGSN) | [Almondeptt](https://open.spotify.com/artist/77p8feYnlVx5htNAWQxXi9) | [ยามเมื่อลมพัดมาพาฉันย้อนกลับไป](https://open.spotify.com/album/7pSxZAv4NE47r4mvfsXaEq) | 2:50 | 2025-03-06 | 2025-04-11 |
+| [ยาแก้แพ้](https://open.spotify.com/track/65w4fTzmjX48zjUc54EPzs) | [HAPPY ANIMALs](https://open.spotify.com/artist/1zySTrEneDNPWdc8tQi3IE) | [ยาแก้แพ้](https://open.spotify.com/album/0kKpZ3RBeBMa2jX5XuzEd0) | 2:48 | 2026-10-21 |  |
 | [ยินดีต้อนรัก \(In Love\)](https://open.spotify.com/track/5RHy4iqw2dUchPfIXMhZIr) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [ยินดีต้อนรัก \(In Love\)](https://open.spotify.com/album/4M9iJQfNzQ3EjRiummGd0H) | 3:51 | 2025-04-03 | 2025-06-20 |
 | [ยินดีที่ฝนตก](https://open.spotify.com/track/0trJITxzL83zWQFAO0zT2x) | [Me \- Pirut](https://open.spotify.com/artist/0YRwecnwqobMn6YWJILmzZ) | [ยินดีที่ฝนตก](https://open.spotify.com/album/68HkMOWNRWDZ5q0if2Dbpb) | 4:25 | 2022-09-15 | 2022-10-29 |
 | [ยินดีที่เธอเลือกเขา](https://open.spotify.com/track/0G0mIaTFpPsygfHcDVXFdo) | [AMMARIN29](https://open.spotify.com/artist/18Yo3KRiHRER325JMdtDTV), [JARNJAME](https://open.spotify.com/artist/3Kr6BG5SoUOBrNyO6oOteb), [PATCHARA](https://open.spotify.com/artist/1qSlUrfbSherMbEkEpnSkG), [1KG](https://open.spotify.com/artist/03HDkiCyDo0Tsh3BEXjMV9) | [ยินดีที่เธอเลือกเขา](https://open.spotify.com/album/3HGYIORWZkIuGEuz7FrX5O) | 6:20 | 2024-05-31 | 2024-06-08 |
@@ -2631,6 +2632,7 @@
 | [ไม่มีวิธีลืม](https://open.spotify.com/track/74jV6DTShx2p7eMa7AUS8T) | [HT](https://open.spotify.com/artist/5dP6in4iWjq3GlY2A2KFZq) | [ไม่มีวิธีลืม](https://open.spotify.com/album/1EYqi9meOBdZWeuA7D0M34) | 3:13 | 2024-01-05 | 2024-03-16 |
 | [ไม่มีสถานะ](https://open.spotify.com/track/5Ry7Ch2uNi8Zk0CmRCmA4m) | [Cat Water](https://open.spotify.com/artist/5k70uwDojoedk8YHpFjA4H) | [ไม่มีสถานะ](https://open.spotify.com/album/3N2LWYXdwZTcMf9p13dW8G) | 3:37 | 2025-06-05 | 2025-07-25 |
 | [ไม่มีหัวใจ](https://open.spotify.com/track/3CnQZiKNVBFMiEzZvGFDcX) | [A Night Days](https://open.spotify.com/artist/6YThUNKTeIOTIYJIcAV21F) | [ไม่มีหัวใจ](https://open.spotify.com/album/2c889WjQ6RRYzWyccBwjXc) | 4:33 | 2023-04-06 | 2023-07-01 |
+| [ไม่มีอีกแล้ว \(no more\)](https://open.spotify.com/track/3tRWSIH06uvlaH4Srp9dwB) | [deephordee](https://open.spotify.com/artist/6GVeFjzRbmUd7GOF8pnBog) | [ไม่มีอีกแล้ว \(no more\)](https://open.spotify.com/album/6J0sVbB0KYPv0YU0inDIhl) | 3:11 | 2026-10-21 |  |
 | [ไม่มีเเบงก์เทาผมเลยต้องเหงา](https://open.spotify.com/track/5561WibaoJIU8qFU1BvYSd) | [puffy](https://open.spotify.com/artist/0Fe29uZrXMbcOl6SjI813M) | [ไม่มีเเบงก์เทาผมเลยต้องเหงา](https://open.spotify.com/album/2gqCeDXRNLM7cQyo2diV6U) | 3:08 | 2024-03-24 | 2024-06-22 |
 | [ไม่มีใครจะเหมือนเดิม](https://open.spotify.com/track/11rUF10LbNdvhtB5lIYH6w) | [Early&earth](https://open.spotify.com/artist/5qnSKZiz3GabO8eoWCcF34) | [ไม่มีใครจะเหมือนเดิม](https://open.spotify.com/album/4xhrzQBfPWDy9VHYoFb4Gc) | 4:04 | 2024-09-06 | 2024-09-14 |
 | [ไม่ยอมหรอก](https://open.spotify.com/track/2HGtAH5ChUq5iUeAvaaNFq) | [Fiat Arthikan](https://open.spotify.com/artist/2WBHK5v62ubeT6k9jH4tln) | [ไม่ยอมหรอก](https://open.spotify.com/album/5Iz77nKNYL8B1UJAMZ5M24) | 3:21 | 2024-01-05 | 2024-04-12 |

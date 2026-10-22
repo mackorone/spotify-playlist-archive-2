@@ -1675,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "The Sea Drift",
+        "url": "https://open.spotify.com/album/5oA73lOwAKHlSlCM4gemet"
+      },
+      "artists": [
+        {
+          "name": "The Delines",
+          "url": "https://open.spotify.com/artist/0SRMBXTBnSm9Jmy24gqggg"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256040,
+      "name": "Little Earl",
+      "url": "https://open.spotify.com/track/3BcTsjEYRe0mzkatVfDqo1"
+    },
+    {
+      "album": {
         "name": "Axis: Bold As Love",
         "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
       },
@@ -2416,7 +2434,7 @@
           "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
-          "name": "I Am Roze",
+          "name": "Roze",
           "url": "https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX"
         }
       ],

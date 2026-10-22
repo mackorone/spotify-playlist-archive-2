@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-598 songs - 1 day 9 hr 54 min
+602 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Basic](https://open.spotify.com/track/4qdJ0mJWPcCPa1RRb60rRh) | [Slŷer](https://open.spotify.com/artist/0Uh5rHqSoGYI2ofi8Rg2Kl), [Sageyfløw](https://open.spotify.com/artist/3UxbWeCiwFa7OacJ9kBo1I) | [Basic](https://open.spotify.com/album/1GPw5LjkmlNd2ai8cXccfo) | 3:40 | 2025-12-23 | 2026-01-15 |
 | [Bayou Icarus](https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:28 | 2026-05-29 | 2026-09-04 |
 | [beautiful](https://open.spotify.com/track/0HHlGXEynhwIkMLFEXzduC) | [briann](https://open.spotify.com/artist/0iOzH7JDn5rKOLMTuyscWx) | [always you](https://open.spotify.com/album/0rBDqg3aoHRz3TaOElSjfL) | 2:31 | 2025-12-28 | 2026-01-25 |
+| [Beautiful Child](https://open.spotify.com/track/0QncGNao6DPCIaZsBErbeL) | [Sejung Go](https://open.spotify.com/artist/6okUWvbqHW03Yr6W1nEx9Q) | [Beautiful Child](https://open.spotify.com/album/7pz0Zlobeu8fVttJpxEtxg) | 3:06 | 2026-10-21 |  |
 | [Beautiful Girl](https://open.spotify.com/track/0GAPwPYqnrNZSHQLVkvSJd) | [RayNay](https://open.spotify.com/artist/0ggALYAP0ou6MOkFBDWNBg) | [Beautiful Girl](https://open.spotify.com/album/5IVREI1bhPqSeTug9WM9k9) | 3:00 | 2025-11-01 | 2025-12-01 |
 | [Bed Made of Roses](https://open.spotify.com/track/2ScYDedLsFpnA5iTkzQGKP) | [Hellblazers](https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz) | [Welcome to the Devil's Room](https://open.spotify.com/album/7lv9XUyMSaGRBwT52oKaB5) | 2:20 | 2026-04-28 | 2026-07-02 |
 | [Beggin' \- Cover](https://open.spotify.com/track/4E5qkEZy9dxONym38rdU9b) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY), [Samuele Mariani](https://open.spotify.com/artist/3TRmdsBjoc62qFy7jEuqeG) | [Beggin' \(Cover\)](https://open.spotify.com/album/52qB0QzvjWURwEGs72iEuq) | 3:38 | 2026-02-08 | 2026-04-14 |
@@ -258,6 +259,7 @@
 | [I Recall](https://open.spotify.com/track/2nPipeTw0use1VhyMieplA) | [Point Pleasant](https://open.spotify.com/artist/3hgIVMcwENmMH8A0dl6Njt) | [I Recall](https://open.spotify.com/album/6MSiWr5RrWjchLnyLDBcKv) | 4:19 | 2026-06-16 | 2026-08-08 |
 | [I Scream at the Sky](https://open.spotify.com/track/0CLp865LeLrvTR4a5baLZe) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [I Scream at the Sky](https://open.spotify.com/album/5hmEYrCwecUfQUKhz3820H) | 2:06 | 2026-03-23 | 2026-05-26 |
 | [I want you in my fantasy](https://open.spotify.com/track/76vbSnNWSPebkTZfu9mXHD) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [I want you in my fantasy](https://open.spotify.com/album/72KSP78EfHFKHe2KXg120d) | 3:54 | 2026-08-25 | 2026-10-14 |
+| [I wish](https://open.spotify.com/track/3L3FHxCCEX4CuDDR1OsQNV) | [ËRRÄ](https://open.spotify.com/artist/0JEioRiCYOk5ris1hGqIiE) | [I wish](https://open.spotify.com/album/2Uv1oGETqSBICJefqrwZj7) | 2:23 | 2026-10-21 |  |
 | [I'll Be Alright](https://open.spotify.com/track/07rCURpFsBIeD7R6jwsxp5) | [Rob Skinner](https://open.spotify.com/artist/13bCwVHw1MUQUDKj7NrWiT) | [I'll Be Alright](https://open.spotify.com/album/2G1b3ApnkYG52ydlyumBv0) | 4:00 | 2025-11-17 | 2026-01-05 |
 | [I'm Sorry It's Over](https://open.spotify.com/track/58kzecWPzOlCzpDzu32eDz) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [I Wanna Be 16 Again!](https://open.spotify.com/album/62Y6hCa2mpdMYszePDaolr) | 3:06 | 2026-03-14 | 2026-05-26 |
 | [Ibuprofeno](https://open.spotify.com/track/4494LHT6jmnv9dzvNJ0LpP) | [Adrap](https://open.spotify.com/artist/4fJb2mig8YyyhwPC4JgIXI) | [Collage](https://open.spotify.com/album/78iXBQSLQd5SnSts47tzAI) | 1:34 | 2025-11-17 | 2026-01-05 |
@@ -272,6 +274,7 @@
 | [In My Life](https://open.spotify.com/track/2gGcCQt9wtPhaNHQi20hm5) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [In My Life](https://open.spotify.com/album/5oZEd7DEOSHVlLqvrZurla) | 1:56 | 2026-05-31 | 2026-07-02 |
 | [In My Lowrider](https://open.spotify.com/track/7ilcS2AzP2fJbRqRlD8WS6) | [Willie of Wilshire](https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS) | [A Day in LA](https://open.spotify.com/album/4cnMBGhaSYkhDDeXJLSvR1) | 2:52 | 2025-12-01 | 2026-01-05 |
 | [In the Zone](https://open.spotify.com/track/4GQCB31mUj7IWjZWa2xyU6) | [Zoë Evans](https://open.spotify.com/artist/22WSFLmJCcJ6YvkfCaXWBo) | [In the Zone](https://open.spotify.com/album/5y5SUzLfH5GFst6dPosrZj) | 2:38 | 2026-02-08 |  |
+| [Infinity](https://open.spotify.com/track/6pPe9uz0EzSQ2bLeNyXimB) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Infinity](https://open.spotify.com/album/79hfXejPfxPxshntSaHAvA) | 3:10 | 2026-10-21 |  |
 | [Intenté Olvidarte](https://open.spotify.com/track/3ksN7lVHRGcQaulNC24Z1w) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Intenté Olvidarte](https://open.spotify.com/album/7nMf1VS5aC6F7jPMiUpCje) | 3:47 | 2026-08-04 | 2026-10-14 |
 | [Interest Free](https://open.spotify.com/track/04oLfpOdFBPSM7GJmwmGX4) | [Lost Trends](https://open.spotify.com/artist/6kZpNXyeuRmP1DkYDiNSbV) | [Interest Free](https://open.spotify.com/album/1aPNhzmMkxcFpppkxtKWqZ) | 2:37 | 2026-02-14 |  |
 | [Invisible](https://open.spotify.com/track/4wdDAHGHSVvjvgFUefA0He) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 2:05 | 2026-05-25 | 2026-07-02 |
@@ -356,6 +359,7 @@
 | [Move Back \- 2015](https://open.spotify.com/track/4ZsgVgiwqYlmbKuK5GvQ54) | [Brian Purnell](https://open.spotify.com/artist/0SQ8CnrXdNgwrWdmW31LeE) | [Move Back \(2015\)](https://open.spotify.com/album/645DrsLpWLnDvZvVdlncQD) | 3:18 | 2026-09-03 | 2026-10-14 |
 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 | 2026-04-17 | 2026-05-26 |
 | [Mr.Sun](https://open.spotify.com/track/1E07RRFqexoSkhgHGxNnFE) | [John Da Lemon](https://open.spotify.com/artist/4mZMlXKDeS8tEuMLn2SHRE), [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU) | [Mr.Sun](https://open.spotify.com/album/4rfPrJpXlulatmgpjygzwp) | 2:49 | 2026-09-06 | 2026-10-14 |
+| [Murder Parade](https://open.spotify.com/track/0SDqFtJAV9lWKZqPXHyft0) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Murder Parade](https://open.spotify.com/album/7cm9XsZG13NeEUGDP0OOOw) | 2:19 | 2026-10-21 |  |
 | [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 | 2026-01-01 | 2026-01-25 |
 | [My Gs](https://open.spotify.com/track/50yx93SX2bty8HVLCeCqSS) | [AME LDN](https://open.spotify.com/artist/2vIktnk8ayfNgBq1dhU4ZD) | [My Gs](https://open.spotify.com/album/5zEXp03VqQXy0TCvwnCS6U) | 2:30 | 2025-11-10 | 2025-12-01 |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-28 | 2026-03-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 
 > 歌單就該環遊世界，享受時差在耳中作祟。Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,003 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,005 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

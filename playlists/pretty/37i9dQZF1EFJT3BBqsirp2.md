@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4nbpc2ldpGh1THRHf14KsI">Finn Keane</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 97 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 306 likes - 97 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 45 | [My Reminder](https://open.spotify.com/track/1b3GqFU0UlFPnnM0Psv0kM) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:33 |
 | 46 | [Persona](https://open.spotify.com/track/4HQMNDSYtXgZvsCHIsuWTS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:37 |
 | 47 | [Eyes of the World featuring Sky Ferreira](https://open.spotify.com/track/1md8v8FG46KecYiMap2XTD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:43 |
-| 48 | [Funny Mouth](https://open.spotify.com/track/1lTp6SSihcLUxoiTPUJ6lA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:33 |
-| 49 | [No One Lasts Forever featuring David Cronenberg](https://open.spotify.com/track/1BPpJdD11gsDQno045HBz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [David Cronenberg](https://open.spotify.com/artist/0gXrxWIXMGsGIO87kIjspr) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 5:42 |
+| 48 | [No One Lasts Forever featuring David Cronenberg](https://open.spotify.com/track/1BPpJdD11gsDQno045HBz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [David Cronenberg](https://open.spotify.com/artist/0gXrxWIXMGsGIO87kIjspr) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 5:42 |
+| 49 | [Funny Mouth](https://open.spotify.com/track/1lTp6SSihcLUxoiTPUJ6lA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:33 |
 | 50 | [I’m Afraid](https://open.spotify.com/track/4g6L1ng6OP24fgTRnK7E6W) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:11 |
 | 51 | [PICK YOUR POISON \(feat\. Stormzy\)](https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:44 |
 | 52 | [Be Your USA](https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW), [Iiris](https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv) | [Be Your USA](https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw) | 2:53 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 96 | [They’re So Smart](https://open.spotify.com/track/5fZJZbIM6GWLmPZG2EcXxs) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:29 |
 | 97 | [Damaged III](https://open.spotify.com/track/5pJEHO4Yi6IZyIqNF003Ui) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 1:36 |
 
-Snapshot ID: `AcfexgAAAACA8Srv4yMegC7i8sHEkj7a`
+Snapshot ID: `AcfkXAAAAAC6Zok2A3UhU2P8BGXT0xEE`

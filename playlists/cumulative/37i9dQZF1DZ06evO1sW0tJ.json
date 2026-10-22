@@ -1277,6 +1277,28 @@
     },
     {
       "album": {
+        "name": "Eternal Clara",
+        "url": "https://open.spotify.com/album/5TpTjNfazXHHi8X2eRiIlQ"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Carl Schwarz",
+          "url": "https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393415,
+      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
+      "url": "https://open.spotify.com/track/5OCOUDNYcjQhXm75uk84pk"
+    },
+    {
+      "album": {
         "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
         "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
       },

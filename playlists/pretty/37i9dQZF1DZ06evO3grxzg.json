@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 233440,
+  "num_followers": 233433,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAADqUoHCtr2WqOaJ8rGnpOb/",
+  "snapshot_id": "atVdgAAAAAAQJUMxrlyRos51LrRuX0vk",
   "tracks": [
     {
       "added_at": null,
@@ -895,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing Queens Un Tributo Para ABBA",
-        "url": "https://open.spotify.com/album/05UDkHg10FACnRaSKpsMwL"
+        "name": "SIE7E",
+        "url": "https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 209186,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/1ue2fObPbPA8idw4OKawZU"
+      "duration_ms": 182466,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2LVWDR1oEthhLIOtT4hHih"
     },
     {
       "added_at": null,
@@ -935,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIE7E",
-        "url": "https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo"
+        "name": "Dancing Queens Un Tributo Para ABBA",
+        "url": "https://open.spotify.com/album/05UDkHg10FACnRaSKpsMwL"
       },
       "artists": [
         {
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 182466,
-      "name": "Mala Fama",
-      "url": "https://open.spotify.com/track/2LVWDR1oEthhLIOtT4hHih"
+      "duration_ms": 209186,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/1ue2fObPbPA8idw4OKawZU"
     }
   ],
   "unique_name": "This Is Danna Paola",

@@ -2,9 +2,9 @@
 
 ### [K\-Pop Dance Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
 
-> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: DAILY:DIRECTION\) 지금 가장 핫한 댄스곡들을 만나보세요.
+> Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: JEONGHAN, JOSHUA\) 지금 가장 핫한 댄스곡들을 만나보세요.
 
-956 songs - 2 day 2 hr 14 min
+957 songs - 2 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1 Billion Views \- Mar Vista Remix](https://open.spotify.com/track/0VXS2271E4lyeXGYBDj91f) | [EXO\-SC](https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5), [Mar Vista](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [iScreaM Vol.4 : 1 Billion Views Remix](https://open.spotify.com/album/0cIZy6ah974Kx2M5Z3irdT) | 4:25 | 2022-04-05 | 2023-05-10 |
 | [1 of 9](https://open.spotify.com/track/6DB6p1dVSNWJbmrbF34icS) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [YOUNI\-BIRTH](https://open.spotify.com/album/1shJJvoHJtR28Tfd8Ebh07) | 3:19 | 2022-07-05 | 2022-07-08 |
 | [1, 2, 3](https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [COMPLETE WITH YOU](https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx) | 3:32 | 2022-01-18 | 2022-04-18 |
+| [12 o'clock](https://open.spotify.com/track/1dp1GI9YcKDoxrKBpp0u9F) | [JEONGHAN](https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF), [JOSHUA](https://open.spotify.com/artist/74AwWFYdjQ3ER5vHO4H7b0) | [DREAMSCAPE](https://open.spotify.com/album/5jD5t9PK0GH5wvJ4vdk0u4) | 2:28 | 2026-10-21 |  |
 | [2 Baddies](https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:50 | 2022-11-10 | 2023-05-10 |
 | [2LOUD](https://open.spotify.com/track/5SoG7BQ42MMksYEfaeeVgE) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [2LOUD](https://open.spotify.com/album/2ULR4Fp8Fl8w8Lv3ND6ADi) | 2:30 | 2026-09-18 |  |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-10-06 | 2025-11-18 |
@@ -22,7 +23,7 @@
 | [44 \(Forget Forever\)](https://open.spotify.com/track/1gB4AZdHNk7jawrX5M7tEm) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [4444](https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j) | 5:13 | 2024-10-08 | 2024-10-17 |
 | [458](https://open.spotify.com/track/4FHnQdUyWz3clxy3d7loOY) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 5th EP Album ‘OK’ Episode 1 : OK Not](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) | 3:14 | 2022-08-22 | 2022-08-27 |
 | [4ever](https://open.spotify.com/track/4RruzeifOuoFvZwziK2EuR) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [4ever](https://open.spotify.com/album/2fU7ZbfCCwb77CVsGwhECU) | 3:32 | 2022-04-12 | 2022-05-04 |
-| [4SHO 4SHO](https://open.spotify.com/track/3GK3htTIyOEq8gz3sPj6L0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [4SHOBOIZ Vol\. 2: 4SHOVILLE](https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl) | 4:01 | 2026-05-19 |  |
+| [4SHO 4SHO](https://open.spotify.com/track/3GK3htTIyOEq8gz3sPj6L0) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [4SHOBOIZ Vol\. 2: 4SHOVILLE](https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl) | 4:01 | 2026-05-19 | 2026-10-22 |
 | [7HEAVEN](https://open.spotify.com/track/3ZvaNnxZATJ4bA41Vkbssc) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [FESTA](https://open.spotify.com/album/3dL6zwC1px9mU7R5x8RW8x) | 3:28 | 2024-03-15 | 2024-05-10 |
 | [90's Love](https://open.spotify.com/track/64EDGnUytmCV7TfOo67810) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/5Dq6jkYO5H7KzxXSazhLxs) | 3:33 | 2022-01-03 | 2023-05-10 |
 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-07-28 | 2023-03-02 |

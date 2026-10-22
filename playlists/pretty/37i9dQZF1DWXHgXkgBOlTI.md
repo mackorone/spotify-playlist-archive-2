@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: SALVALAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,546 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,548 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 14 | [Thrust](https://open.spotify.com/track/5bXrLliFI36kiwAMPhRwY2) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Thrust](https://open.spotify.com/album/6lbD5sV5j45jJ0IYrZeXzz) | 4:27 |
 | 15 | [Tomorrow（feat.Gaku Kano）](https://open.spotify.com/track/0hFgollnKwPJjFod8ouqof) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Gaku Kano](https://open.spotify.com/artist/6pV6yUKdqnxwwKpqSu6AXM) | [Tomorrow（feat.Gaku Kano）](https://open.spotify.com/album/03b1xvc1fNSbThzeQJvsfJ) | 3:54 |
 | 16 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 |
-| 17 | [The bell tolls](https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp) | [a picture of her](https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT) | [C](https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW) | 5:27 |
-| 18 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
+| 17 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
+| 18 | [The bell tolls](https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp) | [a picture of her](https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT) | [C](https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW) | 5:27 |
 | 19 | [Sleeping Giant](https://open.spotify.com/track/7EuPou4Xsee5MjH8HScM3r) | [SLAK](https://open.spotify.com/artist/0axatT20L7PAw25ZyCnbJ0) | [SLAK](https://open.spotify.com/album/77SwPn3bUUba2blV2wxT5c) | 5:32 |
 | 20 | [Raw](https://open.spotify.com/track/0M6DNTW1xQoPMoF6VyodiT) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Rawment](https://open.spotify.com/album/29cM0Z0AM9lp3DRCerozSt) | 3:10 |
 | 21 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 44 | [Solitude](https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V) | 4:16 |
 | 45 | [Hale no sola sita \-LA YELLOW SAMBA\-](https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z) | [PEZ](https://open.spotify.com/artist/6jCTuQ4WpvTPoyGrSGIicE) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 3:39 |
 | 46 | [Cross View \- from "UNTITLED" 2026 Take](https://open.spotify.com/track/4V8gkmFZCgI0T3Vz0u40Vd) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Cross View \(from "UNTITLED" 2026 Take\)](https://open.spotify.com/album/5IMFC9Jhz7q5hzq5wpct0U) | 4:46 |
-| 47 | [Private Jet](https://open.spotify.com/track/5I09j5SrAFeII5SFSV5ZQg) | [下中洋介](https://open.spotify.com/artist/0Vfl5XA4anRj4oCOaNSQLB) | [Private Jet](https://open.spotify.com/album/51PJO5jtsdU4oderz5Kjda) | 3:54 |
-| 48 | [哀しい予感 / リリウム](https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP) | 4:05 |
+| 47 | [哀しい予感 / リリウム](https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP) | 4:05 |
+| 48 | [Private Jet](https://open.spotify.com/track/5I09j5SrAFeII5SFSV5ZQg) | [下中洋介](https://open.spotify.com/artist/0Vfl5XA4anRj4oCOaNSQLB) | [Private Jet](https://open.spotify.com/album/51PJO5jtsdU4oderz5Kjda) | 3:54 |
 | 49 | [Six As One](https://open.spotify.com/track/1eZPE692vJ6f6QSXIxBk0j) | [TRUE VACANCES](https://open.spotify.com/artist/3qv4DY6NavWy8kQH3Jmngn) | [Six As One](https://open.spotify.com/album/7BjLEOtf0fPrC0ELeM0UJW) | 3:32 |
 | 50 | [birth](https://open.spotify.com/track/2VXijxrpCGnWb7pM3LkYZY) | [MIDORINOMARU](https://open.spotify.com/artist/4ZBnxeDmHTLJZPQWmbINhu) | [NEW DAY](https://open.spotify.com/album/5wo4OdsI8cutqgOV1ieXbB) | 4:50 |
 
-Snapshot ID: `AAAAAC5C0mtyWuuoeIuQnHRIcAxgxpAs`
+Snapshot ID: `AAAAAMCQsWu0obLLkHgE+8Y66KR0LYW1`

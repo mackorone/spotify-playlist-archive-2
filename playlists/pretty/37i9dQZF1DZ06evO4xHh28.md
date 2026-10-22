@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 
 > This is My Chemical Romance\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 647,687 likes - 38 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,775 likes - 39 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,5 +46,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 | 36 | [Kiss the Ring](https://open.spotify.com/track/2I4dgdRRupMhZCusqTsp8W) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Four](https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih) | 3:08 |
 | 37 | [Burn Bright](https://open.spotify.com/track/5HLVrG3xcuAQVwB65hI1GU) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Five](https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr) | 4:17 |
 | 38 | [Bury Me in Black \- Demo](https://open.spotify.com/track/0uwM67BScty5fvQLUZneX5) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Life on the Murder Scene](https://open.spotify.com/album/6W6pGKjcVJVwbGHy2YRoeO) | 2:36 |
+| 39 | [Someone Out There Loves You \- Live from Hoboken](https://open.spotify.com/track/2kREupp2rkisjpHuRVIfM1) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Someone Out There Loves You \(Live from Hoboken\)](https://open.spotify.com/album/60dj5xoagWpkgQJU8GYFfb) | 3:28 |
 
-Snapshot ID: `atQMAAAAAACq/h8R40FUBBxjgbxwGHuN`
+Snapshot ID: `atVdgAAAAAAaQ7pyrpq9AeAZxlx+i8tZ`

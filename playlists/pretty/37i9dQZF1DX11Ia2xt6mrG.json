@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Deorro y Jessica Audiffred en portada.",
-  "num_followers": 74935,
+  "num_followers": 74947,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,26 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
+        "name": "MOPUS",
+        "url": "https://open.spotify.com/album/5iNUVbnmsSNujilvY5Y3JO"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Coronel",
+          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
+        },
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        }
+      ],
+      "duration_ms": 133124,
+      "name": "MOPUS",
+      "url": "https://open.spotify.com/track/2wm9Ap4ERkDy6y81muXbuY"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
       },
@@ -803,26 +823,6 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "MOPUS",
-        "url": "https://open.spotify.com/album/5iNUVbnmsSNujilvY5Y3JO"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Coronel",
-          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
-        },
-        {
-          "name": "Marcos Villalobos",
-          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
-        }
-      ],
-      "duration_ms": 133124,
-      "name": "MOPUS",
-      "url": "https://open.spotify.com/track/2wm9Ap4ERkDy6y81muXbuY"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
         "name": "boss",
         "url": "https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe"
       },
@@ -839,22 +839,18 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "ZENDAYA",
-        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
+        "name": "MENTA",
+        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
       },
       "artists": [
         {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        },
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
         }
       ],
-      "duration_ms": 183870,
-      "name": "ZENDAYA",
-      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
+      "duration_ms": 148292,
+      "name": "MENTA",
+      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -879,18 +875,22 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "MENTA",
-        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
+        "name": "ZENDAYA",
+        "url": "https://open.spotify.com/album/5oDvg27P43Q1hwmxN7FrQy"
       },
       "artists": [
         {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        },
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
         }
       ],
-      "duration_ms": 148292,
-      "name": "MENTA",
-      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
+      "duration_ms": 183870,
+      "name": "ZENDAYA",
+      "url": "https://open.spotify.com/track/5vix081v4bfDgmFQlX64vS"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -907,30 +907,6 @@
       "duration_ms": 269880,
       "name": "Runaways",
       "url": "https://open.spotify.com/track/2q0t6NVVxNPWXAxjZ5qIXX"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
-        "name": "Derecha la Flecha",
-        "url": "https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 200454,
-      "name": "Derecha la Flecha",
-      "url": "https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -955,6 +931,30 @@
       "duration_ms": 174555,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
+        "name": "Derecha la Flecha",
+        "url": "https://open.spotify.com/album/0gmbTKhvRzJEXPw5DSNglp"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 200454,
+      "name": "Derecha la Flecha",
+      "url": "https://open.spotify.com/track/1cJZroCncDlIhRoXEilZKz"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
+        "name": "ADICTO",
+        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ADICTO",
+      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
         "name": "Sin Sentir",
         "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 219098,
       "name": "Sin Sentir",
       "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
-        "name": "ADICTO",
-        "url": "https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "ADICTO",
-      "url": "https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
+        "name": "Nada Falta Como Me Faltas",
+        "url": "https://open.spotify.com/album/0K82jU8AWiVVLOQWR48eWx"
+      },
+      "artists": [
+        {
+          "name": "Depressiego",
+          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
+        }
+      ],
+      "duration_ms": 203715,
+      "name": "Nada Falta Como Me Faltas",
+      "url": "https://open.spotify.com/track/4b7UGrxHPIq1sBeUKlW83X"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
         "name": "Afuera Que Tengan Miedo (Jayrick Remix)",
         "url": "https://open.spotify.com/album/3Oxo5otS6sHMaa06uPUGxp"
       },
@@ -1155,30 +1171,6 @@
       "duration_ms": 166110,
       "name": "Afuera Que Tengan Miedo - Jayrick Remix",
       "url": "https://open.spotify.com/track/3Sualy9gkVDHDgOKcTJgFd"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
-        "name": "Space Girl",
-        "url": "https://open.spotify.com/album/1XsU1vapTBjNZrgHn6lELd"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "Space Girl",
-      "url": "https://open.spotify.com/track/6lfv2xniDB0l6gCut41R4h"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -1203,18 +1195,26 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "Nada Falta Como Me Faltas",
-        "url": "https://open.spotify.com/album/0K82jU8AWiVVLOQWR48eWx"
+        "name": "Space Girl",
+        "url": "https://open.spotify.com/album/1XsU1vapTBjNZrgHn6lELd"
       },
       "artists": [
         {
-          "name": "Depressiego",
-          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 203715,
-      "name": "Nada Falta Como Me Faltas",
-      "url": "https://open.spotify.com/track/4b7UGrxHPIq1sBeUKlW83X"
+      "duration_ms": 228923,
+      "name": "Space Girl",
+      "url": "https://open.spotify.com/track/6lfv2xniDB0l6gCut41R4h"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
+        "name": "pOCHO",
+        "url": "https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "teksi",
+      "url": "https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
         "name": "Corazon de Melon",
         "url": "https://open.spotify.com/album/4dnhKzEzKNdt8wObh5sPQ5"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 175161,
       "name": "Corazon de Melon",
       "url": "https://open.spotify.com/track/0OPOLrWNtqperhd32Q8XnF"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
-        "name": "pOCHO",
-        "url": "https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ"
-      },
-      "artists": [
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "teksi",
-      "url": "https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd"
     },
     {
       "added_at": "2026-09-11 06:00:33",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2026-09-11 06:00:33",
       "album": {
-        "name": "cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/6MIUe2REUhOTndOLvPKvCr"
-      },
-      "artists": [
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Yng Naz",
-          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/6NVU7iVKXBmo07g4c3nLvh"
-    },
-    {
-      "added_at": "2026-09-11 06:00:33",
-      "album": {
         "name": "+ (P\u00e9gate)",
         "url": "https://open.spotify.com/album/5HOk8T09vl9OkFKW2Z1usW"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 149538,
       "name": "+ (P\u00e9gate)",
       "url": "https://open.spotify.com/track/5QkrXCbEBoks6FBEJJThaA"
+    },
+    {
+      "added_at": "2026-09-11 06:00:33",
+      "album": {
+        "name": "cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/6MIUe2REUhOTndOLvPKvCr"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/6NVU7iVKXBmo07g4c3nLvh"
     }
   ],
   "unique_name": "electro mx ",

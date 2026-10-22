@@ -1,13 +1,61 @@
 {
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: THREETIME. Artwork: Isu Kim",
-  "num_followers": 12753,
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: deephordee. Artwork: Isu Kim",
+  "num_followers": 12754,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFVEO/uxgm1wvKqw5pCX1bFDyUrd",
+  "snapshot_id": "AAAAABZ6962S//ZjKCRSwXgG7qDjjtWN",
   "tracks": [
+    {
+      "added_at": "2026-10-14 17:01:05",
+      "album": {
+        "name": "\u0e15\u0e34\u0e14 (Circle)",
+        "url": "https://open.spotify.com/album/43tZMr6lNG16Wlq7ymKj79"
+      },
+      "artists": [
+        {
+          "name": "JOLY",
+          "url": "https://open.spotify.com/artist/0rAR9WooSNMPy4tAykW8NE"
+        }
+      ],
+      "duration_ms": 189176,
+      "name": "\u0e15\u0e34\u0e14 (Circle)",
+      "url": "https://open.spotify.com/track/6g8rkcSmaYa4EeCbq95W3b"
+    },
+    {
+      "added_at": "2026-10-21 06:52:05",
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27 (no more)",
+        "url": "https://open.spotify.com/album/6J0sVbB0KYPv0YU0inDIhl"
+      },
+      "artists": [
+        {
+          "name": "deephordee",
+          "url": "https://open.spotify.com/artist/6GVeFjzRbmUd7GOF8pnBog"
+        }
+      ],
+      "duration_ms": 191663,
+      "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27 (no more)",
+      "url": "https://open.spotify.com/track/3tRWSIH06uvlaH4Srp9dwB"
+    },
+    {
+      "added_at": "2026-10-14 17:01:05",
+      "album": {
+        "name": "\u0e01\u0e2d\u0e14\u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23 (Oxytocin)",
+        "url": "https://open.spotify.com/album/5fCt4cELBP9dV1Dohb7RnA"
+      },
+      "artists": [
+        {
+          "name": "THREETIME",
+          "url": "https://open.spotify.com/artist/7v2soIsagtyu1JGioFHVcV"
+        }
+      ],
+      "duration_ms": 248763,
+      "name": "\u0e01\u0e2d\u0e14\u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23 (Oxytocin)",
+      "url": "https://open.spotify.com/track/75WixMsLeRedRVoo3Sq6Mv"
+    },
     {
       "added_at": "2026-10-14 17:01:05",
       "album": {
@@ -25,6 +73,22 @@
       "url": "https://open.spotify.com/track/4grltHUxN9I9Av69H9tfJi"
     },
     {
+      "added_at": "2026-10-21 06:52:05",
+      "album": {
+        "name": "\u0e22\u0e32\u0e41\u0e01\u0e49\u0e41\u0e1e\u0e49",
+        "url": "https://open.spotify.com/album/0kKpZ3RBeBMa2jX5XuzEd0"
+      },
+      "artists": [
+        {
+          "name": "HAPPY ANIMALs",
+          "url": "https://open.spotify.com/artist/1zySTrEneDNPWdc8tQi3IE"
+        }
+      ],
+      "duration_ms": 168166,
+      "name": "\u0e22\u0e32\u0e41\u0e01\u0e49\u0e41\u0e1e\u0e49",
+      "url": "https://open.spotify.com/track/65w4fTzmjX48zjUc54EPzs"
+    },
+    {
       "added_at": "2026-10-14 17:01:05",
       "album": {
         "name": "\u0e42\u0e04\u0e15\u0e23\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07",
@@ -39,22 +103,6 @@
       "duration_ms": 213038,
       "name": "\u0e42\u0e04\u0e15\u0e23\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07",
       "url": "https://open.spotify.com/track/6YJlvheMKliZyu5QeAzP1O"
-    },
-    {
-      "added_at": "2026-10-14 17:01:05",
-      "album": {
-        "name": "\u0e01\u0e2d\u0e14\u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23 (Oxytocin)",
-        "url": "https://open.spotify.com/album/5fCt4cELBP9dV1Dohb7RnA"
-      },
-      "artists": [
-        {
-          "name": "THREETIME",
-          "url": "https://open.spotify.com/artist/7v2soIsagtyu1JGioFHVcV"
-        }
-      ],
-      "duration_ms": 248763,
-      "name": "\u0e01\u0e2d\u0e14\u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23 (Oxytocin)",
-      "url": "https://open.spotify.com/track/75WixMsLeRedRVoo3Sq6Mv"
     },
     {
       "added_at": "2026-10-14 17:01:05",
@@ -91,22 +139,6 @@
     {
       "added_at": "2026-10-14 17:01:05",
       "album": {
-        "name": "\u0e15\u0e34\u0e14 (Circle)",
-        "url": "https://open.spotify.com/album/43tZMr6lNG16Wlq7ymKj79"
-      },
-      "artists": [
-        {
-          "name": "JOLY",
-          "url": "https://open.spotify.com/artist/0rAR9WooSNMPy4tAykW8NE"
-        }
-      ],
-      "duration_ms": 189176,
-      "name": "\u0e15\u0e34\u0e14 (Circle)",
-      "url": "https://open.spotify.com/track/6g8rkcSmaYa4EeCbq95W3b"
-    },
-    {
-      "added_at": "2026-10-14 17:01:05",
-      "album": {
         "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e40\u0e04\u0e48\u0e44\u0e2b\u0e19 (404 Not Found)",
         "url": "https://open.spotify.com/album/1VMcBPtjm6xgfgEOq2R6VQ"
       },
@@ -119,22 +151,6 @@
       "duration_ms": 220000,
       "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e40\u0e04\u0e48\u0e44\u0e2b\u0e19 (404 Not Found)",
       "url": "https://open.spotify.com/track/0JW1hpkgeOtsKAmK7u4VMJ"
-    },
-    {
-      "added_at": "2026-10-14 17:01:05",
-      "album": {
-        "name": "The Dead Man's Hand",
-        "url": "https://open.spotify.com/album/2W8UlHxDfat0iea73Z9lmo"
-      },
-      "artists": [
-        {
-          "name": "The Young Wolf",
-          "url": "https://open.spotify.com/artist/1D9YuAgk4GI9co3rvv5b1Y"
-        }
-      ],
-      "duration_ms": 261840,
-      "name": "The Ace (of spades)",
-      "url": "https://open.spotify.com/track/5aI5AHEAxVSRYSkKh1ihx9"
     },
     {
       "added_at": "2026-10-14 17:01:05",
@@ -659,22 +675,6 @@
       "duration_ms": 323537,
       "name": "\u0e08\u0e34\u0e19\u0e15\u0e19\u0e32\u0e01\u0e32\u0e23 (IMAJIN)",
       "url": "https://open.spotify.com/track/3IQZpM2TDZTmsTu5E9HG71"
-    },
-    {
-      "added_at": "2026-10-14 17:01:05",
-      "album": {
-        "name": "Fading Starlight",
-        "url": "https://open.spotify.com/album/0i9bP3bO3JgOQT15VPLuj8"
-      },
-      "artists": [
-        {
-          "name": "Jikkafone",
-          "url": "https://open.spotify.com/artist/298jfKASUYsJU1RT5tdlAp"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Fading Starlight",
-      "url": "https://open.spotify.com/track/0Yr4EFFlnJOl2kqCNQftvn"
     },
     {
       "added_at": "2026-10-14 17:01:05",

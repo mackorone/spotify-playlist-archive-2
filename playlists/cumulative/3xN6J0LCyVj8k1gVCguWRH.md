@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,654 songs - 15 day 12 hr 18 min
+6,655 songs - 15 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,7 +587,7 @@
 | [BEFORE GOODBYE](https://open.spotify.com/track/59LjwTNKY4J0HNKWuMZTP6) | [Tom Morgan](https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c) | [BEFORE GOODBYE](https://open.spotify.com/album/1xr2y0rR9zPFH1RNQCNGt0) | 4:13 | 2026-04-24 | 2026-05-06 |
 | [Before I Let Go \(Interlude\)](https://open.spotify.com/track/3RfIzHmBcSLYUFJXT5irPX) | [Key.eshia](https://open.spotify.com/artist/6GVfWuMopH4Ca5DH5Y81It) | [Before I Let Go \(Interlude\)](https://open.spotify.com/album/3VyjwS76GhdZTp9lMjLuyH) | 2:40 | 2025-05-18 | 2025-05-30 |
 | [Before the Night](https://open.spotify.com/track/123DguylgrpoqGeMUCq645) | [Mirage](https://open.spotify.com/artist/5L2HxfgDGYnmqUZ9OyVt62) | [Before the Night](https://open.spotify.com/album/1SRUzZ3uzVh1iN8ICd1vCW) | 3:17 | 2025-06-28 | 2025-07-12 |
-| [Before You Tell Me](https://open.spotify.com/track/1FJ5dcBGo2GiIU8dzX1Rca) | [Marian Mulock](https://open.spotify.com/artist/7L8CxnOq1JXYvIKhQTaf7b) | [Where Do I Start?](https://open.spotify.com/album/4hfKPtv3JP5tp0ELTaidXd) | 3:15 | 2026-06-27 | 2026-09-02 |
+| [Before You Tell Me](https://open.spotify.com/track/1FJ5dcBGo2GiIU8dzX1Rca) | [Marian Mulock](https://open.spotify.com/artist/7L8CxnOq1JXYvIKhQTaf7b) | [Where Do I Start?](https://open.spotify.com/album/4hfKPtv3JP5tp0ELTaidXd) | 3:15 | 2026-06-27 |  |
 | [Before Your Eyes](https://open.spotify.com/track/3kvOsp1oqMdbpxiFAwVOE3) | [rén](https://open.spotify.com/artist/2O4tuLp8cLDuknpZ5VUz03) | [Before Your Eyes](https://open.spotify.com/album/4cSaRdE3IP2YtrblAdww0W) | 3:33 | 2026-03-05 | 2026-03-17 |
 | [Beginner](https://open.spotify.com/track/13WCph199PMEe0Br7gz4Dw) | [Charles Becker](https://open.spotify.com/artist/2TNKty70pR8rvu27I4ekMZ) | [Beginner](https://open.spotify.com/album/5e0zacHWDekZlxnYGzAqmf) | 3:23 | 2025-03-02 | 2025-03-14 |
 | [Behind the Wall](https://open.spotify.com/track/3XyUX7g16iXyizQEqXFPJN) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Behind the Wall](https://open.spotify.com/album/7hwx298EDOfwpgzVpb1Hg4) | 3:13 | 2020-05-30 | 2020-06-10 |
@@ -4714,7 +4714,7 @@
 | [Restart Again](https://open.spotify.com/track/55tkSW9sxztVBVDwzPkaSg) | [HARA](https://open.spotify.com/artist/6CNaRojfCps5UxTg0tXZar) | [Restart Again](https://open.spotify.com/album/5nG7cgl9kNfVZGzRhCTu5c) | 2:56 | 2024-10-04 | 2024-10-16 |
 | [Retrograde](https://open.spotify.com/track/54n4pHmfeeqd7O5fizgoPa) | [Salyse](https://open.spotify.com/artist/3QdzQAjNtakijDE1SoJ7Ln) | [Retrograde](https://open.spotify.com/album/4Uv5phL42K7TjjAfBxc8Dz) | 3:07 | 2021-10-26 | 2021-11-14 |
 | [RETURN](https://open.spotify.com/track/3j6FPFvTfNEO833qQhj9H9) | [Rizzlove](https://open.spotify.com/artist/5angRdn3GcGDWDXvmQaFJM) | [RETURN](https://open.spotify.com/album/4IiZZb5tp7VG7Z9xbcVx7Z) | 2:22 | 2021-01-17 | 2021-02-04 |
-| [Return in Glory](https://open.spotify.com/track/4me5EN5wEwfgchXPqsk6ka) | [Arman Maggese](https://open.spotify.com/artist/6ajYG7GRQrka3ep49ap1Ns) | [Return in Glory](https://open.spotify.com/album/4rmt2rgbHH2wOYj07OtTvJ) | 3:32 | 2026-09-15 | 2026-10-16 |
+| [Return in Glory](https://open.spotify.com/track/4me5EN5wEwfgchXPqsk6ka) | [Arman Maggese](https://open.spotify.com/artist/6ajYG7GRQrka3ep49ap1Ns) | [Return in Glory](https://open.spotify.com/album/4rmt2rgbHH2wOYj07OtTvJ) | 3:32 | 2026-09-15 |  |
 | [Revelation](https://open.spotify.com/track/70gFKAzVXF80Ar4mM8DZej) | [Lara Taubman](https://open.spotify.com/artist/5KExyaFeqKFbVBfmqhYmNX) | [Revelation](https://open.spotify.com/album/13kEPE7khnnw6xfWnNArax) | 2:10 | 2021-03-25 | 2021-04-10 |
 | [Revive](https://open.spotify.com/track/6yuUveGrbhurhBYvGOQwHc) | [Avori](https://open.spotify.com/artist/2bmc3H14pJQmoiCTOiCtjd) | [Revive](https://open.spotify.com/album/5DppeqqT7tZY9iXzgRMCez) | 3:38 | 2022-08-26 | 2022-09-11 |
 | [Revolution \- Remastered 2009](https://open.spotify.com/track/3UDmHZcBTQp8Iu8droNtUl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered 2009\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 3:25 | 2026-07-30 |  |
@@ -4975,7 +4975,7 @@
 | [Separate Rooms](https://open.spotify.com/track/3hlQpXZ6L5BoUb4T6EUYOe) | [B.Miles](https://open.spotify.com/artist/3rB3PZ6d1hAkNFD4PhLgQk) | [Separate Rooms](https://open.spotify.com/album/1D2vXo9ZptspnSP4fkQRUe) | 3:31 | 2023-12-22 | 2024-01-02 |
 | [Separate Ways](https://open.spotify.com/track/4rctevsmSetg6Lfe2HD8Li) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Separate Ways](https://open.spotify.com/album/734zTzbpPkDdnILWr9PMzi) | 2:58 | 2025-10-17 | 2025-12-06 |
 | [September](https://open.spotify.com/track/7n40YhDRGRow6PgquDAWRm) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [KŌAN](https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v) | 4:04 | 2022-09-10 | 2022-09-27 |
-| [September Night](https://open.spotify.com/track/6lk2PuidQAiwiVfb4G0QMb) | [Max Rose](https://open.spotify.com/artist/5UJEMlPdNJYwIeWj6n0e2b) | [September Night](https://open.spotify.com/album/1HEtdCsasPweeLYZwiX7sO) | 2:40 | 2026-09-20 |  |
+| [September Night](https://open.spotify.com/track/6lk2PuidQAiwiVfb4G0QMb) | [Max Rose](https://open.spotify.com/artist/5UJEMlPdNJYwIeWj6n0e2b) | [September Night](https://open.spotify.com/album/1HEtdCsasPweeLYZwiX7sO) | 2:40 | 2026-09-20 | 2026-10-22 |
 | [September Smiles](https://open.spotify.com/track/3fERHHJyud25vPeIx8ETFm) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [September Smiles](https://open.spotify.com/album/7HLZKEUOIuHOFxkOy1eNMi) | 3:56 | 2024-09-20 | 2024-10-01 |
 | [Septembre](https://open.spotify.com/track/43nblCffUKxrut8d65pUPU) | [Sweet Fugitive](https://open.spotify.com/artist/077itsTCfJi8eRzXo7dcyM) | [Enchanté](https://open.spotify.com/album/5nQqAHb8IzdQzrWthgfbvK) | 4:23 | 2020-11-06 | 2020-11-21 |
 | [Serena \- Feat\. Samm Henshaw](https://open.spotify.com/track/3M7CTl6EiNEeeoFl79GiAG) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Serena \(Feat\. Samm Henshaw\)](https://open.spotify.com/album/5L2yapDADu1ud53fW3OSti) | 3:46 | 2024-01-19 | 2024-01-31 |
@@ -6651,6 +6651,7 @@
 | [Zooming!](https://open.spotify.com/track/16gO6IGm56ri0jPUB0oN8P) | [Nec16](https://open.spotify.com/artist/075gXTxfmzrNYlLLhHK6U0) | [Zooming!](https://open.spotify.com/album/0XDITU0T3fisy60TnyJQDy) | 2:42 | 2026-09-21 | 2026-10-03 |
 | [Zuly \- Remix](https://open.spotify.com/track/3fuYhvcRNX5Y9ryUO8ixNA) | [Eldo VR](https://open.spotify.com/artist/6yzFWiGL6EnUjGhyYEwj5L), [Bryzan](https://open.spotify.com/artist/57qLKO4FzuBmZPLqsNxVHH), [Ulyss](https://open.spotify.com/artist/5bEvbRrEjpjRyHm92aY4Ly) | [Zuly \(Remix\)](https://open.spotify.com/album/76b3texQrbmSRUev8rnRYZ) | 4:00 | 2024-11-22 | 2024-12-04 |
 | [¿AGAIN?](https://open.spotify.com/track/2mZIrnN3QkpHUDEyyf2qke) | [Lez](https://open.spotify.com/artist/22rE8zWlCs9O4WqS3M0jxj) | [Before the Party](https://open.spotify.com/album/42OgTuvHSeuIyqY1qE7zKL) | 2:50 | 2024-03-16 | 2024-03-29 |
+| [À fleur de peau](https://open.spotify.com/track/03QDPCqEiEAkayHN9WuSbW) | [Julien m'a dit](https://open.spotify.com/artist/1RhRiWvzyv2gTX6Jq8NwLq) | [Heureux quand même \(Deluxe Edition\)](https://open.spotify.com/album/4RMJjmmTLSCwixRdddB6Md) | 4:08 | 2026-10-21 |  |
 | [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 | 2021-07-11 | 2023-02-12 |
 | [Ámame](https://open.spotify.com/track/4lVEs3EYFMkTifF8yv431e) | [Josh Galiano](https://open.spotify.com/artist/0GZ6S7003D6b9eikFZv3bb), [Dari Ferrari](https://open.spotify.com/artist/5FEBQmIIz1XSLMDOUm6QnP) | [Ámame](https://open.spotify.com/album/2goL997K0dt0lSLQiOZQIL) | 3:07 | 2023-08-02 | 2023-08-11 |
 | [Última Noche](https://open.spotify.com/track/3zXSeTu987386oTJo3i1F6) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv) | [Última Noche](https://open.spotify.com/album/31eLPJ8ubv5TSF2l06nFhd) | 3:09 | 2026-09-18 | 2026-10-19 |

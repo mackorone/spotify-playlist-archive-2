@@ -1,12 +1,12 @@
 {
   "description": "This is Laurie Spiegel. The essential tracks, all in one playlist.",
-  "num_followers": 531,
+  "num_followers": 532,
   "original_name": "This Is Laurie Spiegel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAACVHMxkKdy/U7ofS5zO4EC6",
+  "snapshot_id": "atVdgAAAAAAYBKDmZvXkLRHWLccHcNfo",
   "tracks": [
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 175093,
-      "name": "From a Harmonic Algorithm",
-      "url": "https://open.spotify.com/track/7pICSb5Mx7hSa0PPS2TYpk"
+      "duration_ms": 165733,
+      "name": "Finding Voice",
+      "url": "https://open.spotify.com/track/4qignkPNvo2z2pbjHKBcoL"
     },
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prsnt",
+        "url": "https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 35005,
+      "name": "FlyBy",
+      "url": "https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Miniatures 2 Edited By Morgan Fisher",
         "url": "https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws"
       },
@@ -131,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Common Ground, Vol. 1",
-        "url": "https://open.spotify.com/album/7m1hNJg5fKlw5WHn1sI7oM"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "At Sea",
-      "url": "https://open.spotify.com/track/7BuMYswqgm6BT5kEPY0EFM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unseen Worlds",
         "url": "https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS"
       },
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 165733,
-      "name": "Finding Voice",
-      "url": "https://open.spotify.com/track/4qignkPNvo2z2pbjHKBcoL"
+      "duration_ms": 175093,
+      "name": "From a Harmonic Algorithm",
+      "url": "https://open.spotify.com/track/7pICSb5Mx7hSa0PPS2TYpk"
     },
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prsnt",
-        "url": "https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4"
+        "name": "Common Ground, Vol. 1",
+        "url": "https://open.spotify.com/album/7m1hNJg5fKlw5WHn1sI7oM"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 35005,
-      "name": "FlyBy",
-      "url": "https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8"
+      "duration_ms": 214883,
+      "name": "At Sea",
+      "url": "https://open.spotify.com/track/7BuMYswqgm6BT5kEPY0EFM"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 194426,
-      "name": "Appalachian Grove III",
-      "url": "https://open.spotify.com/track/79qnW6PocozamltQqh8In9"
+      "duration_ms": 476906,
+      "name": "Appalachian Grove II",
+      "url": "https://open.spotify.com/track/6XDocPNf2YEBkLud2SoHXr"
     }
   ],
   "unique_name": "This Is Laurie Spiegel",

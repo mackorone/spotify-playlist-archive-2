@@ -1,12 +1,12 @@
 {
   "description": "This is Luis Miguel. The essential tracks, all in one playlist.",
-  "num_followers": 2591079,
+  "num_followers": 2591238,
   "original_name": "This Is Luis Miguel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAADBmB4htA0vAnSYGO5boaYG",
+  "snapshot_id": "atVdgAAAAABGbn8O+cocvTFTWWJDVREV",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 236413,
-      "name": "Cuando Calienta El Sol",
-      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 A\u00f1os",
         "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 236413,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Romances",
         "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 251760,
       "name": "Voy a Apagar La Luz / Contigo Aprend\u00ed",
       "url": "https://open.spotify.com/track/4BCiucu42W0U9Y1eqPaQDx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "M\u00e9xico En La Piel",
-      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "M\u00e9xico En La Piel",
+      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 A\u00f1os",
         "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 212440,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/4yEJ1SNpgfK5GPx3Y0YhIU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 207360,
       "name": "Ayer",
       "url": "https://open.spotify.com/track/3PoR4LhD7Y74bPpk8lZ6f7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 212440,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/4yEJ1SNpgfK5GPx3Y0YhIU"
     },
     {
       "added_at": null,

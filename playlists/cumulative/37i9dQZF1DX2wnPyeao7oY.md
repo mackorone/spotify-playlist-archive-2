@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists and labels every Wednesday\. Cover: Calva Louise
+> New music by the heaviest independent artists and labels every Wednesday\. Cover: REVNOIR and REEBZ
 
-995 songs - 2 day 10 hr 9 min
+998 songs - 2 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Cold Days](https://open.spotify.com/track/0MsHPU8lA5br6JhRDvQPmW) | [Satelles](https://open.spotify.com/artist/5nClylSnUA5IWiBI7T2960) | [Arcadia](https://open.spotify.com/album/1mxPusKMN5mp3vB0XF1JD4) | 3:28 | 2025-01-22 | 2026-01-15 |
 | [COLOURED IN](https://open.spotify.com/track/5MLJKggIN2d9VAiklXVDHZ) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [COLOURED IN](https://open.spotify.com/album/19UKcuHruJ95L5SM5du6qp) | 3:36 | 2025-08-06 | 2025-10-02 |
 | [Come Down](https://open.spotify.com/track/5AWml6GS12ijqNwTL4zVe4) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Come Down](https://open.spotify.com/album/0ltN2JS0sLX2KjRHwfMcPl) | 3:16 | 2025-03-26 | 2026-01-15 |
-| [COMING IN](https://open.spotify.com/track/5UGvOm8m1J0gsmPXjo16ZE) | [Lucifena](https://open.spotify.com/artist/4el1PRZYPKpK5a70AOYEQ9) | [WARZONE](https://open.spotify.com/album/1mK3U8V4aJ4N32SIDDgVVB) | 3:20 | 2026-09-16 |  |
+| [COMING IN](https://open.spotify.com/track/5UGvOm8m1J0gsmPXjo16ZE) | [Lucifena](https://open.spotify.com/artist/4el1PRZYPKpK5a70AOYEQ9) | [WARZONE](https://open.spotify.com/album/1mK3U8V4aJ4N32SIDDgVVB) | 3:20 | 2026-09-16 | 2026-10-22 |
 | [Commander of Pain](https://open.spotify.com/track/66wTyS8P8hbXbLl07LIenU) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Commander of Pain](https://open.spotify.com/album/6SvPikanz42fybjKeg5LCD) | 4:45 | 2025-11-19 | 2025-12-04 |
 | [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/track/2v8qn3KSfAi8LIVOoNU5mX) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP), [Andrew Neufeld](https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq) | [A Door Left Open](https://open.spotify.com/album/7blYE5dWcNhCfnKB8OH0ff) | 2:28 | 2025-12-03 | 2026-01-15 |
 | [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/track/6Ncw3Yw6sckvANnkfBiI6R) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP), [Andrew Neufeld](https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq) | [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/album/39mjjt5bMBoodbyrOMW90m) | 2:28 | 2025-03-12 | 2025-07-31 |
@@ -296,6 +296,7 @@
 | [Erode](https://open.spotify.com/track/6NS3UG0800QVgNQMGbVunh) | [RUNE](https://open.spotify.com/artist/23nVOrmuIA5WDBVpsU4alV), [Mike Parsram](https://open.spotify.com/artist/1OtJUphyr1yJMRJmJwGHOt) | [Depth Perception](https://open.spotify.com/album/7lfXRKgKv73jeRdMWWHI5J) | 4:05 | 2025-11-26 | 2026-02-12 |
 | [Error](https://open.spotify.com/track/3Ok6maBmblVB8ZNtHEViw2) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf), [Steven Jones](https://open.spotify.com/artist/5fEW2qab1fjpjXIQ1RoynW) | [Error](https://open.spotify.com/album/011YIxnyt9ZrmwNzffOMfT) | 2:58 | 2025-10-22 | 2025-11-06 |
 | [Ethereal](https://open.spotify.com/track/04oKNMlc4YYWGRXS8NOdGt) | [Prospective](https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS) | [Ethereal](https://open.spotify.com/album/1yw62H3IO5aBAjNy4HpySd) | 3:02 | 2024-10-25 | 2024-12-05 |
+| [Euphoria](https://open.spotify.com/track/1lkNIg7AhcbMCrVxofUSgz) | [DEADEND](https://open.spotify.com/artist/1U7CL8zNtrXI05YjYfwikh) | [Euphoria](https://open.spotify.com/album/66dovHcNNcMIgFN99nitje) | 3:37 | 2026-10-21 |  |
 | [Evergreen](https://open.spotify.com/track/3vCSKmmTidpGEhTGiNQhfJ) | [Alura](https://open.spotify.com/artist/4GwL7jI69iqjXPZcezJpI7) | [Evergreen](https://open.spotify.com/album/2Xgw3FDuC2uNwhWvGjkUYn) | 4:29 | 2026-01-14 | 2026-02-12 |
 | [Evermore](https://open.spotify.com/track/5mde0bAtfXrn28w9D7mEKd) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Evermore](https://open.spotify.com/album/6lVl7vff0WI6SO6LxqtXb8) | 4:24 | 2025-10-01 | 2025-10-16 |
 | [EVERY DAY IS HALLOWEEN](https://open.spotify.com/track/2Yvw5tmBhckB8JfL1HCpZu) | [20TOKENS](https://open.spotify.com/artist/283uQnP38E3Ua5ExYuOH0Q) | [EVERY DAY IS HALLOWEEN](https://open.spotify.com/album/7hMoDklAJyyGSQMFbfOJ5V) | 2:30 | 2025-11-05 | 2025-12-04 |
@@ -324,6 +325,7 @@
 | [Falsify](https://open.spotify.com/track/3w4fkyhv7GcF6ZwpMbKnbq) | [Nylist](https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw), [I Declare War](https://open.spotify.com/artist/4Ive5h2zDEYWu32ik078C2) | [Falsify](https://open.spotify.com/album/1C38tz04LFPNvFaCyMSUAg) | 2:19 | 2025-10-01 | 2025-10-16 |
 | [Family](https://open.spotify.com/track/50cQtNX7ngkLWMTEz5fPg1) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [Family](https://open.spotify.com/album/4P1v9rqKPHcXm6M2meMugW) | 3:25 | 2024-09-25 | 2024-12-05 |
 | [Far](https://open.spotify.com/track/1SaUeEGwQCZFwiwPbYg2Cs) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Far](https://open.spotify.com/album/0ER0N9enALbr72SfW154lP) | 3:28 | 2026-08-19 | 2026-09-10 |
+| [Far From Home](https://open.spotify.com/track/1kQkBDh2KZsO4Y6RlCPlGz) | [REVNOIR](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB), [REEBZ](https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t) | [Sometimes I feel you, sometimes I don't](https://open.spotify.com/album/6CwVdys0yJ7ytMG1bt9qAQ) | 4:16 | 2026-10-21 |  |
 | [Farewell](https://open.spotify.com/track/3aJg0HiIvdszY04sk2HNQ7) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [Farewell](https://open.spotify.com/album/0UuZC8DyQ6AAIsLdecA1re) | 4:05 | 2025-11-26 | 2026-02-12 |
 | [Fastlanes](https://open.spotify.com/track/2WaXCt23pu3pqQ9JoUpxaS) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Fastlanes](https://open.spotify.com/album/3GTDD3YWdBNPtfvtEyfJuc) | 4:20 | 2024-08-28 | 2024-10-26 |
 | [Fear Is The New Belief](https://open.spotify.com/track/75WK5aoRBPF1dYwOIorBoD) | [Half Me](https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC) | [Fear Is The New Belief](https://open.spotify.com/album/5Q0H621oDA2eC1WATJeLzH) | 2:47 | 2026-07-29 | 2026-09-10 |
@@ -636,7 +638,7 @@
 | [Out Of Reach](https://open.spotify.com/track/2m8X1ya97m5MoXElsSufev) | [Bloom](https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl) | [Out Of Reach](https://open.spotify.com/album/6AiRlpM6mXBzn7vyt1XaE2) | 2:49 | 2025-10-15 | 2025-11-06 |
 | [Out of Time](https://open.spotify.com/track/4Fml0YNyT7BCVYLzHrkGii) | [Neroargento](https://open.spotify.com/artist/1SOuNgUgA2KQ5vzae2EHbL) | [Out of Time](https://open.spotify.com/album/6A3F4CEWGx3lUqmMFS3geS) | 4:10 | 2025-05-09 | 2025-08-28 |
 | [Over My Shoulder](https://open.spotify.com/track/1jMrKVpIiDJFOV0r6sSjuf) | [Deeper Graves](https://open.spotify.com/artist/6Ty3cUfA6l90ZzCJzjck4d) | [Over My Shoulder](https://open.spotify.com/album/3dXttbuJ5J4xwhuGOfD5Fj) | 5:25 | 2026-02-11 | 2026-03-12 |
-| [OVERDOSE](https://open.spotify.com/track/7nfprYkcT4lSxYI8Dnc1hz) | [Outloved](https://open.spotify.com/artist/1zsGwHTBAXXWKOnUaKGrhd) | [OVERDOSE](https://open.spotify.com/album/6V7FZh69ptnGC5O3z3rEAw) | 3:22 | 2026-08-12 |  |
+| [OVERDOSE](https://open.spotify.com/track/7nfprYkcT4lSxYI8Dnc1hz) | [Outloved](https://open.spotify.com/artist/1zsGwHTBAXXWKOnUaKGrhd) | [OVERDOSE](https://open.spotify.com/album/6V7FZh69ptnGC5O3z3rEAw) | 3:22 | 2026-08-12 | 2026-10-22 |
 | [Overturn](https://open.spotify.com/track/2EzgNityFZjhvsrKrRgWa1) | [Despite Exile](https://open.spotify.com/artist/5EEsjl7MtBzrpPVKHmJYBD) | [Overturn](https://open.spotify.com/album/15Eidthu0Gn0xdmwq5BTeV) | 3:07 | 2025-10-29 | 2025-12-04 |
 | [Pain](https://open.spotify.com/track/7K1g0r3aMVMQCRo25HYtpt) | [Howl Like Wolves](https://open.spotify.com/artist/1ouBfZOEtUsCccxWyE1rYO) | [Pain](https://open.spotify.com/album/60MJnL3Pg6fOA9QRoYpBTL) | 3:05 | 2025-11-19 | 2025-12-04 |
 | [PAIN PUSHER](https://open.spotify.com/track/3ZoZ3nvRGPVxqVAQBRr6zY) | [Cober Mouth](https://open.spotify.com/artist/1jSqUczGbrb3PvTROS66nA) | [PAIN PUSHER](https://open.spotify.com/album/04CHqNGrkezhC50Sa7piwQ) | 4:05 | 2026-01-14 | 2026-02-12 |
@@ -748,6 +750,7 @@
 | [Serpent Script](https://open.spotify.com/track/7wK3sYkuFBIa7lXnnZqkyR) | [Lucyvivor](https://open.spotify.com/artist/1cEzgHSv07ZJvU2PtVa17g), [n0trixx](https://open.spotify.com/artist/4YsqBmE9rJRgxRUxMGY4VE) | [Serpent Script](https://open.spotify.com/album/1DHprZgpCfbCVe7LacKkvU) | 2:49 | 2025-10-15 | 2025-11-06 |
 | [SERPENTINE](https://open.spotify.com/track/7iBPVjBtPWWQWGqTror84i) | [RUNE](https://open.spotify.com/artist/23nVOrmuIA5WDBVpsU4alV) | [SERPENTINE](https://open.spotify.com/album/3neFuPnMhMwwfGfvFwVA1y) | 3:06 | 2026-07-08 | 2026-08-20 |
 | [Serpentine](https://open.spotify.com/track/3QXS9S9YXkeLJ5miwNQyYy) | [Your Spirit Dies](https://open.spotify.com/artist/0iLA9qNrXngiyQqZjcnwxt), [Dan Weyandt](https://open.spotify.com/artist/4GeoWoJV3VRMQm82D4ijeu) | [Serpentine](https://open.spotify.com/album/5Dxiea9sWkL29Jk6BvUjJ6) | 3:00 | 2025-03-12 | 2025-04-10 |
+| [Serum](https://open.spotify.com/track/70sk82ZNyjpgGU43bLJqT0) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Serum](https://open.spotify.com/album/2rmIPbO5n1W0u8tPjrCu6r) | 4:51 | 2026-10-21 |  |
 | [SEVERANCE](https://open.spotify.com/track/3wZA7CDRqut6aSxvW6tRew) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [SEVERANCE](https://open.spotify.com/album/2HRM6K0oPUvL5lHA1kVSr3) | 3:15 | 2026-04-15 | 2026-06-11 |
 | [Severance](https://open.spotify.com/track/1WseyLAfQ6qxGqwE1yUM3T) | [Saltwound](https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP), [Nick Chance](https://open.spotify.com/artist/07dMUV2P8dzUJnEwZMVskC) | [The Temptation of Pain](https://open.spotify.com/album/3FpwIjm9XsL46kyhNvgScv) | 3:32 | 2024-12-04 | 2025-05-10 |
 | [Severance](https://open.spotify.com/track/2LXQR9gVto8p0z9rrxsDLO) | [Saltwound](https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP), [Nick Chance](https://open.spotify.com/artist/07dMUV2P8dzUJnEwZMVskC) | [Severance](https://open.spotify.com/album/35bpyqX7elYobRNS3o3wH4) | 3:32 | 2024-09-25 | 2024-12-05 |
@@ -790,7 +793,7 @@
 | [Sour Apple](https://open.spotify.com/track/3QfbdcXaCxL3kfdBKp8Jql) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU) | [Sour Apple](https://open.spotify.com/album/2XdLevVBbOnl4svSoDAxTq) | 3:09 | 2025-10-29 | 2025-11-28 |
 | [Source \- Demo](https://open.spotify.com/track/56uiMAu47297Cn9ZWI2zLy) | [linger escape](https://open.spotify.com/artist/2aJTlXX5m6VJwk93HDBylx) | [Source \(Demo\)](https://open.spotify.com/album/2eZ5t5y7n7XX3LflOiGRHq) | 2:43 | 2026-01-14 | 2026-02-12 |
 | [Sparrow](https://open.spotify.com/track/6LbqZon6XGnQZfGGJecds8) | [Inchaos](https://open.spotify.com/artist/7uRRqPHY3Vf2lfQNzYXEcw) | [Sparrow](https://open.spotify.com/album/37TVljnjI0pDUosatJVzkd) | 5:17 | 2024-08-07 | 2025-02-20 |
-| [Speculum Bleed](https://open.spotify.com/track/1svOHHesmIxsUOpOQyfTk8) | [BRAT](https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF) | [Speculum Bleed](https://open.spotify.com/album/2k42fwNdsvWFJ572upQjxw) | 3:34 | 2026-09-30 |  |
+| [Speculum Bleed](https://open.spotify.com/track/1svOHHesmIxsUOpOQyfTk8) | [BRAT](https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF) | [Speculum Bleed](https://open.spotify.com/album/2k42fwNdsvWFJ572upQjxw) | 3:34 | 2026-09-30 | 2026-10-22 |
 | [Speech Patterns](https://open.spotify.com/track/61F6fTAzAMgeHq5RcNtAfm) | [Cut Short](https://open.spotify.com/artist/5Xgr1ntsFfSigqgpcoqRnn) | [Speech Patterns](https://open.spotify.com/album/6TZzdquYz6LlNEiF5SlCAJ) | 4:46 | 2024-10-02 | 2024-12-05 |
 | [Spidersilk](https://open.spotify.com/track/6VG5Y2vUYMUs8sUEbf6tHe) | [IARA](https://open.spotify.com/artist/2hlAIa5gU2LhL2rRGaf588) | [Spidersilk](https://open.spotify.com/album/7pJO4u26yXCa2MUJttErhe) | 3:40 | 2026-07-16 |  |
 | [Spirited Away](https://open.spotify.com/track/3LgP0r3cK0XHSE4zogKtHu) | [Vilamoura](https://open.spotify.com/artist/4ofnDotrMc3tX1bQqgxEGH) | [Lost](https://open.spotify.com/album/0Qo83xvu8gFUB0Jwq3eaYd) | 3:53 | 2026-02-04 | 2026-05-14 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAACIJevR2kQaMLOY1UhpCPEF",
+  "snapshot_id": "atVdgAAAAABsBbWqwx7IwfH6ujp4hfgJ",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gameboi",
-        "url": "https://open.spotify.com/album/5on9WThrgVpfVdxI4zDG9S"
+        "name": "Pop Shit",
+        "url": "https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 153103,
-      "name": "Gameboi",
-      "url": "https://open.spotify.com/track/0zF18WMaq0TvSGvUcU6F0n"
+      "duration_ms": 100444,
+      "name": "Pop Shit",
+      "url": "https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop Shit",
-        "url": "https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729"
+        "name": "Gameboi",
+        "url": "https://open.spotify.com/album/5on9WThrgVpfVdxI4zDG9S"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 100444,
-      "name": "Pop Shit",
-      "url": "https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn"
+      "duration_ms": 153103,
+      "name": "Gameboi",
+      "url": "https://open.spotify.com/track/0zF18WMaq0TvSGvUcU6F0n"
     },
     {
       "added_at": null,
@@ -619,18 +619,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me 10's",
-        "url": "https://open.spotify.com/album/7AjHCXA9aLlZSXrPNBnTji"
+        "name": "Blue Sky (feat. LYZZA & SadBoi)",
+        "url": "https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu"
       },
       "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "LYZZA",
+          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
+        },
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 116800,
-      "name": "Give Me 10's",
-      "url": "https://open.spotify.com/track/6LQztHqq9tpqEvJAcOh4Vy"
+      "duration_ms": 142914,
+      "name": "Blue Sky (feat. LYZZA & SadBoi)",
+      "url": "https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68"
     },
     {
       "added_at": null,
@@ -671,26 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Sky (feat. LYZZA & SadBoi)",
-        "url": "https://open.spotify.com/album/1gAXHK0ShArg1KBrOoKbwu"
+        "name": "Give Me 10's",
+        "url": "https://open.spotify.com/album/7AjHCXA9aLlZSXrPNBnTji"
       },
       "artists": [
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        },
-        {
-          "name": "LYZZA",
-          "url": "https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B"
-        },
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 142914,
-      "name": "Blue Sky (feat. LYZZA & SadBoi)",
-      "url": "https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68"
+      "duration_ms": 116800,
+      "name": "Give Me 10's",
+      "url": "https://open.spotify.com/track/6LQztHqq9tpqEvJAcOh4Vy"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "That's Your Problem (STANK HOEZ)",
+        "url": "https://open.spotify.com/album/53xu3I7eRbaheauEh74JHl"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 153607,
+      "name": "That's Your Problem (STANK HOEZ)",
+      "url": "https://open.spotify.com/track/0U9COGfIWvcxBsv3Bvp7cl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call Me Back",
         "url": "https://open.spotify.com/album/3uZwtg8ZGEzNlVDcJuRMfa"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 176602,
       "name": "Call Me Back",
       "url": "https://open.spotify.com/track/7pqABmG9d2EXsBmXtE6221"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's Your Problem (STANK HOEZ)",
-        "url": "https://open.spotify.com/album/53xu3I7eRbaheauEh74JHl"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 153607,
-      "name": "That's Your Problem (STANK HOEZ)",
-      "url": "https://open.spotify.com/track/0U9COGfIWvcxBsv3Bvp7cl"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sister Wives",
+        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 198842,
+      "name": "Sister Wives",
+      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GRACIAS (Remix)",
         "url": "https://open.spotify.com/album/2cA7MFLrQZ8cUB2iJ0wKUS"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 146377,
       "name": "GRACIAS - Remix",
       "url": "https://open.spotify.com/track/3brSGOCq6CbPLP4b1LBC7H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sister Wives",
-        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 198842,
-      "name": "Sister Wives",
-      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
     },
     {
       "added_at": null,

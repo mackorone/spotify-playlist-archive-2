@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,574 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,575 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,15 +23,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 13 | [Come Alive \- Bonus Track](https://open.spotify.com/track/606YPVeUuvXnxJ19SVI0rg) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Greatest Showman: Reimagined](https://open.spotify.com/album/4dPosP4Io4sDCmeiCxVHW0) | 3:47 |
 | 14 | [Rendezvous](https://open.spotify.com/track/6QaOU7xPK3UJKsoNroRCWn) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 4:37 |
 | 15 | [Hidden Agenda](https://open.spotify.com/track/5MRruRrB235AeY0DISngdw) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 3:53 |
-| 16 | [All the Way](https://open.spotify.com/track/5ln1Tttut50qIL1KJkl3YC) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 3:55 |
-| 17 | [Re\-Rewind \(The Crowd Say Bo Selecta\) \(feat\. Craig David\) \- Radio Edit](https://open.spotify.com/track/4xXRTJXGxt7UBAVVOTV6ZN) | [Artful Dodger](https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Re\-Rewind \(The Crowd Say Bo Selecta\) \(feat\. Craig David\)](https://open.spotify.com/album/4d76RCnCY0TcxGYbyS7vLV) | 4:00 |
+| 16 | [Re\-Rewind \(The Crowd Say Bo Selecta\) \(feat\. Craig David\) \- Radio Edit](https://open.spotify.com/track/4xXRTJXGxt7UBAVVOTV6ZN) | [Artful Dodger](https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Re\-Rewind \(The Crowd Say Bo Selecta\) \(feat\. Craig David\)](https://open.spotify.com/album/4d76RCnCY0TcxGYbyS7vLV) | 4:00 |
+| 17 | [All the Way](https://open.spotify.com/track/5ln1Tttut50qIL1KJkl3YC) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 3:55 |
 | 18 | [Rewind](https://open.spotify.com/track/5hultE7GeExA3RkTvtsear) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 5:33 |
 | 19 | [What's Your Flava? \- Radio Edit](https://open.spotify.com/track/7rVBmwJsClMU6vOlggk5Ad) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 3:35 |
-| 20 | [When the Bassline Drops](https://open.spotify.com/track/1fGjIL2Ike4ypLQEQvQUc9) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:05 |
-| 21 | [Who You Are](https://open.spotify.com/track/6seNHtKOxaLh7tzlRCkHki) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:25 |
+| 20 | [Who You Are](https://open.spotify.com/track/6seNHtKOxaLh7tzlRCkHki) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:25 |
+| 21 | [When the Bassline Drops](https://open.spotify.com/track/1fGjIL2Ike4ypLQEQvQUc9) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:05 |
 | 22 | [Time to Party](https://open.spotify.com/track/6NSmOtlkUnpavCWIuLbZo8) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 4:04 |
-| 23 | [In It With You](https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [In It With You](https://open.spotify.com/album/5jVN3zaYCJrtZFHtZTwESO) | 3:12 |
-| 24 | [I Know You \(feat\. Bastille\)](https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:34 |
+| 23 | [I Know You \(feat\. Bastille\)](https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:34 |
+| 24 | [In It With You](https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [In It With You](https://open.spotify.com/album/5jVN3zaYCJrtZFHtZTwESO) | 3:12 |
 | 25 | [Officially Yours](https://open.spotify.com/track/4sofx1s0nDS4LG1Tx3uxpG) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 3:55 |
 | 26 | [2 Steps Back](https://open.spotify.com/track/4nvhutyXHvt96jqwHwIgR7) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Slicker than Your Average](https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis) | 3:48 |
 | 27 | [Rain](https://open.spotify.com/track/4aTIJmX2tfsw2Lcxo8LwBg) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Commitment](https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 49 | [Abracadabra, Pt\. 2](https://open.spotify.com/track/2PpnFO3ziuVkycFe4ZZOXD) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Abracadabra, Pt\. 2](https://open.spotify.com/album/49sQr4EXfsQiWsCN7lAimX) | 2:47 |
 | 50 | [Hot Stuff \(Let's Dance\)](https://open.spotify.com/track/1xHQVFM5gwg2bZJq9txEzH) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Trust Me](https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K) | 3:39 |
 
-Snapshot ID: `atQMAAAAAAAD0vFCcqO6CHSTfcSPvELC`
+Snapshot ID: `atVdgAAAAABIMjUPCOjRbS2+Ecqu3EIk`

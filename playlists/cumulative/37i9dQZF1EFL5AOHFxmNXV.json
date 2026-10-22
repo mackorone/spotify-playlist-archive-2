@@ -3831,6 +3831,28 @@
     },
     {
       "album": {
+        "name": "The Documentary III",
+        "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285426,
+      "name": "Party At Game's",
+      "url": "https://open.spotify.com/track/74kjgPMWx3Yv8meE9PXrQK"
+    },
+    {
+      "album": {
         "name": "COLOURS",
         "url": "https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz"
       },

@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 | 37 | [Wizja](https://open.spotify.com/track/1eOpOVtylL5ScWpiIpA71m) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Nasze Magiczne Encanto \(Muzyka z filmu\)](https://open.spotify.com/album/1P1p0XsN1qQZmbX24Cy36C) | 2:10 |
 | 38 | [Świeca](https://open.spotify.com/track/4wgl1FUAk9r7YoZFFXoHcg) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Nasze Magiczne Encanto \(Muzyka z filmu\)](https://open.spotify.com/album/1P1p0XsN1qQZmbX24Cy36C) | 3:20 |
 
-Snapshot ID: `atQMAAAAAAAHj5xtHCBTqUDnCn8/jXA8`
+Snapshot ID: `atVdgAAAAABv3AzkwqslBBJ2qU/Z1P2T`

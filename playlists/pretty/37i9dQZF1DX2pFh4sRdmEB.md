@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 
 > Los éxitos de Música Mexicana de ayer y hoy para acompañarte en la troca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,436 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,482 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 | 38 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
 | 39 | [Mi Cómplice](https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 3:09 |
 | 40 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 |
-| 41 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 |
-| 42 | [ULTIMAMENTE](https://open.spotify.com/track/22znRIyi8hIkD07fsAwo7i) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [ONDEADO$](https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK) | 3:28 |
+| 41 | [ULTIMAMENTE](https://open.spotify.com/track/22znRIyi8hIkD07fsAwo7i) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [ONDEADO$](https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK) | 3:28 |
+| 42 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 |
 | 43 | [El Peor De Mis Fracasos \- En Vivo](https://open.spotify.com/track/3MTvkLdzVB2V86oYpDpupp) | [Los Del Roble](https://open.spotify.com/artist/4GP79lfzsxYXZn1HNu31Dj), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [El Gerry Oficial](https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ) | [El Peor De Mis Fracasos \(En Vivo\)](https://open.spotify.com/album/0XJmyq88KBAab5dqKvDhi8) | 3:45 |
 | 44 | [Lado Frágil](https://open.spotify.com/track/4k1bSVbcm2S8f3AXNu1ikQ) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:43 |
 | 45 | [Vete](https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:05 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 | 97 | [Paloma Ajena](https://open.spotify.com/track/0hyWESy54H99d9ho7S0Xnj) | [La Banda Tecno De Beto Y Juan](https://open.spotify.com/artist/1Ex1iwuNNgqHvVFIeiA88I), [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Cumbia Con Clase](https://open.spotify.com/album/5vZ0PtlJPaHVoFEzHlYRop) | 4:14 |
 | 98 | [Se Murió De Amor](https://open.spotify.com/track/5s7yT8TOeW3F2hskLFpUON) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Se Murió De Amor](https://open.spotify.com/album/2gi2cskfEKHfBfMcVtNRgX) | 2:25 |
 | 99 | [RARI](https://open.spotify.com/track/3KTuR5TklU3D3BiBQkWEpI) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [RARI](https://open.spotify.com/album/6zRG79otIy95HLGDv44j1Z) | 2:33 |
-| 100 | [LOS MENSAJES DE WHATSAPP](https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [LOS MENSAJES DE WHATSAPP](https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A) | 3:19 |
+| 100 | [De Compas](https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:45 |
 
 Snapshot ID: `AAAAACdSal3Qs1lzi1Rwq/CqxPl1LHFz`

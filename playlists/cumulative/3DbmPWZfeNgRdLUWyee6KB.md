@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,621 songs - 3 day 22 hr 34 min
+1,625 songs - 3 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,6 +575,7 @@
 | [House of Love](https://open.spotify.com/track/4HysNxpaGjnYRkIBE0Tqil) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [House of Love](https://open.spotify.com/album/55IthOjzheeAnTwVoj6Vfv) | 4:19 | 2026-03-23 | 2026-04-22 |
 | [House of Love \- New Wave](https://open.spotify.com/track/7lSsw6wirwlKWSdsYhQOva) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [House of Love \(New Wave\)](https://open.spotify.com/album/75tS39CPVd8tUeuGvRkHIB) | 4:59 | 2026-06-10 | 2026-07-19 |
 | [House on a Hill](https://open.spotify.com/track/5Fqnq8YvSdg1E5XAILfLRo) | [Kaspar Bakken](https://open.spotify.com/artist/73aB9IUwHBom7J4GdONOky), [Bjun](https://open.spotify.com/artist/0iR66PzQEU9JFsnGycCwze) | [House on a Hill](https://open.spotify.com/album/4sCSHV3fuZrG2vi7MfU04H) | 3:08 | 2026-06-16 | 2026-07-19 |
+| [How Do We Make Sure This Never Happens Again?](https://open.spotify.com/track/4PI1sKx9ofytpdRoRUgaTR) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [How Do We Make Sure This Never Happens Again?](https://open.spotify.com/album/3wGwzIXIg3WSOyp3B0ZLfs) | 3:01 | 2026-10-21 |  |
 | [How It Ends](https://open.spotify.com/track/4gauRBwNouMVSuhhULs53J) | [Amber Sawyer](https://open.spotify.com/artist/1SerujJXOuAslvtCc80X3c) | [How It Ends](https://open.spotify.com/album/1Jh9zDw8HvJINyIFQgh4w1) | 3:17 | 2026-01-08 | 2026-02-03 |
 | [How Lucky](https://open.spotify.com/track/4SVVS4cFwX4k2a35Y27eaH) | [Jill Baldassari](https://open.spotify.com/artist/1kv1SoMj9osbG1MeUzRp12) | [How Lucky](https://open.spotify.com/album/2MiQlo3MZvLUz9YQjkgIaE) | 2:37 | 2026-05-11 | 2026-07-03 |
 | [How'd You Get Here](https://open.spotify.com/track/06YPAAkCdIDHTs3rA1oPjZ) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Talkin' Ugly Truth, Tellin' Pretty Lies](https://open.spotify.com/album/30hSDxBhr4JnFry1yPCHZm) | 3:20 | 2025-12-15 | 2026-01-15 |
@@ -1117,6 +1118,7 @@
 | [REBORN](https://open.spotify.com/track/14xy96mlVAmznohNLXRO5j) | [DISSONANT](https://open.spotify.com/artist/3XYNgEne3ULFkzHdtXXUpl) | [AFTERDOPAMYNE](https://open.spotify.com/album/6KfgIIVc5kUvBnMmQzjob8) | 2:34 | 2026-07-30 | 2026-08-30 |
 | [Red](https://open.spotify.com/track/1nHbcuZgDFlzl3nSzyKDP8) | [Traibal](https://open.spotify.com/artist/4i0IuCytfQc31TpUfEkHDH) | [Red](https://open.spotify.com/album/29Pgnwt520inhPBgYzKOy4) | 2:35 | 2026-06-17 | 2026-07-19 |
 | [Red Golden Years](https://open.spotify.com/track/0lyYJ8i6a1ZqUpABoGNiel) | [Ale Riatti](https://open.spotify.com/artist/3CMakSpatfEpwfe5LlAsFD) | [The Giant](https://open.spotify.com/album/7lOE2qWALgcTOra7Dt48f4) | 3:40 | 2025-09-29 | 2025-11-29 |
+| [Red Rain](https://open.spotify.com/track/67i89p0Q3Y7HX9BjmFOdeo) | [DOXAN](https://open.spotify.com/artist/5X246ObvluQlKKfjS2nZVJ) | [Red Rain](https://open.spotify.com/album/3VGG30u0pIwat7mYrvvOlb) | 5:30 | 2026-10-21 |  |
 | [Reflections](https://open.spotify.com/track/4dWzEmytzQ8wyZ4yq5zCcB) | [Amanda Jean](https://open.spotify.com/artist/6O3ew5mruts7AzkJPT39og) | [Reflections](https://open.spotify.com/album/3Czus5DPB4YVhJV6JFtOOC) | 3:26 | 2026-02-15 | 2026-03-15 |
 | [Remember](https://open.spotify.com/track/0u424XgnRabyvutUeLRNkz) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Remember](https://open.spotify.com/album/6RqaoM6HWeQ3cNgPTX3HAE) | 6:08 | 2026-05-27 | 2026-07-03 |
 | [Remember My Name](https://open.spotify.com/track/31rGnAQ0alrv4NxeGwsBwl) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Marwan Samer](https://open.spotify.com/artist/3epY0zg2YiO3c3g2T7NtvO) | [Remember My Name](https://open.spotify.com/album/0lOse5KKDimfExTph5fhLX) | 6:44 | 2025-09-25 | 2026-01-15 |
@@ -1230,6 +1232,7 @@
 | [Snap](https://open.spotify.com/track/5t2KnkJ348gY4DvYudL47k) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Snap](https://open.spotify.com/album/4ErbPCHn0Fc7yGiNTnoFOr) | 3:23 | 2025-10-17 | 2025-12-21 |
 | [SO HIGH OFF LIFE](https://open.spotify.com/track/0evTfarhFyfb3RvHIcc0ep) | [C\-Zero](https://open.spotify.com/artist/5I8EdBtHPl24xU2dysCj3o) | [SO HIGH OFF LIFE](https://open.spotify.com/album/7g3yswgJrMgVK3xbyQPywX) | 2:53 | 2026-05-10 | 2026-07-19 |
 | [Sogno di follia](https://open.spotify.com/track/2ed0HYFVbRBW3EQm8dxF2B) | [Steve](https://open.spotify.com/artist/5pNVhuDEajMOmhHU9maIqy) | [Sogno di follia](https://open.spotify.com/album/133A99qb7KhTn1XoZjwJT3) | 3:06 | 2026-01-24 | 2026-02-20 |
+| [Sollie Sossa Rocka](https://open.spotify.com/track/4XK3kKEsHftEFEX1WRscRV) | [sol/mond](https://open.spotify.com/artist/0dTgBUJQrNRQHbzRQ6BGi2) | [Sollie Sossa Rocka](https://open.spotify.com/album/7pgCmVfCyVd30NkFZs8cTR) | 2:54 | 2026-10-21 |  |
 | [Somalia](https://open.spotify.com/track/38dSxpbekA3pQ3bHYnfC2E) | [Sillen](https://open.spotify.com/artist/5oa5r5NlMFHCD4FeJAdEJv) | [Somalia](https://open.spotify.com/album/0ddnaGtD14kYiTIcuvUpRj) | 4:45 | 2026-08-18 | 2026-09-17 |
 | [Sombra en el Cristal](https://open.spotify.com/track/0So2kHfNOt8X0y0ups87B6) | [NayroMusic](https://open.spotify.com/artist/4bJJBolygs8H5vlKMNtxKc) | [Sombra en el Cristal](https://open.spotify.com/album/3BCyOML4kmJDK7H9Ic1ETx) | 3:21 | 2026-03-16 | 2026-04-12 |
 | [Some Hearts Dont Break](https://open.spotify.com/track/43gPk2sJOauGMn2PsnrzzW) | [Walters fall](https://open.spotify.com/artist/1vSZimclLOOqCmbFyE0RgJ) | [Some Hearts Dont Break](https://open.spotify.com/album/7p2DAitLxNE8BfFvIrPfL8) | 3:22 | 2026-04-11 | 2026-05-14 |
@@ -1517,6 +1520,7 @@
 | [VÉRTIGO](https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl) | [Xems](https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ) | [VÉRTIGO](https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn) | 2:36 | 2025-12-22 | 2026-01-24 |
 | [Waada Hai Mera](https://open.spotify.com/track/6s0R8tQqKlwMNgcsbNLAZT) | [Melodic Devesh](https://open.spotify.com/artist/2WAxrHRaxuJMtEHNF31qjr), [Akshar Agarwal](https://open.spotify.com/artist/6p7bOaAycZeJNqp29NYPhA) | [Waada Hai Mera](https://open.spotify.com/album/1a01ObNJnZWrFxuDPUas4n) | 2:40 | 2026-03-14 | 2026-04-12 |
 | [Wadaan \(Remastered\)](https://open.spotify.com/track/7olARUTrgpi5FPefp97NLW) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Mauro Tiberi](https://open.spotify.com/artist/1wblvK5tyesqvosyiPamUK) | [Sicilia Araba: Arabic Poets of Sicily 827\-1091 \(Remastered\)](https://open.spotify.com/album/5d75AmGNOpM2U2hBrPuFeA) | 4:04 | 2023-04-20 | 2025-11-29 |
+| [Wahrheit ans Licht](https://open.spotify.com/track/1AbQJmLZW93wmrIFtabzE8) | [Co2y](https://open.spotify.com/artist/2GITK1XRzRP2yGvL9SKSPd) | [Wahrheit ans Licht](https://open.spotify.com/album/1nhJtT23NZ7dpvdZ0o0dNw) | 3:27 | 2026-10-21 |  |
 | [Wait No More](https://open.spotify.com/track/61CP0xYxaPDXjMPv11Txv5) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Surrounded by Spiders](https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT) | 4:04 | 2025-10-12 | 2026-01-15 |
 | [Waiting](https://open.spotify.com/track/0c5W6OR57xVOkeqAnhWron) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [Waiting](https://open.spotify.com/album/3q2XkMDxIjDvbGQsUfI09t) | 3:20 | 2025-10-17 | 2026-04-12 |
 | [Walking with No Destination](https://open.spotify.com/track/5vY5K9qcv51njLiRQzV3Ed) | [Gamina Chad](https://open.spotify.com/artist/45ynquiP8pzBnzr1kxB3tm) | [Walking with No Destination](https://open.spotify.com/album/7qyYDOpHdjovobeBzwmAut) | 3:05 | 2026-06-02 | 2026-07-03 |

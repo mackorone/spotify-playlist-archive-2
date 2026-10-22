@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: めっちゃ美人
 
-2,477 songs - 6 day 6 hr 17 min
+2,477 songs - 6 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -614,6 +614,7 @@
 | [I TASTE YOU](https://open.spotify.com/track/4prrM0vuNMER7rQeZEiAHq) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [BEANIE](https://open.spotify.com/album/0Unuh962T4V4QakKGMahUg) | 3:10 | 2023-03-21 | 2023-03-25 |
 | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/track/2CSbGdlvxO4sGBEL9ZPAcZ) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/album/3CW4GK7h8PO7t18vQHbEoc) | 2:27 | 2026-02-03 | 2026-04-15 |
 | [i was ur girl](https://open.spotify.com/track/6mk4ljqIKz0KpKyBE0mXTB) | [Kinami](https://open.spotify.com/artist/5Zm3vMvLFPUji0Y2txuRdt) | [ご自愛](https://open.spotify.com/album/1S20yx09e37gcIn4xPzskF) | 3:15 | 2022-05-17 | 2022-06-15 |
+| [i won't see you anymore](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 4:02 | 2026-10-20 |  |
 | [I'll be](https://open.spotify.com/track/2Pun36FbfaX0c0DUUiLMaG) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [I'll be](https://open.spotify.com/album/0PrduFwTmKJZWyVFt8akXx) | 3:24 | 2022-10-18 | 2022-12-07 |
 | [I'll be](https://open.spotify.com/track/7BmZWCY2C0uubDcca8vce7) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [I'll be](https://open.spotify.com/album/70oh3PLp2BjmJU0cXhuq7O) | 3:24 | 2022-10-18 | 2022-10-20 |
 | [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 | 2025-07-29 | 2025-09-11 |
@@ -1340,7 +1341,6 @@
 | [Touch](https://open.spotify.com/track/3ryDbC3kOcEsuSG4uRqhSJ) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [Touch](https://open.spotify.com/album/6pQ7DktgOWUl0U4xHZ9PEj) | 3:31 | 2025-06-17 | 2025-09-03 |
 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 | 2025-10-14 | 2026-01-15 |
 | [Toxins](https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8), [TARVETHZ](https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR) | [Toxins](https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR) | 3:00 | 2022-10-04 | 2022-10-19 |
-| [Track 5](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 0:00 | 2026-10-20 |  |
 | [tradition](https://open.spotify.com/track/3jqm9iYwxyYQBM3WLoPiAx) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:27 | 2024-01-24 | 2024-02-07 |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-12 | 2023-11-29 |
 | [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 | 2023-09-12 | 2023-09-14 |

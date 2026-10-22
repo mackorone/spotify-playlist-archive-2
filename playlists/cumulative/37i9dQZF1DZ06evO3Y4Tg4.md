@@ -4,7 +4,7 @@
 
 > This is Dave\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 33 min
+87 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Paper Cuts](https://open.spotify.com/track/1gFMfqyVSXHMgvRloH2gDL) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Paper Cuts](https://open.spotify.com/album/0bOYi2NpSA7BmCwmdszfCI) | 2:59 | 2025-10-28 | 2026-01-01 |
 | [Peligro](https://open.spotify.com/track/1xcmgMoE4taNJLjRgzEljb) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Wamp 2 Dem](https://open.spotify.com/album/7C1MfzZy2I988m1dIEzV6o) | 4:20 | 2025-10-28 |  |
 | [Picture Me](https://open.spotify.com/track/7eFZGDVNCjcB6j3WLzHeLR) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Six Paths](https://open.spotify.com/album/5MEImpWt30V3Huwd5n1XM8) | 4:40 | 2025-10-28 | 2026-03-21 |
-| [Professor X](https://open.spotify.com/track/47lPVbZUh9547oTjx6J4ZV) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Professor X](https://open.spotify.com/album/4sHMUXmWtysmNCuPIDhtS1) | 3:37 | 2025-10-28 |  |
+| [Professor X](https://open.spotify.com/track/3xMEFtDh2TNm949OgKMXPb) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Professor X](https://open.spotify.com/album/4xofmxMaxKG01FRQABxP6y) | 3:37 | 2026-10-22 |  |
+| [Professor X](https://open.spotify.com/track/47lPVbZUh9547oTjx6J4ZV) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Professor X](https://open.spotify.com/album/4sHMUXmWtysmNCuPIDhtS1) | 3:37 | 2025-10-28 | 2026-10-22 |
 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 | 2025-10-28 |  |
 | [Psycho](https://open.spotify.com/track/0FWAIRd9Uz5uNek7cALYNC) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:08 | 2025-10-28 | 2026-01-06 |
 | [Psycho](https://open.spotify.com/track/7454StFiLI0EMexuqtvNv4) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 4:08 | 2026-01-06 |  |
@@ -70,7 +71,8 @@
 | [Starlight](https://open.spotify.com/track/3SeMTUW2nDGEXCuaNXUOob) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Miss The Rage \| Turn Up 2022](https://open.spotify.com/album/6CFTS5YccfX9bdJhR1402p) | 3:31 | 2026-01-15 | 2026-02-11 |
 | [Starlight](https://open.spotify.com/track/3ixYkZI6rGk3ktisaIQrh0) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/6ckPKdfC3EWCy9XRHUWLAT) | 3:31 | 2026-02-11 |  |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2025-10-28 | 2026-01-15 |
-| [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 | 2025-10-28 |  |
+| [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/12UgxYOGvFcuFlIf95vEGr) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 4:02 | 2026-10-22 |  |
+| [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 | 2025-10-28 | 2026-10-22 |
 | [Streatham](https://open.spotify.com/track/02E0dT8YgueiXzJBpOijOs) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 3:25 | 2026-01-06 |  |
 | [Streatham](https://open.spotify.com/track/59PUOc7B0WCNNx8Nr4qaA4) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 3:25 | 2025-10-28 | 2026-01-06 |
 | [System \(feat\. WizKid\)](https://open.spotify.com/track/0McUpkmKSZI5JYbgOYwxPu) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:01 | 2026-01-04 |  |

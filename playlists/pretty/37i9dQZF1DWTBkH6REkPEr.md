@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,334 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,384 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 54 | [Wicked Wonderland](https://open.spotify.com/track/0zQXwzM2gtGfClqBBTsKXp) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Wicked Wonderland](https://open.spotify.com/album/0sto8hJizRoPKSQoFo57d9) | 3:37 |
 | 55 | [High \(feat\. Nicole Millar\)](https://open.spotify.com/track/40PYeQjt149YOfq6H20vmd) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [High \(feat\. Nicole Millar\)](https://open.spotify.com/album/6K62nsscCdtqdBksQpQdon) | 3:48 |
 | 56 | [Wild Eyes](https://open.spotify.com/track/6CZSePF4e6DJbraNkjgJ6d) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [RAVVEL](https://open.spotify.com/artist/0ONN78qj6zuTEsmal4ZJKG) | [Wild Eyes](https://open.spotify.com/album/1mL75lJ1xc6QiePLukGLKB) | 3:24 |
-| 57 | [Something New](https://open.spotify.com/track/5C4NMi4fPpdFPnMZVsyG8H) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:07 |
-| 58 | [All The Way](https://open.spotify.com/track/6g3zlVzqVgg8sqAYDhsWSL) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 2:59 |
+| 57 | [All The Way](https://open.spotify.com/track/6g3zlVzqVgg8sqAYDhsWSL) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 2:59 |
+| 58 | [Something New](https://open.spotify.com/track/5C4NMi4fPpdFPnMZVsyG8H) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 4:07 |
 | 59 | [Do It Again](https://open.spotify.com/track/44eQkbofZeY7rEPnPdobwa) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Do It Again](https://open.spotify.com/album/5rgGVO0mjqDYsHQnD4XkJV) | 5:06 |
 | 60 | [Cocaine Model](https://open.spotify.com/track/5MxDkXp4X06zjnIUqvEvdQ) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Nightday \(EP\)](https://open.spotify.com/album/1sZNLQ70ksj1gVRbaf7yBP) | 4:15 |
 | 61 | [Dance Our Tears Away \(feat\. Kristin Amparo\) \- Radio Edit](https://open.spotify.com/track/4bXqiSIapO9Ybmj5T76Hvy) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm), [Kristin Amparo](https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR) | [Far from Home](https://open.spotify.com/album/5sxjm2ovH0G0sHl2yiIc0T) | 3:00 |

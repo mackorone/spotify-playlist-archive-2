@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1155422,
+  "num_followers": 1155327,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -335,26 +335,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        }
-      ],
-      "duration_ms": 176965,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Fancy That",
         "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
       },
@@ -387,18 +367,22 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39"
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Lady Lady",
-      "url": "https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r"
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -415,6 +399,22 @@
       "duration_ms": 214800,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Lady Lady",
+      "url": "https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "boom",
-        "url": "https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "boom",
-      "url": "https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 243667,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/3KcmK26eTYJ3Rz1Vb8qs5Z"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "boom",
+        "url": "https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "boom",
+      "url": "https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Virgin",
-        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 176829,
-      "name": "If She Could See Me Now",
-      "url": "https://open.spotify.com/track/75GHF6q3DHtjNDVISy62rk"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Hemingway",
         "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 196697,
       "name": "Hemingway",
       "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "Virgin",
+        "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 176829,
+      "name": "If She Could See Me Now",
+      "url": "https://open.spotify.com/track/75GHF6q3DHtjNDVISy62rk"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt"
-      },
-      "artists": [
-        {
-          "name": "George Alice",
-          "url": "https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL"
-        }
-      ],
-      "duration_ms": 171833,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 177118,
       "name": "Crush",
       "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5IynLYV3MapaGkcVNAezlt"
+      },
+      "artists": [
+        {
+          "name": "George Alice",
+          "url": "https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL"
+        }
+      ],
+      "duration_ms": 171833,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3jGIqKgMsSAx7KAdDqWvjF"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK"
+        "name": "Lovesick Lullaby",
+        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 187009,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F"
+      "duration_ms": 175134,
+      "name": "Lovesick Lullaby",
+      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
     }
   ],
   "unique_name": "Pop Right Now",

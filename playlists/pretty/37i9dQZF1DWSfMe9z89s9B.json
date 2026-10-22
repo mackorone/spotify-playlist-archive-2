@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: Q",
-  "num_followers": 1306547,
+  "num_followers": 1306473,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/02UI5paChJe2PHsi0nikly"
     },
     {
-      "added_at": "2026-04-24 04:14:21",
-      "album": {
-        "name": "sweet talk",
-        "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
-      },
-      "artists": [
-        {
-          "name": "nomi.",
-          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
-        }
-      ],
-      "duration_ms": 146315,
-      "name": "sweet talk",
-      "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
-    },
-    {
       "added_at": "2025-08-22 10:33:51",
       "album": {
         "name": "To Dry a Tear",
@@ -1371,6 +1355,22 @@
       "duration_ms": 209589,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
+    },
+    {
+      "added_at": "2026-04-24 04:14:21",
+      "album": {
+        "name": "sweet talk",
+        "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
+      },
+      "artists": [
+        {
+          "name": "nomi.",
+          "url": "https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4"
+        }
+      ],
+      "duration_ms": 146315,
+      "name": "sweet talk",
+      "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
     },
     {
       "added_at": "2026-04-03 07:16:37",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Surface Tension",
-        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
-      },
-      "artists": [
-        {
-          "name": "Annahstasia",
-          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Cranes in the Sky",
@@ -1459,6 +1443,22 @@
       "duration_ms": 268875,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Surface Tension",
+        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "duration_ms": 241040,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
     },
     {
       "added_at": "2026-07-31 07:26:27",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK"
     },
     {
-      "added_at": "2024-09-27 23:55:30",
-      "album": {
-        "name": "don't text me back",
-        "url": "https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c"
-      },
-      "artists": [
-        {
-          "name": "Rowena Fysx",
-          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "all over u",
-      "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
-    },
-    {
       "added_at": "2026-10-16 20:15:49",
       "album": {
         "name": "Honor Me",
@@ -1625,20 +1609,20 @@
       "url": "https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as"
     },
     {
-      "added_at": "2025-08-15 06:41:00",
+      "added_at": "2024-09-27 23:55:30",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+        "name": "don't text me back",
+        "url": "https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c"
       },
       "artists": [
         {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
         }
       ],
-      "duration_ms": 207950,
-      "name": "Another Baby!",
-      "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
+      "duration_ms": 201000,
+      "name": "all over u",
+      "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
     },
     {
       "added_at": "2025-08-22 10:33:51",
@@ -1655,6 +1639,22 @@
       "duration_ms": 240263,
       "name": "Lord, Forgive Me",
       "url": "https://open.spotify.com/track/6OoRRvJWQdAL4nOIFrVKv9"
+    },
+    {
+      "added_at": "2025-08-15 06:41:00",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 207950,
+      "name": "Another Baby!",
+      "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
     },
     {
       "added_at": "2026-04-03 07:16:37",
@@ -1689,22 +1689,6 @@
       "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
-      "added_at": "2025-10-17 06:22:08",
-      "album": {
-        "name": "baby",
-        "url": "https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 183269,
-      "name": "baby",
-      "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
-    },
-    {
       "added_at": "2024-09-27 23:55:30",
       "album": {
         "name": "Songs About You Specifically",
@@ -1719,6 +1703,22 @@
       "duration_ms": 163931,
       "name": "Akira",
       "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
+    },
+    {
+      "added_at": "2025-10-17 06:22:08",
+      "album": {
+        "name": "baby",
+        "url": "https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 183269,
+      "name": "baby",
+      "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
     },
     {
       "added_at": "2025-02-14 07:50:47",
@@ -1833,6 +1833,26 @@
       "url": "https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ"
     },
     {
+      "added_at": "2025-02-07 08:30:49",
+      "album": {
+        "name": "WONDERLOVE",
+        "url": "https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 184227,
+      "name": "LUV IN DA 6 (with Smino)",
+      "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
+    },
+    {
       "added_at": "2026-07-17 05:33:57",
       "album": {
         "name": "MEMORIES FOR SALE ---AT---> 66 GREENE ST SOHO NY (DELUXE)",
@@ -1855,26 +1875,6 @@
       "duration_ms": 206060,
       "name": "the truth at a distance",
       "url": "https://open.spotify.com/track/2VUabKSbAUgD4sLDf3EQhI"
-    },
-    {
-      "added_at": "2025-02-07 08:30:49",
-      "album": {
-        "name": "WONDERLOVE",
-        "url": "https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 184227,
-      "name": "LUV IN DA 6 (with Smino)",
-      "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -1949,26 +1949,6 @@
       "url": "https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT"
     },
     {
-      "added_at": "2025-06-13 04:00:56",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        },
-        {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"
-    },
-    {
       "added_at": "2025-04-11 05:53:52",
       "album": {
         "name": "All American F\u2b50\ufe0fckBoy",
@@ -2005,6 +1985,42 @@
       "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
     },
     {
+      "added_at": "2025-06-13 04:00:56",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        },
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"
+    },
+    {
+      "added_at": "2025-09-07 01:24:20",
+      "album": {
+        "name": "New Martyrs (Ride 4 U)",
+        "url": "https://open.spotify.com/album/2JsUcLi6QE4l46IR4U4lMU"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 210052,
+      "name": "New Martyrs (Ride 4 U)",
+      "url": "https://open.spotify.com/track/1toHY5SPpeCjHlfR6QROkJ"
+    },
+    {
       "added_at": "2025-05-09 04:12:41",
       "album": {
         "name": "I Like It I Like It",
@@ -2039,22 +2055,6 @@
       "duration_ms": 178902,
       "name": "be with ya",
       "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
-    },
-    {
-      "added_at": "2025-09-07 01:24:20",
-      "album": {
-        "name": "New Martyrs (Ride 4 U)",
-        "url": "https://open.spotify.com/album/2JsUcLi6QE4l46IR4U4lMU"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 210052,
-      "name": "New Martyrs (Ride 4 U)",
-      "url": "https://open.spotify.com/track/1toHY5SPpeCjHlfR6QROkJ"
     },
     {
       "added_at": "2024-06-28 18:42:06",
@@ -2273,22 +2273,6 @@
       "url": "https://open.spotify.com/track/7FmXal4bWDvKFIpZw7VTiB"
     },
     {
-      "added_at": "2026-07-31 07:26:27",
-      "album": {
-        "name": "I Can See",
-        "url": "https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 252144,
-      "name": "Barii",
-      "url": "https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm"
-    },
-    {
       "added_at": "2026-10-16 20:15:49",
       "album": {
         "name": "ten thousand mistakes",
@@ -2319,6 +2303,22 @@
       "duration_ms": 233824,
       "name": "bits + pieces",
       "url": "https://open.spotify.com/track/5el2DZSkpldGfM8y2sTeXv"
+    },
+    {
+      "added_at": "2026-07-31 07:26:27",
+      "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 252144,
+      "name": "Barii",
+      "url": "https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm"
     },
     {
       "added_at": "2024-07-19 15:05:24",
@@ -2473,10 +2473,10 @@
       "url": "https://open.spotify.com/track/0UNHlFaWHa66B37wcGVn0O"
     },
     {
-      "added_at": "2025-04-25 06:37:11",
+      "added_at": "2024-12-06 07:13:57",
       "album": {
-        "name": "Dark Nights",
-        "url": "https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE"
+        "name": "Rolling Stone",
+        "url": "https://open.spotify.com/album/2NCjWghja3xm14FIxa5mfv"
       },
       "artists": [
         {
@@ -2484,9 +2484,25 @@
           "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
         }
       ],
-      "duration_ms": 192279,
-      "name": "What I Used To Get Into",
-      "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
+      "duration_ms": 118813,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL"
+    },
+    {
+      "added_at": "2024-06-14 07:30:32",
+      "album": {
+        "name": "Cruzafied",
+        "url": "https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn"
     },
     {
       "added_at": "2026-03-13 08:17:11",
@@ -2507,22 +2523,6 @@
       "duration_ms": 194040,
       "name": "ThunderWave",
       "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
-    },
-    {
-      "added_at": "2024-06-14 07:30:32",
-      "album": {
-        "name": "Cruzafied",
-        "url": "https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv"
-      },
-      "artists": [
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn"
     },
     {
       "added_at": "2024-10-20 00:14:41",
@@ -2557,10 +2557,10 @@
       "url": "https://open.spotify.com/track/127BebV29M41FmJqcl8k20"
     },
     {
-      "added_at": "2024-12-06 07:13:57",
+      "added_at": "2025-04-25 06:37:11",
       "album": {
-        "name": "Rolling Stone",
-        "url": "https://open.spotify.com/album/2NCjWghja3xm14FIxa5mfv"
+        "name": "Dark Nights",
+        "url": "https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE"
       },
       "artists": [
         {
@@ -2568,9 +2568,9 @@
           "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
         }
       ],
-      "duration_ms": 118813,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL"
+      "duration_ms": 192279,
+      "name": "What I Used To Get Into",
+      "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
     },
     {
       "added_at": "2026-03-06 06:14:13",

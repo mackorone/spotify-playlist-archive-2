@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,296 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,295 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 49 | [Dirty Girl](https://open.spotify.com/track/5idXmIFpLBV6A3fFSKkSvy) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Ms\. Out Tonight](https://open.spotify.com/album/63DaQllnJKqmCIwHveb4A7) | 3:29 |
 | 50 | [Do Me Like That \(feat\. Buddy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/track/3SbeHIDfwxUYdDFfjg8wmY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Do Me Like That \(feat\. Buddy\) \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/album/6PVHwuJPqw70S9a0BHPEEd) | 3:02 |
 
-Snapshot ID: `atQMAAAAAAAWEGY1IxqKrVNZchKq2pjw`
+Snapshot ID: `atVdgAAAAABeCnpTkVjyjXo3AlTEmUHR`

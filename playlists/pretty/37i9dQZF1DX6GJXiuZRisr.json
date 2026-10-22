@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1619594,
+  "num_followers": 1619607,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
-        "name": "Deep Dive",
-        "url": "https://open.spotify.com/album/3Ul4H9dSedDtMdT5YMRYTE"
-      },
-      "artists": [
-        {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
-        }
-      ],
-      "duration_ms": 220262,
-      "name": "Deep Dive",
-      "url": "https://open.spotify.com/track/5I8YZqgeADPkF3rUyAhpuz"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
         "name": "The Last Time",
         "url": "https://open.spotify.com/album/64hTWY5vA3Z79w0EuDSBIQ"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 211115,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/0zfYsG5xe0dMyQWrV68giY"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/3Ul4H9dSedDtMdT5YMRYTE"
+      },
+      "artists": [
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+        }
+      ],
+      "duration_ms": 220262,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/5I8YZqgeADPkF3rUyAhpuz"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/5m5Ymv0cF173Zz1GnaSVUO"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 267241,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/3iy57ZiUayRdFStKC2s9tq"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/7k18E2rVMfzex1XQ6TTVzG"
       },
@@ -1375,26 +1395,6 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
-      },
-      "artists": [
-        {
-          "name": "YOTTO",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        },
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 230487,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
         "name": "On Fire",
         "url": "https://open.spotify.com/album/5ywMl2Va7lGZJq4LsJOiI1"
       },
@@ -1411,6 +1411,26 @@
       "duration_ms": 194000,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/1T1vC3MiuhjmeGmiZzIQBn"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/0H4wuU2aIXCZJCSL2E5y8W"
+      },
+      "artists": [
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 230487,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/6SPWJ9hUFMA69MaGwUsRJi"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1435,26 +1455,6 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/5m5Ymv0cF173Zz1GnaSVUO"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 267241,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/3iy57ZiUayRdFStKC2s9tq"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
         "name": "Fine Day",
         "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
       },
@@ -1475,6 +1475,22 @@
       "duration_ms": 214946,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
+        "name": "Too High",
+        "url": "https://open.spotify.com/album/6YM7T0RhXNIUaZoF2ebETy"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "duration_ms": 367973,
+      "name": "Too High",
+      "url": "https://open.spotify.com/track/7GsgjLyOXrcGHELD2Zt5dl"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1543,22 +1559,6 @@
       "duration_ms": 211875,
       "name": "Beg You",
       "url": "https://open.spotify.com/track/2qUH8eikN8whXYSG9Pyu2l"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
-        "name": "Too High",
-        "url": "https://open.spotify.com/album/6YM7T0RhXNIUaZoF2ebETy"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        }
-      ],
-      "duration_ms": 367973,
-      "name": "Too High",
-      "url": "https://open.spotify.com/track/7GsgjLyOXrcGHELD2Zt5dl"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
-        "name": "Bounce Music",
-        "url": "https://open.spotify.com/album/1duGEpqKEjHGRQGvxc7n1G"
-      },
-      "artists": [
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        }
-      ],
-      "duration_ms": 230769,
-      "name": "Bounce Music",
-      "url": "https://open.spotify.com/track/0gOnBcr0GJtmduY7oijUuP"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
         "name": "London To Buenos Aires",
         "url": "https://open.spotify.com/album/23voORn42hd5caxnLbTJwy"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 232607,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
+        "name": "Bounce Music",
+        "url": "https://open.spotify.com/album/1duGEpqKEjHGRQGvxc7n1G"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Bounce Music",
+      "url": "https://open.spotify.com/track/0gOnBcr0GJtmduY7oijUuP"
     },
     {
       "added_at": "2026-10-16 04:00:45",
@@ -1935,26 +1935,6 @@
     {
       "added_at": "2026-10-16 04:00:45",
       "album": {
-        "name": "I Hear No More",
-        "url": "https://open.spotify.com/album/638b3Yd7HPTBCs9azC2Abo"
-      },
-      "artists": [
-        {
-          "name": "Lumine",
-          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
-        },
-        {
-          "name": "Gino Ingrosso",
-          "url": "https://open.spotify.com/artist/4hXieI14EhBCUy3h4y4hNu"
-        }
-      ],
-      "duration_ms": 167792,
-      "name": "I Hear No More",
-      "url": "https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK"
-    },
-    {
-      "added_at": "2026-10-16 04:00:45",
-      "album": {
         "name": "Blue Symphony",
         "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
       },
@@ -1971,6 +1951,26 @@
       "duration_ms": 203225,
       "name": "Blue Symphony",
       "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
+    },
+    {
+      "added_at": "2026-10-16 04:00:45",
+      "album": {
+        "name": "I Hear No More",
+        "url": "https://open.spotify.com/album/638b3Yd7HPTBCs9azC2Abo"
+      },
+      "artists": [
+        {
+          "name": "Lumine",
+          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
+        },
+        {
+          "name": "Gino Ingrosso",
+          "url": "https://open.spotify.com/artist/4hXieI14EhBCUy3h4y4hNu"
+        }
+      ],
+      "duration_ms": 167792,
+      "name": "I Hear No More",
+      "url": "https://open.spotify.com/track/3oY5EVIaukufx6K7FNoNLK"
     },
     {
       "added_at": "2026-10-16 04:00:45",

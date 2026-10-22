@@ -1,13 +1,101 @@
 {
-  "description": "Discover the future of Punjabi Pop! Cover: Jind",
-  "num_followers": 13336,
+  "description": "Discover the future of Punjabi Pop! Cover: Armaan Arora",
+  "num_followers": 13350,
   "original_name": "Fresh Finds Punjabi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPt9+6DFXWSHXM9TUWLC815/Oa5t",
+  "snapshot_id": "AAAAAJRtUtVNiWo30Aelt8oApSay5XAF",
   "tracks": [
+    {
+      "added_at": "2026-10-21 07:29:11",
+      "album": {
+        "name": "Ik Pase Tu",
+        "url": "https://open.spotify.com/album/64NE3zCIlgTBzMUtm7qva8"
+      },
+      "artists": [
+        {
+          "name": "Armaan Arora",
+          "url": "https://open.spotify.com/artist/1OnsQR4MDhLVFXXr8qQgiZ"
+        }
+      ],
+      "duration_ms": 169906,
+      "name": "Ik Pase Tu",
+      "url": "https://open.spotify.com/track/38FOtFz0zgZpep15jTYmNq"
+    },
+    {
+      "added_at": "2026-10-21 07:29:11",
+      "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/2CRyb57aJgzNcm9nJjpAfF"
+      },
+      "artists": [
+        {
+          "name": "Yuvraj",
+          "url": "https://open.spotify.com/artist/0OsAgjLycxTWDMK25Avcvw"
+        },
+        {
+          "name": "JayB Singh",
+          "url": "https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM"
+        },
+        {
+          "name": "Karan Thabal",
+          "url": "https://open.spotify.com/artist/62qB87ja0UIqQH2sG8PyT8"
+        }
+      ],
+      "duration_ms": 160851,
+      "name": "EUPHORIA",
+      "url": "https://open.spotify.com/track/31j0HcGYXSABUvNeXyHR0r"
+    },
+    {
+      "added_at": "2026-10-21 07:29:11",
+      "album": {
+        "name": "Mera Naa Sohniye",
+        "url": "https://open.spotify.com/album/4uRUMW6STGIQWxDgC3e7C9"
+      },
+      "artists": [
+        {
+          "name": "Saji Singh",
+          "url": "https://open.spotify.com/artist/4SnMqyEnyESj2voS8jPZE6"
+        }
+      ],
+      "duration_ms": 194117,
+      "name": "Mera Naa Sohniye",
+      "url": "https://open.spotify.com/track/2aguK1I0kHoOPX8Ac3x7Vt"
+    },
+    {
+      "added_at": "2026-10-21 07:29:11",
+      "album": {
+        "name": "Mirza",
+        "url": "https://open.spotify.com/album/7jV6D2HqbQ69TXbwTw3Xw3"
+      },
+      "artists": [
+        {
+          "name": "Prabh Rai",
+          "url": "https://open.spotify.com/artist/6BNvL3e1zBIf1YWCOVgFwb"
+        }
+      ],
+      "duration_ms": 231999,
+      "name": "Mirza",
+      "url": "https://open.spotify.com/track/2piCTSIH4YF4F4w5DBXyOz"
+    },
+    {
+      "added_at": "2026-10-21 07:29:11",
+      "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/3eEZfmcRd3x0Mh8Yd24iSy"
+      },
+      "artists": [
+        {
+          "name": "Leo Rana",
+          "url": "https://open.spotify.com/artist/3tAjZSorMLv8rskQQy0DLu"
+        }
+      ],
+      "duration_ms": 167730,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/5VC6NGX38bYaR6W5mFpDIB"
+    },
     {
       "added_at": "2026-10-14 07:29:16",
       "album": {
@@ -895,98 +983,6 @@
       "duration_ms": 174000,
       "name": "Kankaan",
       "url": "https://open.spotify.com/track/2ztRxRCLjEnfTbPB5GoaWJ"
-    },
-    {
-      "added_at": "2026-10-14 07:29:16",
-      "album": {
-        "name": "After You",
-        "url": "https://open.spotify.com/album/1iKfMVpB1ALzDh3sdwKb3s"
-      },
-      "artists": [
-        {
-          "name": "Revaan",
-          "url": "https://open.spotify.com/artist/5FFNq9NGYHoxLvRlC61A1N"
-        }
-      ],
-      "duration_ms": 209267,
-      "name": "After You",
-      "url": "https://open.spotify.com/track/5le3wiWUrfDd8GnDZuzaNv"
-    },
-    {
-      "added_at": "2026-10-14 07:29:16",
-      "album": {
-        "name": "Riwaj",
-        "url": "https://open.spotify.com/album/3rA6Vq8AAyqHrBLomurbu5"
-      },
-      "artists": [
-        {
-          "name": "INDER",
-          "url": "https://open.spotify.com/artist/6sjMOLksT8YgJM6F6uXzJs"
-        }
-      ],
-      "duration_ms": 147127,
-      "name": "Riwaj",
-      "url": "https://open.spotify.com/track/35MjBXwTX7oMDTuq11SGys"
-    },
-    {
-      "added_at": "2026-10-14 07:29:16",
-      "album": {
-        "name": "Flex",
-        "url": "https://open.spotify.com/album/1rjcDZ5WHfnzotiFaWSZzV"
-      },
-      "artists": [
-        {
-          "name": "Guru Mental",
-          "url": "https://open.spotify.com/artist/0HeA10hHYDU062NZIeEzQk"
-        },
-        {
-          "name": "Dipsy",
-          "url": "https://open.spotify.com/artist/00SNUJtRWeCdnwwZxWfEPU"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/7ntWY93MDg3ElnYC9Cv1dn"
-    },
-    {
-      "added_at": "2026-10-14 07:29:16",
-      "album": {
-        "name": "4 You",
-        "url": "https://open.spotify.com/album/6c25c0fICiBnxMkemUjvOi"
-      },
-      "artists": [
-        {
-          "name": "PAMMA",
-          "url": "https://open.spotify.com/artist/3NVXC77TBtcTwCHDygf6WC"
-        },
-        {
-          "name": "Gill Saab Music",
-          "url": "https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "4 You",
-      "url": "https://open.spotify.com/track/1hDDl7BVn2GBvocFsquOE5"
-    },
-    {
-      "added_at": "2026-10-14 07:29:16",
-      "album": {
-        "name": "Dedaar",
-        "url": "https://open.spotify.com/album/79OlIJFOwCzew6PrHHyAjw"
-      },
-      "artists": [
-        {
-          "name": "Deep Harks",
-          "url": "https://open.spotify.com/artist/4hWWwtnhNUuYLPzE82u0Ou"
-        },
-        {
-          "name": "Abhinsane",
-          "url": "https://open.spotify.com/artist/2d54dleFuZwm97DuDuvCGq"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "Dedaar",
-      "url": "https://open.spotify.com/track/5F901IXR3TVGwFbQWIbZ5O"
     }
   ],
   "unique_name": "Fresh Finds Punjabi",

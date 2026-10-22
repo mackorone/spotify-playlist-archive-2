@@ -81,6 +81,32 @@
     },
     {
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/1NwCnD52aKO3isV3Zgqnqn"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "Henri Bergmann",
+          "url": "https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo"
+        },
+        {
+          "name": "Mario Eighta",
+          "url": "https://open.spotify.com/artist/02Tau9NwwC9Ipv4ckCdS3m"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165692,
+      "name": "17",
+      "url": "https://open.spotify.com/track/1H3ognNITW8bmuYl2BEdf1"
+    },
+    {
+      "album": {
         "name": "18",
         "url": "https://open.spotify.com/album/3VmQF84374S6TgqE5ZTJ8J"
       },
@@ -2388,7 +2414,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 170322,
       "name": "Nomacita",
       "url": "https://open.spotify.com/track/4NjCBS4wF0lFO5wbYBQuIt"

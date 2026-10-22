@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,978 likes - 35 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,977 likes - 35 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 3 | [ORAL HEX \(spell on you\)](https://open.spotify.com/track/24GULBTSEbv8y8mKgF3IhQ) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [ORAL HEX \(spell on you\)](https://open.spotify.com/album/3LAWMvJxRd4uQFJiyQQIbN) | 3:14 |
 | 4 | [call me daddy](https://open.spotify.com/track/3jO8dlm0m0sCyt4OcmrG05) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [nympho](https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK) | 2:16 |
 | 5 | [Raised by Wolves](https://open.spotify.com/track/7al5J4fuvbQaLoRUdbzWb2) | [Jayelle](https://open.spotify.com/artist/4tViCgS269vVyQdVPcmKwV), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Raised by Wolves](https://open.spotify.com/album/09Ai9S7gX4xzkfFdaqSFND) | 2:32 |
-| 6 | [End Of The World](https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS) | 2:38 |
-| 7 | [Watch Me](https://open.spotify.com/track/34pjQ4XCtI9gX83heBGuw6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/4SpyKfOIcYmiXvxLU6co2X) | 2:17 |
+| 6 | [Watch Me](https://open.spotify.com/track/34pjQ4XCtI9gX83heBGuw6) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/4SpyKfOIcYmiXvxLU6co2X) | 2:17 |
+| 7 | [End Of The World](https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS) | 2:38 |
 | 8 | [SQUEAK](https://open.spotify.com/track/54AkXQ3AG8tR62EJcF19Er) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [nympho](https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK) | 2:03 |
 | 9 | [FEAST \(Let’s Eat Yuh Yuh\)](https://open.spotify.com/track/7HZdpMX26OZywTZphD6K3H) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST](https://open.spotify.com/album/76l5VtzukIjvfZ28GYdx5n) | 2:05 |
 | 10 | [Personal Pornstar](https://open.spotify.com/track/6bKpTpTcQ4imWaP4uMMJmb) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [DROOL](https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI) | 2:49 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 21 | [Incognito](https://open.spotify.com/track/7y1XREM9DIRIH5FwQcwOaB) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST \(Let’s Eat Yuh Yuh\)](https://open.spotify.com/album/6AaZk65wZdhu7GtKTM9dPx) | 2:39 |
 | 22 | [BOYS BOYS BOYS](https://open.spotify.com/track/1b5mWKFDR33vyOFrUwBWQw) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [BOYS BOYS BOYS](https://open.spotify.com/album/5vy9KsvFsT7WLfbwx96XG8) | 2:10 |
 | 23 | [ENEMIES \(feat\. bludnymph & Shift K3Y\)](https://open.spotify.com/track/3iOSOAFB0Rv1cNZM5Jwy4P) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 2:26 |
-| 24 | [bubblegum pink](https://open.spotify.com/track/6rRXZ8p3c7fMrayNYz296C) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [nympho](https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK) | 2:32 |
+| 24 | [sex toy](https://open.spotify.com/track/19ksJ9fzQYvTQjRR6o743N) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [nympho](https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK) | 2:20 |
 | 25 | [Lickity Splickity](https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lickity Splickity](https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP) | 2:29 |
 | 26 | [Popsicle](https://open.spotify.com/track/7BcQVXI8S1PQVNhuX3Z6uH) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Popsicle \(Extra Sticky\)](https://open.spotify.com/album/0eM1beQrKuuFSAWCqBHWlg) | 1:50 |
 | 27 | [Praise](https://open.spotify.com/track/2qovhIwmJitHmE9D8P9EjK) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [GRACE](https://open.spotify.com/album/7iT2FObD258Tu1W2YUHZg5) | 3:44 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 34 | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6) | 2:30 |
 | 35 | [Wishin](https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Indigowavv](https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z) | [Wishin](https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv) | 2:53 |
 
-Snapshot ID: `atQMAAAAAADVvmbvQPCMub8rwytgz/Wy`
+Snapshot ID: `atVdgAAAAADe7IrHiE9iNeOvanV1iK+O`

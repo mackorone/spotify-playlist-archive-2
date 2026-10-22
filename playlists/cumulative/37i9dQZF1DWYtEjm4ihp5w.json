@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 174227,
       "name": "DARBEDA",
       "url": "https://open.spotify.com/track/0ZjqXH9bjK0N9lnmDz0c6d"
@@ -3346,7 +3346,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 199663,
       "name": "Fat L7al",
       "url": "https://open.spotify.com/track/6NkranQpHTZTmgxka20LAe"
@@ -7596,7 +7596,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 192000,
       "name": "PER LA VITA",
       "url": "https://open.spotify.com/track/3zosYc9OVj4kZWrbdarnTL"
@@ -8225,6 +8225,28 @@
     },
     {
       "album": {
+        "name": "Risala",
+        "url": "https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU"
+      },
+      "artists": [
+        {
+          "name": "Kira7",
+          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
+        },
+        {
+          "name": "FRIZZY",
+          "url": "https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Risala",
+      "url": "https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF"
+    },
+    {
+      "album": {
         "name": "Everything Asfi",
         "url": "https://open.spotify.com/album/50ptsaVhrPW6aJfGhbWdmF"
       },
@@ -8352,6 +8374,28 @@
       "duration_ms": 176326,
       "name": "Rwicha",
       "url": "https://open.spotify.com/track/05CEmWl3xGITe99ZZkgl2c"
+    },
+    {
+      "album": {
+        "name": "OLYMPICS",
+        "url": "https://open.spotify.com/album/4cpZ5lDJdxU4AxY9G42dp8"
+      },
+      "artists": [
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        },
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205112,
+      "name": "RWINA",
+      "url": "https://open.spotify.com/track/1wNQEZIB3NGITP3hXO855l"
     },
     {
       "album": {

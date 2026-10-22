@@ -3057,6 +3057,28 @@
     },
     {
       "album": {
+        "name": "HISAAB",
+        "url": "https://open.spotify.com/album/6N8K0OL3KMROwl2EwewZ26"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143644,
+      "name": "HISAAB",
+      "url": "https://open.spotify.com/track/0R9xT7EWcutJxpCu5PKRUq"
+    },
+    {
+      "album": {
         "name": "Ho Jaane Do",
         "url": "https://open.spotify.com/album/5BDwUl97v4DscgoMnuhL1C"
       },
@@ -5242,7 +5264,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 154616,
       "name": "Maan Jao",
       "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
@@ -5630,7 +5652,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 224284,
       "name": "Mere Qareeb",
       "url": "https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC"
@@ -6754,6 +6776,32 @@
       "duration_ms": 237980,
       "name": "Pukaroge",
       "url": "https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr"
+    },
+    {
+      "album": {
+        "name": "Punchiri",
+        "url": "https://open.spotify.com/album/3dqZQWkJ9uOvWIoz4TK2UY"
+      },
+      "artists": [
+        {
+          "name": "Eechuu",
+          "url": "https://open.spotify.com/artist/4CB5jLRM1EUNK2y6l7kixx"
+        },
+        {
+          "name": "Suhas",
+          "url": "https://open.spotify.com/artist/4p2Sm00Hqt9ICdLO7ASkcO"
+        },
+        {
+          "name": "Chris Wayne",
+          "url": "https://open.spotify.com/artist/5GkVAEDUPPeV3INTYATuzc"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163759,
+      "name": "Punchiri",
+      "url": "https://open.spotify.com/track/1CJOj6Bs5OIasNTROmfWFJ"
     },
     {
       "album": {

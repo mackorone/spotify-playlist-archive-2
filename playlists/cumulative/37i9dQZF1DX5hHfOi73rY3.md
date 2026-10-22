@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-301 songs - 20 hr 13 min
+302 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Finder](https://open.spotify.com/track/2DNO2h1Qsc0vPAyLGReDvN) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 5:49 | 2020-11-06 | 2024-01-18 |
 | [Finder \- Original](https://open.spotify.com/track/2urGLvUk2UxfGZ7oFxQmuN) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/1ubRC7bEVKoI7sD5mqXrFs) | 5:49 | 2020-11-06 | 2022-07-29 |
 | [Finder \- Radio\-Edit](https://open.spotify.com/track/7az0Hd7YKK5UT10M1nG56c) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 3:26 | 2024-01-17 | 2025-05-17 |
+| [Fool Proof](https://open.spotify.com/track/6jk5SRxOPmWX2Qgf6tVMWb) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Fool Proof](https://open.spotify.com/album/7kDqMUWxjViqAv5USZa8ig) | 3:56 | 2026-10-16 |  |
 | [For The Weekend](https://open.spotify.com/track/3TIVP3c5tT1rlDjAmzSaqF) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [New Machine](https://open.spotify.com/artist/6wSxVh97cc5ZTSXvPgvv81) | [For The Weekend](https://open.spotify.com/album/7pyBFzdn9AmZilactoHqeX) | 2:49 | 2024-09-12 | 2024-10-05 |
 | [Forget](https://open.spotify.com/track/39WhV9YklFbeygAz7nhBkq) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Armada Deep House Selection, Vol\. 4 \(The Finest Deep House Tunes\)](https://open.spotify.com/album/2i9yjYi16dZwC5iwTFWgXG) | 3:25 | 2024-01-17 | 2025-02-21 |
 | [FREAK IN THE SHEETS](https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [FREAK IN THE SHEETS](https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi) | 3:13 | 2024-10-25 | 2026-10-07 |
@@ -218,7 +219,7 @@
 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 | 2025-11-28 |  |
 | [Promises](https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:17 | 2020-11-06 | 2024-03-04 |
 | [Pumpin \- Robbie Doherty Remix](https://open.spotify.com/track/5UHWWKPPfPhMnq2qub3Fwh) | [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Pumpin \(Robbie Doherty Remix\)](https://open.spotify.com/album/0pwEhzuMwkadGXLd7ZFEeK) | 5:30 | 2026-08-27 |  |
-| [Raw Control](https://open.spotify.com/track/0JrEm4vEEzpHsdcxHlRJop) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Raw Control](https://open.spotify.com/album/1DwqsGfeJWh4P4cbd0AywD) | 2:30 | 2025-06-20 |  |
+| [Raw Control](https://open.spotify.com/track/0JrEm4vEEzpHsdcxHlRJop) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Raw Control](https://open.spotify.com/album/1DwqsGfeJWh4P4cbd0AywD) | 2:30 | 2025-06-20 | 2026-10-22 |
 | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Ready \(feat\. Art School Girlfriend\)](https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L) | 3:47 | 2024-07-12 | 2025-05-30 |
 | [Ready To Go \(My Addiction\)](https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [Ready To Go \(My Addiction\)](https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo) | 2:24 | 2024-01-26 | 2026-07-20 |
 | [Real Life](https://open.spotify.com/track/6jz9EMWHffNKVlZQVXOLoz) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Real Life](https://open.spotify.com/album/55pLHOPxFKEi82Z15IeHxq) | 3:25 | 2020-11-06 | 2024-01-13 |

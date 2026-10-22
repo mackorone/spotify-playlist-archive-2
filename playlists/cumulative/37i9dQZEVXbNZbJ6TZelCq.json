@@ -3902,7 +3902,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 154160,
       "name": "A\u0219a \u0219i a\u0219a",
       "url": "https://open.spotify.com/track/1MlChz5MNNWw0MZwFZu7ho"
@@ -4538,7 +4538,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 134399,
       "name": "Balans",
       "url": "https://open.spotify.com/track/0JK8MMdQNg1hHV51b2lsBA"
@@ -8700,7 +8700,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 211967,
       "name": "Ce S-A Intamplat Cu Noi",
       "url": "https://open.spotify.com/track/4DTuzPQcPAJCvM4mbfAmkn"
@@ -17276,6 +17276,48 @@
       "duration_ms": 153430,
       "name": "FINESSE ME",
       "url": "https://open.spotify.com/track/1L9h4AgYfGrCQlLkp6w4kl"
+    },
+    {
+      "album": {
+        "name": "FIRESTARTER",
+        "url": "https://open.spotify.com/album/1yz28fnKHjF4Yr06M6oCep"
+      },
+      "artists": [
+        {
+          "name": "K/DA",
+          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        },
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        },
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187280,
+      "name": "FIRESTARTER",
+      "url": "https://open.spotify.com/track/6UeSC8jEhf9XmUL8EX2rni"
     },
     {
       "album": {
@@ -28451,6 +28493,24 @@
     },
     {
       "album": {
+        "name": "MAMACITA DALE",
+        "url": "https://open.spotify.com/album/7lFF78lVOBz7vO3lcZGkgf"
+      },
+      "artists": [
+        {
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125156,
+      "name": "MAMACITA DALE",
+      "url": "https://open.spotify.com/track/5QIWFauNk8XbGOg67Vb8uA"
+    },
+    {
+      "album": {
         "name": "Mambo (Imi Fac Talentul La Misto)",
         "url": "https://open.spotify.com/album/6Irw2xmwcvKWDdQ7DglcTY"
       },
@@ -32168,7 +32228,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 179477,
       "name": "NEW YORK",
       "url": "https://open.spotify.com/track/1izIwskWBBffJJK9NqV6JD"
@@ -41983,6 +42043,24 @@
     },
     {
       "album": {
+        "name": "Shotta's.",
+        "url": "https://open.spotify.com/album/6z49RFUy6MNYlhMShZ6h4p"
+      },
+      "artists": [
+        {
+          "name": "Season 25",
+          "url": "https://open.spotify.com/artist/1WtceoonufhxRc6AnUSbat"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Shotta's.",
+      "url": "https://open.spotify.com/track/0M4R6G6junOgTJDccOEGHo"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -45500,7 +45578,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -48770,7 +48848,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
@@ -49558,7 +49636,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 216804,
       "name": "ultima noapte de dragoste",
       "url": "https://open.spotify.com/track/0oXZ3qfucx429EeoUDbXhK"

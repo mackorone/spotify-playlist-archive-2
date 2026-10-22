@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,397 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,401 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 49 | [Classroom Love](https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Classroom Love](https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o) | 4:16 |
 | 50 | [Contrato Con La Muerte](https://open.spotify.com/track/7KFDZYka1XWE7a6RIrdmaP) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jimmy Humilde Presenta Lo Mejor De Los 90's](https://open.spotify.com/album/1osJOSkOwfD5UBZ50ksQsH) | 3:19 |
 
-Snapshot ID: `atQMAAAAAADra/s4hQgLFZIjXzM98LkW`
+Snapshot ID: `atVdgAAAAABwEsewB0ZmMlMwDgAAlPpv`

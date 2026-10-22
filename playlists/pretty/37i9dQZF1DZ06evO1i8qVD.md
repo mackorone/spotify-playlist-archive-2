@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,612 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,617 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 33 | [Just Teasin'](https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [DJ Play My Blues](https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy) | 4:42 |
 | 34 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
 | 35 | [Skin Deep \(feat\. Derek Trucks\)](https://open.spotify.com/track/2hqFZeakNfYmO0h4ZFmDyg) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Skin Deep](https://open.spotify.com/album/0ROkOFhb4cqlys1e8e3m2W) | 4:28 |
-| 36 | [Blues Don't Lie](https://open.spotify.com/track/1xyW8n2IfWReOvGWkc0A57) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 3:54 |
-| 37 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
+| 36 | [\(Baby\) You Got What It Takes \(feat\. Joss Stone\)](https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:17 |
+| 37 | [Blues Don't Lie](https://open.spotify.com/track/1xyW8n2IfWReOvGWkc0A57) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 3:54 |
 | 38 | [Hoodoo Man Blues](https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:06 |
 | 39 | [Where The Blues Begins \(feat\. Carlos Santana\)](https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Living Proof](https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm) | 4:37 |
 | 40 | [I Need You Tonight](https://open.spotify.com/track/3zMdVdZtvJ5wN3onnAecsq) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Heavy Love](https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu) | 5:17 |
 | 41 | [The Devil's Daughter](https://open.spotify.com/track/2DgqYxUQw3YODAgaqmS6SJ) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 5:14 |
 | 42 | [I Love the Life I Live](https://open.spotify.com/track/5p529gnH10F0ZSUmLCny0P) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blues Singer](https://open.spotify.com/album/0BpycVTcJp8DG1YansP89d) | 2:45 |
-| 43 | [Let Me Love You Baby](https://open.spotify.com/track/75PUrwtQEarrbg4JQ2VDMr) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 4:01 |
-| 44 | [I've Got Dreams To Remember](https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 4:56 |
+| 43 | [I've Got Dreams To Remember](https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 4:56 |
+| 44 | [Let Me Love You Baby](https://open.spotify.com/track/75PUrwtQEarrbg4JQ2VDMr) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 4:01 |
 | 45 | [All That Makes Me Happy Is the Blues](https://open.spotify.com/track/7hsbxGPIEBr9G2wP9cTO2L) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:36 |
 | 46 | [Sweet Little Angel](https://open.spotify.com/track/49jvNTBdS4idoirNOiraQc) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 4:44 |
 | 47 | [Where U At \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/track/2xsb3EAIxVcKOroNRqd0Ka) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Ain't Done With The Blues](https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 49 | [Wear You Out \(feat\. Billy Gibbons\)](https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:30 |
 | 50 | [Do Your Thing](https://open.spotify.com/track/7DDDlFgPwHkocHjlELfQFa) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 4:07 |
 
-Snapshot ID: `atQMAAAAAAB7rPG08JTcuq+XvrHtjln1`
+Snapshot ID: `atVdgAAAAAASqCDAp10iRZxUA7cgYPBZ`

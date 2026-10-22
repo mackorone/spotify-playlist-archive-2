@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,915 likes - 172 songs - 10 hr 56 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,916 likes - 174 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,5 +180,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 170 | [Where the Wind Blows](https://open.spotify.com/track/044bAUHW1CjxG1fRnW4zP7) | [The Safety Word](https://open.spotify.com/artist/0ACJc7XJoVM9j1HeuAtLRX) | [Where the Wind Blows](https://open.spotify.com/album/2HtgsNzBXTnrXMlPQXOBq5) | 5:06 |
 | 171 | [House Of Mirrors](https://open.spotify.com/track/68HVJiPKmFJerXLPLFkzfr) | [Seamless Hope](https://open.spotify.com/artist/1eUNJIV8T4pGj1mbvxVTZn) | [Illuminating Darkness](https://open.spotify.com/album/3cELUplGLGQgHiflkgR5qz) | 4:04 |
 | 172 | [Don't Count On Me](https://open.spotify.com/track/3kVdhVxmzNjX0JGoklTyLJ) | [Manuel the Band](https://open.spotify.com/artist/53QeCVwCAOdxJ3p7BG4ZUn) | [Don't Count On Me](https://open.spotify.com/album/5sGpj8Y0eFEdR3uKIsaN0t) | 2:50 |
+| 173 | [Love & Thunder](https://open.spotify.com/track/7JwU1ozmYIVZZiC0wkHlgu) | [Static Revolver](https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi) | [Love & Thunder](https://open.spotify.com/album/0CDKCOhgkwqMwx0Ku1Y7Sg) | 3:48 |
+| 174 | [Piensalo dos veces](https://open.spotify.com/track/6c1YfviezL0YtuQGNslWZi) | [Rokdëbil](https://open.spotify.com/artist/6XwejHVkpCvWg3DTD249Lf) | [Piensalo dos veces](https://open.spotify.com/album/74DWhau5rAHpE1XerTaVxW) | 4:55 |
 
-Snapshot ID: `AAAM2cuHnm2kd50uA1ChptmJyi+hvJ87`
+Snapshot ID: `AAAM26TZY6ZDqqKkQeHBgnQQVGB0cT+r`

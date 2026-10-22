@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 > อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: LANDOKMAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,894 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,879 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 30 | [เลือน ลาง จาง หาย \(Cloud\)](https://open.spotify.com/track/72o3NLBBolOURzBWaM9IxQ) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [เลือน ลาง จาง หาย \(Cloud\)](https://open.spotify.com/album/1RUGSxRhZDSvppM17yVqDO) | 5:25 |
 | 31 | [ทุกนาที \(As Light Goes By\)](https://open.spotify.com/track/3NHfp3bfkPYbFDFCEJosyd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ทุกนาที \(As Light Goes By\)](https://open.spotify.com/album/0CbmV4nYpeg2T31HGKPU8s) | 5:31 |
 | 32 | [คงจะดีหากฉันหายไป \(Vanishing\)](https://open.spotify.com/track/5H1KfK3lWKPCEUFkJKrUly) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [คงจะดีหากฉันหายไป \(Vanishing\)](https://open.spotify.com/album/0jff59Bpd4lc1WmAcp8UPD) | 4:14 |
-| 33 | [ละอองดาว \(Fading\)](https://open.spotify.com/track/218RfuLb5cx1g6Wj8aeH2f) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ละอองดาว \(Fading\)](https://open.spotify.com/album/52EWLPuVAPFavHS6DUVkD0) | 4:44 |
+| 33 | [ละอองดาว \(fading\)](https://open.spotify.com/track/218RfuLb5cx1g6Wj8aeH2f) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ละอองดาว \(fading\)](https://open.spotify.com/album/52EWLPuVAPFavHS6DUVkD0) | 4:44 |
 | 34 | [Lucky](https://open.spotify.com/track/34a5mnnhwNtONOVuOazEri) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [not smoke, but cloud](https://open.spotify.com/album/6lvlRdaGuZsY6FJ3O4wAtd) | 3:17 |
 | 35 | [ไม่บอกก็รู้](https://open.spotify.com/track/5ie8e9PnYpJQtpW2JdgYVj) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ไม่บอกก็รู้](https://open.spotify.com/album/0LyTvjcxBAkZ4U3Sm9EwIX) | 4:27 |
 | 36 | [จะให้ไปรักใครได้อีก \(Ngua Ngia\)](https://open.spotify.com/track/5uLRm67XjHPO9GOiYKVzJk) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [จะให้ไปรักใครได้อีก \(Ngua Ngia\)](https://open.spotify.com/album/29zpKlTl3WoALo9uawkVnL) | 4:35 |

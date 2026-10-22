@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,322 songs - 3 day 5 hr 43 min
+1,323 songs - 3 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -426,7 +426,7 @@
 | [Ground](https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ground](https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw) | 3:02 | 2024-07-24 | 2024-11-01 |
 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 | 2023-01-12 | 2023-01-15 |
 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-24 | 2024-10-20 |
-| [Gut Genug \(with Omah Lay, Blumengarten & 255\)](https://open.spotify.com/track/6c7ao7QiLH0kT6wd0xHUCV) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Gut Genug \(with Omah Lay, Blumengarten & 255\)](https://open.spotify.com/album/0gszF1GZYyI0D0qc4ez0r9) | 2:28 | 2026-08-19 |  |
+| [Gut Genug \(with Omah Lay, Blumengarten & 255\)](https://open.spotify.com/track/6c7ao7QiLH0kT6wd0xHUCV) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Gut Genug \(with Omah Lay, Blumengarten & 255\)](https://open.spotify.com/album/0gszF1GZYyI0D0qc4ez0r9) | 2:28 | 2026-08-19 | 2026-10-22 |
 | [habilabi](https://open.spotify.com/track/4EQx8YujNNZETd1LBhGKo5) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [habilabi](https://open.spotify.com/album/14dw7FgjqtHRCeV2MaL6Mp) | 3:52 | 2023-07-18 | 2023-08-16 |
 | [habilabi](https://open.spotify.com/track/4MfPAtRiq3dIOLsbHTbMqj) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [habilabi](https://open.spotify.com/album/0cubnBwKraFJPbiuCz4Abz) | 3:52 | 2023-07-18 | 2023-07-20 |
 | [Hachikō](https://open.spotify.com/track/4WhHNXBgRglnkjy7TMzgdh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hachikō](https://open.spotify.com/album/0qxIGHOXFdqiJEOqbUv5DR) | 4:30 | 2025-06-18 | 2025-09-16 |
@@ -484,6 +484,7 @@
 | [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 | 2026-08-19 |  |
 | [I Could Get Used To This](https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [I Could Get Used To This](https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd) | 3:41 | 2026-01-28 | 2026-04-24 |
 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 | 2024-10-09 | 2024-11-20 |
+| [I Give Everything I Have 2 U \(feat\. Loaded Honey\)](https://open.spotify.com/track/08DdQe8ybw5ya8ZMeYXkIu) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB) | [No Bad Memories](https://open.spotify.com/album/3De7Ues320SIjGCaz5b6fX) | 1:37 | 2026-10-20 |  |
 | [I Like It I Like It](https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [I Like It I Like It](https://open.spotify.com/album/1xJLW4FSiXsJEhGq15s3oU) | 4:10 | 2025-05-13 | 2025-06-25 |
 | [I LOVE YOUR BODY](https://open.spotify.com/track/1wWJmkrJi5IaNb2512YEcF) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [I LOVE YOUR BODY](https://open.spotify.com/album/1TREZBcJvxodOvigkTQYDQ) | 2:34 | 2026-08-19 | 2026-08-27 |
 | [I Need That](https://open.spotify.com/track/3rgnM3MBkpsuVeSwmtXYia) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [End of Time](https://open.spotify.com/album/6lRDlZ73raNJQKDXcUzdKU) | 2:30 | 2022-12-01 | 2023-05-23 |

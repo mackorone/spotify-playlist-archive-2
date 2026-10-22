@@ -1654,10 +1654,32 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 414374,
       "name": "Electric Glow",
       "url": "https://open.spotify.com/track/48eWZkmFr31aOpFyfkeE0R"
+    },
+    {
+      "album": {
+        "name": "Metamorphic II",
+        "url": "https://open.spotify.com/album/0YTU7EBJH1bpnpaK5lA2v9"
+      },
+      "artists": [
+        {
+          "name": "Tritonal",
+          "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
+        },
+        {
+          "name": "Skyler Stonestreet",
+          "url": "https://open.spotify.com/artist/1sY8XHjk6WoA2B5YIGV1S2"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414375,
+      "name": "Electric Glow",
+      "url": "https://open.spotify.com/track/07vJRNoHXyxoLmHrlY22Lj"
     },
     {
       "album": {

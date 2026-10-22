@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,100 likes - 196 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,153 likes - 196 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 88 | [Palme d'or](https://open.spotify.com/track/3HDMIeUnnL3tdRL5YbpMRi) | [Vulax](https://open.spotify.com/artist/2WNzDCBl2ibX17FoW5byBc) | [Palme d'or](https://open.spotify.com/album/7hEUpWv9PT4oOof1NhNJmn) | 2:28 |
 | 89 | [Improvisation in E Major: Magic does Exist](https://open.spotify.com/track/7jG7M7yz1za1lVRI5oTgNw) | [James Malikey](https://open.spotify.com/artist/2EyDwUM5rybE4PoBmsbKKw) | [Lost Within the Aether](https://open.spotify.com/album/6yJy67JiExP2UzYZVkmmhP) | 9:05 |
 | 90 | [Quietude](https://open.spotify.com/track/6pPLjYgeODLvLQwRPA8yVz) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Quietude](https://open.spotify.com/album/7mNAliA6qkDC25uXdr9Etp) | 2:28 |
-| 91 | [The Tides Inside](https://open.spotify.com/track/1FpCLPVuwO9BeBcwXjW2Hs) | [Eleri Margret Morgan](https://open.spotify.com/artist/4y6jrgzmPtF7kF1kHAPbjO), [Eleri Morgan](https://open.spotify.com/artist/4UKusgzLWDALaVFRYUdpj9) | [The Tides Inside](https://open.spotify.com/album/1YqlIkA8lO4qDuXMq5dBiD) | 4:39 |
+| 91 | [The Tides Inside](https://open.spotify.com/track/1FpCLPVuwO9BeBcwXjW2Hs) | [Eleri Creighton](https://open.spotify.com/artist/3YaNdLZ9nC3mzGLoJPskb6), [Eleri Morgan](https://open.spotify.com/artist/4UKusgzLWDALaVFRYUdpj9) | [The Tides Inside](https://open.spotify.com/album/1YqlIkA8lO4qDuXMq5dBiD) | 4:39 |
 | 92 | [Miniature me](https://open.spotify.com/track/3YQbmPHMB4xcXTbhs04Sc9) | [Rowan Guthrie](https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG) | [Miniature me](https://open.spotify.com/album/1Dq1E95kN3MGDATV8i65wE) | 2:31 |
 | 93 | [Daydream ode](https://open.spotify.com/track/39RLWExt2tjulIrBUhxOQT) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE) | [Daydream ode](https://open.spotify.com/album/4nuVko0sDzO8nX4qPaIRys) | 2:38 |
 | 94 | [The Ladder](https://open.spotify.com/track/716sCAdtSmAWBbVhkH0d0c) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Ladder](https://open.spotify.com/album/55CSDwvSWb6QIJBtI33kQZ) | 2:32 |

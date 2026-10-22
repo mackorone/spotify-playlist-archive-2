@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Chiquis \ud83d\udcf8",
-  "num_followers": 1296360,
+  "num_followers": 1296319,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
+        "name": "Si Te Enga\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/1MKQjIFyFRIE57zXnimA3C"
+      },
+      "artists": [
+        {
+          "name": "Memo Garza",
+          "url": "https://open.spotify.com/artist/3yJ7q2MEpB9SLK9Xy1EJ2F"
+        }
+      ],
+      "duration_ms": 164501,
+      "name": "Si Te Enga\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/3duBX7gYalHm1cEglN7GRP"
+    },
+    {
+      "added_at": "2026-10-16 05:53:57",
+      "album": {
         "name": "Me Llamo Mujeriego",
         "url": "https://open.spotify.com/album/5ZY2v5CtJKIF9c9yhhYz1i"
       },
@@ -443,26 +459,6 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
-        "name": "D\u00e9jese Querer",
-        "url": "https://open.spotify.com/album/1LBfSR6f9VY1Q6pPaALXW3"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 132722,
-      "name": "D\u00e9jese Querer",
-      "url": "https://open.spotify.com/track/21MStpNy1zVsIhpizMuoPW"
-    },
-    {
-      "added_at": "2026-10-16 05:53:57",
-      "album": {
         "name": "Si Las Miradas Mataran",
         "url": "https://open.spotify.com/album/2YSx52WRNoGQRyfbdG69IQ"
       },
@@ -479,18 +475,22 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
-        "name": "Si Te Enga\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/1MKQjIFyFRIE57zXnimA3C"
+        "name": "D\u00e9jese Querer",
+        "url": "https://open.spotify.com/album/1LBfSR6f9VY1Q6pPaALXW3"
       },
       "artists": [
         {
-          "name": "Memo Garza",
-          "url": "https://open.spotify.com/artist/3yJ7q2MEpB9SLK9Xy1EJ2F"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 164501,
-      "name": "Si Te Enga\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/3duBX7gYalHm1cEglN7GRP"
+      "duration_ms": 132722,
+      "name": "D\u00e9jese Querer",
+      "url": "https://open.spotify.com/track/21MStpNy1zVsIhpizMuoPW"
     },
     {
       "added_at": "2026-10-16 05:53:57",
@@ -527,26 +527,6 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
-        "name": "Mi Problema",
-        "url": "https://open.spotify.com/album/7npasspM0YDNB2G0lcpenM"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 206458,
-      "name": "Mi Problema",
-      "url": "https://open.spotify.com/track/3DUuIRuOMKV4nbPMqQhcvq"
-    },
-    {
-      "added_at": "2026-10-16 05:53:57",
-      "album": {
         "name": "Mis Canciones de Amor",
         "url": "https://open.spotify.com/album/6EsSzv7EqP0UEATuuotQ9t"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 222910,
       "name": "Coraz\u00f3n De Piedra",
       "url": "https://open.spotify.com/track/1LQvFiQcst4HSUeeaqgVxW"
+    },
+    {
+      "added_at": "2026-10-16 05:53:57",
+      "album": {
+        "name": "Mi Problema",
+        "url": "https://open.spotify.com/album/7npasspM0YDNB2G0lcpenM"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 206458,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/3DUuIRuOMKV4nbPMqQhcvq"
     },
     {
       "added_at": "2026-10-16 05:53:57",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
-        "name": "Rancheras Bonitas",
-        "url": "https://open.spotify.com/album/0599pjWZ13cqNGkv3dqqiy"
-      },
-      "artists": [
-        {
-          "name": "La Explosiva Banda de Maza",
-          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
-        }
-      ],
-      "duration_ms": 212865,
-      "name": "Dos Hojas Sin Rumbo, Un Rinconcito en el Cielo",
-      "url": "https://open.spotify.com/track/4CjU0R47evoWzIhuXq1aw5"
-    },
-    {
-      "added_at": "2026-10-16 05:53:57",
-      "album": {
         "name": "Mira Beb\u00e9",
         "url": "https://open.spotify.com/album/34l3eBsb2NFoVUdBqmF2Hd"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 176604,
       "name": "Al Diablo Mi Orgullo",
       "url": "https://open.spotify.com/track/7o5HPiI0uUeEoKBbqZAyn9"
+    },
+    {
+      "added_at": "2026-10-16 05:53:57",
+      "album": {
+        "name": "Rancheras Bonitas",
+        "url": "https://open.spotify.com/album/0599pjWZ13cqNGkv3dqqiy"
+      },
+      "artists": [
+        {
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
+        }
+      ],
+      "duration_ms": 212865,
+      "name": "Dos Hojas Sin Rumbo, Un Rinconcito en el Cielo",
+      "url": "https://open.spotify.com/track/4CjU0R47evoWzIhuXq1aw5"
     },
     {
       "added_at": "2026-10-16 05:53:57",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
+        "name": "La Tendr\u00e9 Que Olvidar",
+        "url": "https://open.spotify.com/album/2gSjwvm8bv3dtuSjndOYec"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 241584,
+      "name": "La Tendr\u00e9 Que Olvidar",
+      "url": "https://open.spotify.com/track/3lvWyePXS1f6gCaWWr2S8m"
+    },
+    {
+      "added_at": "2026-10-16 05:53:57",
+      "album": {
         "name": "Ya Se Acab\u00f3",
         "url": "https://open.spotify.com/album/6WcUmiYRpqhlP0l3Nq83sw"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
-        "name": "La Tendr\u00e9 Que Olvidar",
-        "url": "https://open.spotify.com/album/2gSjwvm8bv3dtuSjndOYec"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 241584,
-      "name": "La Tendr\u00e9 Que Olvidar",
-      "url": "https://open.spotify.com/track/3lvWyePXS1f6gCaWWr2S8m"
-    },
-    {
-      "added_at": "2026-10-16 05:53:57",
-      "album": {
         "name": "Ella Jura",
         "url": "https://open.spotify.com/album/655gOHBv3Ublhcrw6WS9gd"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 177062,
       "name": "Ella Jura",
       "url": "https://open.spotify.com/track/0upr9VmKhkxzdKZhYzQBzS"
+    },
+    {
+      "added_at": "2026-10-16 05:53:57",
+      "album": {
+        "name": "De Vez En Cuando",
+        "url": "https://open.spotify.com/album/0G7YY6UdNn7qd6ECZHYBfH"
+      },
+      "artists": [
+        {
+          "name": "Cristian Ciriaco",
+          "url": "https://open.spotify.com/artist/6JJmg75Q8I8xtB1cwFS55p"
+        }
+      ],
+      "duration_ms": 212787,
+      "name": "De Vez En Cuando",
+      "url": "https://open.spotify.com/track/7KngwRNlSATQh1c3fClDsu"
     },
     {
       "added_at": "2026-10-16 05:53:57",
@@ -855,22 +871,6 @@
       "duration_ms": 190482,
       "name": "Lo Reconozco",
       "url": "https://open.spotify.com/track/4AbhpA9whsYU3Z9uaUSw62"
-    },
-    {
-      "added_at": "2026-10-16 05:53:57",
-      "album": {
-        "name": "De Vez En Cuando",
-        "url": "https://open.spotify.com/album/0G7YY6UdNn7qd6ECZHYBfH"
-      },
-      "artists": [
-        {
-          "name": "Cristian Ciriaco",
-          "url": "https://open.spotify.com/artist/6JJmg75Q8I8xtB1cwFS55p"
-        }
-      ],
-      "duration_ms": 212787,
-      "name": "De Vez En Cuando",
-      "url": "https://open.spotify.com/track/7KngwRNlSATQh1c3fClDsu"
     },
     {
       "added_at": "2026-10-16 05:53:57",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
-        "name": "Mi Segunda Vida",
-        "url": "https://open.spotify.com/album/4FvnPvfjao9mzHm9T0euBP"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 161384,
-      "name": "Mi Segunda Vida",
-      "url": "https://open.spotify.com/track/2w6fPJcnlh5eT2QQuhPVL9"
-    },
-    {
-      "added_at": "2026-10-16 05:53:57",
-      "album": {
         "name": "Si Por Casualidad",
         "url": "https://open.spotify.com/album/1AK4Hi6OQjoDM1Z649XueB"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 156990,
       "name": "Si Por Casualidad",
       "url": "https://open.spotify.com/track/3WPl6I9rzbNN1nFExjylcK"
+    },
+    {
+      "added_at": "2026-10-16 05:53:57",
+      "album": {
+        "name": "Mi Segunda Vida",
+        "url": "https://open.spotify.com/album/4FvnPvfjao9mzHm9T0euBP"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 161384,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/2w6fPJcnlh5eT2QQuhPVL9"
     },
     {
       "added_at": "2026-10-16 05:53:57",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-10-16 05:53:57",
       "album": {
-        "name": "Solo Yo y Mi Almohada",
-        "url": "https://open.spotify.com/album/3Ns9jk8os0Sf4XrwECQ42W"
-      },
-      "artists": [
-        {
-          "name": "Banda Todo Terreno",
-          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
-        }
-      ],
-      "duration_ms": 215609,
-      "name": "Solo Yo y Mi Almohada",
-      "url": "https://open.spotify.com/track/5UZlsZOIJdYUOqP45hl36V"
-    },
-    {
-      "added_at": "2026-10-16 05:53:57",
-      "album": {
         "name": "\u00a1Que Viva Antonio Aguilar!",
         "url": "https://open.spotify.com/album/7e7KjU1w5VaKKnRoiNUYlV"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 176481,
       "name": "Que Se Te Quite Ese Orgullo (4 Meses)",
       "url": "https://open.spotify.com/track/5kpSQO55qQkAcq244ciORm"
+    },
+    {
+      "added_at": "2026-10-16 05:53:57",
+      "album": {
+        "name": "Solo Yo y Mi Almohada",
+        "url": "https://open.spotify.com/album/3Ns9jk8os0Sf4XrwECQ42W"
+      },
+      "artists": [
+        {
+          "name": "Banda Todo Terreno",
+          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
+        }
+      ],
+      "duration_ms": 215609,
+      "name": "Solo Yo y Mi Almohada",
+      "url": "https://open.spotify.com/track/5UZlsZOIJdYUOqP45hl36V"
     },
     {
       "added_at": "2026-10-16 05:53:57",

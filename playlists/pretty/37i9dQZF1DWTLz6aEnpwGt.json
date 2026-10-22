@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 74951,
+  "num_followers": 74966,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,26 @@
     {
       "added_at": "2026-09-25 04:01:37",
       "album": {
+        "name": "Bach: French Suites, BWV 812-817",
+        "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 126602,
+      "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
+      "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
+    },
+    {
+      "added_at": "2026-09-25 04:01:37",
+      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 410160,
       "name": "Concerto No. 3 in D Major, BWV 1054: I. (Allegro)",
       "url": "https://open.spotify.com/track/3auoBtSEoUz3Y0WS2K8vaf"
-    },
-    {
-      "added_at": "2026-09-25 04:01:37",
-      "album": {
-        "name": "Bach: French Suites, BWV 812-817",
-        "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 126602,
-      "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
-      "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
     },
     {
       "added_at": "2026-09-25 04:01:37",
@@ -531,6 +531,26 @@
     {
       "added_at": "2026-09-25 04:01:37",
       "album": {
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
+      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
+    },
+    {
+      "added_at": "2026-09-25 04:01:37",
+      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 184653,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: I. \u2014",
       "url": "https://open.spotify.com/track/4AFBKPO6wT9zLHnSAQo4gf"
-    },
-    {
-      "added_at": "2026-09-25 04:01:37",
-      "album": {
-        "name": "Bach: Goldberg Variations, BWV 988",
-        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Beatrice Rana",
-          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
-      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
     },
     {
       "added_at": "2026-09-25 04:01:37",
@@ -847,6 +847,30 @@
     {
       "added_at": "2026-09-25 04:01:37",
       "album": {
+        "name": "Bach: Piano Concertos, BWV 1052, 1055, 1056 & 1058",
+        "url": "https://open.spotify.com/album/176OxBRRhHPSkqRLFhc1FB"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "David Fray",
+          "url": "https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR"
+        },
+        {
+          "name": "The Deutsche Kammerphilharmonie Bremen",
+          "url": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+        }
+      ],
+      "duration_ms": 483600,
+      "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: I. Allegro",
+      "url": "https://open.spotify.com/track/47HPTrKutwt8n3ZNsmbH7S"
+    },
+    {
+      "added_at": "2026-09-25 04:01:37",
+      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -871,30 +895,6 @@
       "duration_ms": 187800,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: II. Largo",
       "url": "https://open.spotify.com/track/04jRwe67y8gkExGnRV1Zck"
-    },
-    {
-      "added_at": "2026-09-25 04:01:37",
-      "album": {
-        "name": "Bach: Piano Concertos, BWV 1052, 1055, 1056 & 1058",
-        "url": "https://open.spotify.com/album/176OxBRRhHPSkqRLFhc1FB"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "David Fray",
-          "url": "https://open.spotify.com/artist/6ngR3n1aQ7GLB5w46hqSWR"
-        },
-        {
-          "name": "The Deutsche Kammerphilharmonie Bremen",
-          "url": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
-        }
-      ],
-      "duration_ms": 483600,
-      "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: I. Allegro",
-      "url": "https://open.spotify.com/track/47HPTrKutwt8n3ZNsmbH7S"
     },
     {
       "added_at": "2026-09-25 04:01:37",

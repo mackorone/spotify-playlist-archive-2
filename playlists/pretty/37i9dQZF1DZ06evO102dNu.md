@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 
 > This is Frank Sinatra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,872 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,921 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO102dNu.md) - [plain]
 | 44 | [I'll Never Smile Again](https://open.spotify.com/track/2Pi0rY9FcbaecqO0AyhXbu) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [The Seventeen Number Ones](https://open.spotify.com/album/1HgqHVY48hdhuiacZky4nV) | 3:09 |
 | 45 | [Night And Day \- Remastered 1998](https://open.spotify.com/track/3JPykdXkCds32OP5hzxm7j) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \(Remastered / Expanded Edition\)](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 4:00 |
 | 46 | [Drinking Water \(Aqua de Beber\)](https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:35 |
-| 47 | [Come Dance With Me \- 1998 Remastered](https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Dance With Me! \(Remastered\)](https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro) | 2:31 |
-| 48 | [I've Got A Crush On You \- Remastered](https://open.spotify.com/track/0RNgCTcn5f7zIfLKjj80FS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(Remastered / Expanded Edition\)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 2:16 |
+| 47 | [I've Got A Crush On You \- Remastered](https://open.spotify.com/track/0RNgCTcn5f7zIfLKjj80FS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(Remastered / Expanded Edition\)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 2:16 |
+| 48 | [Come Dance With Me \- 1998 Remastered](https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Dance With Me! \(Remastered\)](https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro) | 2:31 |
 | 49 | [\(Love Is\) The Tender Trap](https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:57 |
 | 50 | [Rain In My Heart](https://open.spotify.com/track/2JzTfNN8k3O6l42DZMj80Q) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Cycles](https://open.spotify.com/album/4N6a1fTmJmyPJp9HmrNyVO) | 3:21 |
 
-Snapshot ID: `atQMAAAAAADrPHwBp2IxioanP8ITmqXS`
+Snapshot ID: `atVdgAAAAADEyXp5G6+Em4dA8eg0nQFw`

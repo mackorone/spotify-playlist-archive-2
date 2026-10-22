@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-146 songs - 6 hr 47 min
+148 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [25 & Whyln](https://open.spotify.com/track/5odinvHa3W2Vb2iBX1f6am) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 11:18 | 2023-12-13 |  |
 | [800MILES](https://open.spotify.com/track/2m3Ea5E1L50QwDG6uhekMM) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [BILLY](https://open.spotify.com/album/1rma34mRY4zuSyxr3h2rvT) | 3:39 | 2025-02-27 |  |
 | [81](https://open.spotify.com/track/3wVU7RFynKLVyaiT4BmigQ) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [I Think You've Gone Mad \(Or the Sins of the Father\)](https://open.spotify.com/album/4Yy43Ul14PbtMOBMDhjLgV) | 2:10 | 2026-01-28 | 2026-09-11 |
+| [81](https://open.spotify.com/track/6hQS5G0t2kIe6nk7Sqan1x) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [I Think You've Gone Mad \(Or the Sins of the Father\)](https://open.spotify.com/album/7FvlhBWbKr9nUArnPSB3Jb) | 2:10 | 2026-10-21 |  |
 | [APPARENT](https://open.spotify.com/track/0DMNW3e7MrwbNUxQfHvOj5) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 1:36 | 2023-12-13 |  |
 | [Bad Boy](https://open.spotify.com/track/4cqeHoB8cBcoXeZPmP2YqI) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Tommy Genesis](https://open.spotify.com/album/4FiBRYFIb9xBJaJl9Uvpri) | 2:02 | 2023-12-13 |  |
 | [Bang Bang](https://open.spotify.com/track/7FSmuGYYTevjhvkc7lH6cx) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv) | [True Story](https://open.spotify.com/album/6P9MmVepzwEvdFxYRdzTGF) | 2:19 | 2023-12-13 |  |
@@ -48,6 +49,7 @@
 | [Exclusive](https://open.spotify.com/track/4g3b9wTgRSvBqIL4TgwFJZ) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:16 | 2023-12-13 |  |
 | [FAMOUS.](https://open.spotify.com/track/21prC6Di5O8rqycidi5IDv) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [when angels cry](https://open.spotify.com/album/3Pxu2ymEhjctOANjYZh5eA) | 2:00 | 2025-05-14 |  |
 | [Favourite Rapper / Hundred Million Religion](https://open.spotify.com/track/3vsuohYDStEaHt5EVPKKAz) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [I Think You've Gone Mad \(Or the Sins of the Father\)](https://open.spotify.com/album/4Yy43Ul14PbtMOBMDhjLgV) | 3:28 | 2023-12-13 | 2026-09-11 |
+| [Favourite Rapper / Hundred Million Religion](https://open.spotify.com/track/5zGSbvsNkDs1vtxlEcL2Cn) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [I Think You've Gone Mad \(Or the Sins of the Father\)](https://open.spotify.com/album/7FvlhBWbKr9nUArnPSB3Jb) | 3:28 | 2026-10-21 |  |
 | [Fell In Love](https://open.spotify.com/track/0K2HUBAW8fv5kqpnx1dBAm) | [C3llyPizzaz](https://open.spotify.com/artist/6JullcnvIBC9zJWfIbRcHS), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Fell In Love](https://open.spotify.com/album/5Gyiyw8PNkMhxgIC17CVcB) | 2:45 | 2025-03-26 |  |
 | [Fell In Love](https://open.spotify.com/track/44hFvYbXvLliVkeO9g9b7o) | [C3llyPizzaz](https://open.spotify.com/artist/6JullcnvIBC9zJWfIbRcHS), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Fell In Love](https://open.spotify.com/album/5WcP2UBCmuvisS8trtAYCZ) | 2:45 | 2023-12-13 | 2025-03-27 |
 | [Flashback](https://open.spotify.com/track/5HOkVAzmr3iDjBaIJH3CTb) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 3:37 | 2023-12-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 381341,
+  "num_followers": 381362,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAACaGtERyq/3TX19k75uad4X",
+  "snapshot_id": "atVdgAAAAAD2Z0MErTWFwCeTMa3nF8O4",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primer Lugar",
-        "url": "https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe"
+        "name": "No Podemos (Remix)",
+        "url": "https://open.spotify.com/album/0eIaEg1LMlc3ZGVLiTL7ZB"
       },
       "artists": [
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 245760,
-      "name": "Primer Lugar",
-      "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
+      "duration_ms": 240000,
+      "name": "No Podemos - Remix",
+      "url": "https://open.spotify.com/track/1jZXWu9aglrtzS9IqLbnrd"
     },
     {
       "added_at": null,
@@ -363,26 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Podemos (Remix)",
-        "url": "https://open.spotify.com/album/0eIaEg1LMlc3ZGVLiTL7ZB"
+        "name": "Primer Lugar",
+        "url": "https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe"
       },
       "artists": [
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 240000,
-      "name": "No Podemos - Remix",
-      "url": "https://open.spotify.com/track/1jZXWu9aglrtzS9IqLbnrd"
+      "duration_ms": 245760,
+      "name": "Primer Lugar",
+      "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
     },
     {
       "added_at": null,
@@ -767,22 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00e1rgolas Forever",
-        "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
+        "name": "Las Leyendas Nunca Mueren",
+        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
       },
       "artists": [
         {
-          "name": "Alex Gargolas",
-          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 206706,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7"
+      "duration_ms": 176538,
+      "name": "North Carolina",
+      "url": "https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM"
     },
     {
       "added_at": null,
@@ -807,22 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Leyendas Nunca Mueren",
-        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
+        "name": "G\u00e1rgolas Forever",
+        "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
         },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 176538,
-      "name": "North Carolina",
-      "url": "https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM"
+      "duration_ms": 206706,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7"
     },
     {
       "added_at": null,
@@ -1023,6 +1023,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Hugo",
+      "url": "https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00c1S DE AH\u00cd (Remix)",
         "url": "https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 245052,
       "name": "M\u00c1S DE AH\u00cd - Remix",
       "url": "https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Hugo",
-      "url": "https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt"
     },
     {
       "added_at": null,

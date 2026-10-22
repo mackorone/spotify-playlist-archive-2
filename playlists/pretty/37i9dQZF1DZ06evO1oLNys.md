@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1oLNys.md) - [plain]
 | 46 | [Airport Fridge, Self Checkout](https://open.spotify.com/track/6YGq2bo4e1rOEnzoYbzbG9) | [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [Normal Sounds](https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP) | 6:33 |
 | 47 | [54\|56](https://open.spotify.com/track/0Oxn7S8dD2a3Yhy6X248UC) | [Whitney Johnson](https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt), [Lia Kohl](https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s) | [For Translucence](https://open.spotify.com/album/256BEcfX3MHN9Vw9ZUs0f2) | 10:42 |
 
-Snapshot ID: `atQMAAAAAACQzIxtk3PFDFeyf4Nwk2Y6`
+Snapshot ID: `atVdgAAAAAA+AKAbedHK5yZMkHK1Qc7e`

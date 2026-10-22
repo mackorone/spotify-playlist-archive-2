@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1oZr8mGoQg9aDF1BI1G9QV.md) - [plain]
 
 > Songs that are queer\. TO ME.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 34 songs - 1 hr 56 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 34 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

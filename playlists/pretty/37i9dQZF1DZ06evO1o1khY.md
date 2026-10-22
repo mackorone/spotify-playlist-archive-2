@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,882 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,883 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 23 | [SHYNE](https://open.spotify.com/track/4lUAlhQOVzhitQKjxrHVny) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:13 |
 | 24 | [HOLLON](https://open.spotify.com/track/1Tt4m8l00BI85uOr5EqXUh) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:08 |
 | 25 | [Bad Bih 4 Ya \(feat\. Boston Richey\)](https://open.spotify.com/track/6oXwnROJNUkozh28jT9O1V) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Boston Richey](https://open.spotify.com/artist/6N6dtckgIXwmGROqfhwkFz) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 3:00 |
-| 26 | [On Wat U On \(with GloRilla\)](https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [On Wat U On \(with GloRilla\)](https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz) | 2:39 |
-| 27 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/5nEUEJWFtBFdjVGeFyIOL0) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Renegade](https://open.spotify.com/album/7cCqSijm31dZdQ1v3BaFAZ) | 2:17 |
+| 26 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 |
+| 27 | [On Wat U On \(with GloRilla\)](https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [On Wat U On \(with GloRilla\)](https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz) | 2:39 |
 | 28 | [HOW I LOOK \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 1:58 |
 | 29 | [Redbone \(with GloRilla\)](https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 2:12 |
 | 30 | [Real Hustla \(ft\. GloRilla\)](https://open.spotify.com/track/01lRLiKslwD7pzTa9PqvND) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Real Hustla \(ft\. GloRilla\)](https://open.spotify.com/album/72RV7iDvkVQdqELmYtw5xF) | 2:28 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 46 | [Pop It \(GloRilla, Mike WiLL Made\-It\)](https://open.spotify.com/track/3VkbedA7YHCAraNe872O5B) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Pop It \(GloRilla, Mike WiLL Made\-It\)](https://open.spotify.com/album/3fAQgitvHde56qGPrq0rMj) | 2:54 |
 | 47 | [Mama \(with Skilla Baby feat\. GloRilla\) \- Remix](https://open.spotify.com/track/62Vzyj4Nyy7DeBF2q21dYG) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Mama \(with Skilla Baby feat\. GloRilla\) \(Remix\)](https://open.spotify.com/album/7LK4ohmEO3Arm7oXyd1eVk) | 2:59 |
 | 48 | [To The Side \(with GloRilla\)](https://open.spotify.com/track/4B0nsYvTtZ0oAyr5MjkXU9) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Part 3](https://open.spotify.com/album/2wboAwulksF118O1TkNeBc) | 2:33 |
-| 49 | [Out Loud Thinking](https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:50 |
-| 50 | [5 Star](https://open.spotify.com/track/2EBDAuH1m4lBO54iJ3yHUl) | [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [5 Star](https://open.spotify.com/album/1DYr8PLvud7I9Kv9jBZ5Ig) | 2:33 |
+| 49 | [5 Star](https://open.spotify.com/track/2EBDAuH1m4lBO54iJ3yHUl) | [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [5 Star](https://open.spotify.com/album/1DYr8PLvud7I9Kv9jBZ5Ig) | 2:33 |
+| 50 | [Out Loud Thinking](https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:50 |
 
-Snapshot ID: `atQMAAAAAAC7NIt4SUmQkXc2vv8Qni1W`
+Snapshot ID: `atVdgAAAAAB6KylTrfoWFjvSZkTxepC+`

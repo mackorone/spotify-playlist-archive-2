@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 114057,
+  "num_followers": 114091,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAABxKukIiQNa+inrfWHQES1s",
+  "snapshot_id": "atVdgAAAAADTPqKW2ALeJHCB2SpTo+Cl",
   "tracks": [
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRODUTO DO AMBIENTE",
-        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
-        }
-      ],
-      "duration_ms": 193941,
-      "name": "Morro Sem Voc\u00ea",
-      "url": "https://open.spotify.com/track/3ko6nPV1TnJIDj4PB1WXzS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 309618,
       "name": "Quadros",
       "url": "https://open.spotify.com/track/4SOHLqfBQe0fdl1GtisjCb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRODUTO DO AMBIENTE",
+        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        }
+      ],
+      "duration_ms": 193941,
+      "name": "Morro Sem Voc\u00ea",
+      "url": "https://open.spotify.com/track/3ko6nPV1TnJIDj4PB1WXzS"
     },
     {
       "added_at": null,

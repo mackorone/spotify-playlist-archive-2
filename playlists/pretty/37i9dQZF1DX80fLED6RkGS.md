@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: Ochungulo Family
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,932 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,949 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 54 | [Zama](https://open.spotify.com/track/6sbum8xy6BhKZX2NOGls5S) | [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G) | [Zama](https://open.spotify.com/album/5EOM7OPpoXyyjZP8llfv6Z) | 3:16 |
 | 55 | [Hit poa 2.0 \- Remix](https://open.spotify.com/track/5lkkoxKlL1muWF8VpHMN4C) | [Kappy](https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR), [Wadaglizke](https://open.spotify.com/artist/4VQ8TYlIsQ4dGfwpATNW8c), [HOOD BOYZ](https://open.spotify.com/artist/1yONcOLoE5kSfTqTHmqrdR), [Kantel](https://open.spotify.com/artist/17Xpk4qEaRYguK9Evv0xSk), [Fame Stano](https://open.spotify.com/artist/3RLhtys6X8Q3eFWqxd3jQ4) | [Hit poa 2.0 \(Remix\)](https://open.spotify.com/album/52YugG4MkXNfenbqVwKIO0) | 1:52 |
 | 56 | [Starehe](https://open.spotify.com/track/6cLsLWSLwKjMmTVaJ2aCxp) | [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY), [OnlyOneDelo](https://open.spotify.com/artist/3LYeloSKoUiWFWoeYweFrx), [Diaso](https://open.spotify.com/artist/76XRlCBxoH6gTqXsv4teRC), [Mluo](https://open.spotify.com/artist/43WVp1Esjal1pMeRzHlAph), [Rahmu](https://open.spotify.com/artist/5JW7qbsc3CkcDTeWkamgQ6) | [Starehe](https://open.spotify.com/album/3mPMiyH7IQGk32zsHRtBtM) | 3:17 |
-| 57 | [Tujibambe](https://open.spotify.com/track/2G5V9YRpUFzpMKxq4woTBY) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY) | [Tujibambe](https://open.spotify.com/album/1nAjIOux8N0q1c7VahhGCx) | 2:19 |
+| 57 | [Tujibambe](https://open.spotify.com/track/2G5V9YRpUFzpMKxq4woTBY) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Iyanii](https://open.spotify.com/artist/0OqgOrpuyaDdTvGzhnEnzk), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY) | [Tujibambe](https://open.spotify.com/album/1nAjIOux8N0q1c7VahhGCx) | 2:19 |
 | 58 | [Medulla](https://open.spotify.com/track/3MPAZ9ivo0QExkN2n9BqOR) | [Soundkraft](https://open.spotify.com/artist/7q6x6F9d2R2skEPjnllspk), [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv), [Mr Berry](https://open.spotify.com/artist/5rDNEJncmWolPfJxvc1b9A) | [Medulla](https://open.spotify.com/album/0xCvaYWYyJBlPepc9m0tbr) | 3:09 |
 | 59 | [Statue \(feat\. Ssaru & Motif\)](https://open.spotify.com/track/6kOXL6VlMP9IWfFqd3N82h) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [SEAN MMG](https://open.spotify.com/artist/3XNm5VibIYc1xUEDURP1kw), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW), [Motif](https://open.spotify.com/artist/75HPCnXYZwiA7r3fnezrAG) | [Statue \(feat\. Ssaru & Motif\)](https://open.spotify.com/album/4ARauunzSv8sHdu2L4rLZV) | 2:34 |
 | 60 | [Bad Gyal](https://open.spotify.com/track/7CTNLehVKLNLXLthemIe1J) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Bad Gyal](https://open.spotify.com/album/6YFg7APzLlwPiCDnRnmVNF) | 3:41 |

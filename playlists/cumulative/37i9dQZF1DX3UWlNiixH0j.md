@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ドミコ Domico
 
-4,026 songs - 10 day 15 hr 11 min
+4,026 songs - 10 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -997,6 +997,7 @@
 | [I Warned You](https://open.spotify.com/track/5n4AU6A3rMR26hu7DW6GPz) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [gel](https://open.spotify.com/album/4gIseD8M4C2iiX3XuOnQmg) | 4:18 | 2023-02-28 | 2023-04-05 |
 | [I Was Falling in Love](https://open.spotify.com/track/2SATltYBghPpVkMvmU9csu) | [MIZUKI](https://open.spotify.com/artist/5W4qFWZPn8boKQH0z5CpsD) | [I Was Falling in Love](https://open.spotify.com/album/1wmyOGbxLPy085n4vsgoBe) | 2:23 | 2026-08-11 | 2026-08-26 |
 | [I was...](https://open.spotify.com/track/6UCGqwTZ85Fm7wlgMjn6Er) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [I was...](https://open.spotify.com/album/3n1foH2tPnogPeYPafLeCY) | 3:03 | 2023-03-16 | 2023-05-03 |
+| [i won't see you anymore](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 4:02 | 2026-10-20 |  |
 | [i&i&i](https://open.spotify.com/track/1XjvcMVgiaEhbf8bwSjtfI) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [i&i&i](https://open.spotify.com/album/2cfbFrBCbM1CbxbR8l2J5j) | 4:05 | 2023-04-25 | 2023-05-12 |
 | [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 | 2025-07-29 | 2026-02-03 |
 | [I'm crazy about you](https://open.spotify.com/track/4pYbG8qYXru9a4y2vzsKlr) | [SAMOEDO](https://open.spotify.com/artist/7g6Mug4G6xLqi1odQOWdMp) | [I'm crazy about you](https://open.spotify.com/album/5XHJf95RhazX1ph1wcSWVm) | 4:22 | 2023-02-14 | 2023-02-16 |
@@ -2357,7 +2358,6 @@
 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 | 2025-10-14 | 2026-02-04 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
 | [TOY](https://open.spotify.com/track/2NcL3BcH9PwVJsYD1s5n9c) | [カブトムシ](https://open.spotify.com/artist/3ceBUhYjqv2J3TbIBXdZSa) | [Panorama Pig](https://open.spotify.com/album/47QCclBzhV8FRhcsEfFRZ4) | 4:18 | 2026-03-24 | 2026-04-01 |
-| [Track 5](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 0:00 | 2026-10-20 |  |
 | [Tragedy \(feat\. Chara\)](https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Tragedy \(feat\. Chara\)](https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ) | 3:27 | 2024-10-01 | 2024-10-28 |
 | [TRAIN SONG](https://open.spotify.com/track/6QspHcDs2LV4GCX9UIH0H3) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [DYSTOPIA ROMANCE 5.0](https://open.spotify.com/album/4CgJ5LCT4Or4gf5KYgGLKP) | 3:55 | 2025-04-08 | 2025-04-16 |
 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 | 2025-01-28 | 2025-03-17 |

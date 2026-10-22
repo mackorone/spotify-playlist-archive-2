@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4EMdfaADzDUr.md) - [plain]
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With BIRRD, After Cooking, winterburn and more
+> With After Cooking, BIRRD, winterburn and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,629 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,633 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Mariana Soane y Majo Aguilar en portada \ud83d\udd25",
-  "num_followers": 12033,
+  "num_followers": 12054,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "somos peligro",
-        "url": "https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 179569,
-      "name": "somos peligro",
-      "url": "https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
         "name": "Enamorada",
         "url": "https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 195851,
       "name": "Enamorada",
       "url": "https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
+        "name": "somos peligro",
+        "url": "https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 179569,
+      "name": "somos peligro",
+      "url": "https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "Herencias De Mi Madre (Volumen 2)",
-        "url": "https://open.spotify.com/album/21rDrBv6U3OmR8s6BRsC5E"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez Hija",
-          "url": "https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa"
-        }
-      ],
-      "duration_ms": 138931,
-      "name": "La Silla Vac\u00eda",
-      "url": "https://open.spotify.com/track/7yjox784bDOYEVTKddDPwg"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
         "name": "Mi Problema",
         "url": "https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 183106,
       "name": "Mi Problema",
       "url": "https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
+        "name": "Herencias De Mi Madre (Volumen 2)",
+        "url": "https://open.spotify.com/album/21rDrBv6U3OmR8s6BRsC5E"
+      },
+      "artists": [
+        {
+          "name": "Chayito Valdez Hija",
+          "url": "https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa"
+        }
+      ],
+      "duration_ms": 138931,
+      "name": "La Silla Vac\u00eda",
+      "url": "https://open.spotify.com/track/7yjox784bDOYEVTKddDPwg"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "Bordado a Mano",
-        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 162320,
-      "name": "Prefiero Tomar",
-      "url": "https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
         "name": "No M\u00e1s Canciones De Amor",
         "url": "https://open.spotify.com/album/06OW44HrziPwbrneC0HrIQ"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 151909,
       "name": "No M\u00e1s Canciones De Amor",
       "url": "https://open.spotify.com/track/5KUXDV43C0Id3obmoiMVTz"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
+        "name": "Bordado a Mano",
+        "url": "https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 162320,
+      "name": "Prefiero Tomar",
+      "url": "https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "No Te Fui Suficiente",
-        "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 278666,
-      "name": "No Te Fui Suficiente",
-      "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 153665,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
+        "name": "No Te Fui Suficiente",
+        "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 278666,
+      "name": "No Te Fui Suficiente",
+      "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
         "name": "No Me Deja De Doler",
         "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
       },
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Decide Qu\u00e9 Somos",
-      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 157306,
       "name": "Fotos Y Recuerdos",
       "url": "https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
+        "name": "Ahora Va La M\u00eda",
+        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+      },
+      "artists": [
+        {
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -1579,22 +1595,6 @@
       "duration_ms": 180773,
       "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
       "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
-        "name": "Ahora Va La M\u00eda",
-        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
-      },
-      "artists": [
-        {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
     },
     {
       "added_at": "2026-10-16 18:41:53",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-10-16 18:41:53",
       "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 198102,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
-    },
-    {
-      "added_at": "2026-10-16 18:41:53",
-      "album": {
         "name": "Literal",
         "url": "https://open.spotify.com/album/4B9zs7Fm6Ae314vkEohzJR"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 188933,
       "name": "Literal",
       "url": "https://open.spotify.com/track/4M4tWXiF87o7z2y1OkHzQw"
+    },
+    {
+      "added_at": "2026-10-16 18:41:53",
+      "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 198102,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
     },
     {
       "added_at": "2026-10-16 18:41:53",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-316 songs - 16 hr 52 min
+317 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Dumb Dumb](https://open.spotify.com/track/64iDjAuWDogVhuoWhKklF9) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) | 3:22 | 2024-06-14 |  |
 | [Easy](https://open.spotify.com/track/1NV76UggeuNkwOZPnjwv1E) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 3:24 | 2024-06-14 |  |
 | [Easy to Love](https://open.spotify.com/track/5LSeTPuxZjVCZa5ZcRFDRv) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [FEARLESS](https://open.spotify.com/album/1K6Ysz8y164For9ImmTMtO) | 3:19 | 2024-06-14 |  |
-| [Electric Glow](https://open.spotify.com/track/48eWZkmFr31aOpFyfkeE0R) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Skyler Stonestreet](https://open.spotify.com/artist/1sY8XHjk6WoA2B5YIGV1S2) | [Metamorphic II](https://open.spotify.com/album/3FDrNsoeak1G0Ua5nSAMnR) | 6:54 | 2024-06-14 |  |
+| [Electric Glow](https://open.spotify.com/track/48eWZkmFr31aOpFyfkeE0R) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Skyler Stonestreet](https://open.spotify.com/artist/1sY8XHjk6WoA2B5YIGV1S2) | [Metamorphic II](https://open.spotify.com/album/3FDrNsoeak1G0Ua5nSAMnR) | 6:54 | 2024-06-14 | 2026-10-22 |
+| [Electric Glow](https://open.spotify.com/track/07vJRNoHXyxoLmHrlY22Lj) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Skyler Stonestreet](https://open.spotify.com/artist/1sY8XHjk6WoA2B5YIGV1S2) | [Metamorphic II](https://open.spotify.com/album/0YTU7EBJH1bpnpaK5lA2v9) | 6:54 | 2026-10-21 |  |
 | [Emotional Support Ex](https://open.spotify.com/track/10wK26HMUREC3ptsE7p3Uv) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 1:51 | 2024-09-25 |  |
 | [End of My World](https://open.spotify.com/track/6luWULgexFygt7r2xYQ5iP) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Double Vision \(Deluxe Edition\)](https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK) | 3:41 | 2024-06-14 |  |
 | [Era](https://open.spotify.com/track/0lnwlqbqROrhg4IiQ34iH6) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Era](https://open.spotify.com/album/7u7kdBtG8MMxvqBAsGpfQo) | 2:13 | 2024-07-11 | 2024-07-15 |

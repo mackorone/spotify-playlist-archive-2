@@ -1,13 +1,53 @@
 {
-  "description": "Os funks mais \ud83d\udd11 do Brasil / Foto: dj andreoli, MC LUUCKY, MC Lele JP, MC IG, MC Iguinho CT, MC Ryan SP, MC Jacar\u00e9, MC Menor da VG",
-  "num_followers": 6815219,
+  "description": "Os funks mais \ud83d\udd11 do Brasil / Foto: MC Ryan SP, DJ Glenner, Nego Trufa, MC Meno K, MC Lele JP, MC Jvilla",
+  "num_followers": 6815415,
   "original_name": "Funk Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPNPTkI4iC5dUAuFm2tNV8EWygXB",
+  "snapshot_id": "AAAAALIQIckxjIGsJHDFCajkKVA59ZAU",
   "tracks": [
+    {
+      "added_at": "2026-10-21 16:46:14",
+      "album": {
+        "name": "Bandoleira (feat. MC Meno K, Mc Lele JP & Mc Jvila)",
+        "url": "https://open.spotify.com/album/5genVk6lc30aMId2Q81MEl"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Nego Trufa",
+          "url": "https://open.spotify.com/artist/62Gt9kCSVSxobYTVkrowRy"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "Dj Daltin no Beat",
+          "url": "https://open.spotify.com/artist/2lFKqFqItmkHQB8jKilc44"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        }
+      ],
+      "duration_ms": 335609,
+      "name": "Bandoleira (feat. MC Meno K, Mc Lele JP & Mc Jvila)",
+      "url": "https://open.spotify.com/track/5cNrvl670rRdERsWm2F7PC"
+    },
     {
       "added_at": "2026-10-09 19:17:45",
       "album": {
@@ -483,30 +523,6 @@
     {
       "added_at": "2026-10-09 19:17:45",
       "album": {
-        "name": "Obra de Arte",
-        "url": "https://open.spotify.com/album/5d5KT32kvHBXdOFJyqO7jQ"
-      },
-      "artists": [
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "DJ DAVI DOGDOG",
-          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
-        }
-      ],
-      "duration_ms": 162015,
-      "name": "Obra de Arte",
-      "url": "https://open.spotify.com/track/7wKpKUJX0djYz9JZSybbvG"
-    },
-    {
-      "added_at": "2026-10-09 19:17:45",
-      "album": {
         "name": "Cuida do Pet",
         "url": "https://open.spotify.com/album/3NzIzRMF8NaWNqTHmS7R3a"
       },
@@ -639,34 +655,6 @@
       "duration_ms": 192755,
       "name": "Pra N\u00e3o Esquecer De Mim",
       "url": "https://open.spotify.com/track/7dLw4FM0rYgwJEzkbwRVr1"
-    },
-    {
-      "added_at": "2026-10-09 19:17:45",
-      "album": {
-        "name": "V\u00eddeo Sensual",
-        "url": "https://open.spotify.com/album/6goDyWFpXpcU5f5toDyCXn"
-      },
-      "artists": [
-        {
-          "name": "DJ Patrick Original",
-          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
-        },
-        {
-          "name": "Game Records",
-          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
-        },
-        {
-          "name": "CACAU CHUU",
-          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
-        },
-        {
-          "name": "Mc Frog",
-          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
-        }
-      ],
-      "duration_ms": 148921,
-      "name": "V\u00eddeo Sensual",
-      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo"
     },
     {
       "added_at": "2026-10-09 19:17:45",
@@ -1651,26 +1639,6 @@
       "duration_ms": 314880,
       "name": "Chat\u00e3o",
       "url": "https://open.spotify.com/track/5jXXQY6LLlEtEWMDL6XcaP"
-    },
-    {
-      "added_at": "2026-10-09 19:17:45",
-      "album": {
-        "name": "Senta e Cala a Boca",
-        "url": "https://open.spotify.com/album/4jVks4nygkGdhyMXI99dRG"
-      },
-      "artists": [
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "DJ JHOW BEATS",
-          "url": "https://open.spotify.com/artist/4CpxOMOqIfPQmEet9UnWhe"
-        }
-      ],
-      "duration_ms": 147221,
-      "name": "Senta e Cala a Boca",
-      "url": "https://open.spotify.com/track/2ZrC9CTs01XkbFPtLbpHzl"
     },
     {
       "added_at": "2026-10-09 19:17:45",

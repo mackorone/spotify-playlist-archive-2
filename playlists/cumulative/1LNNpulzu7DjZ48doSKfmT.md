@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-1,221 songs - 2 day 14 hr 46 min
+1,224 songs - 2 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Do It Like That](https://open.spotify.com/track/1xGY0JohcInpWwJawwqkfX) | [Caitlin Min Fa](https://open.spotify.com/artist/565069ngyR6iaT7IWzIwyr) | [Do It Like That](https://open.spotify.com/album/4TdhcsJdCXquTSfsXAbqwK) | 3:10 | 2025-11-10 | 2026-02-17 |
 | [do you hear me now ?](https://open.spotify.com/track/3DMEf8nufaIsYKUs44cCHs) | [LOST PAIN](https://open.spotify.com/artist/2NgDo9eUU3j7TtYt9XKrBW) | [do you hear me now ?](https://open.spotify.com/album/4F1c5GSA7rHwqhDty7d0Yj) | 3:30 | 2026-02-03 | 2026-07-23 |
 | [Dog Walk](https://open.spotify.com/track/7IeUnLoepFTt3KpCXGXL5p) | [$pend Money Kwam](https://open.spotify.com/artist/2FdYdKloPtTTmA1G1OafKC) | [Dog Walk](https://open.spotify.com/album/4FihB1G4fxuo9DZbD9o9uw) | 1:59 | 2026-02-18 | 2026-07-23 |
+| [DOIN BETTER](https://open.spotify.com/track/1LBehFbQVQFEttXb6eaNTg) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [DOIN BETTER](https://open.spotify.com/album/45bsUcyVXWCUNtYSGuIVqg) | 2:15 | 2026-10-21 |  |
 | [Domenica mattina](https://open.spotify.com/track/0l3BjpYgBsWqS73T2PyDhV) | [Social Six](https://open.spotify.com/artist/4NAshWdxgeqcFG6kioF8eq) | [Domenica mattina](https://open.spotify.com/album/2bZjKSpBeuBPvVm3BbHzLX) | 3:41 | 2025-11-14 | 2026-07-23 |
 | [Dominate The Scene \(Aggressive Brazilian Phonk\)](https://open.spotify.com/track/1bDUHqIknTsrIxF78b66ZS) | [PGStudioAI](https://open.spotify.com/artist/2u6hG9KDTamI6frFcx84O7) | [Dominate The Scene \(Aggressive Brazilian Phonk\)](https://open.spotify.com/album/1H9BtmTsZfkbAandv4c6mH) | 2:31 | 2026-01-26 | 2026-07-23 |
 | [Don't Care](https://open.spotify.com/track/2ZpvcHBJk9FVGdWxPvkejU) | [Duke Mahone](https://open.spotify.com/artist/4b7nAPf8YpkU5Y21aQEN3e), [CMRN](https://open.spotify.com/artist/0DYQIr8kZO3uWGvX0y3Y85) | [Don't Care](https://open.spotify.com/album/3NOmXT64ji7EsnQXmJ9Ij8) | 3:09 | 2026-01-26 | 2026-07-23 |
@@ -873,6 +874,7 @@
 | [Reweaving The Rainbow](https://open.spotify.com/track/3URL6DAcZ3abXPu6k1tCih) | [Transgalactica](https://open.spotify.com/artist/3lwPZPcNWY901tSAhAgbGM) | [Reweaving The Rainbow](https://open.spotify.com/album/1cIS8m5pPSzJY1pKjSBgsX) | 2:51 | 2026-01-18 | 2026-02-23 |
 | [RICK OW3NS!](https://open.spotify.com/track/4TywmjxMFwaVnQbMsWfivQ) | [TON3](https://open.spotify.com/artist/18bEyd7gENocCytwXPbHK1) | [RICK OW3NS!](https://open.spotify.com/album/0cQI4KkZ0Q0LkvWqh9A9Ot) | 2:03 | 2026-01-08 | 2026-02-23 |
 | [Ride Slow](https://open.spotify.com/track/0KCnxuEzqhiJ4HwgwpwzpM) | [Yung Balboa](https://open.spotify.com/artist/3YO01fe8RtwqVoNv1gtU8M) | [Ride Slow](https://open.spotify.com/album/121UZYRkdX450mMSYWZKka) | 3:00 | 2026-01-03 | 2026-02-23 |
+| [Ride With Me](https://open.spotify.com/track/7iQ7QJL8FxybDfDx7JJd0N) | [Loco Mic](https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN), [Ghetto\-T.](https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp) | [Ride With Me](https://open.spotify.com/album/1l2VwfXWL66ueegxf4KpTn) | 3:14 | 2026-10-21 |  |
 | [Right Here Next to Me](https://open.spotify.com/track/6bZMCuGG4oD7WDqpWKy12j) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [Right Here Next to Me](https://open.spotify.com/album/3NiiFAeV4k97sqSTnNWIlZ) | 4:24 | 2026-01-13 | 2026-02-23 |
 | [Right Now](https://open.spotify.com/track/6HgJoRC5XmWIe3hfnevnGA) | [Twaang](https://open.spotify.com/artist/5gzMtn1JiE1dsBjaIr734I) | [Velvet Thunder](https://open.spotify.com/album/48x8POUlN0WaQfNYsSv8HW) | 3:53 | 2026-02-18 |  |
 | [Rijmroepers](https://open.spotify.com/track/3YeZiX8DvV5h5RhiattMlY) | [Fijnproeverz](https://open.spotify.com/artist/3sV1Ese7wuMcBnfgpvwEV3), [Konstrukto](https://open.spotify.com/artist/3egDHOK0AUguQFMyCkKtoO), [LDB](https://open.spotify.com/artist/4OPzEBvFfoqsHgZ8ikuo1a), [Justus](https://open.spotify.com/artist/7lhtDGzUYStlW9LbsvwJYl), [Blits](https://open.spotify.com/artist/0mOQn2z1c9Aln8i0DJuNez) | [Tafelmanieren](https://open.spotify.com/album/0fJS0zz6IQ1HTO8qN9zShc) | 3:38 | 2026-05-01 |  |
@@ -1094,6 +1096,7 @@
 | [Traumatized](https://open.spotify.com/track/6mXXrKN85AXWQOZCGLHBLM) | [Tubez](https://open.spotify.com/artist/6M3ZsMuBPybfM8fEWba11w) | [Traumatized](https://open.spotify.com/album/2oYJqf56dQY1MSrjb7CDai) | 2:11 | 2026-07-20 |  |
 | [trippin' on you](https://open.spotify.com/track/4SZdoXJC6vgUNQNacBhx8t) | [Triple M's](https://open.spotify.com/artist/63Psv5LfpLvinKJzfwknPX) | [trippin' on you](https://open.spotify.com/album/6Iv9nIFOWAj3ptSO7IJAB4) | 2:32 | 2026-01-03 | 2026-02-23 |
 | [Tripping](https://open.spotify.com/track/7dX84JjRtlN2M7dVWHFlei) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [Can You Hear It? \(The Deluxe Edition\)](https://open.spotify.com/album/6P1L2PKg7pE5GJa5Yy1x89) | 4:26 | 2025-10-16 | 2026-02-23 |
+| [Trou à rats](https://open.spotify.com/track/3NgBSvEHicK5YbWVJm5SpT) | [Adanah](https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N) | [Trou à rats](https://open.spotify.com/album/2LKZVUYfn2bhRLadPiOa5z) | 2:24 | 2026-10-21 |  |
 | [True Told](https://open.spotify.com/track/1NsnkZoTfkQv5hE9LPsPWj) | [Kid Fran](https://open.spotify.com/artist/2XsWgOsfSNewdeDuU9ufN9), [juanssin](https://open.spotify.com/artist/0xszM5KDxL2achZuOizmQ8) | [Ragazzo Piante](https://open.spotify.com/album/3mpZQba5QsFjqAU6IZlgRa) | 2:02 | 2026-01-18 | 2026-07-23 |
 | [try again](https://open.spotify.com/track/0Vo2KBc9kdvG9bbOYf00rX) | [Christine Nguyen](https://open.spotify.com/artist/1G31AYHzFwvwyYUhlZ8OoJ) | [try again](https://open.spotify.com/album/7eHuduqjDcbkB4a7hAoi85) | 3:03 | 2025-12-29 | 2026-02-23 |
 | [TSUKUYOMI](https://open.spotify.com/track/5jtKhtDIKRO19es0B3EXCP) | [SK 023](https://open.spotify.com/artist/0yZmGKQFgnTGuefPRvaEXI) | [TSUKUYOMI](https://open.spotify.com/album/7nL2pFX8gi5h5ZSRMk77E2) | 3:02 | 2026-01-03 | 2026-02-23 |

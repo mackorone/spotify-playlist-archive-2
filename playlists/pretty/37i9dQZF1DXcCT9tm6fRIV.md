@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,409 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,416 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 37 | [Yuyo Verde](https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 3:25 |
 | 38 | [Fugata](https://open.spotify.com/track/2Ifm6jyrzqpRZZrCcmX6W2) | [Quinteto Astor Piazzolla](https://open.spotify.com/artist/3ycM88bNGIojpJCVIOYkj8) | [Fugata](https://open.spotify.com/album/16AGklCV9Z4aCzVZP7sdFy) | 2:41 |
 | 39 | [Romance de barrio](https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Manzi, caminos de barro y pampa](https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG) | 3:36 |
-| 40 | [Los Mareados](https://open.spotify.com/track/03bPLvobYz452ePAEksJgY) | [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [Raul Lavié\-Los Elegidos](https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV) | 2:38 |
-| 41 | [Muñeca Brava](https://open.spotify.com/track/52e64XTYEcYdbe6RmTr6a7) | [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Los Cien Barrios Porteños](https://open.spotify.com/album/5mfNbUxufnu0rKy61i3Qzq) | 2:50 |
+| 40 | [Muñeca Brava](https://open.spotify.com/track/52e64XTYEcYdbe6RmTr6a7) | [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Los Cien Barrios Porteños](https://open.spotify.com/album/5mfNbUxufnu0rKy61i3Qzq) | 2:50 |
+| 41 | [Los Mareados](https://open.spotify.com/track/03bPLvobYz452ePAEksJgY) | [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [Raul Lavié\-Los Elegidos](https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV) | 2:38 |
 | 42 | [Un Guiño](https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Un Guiño](https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF) | 2:55 |
 | 43 | [Flor de lino \- Live](https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc) | [Horacio Molina](https://open.spotify.com/artist/68swBzVNVKLgWAPFOFkeWs) | [A Pedido](https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9) | 3:31 |
-| 44 | [Pesar](https://open.spotify.com/track/0kVPTk7BfLGDTqYPdOrysr) | [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI), [Pity](https://open.spotify.com/artist/6HD4DyMa0dpNb1TPCWFg2g) | [Pesar](https://open.spotify.com/album/5mpDQEO7EhSLuDrcdZ7Qky) | 4:27 |
-| 45 | [Volvio Una Noche](https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF) | [Hugo Díaz](https://open.spotify.com/artist/45sN1U4xtrQEyzIaOUmavp) | [Tangos](https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow) | 2:57 |
+| 44 | [Volvio Una Noche](https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF) | [Hugo Díaz](https://open.spotify.com/artist/45sN1U4xtrQEyzIaOUmavp) | [Tangos](https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow) | 2:57 |
+| 45 | [Pesar](https://open.spotify.com/track/0kVPTk7BfLGDTqYPdOrysr) | [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI), [Pity](https://open.spotify.com/artist/6HD4DyMa0dpNb1TPCWFg2g) | [Pesar](https://open.spotify.com/album/5mpDQEO7EhSLuDrcdZ7Qky) | 4:27 |
 | 46 | [Si Sos Brujo](https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX) | [Alfredo Gobbi](https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7) | [Si Sos Brujo](https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh) | 3:29 |
 | 47 | [Silbando](https://open.spotify.com/track/5UbeVgfPSlXrJBl9MTMmhJ) | [Aníbal Arias](https://open.spotify.com/artist/2tN74NW4cYDQJBUrdA5dUm) | [Una Guitarra Para Gardel](https://open.spotify.com/album/1oKSMqX4nXZtG1AvdihLEj) | 2:12 |
 | 48 | [Chiquilín de Bachín](https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:41 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 64 | [Todo Es Amor](https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH) | [Cristian Chinellato](https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy) | [Todo Es Amor](https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5) | 4:13 |
 | 65 | [Loca bohemia](https://open.spotify.com/track/5pCCa6M4u3fbJXfiM3ddBq) | [Nestor Marconi Trio](https://open.spotify.com/artist/1G1S4RnaMY4LeQ6G04lKus), [Jorge "Portugues" Da Silva](https://open.spotify.com/artist/5nTwqgPRtI1pkoUeJilnIj) | [Bien de Arriba](https://open.spotify.com/album/2VYKIZq8hhxRJnvHzgKOOw) | 5:39 |
 | 66 | [Otoño porteño](https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM) | [Ventarrón](https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX) | [Otoño Porteño](https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT) | 4:51 |
-| 67 | [Trenzas](https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:24 |
-| 68 | [Tinta Roja](https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Tinta Roja](https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4) | 3:08 |
+| 67 | [Tinta Roja](https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Tinta Roja](https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4) | 3:08 |
+| 68 | [Trenzas](https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:24 |
 | 69 | [Sueño de Barrilete](https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 4:47 |
 | 70 | [Barrio de Tango \- En Vivo](https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:47 |
 | 71 | [Fruta Amarga](https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:29 |

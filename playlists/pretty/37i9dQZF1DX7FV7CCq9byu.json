@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n svensk & internationell pop.",
-  "num_followers": 174247,
+  "num_followers": 174246,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGTzCOLWqlHSWNC/FfsGDkrjDPKL",
+  "snapshot_id": "AAAAAEgUbCOSnWJbjuLAS8/OFdhIEW8m",
   "tracks": [
     {
       "added_at": "2026-10-15 22:01:18",
@@ -79,6 +79,22 @@
       "duration_ms": 177544,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/5EDHxPobOf50pYWwcwxI8y"
+    },
+    {
+      "added_at": "2026-10-21 09:56:38",
+      "album": {
+        "name": "THAT'S SHOWBIZ BABY!",
+        "url": "https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Angel Of My Dreams",
+      "url": "https://open.spotify.com/track/3Zu0AWO9PN2lP2kCls5mkq"
     },
     {
       "added_at": "2026-10-15 22:01:18",

@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 52055,
+  "num_followers": 52062,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -531,38 +531,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
-      },
-      "artists": [
-        {
-          "name": "XIXA",
-          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
-        }
-      ],
-      "duration_ms": 206430,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Dos Santos",
-        "url": "https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
-        }
-      ],
-      "duration_ms": 213186,
-      "name": "El Pescador",
-      "url": "https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Noche triler",
         "url": "https://open.spotify.com/album/7AGuFiVXeGfR6CyhoWxVId"
       },
@@ -579,6 +547,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
+      },
+      "artists": [
+        {
+          "name": "XIXA",
+          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
+        }
+      ],
+      "duration_ms": 206430,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
         "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 169746,
       "name": "El Bicho",
       "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Dos Santos",
+        "url": "https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP"
+        }
+      ],
+      "duration_ms": 213186,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -783,26 +783,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cumbia Disco Energy",
-        "url": "https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur"
-      },
-      "artists": [
-        {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
-        },
-        {
-          "name": "Polymarchs",
-          "url": "https://open.spotify.com/artist/0r0MDdN441rIsekmG6fi99"
-        }
-      ],
-      "duration_ms": 237674,
-      "name": "Cumbia Disco Energy",
-      "url": "https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Caminito de mi Pueblo",
         "url": "https://open.spotify.com/album/4XCBF0qS4YuvzVekwGRKHo"
       },
@@ -823,18 +803,38 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "El Nuevo Bugalu",
-        "url": "https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF"
+        "name": "Cumbia Disco Energy",
+        "url": "https://open.spotify.com/album/7t4dB442nNp87febQyO9Ur"
       },
       "artists": [
         {
-          "name": "Bacalao Men",
-          "url": "https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk"
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+        },
+        {
+          "name": "Polymarchs",
+          "url": "https://open.spotify.com/artist/0r0MDdN441rIsekmG6fi99"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Bicicleta Intergalactica",
-      "url": "https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU"
+      "duration_ms": 237674,
+      "name": "Cumbia Disco Energy",
+      "url": "https://open.spotify.com/track/4I4JOjfW35xlyEgjiyswGJ"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Estraik Back",
+        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
+      },
+      "artists": [
+        {
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+        }
+      ],
+      "duration_ms": 231226,
+      "name": "Perro Rabioso",
+      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Estraik Back",
-        "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
+        "name": "El Nuevo Bugalu",
+        "url": "https://open.spotify.com/album/2SwzUlWaxbpEVr5GWURihF"
       },
       "artists": [
         {
-          "name": "Los Esplifs",
-          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+          "name": "Bacalao Men",
+          "url": "https://open.spotify.com/artist/601e30gtHzQJEPnxcQDwKk"
         }
       ],
-      "duration_ms": 231226,
-      "name": "Perro Rabioso",
-      "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
+      "duration_ms": 270000,
+      "name": "Bicicleta Intergalactica",
+      "url": "https://open.spotify.com/track/4TWACVrN1zq2x16kABBBaU"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Sonido Yoryi",
-        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
-      },
-      "artists": [
-        {
-          "name": "Los Yoryis",
-          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
-        }
-      ],
-      "duration_ms": 280821,
-      "name": "Sonido Yoryi",
-      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Mamarron, Vol.1",
         "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 320000,
       "name": "Dame Tu Wasap",
       "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Sonido Yoryi",
+        "url": "https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe"
+      },
+      "artists": [
+        {
+          "name": "Los Yoryis",
+          "url": "https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya"
+        }
+      ],
+      "duration_ms": 280821,
+      "name": "Sonido Yoryi",
+      "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "We Haven't Been Introduced",
-        "url": "https://open.spotify.com/album/2Gd08eyyxsiHXNIS0q3ufz"
-      },
-      "artists": [
-        {
-          "name": "Locobeach",
-          "url": "https://open.spotify.com/artist/3AgZkiriQHoaThReMzrs3J"
-        }
-      ],
-      "duration_ms": 274804,
-      "name": "We Haven't Been Introduced",
-      "url": "https://open.spotify.com/track/0ZiOE6PyKTwbZTUJbNj11U"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Ocelote",
         "url": "https://open.spotify.com/album/5QjSfqwbwpzCtVEoXKflGK"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 434400,
       "name": "Ocelote",
       "url": "https://open.spotify.com/track/6oIxxuAvq7K3DqEnDyNHA9"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "We Haven't Been Introduced",
+        "url": "https://open.spotify.com/album/2Gd08eyyxsiHXNIS0q3ufz"
+      },
+      "artists": [
+        {
+          "name": "Locobeach",
+          "url": "https://open.spotify.com/artist/3AgZkiriQHoaThReMzrs3J"
+        }
+      ],
+      "duration_ms": 274804,
+      "name": "We Haven't Been Introduced",
+      "url": "https://open.spotify.com/track/0ZiOE6PyKTwbZTUJbNj11U"
     },
     {
       "added_at": "2025-05-19 17:05:09",

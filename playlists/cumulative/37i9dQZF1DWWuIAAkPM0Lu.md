@@ -4,7 +4,7 @@
 
 > Ny fredag! Ny musik fra bl.a\. Annika, Artigeardit og Olivia Rodrigo 🤌
 
-12,563 songs - 27 day 6 hr 1 min
+12,564 songs - 27 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6072,6 +6072,7 @@
 | [KARAOKE](https://open.spotify.com/track/3uVQNkFMVS4BTxukzG35UR) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [KARAOKE](https://open.spotify.com/album/5wRNoI7QzBYp49j21ZwZX6) | 3:41 | 2025-03-06 | 2025-03-14 |
 | [KARAVANE \(LAMIGLIGFORTÆLDIG\) \(feat\. Marwan\)](https://open.spotify.com/track/18g8NfcRITYQDhOWPrQGzw) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Marwan](https://open.spotify.com/artist/485qSJLm5xb3tWRG9N7O4h) | [KARAVANE \(LAMIGLIGFORTÆLDIG\) \(feat\. Marwan\)](https://open.spotify.com/album/66eHLlycawbg45ovc4uSX7) | 3:13 | 2025-04-03 | 2025-04-11 |
 | [Karma](https://open.spotify.com/track/189ayDQCwwVulVP8hA5ofU) | [ATYPISK](https://open.spotify.com/artist/3L1jDbMK9J4Rd6XVv0KDjS) | [Karma](https://open.spotify.com/album/4g5PxfnORxEAObcyMlAYqo) | 1:59 | 2026-01-09 | 2026-01-16 |
+| [Karma](https://open.spotify.com/track/4s1xndGOzjMU1sSgC8FJkz) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Legendary Love](https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv) | 3:29 | 2026-10-15 |  |
 | [Kasper fra Køge](https://open.spotify.com/track/50ENzAGozNKYcTkF8kFx7n) | [Martin Brygmann](https://open.spotify.com/artist/1mEjxHmV73X8Nr3HY47n17) | [Kasper fra Køge](https://open.spotify.com/album/1ZMo1fjCbeb4fe8ghO9UnW) | 3:32 | 2026-04-30 | 2026-05-08 |
 | [Kaster Mig Ud I](https://open.spotify.com/track/37Z0AVOT6JIQssoNth5J0f) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Kaster Mig Ud I](https://open.spotify.com/album/74kVeuJxuJsrANODEwI8VL) | 2:48 | 2026-03-26 | 2026-04-03 |
 | [Kaster Penger](https://open.spotify.com/track/0fHZ6nPa8xsN2hbJRLjs64) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Kaster Penger](https://open.spotify.com/album/6wG3xK0qg4Q1qOU2wpabVN) | 1:54 | 2025-11-06 | 2025-11-14 |

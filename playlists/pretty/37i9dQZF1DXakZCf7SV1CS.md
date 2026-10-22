@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,266 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,281 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 24 | [think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [think abt it](https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V) | 2:24 |
 | 25 | [ok im cool](https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb) | [osquinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [bleh](https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi) | 2:47 |
 | 26 | [Hello Kitty](https://open.spotify.com/track/2EZHO9OoxZoaBs669GtWZv) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Hello Kitty](https://open.spotify.com/album/4cbs7e96BjbFaKqafPA8ZR) | 2:59 |
-| 27 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 |
+| 27 | [ringtone](https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:23 |
 | 28 | [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 |
-| 29 | [ringtone](https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:23 |
+| 29 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 |
 | 30 | [cloak n dagger](https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [cloak n dagger](https://open.spotify.com/album/2IyyUm6A2nD0UpwhQwMY00) | 2:09 |
 | 31 | [cheap liquor](https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [things with wings](https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO) | 1:48 |
-| 32 | [Friday Night](https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 3:25 |
+| 32 | [800 db cloud](https://open.spotify.com/track/2MLuFz9Y3Vg3PF0Yf93M5c) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:20 |
 | 33 | [fuckboy](https://open.spotify.com/track/7cELheBXF3jIShGuewCy44) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:37 |
-| 34 | [800 db cloud](https://open.spotify.com/track/2MLuFz9Y3Vg3PF0Yf93M5c) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:20 |
+| 34 | [Friday Night](https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 3:25 |
 | 35 | [Trying](https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Trying](https://open.spotify.com/album/7DJJBKSYGD8CV9va9wdEtL) | 2:00 |
 | 36 | [Dial Tone](https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Dial Tone](https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI) | 2:58 |
 | 37 | [1:15](https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [1:15](https://open.spotify.com/album/1UyLZP0hiJA0A2b6CWmQbU) | 2:10 |

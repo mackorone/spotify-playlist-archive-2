@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 2102,
+  "num_followers": 2103,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAB0XZil0tknnxOlIlbJ1kVR",
+  "snapshot_id": "atVdgAAAAABzynxFdj7+4dUd31W/pRrS",
   "tracks": [
     {
       "added_at": null,
@@ -403,30 +403,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brahms: Clarinet Trio in A Minor, Op. 114: I. Allegro",
-        "url": "https://open.spotify.com/album/67VKbmP2eGc7npbd3F2e5j"
+        "name": "Back to School - Classics for Studying",
+        "url": "https://open.spotify.com/album/4mMWiVXzpLOZhAXIlIojSF"
       },
       "artists": [
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Andreas Ottensamer",
-          "url": "https://open.spotify.com/artist/2ArlRtVzTxoRTY58C8kA0T"
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+          "name": "Adrien Perruchon",
+          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
         }
       ],
-      "duration_ms": 459213,
-      "name": "Clarinet Trio in A Minor, Op. 114: I. Allegro",
-      "url": "https://open.spotify.com/track/3XscpxBMDGN1Jhm9ZL3Wsg"
+      "duration_ms": 293640,
+      "name": "Debussy / Orch. Ducros: Suite bergamasque, CD 82, L. 75: III. Clair de lune",
+      "url": "https://open.spotify.com/track/6kzGRVhKWOW8eziWZXtsTc"
     },
     {
       "added_at": null,
@@ -463,30 +463,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back to School - Classics for Studying",
-        "url": "https://open.spotify.com/album/4mMWiVXzpLOZhAXIlIojSF"
+        "name": "Brahms: Clarinet Trio in A Minor, Op. 114: I. Allegro",
+        "url": "https://open.spotify.com/album/67VKbmP2eGc7npbd3F2e5j"
       },
       "artists": [
         {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Andreas Ottensamer",
+          "url": "https://open.spotify.com/artist/2ArlRtVzTxoRTY58C8kA0T"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Adrien Perruchon",
-          "url": "https://open.spotify.com/artist/35oIWRMerJ2P1ORtzeUD0N"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
         }
       ],
-      "duration_ms": 293640,
-      "name": "Debussy / Orch. Ducros: Suite bergamasque, CD 82, L. 75: III. Clair de lune",
-      "url": "https://open.spotify.com/track/6kzGRVhKWOW8eziWZXtsTc"
+      "duration_ms": 459213,
+      "name": "Clarinet Trio in A Minor, Op. 114: I. Allegro",
+      "url": "https://open.spotify.com/track/3XscpxBMDGN1Jhm9ZL3Wsg"
     },
     {
       "added_at": null,
@@ -515,26 +515,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faur\u00e9: Complete Chamber Music for Strings",
-        "url": "https://open.spotify.com/album/0J7ufiXuDy70tuH63bTV6y"
+        "name": "Saint-Sa\u00ebns: Le carnaval des animaux, Septuor & Fantaisie",
+        "url": "https://open.spotify.com/album/28HNwkqtbBQzratVgmhqb1"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        },
+        {
           "name": "Michel Dalberto",
           "url": "https://open.spotify.com/artist/1hzIjeYlO245tJ5hS50dUJ"
         }
       ],
-      "duration_ms": 232995,
-      "name": "Faur\u00e9: Sicilienne, Op. 78",
-      "url": "https://open.spotify.com/track/67PSa2ZYjTtS01UWrxkKAy"
+      "duration_ms": 185080,
+      "name": "Saint-Sa\u00ebns: Le carnaval des animaux: XIII. Le cygne",
+      "url": "https://open.spotify.com/track/4kPOuzgsbpOEKCrCgAng4G"
     },
     {
       "added_at": null,
@@ -567,30 +571,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saint-Sa\u00ebns: Le carnaval des animaux, Septuor & Fantaisie",
-        "url": "https://open.spotify.com/album/28HNwkqtbBQzratVgmhqb1"
+        "name": "Faur\u00e9: Complete Chamber Music for Strings",
+        "url": "https://open.spotify.com/album/0J7ufiXuDy70tuH63bTV6y"
       },
       "artists": [
         {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
-        },
-        {
           "name": "Michel Dalberto",
           "url": "https://open.spotify.com/artist/1hzIjeYlO245tJ5hS50dUJ"
         }
       ],
-      "duration_ms": 185080,
-      "name": "Saint-Sa\u00ebns: Le carnaval des animaux: XIII. Le cygne",
-      "url": "https://open.spotify.com/track/4kPOuzgsbpOEKCrCgAng4G"
+      "duration_ms": 232995,
+      "name": "Faur\u00e9: Sicilienne, Op. 78",
+      "url": "https://open.spotify.com/track/67PSa2ZYjTtS01UWrxkKAy"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/3dVenVnBtNXJUB8P59BVw2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",
+      "url": "https://open.spotify.com/track/0w6LWDuhdyzzIgNJDjrtrh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sensations - Gabriel's Oboe (From \"The Mission\")",
         "url": "https://open.spotify.com/album/1T3ZpS8nQm9mJHveoJveUX"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 149293,
       "name": "Morricone: Gabriel's Oboe (From \"The Mission\")",
       "url": "https://open.spotify.com/track/4tkOrMjWuEhL5yMyfXUek0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/3dVenVnBtNXJUB8P59BVw2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",
-      "url": "https://open.spotify.com/track/0w6LWDuhdyzzIgNJDjrtrh"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Einaudi: Air",
+        "url": "https://open.spotify.com/album/4LVYd1Q5TTEDf7th9MMi1Z"
+      },
+      "artists": [
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 249346,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/2yllYHj6bUXrivkzVPMItX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tchaikovsky: Souvenir de Florence, Op. 70, TH 118 (Live from Verbier Festival / 2013)",
         "url": "https://open.spotify.com/album/2L8EKujXjg3Ed9SX9IKvSl"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 370013,
       "name": "Souvenir de Florence, Op. 70, TH 118: III. Allegro moderato - Live from Verbier Festival / 2013",
       "url": "https://open.spotify.com/track/6flZV70cwZLQE1XsPBz1NF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Einaudi: Air",
-        "url": "https://open.spotify.com/album/4LVYd1Q5TTEDf7th9MMi1Z"
-      },
-      "artists": [
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 249346,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/2yllYHj6bUXrivkzVPMItX"
     },
     {
       "added_at": null,
@@ -992,8 +992,8 @@
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+          "name": "J\u00e9r\u00f4me Ducros",
+          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
         }
       ],
       "duration_ms": 275933,
@@ -1027,34 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haydn: Cello Concertos",
-        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Mahler Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
-        },
-        {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Haydn: Cello Concerto in D Major, Hob. VIIb:4: III. Allegro",
-      "url": "https://open.spotify.com/track/01pN2YkZhqrZGU1zvUoa2k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
       },
@@ -1079,6 +1051,34 @@
       "duration_ms": 223200,
       "name": "Piazzolla / Orch. Ducros: Oblivion",
       "url": "https://open.spotify.com/track/4tOxKuseWFcXCv2Ro4t6Qi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haydn: Cello Concertos",
+        "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Mahler Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Haydn: Cello Concerto in D Major, Hob. VIIb:4: III. Allegro",
+      "url": "https://open.spotify.com/track/01pN2YkZhqrZGU1zvUoa2k"
     },
     {
       "added_at": null,
@@ -1139,30 +1139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beethoven: Complete Works for Cello & Piano",
-        "url": "https://open.spotify.com/album/6blwiBm6Jzrk0ho1U1pyLx"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
-        }
-      ],
-      "duration_ms": 406146,
-      "name": "Beethoven: Cello Sonata No. 1 in F Major, Op. 5 No. 1: II. Rondo - Allegro vivace",
-      "url": "https://open.spotify.com/track/4mJAeByWSQgfpEVfWCg8eg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sensations - Over the Rainbow (From \"The Wizard of Oz\")",
         "url": "https://open.spotify.com/album/6RsYVC41W34RaGmbZcvldE"
       },
@@ -1191,6 +1167,30 @@
       "duration_ms": 253253,
       "name": "Over the Rainbow (From \"The Wizard of Oz\")",
       "url": "https://open.spotify.com/track/2ml9Di37kZ6FjDC4pj94A5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beethoven: Complete Works for Cello & Piano",
+        "url": "https://open.spotify.com/album/6blwiBm6Jzrk0ho1U1pyLx"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "duration_ms": 406146,
+      "name": "Beethoven: Cello Sonata No. 1 in F Major, Op. 5 No. 1: II. Rondo - Allegro vivace",
+      "url": "https://open.spotify.com/track/4mJAeByWSQgfpEVfWCg8eg"
     },
     {
       "added_at": null,

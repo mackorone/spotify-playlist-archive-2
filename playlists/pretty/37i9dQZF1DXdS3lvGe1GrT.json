@@ -1,13 +1,77 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday! Cover: Star Moles",
-  "num_followers": 108663,
+  "num_followers": 108779,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIZPcncmrtM8hbM4JBtJkuV1ugQz",
+  "snapshot_id": "AAAAACKGuKpOw87/srn298V1oLZ/a9H2",
   "tracks": [
+    {
+      "added_at": "2026-10-21 14:42:21",
+      "album": {
+        "name": "Audition Tape",
+        "url": "https://open.spotify.com/album/01sOQtxvpv31cCyEcRNjQh"
+      },
+      "artists": [
+        {
+          "name": "A Country Western",
+          "url": "https://open.spotify.com/artist/0JyEWuZBMpLOezjt2DDt8M"
+        }
+      ],
+      "duration_ms": 197452,
+      "name": "Halo Mode",
+      "url": "https://open.spotify.com/track/60IH1n6y6LHfRlB2PQovPE"
+    },
+    {
+      "added_at": "2026-10-21 14:42:21",
+      "album": {
+        "name": "Follow The Light",
+        "url": "https://open.spotify.com/album/5VHfVW8PISNYyVG9Hb4G2Y"
+      },
+      "artists": [
+        {
+          "name": "June McDoom",
+          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+        }
+      ],
+      "duration_ms": 179106,
+      "name": "Human Angel",
+      "url": "https://open.spotify.com/track/61zz94XBPkkIpKTH29QsmO"
+    },
+    {
+      "added_at": "2026-10-21 14:42:21",
+      "album": {
+        "name": "Silver Moon",
+        "url": "https://open.spotify.com/album/4oaX5vl8Iwp5cNHCNSiyvU"
+      },
+      "artists": [
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 143577,
+      "name": "Silver Moon",
+      "url": "https://open.spotify.com/track/51hVYPaPmtAwdhpNZWw4Y5"
+    },
+    {
+      "added_at": "2026-10-21 14:42:21",
+      "album": {
+        "name": "Cherry Trees",
+        "url": "https://open.spotify.com/album/28UDilW9pZEuTfCYPp1DAf"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bacino",
+          "url": "https://open.spotify.com/artist/0JCSx0A726fp2K75sXBfWK"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "Cherry Trees",
+      "url": "https://open.spotify.com/track/1UsV5oCU7MYr1ge8agtuLc"
+    },
     {
       "added_at": "2026-10-14 14:23:44",
       "album": {
@@ -23,6 +87,22 @@
       "duration_ms": 172306,
       "name": "I Know You Are (But What Am I Thinking)",
       "url": "https://open.spotify.com/track/6vpXW4xnupxShV8jgD5SX8"
+    },
+    {
+      "added_at": "2026-10-21 14:42:21",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5c3Jf1LiuZhvIGx2XLf9x4"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lindsey",
+          "url": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB"
+        }
+      ],
+      "duration_ms": 151146,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/0pC2Ysuyt3vqjvnmbbWW61"
     },
     {
       "added_at": "2026-10-07 15:06:55",
@@ -57,6 +137,38 @@
       "url": "https://open.spotify.com/track/0UQqqjAgaF55dma8PxwMXp"
     },
     {
+      "added_at": "2026-10-21 14:42:21",
+      "album": {
+        "name": "Skateland Baby",
+        "url": "https://open.spotify.com/album/63IJUVyEdPzXuu4psd4bQl"
+      },
+      "artists": [
+        {
+          "name": "Schaefer Llana",
+          "url": "https://open.spotify.com/artist/2p4lD1A4m58EkqOjvcHRsq"
+        }
+      ],
+      "duration_ms": 294450,
+      "name": "Skateland Baby",
+      "url": "https://open.spotify.com/track/5AUGBmuDbDMuXqJOoVDTbg"
+    },
+    {
+      "added_at": "2026-10-21 14:42:21",
+      "album": {
+        "name": "Circadian Heart",
+        "url": "https://open.spotify.com/album/64VffnmPZXPiWG5pokLwFQ"
+      },
+      "artists": [
+        {
+          "name": "Hannah Frances",
+          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
+        }
+      ],
+      "duration_ms": 297120,
+      "name": "Circadian Heart",
+      "url": "https://open.spotify.com/track/1FcjL0pcI544fQkgwcQCil"
+    },
+    {
       "added_at": "2026-10-14 14:23:44",
       "album": {
         "name": "Outside",
@@ -71,6 +183,22 @@
       "duration_ms": 237946,
       "name": "Outside",
       "url": "https://open.spotify.com/track/2PvIlbYyWnYPipFniXO7sX"
+    },
+    {
+      "added_at": "2026-10-21 14:42:21",
+      "album": {
+        "name": "Rearrange My Mind",
+        "url": "https://open.spotify.com/album/58WYQfF84BzVY18WH2TTbn"
+      },
+      "artists": [
+        {
+          "name": "Alien Boy",
+          "url": "https://open.spotify.com/artist/65vqyT3OjG2zvb3cO1s44j"
+        }
+      ],
+      "duration_ms": 249899,
+      "name": "Now Yr Calling Me Baby",
+      "url": "https://open.spotify.com/track/6nOrl4RgyvPCaF6ZWiNx4V"
     },
     {
       "added_at": "2026-10-14 14:23:44",
@@ -639,22 +767,6 @@
     {
       "added_at": "2026-09-16 13:55:51",
       "album": {
-        "name": "Wednesday Is Green",
-        "url": "https://open.spotify.com/album/5YBI7fZPWuP6AN67yE5oFb"
-      },
-      "artists": [
-        {
-          "name": "Schaefer Llana",
-          "url": "https://open.spotify.com/artist/2p4lD1A4m58EkqOjvcHRsq"
-        }
-      ],
-      "duration_ms": 158194,
-      "name": "Wednesday Is Green",
-      "url": "https://open.spotify.com/track/1IlRqNw2hTAPoy0CYHiKZB"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
         "name": "Magic Mirror",
         "url": "https://open.spotify.com/album/7l9VfGEwRQ4lxwO5rN4WsA"
       },
@@ -883,22 +995,6 @@
     {
       "added_at": "2026-09-16 13:55:51",
       "album": {
-        "name": "Where'd You Go?",
-        "url": "https://open.spotify.com/album/095YAnEqxe5UAvpWcghKER"
-      },
-      "artists": [
-        {
-          "name": "Lila Dupont",
-          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Where'd You Go?",
-      "url": "https://open.spotify.com/track/6KntJiYlz3eCI5Ipymv2ad"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
         "name": "The Watcher",
         "url": "https://open.spotify.com/album/7oPKyjnqb24Pu1d2jgNYvA"
       },
@@ -1031,122 +1127,6 @@
       "duration_ms": 232146,
       "name": "Three Reds",
       "url": "https://open.spotify.com/track/5C31HrFnn33HttYisW9kLE"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
-        "name": "You Won't Get My Message but You'll Hear It",
-        "url": "https://open.spotify.com/album/5e3rEnZ6u57bMgXulTZ2xB"
-      },
-      "artists": [
-        {
-          "name": "Coco Smith",
-          "url": "https://open.spotify.com/artist/3vzRcCdJw5Sk24gJoaMB6E"
-        }
-      ],
-      "duration_ms": 198810,
-      "name": "Multiform",
-      "url": "https://open.spotify.com/track/2bmiqYmS6rhfbUEUCXKueV"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
-        "name": "The Knife, The Needle",
-        "url": "https://open.spotify.com/album/1AdsKirDq40xEEPn9LIN9P"
-      },
-      "artists": [
-        {
-          "name": "Elanor Moss",
-          "url": "https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz"
-        }
-      ],
-      "duration_ms": 265470,
-      "name": "Secrets of the Universe",
-      "url": "https://open.spotify.com/track/5iK2SvTDRyGlb6d88o1K5l"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
-        "name": "Night Fright",
-        "url": "https://open.spotify.com/album/7nUVcReY0e4u6tNjJiV9Ml"
-      },
-      "artists": [
-        {
-          "name": "Biita Houdei",
-          "url": "https://open.spotify.com/artist/2oUHYLsX20aJwPuwVAguC3"
-        }
-      ],
-      "duration_ms": 236676,
-      "name": "Night Fright",
-      "url": "https://open.spotify.com/track/5snvp77A1cclZQxyAQiQbY"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
-        "name": "Great Big Idea",
-        "url": "https://open.spotify.com/album/35og3IxAFbEYQQLtmxjvCW"
-      },
-      "artists": [
-        {
-          "name": "Katie Lynne Sharbaugh",
-          "url": "https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu"
-        }
-      ],
-      "duration_ms": 116250,
-      "name": "New Season",
-      "url": "https://open.spotify.com/track/6TFveaHji4cN80I8dMti5f"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
-        "name": "winner (deluxe edition)",
-        "url": "https://open.spotify.com/album/3Gv0nXcKGHYSjywqQMdyKV"
-      },
-      "artists": [
-        {
-          "name": "Ella Woolsey",
-          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
-        }
-      ],
-      "duration_ms": 146199,
-      "name": "long way home",
-      "url": "https://open.spotify.com/track/6uHtF3g68x3Mwj0xBmPh0n"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
-        "name": "Blue Stained Glass",
-        "url": "https://open.spotify.com/album/6BZx64F9oGZjasmpGKrn1w"
-      },
-      "artists": [
-        {
-          "name": "Al Nicol",
-          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
-        },
-        {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Blue Stained Glass",
-      "url": "https://open.spotify.com/track/1PzX46fVtrCzJiaopKwu3h"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
-        "name": "Raging Storms Turned to Beach Weather",
-        "url": "https://open.spotify.com/album/5BZbnRd4Xc4bPAowC39ur1"
-      },
-      "artists": [
-        {
-          "name": "Lorana",
-          "url": "https://open.spotify.com/artist/5f0UvwT0IueZUyTblRVwKA"
-        }
-      ],
-      "duration_ms": 173375,
-      "name": "Coming up for Air",
-      "url": "https://open.spotify.com/track/3xjtL3xd3VYg7qSLSGlH0A"
     },
     {
       "added_at": "2026-09-16 13:55:51",

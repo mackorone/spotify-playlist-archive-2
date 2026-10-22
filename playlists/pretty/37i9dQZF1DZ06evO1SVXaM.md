@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SVXaM.md) - [plain]
 
 > This is Michael Jackson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,591,434 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,591,850 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SVXaM.md) - [plain]
 | 47 | [Scream](https://open.spotify.com/track/4LD5dhQ3kqpqe14sGPDtBC) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 4:37 |
 | 48 | [Unbreakable](https://open.spotify.com/track/5L9anTQJGLyRObYDYvLWdh) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 6:26 |
 | 49 | [Hollywood Tonight](https://open.spotify.com/track/6J69x61f9wuyBBxjmYGFqb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Michael](https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf) | 4:30 |
-| 50 | [One Day In Your Life](https://open.spotify.com/track/7vtaQNW7QHtQsLeshQlm3D) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Forever, Michael](https://open.spotify.com/album/6leeBdAohG7zhybC3Cmu8W) | 4:18 |
+| 50 | [Come Together](https://open.spotify.com/track/3tE5OfatEheU3L5nSpW9FD) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 4:02 |
 
 Snapshot ID: `atVdgAAAAAA6w7A37Yp6BQxc1+MQ6RGl`

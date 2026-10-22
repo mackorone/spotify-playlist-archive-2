@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ドミコ Domico
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,974 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,982 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [存え](https://open.spotify.com/track/2JhKZXQxQA2YrtDsSelCX8) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [うつつしい](https://open.spotify.com/album/46lTCCex0qLG8Q0dTYZPDb) | 3:12 |
 | 2 | [バッキンガム](https://open.spotify.com/track/5CcNcNIKel7ZcwKGBuYUh0) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [Passion Tours](https://open.spotify.com/album/5EQGqEvNwA29T9Y3sw8xkL) | 4:40 |
-| 3 | [Track 5](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 0:00 |
+| 3 | [i won't see you anymore](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 4:02 |
 | 4 | [Treasure Your Mom](https://open.spotify.com/track/21kzPlITOdLfQEBkMShi1b) | [めっちゃ美人](https://open.spotify.com/artist/3qFK1j4FfFGUiR7EeeLbuZ) | [コンプリート・ファイター４](https://open.spotify.com/album/4shvUNVrn33DG58uNYSNH9) | 4:12 |
 | 5 | [Chase](https://open.spotify.com/track/2xxXZUjToZAsVKOrdE9wke) | [ひとひら](https://open.spotify.com/artist/3PKV6Xh7jBI15NF76VX0hp) | [Chase/Red Eyes, Blue Eyes](https://open.spotify.com/album/6cSHui7BZpEfHPBCPOVYLb) | 3:46 |
 | 6 | [BRITE](https://open.spotify.com/track/7EarxSAzbNmgfNwo9NrVGE) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [FINGERS CROSSED](https://open.spotify.com/album/1gywVftidhH77Fv5DjRgNC) | 2:09 |

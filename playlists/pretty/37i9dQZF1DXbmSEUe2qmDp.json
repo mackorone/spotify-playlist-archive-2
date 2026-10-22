@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo",
-  "num_followers": 482880,
+  "num_followers": 482875,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Donas do Bar em Goi\u00e2nia - Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Fgxf3hh1OXOjCDjPi5Dbk"
-      },
-      "artists": [
-        {
-          "name": "Donas do Bar",
-          "url": "https://open.spotify.com/artist/6fF0MJ2PuMeOuiJ1soyMcY"
-        }
-      ],
-      "duration_ms": 158982,
-      "name": "Duzent\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0SES1umyru6s8TpgcZqEi3"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
         "name": "Perdid\u00e3o",
         "url": "https://open.spotify.com/album/4iHT5kTIal0HSj7D00u1nR"
       },
@@ -495,22 +479,18 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Guarda Roupa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7ISRu7phDPu6rhOvNb3lXX"
+        "name": "Donas do Bar em Goi\u00e2nia - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Fgxf3hh1OXOjCDjPi5Dbk"
       },
       "artists": [
         {
-          "name": "EMY",
-          "url": "https://open.spotify.com/artist/13fMx723suUQcpO78PPD8W"
-        },
-        {
-          "name": "Day e Lara",
-          "url": "https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H"
+          "name": "Donas do Bar",
+          "url": "https://open.spotify.com/artist/6fF0MJ2PuMeOuiJ1soyMcY"
         }
       ],
-      "duration_ms": 150655,
-      "name": "Guarda Roupa - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xbIuGkAnhLZ4C6zVh5XpP"
+      "duration_ms": 158982,
+      "name": "Duzent\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0SES1umyru6s8TpgcZqEi3"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -527,6 +507,26 @@
       "duration_ms": 145722,
       "name": "Cerveja Falando - Ao Vivo",
       "url": "https://open.spotify.com/track/0rD068pBtD2L4DAolWFD20"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
+        "name": "Guarda Roupa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ISRu7phDPu6rhOvNb3lXX"
+      },
+      "artists": [
+        {
+          "name": "EMY",
+          "url": "https://open.spotify.com/artist/13fMx723suUQcpO78PPD8W"
+        },
+        {
+          "name": "Day e Lara",
+          "url": "https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H"
+        }
+      ],
+      "duration_ms": 150655,
+      "name": "Guarda Roupa - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xbIuGkAnhLZ4C6zVh5XpP"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
-        "name": "Preso ao Seu Beijo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Rb9S21Wmvkxi3lRtT9j3X"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Lucas Freitas",
-          "url": "https://open.spotify.com/artist/7l8JSl0ib6HH3lZdPcDwAM"
-        },
-        {
-          "name": "Cleber & Cauan",
-          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
-        }
-      ],
-      "duration_ms": 162629,
-      "name": "Preso ao Seu Beijo - Ao Vivo",
-      "url": "https://open.spotify.com/track/3hPdbS6PAjFM9biBQajjxR"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
         "name": "Meu Astral",
         "url": "https://open.spotify.com/album/2j9q1BZPQELmyK4DCAaF3W"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 131432,
       "name": "Congela",
       "url": "https://open.spotify.com/track/4TAOgIHpKBc5mgrY6m5iqT"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
+        "name": "Preso ao Seu Beijo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Rb9S21Wmvkxi3lRtT9j3X"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Lucas Freitas",
+          "url": "https://open.spotify.com/artist/7l8JSl0ib6HH3lZdPcDwAM"
+        },
+        {
+          "name": "Cleber & Cauan",
+          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
+        }
+      ],
+      "duration_ms": 162629,
+      "name": "Preso ao Seu Beijo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3hPdbS6PAjFM9biBQajjxR"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
+        "name": "Melhor Que Nada",
+        "url": "https://open.spotify.com/album/6bngCBIIs1owLd2AqaiEmx"
+      },
+      "artists": [
+        {
+          "name": "William Couto e Adriano",
+          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
+        }
+      ],
+      "duration_ms": 131277,
+      "name": "Melhor Que Nada",
+      "url": "https://open.spotify.com/track/3AO9yY4VXDs0lXkqjhUCVh"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
         "name": "Esquec\u00edvel (Ao Vivo)",
         "url": "https://open.spotify.com/album/6pIAHUlvlgeqzkgYPZ5sfd"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 198794,
       "name": "Esquec\u00edvel - Ao Vivo",
       "url": "https://open.spotify.com/track/2n4pwBxp0f5rQOZsZCJ09f"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
-        "name": "Melhor Que Nada",
-        "url": "https://open.spotify.com/album/6bngCBIIs1owLd2AqaiEmx"
-      },
-      "artists": [
-        {
-          "name": "William Couto e Adriano",
-          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
-        }
-      ],
-      "duration_ms": 131277,
-      "name": "Melhor Que Nada",
-      "url": "https://open.spotify.com/track/3AO9yY4VXDs0lXkqjhUCVh"
     },
     {
       "added_at": "2026-10-09 16:52:15",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-10-09 16:52:15",
       "album": {
+        "name": "M\u00e3os Juntas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7sckhZS1n1hp0ucF9muWTK"
+      },
+      "artists": [
+        {
+          "name": "S\u00e2mi Rico",
+          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
+        }
+      ],
+      "duration_ms": 214571,
+      "name": "M\u00e3os Juntas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1cd046aQyr3pb0jzsOPkRE"
+    },
+    {
+      "added_at": "2026-10-09 16:52:15",
+      "album": {
         "name": "Primeiro Rol\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/6yEMAMQe67D0czjHDX3jzZ"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 172999,
       "name": "Primeiro Rol\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/0kMvs53wPbOmPP1XVmba54"
-    },
-    {
-      "added_at": "2026-10-09 16:52:15",
-      "album": {
-        "name": "M\u00e3os Juntas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7sckhZS1n1hp0ucF9muWTK"
-      },
-      "artists": [
-        {
-          "name": "S\u00e2mi Rico",
-          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
-        }
-      ],
-      "duration_ms": 214571,
-      "name": "M\u00e3os Juntas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1cd046aQyr3pb0jzsOPkRE"
     },
     {
       "added_at": "2026-10-09 16:52:15",

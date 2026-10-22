@@ -4,7 +4,7 @@
 
 > Cover: Shaw
 
-564 songs - 1 day 5 hr 8 min
+566 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Crocodile](https://open.spotify.com/track/7qNjrURi3blSkQT5e8G76d) | [Lee Browz](https://open.spotify.com/artist/2sfOdRW5RsJPXuko7qJcjS) | [Crocodile](https://open.spotify.com/album/6rVdRe3s9TEmut5H04wstl) | 2:27 | 2024-11-21 | 2024-12-22 |
 | [CVP](https://open.spotify.com/track/3ZHISEni91oxZLbjDmtsAy) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 2:47 | 2026-06-18 |  |
 | [Dama](https://open.spotify.com/track/43cOEd6sTJpYlKs5gdiFJx) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Traitement 2](https://open.spotify.com/album/4IK4fAqrL0kHKX0jDdgzi0) | 2:55 | 2026-06-06 |  |
-| [DARBEDA](https://open.spotify.com/track/0ZjqXH9bjK0N9lnmDz0c6d) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 2:54 | 2026-05-21 |  |
+| [DARBEDA](https://open.spotify.com/track/0ZjqXH9bjK0N9lnmDz0c6d) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 2:54 | 2026-05-21 | 2026-10-22 |
 | [Dawk Lya](https://open.spotify.com/track/5OInx13SpghEifbS5bQmwq) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4vbm2Tj7L5fbzD1q5MmFrP) | 2:28 | 2022-11-14 | 2024-01-05 |
 | [DAZOU LYAM](https://open.spotify.com/track/5ibGXVIgn6Z82imF6z3OuV) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD](https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq) | 2:34 | 2025-10-06 | 2026-09-04 |
 | [DEM](https://open.spotify.com/track/1xCAg2vbgoxn8Ae42jpa4D) | [Lee Browz](https://open.spotify.com/artist/2sfOdRW5RsJPXuko7qJcjS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [DEM](https://open.spotify.com/album/4HFhrKNp5oNrCdxh2lhi2J) | 3:15 | 2025-11-24 | 2025-12-16 |
@@ -177,7 +177,7 @@
 | [FACE TO FACE](https://open.spotify.com/track/67nsE7s6yfIg7o9HAdkq7H) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD](https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq) | 3:24 | 2025-04-17 | 2025-06-28 |
 | [Farabi](https://open.spotify.com/track/02o7lbyZIApp7NBkPdCaTc) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [Farabi](https://open.spotify.com/album/4eoDHeBPry2u5eGSs7Odor) | 3:09 | 2024-07-12 | 2024-07-23 |
 | [FASMA](https://open.spotify.com/track/7l2fdBuvtRt4tyWO8qtsR0) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [K°](https://open.spotify.com/album/29mZb79vD9uxVblI4Xh1hp) | 2:31 | 2025-05-22 | 2025-07-17 |
-| [Fat L7al](https://open.spotify.com/track/6NkranQpHTZTmgxka20LAe) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 3:19 | 2025-11-29 |  |
+| [Fat L7al](https://open.spotify.com/track/6NkranQpHTZTmgxka20LAe) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 3:19 | 2025-11-29 | 2026-10-22 |
 | [Fatigué](https://open.spotify.com/track/1bVkc6XXIHlCNPmFtGhDCa) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz), [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Fatigué](https://open.spotify.com/album/25imMsY4ERBPsHl8JcLCGj) | 2:56 | 2026-01-14 | 2026-04-10 |
 | [Faux Départ](https://open.spotify.com/track/26Skmv785i0ql4T3vJHgLe) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Faux Départ](https://open.spotify.com/album/6qvNXxEmDlVAcplTG2ybPM) | 2:45 | 2022-11-14 | 2023-06-23 |
 | [Fawda](https://open.spotify.com/track/64icnQSqsWkz0d7oQeNlB9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Fawda](https://open.spotify.com/album/4wHsvjXysSTYAkVnT9hhAc) | 4:20 | 2024-01-05 | 2024-02-09 |
@@ -392,7 +392,7 @@
 | [Passé simple](https://open.spotify.com/track/3QY4sVs362wtj80Q5eyWWQ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [L'MORPHINE](https://open.spotify.com/album/4uOkyB9V8LUsqQz4FP6pdq) | 3:29 | 2024-10-09 | 2024-10-31 |
 | [PEGASUS](https://open.spotify.com/track/6GnPNJKrjzxvBAFZxbD9V3) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 2:55 | 2026-05-21 | 2026-05-29 |
 | [Pepete](https://open.spotify.com/track/2vVX6SI8eLIk5ycRk1rCTR) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 2:45 | 2023-07-11 | 2024-01-14 |
-| [PER LA VITA](https://open.spotify.com/track/3zosYc9OVj4kZWrbdarnTL) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:12 | 2026-09-24 |  |
+| [PER LA VITA](https://open.spotify.com/track/3zosYc9OVj4kZWrbdarnTL) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:12 | 2026-09-24 | 2026-10-22 |
 | [PER LA VITA](https://open.spotify.com/track/6fcNMpMI0v7lHtvFKca5RW) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [PER LA VITA](https://open.spotify.com/album/0EAyhosSfXWBnBQVrKq46Z) | 3:12 | 2026-05-07 | 2026-09-25 |
 | [Pharmacie 2](https://open.spotify.com/track/3oeS7Fx2DMathnP2qSztJi) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Pharmacie 2](https://open.spotify.com/album/66C2VxOUAuM5ldmVPPGAvh) | 3:40 | 2023-12-15 | 2024-01-24 |
 | [Pharmacie 3](https://open.spotify.com/track/5l398epBtEEatlLi3DF969) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Pharmacie 3](https://open.spotify.com/album/05sne0xIdcXfyumATRNZZP) | 2:42 | 2025-11-18 | 2025-12-16 |
@@ -424,6 +424,7 @@
 | [RAMSES](https://open.spotify.com/track/7hjueI3R4N765QrBuChXgg) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [RAMSES](https://open.spotify.com/album/3ilhA0ugGZ9UYckz529fUw) | 3:06 | 2023-06-22 | 2023-07-12 |
 | [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/4MqDpQPykbFcJeF8xruknN) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/58SNMyClBKyTzSRQLaGHzv) | 3:00 | 2025-04-04 | 2025-07-17 |
 | [Rehab](https://open.spotify.com/track/4GGWAVyhrHWysVj3wyk523) | [Yo Asel](https://open.spotify.com/artist/4DWssq4DfReHOpK7BEVPgo), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Rehab](https://open.spotify.com/album/3zsV6gi1HFVr3j4EiPWJED) | 3:16 | 2024-04-19 | 2024-07-13 |
+| [Risala](https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [FRIZZY](https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a) | [Risala](https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU) | 3:16 | 2026-10-21 |  |
 | [Roche](https://open.spotify.com/track/7MmZnaetGl0Rfj11bgI3RE) | [100Alien](https://open.spotify.com/artist/0WSNCqjksPt4RrSitACgLW) | [Everything Asfi](https://open.spotify.com/album/50ptsaVhrPW6aJfGhbWdmF) | 2:30 | 2024-12-07 | 2025-01-01 |
 | [ROCKSTAR](https://open.spotify.com/track/3Jw3ROyy9VeKSPp3HkJ0nV) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 2:53 | 2026-05-21 | 2026-05-26 |
 | [ROMEO](https://open.spotify.com/track/0b8ed9KxYS34522QeBncH7) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw) | [ROMEO](https://open.spotify.com/album/42QiHBjANb2V2ZeDthCcwn) | 3:16 | 2023-07-13 | 2023-08-20 |
@@ -431,6 +432,7 @@
 | [Rooftop](https://open.spotify.com/track/14xb83sTdlt21uPgv9AeSr) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:43 | 2024-07-18 | 2024-07-23 |
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-11-14 | 2023-10-01 |
 | [Rwicha](https://open.spotify.com/track/05CEmWl3xGITe99ZZkgl2c) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Rwicha](https://open.spotify.com/album/1FK36KFJthvyz6tCJO7ZVP) | 2:56 | 2024-01-06 | 2024-05-26 |
+| [RWINA](https://open.spotify.com/track/1wNQEZIB3NGITP3hXO855l) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OLYMPICS](https://open.spotify.com/album/4cpZ5lDJdxU4AxY9G42dp8) | 3:25 | 2026-10-21 |  |
 | [Sabrine](https://open.spotify.com/track/2pl7M15413P7S23MWadlee) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Sabrine](https://open.spotify.com/album/7F8AGhPRsETl0HApPPhFLK) | 3:01 | 2025-07-16 | 2025-09-11 |
 | [Sacrifice](https://open.spotify.com/track/3PsH5lRJuFskbE856YAze2) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sacrifice](https://open.spotify.com/album/3M1KeYIDCrT8rAQRgUnOdK) | 3:13 | 2024-10-09 | 2024-10-22 |
 | [Saddam](https://open.spotify.com/track/1V1fukMsGEAcjNhWRiXbWQ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Saddam](https://open.spotify.com/album/0fBK1u4dXrqOEglhMzHII4) | 2:29 | 2025-01-30 | 2025-02-01 |

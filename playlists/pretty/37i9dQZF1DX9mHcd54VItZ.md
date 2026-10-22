@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Spoegwolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,788 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,791 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 16 | [Sweef](https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Sweef](https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1) | 3:25 |
 | 17 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
 | 18 | [Tastebud](https://open.spotify.com/track/0Cv9K5F37x5jYgAI6ccsru) | [Our Bodies](https://open.spotify.com/artist/1WROvbRgHUv2btWps6WzGW) | [Tastebud](https://open.spotify.com/album/7EHiopdM9NogJSOcnZ1CAx) | 4:20 |
-| 19 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
+| 19 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 20 | [Sê My Hoe](https://open.spotify.com/track/4F4bwh59Q5yR5uZ2gk90zt) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Sê My Hoe](https://open.spotify.com/album/0Smgjrlc6cHS4ILzvuo6z2) | 2:52 |
-| 21 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
+| 21 | [Hello](https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Hello Crazy World \-10th Anniversary Special](https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34) | 3:42 |
 | 22 | [Pose](https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2) | [Blush](https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F) | [Pose](https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY) | 3:22 |
 | 23 | [SELFBEWUS](https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SELFBEWUS](https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam) | 3:12 |
 | 24 | [Run](https://open.spotify.com/track/2L7pQAlDVp4nrpDb8s37bk) | [Tanaka](https://open.spotify.com/artist/2nD1C4UjyKoQ1D9ILt1Mph) | [Run](https://open.spotify.com/album/0tL973RQ3VFXGYf0gCnm13) | 4:00 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 32 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
 | 33 | [Vriende](https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Vriende](https://open.spotify.com/album/0zcoyriFyuRih2Eq2nmKLx) | 3:55 |
 | 34 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
-| 35 | [Stadig](https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5), [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Stadig](https://open.spotify.com/album/7oAz7GXt9SduiB3xfKzFNy) | 3:27 |
-| 36 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
+| 35 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
+| 36 | [Stadig](https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5), [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Stadig](https://open.spotify.com/album/7oAz7GXt9SduiB3xfKzFNy) | 3:27 |
 | 37 | [F all ur Friends](https://open.spotify.com/track/6g4J7sNnIOyH3aJaUoDbh4) | [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [F all ur Friends](https://open.spotify.com/album/0NlgEBjbq2HaTRe8QYVzfV) | 2:19 |
 | 38 | [Delete You.](https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Delete You.](https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3) | 3:08 |
 | 39 | [Pikkewynstraat](https://open.spotify.com/track/6kHnBVq4migU2NmT7JUVPI) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Pikkewynstraat](https://open.spotify.com/album/3qP7RP6ZB8dG83L3FjLAv0) | 3:00 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 46 | [Ek Wil Jou Sien](https://open.spotify.com/track/38N3F6mMbHDDN7Hs6Wr58h) | [SENTIMENT](https://open.spotify.com/artist/5UfvbQjea70nDgJ0xJ4NVt) | [Ek Wil Jou Sien](https://open.spotify.com/album/3MZY8GP0AniCPebdVyTLuO) | 3:03 |
 | 47 | [Doen Sy Bes](https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Nou Toer Ons!](https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89) | 2:58 |
 | 48 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
-| 49 | [Die Ruimte](https://open.spotify.com/track/2dJNS220dOuB5taOM56DsG) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Die Ruimte](https://open.spotify.com/album/7Evf8SmwVgb9vUxuvkSRql) | 2:58 |
-| 50 | [U Wanna?](https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [U Wanna?](https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g) | 3:48 |
+| 49 | [U Wanna?](https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY) | [Coasters](https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep) | [U Wanna?](https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g) | 3:48 |
+| 50 | [Die Ruimte](https://open.spotify.com/track/2dJNS220dOuB5taOM56DsG) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Die Ruimte](https://open.spotify.com/album/7Evf8SmwVgb9vUxuvkSRql) | 2:58 |
 
 Snapshot ID: `AAAAAOiRgcOoUC9ElBGC4JzQdW/Yc2PF`

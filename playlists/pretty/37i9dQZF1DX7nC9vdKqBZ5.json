@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1485665,
+  "num_followers": 1485539,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/3WkskrMgtz390TzYXFX5XC"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 245195,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/2I0J5YWZ8ostNNiDShh5Di"
+    },
+    {
+      "added_at": "2026-09-04 03:00:36",
+      "album": {
         "name": "Porque Eu Sei Que \u00c9 Amor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4GOE1sZ3a3jIXZo9mNKrkJ"
       },
@@ -1519,26 +1539,6 @@
       "duration_ms": 230160,
       "name": "Andarilho",
       "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
-    },
-    {
-      "added_at": "2026-09-04 03:00:36",
-      "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/3WkskrMgtz390TzYXFX5XC"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        },
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 245195,
-      "name": "A Cura",
-      "url": "https://open.spotify.com/track/2I0J5YWZ8ostNNiDShh5Di"
     },
     {
       "added_at": "2026-09-04 03:00:36",

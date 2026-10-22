@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Ski Aggu, Giant Rooks, Paula Hartmann, The Chainsmokers, Helene Fischer & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,539 likes - 92 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,463 likes - 92 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

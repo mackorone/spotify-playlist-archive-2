@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,586 likes - 75 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,589 likes - 75 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 69 | [say im ur luv \- Jumbo Sounds Remix](https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Jumbo Sounds](https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq) | [say im ur luv \(Jumbo Sounds Remix\)](https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm) | 2:17 |
 | 70 | [Price Going Up \- Jersey Club Remix](https://open.spotify.com/track/3NSphTW6yxfcr1qnUcxDF3) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Ramen Noodles EP](https://open.spotify.com/album/1lHev4TyDDEAnXQXYGofKQ) | 2:13 |
 | 71 | [All My Ladies](https://open.spotify.com/track/3rIrIajLfPH2pom9OLlJwY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [All My Ladies](https://open.spotify.com/album/1l1zRxLqhq4woSMIwK5VwG) | 1:13 |
-| 72 | [Anytime I Want, Pt\. 2](https://open.spotify.com/track/77jOT6Faz1r2mP1bcGR1Gu) | [DJ SoulChild AC](https://open.spotify.com/artist/1dH2cKRZSWg0Bx64RavLNH), [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [NJ Turnpike, Vol\. 1 \(A Jersey Club Mixtape\)](https://open.spotify.com/album/0atiXVuqlhHIfdPQeunWG6) | 1:32 |
-| 73 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
+| 72 | [Freaky](https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 1:48 |
+| 73 | [Anytime I Want, Pt\. 2](https://open.spotify.com/track/77jOT6Faz1r2mP1bcGR1Gu) | [DJ SoulChild AC](https://open.spotify.com/artist/1dH2cKRZSWg0Bx64RavLNH), [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [NJ Turnpike, Vol\. 1 \(A Jersey Club Mixtape\)](https://open.spotify.com/album/0atiXVuqlhHIfdPQeunWG6) | 1:32 |
 | 74 | [cómo t va?](https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [cómo t va?](https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd) | 2:06 |
 | 75 | [goingoutsad](https://open.spotify.com/track/2YhmhcFT5JTlbNHSeKTk3W) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [goingoutsad](https://open.spotify.com/album/5VC48rIAFB2zQLiukR16DN) | 1:59 |
 

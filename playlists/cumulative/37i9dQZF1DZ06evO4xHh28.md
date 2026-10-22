@@ -4,7 +4,7 @@
 
 > This is My Chemical Romance\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 15 min
+72 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [S/C/A/R/E/C/R/O/W](https://open.spotify.com/track/53lQywP7h2KlnfPAbwxWD9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:28 | 2026-05-17 | 2026-05-24 |
 | [Save Yourself, I'll Hold Them Back](https://open.spotify.com/track/3CX5UKLQ9zqorQDx00Sbgt) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 3:50 | 2026-05-24 | 2026-06-13 |
 | [SING](https://open.spotify.com/track/1mX6SYJ1ZpcoxQUiER8wOI) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:30 | 2022-10-25 |  |
+| [Someone Out There Loves You \- Live from Hoboken](https://open.spotify.com/track/2kREupp2rkisjpHuRVIfM1) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Someone Out There Loves You \(Live from Hoboken\)](https://open.spotify.com/album/60dj5xoagWpkgQJU8GYFfb) | 3:28 | 2026-10-22 |  |
 | [Summertime](https://open.spotify.com/track/7cQjIIjLOhbRVCXyIepF2U) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:06 | 2022-10-25 |  |
 | [Surrender the Night](https://open.spotify.com/track/6NDaxwtVhUHg49bTc99l2S) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Five](https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr) | 3:27 | 2022-10-25 |  |
 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 | 2022-10-25 |  |

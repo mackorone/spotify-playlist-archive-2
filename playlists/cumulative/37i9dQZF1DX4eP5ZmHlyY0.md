@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: Jeonghan x Joshua
 
-1,154 songs - 2 day 14 hr 13 min
+1,155 songs - 2 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,6 +569,7 @@
 | [MAPLELATTE](https://open.spotify.com/track/5kESieK998xFJjigvYreWJ) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Dear.M \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1P4dQAVfrGGWHrJpBb8SSu) | 3:53 | 2025-04-17 | 2025-05-09 |
 | [Mark on Me](https://open.spotify.com/track/5rLa4taWmqZsZBDh5iKNIH) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Mark on Me](https://open.spotify.com/album/6QtmQ4jeXLLLZnLitg5gUj) | 2:51 | 2026-09-08 |  |
 | [Marmalade](https://open.spotify.com/track/1yuhVkErJhVz0Y8dr73y2G) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Marmalade](https://open.spotify.com/album/6IRDoLszHjzvriH80RFlJj) | 2:44 | 2025-11-21 | 2026-02-23 |
+| [Masterpiece](https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Masterpiece](https://open.spotify.com/album/2mCoRKgz1QeoSZETF68AY6) | 2:49 | 2026-10-21 |  |
 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-04-23 | 2025-01-29 |
 | [Maverick](https://open.spotify.com/track/7hb8xsnKg4vnamKof6P7SA) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [BLACK TOKYO](https://open.spotify.com/album/3TD29NJ6jz6qUtzMY0wtc8) | 3:41 | 2026-05-19 | 2026-05-27 |
 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 | 2025-05-08 | 2025-09-05 |
@@ -976,7 +977,7 @@
 | [WE ARE](https://open.spotify.com/track/6s9tyJZi9bzB2mlClX0wq7) | [STARTO for you](https://open.spotify.com/artist/2zaYhpTOgIi02oNR6mxbiz) | [WE ARE](https://open.spotify.com/album/0uBmPpcPFPBIRbuny5xELa) | 5:21 | 2024-04-09 | 2025-01-04 |
 | [We are the best](https://open.spotify.com/track/2ZH5inwjqHJ1ByyhKEZrE7) | [EXILE THE SECOND](https://open.spotify.com/artist/5l7Uyt1IiYk8l93ohXiQd6) | [THE FAR EAST COWBOYZ \(E.P.\)](https://open.spotify.com/album/0UJIgWc7sdJZ8VhxEnzLhT) | 3:26 | 2024-02-29 | 2024-03-06 |
 | [We on Fire](https://open.spotify.com/track/2kTUvehmbBMYky7r29uylJ) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [We on Fire](https://open.spotify.com/album/3hSeGtxUOFxbXM9NwRWIHO) | 2:34 | 2026-04-13 | 2026-08-01 |
-| [We'll Be Fine](https://open.spotify.com/track/59BPHsLyDIPNGq3ZibyQI8) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [We'll Be Fine](https://open.spotify.com/album/4CDFwKCQeTLzEetCoKwrjG) | 2:54 | 2026-06-29 |  |
+| [We'll Be Fine](https://open.spotify.com/track/59BPHsLyDIPNGq3ZibyQI8) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [We'll Be Fine](https://open.spotify.com/album/4CDFwKCQeTLzEetCoKwrjG) | 2:54 | 2026-06-29 | 2026-10-22 |
 | [Welcome To Our Show Tonight](https://open.spotify.com/track/0bqPmSjWUysmjTwEuYnV7u) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [’s travelers](https://open.spotify.com/album/1RNh6f6HMQ2woD5KHr0Rbo) | 3:57 | 2025-12-02 | 2026-01-22 |
 | [What is done \- feat\. BOOM BOOM CASH](https://open.spotify.com/track/7CgAIw3V4wocPaH5Kt4a4K) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW), [Boom Boom Cash](https://open.spotify.com/artist/2Q6XC0dzJl7VbE678w82Vf) | [What is done \(feat\. BOOM BOOM CASH\)](https://open.spotify.com/album/7DZpUkMThxkXuZBzb2rxTO) | 4:18 | 2023-11-24 | 2023-12-20 |
 | [What Is Your Secret?](https://open.spotify.com/track/7GSDi90nphdPZfkieyuZGe) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [What Is Your Secret?](https://open.spotify.com/album/3X0CLXVrz3teE9SQQShyeS) | 3:36 | 2025-02-25 | 2025-04-21 |

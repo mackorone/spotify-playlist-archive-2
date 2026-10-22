@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-189 songs - 8 hr 21 min
+190 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Cold Gangsta](https://open.spotify.com/track/700cZW0tW9q1amsUhsUDkA) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Cold Gangsta](https://open.spotify.com/album/59XP7yesh6A9KlpST9Rx11) | 3:31 | 2023-03-24 | 2025-02-07 |
 | [Come Eat Wit Us](https://open.spotify.com/track/7rWkkbMoqJD7M6ALfD66y0) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Come Eat Wit Us](https://open.spotify.com/album/0usJU0onHYjuQmvFXHp0LN) | 2:56 | 2023-02-15 | 2023-02-23 |
 | [Come Eat Wit Us](https://open.spotify.com/track/32KUTMzHo7G8Yx80enCYue) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Come Eat Wit Us](https://open.spotify.com/album/53AbV3G4ntie0a4dBg7oUy) | 2:56 | 2023-02-22 | 2023-07-05 |
+| [Come Home](https://open.spotify.com/track/6bDBI9WP59AI2cjn20oQV2) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:46 | 2026-10-22 |  |
 | [Come On](https://open.spotify.com/track/4waBLhyDuZaTBpbZZCJzNm) | [EST DonWon](https://open.spotify.com/artist/0gGnzjMxj0SABNG2Zhgekd), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Come On](https://open.spotify.com/album/3di9y03sPi3y6Z5hq7M9wF) | 2:41 | 2023-11-10 | 2023-12-14 |
 | [Crash](https://open.spotify.com/track/2GKX005I57lLXkxuhp6vn0) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 3:19 | 2025-02-02 | 2025-02-05 |
 | [Death Around The Corner \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/3zGZJdM9kXWYatib6GWyk9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:43 | 2022-10-28 | 2025-02-02 |
@@ -69,7 +70,7 @@
 | [Free The Shiners](https://open.spotify.com/track/7f0jidOh8lBPZRZpANOEER) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:05 | 2022-10-28 | 2025-09-09 |
 | [Free Z5](https://open.spotify.com/track/6mAzAx2H1vYWZm83OdsCQO) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You \(Bonus Edition\)](https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua) | 2:36 | 2025-02-11 | 2025-06-15 |
 | [Gang Nem \(feat\. EST Gee\)](https://open.spotify.com/track/6t4OP550372zgiAof928AR) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Survivor Of The Trenches](https://open.spotify.com/album/41HpilA0zyDdHoAYhS9V13) | 2:23 | 2022-12-04 | 2024-12-07 |
-| [Gangatroni](https://open.spotify.com/track/3ttCrTtqA6OHBudFhTCTZv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 2:34 | 2026-08-07 | 2026-08-09 |
+| [Gangatroni](https://open.spotify.com/track/3ttCrTtqA6OHBudFhTCTZv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 2:34 | 2026-08-07 |  |
 | [Gangsta Art \(Yo Gotti, Moneybagg Yo feat\. 42 Dugg, EST Gee, Mozzy, Lehla Samia, Blac Youngsta\)](https://open.spotify.com/track/63u4taM8CTklMQhrcV3via) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 4:58 | 2022-10-28 | 2023-09-03 |
 | [geeski ball new intro](https://open.spotify.com/track/1OA2Q3cBJumQWOMVj9ZK3b) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 1:32 | 2025-06-15 | 2026-04-17 |
 | [GEESKI mode 11am FINISHED](https://open.spotify.com/track/1fp4xsU0LSDh57s4RYeOPv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:31 | 2025-06-15 | 2025-09-11 |

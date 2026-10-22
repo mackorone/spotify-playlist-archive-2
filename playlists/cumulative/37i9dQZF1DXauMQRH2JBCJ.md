@@ -4,7 +4,7 @@
 
 > All your favorite Disney songs wrapped up with love!
 
-149 songs - 7 hr 42 min
+150 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Go the Distance](https://open.spotify.com/track/2rm72l5pjfby1cWvPMUojI) | [Roger Bart](https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7z46fPkl9344yv05HT1Uoq) | 3:14 | 2022-03-16 | 2022-07-29 |
 | [Go the Distance](https://open.spotify.com/track/0D1OY0M5A0qD5HGBvFmFid) | [Roger Bart](https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 3:14 | 2022-07-07 | 2026-01-29 |
 | [Go the Distance \- From "Hercules" / Soundtrack Version](https://open.spotify.com/track/3F4SrzdNtviMetb8oSYZog) | [Roger Bart](https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [NOW That's What I Call Disney](https://open.spotify.com/album/2q1CZCUv9MxonuzgFkC8hS) | 3:15 | 2022-09-15 | 2022-11-13 |
+| [Happier With You](https://open.spotify.com/track/0VfkxnL69Zt5M2hNgGr8Of) | [Allegra Miles](https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu) | [Winnie the Pooh 100th Anniversary Songbook](https://open.spotify.com/album/4SegXiQTuNTCZl8XLjRQDs) | 2:34 | 2026-10-21 |  |
 | [Happily Ever After \- Full Version](https://open.spotify.com/track/2DMgt7RVEBD0Likx7GGHqg) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Happily Ever After \(Full Version\)](https://open.spotify.com/album/5G6LlLP5I8HvrWYzXPdQUY) | 3:58 | 2022-03-16 |  |
 | [He Could Be the One](https://open.spotify.com/track/07HPV6hzecJmMJwsIX8YVU) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana 3](https://open.spotify.com/album/0bKrYLZrKCH5qGzgwPxLcl) | 3:00 | 2025-02-14 | 2026-01-29 |
 | [Here Beside Me \- From "Mulan II"/Soundtrack Version](https://open.spotify.com/track/7tND1rRdqqLkLkUSa3RrIW) | [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6) | [Mulan II](https://open.spotify.com/album/0WBry5D50ZVd0nhQMb3FAh) | 2:35 | 2025-02-14 | 2026-01-29 |

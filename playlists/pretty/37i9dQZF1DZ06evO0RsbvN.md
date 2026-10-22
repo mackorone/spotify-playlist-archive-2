@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RsbvN.md) - [plain]
 
 > This is Ma Rainey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,408 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,409 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RsbvN.md) - [plain]
 | 49 | [Moonshine Blues](https://open.spotify.com/track/4pcXwrywIn0TVdNR9TkEUd) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 3:06 |
 | 50 | [Blues The World Forgot \- Part 1](https://open.spotify.com/track/3TL9i1IfZ7stBM5j5Umxgh) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 4 \(1926\-1927\)](https://open.spotify.com/album/4ZbiNXqQa1hWNw0jMQ249q) | 3:15 |
 
-Snapshot ID: `atQMAAAAAAB0CTtdeeNX10TEDSbtOT6c`
+Snapshot ID: `atVdgAAAAAANGKzRPRTLXJO0dvEFubL6`

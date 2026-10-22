@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-725 songs - 1 day 19 hr 34 min
+726 songs - 1 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Father Figure](https://open.spotify.com/track/1lD0oPIfSYid1LhPvgrz10) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 3:32 | 2025-10-09 | 2025-10-13 |
 | [Feels Like Tonight](https://open.spotify.com/track/2ybT2tUk0uqrjFE3ppf0et) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry \(Deluxe Edition\)](https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj) | 3:58 | 2024-01-29 |  |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:56 | 2024-10-06 | 2024-10-14 |
-| [feelslikeimfallinginlove](https://open.spotify.com/track/5VSqvL5NLxBr7uMNfjwLt8) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 3:56 | 2024-10-13 |  |
+| [feelslikeimfallinginlove](https://open.spotify.com/track/5VSqvL5NLxBr7uMNfjwLt8) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 3:56 | 2024-10-13 | 2026-10-22 |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-08-15 | 2024-10-07 |
 | [feelslikeimfallinginlove \- Zerb x Coldplay](https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy) | [feelslikeimfallinginlove \(Zerb x Coldplay\)](https://open.spotify.com/album/6N6LinnpbWWkxP0NeO2sDI) | 3:56 | 2025-08-15 |  |
 | [First Love](https://open.spotify.com/track/4lcFmr3KkpCgsa4zamPGzw) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/7DoFFUz6BAVBwUFaMCTTcL) | 3:35 | 2024-01-29 | 2024-04-29 |
@@ -445,7 +445,7 @@
 | [My Lover](https://open.spotify.com/track/1b1GhKwfNiCgPHLIQEtrbC) | [DeDe Lopez](https://open.spotify.com/artist/2Fwf4b7LtOky8FyRd9EF3J) | [I Do](https://open.spotify.com/album/5EjNgeRoK26Ot1PS3GlJFG) | 3:15 | 2024-01-29 |  |
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2024-01-30 |  |
 | [My Universe](https://open.spotify.com/track/2mQz6ltmgTaD1xokviAQkT) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/2pBS4dzQgMyOoBn9q6XPnt) | 4:44 | 2024-01-29 | 2024-02-02 |
-| [Naked](https://open.spotify.com/track/2fmyrECK6bdfoGven0UMZx) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:53 | 2024-01-29 |  |
+| [Naked](https://open.spotify.com/track/2fmyrECK6bdfoGven0UMZx) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:53 | 2024-01-29 | 2026-10-22 |
 | [Naked \- Acoustic Version](https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Naked \(Acoustic Version\)](https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO) | 3:50 | 2024-01-29 |  |
 | [Never Ending Song](https://open.spotify.com/track/5468fNbvpCnangJjmnc5V0) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:34 | 2024-04-07 |  |
 | [Never Ending Song](https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Never Ending Song](https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI) | 2:35 | 2024-01-29 | 2024-04-08 |
@@ -556,6 +556,7 @@
 | [Seal It with a Kiss](https://open.spotify.com/track/4z5q7dl5NWuta8wWNgvIIj) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/4uxzT5LmTxYP0JNxjQGBNs) | 3:26 | 2025-10-18 |  |
 | [Secrets](https://open.spotify.com/track/4qCgKKXa3CF6CzEDLW6vTt) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:30 | 2024-01-29 |  |
 | [Sem Explicacao](https://open.spotify.com/track/00wBx311oIwxJOHVvnybUt) | [Lucas Nathan](https://open.spotify.com/artist/6GBgcZEko9Nn4WJ3NSyVMb) | [Pra Beber 100 Moderacao](https://open.spotify.com/album/4gdu51udpSof8dbMWdQMKm) | 2:56 | 2025-01-09 | 2025-04-12 |
+| [Sem Explicação \(Ao Vivo\)](https://open.spotify.com/track/0VfWuGSRCE08QQAev40jVO) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC) | [Você Não Vale Nada, Vol\. 20 \(Ao Vivo\)](https://open.spotify.com/album/2bTiQmCVrypuSkM4MYgzoE) | 3:43 | 2026-10-21 |  |
 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 3:43 | 2024-01-29 | 2025-03-01 |
 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/563SfWAHJs4FBZMkRN0IFN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 3:43 | 2025-02-28 |  |
 | [Set It Off](https://open.spotify.com/track/2YFyIIfD3SCkvUpWXG5QO5) | [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE) | [Identified](https://open.spotify.com/album/5bySjyp3QNndELWvaCvRLX) | 3:03 | 2024-01-29 |  |

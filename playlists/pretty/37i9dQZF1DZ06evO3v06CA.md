@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,374 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,377 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 49 | [I Can Get off on You \- Remastered](https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:27 |
 | 50 | [Nothing I Can Do About It Now](https://open.spotify.com/track/0xbY7q5aImO8winKbVTIwo) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Horse Called Music](https://open.spotify.com/album/2vmSwAyQzzXsCc8BjHT0hf) | 3:19 |
 
-Snapshot ID: `atQMAAAAAAAaO+p2N4ZeBcqSoYh1ZUbN`
+Snapshot ID: `atVdgAAAAADYha5hm1y8MAhWAmeuJZme`

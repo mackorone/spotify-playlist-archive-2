@@ -4,7 +4,7 @@
 
 > This is Offset\. The essential tracks, all in one playlist.
 
-116 songs - 6 hr 3 min
+117 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Startender \(feat\. Offset and Tyga\)](https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:12 | 2023-11-10 |  |
 | [Step 1 \(with Offset\)](https://open.spotify.com/track/4GpTHfZ8vq7QDGB2fiSV7Q) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Where The Shooters Be](https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z) | 2:57 | 2023-11-10 | 2026-09-09 |
 | [Style Rare \(with Gunna\)](https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Style Rare \(with Gunna\)](https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0) | 3:28 | 2024-06-30 |  |
-| [Swing My Way](https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Swing My Way](https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z) | 2:59 | 2024-12-15 |  |
+| [Swing My Way](https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Swing My Way](https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z) | 2:59 | 2024-12-15 | 2026-10-22 |
+| [Swing My Way](https://open.spotify.com/track/5wTjFs7JDLNpzmEAKmI9G2) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [KIARI:OFFSET](https://open.spotify.com/album/6TAosyqS0VOSBzYnfKk0O6) | 2:59 | 2026-10-22 |  |
 | [Taste \(feat\. Offset\)](https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 3:49 | 2023-11-10 |  |
 | [TEN](https://open.spotify.com/track/47Mu0yAp5p468MRmGzNXE6) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [TEN](https://open.spotify.com/album/1qh5bAhH9uToDaAoQUmjfA) | 2:08 | 2025-02-16 | 2025-09-06 |
 | [UP THE SMOKE \(with Offset\)](https://open.spotify.com/track/3faAAUxohrxqYhPlneZ3XV) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [RICH YOUNGIN](https://open.spotify.com/album/3o5M2OXfUVRsUFrd7u4a5K) | 3:08 | 2024-02-23 | 2024-10-23 |

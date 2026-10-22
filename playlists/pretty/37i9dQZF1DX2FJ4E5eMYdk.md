@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,326 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,332 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 13 | [Staring At The Sun](https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 7:27 |
 | 14 | [Come Again](https://open.spotify.com/track/23UmwWszk53DqTksWWAlTa) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Wowed Out](https://open.spotify.com/album/65AADj5uYQYxQYxuXHfl9e) | 3:28 |
 | 15 | [Like Exploding Stones](https://open.spotify.com/track/3UEmMEcilrUnd589Nhv5ct) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 7:18 |
-| 16 | [Officially](https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Officially](https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv) | 3:25 |
-| 17 | [Mahal \- Edit](https://open.spotify.com/track/5hmdyjNLMxhrM15jXCCxan) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 2:16 |
-| 18 | [Pt\. Conception](https://open.spotify.com/track/0sAYNARKWZNALH8GnvKFER) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Sirenas](https://open.spotify.com/album/38UlWwOM9KA3uIhDDLBpOP) | 4:08 |
-| 19 | [Please Follow](https://open.spotify.com/track/1xbrpQQJy7bBN5y4Ch9xoC) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Chasing The Chimera](https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww) | 5:14 |
+| 16 | [Mahal \- Edit](https://open.spotify.com/track/5hmdyjNLMxhrM15jXCCxan) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 2:16 |
+| 17 | [Officially](https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Officially](https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv) | 3:25 |
+| 18 | [Please Follow](https://open.spotify.com/track/1xbrpQQJy7bBN5y4Ch9xoC) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Chasing The Chimera](https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww) | 5:14 |
+| 19 | [Pt\. Conception](https://open.spotify.com/track/0sAYNARKWZNALH8GnvKFER) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Sirenas](https://open.spotify.com/album/38UlWwOM9KA3uIhDDLBpOP) | 4:08 |
 | 20 | [Honey](https://open.spotify.com/track/7oCgYtZkRPGwqGIon03DyX) | [Ora Cogan](https://open.spotify.com/artist/0zZHy0tQvwi4L5HNvNq0QY) | [Hard Hearted Woman](https://open.spotify.com/album/1r3wE07afZnLGbikNXDt3X) | 4:26 |
 | 21 | [Dream Within a Dream](https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Dream Within a Dream](https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx) | 2:48 |
 | 22 | [Nothing Ever Happened](https://open.spotify.com/track/0Q2vqScvfcZOmxoXlW4p0V) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Microcastle](https://open.spotify.com/album/4wJ585ippGitIpRcGs1GD7) | 5:50 |
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 40 | [Hummingbird](https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Vanishing Shores](https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU) | 3:32 |
 | 41 | [Saturday](https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL) | [Whiskerman](https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta) | [Champions](https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05) | 5:18 |
 | 42 | [High School Gym](https://open.spotify.com/track/27PWfmplymTZ5jEQdkhKYf) | [Dougie Poole](https://open.spotify.com/artist/2GubanPI94YiSAy9uVC51y) | [High School Gym](https://open.spotify.com/album/7eOiQEZJn0rl9DzcK7kATJ) | 4:10 |
-| 43 | [Golden Gate](https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp) | [Miranda Lee Richards](https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc) | [Existential Beast](https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd) | 6:07 |
-| 44 | [Wild Heart](https://open.spotify.com/track/2jhCa4f4eQmynH1IKJ5k5a) | [Kashena Sampson](https://open.spotify.com/artist/4tFBS73AOrz19igc1nTjUt) | [Wild Heart](https://open.spotify.com/album/0qnnjt02keWTODhegEvQ09) | 3:42 |
+| 43 | [Wild Heart](https://open.spotify.com/track/2jhCa4f4eQmynH1IKJ5k5a) | [Kashena Sampson](https://open.spotify.com/artist/4tFBS73AOrz19igc1nTjUt) | [Wild Heart](https://open.spotify.com/album/0qnnjt02keWTODhegEvQ09) | 3:42 |
+| 44 | [Golden Gate](https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp) | [Miranda Lee Richards](https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc) | [Existential Beast](https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd) | 6:07 |
 | 45 | [To Who Knows Where](https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Who Knows Where](https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn) | 3:19 |
 | 46 | [Crazy](https://open.spotify.com/track/1nagrEJxg2Tayyy7p2MnKY) | [Au Revoir Simone](https://open.spotify.com/artist/0X0TajZO1RmY3D8u1JymYq) | [Move in Spectrums](https://open.spotify.com/album/3CmwvvTV1CA3MAMxn30oH3) | 2:58 |
 | 47 | [Just Like Me](https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk) | [Duff Thompson](https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ) | [Just Like Me](https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui) | 3:04 |
 | 48 | [About a Stranger](https://open.spotify.com/track/1Y6jgCIu6QVk2ZlvsunRI1) | [Chris Robinson Brotherhood](https://open.spotify.com/artist/7Jgf8XBIsOlXS1XOTOwz4A) | [Phosphorescent Harvest](https://open.spotify.com/album/1ZDQsr1Vgc48eLezq4xvBL) | 5:07 |
-| 49 | [The Last Dance](https://open.spotify.com/track/1l3SsMSAuxSv97ScbDfxF4) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Last Dance b/w 3000 AD Mass](https://open.spotify.com/album/2q4NYHzOGqQhbGuFh8ZE71) | 3:24 |
-| 50 | [Do What Feeds Your Soul](https://open.spotify.com/track/3vgVc48A4Zx2GvBblEMxce) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Shannon LaBrie](https://open.spotify.com/artist/2hbQ7GP1FxLy7D8lRX2Kq7) | [Do What Feeds Your Soul](https://open.spotify.com/album/1MCMIRmD3RAj9zbMLfdADw) | 2:35 |
+| 49 | [Do What Feeds Your Soul](https://open.spotify.com/track/3vgVc48A4Zx2GvBblEMxce) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA), [Shannon LaBrie](https://open.spotify.com/artist/2hbQ7GP1FxLy7D8lRX2Kq7) | [Do What Feeds Your Soul](https://open.spotify.com/album/1MCMIRmD3RAj9zbMLfdADw) | 2:35 |
+| 50 | [The Last Dance](https://open.spotify.com/track/1l3SsMSAuxSv97ScbDfxF4) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Last Dance b/w 3000 AD Mass](https://open.spotify.com/album/2q4NYHzOGqQhbGuFh8ZE71) | 3:24 |
 | 51 | [Confidence Man](https://open.spotify.com/track/6GLha5Z5Xj0TLdSzLjrDVC) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Confidence Man](https://open.spotify.com/album/1OqEjshsbgop2XCGBLOioB) | 4:42 |
 | 52 | [Feather Treasure](https://open.spotify.com/track/3gPJ9rfAs1taYcqhiHyclp) | [Jesse Sykes & The Sweet Hereafter](https://open.spotify.com/artist/02ojXsd1103Qc2uU5uhJHZ) | [Forever, I've Been Being Born](https://open.spotify.com/album/3VyvNsadYx06FdukB3xicS) | 3:42 |
 | 53 | [Taken Back](https://open.spotify.com/track/7wQ5xX9r0uKrXOYnTk9PH1) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [I Survived, It's Over](https://open.spotify.com/album/5oWXBPAnsuUy12jzPcOHpv) | 5:38 |

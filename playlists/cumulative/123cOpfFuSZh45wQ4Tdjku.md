@@ -4,7 +4,7 @@
 
 > mostly furry
 
-592 songs - 1 day 5 hr 7 min
+593 songs - 1 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [all I want is you](https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq) | [Rebzyyx](https://open.spotify.com/artist/6FfFBKjNgYYhHBiot04z1I), [hoshie star](https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001) | [all I want is you](https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V) | 2:31 | 2026-07-17 |  |
 | [ALL MY FELLAS](https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [ALL MY FELLAS](https://open.spotify.com/album/7eLQnewAuacJFug06cN6Er) | 2:21 | 2023-11-20 |  |
 | [All We Need Is Distance](https://open.spotify.com/track/0ojSKzh3cFhxArNL4lY15s) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 4:16 | 2024-07-19 |  |
+| [AlterHuman](https://open.spotify.com/track/5iFc7qq3RJDAvyGSHFm27Z) | [Autumn J.](https://open.spotify.com/artist/5F2rhyaflgXmVeW7NMUXAW) | [AlterHuman](https://open.spotify.com/album/3d0H87jQp62ycZXhCzHlau) | 2:33 | 2026-10-21 |  |
 | [AND I'M GONE](https://open.spotify.com/track/0HZVEAGKTRnLri74Dozk7N) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [AND I'M GONE](https://open.spotify.com/album/3ODN680Xd8ejR1cLBfWPX2) | 2:46 | 2026-08-24 |  |
 | [Angel Of Wrath \- Lute Exorcist Leader Song](https://open.spotify.com/track/3EOiDVx6xr9XCqy77bjNzg) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Angel Of Wrath \(Lute Exorcist Leader Song\)](https://open.spotify.com/album/4Q5oXfpUJwMm1llyY5btdd) | 2:57 | 2024-12-20 |  |
 | [Angel Wings](https://open.spotify.com/track/0thvNpqjYP6EnBfXZ63IsY) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Our Summer Dreams](https://open.spotify.com/album/1lBRF308MyR8tggVA9Qw6M) | 2:42 | 2026-08-05 |  |

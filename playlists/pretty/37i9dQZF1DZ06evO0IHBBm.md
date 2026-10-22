@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 19 | [Preciosidade](https://open.spotify.com/track/5dZ44ovq0lsSvf72vAC1t2) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 4:49 |
 | 20 | [Diário de um Vencedor](https://open.spotify.com/track/3bP06nmIxxAjI2EfZreyJD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Diário de um Vencedor](https://open.spotify.com/album/5mBdO3ZcFBZ4qW7LAk9ARb) | 5:22 |
 | 21 | [A Tenda \(Ao Vivo\)](https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [A Tenda \(Ao Vivo\)](https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9) | 7:50 |
-| 22 | [Sou Eu](https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 5:12 |
+| 22 | [Eu Quero Ver o Seu Milagre](https://open.spotify.com/track/5nEqDoo9cdpDwmrdsJGC6i) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 4:33 |
 | 23 | [Quem Viver Verá](https://open.spotify.com/track/1V12zsH9LzszGEwxcPUhWo) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 4:44 |
-| 24 | [Eu Quero Ver o Seu Milagre](https://open.spotify.com/track/5nEqDoo9cdpDwmrdsJGC6i) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 4:33 |
+| 24 | [Sou Eu](https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 5:12 |
 | 25 | [Escondido Nele](https://open.spotify.com/track/6ETboA32KhqdiuaQFym7jb) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Apocalipse](https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI) | 4:46 |
 | 26 | [Sou Teu Deus](https://open.spotify.com/track/2Uhx9tWSDxNxi5SXTRnSD2) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 4:20 |
 | 27 | [Ressuscita](https://open.spotify.com/track/62VvRM3T2IdsjbBYJI6oqI) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Obra Prima](https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5) | 4:54 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 44 | [Página Virada \- Ao Vivo](https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Página Virada \(Ao Vivo\)](https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD) | 7:03 |
 | 45 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/2b9sOPTgLige26J50aINp9) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Damares \(Ao Vivo\)](https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA) | 5:58 |
 
-Snapshot ID: `atQMAAAAAADnHwBhFe4HCSVtxrWckqpJ`
+Snapshot ID: `atVdgAAAAAC/TrUCMqM2V/plzuhxUH/Q`

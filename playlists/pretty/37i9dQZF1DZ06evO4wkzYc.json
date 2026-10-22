@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 203361,
+  "num_followers": 203473,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAAN0hHvY7gqsxeFpYCPo6Qd",
+  "snapshot_id": "atVdgAAAAADm4kt7gtWyQ56HOeKcnPel",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fotograf\u00eda",
-        "url": "https://open.spotify.com/album/21uioYBhTjhGisiKunbldo"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 212532,
-      "name": "Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/1gOaDmYSzt75cZeAR7YRcl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Amor Por Ti",
         "url": "https://open.spotify.com/album/4Qnoete3zlDYMEUBmGOc4P"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 227403,
       "name": "Mi Amor Por Ti",
       "url": "https://open.spotify.com/track/7nk8wpOPZkA7beAENjDWt9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fotograf\u00eda",
+        "url": "https://open.spotify.com/album/21uioYBhTjhGisiKunbldo"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 212532,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/1gOaDmYSzt75cZeAR7YRcl"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chico (En Vivo)",
-        "url": "https://open.spotify.com/album/539mS8jw1CrlMx4KhKqNpR"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 147609,
-      "name": "El Chico - En Vivo",
-      "url": "https://open.spotify.com/track/6FMVf1GwLaSdR3x7KNMzh2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Lloro",
         "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 259531,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chico (En Vivo)",
+        "url": "https://open.spotify.com/album/539mS8jw1CrlMx4KhKqNpR"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 147609,
+      "name": "El Chico - En Vivo",
+      "url": "https://open.spotify.com/track/6FMVf1GwLaSdR3x7KNMzh2"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 277105,
-      "name": "El Robot",
-      "url": "https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playball",
         "url": "https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 160946,
       "name": "Amarte",
       "url": "https://open.spotify.com/track/6YSaa2DOow4nMXj6zPiDqt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 277105,
+      "name": "El Robot",
+      "url": "https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D"
     },
     {
       "added_at": null,

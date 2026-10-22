@@ -2625,6 +2625,24 @@
     },
     {
       "album": {
+        "name": "IT girl",
+        "url": "https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197639,
+      "name": "Angel Of My Dreams",
+      "url": "https://open.spotify.com/track/5uU9RcqmUxm8z8coudZ8eN"
+    },
+    {
+      "album": {
         "name": "Angel Of My Dreams (S.A.D. Version - Slow. Angelic. Dramatic.)",
         "url": "https://open.spotify.com/album/6qsraqaELWLaPZkNDZkzYB"
       },

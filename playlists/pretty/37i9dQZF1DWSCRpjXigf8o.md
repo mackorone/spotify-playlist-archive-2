@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,630 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,631 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 32 | [朝顔](https://open.spotify.com/track/5vnTYL1H4uGzNaMB14wagO) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [朝顔](https://open.spotify.com/album/5BqiHDJ0KHdOVEIHBred2e) | 5:36 |
 | 33 | [マシかもしれない](https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF) | [Arata Manako](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [マシかもしれない](https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA) | 3:15 |
 | 34 | [pity dirty](https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [pity dirty](https://open.spotify.com/album/5W332DB5DkfDUp6ma52tsJ) | 3:13 |
-| 35 | [アイウタ](https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [アイウタ](https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52) | 4:52 |
-| 36 | [なみしぐさ](https://open.spotify.com/track/5lCHvxlOWI6rRGkLEtnopS) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [パレード \(Original Soundtrack\)](https://open.spotify.com/album/0xfFfjCL2W2MEr0fSCf4bh) | 4:48 |
+| 35 | [なみしぐさ](https://open.spotify.com/track/5lCHvxlOWI6rRGkLEtnopS) | [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [パレード \(Original Soundtrack\)](https://open.spotify.com/album/0xfFfjCL2W2MEr0fSCf4bh) | 4:48 |
+| 36 | [アイウタ](https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [アイウタ](https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52) | 4:52 |
 | 37 | [Midsummer Mansion](https://open.spotify.com/track/5eknQ3ZQFqg7C45BitzhV4) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [the gates](https://open.spotify.com/album/0XKZyisZfoJOCy5hK72Pnu) | 4:22 |
 | 38 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
 | 39 | [A Call from My Dream](https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 4:15 |
 | 40 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 |
-| 41 | [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 |
-| 42 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
+| 41 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 |
+| 42 | [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 |
 | 43 | [dandelions](https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [dandelions](https://open.spotify.com/album/4yWnb5waN424BvaVNA7N50) | 3:12 |
 | 44 | [Maya, Maya, Maya](https://open.spotify.com/track/21afrtWJEDyy6iuJAE0ESa) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Maya, Maya, Maya](https://open.spotify.com/album/7I8p5Y7dBk1IfMSae7CtML) | 2:59 |
 | 45 | [back to you \(you're the reason\)](https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [back to you \(you're the reason\)](https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M) | 4:00 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 56 | [junior](https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [jones](https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs) | 4:28 |
 | 57 | [唄が歩く時](https://open.spotify.com/track/79EUfmvj3VwRlbzke3s4HO) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [唄が歩く時](https://open.spotify.com/album/4VAkCYiPGkPOPGdloGVZwY) | 3:50 |
 | 58 | [all my perfects](https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 3:38 |
-| 59 | [6 Years](https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [6 Years](https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM) | 2:42 |
+| 59 | [Apple](https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [Apple](https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu) | 4:08 |
 | 60 | [キャンディ](https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87) | 3:46 |
-| 61 | [Apple](https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [Apple](https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu) | 4:08 |
+| 61 | [6 Years](https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [6 Years](https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM) | 2:42 |
 | 62 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
 | 63 | [Call It A Day](https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [Call It A Day](https://open.spotify.com/album/11HIro0GtIxoeysAULtuU2) | 2:56 |
 | 64 | [Caterpillar](https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Caterpillar](https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i) | 2:49 |
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 69 | [FIVE](https://open.spotify.com/track/5ICTfedPA2JOufnA8TeeDU) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [FIVE](https://open.spotify.com/album/7DKZH8zqKxCRx43r1896I5) | 3:31 |
 | 70 | [Tunes for Suly](https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [Turntable in the Lift](https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk) | 7:06 |
 | 71 | [Sweet Lies \(feat\. Miyu Takeuchi\)](https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [竹内美宥](https://open.spotify.com/artist/5PxUfN01MCRFIw7Quz8VZ7), [MIYUMIYU](https://open.spotify.com/artist/5lZiZQ5xaxp94Z9naAVKmg) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 3:11 |
-| 72 | [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 |
-| 73 | [言わせばない](https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [言わせばない](https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR) | 4:56 |
+| 72 | [言わせばない](https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [言わせばない](https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR) | 4:56 |
+| 73 | [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 |
 | 74 | [NEW ERA](https://open.spotify.com/track/0OGP0oE9f0TVu4RiLQIRmZ) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [NEW ERA](https://open.spotify.com/album/68M8Tmn6r8UHPjj9mEKfIv) | 4:39 |
 | 75 | [Move On](https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Move On](https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t) | 2:42 |
 | 76 | [Accord](https://open.spotify.com/track/4YiSm3yWe57eX3ZDxhIzzO) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm), [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [The other day,](https://open.spotify.com/album/0C35I9pRllDfNNgZ24tzMB) | 5:12 |
-| 77 | [栃木](https://open.spotify.com/track/2vLeNRYH7SaI1nNFzef2lA) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [栃木](https://open.spotify.com/album/4OQvjxlUGnkFHo6tCZftwE) | 3:49 |
-| 78 | [Pools of Colour](https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:48 |
+| 77 | [Pools of Colour](https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:48 |
+| 78 | [栃木](https://open.spotify.com/track/2vLeNRYH7SaI1nNFzef2lA) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [栃木](https://open.spotify.com/album/4OQvjxlUGnkFHo6tCZftwE) | 3:49 |
 | 79 | [FASHION](https://open.spotify.com/track/3CiiEGvgEoq31zPMY93Z4A) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [BALLOONS & BUBBLES](https://open.spotify.com/album/6m4m0bomFQOpBMgkDbRDwT) | 3:27 |
 | 80 | [This must be the place](https://open.spotify.com/track/3rDfFPybJVMqBiFbhMGDMi) | [Marina Balenciaga](https://open.spotify.com/artist/6wvMmbfuW3vADgH3zzJGII) | [This must be the place](https://open.spotify.com/album/1FJVVG53D8ZTMwqn85UfMy) | 3:52 |
 | 81 | [MY夢中](https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [MY夢中](https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka) | 4:09 |

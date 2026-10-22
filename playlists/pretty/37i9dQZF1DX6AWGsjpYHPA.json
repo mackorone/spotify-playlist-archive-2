@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 195202,
+  "num_followers": 195221,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
+        "name": "MAN MADE",
+        "url": "https://open.spotify.com/album/55UAEClz8M595uaN2PeHpX"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 213960,
+      "name": "Jimtastic Blues",
+      "url": "https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
         "name": "Every Day the Sun Comes Up",
         "url": "https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 415706,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/4R3QtFO6c0bnDpmOcfI7yY"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
-        "name": "MAN MADE",
-        "url": "https://open.spotify.com/album/55UAEClz8M595uaN2PeHpX"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 213960,
-      "name": "Jimtastic Blues",
-      "url": "https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp"
     },
     {
       "added_at": "2026-04-03 04:00:50",

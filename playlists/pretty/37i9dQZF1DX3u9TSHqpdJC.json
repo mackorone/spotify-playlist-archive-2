@@ -1,13 +1,173 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Ronia. Artwork by Paola Saliby",
-  "num_followers": 244741,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: gleame. Artwork by Paola Saliby",
+  "num_followers": 244794,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADJP35N1TyHET8UcVgXvmO46av4I",
+  "snapshot_id": "AAAAAIZyKhSMBDexeObEiu+TJ7GNdDAw",
   "tracks": [
+    {
+      "added_at": "2026-10-21 04:00:15",
+      "album": {
+        "name": "you + me",
+        "url": "https://open.spotify.com/album/7sqWZ9LRgUoD1OCkGRTOX2"
+      },
+      "artists": [
+        {
+          "name": "gleame",
+          "url": "https://open.spotify.com/artist/6nx1vqfMzIOHKpBeLBiSWR"
+        }
+      ],
+      "duration_ms": 129217,
+      "name": "you + me",
+      "url": "https://open.spotify.com/track/4hu0tmoOOb9SkbgNfvh7Jq"
+    },
+    {
+      "added_at": "2026-10-21 04:00:15",
+      "album": {
+        "name": "Liquor Logic",
+        "url": "https://open.spotify.com/album/2RCqpCNO9FKTxfAeHEaWJq"
+      },
+      "artists": [
+        {
+          "name": "Kaibrienne",
+          "url": "https://open.spotify.com/artist/2Y5kIVRp9IrPYNOc5PePo9"
+        }
+      ],
+      "duration_ms": 205683,
+      "name": "Liquor Logic",
+      "url": "https://open.spotify.com/track/7BOwcZmv8gfksKA8auIquC"
+    },
+    {
+      "added_at": "2026-10-21 04:00:15",
+      "album": {
+        "name": "gay allegations ft. my girlfriend",
+        "url": "https://open.spotify.com/album/25Tz6DIP1gvJwmYoou46g3"
+      },
+      "artists": [
+        {
+          "name": "OK MICKEY",
+          "url": "https://open.spotify.com/artist/5wqzQ2vZdhoZRAnvT463PC"
+        }
+      ],
+      "duration_ms": 119999,
+      "name": "gay allegations ft. my girlfriend",
+      "url": "https://open.spotify.com/track/4NDpamy9vSpyRjVRf8D6ld"
+    },
+    {
+      "added_at": "2026-10-21 04:00:15",
+      "album": {
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/3MBvaSHJ6OjxcIo39Bz5Qo"
+      },
+      "artists": [
+        {
+          "name": "Mel Raeburn",
+          "url": "https://open.spotify.com/artist/1CWlz48famjsJ93jCyxgNj"
+        }
+      ],
+      "duration_ms": 202750,
+      "name": "Serendipity",
+      "url": "https://open.spotify.com/track/3NiKbi4pbAq7BIv5SGTC5d"
+    },
+    {
+      "added_at": "2026-10-21 04:00:15",
+      "album": {
+        "name": "I'm a girl with feelings, baby!",
+        "url": "https://open.spotify.com/album/4x3KAEGZq3nHmtK1J6Mftc"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 170373,
+      "name": "I'm a girl with feelings, baby!",
+      "url": "https://open.spotify.com/track/6BHunRN9cypPJq0OpIODxA"
+    },
+    {
+      "added_at": "2026-10-21 04:00:15",
+      "album": {
+        "name": "HURTS LIKE 17",
+        "url": "https://open.spotify.com/album/2HLSQ2QFP7kJEFYdTVDrKH"
+      },
+      "artists": [
+        {
+          "name": "Julia Campbell",
+          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
+        }
+      ],
+      "duration_ms": 164615,
+      "name": "HURTS LIKE 17",
+      "url": "https://open.spotify.com/track/2Uk8qwrNnd17wBBqlB0nX7"
+    },
+    {
+      "added_at": "2026-10-21 04:00:15",
+      "album": {
+        "name": "Valentina",
+        "url": "https://open.spotify.com/album/0qxgTzXI78wMlg4JYTcUvg"
+      },
+      "artists": [
+        {
+          "name": "Greta van den Brink",
+          "url": "https://open.spotify.com/artist/7pioc859SDvtTzNZvLvz5M"
+        }
+      ],
+      "duration_ms": 224571,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/4SuQd0eOKiouiMFBsnCX09"
+    },
+    {
+      "added_at": "2026-10-21 04:00:15",
+      "album": {
+        "name": "Leap",
+        "url": "https://open.spotify.com/album/5L0UdEERU935VXMzq8pGyH"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "Leap",
+      "url": "https://open.spotify.com/track/1wQO7RFvhGSWPkDvU5981J"
+    },
+    {
+      "added_at": "2026-10-21 04:00:15",
+      "album": {
+        "name": "Anatomy",
+        "url": "https://open.spotify.com/album/2ZIc6tvyijr65hSRMgCN3g"
+      },
+      "artists": [
+        {
+          "name": "Lara Buchanan",
+          "url": "https://open.spotify.com/artist/2MpvmnNz8i4y2XPX2DLpPh"
+        }
+      ],
+      "duration_ms": 267324,
+      "name": "Anatomy",
+      "url": "https://open.spotify.com/track/59i1EGfHrvF4ZxpBoXnrfF"
+    },
+    {
+      "added_at": "2026-10-21 04:00:15",
+      "album": {
+        "name": "Got U On My Mind",
+        "url": "https://open.spotify.com/album/5SKdL6ISlTlBvhVYDWBdu0"
+      },
+      "artists": [
+        {
+          "name": "Melicious",
+          "url": "https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH"
+        }
+      ],
+      "duration_ms": 133953,
+      "name": "Got U On My Mind",
+      "url": "https://open.spotify.com/track/42FQRd6n42Z5MO7HUIrYLn"
+    },
     {
       "added_at": "2026-10-14 13:27:59",
       "album": {
@@ -715,22 +875,6 @@
     {
       "added_at": "2026-09-02 04:00:29",
       "album": {
-        "name": "Myriad Reflector",
-        "url": "https://open.spotify.com/album/7JEEAscH1dvsz0dr6lCEXV"
-      },
-      "artists": [
-        {
-          "name": "Cherry Bomb",
-          "url": "https://open.spotify.com/artist/2MpXbvJeuKYA2qyxdB0eCM"
-        }
-      ],
-      "duration_ms": 198509,
-      "name": "Myriad Reflector",
-      "url": "https://open.spotify.com/track/3IHVJz2gCt9U9goWpG4hcb"
-    },
-    {
-      "added_at": "2026-09-02 04:00:29",
-      "album": {
         "name": "it's not so much what you say",
         "url": "https://open.spotify.com/album/0qr2AZLY268WNTgGWl8lW9"
       },
@@ -743,54 +887,6 @@
       "duration_ms": 221600,
       "name": "it's not so much what you say",
       "url": "https://open.spotify.com/track/49WUuKWnuapWT4jgxDsMFv"
-    },
-    {
-      "added_at": "2026-09-02 04:00:29",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/1j4woMGd04ZJv3tzhoNe3W"
-      },
-      "artists": [
-        {
-          "name": "Conor Burns",
-          "url": "https://open.spotify.com/artist/2ZoDOJ7d8rchLJwYU42x2J"
-        }
-      ],
-      "duration_ms": 240476,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0oiGdy7Zp6ZTbm2cdFnvRO"
-    },
-    {
-      "added_at": "2026-09-02 04:00:29",
-      "album": {
-        "name": "Course It Matters",
-        "url": "https://open.spotify.com/album/3Lb3HkMdD9cW9ehfHgad7K"
-      },
-      "artists": [
-        {
-          "name": "Leona Rue",
-          "url": "https://open.spotify.com/artist/7FrJbMXCyvdwO9WeALL1oe"
-        }
-      ],
-      "duration_ms": 161197,
-      "name": "Course It Matters",
-      "url": "https://open.spotify.com/track/7sRTG3ShIvak9i5d8b6e7G"
-    },
-    {
-      "added_at": "2026-09-02 04:00:29",
-      "album": {
-        "name": "CHOOSY",
-        "url": "https://open.spotify.com/album/058RpZKxVdRkZ8CnhxIED7"
-      },
-      "artists": [
-        {
-          "name": "vi0let",
-          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
-        }
-      ],
-      "duration_ms": 138433,
-      "name": "CHOOSY",
-      "url": "https://open.spotify.com/track/6bKGIXgqSvHjAkyvtuIgXu"
     },
     {
       "added_at": "2026-08-26 04:00:39",
@@ -807,38 +903,6 @@
       "duration_ms": 193846,
       "name": "Smooth talker",
       "url": "https://open.spotify.com/track/5dqaNRYpVC3y5rlf1UauQH"
-    },
-    {
-      "added_at": "2026-08-26 04:00:39",
-      "album": {
-        "name": "Killing Time",
-        "url": "https://open.spotify.com/album/0e5lkoSXWADTH6rxvq3NTN"
-      },
-      "artists": [
-        {
-          "name": "Julia Campbell",
-          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
-        }
-      ],
-      "duration_ms": 179548,
-      "name": "Killing Time",
-      "url": "https://open.spotify.com/track/1IzJUosMnntxD6S9grgc7c"
-    },
-    {
-      "added_at": "2026-08-26 04:00:39",
-      "album": {
-        "name": "Worst behavior",
-        "url": "https://open.spotify.com/album/3FOvQmvu8pPCOTPhfgrGBO"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 175640,
-      "name": "Worst behavior",
-      "url": "https://open.spotify.com/track/2pbspg7cCzZwPfIG4Ci4K0"
     },
     {
       "added_at": "2026-08-26 04:00:39",
@@ -1049,22 +1113,6 @@
       "url": "https://open.spotify.com/track/2cpuXUKtONY2WoxjuxgbF8"
     },
     {
-      "added_at": "2026-07-29 04:00:18",
-      "album": {
-        "name": "Dog Eat Dog",
-        "url": "https://open.spotify.com/album/4bILNAXwcGihDUjmVgAhEm"
-      },
-      "artists": [
-        {
-          "name": "Blythe Davis",
-          "url": "https://open.spotify.com/artist/6RNermUlnKUObFevCqWilw"
-        }
-      ],
-      "duration_ms": 95914,
-      "name": "Dog Eat Dog",
-      "url": "https://open.spotify.com/track/0gRz83ZKPFM7mI0DFu1bRD"
-    },
-    {
       "added_at": "2026-07-15 04:00:28",
       "album": {
         "name": "London Tonight",
@@ -1083,22 +1131,6 @@
     {
       "added_at": "2026-07-22 04:00:22",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/7diAA6oce7YgHmAxl6xiew"
-      },
-      "artists": [
-        {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
-        }
-      ],
-      "duration_ms": 180967,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/0fPHG8oIpgycft4a2vrk2I"
-    },
-    {
-      "added_at": "2026-07-22 04:00:22",
-      "album": {
         "name": "Shit Kicker",
         "url": "https://open.spotify.com/album/2b2kasSXoYzTXYp9NuiDdE"
       },
@@ -1111,38 +1143,6 @@
       "duration_ms": 151415,
       "name": "Shit Kicker",
       "url": "https://open.spotify.com/track/1fz5t0Oge6VBwnzCo7fAlk"
-    },
-    {
-      "added_at": "2026-07-22 04:00:22",
-      "album": {
-        "name": "CRAVING CONNECTION !!!",
-        "url": "https://open.spotify.com/album/3pNGHDlwF18dCw0WPAckYZ"
-      },
-      "artists": [
-        {
-          "name": "Isabel",
-          "url": "https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN"
-        }
-      ],
-      "duration_ms": 194294,
-      "name": "CRAVING CONNECTION !!!",
-      "url": "https://open.spotify.com/track/45ZbuN78JBbOFGWvI2eHGT"
-    },
-    {
-      "added_at": "2026-07-22 04:00:22",
-      "album": {
-        "name": "Taken",
-        "url": "https://open.spotify.com/album/59K9Tku4soM5WKE0cH3bsR"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hintze",
-          "url": "https://open.spotify.com/artist/2PuvS2BroRdS81r09CCnPH"
-        }
-      ],
-      "duration_ms": 142741,
-      "name": "Taken",
-      "url": "https://open.spotify.com/track/4eKdz79wkQxSlHdah7X13S"
     },
     {
       "added_at": "2026-07-08 04:00:12",

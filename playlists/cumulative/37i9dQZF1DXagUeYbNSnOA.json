@@ -3453,6 +3453,28 @@
     },
     {
       "album": {
+        "name": "Amiga nueva",
+        "url": "https://open.spotify.com/album/5DHWCH8ABQgiZaBho47MGm"
+      },
+      "artists": [
+        {
+          "name": "As\u00ed me dicen",
+          "url": "https://open.spotify.com/artist/6bURd0UiRabz8ox39FmLG8"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264078,
+      "name": "Amiga nueva",
+      "url": "https://open.spotify.com/track/2K1DxInVvVnn5GZ8eoaE9x"
+    },
+    {
+      "album": {
         "name": "Amigos",
         "url": "https://open.spotify.com/album/4BZG3VdjcUO9c0fRoUaKHj"
       },
@@ -6782,7 +6804,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 165000,
       "name": "blithe",
       "url": "https://open.spotify.com/track/1DiWwD4kB3ZFb1bmv7dtJ1"
@@ -8576,7 +8598,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 205892,
       "name": "cartas",
       "url": "https://open.spotify.com/track/02H3OafJRiJO1Rsd9Y6uH7"
@@ -9586,6 +9608,28 @@
       "duration_ms": 171313,
       "name": "Claramente",
       "url": "https://open.spotify.com/track/4CS0ensC1OATktJSD916Nv"
+    },
+    {
+      "album": {
+        "name": "Claridad",
+        "url": "https://open.spotify.com/album/3tNq7ejpl1F5c6nWXQhR2m"
+      },
+      "artists": [
+        {
+          "name": "SALVI",
+          "url": "https://open.spotify.com/artist/6j20oZ0TNjOzzUD4dK7azj"
+        },
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209556,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/2TNNAcCMHcMQ0qDAnn8nUO"
     },
     {
       "album": {
@@ -21949,6 +21993,24 @@
     },
     {
       "album": {
+        "name": "Hist\u00e9rica",
+        "url": "https://open.spotify.com/album/3Wt9MCLYwSiQcJBSlyM9Yc"
+      },
+      "artists": [
+        {
+          "name": "Mimi Leclercq",
+          "url": "https://open.spotify.com/artist/5jROvsAhZsmmETG67HIyYC"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Hist\u00e9rica",
+      "url": "https://open.spotify.com/track/7zVljuJTZHvl0RHi0LEDYG"
+    },
+    {
+      "album": {
         "name": "#1",
         "url": "https://open.spotify.com/album/7HDJJWfuhMj1f21CjvbIs7"
       },
@@ -22572,6 +22634,24 @@
       "duration_ms": 262237,
       "name": "Ideograma",
       "url": "https://open.spotify.com/track/0h5zsbK2qdJo079qgLtp9q"
+    },
+    {
+      "album": {
+        "name": "IDK YET",
+        "url": "https://open.spotify.com/album/0DKGcQfyeHiWxPVK07VEFV"
+      },
+      "artists": [
+        {
+          "name": "FAMA",
+          "url": "https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "IDK YET",
+      "url": "https://open.spotify.com/track/5QRj0GXILKffklmHANmKmh"
     },
     {
       "album": {
@@ -26183,6 +26263,28 @@
     },
     {
       "album": {
+        "name": "Lienzo",
+        "url": "https://open.spotify.com/album/6RBOr1XQnOEc2iC8zRVXoM"
+      },
+      "artists": [
+        {
+          "name": "Nezzah",
+          "url": "https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6"
+        },
+        {
+          "name": "Sr Pablo",
+          "url": "https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202886,
+      "name": "Lienzo",
+      "url": "https://open.spotify.com/track/4cpIWTI6SRW6Cr4iNuBEXp"
+    },
+    {
+      "album": {
         "name": "lightspeed",
         "url": "https://open.spotify.com/album/3UYkH7v2pN4Lyr1JJdhmaH"
       },
@@ -26750,7 +26852,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 196829,
       "name": "Lo Nuestro Se Acab\u00f3",
       "url": "https://open.spotify.com/track/3clgHCFjmDz5MLr7XhQ58Y"
@@ -29630,7 +29732,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 195240,
       "name": "Me Falta",
       "url": "https://open.spotify.com/track/5OjySTA3nJZsuWYSN3vL0z"
@@ -31460,7 +31562,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 139560,
       "name": "mis amigas",
       "url": "https://open.spotify.com/track/549nYHp4rMtzv44Djmt0Xd"
@@ -32936,6 +33038,24 @@
       "duration_ms": 134800,
       "name": "nada es 4 life",
       "url": "https://open.spotify.com/track/1RxCrKmIJcsjWzscUOqYy1"
+    },
+    {
+      "album": {
+        "name": "Te Dar\u00eda Tanto, Solo por un Poco",
+        "url": "https://open.spotify.com/album/5gq08sgjOC1Jbp426iUzr3"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198986,
+      "name": "Nada es para Siempre",
+      "url": "https://open.spotify.com/track/6pYp1LJ740kSePL30vvj29"
     },
     {
       "album": {
@@ -34608,6 +34728,32 @@
       "duration_ms": 257333,
       "name": "No Pierdas La Cabeza",
       "url": "https://open.spotify.com/track/70u5gYrZTFuhlWELo9N78s"
+    },
+    {
+      "album": {
+        "name": "Punk Wave Sin Barreras Volume 2: Cutting Corners",
+        "url": "https://open.spotify.com/album/2anFJIvdv6A3LAjKLPHu7j"
+      },
+      "artists": [
+        {
+          "name": "Planta Industrial",
+          "url": "https://open.spotify.com/artist/2vfT28l8lKF4o9HuVkJ3Pw"
+        },
+        {
+          "name": "aka the darknight",
+          "url": "https://open.spotify.com/artist/3yb2AwODgJ3ug0l3jKcD5j"
+        },
+        {
+          "name": "Saso",
+          "url": "https://open.spotify.com/artist/7z3W8OunO3RH0quodR8Zsu"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "No Puedo",
+      "url": "https://open.spotify.com/track/1r6sT1iIPU6odi8CZTZ9wv"
     },
     {
       "album": {
@@ -36428,6 +36574,24 @@
       "duration_ms": 188863,
       "name": "Olvid\u00e9 Olvidarnos",
       "url": "https://open.spotify.com/track/7mNkhBTpvXAqv8cj8fCDKh"
+    },
+    {
+      "album": {
+        "name": "Olv\u00eddalo",
+        "url": "https://open.spotify.com/album/4e6bsEYJz2AfuWEYBQaNDz"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Olv\u00eddalo",
+      "url": "https://open.spotify.com/track/4a4o8IrPWtGCMtVAdGZPuZ"
     },
     {
       "album": {
@@ -39718,6 +39882,24 @@
       "duration_ms": 261019,
       "name": "Pulso",
       "url": "https://open.spotify.com/track/4ilsiarphXUoGp2MzK68Tm"
+    },
+    {
+      "album": {
+        "name": "punkrocker",
+        "url": "https://open.spotify.com/album/284hxhYjs8JYMJxnmshEMj"
+      },
+      "artists": [
+        {
+          "name": "El Culto Casero",
+          "url": "https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163536,
+      "name": "punkrocker",
+      "url": "https://open.spotify.com/track/51Loe5UqTnZu5cLXWmLKBz"
     },
     {
       "album": {
@@ -44426,7 +44608,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 179186,
       "name": "Sin M\u00ed",
       "url": "https://open.spotify.com/track/0eUR25AAXUBYWTGhNoSX5u"
@@ -44556,7 +44738,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 199128,
       "name": "sin ti",
       "url": "https://open.spotify.com/track/6KKoVWWdziiKn4gkRJmn0I"
@@ -47354,7 +47536,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 181493,
       "name": "Te Vas A Arrepentir (Don't Hurt Him)",
       "url": "https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH"
@@ -48494,7 +48676,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 161142,
       "name": "Todo Es Magia",
       "url": "https://open.spotify.com/track/6dY6DSQzORiACueN2QPHdA"

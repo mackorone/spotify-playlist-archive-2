@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/2FjbiwWYHqEifO3VY5LYP8.md) - [plain]
 
 > A toast to all the artists who will be performing on New Year&\#x27;s Eve across the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57 likes - 41 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 58 likes - 41 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fancy](https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx) | 3:19 |
 | 2 | [All About That Bass](https://open.spotify.com/track/1q676iYDR3GeJtOHdyggIU) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title](https://open.spotify.com/album/23T52TnvD0UqLRsuRHHAHA) | 3:07 |
 | 3 | [Anaconda](https://open.spotify.com/track/5a5so8nqDGq75MI5WMbBtT) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Anaconda](https://open.spotify.com/album/1pxED0aW8v0PpojjpJQUkC) | 4:20 |
-| 4 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/3s73tswJycj6HTBNNN393z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:56 |
+| 4 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/41PsMGvbGsJRtAXk6Kbh5n) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:56 |
 | 5 | [Ghost](https://open.spotify.com/track/2FiceoWDJ67rrmb5tGBpgE) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Ghost](https://open.spotify.com/album/6MAEuDumUgxsWaEWA6lddg) | 3:36 |
 | 6 | [Shower](https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Shower](https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr) | 3:26 |
 | 7 | [Am I Wrong](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Black Star Elephant](https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3) | 4:05 |

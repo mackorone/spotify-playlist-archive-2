@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Добірка створена спільно із Miss Monique 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,151 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,165 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Nomacita](https://open.spotify.com/track/4NjCBS4wF0lFO5wbYBQuIt) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Carl Bee](https://open.spotify.com/artist/1BjovuKg3qRbCNNy5W9Efv) | [Nomacita](https://open.spotify.com/album/4gJo8k21SMNJsfPxp3Bhyi) | 2:50 |
+| 1 | [17](https://open.spotify.com/track/1H3ognNITW8bmuYl2BEdf1) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Mario Eighta](https://open.spotify.com/artist/02Tau9NwwC9Ipv4ckCdS3m) | [17](https://open.spotify.com/album/1NwCnD52aKO3isV3Zgqnqn) | 2:45 |
 | 2 | [Vidlik](https://open.spotify.com/track/1Q73nKAPXcMfwXp51af9VU) | [ONUKA](https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6) | [Vidlik](https://open.spotify.com/album/0Z2DrHMA3KnytxPnmYf3eW) | 4:39 |
 | 3 | [Rainbow](https://open.spotify.com/track/1467Zd8OEpN4uMLVrplVlr) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [Rainbow](https://open.spotify.com/album/3hB0L2AgiWQMQ531za8nGj) | 6:09 |
 | 4 | [Malanka](https://open.spotify.com/track/4RqpdQNgNCa8FchK4CgGNV) | [Alina Pash](https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i) | [Esbat](https://open.spotify.com/album/050rHTZIpSa1ckK9LrwAN5) | 2:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 59 | [Цигарковий дим](https://open.spotify.com/track/6npfsglJvGEMNowG4chvCP) | [Stage Moonna](https://open.spotify.com/artist/7r2TBV25eq3uMI0svU62jT) | [Цигарковий дим](https://open.spotify.com/album/0Wohg496PwMIrmBWHum63X) | 2:20 |
 | 60 | [Знайди мене](https://open.spotify.com/track/1GUQJU4M76atFmI5Yu9I8i) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Бережи мене](https://open.spotify.com/album/1ayGglzj3DtVKaSeRaJTsB) | 2:30 |
 
-Snapshot ID: `AAAAAKMUHL0ukJ78zPJtmdYh2Rli3jkd`
+Snapshot ID: `AAAAAFEsH4sMABdZKXItRSo8oPbXTb53`

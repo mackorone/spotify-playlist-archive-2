@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,700 songs - 6 day 13 hr 6 min
+2,701 songs - 6 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1447,6 +1447,7 @@
 | [Me Quedo Contigo](https://open.spotify.com/track/6PKrkzDTrzaQBuFatwEgj5) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Me Quedo Contigo](https://open.spotify.com/album/0WLhPYXuf9cxGxxSEzgggi) | 3:28 | 2026-08-28 |  |
 | [Me Rindo](https://open.spotify.com/track/4T4Rx7ApdVoMyeteFglpJ1) | [Michael Todd Brown](https://open.spotify.com/artist/1UVbWulqbJhDEpYxvOmHJa), [Tuva Paloma](https://open.spotify.com/artist/6uYz66bkpyYpokipvgIRrT) | [Me Rindo](https://open.spotify.com/album/0saQU98ixtjrMD3M6EXQ73) | 5:46 | 2026-04-30 |  |
 | [Me so' scocciata](https://open.spotify.com/track/6FV5RW9ofs1OOmQHLKqprF) | [Vala](https://open.spotify.com/artist/6timg8G6gpXauaqPKGzfIt) | [Me so' scocciata](https://open.spotify.com/album/3WTJvCmOnLBI5vHgCzrmTC) | 3:31 | 2025-05-29 |  |
+| [Mean it at all](https://open.spotify.com/track/0H4xd2FKtWYgrH7uxMBw9S) | [Maria Krauss](https://open.spotify.com/artist/2voazIy50xtxd794uJu5Fl) | [Mean it at all](https://open.spotify.com/album/7wcubevLDln9Wi0WxasZGG) | 3:43 | 2026-10-21 |  |
 | [Meat Beat Manifestation \#2](https://open.spotify.com/track/0E1p2v24IJn99OeQq2JFNQ) | [MC 900 Ft\. Jesus](https://open.spotify.com/artist/2S8nYaxyItH72O4dhRWTPq) | [Welcome To My Dream](https://open.spotify.com/album/4InNADufitzJWnZQ1b6h08) | 4:04 | 2026-02-07 |  |
 | [Meccanismo Perfetto \- Dub Remix](https://open.spotify.com/track/7AkQ5kYj7RaHMBGWtFiWVU) | [SAM D](https://open.spotify.com/artist/3O8EvAOtzUfoQmzinpQOqr), [NO FINGER NAILS](https://open.spotify.com/artist/4USv2qdLCmNXDvyEW65HI6) | [Meccanismo Perfetto \(Dub Remix\)](https://open.spotify.com/album/2eWP6mrgPk0FbmzbQ4TEJu) | 3:59 | 2026-03-22 |  |
 | [Media melanco](https://open.spotify.com/track/1oxoK3rc47doNVKCMCduFz) | [Pancha](https://open.spotify.com/artist/1NCyHLIUPd2MDVtExBx1Xw) | [Media melanco](https://open.spotify.com/album/7pSTfD8VVcvjek0m0EqGSE) | 3:27 | 2025-05-20 |  |

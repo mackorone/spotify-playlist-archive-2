@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois de Septembre s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : BEN plg",
-  "num_followers": 401427,
+  "num_followers": 401406,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Septembre 2026",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2026-09-30 22:00:22",
       "album": {
+        "name": "Zoblazo",
+        "url": "https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "duration_ms": 160474,
+      "name": "Zoblazo",
+      "url": "https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv"
+    },
+    {
+      "added_at": "2026-09-30 22:00:22",
+      "album": {
         "name": "Air / Lemonder / Viper",
         "url": "https://open.spotify.com/album/1nr62onEOu3YeRQGqhvX0q"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 210000,
       "name": "Make believe",
       "url": "https://open.spotify.com/track/5RoQY3o3b6rupkNpNmuj8P"
-    },
-    {
-      "added_at": "2026-09-30 22:00:22",
-      "album": {
-        "name": "Zoblazo",
-        "url": "https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY"
-      },
-      "artists": [
-        {
-          "name": "Ruthee",
-          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
-        }
-      ],
-      "duration_ms": 160474,
-      "name": "Zoblazo",
-      "url": "https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv"
     },
     {
       "added_at": "2026-09-30 22:00:22",

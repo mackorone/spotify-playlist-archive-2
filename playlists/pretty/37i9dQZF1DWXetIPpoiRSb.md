@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > next level pop 🫧 cover: say now
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,465 likes - 88 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,444 likes - 88 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

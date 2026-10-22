@@ -4,7 +4,7 @@
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-249 songs - 11 hr 54 min
+250 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Asrama \(Ocean\)](https://open.spotify.com/track/4rSWdukM3vcukTJONU1VKs) | [Aion Dust](https://open.spotify.com/artist/1MeNlS0atOkuUVee7AeO3N) | [Asrama \(Ocean\)](https://open.spotify.com/album/6TvyfWqnj6rvckAguBsmei) | 3:17 | 2025-02-18 | 2026-06-13 |
 | [Atomos Atmos](https://open.spotify.com/track/1PinJYwTcizpP5mTW4qIRX) | [Claudette Bernard](https://open.spotify.com/artist/4EWNPU1XQV8ckiiJjERuf9) | [Atomos Atmos](https://open.spotify.com/album/3RsB5t1TpWqsZJ7xmC1vZc) | 3:44 | 2023-10-26 |  |
 | [Aurora](https://open.spotify.com/track/6EIzJbvJiyH0MgVTICTpvC) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Aurora](https://open.spotify.com/album/6YHmqQCu7irYJFGaUSjK3j) | 2:54 | 2025-01-15 | 2026-10-06 |
-| [Awavey](https://open.spotify.com/track/75fJofLZqwb7NrF8mPJE25) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Awavey](https://open.spotify.com/album/3tvcVHmb0HEEdOfzcHFbsS) | 2:35 | 2024-10-09 | 2025-12-02 |
+| [Awavey](https://open.spotify.com/track/75fJofLZqwb7NrF8mPJE25) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Awavey](https://open.spotify.com/album/3tvcVHmb0HEEdOfzcHFbsS) | 2:35 | 2024-10-09 |  |
 | [Balanced Tides](https://open.spotify.com/track/5ZtcuO2uIgzfzvvb8EtXfk) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Balanced Tides](https://open.spotify.com/album/7qadwA8nzkCOC3PpjEvD9W) | 2:22 | 2025-01-15 |  |
 | [Beachey](https://open.spotify.com/track/0F8RVIXHBqb7EuDOtyxDEM) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Beachey](https://open.spotify.com/album/4FUYl46HwtSxQvxiFhPenk) | 2:19 | 2025-02-18 |  |
 | [beneath the surface](https://open.spotify.com/track/0T7wCl62dvvGjyrY5k11w3) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [beneath the surface](https://open.spotify.com/album/30O32KZJTfrFf7pvu9VpXt) | 2:36 | 2025-12-17 |  |
@@ -75,7 +75,7 @@
 | [Dream Ripples](https://open.spotify.com/track/6yd4nQEl7aicM2nqLHoTiY) | [Lusunzi](https://open.spotify.com/artist/49HNtFHbhsCh56YvciuMVE) | [Dream Ripples](https://open.spotify.com/album/0zxCATLreAmFRKmML8p4bF) | 2:28 | 2023-10-23 | 2024-08-23 |
 | [Drift at Sea](https://open.spotify.com/track/1YdgBkhDrwpKcxSTg179mf) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Drift at Sea](https://open.spotify.com/album/4FqYXt6nTVyn6aNJaStLjx) | 2:38 | 2024-04-01 | 2024-09-05 |
 | [Driftveil](https://open.spotify.com/track/0pFELtLCEaOdB6ZHBWhCFt) | [Aron Joyce](https://open.spotify.com/artist/6KY3gZWJmTe3qIPaVoISYq) | [Driftveil](https://open.spotify.com/album/1L9zDQ5RlIsS4QYcQvxI31) | 2:55 | 2025-10-02 |  |
-| [Driftwood](https://open.spotify.com/track/3cVQJRndyIwxIe3BDjUKkD) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Driftwood](https://open.spotify.com/album/2z2WkFkO85mvy8NTsdLN0I) | 2:33 | 2023-10-23 |  |
+| [Driftwood](https://open.spotify.com/track/3cVQJRndyIwxIe3BDjUKkD) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Driftwood](https://open.spotify.com/album/2z2WkFkO85mvy8NTsdLN0I) | 2:33 | 2023-10-23 | 2026-10-22 |
 | [Ebbs & Flows](https://open.spotify.com/track/7smuc5FSIi34eM9ViLPiEl) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Ebbs & Flows](https://open.spotify.com/album/6ZDRcURtL4TcxHb74e32Qe) | 2:30 | 2026-02-27 |  |
 | [Echoes in Silence](https://open.spotify.com/track/6xV8YIXwSyOo32IUJbFxIz) | [Noctilune](https://open.spotify.com/artist/65imc4HXi6wQ5ZUljfLi3X) | [Echoes in Silence](https://open.spotify.com/album/0O1CjowLGpnhKXcKoV74No) | 2:23 | 2026-06-12 |  |
 | [Eclipse](https://open.spotify.com/track/6ZWNlKcUAsFfjT6uQTVO4F) | [Ember Rivera](https://open.spotify.com/artist/7uaOI3LlQMP255X8hMQeYS) | [Eclipse](https://open.spotify.com/album/1miJHX1yvb8kITGSeTV8a0) | 3:44 | 2025-05-21 | 2026-10-06 |
@@ -187,11 +187,12 @@
 | [Reaching Waves](https://open.spotify.com/track/1hIgkWfHCKetneFMw5H3Td) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Reaching Waves](https://open.spotify.com/album/6qQ71QzjNiDyncq5UzHW5s) | 2:38 | 2023-10-26 | 2025-10-03 |
 | [Rebuild](https://open.spotify.com/track/6xYoQ0EtHqtvhgm8zlxHUa) | [Toni Fairbanks](https://open.spotify.com/artist/11M2X5cWg29k0Xg2eHLJHy) | [Rebuild](https://open.spotify.com/album/38zNoXSDR3Isa9xG2li7vY) | 4:28 | 2024-02-06 | 2024-08-01 |
 | [Restore](https://open.spotify.com/track/0hqSBm1sipCxHVl3qj1pNX) | [Misha Burton](https://open.spotify.com/artist/4jjbyStVj5wtgQpHtxL3ue) | [Restore](https://open.spotify.com/album/27FSIb0jOgNAiRthYgCWZ0) | 3:02 | 2023-10-23 | 2026-02-28 |
+| [Rhythmic Wave I](https://open.spotify.com/track/6Wdsu9ND0uCfDPGjQV62Lk) | [SonicAid](https://open.spotify.com/artist/51w9HbZBbacStieMIBfYTG) | [Sound Bathing: Deep Vibration](https://open.spotify.com/album/1gT2bJcAT1fy3Cr8WPwMJW) | 3:15 | 2026-10-05 |  |
 | [Rila](https://open.spotify.com/track/2GXR3ZXqDQRMQXBPSgxzGD) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Rila](https://open.spotify.com/album/3IzyZqwqiymFeSQdSM9hun) | 3:16 | 2023-10-23 | 2025-11-05 |
 | [Rolling Seas](https://open.spotify.com/track/5RtXN3MImgzXJTHzlnYEpu) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Rolling Seas](https://open.spotify.com/album/4Em9f24EvsgN5My2fkimU0) | 3:09 | 2023-10-23 | 2025-06-01 |
 | [Ruhi](https://open.spotify.com/track/5BoMNoJ0pySqBqvxrbSRst) | [Veena](https://open.spotify.com/artist/6dyllSs5fo7DeCSrxTxkF9) | [Ruhi](https://open.spotify.com/album/56PdPhvY3bUVHvXrx0uGsq) | 2:56 | 2026-10-05 | 2026-10-09 |
 | [Sacred River](https://open.spotify.com/track/73HdFwja6Y7FSd3V9YLq6p) | [Anapanasati](https://open.spotify.com/artist/43WrziN4gBq2HqDXu2sQ9M) | [Sacred River](https://open.spotify.com/album/2ZphFIGSmqtvEirnq059bb) | 3:05 | 2025-10-02 |  |
-| [saltlakes](https://open.spotify.com/track/3g6fliPxqUQpSoLw9wvGWb) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [saltlakes](https://open.spotify.com/album/3UZPGU96FGS0ODZBia0bbK) | 2:50 | 2026-02-27 |  |
+| [saltlakes](https://open.spotify.com/track/3g6fliPxqUQpSoLw9wvGWb) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [saltlakes](https://open.spotify.com/album/3UZPGU96FGS0ODZBia0bbK) | 2:50 | 2026-02-27 | 2026-10-22 |
 | [Sand Mountain](https://open.spotify.com/track/3EvomX9g0fEOKTCRUTcvg1) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Sand Mountain](https://open.spotify.com/album/7HXnsk96PhsG1lvoksUYeq) | 2:18 | 2023-10-23 |  |
 | [Santanyi](https://open.spotify.com/track/3rO499O1PWBnA0vlAwO9fp) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Santanyi](https://open.spotify.com/album/3P91FU1iT0YVMETaIE1isA) | 2:41 | 2023-10-23 | 2026-06-13 |
 | [Sapphire Reflection](https://open.spotify.com/track/6BhhpEmEFutl0oyl0VzDN1) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Sapphire Reflection](https://open.spotify.com/album/5bF5LLZdoRDRfrdaKozJHa) | 2:35 | 2025-12-17 | 2026-06-25 |

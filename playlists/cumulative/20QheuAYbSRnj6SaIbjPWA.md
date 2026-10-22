@@ -4,7 +4,7 @@
 
 > 
 
-183 songs - 12 hr 33 min
+184 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Let There Be Love](https://open.spotify.com/track/570oJcBwoLGZz95xTNa0JB) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 5:31 | 2025-02-24 |  |
 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 | 2023-10-21 |  |
 | [Little Black Submarines](https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 4:11 | 2023-09-01 |  |
+| [Little Earl](https://open.spotify.com/track/3BcTsjEYRe0mzkatVfDqo1) | [The Delines](https://open.spotify.com/artist/0SRMBXTBnSm9Jmy24gqggg) | [The Sea Drift](https://open.spotify.com/album/5oA73lOwAKHlSlCM4gemet) | 4:16 | 2026-10-21 |  |
 | [Little Wing](https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:25 | 2025-03-31 |  |
 | [Loose Ends](https://open.spotify.com/track/6dEe0H4vjEyy2ukczkB25o) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Not Waving, But Drowning](https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV) | 4:16 | 2023-09-13 |  |
 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2023-08-18 |  |
@@ -135,7 +136,7 @@
 | [Riot Van](https://open.spotify.com/track/4wMR4fRKMTyUJG6VAsmccv) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:14 | 2023-02-13 |  |
 | [Roman Holiday](https://open.spotify.com/track/7MWIc6p9uOACLHGzzP9On7) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 4:28 | 2024-12-27 |  |
 | [Romantic Flight \- From How To Train Your Dragon Music From The Motion Picture](https://open.spotify.com/track/51v7yO07BdGgP6hv0OaDe2) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [How To Train Your Dragon \(Music From The Motion Picture\)](https://open.spotify.com/album/1kTnC045mQqurTQvGMGpmU) | 1:56 | 2023-04-02 |  |
-| [Roze \(Euston Station\)](https://open.spotify.com/track/1NPIaOo7Ahopf4LuVyEb3o) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I Am Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 3:36 | 2025-03-29 |  |
+| [Roze \(Euston Station\)](https://open.spotify.com/track/1NPIaOo7Ahopf4LuVyEb3o) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 3:36 | 2025-03-29 |  |
 | [Running Up That Hill \- triple j Like A Version](https://open.spotify.com/track/61p3K3niYEzmiX96aC9U8R) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB), [triple j](https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1) | [Running Up That Hill \(triple j Like A Version\)](https://open.spotify.com/album/5PHg3laVWVohsOVpiehZQl) | 3:15 | 2022-12-13 |  |
 | [SCREAM MY NAME](https://open.spotify.com/track/1EKhSE9DUYRPvcXLK0k5iw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 2:40 | 2025-01-22 |  |
 | [Seize The Day](https://open.spotify.com/track/7GceECVybAMFcn9C7H0Za9) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:20 | 2025-03-26 |  |

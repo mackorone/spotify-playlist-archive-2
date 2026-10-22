@@ -4,7 +4,7 @@
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-153 songs - 9 hr 5 min
+154 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,8 +149,9 @@
 | [Temporais 2](https://open.spotify.com/track/2Tqz0VlIN2qPs2ofDGxUZB) | [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Atemporal](https://open.spotify.com/album/43vrdNHkZFajFFqkZgNIvb) | 3:38 | 2025-11-01 | 2025-11-19 |
 | [Teu Sorriso](https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Teu Sorriso](https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE) | 3:03 | 2023-12-30 |  |
 | [Tiffany](https://open.spotify.com/track/6ee2iBWXIUgfzQrSbk1mwk) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Jailhouse](https://open.spotify.com/artist/6QuV7w29AgBJFHxKVzRyJY) | [Tiffany](https://open.spotify.com/album/4ksjeDtwyGRzn8xvBeabae) | 2:59 | 2024-01-17 | 2024-08-24 |
+| [Tudo Passará](https://open.spotify.com/track/3Sdd3cb8DyjzMSHO9tz9aX) | [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Tudo Passará](https://open.spotify.com/album/4ACgtyuRCkuwUV49eunX1y) | 2:30 | 2026-10-22 |  |
 | [Tão Forte](https://open.spotify.com/track/1hbmVcjivTpi9i72mywUD0) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:02 | 2024-03-08 | 2024-11-01 |
-| [Vai Partir](https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 2:57 | 2023-12-30 |  |
+| [Vai Partir](https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Efeito Violeta](https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx) | 2:57 | 2023-12-30 | 2026-10-22 |
 | [Vai Ver](https://open.spotify.com/track/6pBstFxNtMwaWIRn18jpoy) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 2:49 | 2024-02-23 | 2024-03-09 |
 | [Vem Me Visitar](https://open.spotify.com/track/0xAD3cEpius0x88MQZHdli) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Ponto Panorâmico](https://open.spotify.com/album/6QTR3FJriIgFMIEuYteR3c) | 3:28 | 2026-01-19 | 2026-02-15 |
 | [Ventania](https://open.spotify.com/track/5DpfHaySMunKnbHZlgJvzA) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Ciclo Vicioso \(Deluxe\)](https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a) | 2:14 | 2024-11-03 | 2025-06-24 |

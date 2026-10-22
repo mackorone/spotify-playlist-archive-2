@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 166724,
+  "num_followers": 166725,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAABSwCr8KcnC8KsBxmK0TGds",
+  "snapshot_id": "atVdgAAAAACe1sT8tu49XOQjq24KT5Sw",
   "tracks": [
     {
       "added_at": null,
@@ -175,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good News (feat. Todd Galberth & Chandler Moore)",
-        "url": "https://open.spotify.com/album/7wXs3tGbYj2qzaLLT26DgB"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 175188,
-      "name": "No Longer Bound (I'm Free)",
-      "url": "https://open.spotify.com/track/7JxHM7ioNtHLF2pJLcXHkp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 405513,
       "name": "Million Little Miracles (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good News (feat. Todd Galberth & Chandler Moore)",
+        "url": "https://open.spotify.com/album/7wXs3tGbYj2qzaLLT26DgB"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 175188,
+      "name": "No Longer Bound (I'm Free)",
+      "url": "https://open.spotify.com/track/7JxHM7ioNtHLF2pJLcXHkp"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+        "name": "MAVHOUSE",
+        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
       },
       "artists": [
         {
@@ -840,13 +840,17 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "KJ Scriven",
-          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
+          "name": "Song House",
+          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
+        },
+        {
+          "name": "Mara Justine",
+          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
         }
       ],
-      "duration_ms": 542193,
-      "name": "Man of Your Word (feat. KJ Scriven, Chandler Moore)",
-      "url": "https://open.spotify.com/track/6TigGiyqHr7Dy1CaCeKhdP"
+      "duration_ms": 232093,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/0Wa2ws6YA9IWWLPbyF1jRF"
     },
     {
       "added_at": null,
@@ -875,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAVHOUSE",
-        "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
       "artists": [
         {
@@ -884,17 +888,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Song House",
-          "url": "https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf"
-        },
-        {
-          "name": "Mara Justine",
-          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
         }
       ],
-      "duration_ms": 232093,
-      "name": "Stand Still",
-      "url": "https://open.spotify.com/track/0Wa2ws6YA9IWWLPbyF1jRF"
+      "duration_ms": 542193,
+      "name": "Man of Your Word (feat. KJ Scriven, Chandler Moore)",
+      "url": "https://open.spotify.com/track/6TigGiyqHr7Dy1CaCeKhdP"
     },
     {
       "added_at": null,
@@ -919,26 +919,6 @@
       "duration_ms": 346056,
       "name": "I Was Made To Glorify Your Name",
       "url": "https://open.spotify.com/track/3OXx9dafJSuGO4OF5SiFLO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 766715,
-      "name": "Have My Heart (feat. Chris Brown, Chandler Moore)",
-      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
     },
     {
       "added_at": null,
@@ -983,6 +963,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 766715,
+      "name": "Have My Heart (feat. Chris Brown, Chandler Moore)",
+      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 563067,
+      "name": "Take Me Back (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/0qsEmBu3AYhf5JuLjDHGe7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Hold It All Together",
         "url": "https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 449704,
       "name": "Champion (feat. Brandon Lake & Maryanne J. George)",
       "url": "https://open.spotify.com/track/18drykjTj4apowUYLaTenY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 563067,
-      "name": "Take Me Back (feat. Dante Bowe)",
-      "url": "https://open.spotify.com/track/0qsEmBu3AYhf5JuLjDHGe7"
     },
     {
       "added_at": null,
@@ -1075,6 +1075,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "duration_ms": 432294,
+      "name": "Such an Awesome God (feat. Maryanne J. George)",
+      "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Move Your Heart",
         "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 621222,
       "name": "Move Your Heart (feat. Dante Bowe & Elyssa Smith)",
       "url": "https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
-        }
-      ],
-      "duration_ms": 432294,
-      "name": "Such an Awesome God (feat. Maryanne J. George)",
-      "url": "https://open.spotify.com/track/2bC8nrT3tqqGUXRGUbqimw"
     },
     {
       "added_at": null,

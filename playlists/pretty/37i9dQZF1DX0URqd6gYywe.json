@@ -1,6 +1,6 @@
 {
   "description": "Los mejores lentos del rock. Foto: reybruja",
-  "num_followers": 172722,
+  "num_followers": 172736,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -275,8 +275,8 @@
     {
       "added_at": "2026-10-09 18:41:32",
       "album": {
-        "name": "Verte De Cerca",
-        "url": "https://open.spotify.com/album/3R4rjFVmhme3gYwdRXTaSD"
+        "name": "Nunca Lo Olvides",
+        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 183500,
-      "name": "Verte De Cerca",
-      "url": "https://open.spotify.com/track/1lBtesQvkn4IC5RSl8oTaE"
+      "duration_ms": 299810,
+      "name": "Nunca Lo Olvides",
+      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
     },
     {
       "added_at": "2026-10-09 18:41:32",
@@ -355,8 +355,8 @@
     {
       "added_at": "2026-10-09 18:41:32",
       "album": {
-        "name": "Nunca Lo Olvides",
-        "url": "https://open.spotify.com/album/6ZDbOUt4FRdFgQEbhJyFui"
+        "name": "Verte De Cerca",
+        "url": "https://open.spotify.com/album/3R4rjFVmhme3gYwdRXTaSD"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 299810,
-      "name": "Nunca Lo Olvides",
-      "url": "https://open.spotify.com/track/1qAMb1y3o7Olwm8pYTuzyV"
+      "duration_ms": 183500,
+      "name": "Verte De Cerca",
+      "url": "https://open.spotify.com/track/1lBtesQvkn4IC5RSl8oTaE"
     },
     {
       "added_at": "2026-10-09 18:41:32",
@@ -515,18 +515,22 @@
     {
       "added_at": "2026-10-09 18:41:32",
       "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+        "name": "Locales Calientes",
+        "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        },
+        {
+          "name": "Carlos Tarque",
+          "url": "https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR"
         }
       ],
-      "duration_ms": 202063,
-      "name": "A Las Nueve",
-      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
+      "duration_ms": 247419,
+      "name": "Tan Distintos",
+      "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
     },
     {
       "added_at": "2026-10-09 18:41:32",
@@ -547,22 +551,18 @@
     {
       "added_at": "2026-10-09 18:41:32",
       "album": {
-        "name": "Locales Calientes",
-        "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
       "artists": [
         {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        },
-        {
-          "name": "Carlos Tarque",
-          "url": "https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
         }
       ],
-      "duration_ms": 247419,
-      "name": "Tan Distintos",
-      "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
+      "duration_ms": 202063,
+      "name": "A Las Nueve",
+      "url": "https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S"
     },
     {
       "added_at": "2026-10-09 18:41:32",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-10-09 18:41:32",
       "album": {
-        "name": "La Hija de la L\u00e1grima",
-        "url": "https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Chipi-Chipi",
-      "url": "https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8"
-    },
-    {
-      "added_at": "2026-10-09 18:41:32",
-      "album": {
         "name": "Portal Sessions - Dillom y Santiago Motorizado",
         "url": "https://open.spotify.com/album/6p7BVraR1uyGLMbTiLay74"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 330843,
       "name": "La Noche Eterna (Portal Sessions)",
       "url": "https://open.spotify.com/track/1NSgsMDyyRWVUMcfDRerEg"
+    },
+    {
+      "added_at": "2026-10-09 18:41:32",
+      "album": {
+        "name": "La Hija de la L\u00e1grima",
+        "url": "https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Chipi-Chipi",
+      "url": "https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8"
     },
     {
       "added_at": "2026-10-09 18:41:32",

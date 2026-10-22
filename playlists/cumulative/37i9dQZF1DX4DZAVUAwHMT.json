@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Fontaines D.C.",
+  "description": "The UK's biggest rock playlist. Cover: Lambrini Girls",
   "name": "The Rock List",
   "tracks": [
     {
@@ -2394,7 +2394,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 230359,
       "name": "Bad Luck Hideaway",
       "url": "https://open.spotify.com/track/4ObTobZKWY0nKPvHibhdUM"
@@ -3044,7 +3044,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 282278,
       "name": "BIRTHDAY",
       "url": "https://open.spotify.com/track/4M11DzgR9VUohJhhakKnic"
@@ -5178,7 +5178,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 275113,
       "name": "Cold Blue Dawn",
       "url": "https://open.spotify.com/track/08EqJFDJCaBkDIMLO6Mrw2"
@@ -5874,7 +5874,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 155196,
       "name": "Dance",
       "url": "https://open.spotify.com/track/2IzcZgfzXljUsIiHQd7C8Z"
@@ -13940,7 +13940,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 233958,
       "name": "Kids Vs Guns",
       "url": "https://open.spotify.com/track/2lZuh8MJd6wEexdXmx0FJT"
@@ -16716,6 +16716,24 @@
       "duration_ms": 162066,
       "name": "Motoroller",
       "url": "https://open.spotify.com/track/3qPzVN8VgE4SSCQRs0AadM"
+    },
+    {
+      "album": {
+        "name": "Mould",
+        "url": "https://open.spotify.com/album/1PI4sltEkwh4VpQ6x6vDl0"
+      },
+      "artists": [
+        {
+          "name": "Indoor Foxes",
+          "url": "https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389266,
+      "name": "Mould",
+      "url": "https://open.spotify.com/track/2M3effasKKJ10GsqgqtNnx"
     },
     {
       "album": {
@@ -22390,7 +22408,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 155648,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP"
@@ -22808,6 +22826,24 @@
       "duration_ms": 283533,
       "name": "SNO",
       "url": "https://open.spotify.com/track/6ESav5wo8X785sX1NyH9bc"
+    },
+    {
+      "album": {
+        "name": "GODBREATH",
+        "url": "https://open.spotify.com/album/3g7lwQp0XcwYQve5ECItKt"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142187,
+      "name": "SO COOL",
+      "url": "https://open.spotify.com/track/7B8EdW5nswmkMLZmjhCHnn"
     },
     {
       "album": {
@@ -24853,6 +24889,24 @@
     },
     {
       "album": {
+        "name": "Tell The Leaves Not To Turn",
+        "url": "https://open.spotify.com/album/10IpzfeJGY09tplI7vXUqW"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271590,
+      "name": "Tell The Leaves Not To Turn",
+      "url": "https://open.spotify.com/track/6hn3YfzZe35Y0MoAxJMNL9"
+    },
+    {
+      "album": {
         "name": "Ten Over Ten",
         "url": "https://open.spotify.com/album/2bKHlLmzDVv2Yn3cB1o9za"
       },
@@ -24976,6 +25030,24 @@
       "duration_ms": 186270,
       "name": "The American Dream Is Killing Me",
       "url": "https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s"
+    },
+    {
+      "album": {
+        "name": "The Basement / Spilt",
+        "url": "https://open.spotify.com/album/6LQR9ywQxcxq992e9h2mU5"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213643,
+      "name": "The Basement",
+      "url": "https://open.spotify.com/track/6b1M7lKBrXFUp2kimbTmRu"
     },
     {
       "album": {
@@ -28564,6 +28636,24 @@
       "duration_ms": 235504,
       "name": "Who Will You Follow",
       "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
+    },
+    {
+      "album": {
+        "name": "Who You Callin' Crazy",
+        "url": "https://open.spotify.com/album/3a3jw6AMMrGQDnuPq2Y8jQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249425,
+      "name": "Who You Callin' Crazy",
+      "url": "https://open.spotify.com/track/6ObNPmAOuQRDekdah3BZQk"
     },
     {
       "album": {

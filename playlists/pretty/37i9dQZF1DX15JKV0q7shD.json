@@ -1,6 +1,6 @@
 {
   "description": "Those quintessential sad songs that everyone knows. ",
-  "num_followers": 237209,
+  "num_followers": 237235,
   "original_name": "Classics For Crying",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-02-06 15:11:29",
       "album": {
+        "name": "The Band Perry",
+        "url": "https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu"
+      },
+      "artists": [
+        {
+          "name": "The Band Perry",
+          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+        }
+      ],
+      "duration_ms": 222773,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX"
+    },
+    {
+      "added_at": "2026-02-06 15:11:29",
+      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
-    },
-    {
-      "added_at": "2026-02-06 15:11:29",
-      "album": {
-        "name": "The Band Perry",
-        "url": "https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu"
-      },
-      "artists": [
-        {
-          "name": "The Band Perry",
-          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
-        }
-      ],
-      "duration_ms": 222773,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/4u26EevCNXMhlvE1xFBJwX"
     },
     {
       "added_at": "2026-02-06 15:11:29",

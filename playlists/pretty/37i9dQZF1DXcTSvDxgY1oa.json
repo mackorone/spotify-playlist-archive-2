@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Wilson A.",
-  "num_followers": 2134,
+  "num_followers": 2140,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "in mei",
+        "url": "https://open.spotify.com/album/1TnQE62KG35F99eYKKXIJP"
+      },
+      "artists": [
+        {
+          "name": "tays",
+          "url": "https://open.spotify.com/artist/0pcZ4muyO23s31680gCh8C"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "in mei",
+      "url": "https://open.spotify.com/track/6sMXMG24t5fHgWVdTnjd79"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/2avYOcdmUpfxXIQcdcJUs4"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 163960,
       "name": "Healing",
       "url": "https://open.spotify.com/track/4GVbsI3QSEfA3zFukkGJu8"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "in mei",
-        "url": "https://open.spotify.com/album/1TnQE62KG35F99eYKKXIJP"
-      },
-      "artists": [
-        {
-          "name": "tays",
-          "url": "https://open.spotify.com/artist/0pcZ4muyO23s31680gCh8C"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "in mei",
-      "url": "https://open.spotify.com/track/6sMXMG24t5fHgWVdTnjd79"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Money Rain",
-        "url": "https://open.spotify.com/album/7vskvCoVOcvR6UN9kIkW4M"
-      },
-      "artists": [
-        {
-          "name": "BigBobbyBitch",
-          "url": "https://open.spotify.com/artist/6eXPslCtUuNKBMxrPQhSOe"
-        }
-      ],
-      "duration_ms": 143061,
-      "name": "Money Rain",
-      "url": "https://open.spotify.com/track/6nQBeKREBjEQj7ked6fYod"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Path of Least Resistance",
         "url": "https://open.spotify.com/album/7sNqPReXeLAG0CAbYw1HTF"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 255988,
       "name": "Path of Least Resistance",
       "url": "https://open.spotify.com/track/05xOWkhlppIXfTrBDl8Qit"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Money Rain",
+        "url": "https://open.spotify.com/album/7vskvCoVOcvR6UN9kIkW4M"
+      },
+      "artists": [
+        {
+          "name": "BigBobbyBitch",
+          "url": "https://open.spotify.com/artist/6eXPslCtUuNKBMxrPQhSOe"
+        }
+      ],
+      "duration_ms": 143061,
+      "name": "Money Rain",
+      "url": "https://open.spotify.com/track/6nQBeKREBjEQj7ked6fYod"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Half As Cool",
-        "url": "https://open.spotify.com/album/1fxacv1634svqjhx940BGv"
-      },
-      "artists": [
-        {
-          "name": "SUUS",
-          "url": "https://open.spotify.com/artist/3WjZbDDJa9OtjOVFDhUJJu"
-        }
-      ],
-      "duration_ms": 163147,
-      "name": "Half As Cool",
-      "url": "https://open.spotify.com/track/7qX6xSLgM2MiuxZsBZ7q3M"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Kermis",
         "url": "https://open.spotify.com/album/43lAZ9WsCUHPozo3EWo04j"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/2jnvto8G5FF2mHPkuSBYmo"
+        "name": "Half As Cool",
+        "url": "https://open.spotify.com/album/1fxacv1634svqjhx940BGv"
       },
       "artists": [
         {
-          "name": "HOOFS",
-          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
+          "name": "SUUS",
+          "url": "https://open.spotify.com/artist/3WjZbDDJa9OtjOVFDhUJJu"
         }
       ],
-      "duration_ms": 135836,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/7AyD9W8RCisCNUJKj14gSH"
+      "duration_ms": 163147,
+      "name": "Half As Cool",
+      "url": "https://open.spotify.com/track/7qX6xSLgM2MiuxZsBZ7q3M"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -455,6 +439,22 @@
       "duration_ms": 125419,
       "name": "Jongens van het Dorp",
       "url": "https://open.spotify.com/track/7KOKjftx3ceSxiK9mVzIdH"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/2jnvto8G5FF2mHPkuSBYmo"
+      },
+      "artists": [
+        {
+          "name": "HOOFS",
+          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
+        }
+      ],
+      "duration_ms": 135836,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/7AyD9W8RCisCNUJKj14gSH"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -523,6 +523,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "Comfort on its Knees",
+        "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
+      },
+      "artists": [
+        {
+          "name": "In Good Spirit",
+          "url": "https://open.spotify.com/artist/7u1aQcQm4rqUgaW4uax6jD"
+        }
+      ],
+      "duration_ms": 288952,
+      "name": "Brother Please",
+      "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "Emotionally Unavailable",
         "url": "https://open.spotify.com/album/3Yv6jgUjCRCXZU6RPalhw4"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 150173,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/7hnrgxMQqNPALrdUyt5FQK"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "Comfort on its Knees",
-        "url": "https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm"
-      },
-      "artists": [
-        {
-          "name": "In Good Spirit",
-          "url": "https://open.spotify.com/artist/7u1aQcQm4rqUgaW4uax6jD"
-        }
-      ],
-      "duration_ms": 288952,
-      "name": "Brother Please",
-      "url": "https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "see-through",
-        "url": "https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z"
-      },
-      "artists": [
-        {
-          "name": "NEBULA",
-          "url": "https://open.spotify.com/artist/12diO4yzHt1BQYmM1L8rNJ"
-        }
-      ],
-      "duration_ms": 236750,
-      "name": "see-through",
-      "url": "https://open.spotify.com/track/28vbdzBGYdT36yLtxRdHpK"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "GYL",
         "url": "https://open.spotify.com/album/6DtUI3NTKbVfwtIE8qkiE5"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 171023,
       "name": "GYL",
       "url": "https://open.spotify.com/track/3kExYLXJZm994hkWmQ9TXD"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "see-through",
+        "url": "https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z"
+      },
+      "artists": [
+        {
+          "name": "NEBULA",
+          "url": "https://open.spotify.com/artist/12diO4yzHt1BQYmM1L8rNJ"
+        }
+      ],
+      "duration_ms": 236750,
+      "name": "see-through",
+      "url": "https://open.spotify.com/track/28vbdzBGYdT36yLtxRdHpK"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Dust Breeding",
-        "url": "https://open.spotify.com/album/6MPHcDaC0K0gFQ2t1N4mPW"
-      },
-      "artists": [
-        {
-          "name": "aquelarre*",
-          "url": "https://open.spotify.com/artist/00u4579gwIGUFUcgyjYGqj"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "Dust Breeding",
-      "url": "https://open.spotify.com/track/3JLIg24MIyATnnnD4GZg4P"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Please you",
         "url": "https://open.spotify.com/album/6BWRoWNORPpY8CcSpgfv18"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 242474,
       "name": "Please you",
       "url": "https://open.spotify.com/track/1peAGEGBN18t9MvSy5IfEf"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Dust Breeding",
+        "url": "https://open.spotify.com/album/6MPHcDaC0K0gFQ2t1N4mPW"
+      },
+      "artists": [
+        {
+          "name": "aquelarre*",
+          "url": "https://open.spotify.com/artist/00u4579gwIGUFUcgyjYGqj"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Dust Breeding",
+      "url": "https://open.spotify.com/track/3JLIg24MIyATnnnD4GZg4P"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -947,6 +947,22 @@
       "duration_ms": 546499,
       "name": "Acid to Fascists",
       "url": "https://open.spotify.com/track/7J38jvMFpESlnq2sEmg9gH"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "ireallylikeboys",
+        "url": "https://open.spotify.com/album/6dqcJtGYhhaC2rlYO0SLLF"
+      },
+      "artists": [
+        {
+          "name": "KUZKO",
+          "url": "https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo"
+        }
+      ],
+      "duration_ms": 149163,
+      "name": "ireallylikeboys",
+      "url": "https://open.spotify.com/track/7mijo4YVQfT89PCDH78h2U"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -983,22 +999,6 @@
       "duration_ms": 190083,
       "name": "In My Arms - live",
       "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "ireallylikeboys",
-        "url": "https://open.spotify.com/album/6dqcJtGYhhaC2rlYO0SLLF"
-      },
-      "artists": [
-        {
-          "name": "KUZKO",
-          "url": "https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo"
-        }
-      ],
-      "duration_ms": 149163,
-      "name": "ireallylikeboys",
-      "url": "https://open.spotify.com/track/7mijo4YVQfT89PCDH78h2U"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "On Today's Weather Forecast: EVERYTHING ALL AT ONCE",
-        "url": "https://open.spotify.com/album/5UFCUYjHl1GLqnNiRNEGfc"
-      },
-      "artists": [
-        {
-          "name": "Coalmine Canary",
-          "url": "https://open.spotify.com/artist/3ttyYm2zkgPCUuhqaoWiYQ"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "bandnamegenerator",
-      "url": "https://open.spotify.com/track/7mKaQdRtbklBIShjw7ZVLl"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "BAD CHI",
         "url": "https://open.spotify.com/album/2JbAEBojUAxaRpWdbZNytW"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 223974,
       "name": "BAD CHI - Single Version",
       "url": "https://open.spotify.com/track/3c8n1eNgqVgzTdBFrhhPEK"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "On Today's Weather Forecast: EVERYTHING ALL AT ONCE",
+        "url": "https://open.spotify.com/album/5UFCUYjHl1GLqnNiRNEGfc"
+      },
+      "artists": [
+        {
+          "name": "Coalmine Canary",
+          "url": "https://open.spotify.com/artist/3ttyYm2zkgPCUuhqaoWiYQ"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "bandnamegenerator",
+      "url": "https://open.spotify.com/track/7mKaQdRtbklBIShjw7ZVLl"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "Fashion Week",
+        "url": "https://open.spotify.com/album/2kSJHERGTck6gWQYaAKFBF"
+      },
+      "artists": [
+        {
+          "name": "The Awkward",
+          "url": "https://open.spotify.com/artist/2NNlnlNi1c4gEqp3BFQ2Ci"
+        }
+      ],
+      "duration_ms": 199013,
+      "name": "Fashion Week",
+      "url": "https://open.spotify.com/track/3ozXv8t1akzYPkgvkqtpCk"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y"
       },
@@ -1163,6 +1179,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "Loyalty",
+        "url": "https://open.spotify.com/album/7mdwr2Z15JcrnW29fdbqFM"
+      },
+      "artists": [
+        {
+          "name": "Amani",
+          "url": "https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3"
+        }
+      ],
+      "duration_ms": 140970,
+      "name": "Loyalty",
+      "url": "https://open.spotify.com/track/0G8yVV48qL5TDgfUE2zvFR"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn"
       },
@@ -1175,22 +1207,6 @@
       "duration_ms": 288000,
       "name": "Out Of Place",
       "url": "https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "Fashion Week",
-        "url": "https://open.spotify.com/album/2kSJHERGTck6gWQYaAKFBF"
-      },
-      "artists": [
-        {
-          "name": "The Awkward",
-          "url": "https://open.spotify.com/artist/2NNlnlNi1c4gEqp3BFQ2Ci"
-        }
-      ],
-      "duration_ms": 199013,
-      "name": "Fashion Week",
-      "url": "https://open.spotify.com/track/3ozXv8t1akzYPkgvkqtpCk"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "Agony",
-        "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
-      },
-      "artists": [
-        {
-          "name": "Vonder",
-          "url": "https://open.spotify.com/artist/3VTQ7sDwZFlZbr8dccQoI5"
-        }
-      ],
-      "duration_ms": 310015,
-      "name": "Agony",
-      "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
         "name": "Warm Light",
         "url": "https://open.spotify.com/album/6muYDkSY3YNgBlq7UX4ovU"
       },
@@ -1255,6 +1255,22 @@
       "duration_ms": 189000,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/73OObOaztvXbVA4kgYukXK"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
+        "name": "Agony",
+        "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
+      },
+      "artists": [
+        {
+          "name": "Vonder",
+          "url": "https://open.spotify.com/artist/3VTQ7sDwZFlZbr8dccQoI5"
+        }
+      ],
+      "duration_ms": 310015,
+      "name": "Agony",
+      "url": "https://open.spotify.com/track/2YmfhBWkABF1fQURVfPAbH"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "CAH",
-        "url": "https://open.spotify.com/album/39xFSYTYNTFyoRips5vQTu"
+        "name": "Tranen In De Ambulance",
+        "url": "https://open.spotify.com/album/0qAvNefGJlplYk5PjaYtbY"
       },
       "artists": [
         {
-          "name": "CAH",
-          "url": "https://open.spotify.com/artist/1w8sqAm1Y1fim0Dy17oBfr"
+          "name": "GIB",
+          "url": "https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h"
         }
       ],
-      "duration_ms": 228500,
-      "name": "Polder",
-      "url": "https://open.spotify.com/track/4iJt3YH8EdjL5dcuknBfu4"
+      "duration_ms": 139804,
+      "name": "Tranen In De Ambulance",
+      "url": "https://open.spotify.com/track/2k5ucOkYFE0hlwFOGjWJIy"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1327,34 +1343,18 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
-        "name": "ep1",
-        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
+        "name": "CAH",
+        "url": "https://open.spotify.com/album/39xFSYTYNTFyoRips5vQTu"
       },
       "artists": [
         {
-          "name": "tenderblom",
-          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
+          "name": "CAH",
+          "url": "https://open.spotify.com/artist/1w8sqAm1Y1fim0Dy17oBfr"
         }
       ],
-      "duration_ms": 144000,
-      "name": "fornow",
-      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "Tranen In De Ambulance",
-        "url": "https://open.spotify.com/album/0qAvNefGJlplYk5PjaYtbY"
-      },
-      "artists": [
-        {
-          "name": "GIB",
-          "url": "https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h"
-        }
-      ],
-      "duration_ms": 139804,
-      "name": "Tranen In De Ambulance",
-      "url": "https://open.spotify.com/track/2k5ucOkYFE0hlwFOGjWJIy"
+      "duration_ms": 228500,
+      "name": "Polder",
+      "url": "https://open.spotify.com/track/4iJt3YH8EdjL5dcuknBfu4"
     },
     {
       "added_at": "2026-10-20 11:45:56",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-10-20 11:45:56",
       "album": {
+        "name": "ep1",
+        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
+      },
+      "artists": [
+        {
+          "name": "tenderblom",
+          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "fornow",
+      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
+    },
+    {
+      "added_at": "2026-10-20 11:45:56",
+      "album": {
         "name": "Love Thief",
         "url": "https://open.spotify.com/album/3xMZ7wz3PhInVNCC1eMw0T"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 135884,
       "name": "Love Thief",
       "url": "https://open.spotify.com/track/76qQ0F6b54MnL4FszPMeXk"
-    },
-    {
-      "added_at": "2026-10-20 11:45:56",
-      "album": {
-        "name": "Loyalty",
-        "url": "https://open.spotify.com/album/7mdwr2Z15JcrnW29fdbqFM"
-      },
-      "artists": [
-        {
-          "name": "Amani",
-          "url": "https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3"
-        }
-      ],
-      "duration_ms": 140970,
-      "name": "Loyalty",
-      "url": "https://open.spotify.com/track/0G8yVV48qL5TDgfUE2zvFR"
     },
     {
       "added_at": "2026-10-20 11:45:56",

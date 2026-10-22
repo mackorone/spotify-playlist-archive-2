@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 
 > This is Eminem\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,144,647 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,144,752 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 35 | [The Watcher](https://open.spotify.com/track/1iQ5E4z6CJ38dIzvMI9Wdo) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Knoc\-Turn'al](https://open.spotify.com/artist/24PJqH46WhB0pUB7NlsFna) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 3:26 |
 | 36 | [Lucky You \(feat\. Joyner Lucas\)](https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:04 |
 | 37 | [Space Bound](https://open.spotify.com/track/0sHW1jXe6Sou3437gJQNGA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:38 |
-| 38 | [Killshot](https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Killshot](https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0) | 4:13 |
-| 39 | [Forever](https://open.spotify.com/track/3qjKqmA2YeH0a8DRoKj8iy) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Forever](https://open.spotify.com/album/4Z4vthIzd6pIKC396R5vSN) | 5:57 |
+| 38 | [Forever](https://open.spotify.com/track/3qjKqmA2YeH0a8DRoKj8iy) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Forever](https://open.spotify.com/album/4Z4vthIzd6pIKC396R5vSN) | 5:57 |
+| 39 | [Killshot](https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Killshot](https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0) | 4:13 |
 | 40 | [When I'm Gone](https://open.spotify.com/track/4CDIEKHMb2MBgvgHBkhiJD) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [When I'm Gone](https://open.spotify.com/album/07d5gKKyeWA07kZ3b91UBa) | 4:41 |
 | 41 | [I Need A Doctor](https://open.spotify.com/track/70ATm56tH7OrQ1zurYssz0) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [I Need A Doctor](https://open.spotify.com/album/45IcnOlgrZDKNwwbNO7CAn) | 4:43 |
 | 42 | [Like Toy Soldiers](https://open.spotify.com/track/6CN3e26iQSj1N5lomh0mfO) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 49 | [Role Model](https://open.spotify.com/track/0EtirusGt3LivUmALXSMVe) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 3:25 |
 | 50 | [Patiently Waiting](https://open.spotify.com/track/6C781pluv3BPxGHHCUJNYc) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5) | 4:48 |
 
-Snapshot ID: `atQMAAAAAAB61RMoc3I4fjKn1yeR6KqR`
+Snapshot ID: `atVdgAAAAAAjzCtnQOr4qbYaTvsKqgtF`

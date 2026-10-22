@@ -1,6 +1,6 @@
 {
   "description": "For skating and grooving. ",
-  "num_followers": 411029,
+  "num_followers": 411061,
   "original_name": "The Roller Rink ",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-06-08 19:52:05",
       "album": {
-        "name": "Chaka",
-        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "I'm Every Woman",
-      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
-    },
-    {
-      "added_at": "2026-06-08 19:52:05",
-      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 274000,
       "name": "Can't Get Enough Of Your Love, Babe",
       "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
+    },
+    {
+      "added_at": "2026-06-08 19:52:05",
+      "album": {
+        "name": "Chaka",
+        "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "I'm Every Woman",
+      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
     },
     {
       "added_at": "2026-06-08 19:52:05",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-06-08 19:52:05",
       "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 323346,
-      "name": "I'm Coming Out",
-      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
-    },
-    {
-      "added_at": "2026-06-08 19:52:05",
-      "album": {
         "name": "All Things In Time",
         "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 266200,
       "name": "You'll Never Find Another Love Like Mine",
       "url": "https://open.spotify.com/track/6OylYIXrIH2E3hgg7Dqz5M"
+    },
+    {
+      "added_at": "2026-06-08 19:52:05",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 323346,
+      "name": "I'm Coming Out",
+      "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
     },
     {
       "added_at": "2026-06-08 19:52:05",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-06-08 19:52:05",
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 170212,
-      "name": "Shining Star",
-      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
-    },
-    {
-      "added_at": "2026-06-08 19:52:05",
-      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 272653,
       "name": "Rollin (feat. Future & Khalid)",
       "url": "https://open.spotify.com/track/0lMbuWUpfTWhEmOKxppEau"
+    },
+    {
+      "added_at": "2026-06-08 19:52:05",
+      "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 170212,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
     },
     {
       "added_at": "2026-06-08 19:52:05",
@@ -1123,22 +1123,18 @@
     {
       "added_at": "2026-06-08 19:52:05",
       "album": {
-        "name": "Coloring Book",
-        "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Knox Fortune",
-          "url": "https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU"
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
         }
       ],
-      "duration_ms": 141542,
-      "name": "All Night (feat. Knox Fortune)",
-      "url": "https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T"
+      "duration_ms": 229573,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
     },
     {
       "added_at": "2026-06-08 19:52:05",
@@ -1159,18 +1155,22 @@
     {
       "added_at": "2026-06-08 19:52:05",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
       },
       "artists": [
         {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Knox Fortune",
+          "url": "https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU"
         }
       ],
-      "duration_ms": 229573,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
-      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
+      "duration_ms": 141542,
+      "name": "All Night (feat. Knox Fortune)",
+      "url": "https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T"
     },
     {
       "added_at": "2026-06-08 19:52:05",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-06-08 19:52:05",
       "album": {
-        "name": "Beat Goes On (Rhythm to the Brain)",
-        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
-      },
-      "artists": [
-        {
-          "name": "Campbell",
-          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
-        }
-      ],
-      "duration_ms": 133213,
-      "name": "Beat Goes On (Rhythm to the Brain)",
-      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
-    },
-    {
-      "added_at": "2026-06-08 19:52:05",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 301466,
       "name": "Juicy - 2007 Remaster",
       "url": "https://open.spotify.com/track/2b7FqlHc3JrzlYtGEkzq22"
+    },
+    {
+      "added_at": "2026-06-08 19:52:05",
+      "album": {
+        "name": "Beat Goes On (Rhythm to the Brain)",
+        "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        }
+      ],
+      "duration_ms": 133213,
+      "name": "Beat Goes On (Rhythm to the Brain)",
+      "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
     },
     {
       "added_at": "2026-06-08 19:52:05",

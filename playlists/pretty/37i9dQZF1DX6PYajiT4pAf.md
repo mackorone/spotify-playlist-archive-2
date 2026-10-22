@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > GRECAS, Estopa, Fontaines D.C\. con ROSALÍA,  Nyno Vargas, mafalda cardenal y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,487 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,486 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

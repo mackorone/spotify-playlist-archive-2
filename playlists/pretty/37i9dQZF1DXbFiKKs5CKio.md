@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,586 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,592 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,15 +16,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 6 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
 | 7 | [só \(mais\) uma vez](https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [só \(mais\) uma vez](https://open.spotify.com/album/74aOIXbvcA7NROiJzfRcGp) | 3:41 |
 | 8 | [Como Canta Gal](https://open.spotify.com/track/7IC9sOrydlTxfyAF8CM4mr) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Tudo Que Eu Sinto Faz Barulho](https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5) | 2:44 |
-| 9 | [Prisioneira de Mim](https://open.spotify.com/track/6wt6zTlUopQ8yR1rTUZIrA) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Relevuras](https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h) | 3:17 |
+| 9 | [Bye Bye](https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 2:58 |
 | 10 | [Pavão](https://open.spotify.com/track/2KctlfjhWHJ3dTAxOGZ2UM) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Antes Que A Terra Acabe](https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi) | 4:26 |
 | 11 | [Amor da Minha Vida](https://open.spotify.com/track/1cbLFYmad56AWDBu6HNIW0) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Noir](https://open.spotify.com/album/75bTLkQ8DYiTG70s8YU8BE) | 2:58 |
-| 12 | [Bye Bye](https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 2:58 |
+| 12 | [Prisioneira de Mim](https://open.spotify.com/track/6wt6zTlUopQ8yR1rTUZIrA) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Relevuras](https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h) | 3:17 |
 | 13 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 |
-| 14 | [Ainda é pouco](https://open.spotify.com/track/6AGC7ecYM61Mbpw3g9akOB) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Ainda é pouco](https://open.spotify.com/album/1m2nWpGkENRy7whHk6REol) | 2:54 |
-| 15 | [Sexto Sentido](https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Sexto Sentido](https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK) | 2:31 |
+| 14 | [Sexto Sentido](https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Sexto Sentido](https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK) | 2:31 |
+| 15 | [Gaveta/Onironauta](https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Allefez](https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY) | [Amaríssima V2 \(Remix\)](https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm) | 3:45 |
 | 16 | [Eternamente](https://open.spotify.com/track/3Ez01JZkWXupNqWLBwhGme) | [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Slap Sessions: Melly \(Ao Vivo\)](https://open.spotify.com/album/4IOY6NKMG3itD8WIW8rpgn) | 2:46 |
-| 17 | [Gaveta/Onironauta](https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Allefez](https://open.spotify.com/artist/7duD30ScTFqtnbx6qfphSY) | [Amaríssima V2 \(Remix\)](https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm) | 3:45 |
+| 17 | [Ainda é pouco](https://open.spotify.com/track/6AGC7ecYM61Mbpw3g9akOB) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Ainda é pouco](https://open.spotify.com/album/1m2nWpGkENRy7whHk6REol) | 2:54 |
 | 18 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
 | 19 | [Compartilhando o céu](https://open.spotify.com/track/79o4A5fUPdeniOCFNIb4Ag) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Dissolução](https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB) | 2:59 |
 | 20 | [Aprendi a Viver Só](https://open.spotify.com/track/1WbHIZnVa64bB3Tkt0vLxy) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Novela](https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx) | 3:18 |

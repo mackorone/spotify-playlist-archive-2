@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 21281,
+  "num_followers": 21285,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAACp0CsdVIjZQR19fc0ncqVM",
+  "snapshot_id": "atVdgAAAAAB2SMsxy14+RHLSWVTqnpl5",
   "tracks": [
     {
       "added_at": null,
@@ -479,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rich As In Spirit",
-        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
+        "name": "Downtown: Life Under The Gun",
+        "url": "https://open.spotify.com/album/4buyJv1fGVn1QU6ZR6YroB"
       },
       "artists": [
+        {
+          "name": "August Alsina",
+          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
+        },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 195908,
-      "name": "Never Fold",
-      "url": "https://open.spotify.com/track/1Op4A6asA7L6SN8dDRWvLJ"
+      "duration_ms": 313253,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/0zOD30TPDwjfECV1kkUkOm"
     },
     {
       "added_at": null,
@@ -511,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Downtown: Life Under The Gun",
-        "url": "https://open.spotify.com/album/4buyJv1fGVn1QU6ZR6YroB"
+        "name": "Rich As In Spirit",
+        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
       },
       "artists": [
-        {
-          "name": "August Alsina",
-          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
-        },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 313253,
-      "name": "Ghetto",
-      "url": "https://open.spotify.com/track/0zOD30TPDwjfECV1kkUkOm"
+      "duration_ms": 195908,
+      "name": "Never Fold",
+      "url": "https://open.spotify.com/track/1Op4A6asA7L6SN8dDRWvLJ"
     },
     {
       "added_at": null,

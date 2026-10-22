@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278 likes - 182 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 283 likes - 182 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 53 | [Miami](https://open.spotify.com/track/6SP5W33MHmIU6DODHd5zgM) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:12 |
 | 54 | [GATA G](https://open.spotify.com/track/7dtyJATeoXV8ACw4fdeTcx) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [EL CANTANTE DEL GHETTO](https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE) | 2:43 |
 | 55 | [MENOS EL CORA](https://open.spotify.com/track/52XPchHAfaOGPSV3IdAPzb) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [SENDÉ](https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c) | 3:30 |
-| 56 | [TRANKAITO](https://open.spotify.com/track/3MHWnw2doUPj2ILmsyRhhN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EL GREEN PRINT: La Saga \(Disc 1\) — FEID VS FERXXO](https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa) | 2:42 |
-| 57 | [For u My lova](https://open.spotify.com/track/1K17D7gMrxJDz3EA7W0Q72) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:30 |
+| 56 | [For u My lova](https://open.spotify.com/track/1K17D7gMrxJDz3EA7W0Q72) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:30 |
+| 57 | [TRANKAITO](https://open.spotify.com/track/3MHWnw2doUPj2ILmsyRhhN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EL GREEN PRINT: La Saga \(Disc 1\) — FEID VS FERXXO](https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa) | 2:42 |
 | 58 | [Lalala](https://open.spotify.com/track/18xsbKZzR4MDG39Hv8bcNO) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 3:10 |
 | 59 | [TENGO CELOS](https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:31 |
 | 60 | [Enchule](https://open.spotify.com/track/6NQQJRKTJeCuSnvNZ4J7xA) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Enchule](https://open.spotify.com/album/4yEObSjSnJ1FhFGopfbxnd) | 2:29 |
@@ -151,9 +151,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 141 | [Que Pase](https://open.spotify.com/track/1sl3BFidCGYy9FdchsRPJ2) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Metamorfosis](https://open.spotify.com/album/488zuAkOMDcIF7WA6AAqDE) | 2:46 |
 | 142 | [Mini Falda \(feat\. Yandel\)](https://open.spotify.com/track/1zIkMVCO14PnzGm4LEeDOx) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Aqui Se Vino A Perrear](https://open.spotify.com/album/6jsgg7vxTJXwOTipq5aoot) | 3:16 |
 | 143 | [Clavo](https://open.spotify.com/track/2TiF3BMZWEn5ELG8twbfF4) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:03 |
-| 144 | [Se Fue](https://open.spotify.com/track/5swbgkRN9cb8oJ4nlHap6A) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Se Fue](https://open.spotify.com/album/0MykEBzKQ5ClUHpx3a88fN) | 3:35 |
-| 145 | [QUE ME HICISTE](https://open.spotify.com/track/64y7606OQWxKysceRlkNxI) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 2:46 |
-| 146 | [QUE TALENTO](https://open.spotify.com/track/1IJaXFFFMdb4s1jn7nSYUc) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [QUE TALENTO](https://open.spotify.com/album/41ecYQc92iH9qjtiFfv8tk) | 2:59 |
+| 144 | [QUE TALENTO](https://open.spotify.com/track/1IJaXFFFMdb4s1jn7nSYUc) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [QUE TALENTO](https://open.spotify.com/album/41ecYQc92iH9qjtiFfv8tk) | 2:59 |
+| 145 | [Se Fue](https://open.spotify.com/track/5swbgkRN9cb8oJ4nlHap6A) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Se Fue](https://open.spotify.com/album/0MykEBzKQ5ClUHpx3a88fN) | 3:35 |
+| 146 | [QUE ME HICISTE](https://open.spotify.com/track/64y7606OQWxKysceRlkNxI) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 2:46 |
 | 147 | [Crisis](https://open.spotify.com/track/6qIqgXXofRhJkvRytIS1HR) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Nada Personal](https://open.spotify.com/album/4WgRPX4DY0lwubpMYKuTzN) | 3:21 |
 | 148 | [No Digas](https://open.spotify.com/track/23Kb0nahUYnUHemM1Gu81P) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Matando La Liga 2](https://open.spotify.com/album/5nThNfyoBhfmKYcQAyZZNF) | 2:26 |
 | 149 | [Cobarde](https://open.spotify.com/track/2M0gTGXZpUvcUkpNQrsasN) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Eddy Lover](https://open.spotify.com/artist/5xrs6XlhV3X93753N2ketX) | [Cobarde](https://open.spotify.com/album/7upcwrxaThJw1pUf3HluBN) | 2:47 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 181 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 | 182 | [Bby Wow](https://open.spotify.com/track/3Spvhpwuve2sQVtNMwZKSU) | [Facu Sanchez](https://open.spotify.com/artist/06ZoIY0fIJCba5QICxblJG) | [Bby Wow](https://open.spotify.com/album/6OXQ6XF2mBdL7gyg9wHh94) | 2:15 |
 
-Snapshot ID: `AcfesgAAAAAjNSwXika2TpTLDWPXUyOG`
+Snapshot ID: `AcfkcAAAAAABIDF6YGY6qnJ7ERW2fA2J`

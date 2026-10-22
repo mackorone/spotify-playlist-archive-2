@@ -1,6 +1,6 @@
 {
   "description": "songs that make you feel like you're levitating",
-  "num_followers": 1577280,
+  "num_followers": 1577375,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 363240,
-      "name": "New Person, Same Old Mistakes",
-      "url": "https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 363240,
+      "name": "New Person, Same Old Mistakes",
+      "url": "https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 343120,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 343120,
-      "name": "BLUE",
-      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
     },
     {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
-        "name": "did i tell u that i miss u",
-        "url": "https://open.spotify.com/album/5mw5lqpHiII2dtNFjWfKTd"
-      },
-      "artists": [
-        {
-          "name": "adore",
-          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
-        }
-      ],
-      "duration_ms": 115921,
-      "name": "did i tell u that i miss u",
-      "url": "https://open.spotify.com/track/3qeFjtPJ1lIRKDTB5DZWpt"
-    },
-    {
       "added_at": "2026-07-09 05:13:48",
       "album": {
         "name": "Hurry Up, We're Dreaming",
@@ -971,6 +955,22 @@
       "duration_ms": 247026,
       "name": "Outro",
       "url": "https://open.spotify.com/track/2QVmiA93GVhWNTWQctyY1K"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "did i tell u that i miss u",
+        "url": "https://open.spotify.com/album/5mw5lqpHiII2dtNFjWfKTd"
+      },
+      "artists": [
+        {
+          "name": "adore",
+          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+        }
+      ],
+      "duration_ms": 115921,
+      "name": "did i tell u that i miss u",
+      "url": "https://open.spotify.com/track/3qeFjtPJ1lIRKDTB5DZWpt"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
+        "name": "ARIZONA BABY",
+        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "duration_ms": 176732,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
         "name": "Cerulean",
         "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 232796,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
-        "name": "ARIZONA BABY",
-        "url": "https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        }
-      ],
-      "duration_ms": 176732,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1489,22 +1489,6 @@
       "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
-    },
-    {
       "added_at": "2026-06-12 04:02:15",
       "album": {
         "name": "The Fall",
@@ -1519,6 +1503,22 @@
       "duration_ms": 218433,
       "name": "The Fall - Shadow",
       "url": "https://open.spotify.com/track/3jEU3tTP9uOMPSfySPRcJk"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1669,22 +1669,6 @@
       "url": "https://open.spotify.com/track/6UcZ2LnJwKB5lc8EOOWlw3"
     },
     {
-      "added_at": "2026-07-15 02:06:32",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/3TWDRBwvDaMP4sQcPNrJQ7"
-      },
-      "artists": [
-        {
-          "name": "D'Leesa",
-          "url": "https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60"
-    },
-    {
       "added_at": "2026-06-08 16:01:54",
       "album": {
         "name": "ROCCO / TENTACION",
@@ -1699,6 +1683,22 @@
       "duration_ms": 186616,
       "name": "ROCCO",
       "url": "https://open.spotify.com/track/1QAulqNUI1RBfBco1PxqXv"
+    },
+    {
+      "added_at": "2026-07-15 02:06:32",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3TWDRBwvDaMP4sQcPNrJQ7"
+      },
+      "artists": [
+        {
+          "name": "D'Leesa",
+          "url": "https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60"
     }
   ],
   "unique_name": "Levitate",

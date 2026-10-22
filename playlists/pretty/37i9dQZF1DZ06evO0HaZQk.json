@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 525869,
+  "num_followers": 525882,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAACDXhO+Jn4kKDBc2DDJuu2Q",
+  "snapshot_id": "atVdgAAAAADV+IHNalr6UOctupwfJk65",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 308346,
-      "name": "Pajarito colibr\u00ed",
-      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 164453,
       "name": "Remember Me (D\u00fao)",
       "url": "https://open.spotify.com/track/3pCgIUkmRHKydu9HE03QKY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 308346,
+      "name": "Pajarito colibr\u00ed",
+      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que la Vida Vale",
+        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 190820,
+      "name": "Que la Vida Vale",
+      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pel\u00edcula Muda, Pt. 1",
         "url": "https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 264880,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4WKwqrYOcAbUlmmVQjZo2U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que la Vida Vale",
-        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 190820,
-      "name": "Que la Vida Vale",
-      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
-        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 225573,
-      "name": "Mi Tierra Veracruzana (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/1CIuTzWLQ3sxScgFJzUhWT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -843,22 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timidez (feat. Natalia Lafourcade)",
-        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Timidez (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+      "duration_ms": 225573,
+      "name": "Mi Tierra Veracruzana (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/1CIuTzWLQ3sxScgFJzUhWT"
     },
     {
       "added_at": null,
@@ -883,22 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
-        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+        "name": "Timidez (feat. Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         },
         {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 224533,
-      "name": "Son Amores (That's Amore) (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/10HQmG706HZtAhXRypWw01"
+      "duration_ms": 214186,
+      "name": "Timidez (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
     },
     {
       "added_at": null,
@@ -915,6 +895,26 @@
       "duration_ms": 322013,
       "name": "De todas las flores",
       "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Son Amores (That's Amore) (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/10HQmG706HZtAhXRypWw01"
     },
     {
       "added_at": null,

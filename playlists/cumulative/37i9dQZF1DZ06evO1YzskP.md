@@ -4,7 +4,7 @@
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-148 songs - 7 hr 17 min
+149 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Ferxxo 100](https://open.spotify.com/track/0XUpGwuM98v7v9jVHNXjlN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Ferxxo 100](https://open.spotify.com/album/32tBjPwSPQFBQJDHa5EvR6) | 3:18 | 2024-01-29 | 2024-05-09 |
 | [Finta De Fresitas](https://open.spotify.com/track/7EsdZUTmBOPWrWttIBkeQh) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Finta De Fresitas](https://open.spotify.com/album/72mTKDr3PmqRBCwUbH29Ta) | 2:55 | 2024-01-29 | 2024-07-27 |
 | [Fotos Hot](https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Fotos Hot](https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1) | 2:57 | 2024-04-08 | 2024-08-30 |
-| [Hombre Alegre \(En Vivo\)](https://open.spotify.com/track/2nUq3MxHMGgfMpyJ2tKEPl) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sol Sale Para Todos \(En Vivo\)](https://open.spotify.com/album/69aRIDK13ogUOnWqQePtoG) | 2:53 | 2026-10-12 |  |
+| [Hombre Alegre \(En Vivo\)](https://open.spotify.com/track/2nUq3MxHMGgfMpyJ2tKEPl) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sol Sale Para Todos \(En Vivo\)](https://open.spotify.com/album/69aRIDK13ogUOnWqQePtoG) | 2:53 | 2026-10-12 | 2026-10-22 |
+| [Hombre Alegre \- En Vivo](https://open.spotify.com/track/1saUTlLkB2j5oAAkJKLDYH) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sol Sale Para Todos \(En Vivo\)](https://open.spotify.com/album/5Q4j0yRRn15Ym0ZQ4yrtg9) | 2:53 | 2026-10-22 |  |
 | [Hombre Libre](https://open.spotify.com/track/3SQMrUdOqjyQS78iJT8fKn) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Hombre Libre](https://open.spotify.com/album/5HhhlArbJJSHMOfEsdE52J) | 3:25 | 2026-07-19 |  |
 | [Isidro El Chapo](https://open.spotify.com/track/3oCnK6eVusBd5E0hwy1azd) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Isidro El Chapo](https://open.spotify.com/album/30HVgN4IGJj9kprrLhb9jz) | 2:48 | 2024-01-29 | 2025-03-16 |
 | [La Belikada](https://open.spotify.com/track/2gt6sb9c74OGlfHdpBzrsa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/133hcTdLOisGXEF3NmOkLw) | 2:33 | 2025-06-02 |  |

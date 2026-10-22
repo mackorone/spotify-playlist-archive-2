@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 208674,
+  "num_followers": 208683,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAAzHSq4L6LHuFDNOIMe39dQ",
+  "snapshot_id": "atVdgAAAAADq7HeZCkwTBWuyb0p5oF97",
   "tracks": [
     {
       "added_at": null,
@@ -71,26 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 324688,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/7FufqShqWlNP606lT9iNr1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raise a Hallelujah (Studio Version)",
         "url": "https://open.spotify.com/album/3oYlxPR24DAf59TdxXoJVb"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 244040,
       "name": "Raise a Hallelujah (Studio Version)",
       "url": "https://open.spotify.com/track/3hWMtByfAKKngn5lpx8jBJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 324688,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/7FufqShqWlNP606lT9iNr1"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want Jesus (Live)",
-        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "John Wilds",
-          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
-        }
-      ],
-      "duration_ms": 373371,
-      "name": "He Has Done Great Things - Live",
-      "url": "https://open.spotify.com/track/44xhaEDPSwHTo7YXL6yZsc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bethel Music en Espa\u00f1ol (Live)",
         "url": "https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 312426,
       "name": "Ten Fe Coraz\u00f3n (En Vivo)",
       "url": "https://open.spotify.com/track/2lDF0n9AO9SKTt8NkSxHkj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Want Jesus (Live)",
+        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+        }
+      ],
+      "duration_ms": 373371,
+      "name": "He Has Done Great Things - Live",
+      "url": "https://open.spotify.com/track/44xhaEDPSwHTo7YXL6yZsc"
     },
     {
       "added_at": null,

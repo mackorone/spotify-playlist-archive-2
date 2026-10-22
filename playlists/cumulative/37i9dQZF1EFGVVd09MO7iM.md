@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-1,042 songs - 2 day 17 hr 59 min
+1,043 songs - 2 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Gust of Wind](https://open.spotify.com/track/5m6F6glTwHhsolaKD0gGu0) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 4:45 | 2024-01-29 |  |
 | [Gust of Wind](https://open.spotify.com/track/4IOTUYFspkScbYuIO6meff) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Gust of Wind \(Video\)](https://open.spotify.com/album/4l8l2v3TIwkK56xOwhJySj) | 4:58 | 2024-01-30 | 2024-02-02 |
 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 | 2024-01-29 | 2025-06-28 |
+| [Hallucinate \(Mr Fingers deep stripped mix\) \[Mixed\]](https://open.spotify.com/track/5xEXiB1tVK99iu27cbfRzU) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Club Future Nostalgia \(DJ Mix\)](https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C) | 1:53 | 2026-10-21 |  |
 | [Happy](https://open.spotify.com/track/4JFXLI3xfNUg4rMCSOvqko) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Happy \(Video\)](https://open.spotify.com/album/3SQvAB6LvCfr44sMgxeZ79) | 4:00 | 2024-01-29 | 2024-02-02 |
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:53 | 2024-01-29 |  |
 | [Hate Me](https://open.spotify.com/track/15og0pCEcTFWEXOFKdcJlU) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Brightest Blue](https://open.spotify.com/album/44va7sFuK8IGzrj0BIX8kK) | 3:08 | 2024-01-29 | 2025-06-28 |
@@ -1010,7 +1011,7 @@
 | [What Happened to You?](https://open.spotify.com/track/3U8LpjEbSlUQusIifQ3yBp) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 2:12 | 2024-01-29 |  |
 | [What It Is \(feat\. Busta Rhymes\)](https://open.spotify.com/track/3xuobJ0EyP0Boajt7p8xWq) | [Violator](https://open.spotify.com/artist/1insTr1g2lXrdbHZWihh5B), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Album: V2.O](https://open.spotify.com/album/6UxXdvPGWlae7NUxQsmOrM) | 3:38 | 2024-01-29 |  |
 | [What's a Guy Gotta Do \(In the Style of Joe Nichols\) \[Karaoke Version\]](https://open.spotify.com/track/20NW0s26DKsPk4iN2dH08P) | [The Karaoke Channel](https://open.spotify.com/artist/5UloVKzUNJcjORzhhTWWiJ) | [The Karaoke Channel \- Contemporary Male Country, Vol\. 6](https://open.spotify.com/album/1Ue2A69vjsWxI8mhXQ53ql) | 2:19 | 2024-06-20 | 2024-06-22 |
-| [What's Wrong With Me](https://open.spotify.com/track/6ySsYxvIUJgay1yCWqlouG) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Lapdance](https://open.spotify.com/album/2GvT4okZa5ZPJWpvbdExEK) | 5:09 | 2026-01-21 |  |
+| [What's Wrong With Me](https://open.spotify.com/track/6ySsYxvIUJgay1yCWqlouG) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Lapdance](https://open.spotify.com/album/2GvT4okZa5ZPJWpvbdExEK) | 5:09 | 2026-01-21 | 2026-10-22 |
 | [What's Yo Name](https://open.spotify.com/track/6LWMeKZH6fYQzH4wpAiXKu) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [I'm Serious](https://open.spotify.com/album/7fxEVEE8j1GSLF2iHaY7Em) | 3:52 | 2026-02-20 |  |
 | [What's Yo Name \(feat\. The Neptunes\)](https://open.spotify.com/track/3QCOfQTX3Xhkty44cS9gfN) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [I'm Serious](https://open.spotify.com/album/4HbKErpjgtJZGFOgfXSWHu) | 3:52 | 2024-06-20 | 2026-02-21 |
 | [When Boy Meets Girl](https://open.spotify.com/track/1S8nL8nzUNmLz9SbqdXLxE) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 4:18 | 2024-09-12 |  |

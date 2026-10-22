@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,644 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,666 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 53 | [Le succès](https://open.spotify.com/track/0K6Uy7IgLObIJRrsSna6wm) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Le succès](https://open.spotify.com/album/74UM8JnROs7TFZ6Vk74PYN) | 3:28 |
 | 54 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 |
 | 55 | [Buku Jero](https://open.spotify.com/track/0XjxAKtHWLtC48h2IcuMIr) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Buku Jero](https://open.spotify.com/album/4F43Xeo1WqnVcZkXBwJIBL) | 2:49 |
-| 56 | [Coco \(feat\. Tayc\)](https://open.spotify.com/track/6MG8MRq1odNsWCasM9IehW) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Coco \(feat\. Tayc\)](https://open.spotify.com/album/5hGsaXtfKcheS0r0AzMhgi) | 3:18 |
-| 57 | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 |
+| 56 | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 |
+| 57 | [Coco \(feat\. Tayc\)](https://open.spotify.com/track/6MG8MRq1odNsWCasM9IehW) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Coco \(feat\. Tayc\)](https://open.spotify.com/album/5hGsaXtfKcheS0r0AzMhgi) | 3:18 |
 | 58 | [MINIMUM \(feat\. døpelym\)](https://open.spotify.com/track/5FGx7yCMBzTsI2a73sQGJd) | [SK 07](https://open.spotify.com/artist/5x2kc3PpNjJUUfltMbCXJW), [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [MÉTAMORPHOSE](https://open.spotify.com/album/3mvmdwH6KAmDN8shjG6lz0) | 2:42 |
 | 59 | [Carry Me](https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Carry Me](https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs) | 3:43 |
 | 60 | [Bloqué](https://open.spotify.com/track/0K6Olb7aNjYMJEO9yFO0m7) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6) | 3:18 |

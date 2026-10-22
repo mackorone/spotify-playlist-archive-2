@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 39633,
+  "num_followers": 39634,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAANnRYRKmYKWyoX+r9Ei4NH",
+  "snapshot_id": "atVdgAAAAAAPWmzKElYuKecxsgIf0R+F",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DECEMBERUNDERGROUND",
-        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
+        "name": "All Hallows EP",
+        "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 159613,
-      "name": "Kill Caustic",
-      "url": "https://open.spotify.com/track/1g3GsYGMF9veVHh1sZn6me"
+      "duration_ms": 192626,
+      "name": "Fall Children",
+      "url": "https://open.spotify.com/track/6KTXHrliiM0il8gq7AkQPC"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Hallows EP",
-        "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
+        "name": "DECEMBERUNDERGROUND",
+        "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 192626,
-      "name": "Fall Children",
-      "url": "https://open.spotify.com/track/6KTXHrliiM0il8gq7AkQPC"
+      "duration_ms": 159613,
+      "name": "Kill Caustic",
+      "url": "https://open.spotify.com/track/1g3GsYGMF9veVHh1sZn6me"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shut Your Mouth And Open Your Eyes",
-        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
+        "name": "AFI (The Blood Album)",
+        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 169293,
-      "name": "Third Season",
-      "url": "https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF"
+      "duration_ms": 174133,
+      "name": "Aurelia",
+      "url": "https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFI (The Blood Album)",
-        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
+        "name": "Shut Your Mouth And Open Your Eyes",
+        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 174133,
-      "name": "Aurelia",
-      "url": "https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku"
+      "duration_ms": 169293,
+      "name": "Third Season",
+      "url": "https://open.spotify.com/track/5fpGz5nKCVDG97CyWSiXoF"
     },
     {
       "added_at": null,

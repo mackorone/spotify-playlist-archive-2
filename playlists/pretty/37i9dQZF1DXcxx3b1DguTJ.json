@@ -1,6 +1,6 @@
 {
   "description": "Grandes cl\u00e1sicos del pop en espa\u00f1ol. \u00a1Todo limpio y ordenado!",
-  "num_followers": 170107,
+  "num_followers": 170124,
   "original_name": "Pa Planchar",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-08-23 02:54:08",
       "album": {
-        "name": "Me Volvi A Acordar De Ti",
-        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
-    },
-    {
-      "added_at": "2024-08-23 02:54:08",
-      "album": {
         "name": "Nek (spanish version)",
         "url": "https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 225239,
       "name": "Laura no est\u00e0",
       "url": "https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA"
+    },
+    {
+      "added_at": "2024-08-23 02:54:08",
+      "album": {
+        "name": "Me Volvi A Acordar De Ti",
+        "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
     },
     {
       "added_at": "2024-08-23 02:54:08",

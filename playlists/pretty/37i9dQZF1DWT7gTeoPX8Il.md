@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,260 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,297 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 27 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Kisah Tanpa Dirimu](https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK) | 4:17 |
 | 28 | [Tak Adil](https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Tak Adil](https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K) | 3:08 |
 | 29 | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas), [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm) | 4:27 |
-| 30 | [Bodohnya Aku](https://open.spotify.com/track/0u4FQAomxIzy56IEh3bhCy) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Bodohnya Aku](https://open.spotify.com/album/4vVOsn3g5jQup5Kc9FhiQI) | 4:00 |
-| 31 | [Menjaga Jodoh Orang Lain](https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [Menjaga Jodoh Orang Lain](https://open.spotify.com/album/2uL5VfwFoXV4C0Xtn01sVQ) | 4:32 |
+| 30 | [Menjaga Jodoh Orang Lain](https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [Menjaga Jodoh Orang Lain](https://open.spotify.com/album/2uL5VfwFoXV4C0Xtn01sVQ) | 4:32 |
+| 31 | [Bodohnya Aku](https://open.spotify.com/track/0u4FQAomxIzy56IEh3bhCy) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Bodohnya Aku](https://open.spotify.com/album/4vVOsn3g5jQup5Kc9FhiQI) | 4:00 |
 | 32 | [Daur Hidup](https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Daur Hidup](https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI) | 2:42 |
 | 33 | [Sesal Separuh Nyawa](https://open.spotify.com/track/6Kqc2T2YiYLkzW6zD0GO8y) | [Alyah](https://open.spotify.com/artist/2bUKiCTlseN47NCfkpDTEZ) | [Sesal Separuh Nyawa](https://open.spotify.com/album/3a4TIbbzltgMCyKl2sJdt3) | 4:19 |
 | 34 | [Sampai Menutup Mata](https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sampai Menutup Mata](https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9) | 4:08 |
-| 35 | [Tak Selalu Memiliki \- Ipar Adalah Maut Original Soundtrack](https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Selalu Memiliki \(Ipar Adalah Maut Original Soundtrack\)](https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu) | 4:20 |
-| 36 | [Menjaga Hati](https://open.spotify.com/track/4OzWgPNMaXEAeUCPy3RTMk) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Menjaga Hati](https://open.spotify.com/album/5zAZDy6OPD6u04TCIAo0Ou) | 3:53 |
+| 35 | [Menjaga Hati](https://open.spotify.com/track/4OzWgPNMaXEAeUCPy3RTMk) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Menjaga Hati](https://open.spotify.com/album/5zAZDy6OPD6u04TCIAo0Ou) | 3:53 |
+| 36 | [Tak Selalu Memiliki \- Ipar Adalah Maut Original Soundtrack](https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Tak Selalu Memiliki \(Ipar Adalah Maut Original Soundtrack\)](https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu) | 4:20 |
 | 37 | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Menunggumu Sampai Akhir Hidup](https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ) | 4:11 |
 | 38 | [Kata](https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kata](https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ) | 3:40 |
 | 39 | [Lumangad Oku Dika](https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z) | [Ryenald Guntabid](https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D) | [Lumangad Oku Dika](https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK) | 4:08 |

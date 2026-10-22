@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 > This is Rashid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,752 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,750 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 49 | [Abre Caminhos](https://open.spotify.com/track/4InPGpczdrOVATP2fz0HMd) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Abre Caminhos](https://open.spotify.com/album/2j7dJMTEZ5iaADJkue5dlQ) | 3:22 |
 | 50 | [A Fila Anda](https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:26 |
 
-Snapshot ID: `atQMAAAAAAC41VoC/NlWjbmQNrYsdMAf`
+Snapshot ID: `atVdgAAAAADtLZPZMe8L3BLCTmQ2/0xX`

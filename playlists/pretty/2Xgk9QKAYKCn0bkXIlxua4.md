@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Xgk9QKAYKCn0bkXIlxua4.md) - [plain]
 
 > 
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 4 likes - 418 songs - 1 day 3 hr 42 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 5 likes - 418 songs - 1 day 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

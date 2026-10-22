@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 379170,
+  "num_followers": 379185,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAABD6qTNfbFwftQ41hXib5Mt",
+  "snapshot_id": "atVdgAAAAAAI9osedxlUpdoD1XDw+fv/",
   "tracks": [
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+        "name": "Money and Cigarettes (2007 Remaster)",
+        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 147853,
-      "name": "Cajun Moon",
-      "url": "https://open.spotify.com/track/5JCCKyYQlvg5HujwnZ43Sj"
+      "duration_ms": 193386,
+      "name": "I've Got a Rock 'n' Roll Heart",
+      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money and Cigarettes (2007 Remaster)",
-        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 193386,
-      "name": "I've Got a Rock 'n' Roll Heart",
-      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
+      "duration_ms": 147853,
+      "name": "Cajun Moon",
+      "url": "https://open.spotify.com/track/5JCCKyYQlvg5HujwnZ43Sj"
     },
     {
       "added_at": null,

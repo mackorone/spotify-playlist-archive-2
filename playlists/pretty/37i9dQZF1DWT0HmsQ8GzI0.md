@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Дeva
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,081 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,086 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 25 | [Velem Ég](https://open.spotify.com/track/32p6hZN0tIOqj25rHPTx3n) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [Velem Ég](https://open.spotify.com/album/4DZxey1QDt1tfLYCKIzrIW) | 3:08 |
 | 26 | [káosz](https://open.spotify.com/track/6Xr1706cN98IonpssEDZP6) | [imago mundi](https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO) | [káosz](https://open.spotify.com/album/7t8Ri7TyMFBbuQVl0EW83z) | 2:45 |
 | 27 | [Pesti bárdok](https://open.spotify.com/track/6GbI4lomlbCVHGfufZrjOv) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Pesti bárdok](https://open.spotify.com/album/45uG02RJkRCwM5yAcLoeG8) | 5:55 |
-| 28 | [KALITKA](https://open.spotify.com/track/5nvw8Wj7y1GA9SlLCU5Lm3) | [Elefánt](https://open.spotify.com/artist/5XXDBFhkTp168rjq9IjAE3) | [KALITKA](https://open.spotify.com/album/7qvRUUUPdKDbyC3qjbL9nJ) | 4:08 |
-| 29 | [Lobog](https://open.spotify.com/track/4uYodtawzMLvVcRSuIDbu0) | [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72), [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0), [TEMBO](https://open.spotify.com/artist/212auEZYtBvvJV6uohe2xD) | [Lobog](https://open.spotify.com/album/1eVdNYdWMyuBeksfdJa4V4) | 2:31 |
+| 28 | [Lobog](https://open.spotify.com/track/4uYodtawzMLvVcRSuIDbu0) | [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72), [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0), [TEMBO](https://open.spotify.com/artist/212auEZYtBvvJV6uohe2xD) | [Lobog](https://open.spotify.com/album/1eVdNYdWMyuBeksfdJa4V4) | 2:31 |
+| 29 | [KALITKA](https://open.spotify.com/track/5nvw8Wj7y1GA9SlLCU5Lm3) | [Elefánt](https://open.spotify.com/artist/5XXDBFhkTp168rjq9IjAE3) | [KALITKA](https://open.spotify.com/album/7qvRUUUPdKDbyC3qjbL9nJ) | 4:08 |
 | 30 | [AMORE \(de nem veled\)](https://open.spotify.com/track/0C06vewM8LGiOcOsVvOkdf) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [AMORE \(de nem veled\)](https://open.spotify.com/album/6Col5y7vKRtqIkmS3e8P3i) | 3:14 |
 | 31 | [Köszi](https://open.spotify.com/track/00nULt6n8Hb3DYJNopXJKF) | [Zaporozsec](https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP), [Mező Misi](https://open.spotify.com/artist/3ABBNYcEBmkQHx3ASmvJze) | [Köszi](https://open.spotify.com/album/56kLFYIxLorgmAY1wZuTed) | 3:27 |
 | 32 | [Frida Kahlo](https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [Frida Kahlo](https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo) | 2:43 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 69 | [i was wrong](https://open.spotify.com/track/6YMgZe04qLOXyc84DCyTHN) | [The Anahit](https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb) | [i was wrong](https://open.spotify.com/album/7EXMGa3bhTuRvarlYcGI05) | 2:58 |
 | 70 | [A nyaraló teraszán](https://open.spotify.com/track/3ZWlG6uEp0wZldavExZVWG) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Eddig későn feküdtem le](https://open.spotify.com/album/4UxNUQrYMao52xRB5CbhFE) | 3:01 |
 | 71 | [MARIO](https://open.spotify.com/track/08m9oJ1bpBWLl1k66Uk7LS) | [veryraredome](https://open.spotify.com/artist/7zYwh77AsmmjXoUr8AIHTv), [26ckay](https://open.spotify.com/artist/0VvoEGyKZ9tWbD0EYk9yTv), [starboyrolo](https://open.spotify.com/artist/3A7iNlFgagq1pt7yzyynMq) | [MR\. CITYWIDE](https://open.spotify.com/album/68sblQXoXXUG7KHyXw6RGz) | 3:07 |
-| 72 | [4 akkordos számok](https://open.spotify.com/track/6Phs4DJE9Vb7mMCZnHIH9m) | [Héra Barnabás](https://open.spotify.com/artist/42xKpR9Qeev4I5IFby0WUR) | [Héra](https://open.spotify.com/album/1IEtuvTgixEj2jmiGxOuFc) | 3:26 |
-| 73 | [Pillangóhatás](https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN) | [Tóth Abigél](https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS) | [Pillangóhatás](https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y) | 2:18 |
+| 72 | [Pillangóhatás](https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN) | [Tóth Abigél](https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS) | [Pillangóhatás](https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y) | 2:18 |
+| 73 | [4 akkordos számok](https://open.spotify.com/track/6Phs4DJE9Vb7mMCZnHIH9m) | [Héra Barnabás](https://open.spotify.com/artist/42xKpR9Qeev4I5IFby0WUR) | [Héra](https://open.spotify.com/album/1IEtuvTgixEj2jmiGxOuFc) | 3:26 |
 | 74 | [Groteszk](https://open.spotify.com/track/7DEz8GHB8LxhYNgamY9zXa) | [Indigo](https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA), [Blaize](https://open.spotify.com/artist/2yc8L4CBEwRcc5hwxcRAzD), [OB](https://open.spotify.com/artist/04DZtaXcurMKKFIdV4FNvt) | [Nárcisz](https://open.spotify.com/album/2Ds2rjH6PrfQ5c6VTqUqLK) | 2:59 |
 | 75 | [Menj](https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [Menj](https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9) | 3:47 |
 | 76 | [Utcasarki fény](https://open.spotify.com/track/4hXUyPaRvIleZ0kyxfFw8R) | [Artūr Rambo](https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe) | [Utcasarki fény](https://open.spotify.com/album/1V3e1jy9kToUikxhzK7Ges) | 3:10 |

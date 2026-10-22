@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-203 songs - 10 hr 21 min
+204 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Heaven Without You](https://open.spotify.com/track/4CeXqDnd36kBb2j88h67it) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:22 | 2026-04-06 |  |
 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 | 2026-04-06 |  |
 | [Holiday](https://open.spotify.com/track/75A2Cy7UhkRFUDbWMuDd4b) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 3:00 | 2026-04-06 |  |
-| [Homewrecker](https://open.spotify.com/track/4hYhFpljxWSxQjJS6cnXkZ) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Blessing In Disguise](https://open.spotify.com/album/3jaNfRfY6X4UXHDSalOvUn) | 3:03 | 2026-04-06 |  |
+| [Homewrecker](https://open.spotify.com/track/3F3eSA98tUUysPiYjLW6cr) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Blessing In Disguise](https://open.spotify.com/album/2w7vDzyl9TstfqccxMtij2) | 3:03 | 2026-10-21 |  |
+| [Homewrecker](https://open.spotify.com/track/4hYhFpljxWSxQjJS6cnXkZ) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Blessing In Disguise](https://open.spotify.com/album/3jaNfRfY6X4UXHDSalOvUn) | 3:03 | 2026-04-06 | 2026-10-22 |
 | [How Can It Be Christmas](https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [How Can It Be Christmas](https://open.spotify.com/album/1NWaOsKAEnp5rdg4jmmK5f) | 3:15 | 2026-04-06 |  |
 | [How Did We Get Here? \(Intro\)](https://open.spotify.com/track/4v1V2pDnybZbxoyOkyciVc) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 0:37 | 2026-04-06 |  |
 | [How Did We Get Here? \(Outro\)](https://open.spotify.com/track/2SJMie4TdJoF9M1C6hl3LX) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 0:47 | 2026-04-06 |  |

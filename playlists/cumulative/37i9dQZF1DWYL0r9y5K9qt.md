@@ -4,7 +4,7 @@
 
 > time to strike a couple of poses\. cover: pami
 
-151 songs - 7 hr 43 min
+152 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Dark Arts](https://open.spotify.com/track/2wRXvIGUTRWod4yp1k3bGN) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dark Arts](https://open.spotify.com/album/1YItIfS2HNJkWIgaoj50SM) | 3:01 | 2026-03-05 |  |
 | [Day One](https://open.spotify.com/track/6wldZLtGqvQ8vUiy11FtTt) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Day One](https://open.spotify.com/album/4jg8dWycV6IFL8kEUKVoCw) | 2:27 | 2026-05-01 | 2026-06-19 |
 | [depresso](https://open.spotify.com/track/7oM7WsJFQclWbcD7Obrrrz) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [depresso](https://open.spotify.com/album/2CUbNUEaW14qh7Z7XmDcGp) | 3:48 | 2026-07-10 | 2026-07-17 |
-| [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 | 2026-07-10 |  |
+| [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 | 2026-07-10 | 2026-10-22 |
 | [Don't just yet resolve](https://open.spotify.com/track/4pOWzV51JJHBShJYeqSrVB) | [YenTing Lo](https://open.spotify.com/artist/6W7lSbguF67nqkK6djqd8z) | [Tumbleweed from nowhere](https://open.spotify.com/album/7FeB53a2BQpqhcEJdsZX1e) | 4:23 | 2026-06-18 | 2026-07-11 |
 | [ENEMY](https://open.spotify.com/track/4Cv1YTkESvHPWnQAtVNoBF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [ENEMY](https://open.spotify.com/album/1aHlLZFaxponNaGJMTWRUt) | 2:41 | 2026-03-26 | 2026-05-17 |
 | [everyday](https://open.spotify.com/track/4AkyoTKbtqT15hUyhuyVTH) | [owellciao](https://open.spotify.com/artist/5S9GPm0jvveRHL8QNWircV) | [everyday](https://open.spotify.com/album/6CPvnBRpfq9fmozOZByJRa) | 3:14 | 2026-03-05 | 2026-03-27 |
@@ -71,6 +71,7 @@
 | [Ignore](https://open.spotify.com/track/3lIxpq24g8IJpisCDs9dOH) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Loser.](https://open.spotify.com/album/4F1qUMDO9CsA5XtrQ3KyN6) | 2:22 | 2026-06-18 | 2026-07-17 |
 | [INDULGENCE](https://open.spotify.com/track/36Z5hs5XSo6ByQkjCmEp6i) | [EFI](https://open.spotify.com/artist/4h3xRZkaRJhrLs6cxtShbw) | [INDULGENCE](https://open.spotify.com/album/2tsyh7W220NtU1qFueIax0) | 3:00 | 2026-05-14 | 2026-05-29 |
 | [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 | 2026-05-01 | 2026-07-17 |
+| [I’m gonna TOESA](https://open.spotify.com/track/6BAnU4WVN9ArEfSi01JwhQ) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [What a Wonderful Life](https://open.spotify.com/album/6sqrtPnnIbWNxGQgqr8WHz) | 3:31 | 2026-10-12 |  |
 | [JUMP](https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/2L5mYNO7vicA2geMVVY7QN) | 2:44 | 2026-03-05 | 2026-03-27 |
 | [KARMA](https://open.spotify.com/track/6L23msZhO3PhVhnzImb0M1) | [DREAMGALS](https://open.spotify.com/artist/7ofbBBTVmWRRkg9T9sUB0L), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [KARMA](https://open.spotify.com/album/0n05dFgYuxRUVyT5pjgF1s) | 3:10 | 2026-04-09 | 2026-05-02 |
 | [Kingdom](https://open.spotify.com/track/742EtNLdFsrSGAZ1Dni3t5) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Kingdom](https://open.spotify.com/album/7LoB6EOEi6fvjRTkOlT1e6) | 3:47 | 2026-08-13 | 2026-09-12 |

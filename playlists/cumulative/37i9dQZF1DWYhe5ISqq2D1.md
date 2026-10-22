@@ -4,11 +4,11 @@
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover: ん・フェニ N\-FENI
 
-1,789 songs - 4 day 15 hr 54 min
+1,790 songs - 4 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(how could i be\)honest?](https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [\(how could i be\)honest?](https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl) | 3:29 | 2025-12-16 |  |
+| [\(how could i be\)honest?](https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [\(how could i be\)honest?](https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl) | 3:29 | 2025-12-16 | 2026-10-22 |
 | [\(I keep reaching but\) the light is far](https://open.spotify.com/track/21uv2vOAAnRXTj0ZYjNgfU) | [Skirt](https://open.spotify.com/artist/08mohCeV7TXJ7EASM6u6Cc) | [\(I keep reaching but\) the light is far](https://open.spotify.com/album/3mOmkItwWWARVN2v9BakWl) | 3:05 | 2025-07-08 | 2025-07-16 |
 | [0.2mm](https://open.spotify.com/track/2TIYGZ9G65jf1FcwF9iknF) | [大森元貴](https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs) | [OITOMA](https://open.spotify.com/album/3t6vgq00zaSOviMFDdKVAx) | 4:38 | 2026-02-24 | 2026-09-30 |
 | [0821\_a](https://open.spotify.com/track/3dcFxSx1vIKmRouPHBWYmF) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [Nisshoku Natsuko 15th Anniversary BEST \- Fly\-by2024\-](https://open.spotify.com/album/7gmE43E3l6qPzX5muaklAK) | 5:39 | 2024-09-17 | 2024-10-02 |
@@ -44,7 +44,7 @@
 | [afraid to love](https://open.spotify.com/track/015GuDehFbHYA3sBZDRjP8) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [サファイア](https://open.spotify.com/album/5XdY7QJZ1Mo4mwzt715kNI) | 3:42 | 2025-08-05 | 2025-08-13 |
 | [After that...](https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [All About McGuffin](https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4) | 3:29 | 2025-09-16 | 2025-12-10 |
 | [After the recital](https://open.spotify.com/track/3TZJpSNMmgNwKT6jRQ1Uh8) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [After the recital](https://open.spotify.com/album/3K3Bm50WGE3ncvjRYPduxP) | 4:56 | 2025-01-14 | 2025-01-22 |
-| [Aftertaste](https://open.spotify.com/track/4ZJZ7W5T3Q3O8ICw95K0vS) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E), [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Aftertaste](https://open.spotify.com/album/5reeDNcaX4JxcMz4fJtqvX) | 3:16 | 2026-06-16 | 2026-10-21 |
+| [Aftertaste](https://open.spotify.com/track/4ZJZ7W5T3Q3O8ICw95K0vS) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E), [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Aftertaste](https://open.spotify.com/album/5reeDNcaX4JxcMz4fJtqvX) | 3:16 | 2026-06-16 |  |
 | [again](https://open.spotify.com/track/1aseYWvk8nyKCLYIBkMyRr) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [again](https://open.spotify.com/album/5RLK5P7bmOWSnAwsWNtp42) | 3:12 | 2026-03-03 | 2026-03-11 |
 | [Aging](https://open.spotify.com/track/4wSfTNpteKJo0uKiy4VCBT) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Aging](https://open.spotify.com/album/4Tcip93W7ziXsIInpVzUY9) | 4:01 | 2025-07-08 | 2025-07-23 |
 | [Ai](https://open.spotify.com/track/7MtFI7SSGFJAkCYaj5IoJZ) | [猫蛙](https://open.spotify.com/artist/4LoPTaiMDcYYOohGwm5T11) | [Ai](https://open.spotify.com/album/5tJg96D4h2SqZXDDLuiNoU) | 1:48 | 2025-03-18 | 2025-03-26 |
@@ -354,6 +354,7 @@
 | [I say bye](https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [I say bye](https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ) | 3:00 | 2024-07-02 | 2024-07-10 |
 | [I see you](https://open.spotify.com/track/2CM5QNzs22OzvWuaVQsoaR) | [Fukase](https://open.spotify.com/artist/642h5Pps0IeXmWUnFrGhCA) | [I see you](https://open.spotify.com/album/4fvH9WiNjQ5CaoNTeHxFoL) | 3:47 | 2025-12-23 | 2026-03-18 |
 | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/track/2CSbGdlvxO4sGBEL9ZPAcZ) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/album/3CW4GK7h8PO7t18vQHbEoc) | 2:27 | 2026-02-03 | 2026-06-24 |
+| [i won't see you anymore](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 4:02 | 2026-10-20 |  |
 | [I'll be seeing you soon](https://open.spotify.com/track/1uqJHHD2705JtwCNBOgeFX) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [I'll be seeing you soon](https://open.spotify.com/album/7xAm0LYR5oHRqQfXZjWhMz) | 4:40 | 2025-09-23 | 2025-10-01 |
 | [I\-BULL \- iburu](https://open.spotify.com/track/6EhMAfr1NhCAURSnzrtkbL) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [I\-BULL \- iburu \- BLEACH: Thousand\-Year Blood War \- The Calamity](https://open.spotify.com/album/5SxwYJiJUV8p0EinXqbBjM) | 4:00 | 2026-07-28 |  |
 | [ICE](https://open.spotify.com/track/6XQwEEHO52i2zXRhCNRRqa) | [まおた](https://open.spotify.com/artist/6IhcIUsBfU3iBMB87ShNTT) | [ICE](https://open.spotify.com/album/0y4lLjEVhbTGYE1cWn90D2) | 3:55 | 2026-08-04 | 2026-08-12 |
@@ -499,7 +500,8 @@
 | [Motokano ni Naruno](https://open.spotify.com/track/0klCSseIpPorCTzpgaI5nl) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [PINK BEARS](https://open.spotify.com/album/53q0Ur1x3S7zsO7uEzU5u2) | 2:39 | 2026-08-18 | 2026-08-26 |
 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 | 2025-07-08 | 2025-07-23 |
 | [Ms.Sunshine](https://open.spotify.com/track/3PL0wgqzHGC88KAxQSysXC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE), [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Ms.Sunshine](https://open.spotify.com/album/7j1l29Ti2xp76Dj0Q5XlLm) | 4:11 | 2025-07-22 | 2025-09-03 |
-| [MUJO](https://open.spotify.com/track/2K1VBJVc8Y2N8L4GttF1ja) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [イキモノエネジー](https://open.spotify.com/album/2sYYEPrUuOboBPY07RAG27) | 4:09 | 2026-10-20 |  |
+| [MUJO](https://open.spotify.com/track/2K1VBJVc8Y2N8L4GttF1ja) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [イキモノエネジー](https://open.spotify.com/album/2sYYEPrUuOboBPY07RAG27) | 4:09 | 2026-10-20 | 2026-10-22 |
+| [MUJO](https://open.spotify.com/track/6yXfrAofIwIYl3vdl6rN8W) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [MUJO](https://open.spotify.com/album/7Ju5q0g98VDLgoaNXhMvML) | 4:09 | 2026-10-21 |  |
 | [MUSCLE](https://open.spotify.com/track/21SbN2vk35fWGJg4c1NNXH) | [ん・フェニ](https://open.spotify.com/artist/0EQ1hpoirQ1oH1wFvQb8x0) | [MUSCLE](https://open.spotify.com/album/5NCs8vIvupas8amL97FUZm) | 3:28 | 2026-08-25 | 2026-09-02 |
 | [Muse](https://open.spotify.com/track/3kxWlWgC3xOyJo7udidnLS) | [Broken Kangaroo](https://open.spotify.com/artist/2x88RJdG7aCmPZQAzlGUeo) | [Muse](https://open.spotify.com/album/5tfZXsANtBfqdHcbtESQsX) | 4:16 | 2024-07-09 | 2024-07-17 |
 | [MY DESIGN](https://open.spotify.com/track/6Sr4WaWGF0SLgFbc9mA6M7) | [.ENDRECHERI.](https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78) | [new chapter purple](https://open.spotify.com/album/1mBVZIBAokxwuYmqnVrcOL) | 3:22 | 2026-08-11 | 2026-08-19 |
@@ -765,7 +767,6 @@
 | [Tonari no Machi](https://open.spotify.com/track/0PmMx3te9Ab1qs9LVespmk) | [望月ヒナタ](https://open.spotify.com/artist/4VGKxbTlK8S2rHhrR6oLh9) | [Tonari no Machi](https://open.spotify.com/album/5qB08Nl2RJeRCcEhqM1lbd) | 4:24 | 2026-07-28 | 2026-08-05 |
 | [TONGO \- Feat.松重豊](https://open.spotify.com/track/3lsNooWcDZtv5IqLBIpYqH) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI), [松重豊](https://open.spotify.com/artist/3pHwaIplhKgtrVqaW16o50) | [TONGO \(Feat.松重豊\)](https://open.spotify.com/album/4JHpBsNaT4m35TipUmpvyr) | 3:23 | 2025-11-04 | 2025-11-12 |
 | [Toxic Luv](https://open.spotify.com/track/3mi4Gwmur1Wejivzohm3xS) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [Toxic Luv](https://open.spotify.com/album/29tAiHG6vz4qsZhAw22Pkb) | 2:19 | 2025-08-12 | 2025-08-20 |
-| [Track 5](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 0:00 | 2026-10-20 |  |
 | [Traffic Light \(prod\. Shingo Suzuki\)](https://open.spotify.com/track/1HG5ywdkdqGlW7IwQdXLbs) | [magora](https://open.spotify.com/artist/0AHQL12KXrcq9IzIBl0Wo2) | [Traffic Light \(prod\. Shingo Suzuki\)](https://open.spotify.com/album/7ilStTWLuncqmFfsumOXLs) | 3:41 | 2026-05-26 | 2026-06-03 |
 | [traveling \- Re\-Recording](https://open.spotify.com/track/4WZdUTYAUwMG63GCNA5jtk) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [SCIENCE FICTION](https://open.spotify.com/album/0ZjFSIHLglwavZUgcCboJW) | 5:08 | 2024-07-02 | 2024-12-25 |
 | [Trésor](https://open.spotify.com/track/22rjO66CqqLJcJ0m0Gks9Z) | [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Trésor / Yesterday Once More](https://open.spotify.com/album/44WwN6a4AF7Xbs7bUI4kXH) | 4:32 | 2024-07-26 | 2024-07-31 |

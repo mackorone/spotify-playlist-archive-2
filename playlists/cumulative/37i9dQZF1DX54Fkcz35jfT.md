@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: MAN WITH A MISSION
 
-523 songs - 1 day 6 hr 9 min
+524 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [HiDE and SEEK](https://open.spotify.com/track/6PPjUuBlAKwx1V2a74EICX) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/0mPlC0jXRvXDqCyUt5VI2b) | 3:37 | 2023-08-08 | 2023-08-10 |
 | [High & High](https://open.spotify.com/track/0i454WkGkyI6hunCwRJGpU) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [High & High](https://open.spotify.com/album/3BCia6H9fro5tj33vUcSba) | 3:17 | 2024-12-10 | 2025-05-29 |
 | [HIGHWAY NO\. 7](https://open.spotify.com/track/73q7H6XwqeMYfhlwLRHA8t) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [HIGHWAY NO\. 7](https://open.spotify.com/album/1CGU7PwqSiumBz6shtKYVN) | 3:14 | 2026-09-15 | 2026-09-23 |
+| [HOLIC](https://open.spotify.com/track/5AzGFUZHD7jK9aCqlcOapQ) | [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l) | [HOLIC](https://open.spotify.com/album/4VY2gcCfXQoQ6aXgZnDrWg) | 4:30 | 2026-10-20 |  |
 | [Hollow](https://open.spotify.com/track/0K3Z6vaYLF9mdo3xOMgtaz) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE) | [Hollow](https://open.spotify.com/album/3hVoQOS9BWo2r0laoJFLJo) | 4:19 | 2026-07-07 |  |
 | [HUGs](https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HUGs](https://open.spotify.com/album/3ZyIZflcr8XMlzbccIxjvv) | 5:33 | 2025-07-29 |  |
 | [Hunter or Prey](https://open.spotify.com/track/1uDADMKPdOgZvthrIqvOyb) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3lVu6JZpO1wk2IBpU4j88Q) | 3:44 | 2024-01-02 | 2024-04-19 |
@@ -388,7 +389,7 @@
 | [SWEET DREAMS](https://open.spotify.com/track/65at5xnnXAoWMeF7i0xKaZ) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 3:30 | 2023-09-26 | 2024-06-04 |
 | [swim](https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [CAVU](https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8) | 3:27 | 2023-07-20 |  |
 | [SYOKISHODO](https://open.spotify.com/track/08JA6xRSgOcycZ94PqzJoE) | [HIKAGE](https://open.spotify.com/artist/5GmWKtZuqNYrBrrHlhY9DO) | [SYOKISHODO](https://open.spotify.com/album/7nchzTfUv6iZxjSFvWj3Yr) | 3:08 | 2023-08-15 | 2023-08-25 |
-| [TAKE OVER](https://open.spotify.com/track/5gHvc4KOAOSeeoM4ZfbrS3) | [T.N.T](https://open.spotify.com/artist/7hPdXB6soJMZG24vdbfPOC) | [TAKE OVER](https://open.spotify.com/album/3LXkmiNkDO6bigwAyLx3I6) | 3:46 | 2026-10-20 |  |
+| [TAKE OVER](https://open.spotify.com/track/5gHvc4KOAOSeeoM4ZfbrS3) | [T.N.T](https://open.spotify.com/artist/7hPdXB6soJMZG24vdbfPOC) | [TAKE OVER](https://open.spotify.com/album/3LXkmiNkDO6bigwAyLx3I6) | 3:46 | 2026-10-20 | 2026-10-22 |
 | [TAKING THEM DOWN](https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [TAKING THEM DOWN](https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU) | 2:52 | 2023-07-20 | 2024-12-24 |
 | [Taking you out \[Re:\]](https://open.spotify.com/track/4vU0jSSmhgqRNNmjJOMtE9) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [Taking you out \[Re:\]](https://open.spotify.com/album/7fIoWUp5CvLSvU9Hp1AMMy) | 3:44 | 2026-09-15 | 2026-10-20 |
 | [Tank\-Top](https://open.spotify.com/track/6XkP8Amfl0gEKQBuQisidH) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [HIROKI \(ORANGE RANGE\)](https://open.spotify.com/artist/7fO9WfyjQqVEMaTuyX15Aq) | [FUTURES IN SILHOUETTE](https://open.spotify.com/album/5o5n0WLfc0Xj5tNJXE9k1o) | 3:13 | 2025-07-29 | 2025-08-20 |

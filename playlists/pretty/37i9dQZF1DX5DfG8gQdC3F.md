@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Tate McRae, Zach Bryan & Lana Del Rey, Olivia Rodrigo & Chappell Roan, Sophia Stel, Fontaines D.C, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,172 likes - 101 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,122 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 96 | [Corset de joie](https://open.spotify.com/track/7vK62hayL6BxyKZmxenGzC) | [Cherry Lena](https://open.spotify.com/artist/0vkN6Ib0aW335dFCf4iWNo) | [Corset de joie](https://open.spotify.com/album/0qSIGqArHlLURcT09aI36V) | 3:12 |
 | 97 | [J'veux pas t'oublier](https://open.spotify.com/track/7bsEHiDC7sNCihRmdva4yP) | [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91) | [J'veux pas t'oublier](https://open.spotify.com/album/1CfOe4suM68emDrUp1vEG5) | 2:56 |
 | 98 | [Étoile Polaire](https://open.spotify.com/track/47wVzv8KEicdQoDV9a8mrm) | [Fred Dionne](https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF) | [Étoile polaire](https://open.spotify.com/album/0gwMuEHnZop3QfaxQP1195) | 3:27 |
-| 99 | [Sérotonine](https://open.spotify.com/track/5OCFrLaGaITH9EJZg4aENB) | [Colin Léo](https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC), [Greg Beaudin](https://open.spotify.com/artist/3c1E23TTSqemqVSfJBmnFb) | [Léger Stress](https://open.spotify.com/album/1GwiO50DjkJXSiaRFHhvQU) | 3:08 |
+| 99 | [Sérotonine](https://open.spotify.com/track/5OCFrLaGaITH9EJZg4aENB) | [Colin Léo](https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC), [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0) | [Léger Stress](https://open.spotify.com/album/1GwiO50DjkJXSiaRFHhvQU) | 3:08 |
 | 100 | [J'aime le stress](https://open.spotify.com/track/2xu8LB804PZmMGdAnD2Iq4) | [Nectar Palace](https://open.spotify.com/artist/1GGCnb9R0avEHY31G16cyT) | [J'aime le stress](https://open.spotify.com/album/24MTLnddjPEEeb2BLV7hvJ) | 2:51 |
 | 101 | [Rote Zora\. "Resistance is Possible." Emma, no\. 6, June 1984, pp\. 39\-41.](https://open.spotify.com/track/3g7Z7sKCS2dnihluo3ZMT6) | [PISS](https://open.spotify.com/artist/1nGBerMI4y0SI6fZk97uYf) | [Rote Zora\. "Resistance is Possible." Emma, no\. 6, June 1984, pp\. 39\-41.](https://open.spotify.com/album/6oqUgxNHrpmxRZuFuNTHSN) | 2:54 |
 

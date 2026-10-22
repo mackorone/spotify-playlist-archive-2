@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Celestine Donkor
 
-827 songs - 2 day 23 hr 1 min
+828 songs - 2 day 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Emmanuel](https://open.spotify.com/track/466dosccGHgyox0Wr3hdea) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [NWANDO OMOSEBI](https://open.spotify.com/artist/5ftf7GXanOTLGnGgTZTzkT), [IFIOK EZENWA](https://open.spotify.com/artist/1VzNx9xyunmQBsCP1d8xPz) | [The King Is Coming](https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG) | 7:46 | 2022-06-09 | 2026-03-09 |
 | [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 | 2024-02-02 | 2024-02-09 |
 | [Enough for Me](https://open.spotify.com/track/0GRCnJ6SC7BKP2GfNt0SkQ) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Yielded](https://open.spotify.com/album/7qr1dZ2t1xVpv8vcgotE5D) | 7:26 | 2026-04-10 | 2026-05-15 |
-| [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 | 2026-01-23 |  |
+| [ENOUGH FOR ME](https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [ENOUGH FOR ME](https://open.spotify.com/album/5P2RR6rOO8lTNvVxMObKmj) | 9:40 | 2026-01-23 | 2026-10-22 |
 | [Every Praise \- \(album edit\)](https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd) | [Azusa The Next Generation](https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1) | 7:21 | 2025-09-05 |  |
 | [Every Step](https://open.spotify.com/track/37oSWxe9preFc1a6Q1BMqg) | [Ellie Scotte](https://open.spotify.com/artist/1f3shz4SYjpfZL1dCdinjM) | [Every Step](https://open.spotify.com/album/0D0ELjN5e7ydwUihilR4E2) | 3:08 | 2025-09-12 | 2025-10-03 |
 | [Everyday \(You Make My World Go Round\)](https://open.spotify.com/track/5bUkX6zEZTenVJueZiBYJ1) | [Micah Charlz](https://open.spotify.com/artist/2d2a1Ulv4ArqVxCOxfWCh1) | [Everyday \(You Make My World Go Round\)](https://open.spotify.com/album/7zx3HDeYOCGoFiAWAmuyrj) | 4:28 | 2026-01-09 | 2026-02-27 |
@@ -755,6 +755,7 @@
 | [We Behold\(Qavah Anthem\)](https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [We Behold\(Qavah Anthem\)](https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM) | 12:53 | 2023-07-28 |  |
 | [We Glorify Your Name \- Live](https://open.spotify.com/track/5lz0C3ODoXteXQlnKSnC0B) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [New Dimension](https://open.spotify.com/album/5F8AS4nbIJ1RRceKfrO7G8) | 6:13 | 2023-12-05 | 2023-12-11 |
 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 | 2024-10-11 |  |
+| [We Need Your Mercy](https://open.spotify.com/track/0QWo72wWFYr189PTEDJnrp) | [Elijah Daniel Omo Majemu](https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG) | [We Need Your Mercy](https://open.spotify.com/album/7BByt0OjKBaTIPbNv7U1G7) | 5:08 | 2026-10-02 |  |
 | [We Outside](https://open.spotify.com/track/3uGMVZsnoP9UZliJ2kDwtf) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [We Outside](https://open.spotify.com/album/4RmmwLWxkxihUhOFlFJQ0h) | 2:47 | 2025-08-01 | 2025-08-22 |
 | [We Pray](https://open.spotify.com/track/782yvAXARMNYwa6UYUNT0F) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Ruthie Namaganda](https://open.spotify.com/artist/2SPhsCFGKEMyOHfk5FWBc4), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [We Pray \(See a Miracle\)](https://open.spotify.com/album/3cmnxmwsuSQDPsWpvEsBoS) | 3:15 | 2026-02-13 | 2026-02-27 |
 | [We Prevail](https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [We Prevail](https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g) | 3:44 | 2024-03-01 | 2024-03-22 |

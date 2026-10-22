@@ -67,22 +67,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Todos Os Cantos, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 147748,
-      "name": "Supera - Ao Vivo",
-      "url": "https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Ela \u00c9 do Tipo",
         "url": "https://open.spotify.com/album/1hG0rwH2mYAzpWhGEYBRS8"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 204930,
       "name": "Ela \u00c9 do Tipo",
       "url": "https://open.spotify.com/track/2x8TNY9KwNvD19gVGs4WOP"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Todos Os Cantos, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 147748,
+      "name": "Supera - Ao Vivo",
+      "url": "https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -211,42 +211,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Live-M\u00f3vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        },
-        {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
-        }
-      ],
-      "duration_ms": 181512,
-      "name": "Vingan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 162734,
-      "name": "Te Assumi Pro Brasil - Ao Vivo",
-      "url": "https://open.spotify.com/track/6P7Uodyh8g40Nyc3no6R8E"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "18K",
         "url": "https://open.spotify.com/album/5STh8ZE7MwksBxQo6APYbo"
       },
@@ -275,6 +239,42 @@
       "duration_ms": 284117,
       "name": "Meu Mundo",
       "url": "https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 162734,
+      "name": "Te Assumi Pro Brasil - Ao Vivo",
+      "url": "https://open.spotify.com/track/6P7Uodyh8g40Nyc3no6R8E"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Live-M\u00f3vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        }
+      ],
+      "duration_ms": 181512,
+      "name": "Vingan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Acordando o Pr\u00e9dio",
-        "url": "https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 218467,
-      "name": "Acordando o Pr\u00e9dio",
-      "url": "https://open.spotify.com/track/40bK2uosUmAS92c17n98xd"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Misturadin (Ao Vivo)",
         "url": "https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 179644,
       "name": "Evoluiu",
       "url": "https://open.spotify.com/track/0WhDotK0QXigmsrlw0DxKK"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Acordando o Pr\u00e9dio",
+        "url": "https://open.spotify.com/album/4LlZtbDgmU4SkRiALN4FAS"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 218467,
+      "name": "Acordando o Pr\u00e9dio",
+      "url": "https://open.spotify.com/track/40bK2uosUmAS92c17n98xd"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -583,26 +583,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "50 Reais",
-        "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 207104,
-      "name": "50 Reais",
-      "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 160893,
       "name": "Essa mina \u00e9 louca (Participa\u00e7\u00e3o especial de Jhama)",
       "url": "https://open.spotify.com/track/5Bn6W4bwH7Bw5nMvn8V4xF"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "50 Reais",
+        "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 207104,
+      "name": "50 Reais",
+      "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Hoje",
-      "url": "https://open.spotify.com/track/3WLAcpFwRmC98f5UGRXAkI"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
         "url": "https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 206270,
       "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
       "url": "https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/3IW2BnN4ynkoxAEftrT8eN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Hoje",
+      "url": "https://open.spotify.com/track/3WLAcpFwRmC98f5UGRXAkI"
     },
     {
       "added_at": "2022-03-24 13:07:25",

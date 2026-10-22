@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81920,
+  "num_followers": 81921,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAAD6DttRHMH0U9z7u6UOw/C",
+  "snapshot_id": "atVdgAAAAACGkEQpFtBc53et8/NjblzI",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beira Mar",
-        "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 180032,
-      "name": "Beira Mar",
-      "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oxig\u00eanio (Corona Disco)",
         "url": "https://open.spotify.com/album/7K4Sn0GxfcQnlcV46ZOaT2"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 240000,
       "name": "Inverno",
       "url": "https://open.spotify.com/track/0yzMbAtm2RKslDyKNkOViZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beira Mar",
+        "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 180032,
+      "name": "Beira Mar",
+      "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
     },
     {
       "added_at": null,
@@ -1091,26 +1091,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Culpa \u00c9 Minha",
-        "url": "https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO"
-      },
-      "artists": [
-        {
-          "name": "Matheusinho",
-          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 197114,
-      "name": "A Culpa \u00c9 Minha",
-      "url": "https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beira Mar, Pt. 2",
         "url": "https://open.spotify.com/album/14wWNucRHaBBpeJ2u6DWQ6"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 139124,
       "name": "Beira Mar, Pt. 2",
       "url": "https://open.spotify.com/track/3kqWhY8Nf24VuHEog0xIpF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Culpa \u00c9 Minha",
+        "url": "https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO"
+      },
+      "artists": [
+        {
+          "name": "Matheusinho",
+          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 197114,
+      "name": "A Culpa \u00c9 Minha",
+      "url": "https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR"
     },
     {
       "added_at": null,
@@ -1227,6 +1227,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tudo Passar\u00e1",
+        "url": "https://open.spotify.com/album/4ACgtyuRCkuwUV49eunX1y"
+      },
+      "artists": [
+        {
+          "name": "Adonai",
+          "url": "https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Tudo Passar\u00e1",
+      "url": "https://open.spotify.com/track/3Sdd3cb8DyjzMSHO9tz9aX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ponto Panor\u00e2mico",
         "url": "https://open.spotify.com/album/6QTR3FJriIgFMIEuYteR3c"
       },
@@ -1247,26 +1271,6 @@
       "duration_ms": 162352,
       "name": "Te Escolhi",
       "url": "https://open.spotify.com/track/4hr93nmJbrM5fa6TpxA1jW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Efeito Violeta",
-        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 177800,
-      "name": "Vai Partir",
-      "url": "https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

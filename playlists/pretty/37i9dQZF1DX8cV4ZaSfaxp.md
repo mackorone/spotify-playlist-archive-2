@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,536 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,537 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 74 | [Venus](https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:32 |
 | 75 | [Cocktail love](https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Cocktail love](https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws) | 3:24 |
 | 76 | [2026 Monthly Yoon Repair January \- Lovers \(with GEORGE\)](https://open.spotify.com/track/4b4hrrDEP5ZrF5n1mePurX) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [2026 Monthly Yoon Repair January \- Lovers \(with GEORGE\)](https://open.spotify.com/album/1vg0ITgqXANGT8kzorDxVe) | 4:10 |
-| 77 | [You Got](https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [WJ STAY?](https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f) | 3:34 |
-| 78 | [Good Luck](https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Good Luck](https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR) | 3:40 |
+| 77 | [Good Luck](https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Good Luck](https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR) | 3:40 |
+| 78 | [You Got](https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [WJ STAY?](https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f) | 3:34 |
 | 79 | [Half Clear](https://open.spotify.com/track/29OarHJDQN4Pm7SE1VmlQf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 4:25 |
 | 80 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
 | 81 | [The Paradise](https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki 3rd Mini Album \[HIDE and SEEK\]](https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3) | 2:56 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 92 | [TALK](https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [TALK](https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR) | 3:23 |
 | 93 | [Get up](https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Scent](https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN) | 3:57 |
 | 94 | [It\`s Been A While \(Maxim City Summer Life c.f\)](https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [The Line](https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29) | 3:23 |
-| 95 | [1,2,3,4 \(Feat\. Moon Sujin\)](https://open.spotify.com/track/6KsN97qVMBhG7dha4wEs5Z) | [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [1,2,3,4](https://open.spotify.com/album/2kaVMvuUljq9PCTWjx7QqK) | 3:03 |
-| 96 | [Aqua \(feat\. Muzie\)](https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:59 |
+| 95 | [Aqua \(feat\. Muzie\)](https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:59 |
+| 96 | [1,2,3,4 \(Feat\. Moon Sujin\)](https://open.spotify.com/track/6KsN97qVMBhG7dha4wEs5Z) | [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [1,2,3,4](https://open.spotify.com/album/2kaVMvuUljq9PCTWjx7QqK) | 3:03 |
 | 97 | [Cherry Pink](https://open.spotify.com/track/7afB8JJAPlRQxZOUcl8cqo) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:17 |
 | 98 | [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 |
 | 99 | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 |

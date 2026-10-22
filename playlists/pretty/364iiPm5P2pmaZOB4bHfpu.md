@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/364iiPm5P2pmaZOB4bHfpu.md) - [plain]
 
 > Im defentily not the smartest kid in the class, but I still have that syndrome.
 
-[hooknoa000](https://open.spotify.com/user/hooknoa000) - 2 likes - 28 songs - 1 hr 45 min
+[hooknoa000](https://open.spotify.com/user/hooknoa000) - 3 likes - 28 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

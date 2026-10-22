@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 533622,
+  "num_followers": 533641,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 163216,
       "name": "Body",
       "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/3tyPOhuVnt5zd5kGfxbCyL"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Intense",
-        "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Trevor Guthrie",
-          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "This Is What It Feels Like",
-      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Settle (Special Edition)",
         "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 282812,
       "name": "You & Me - Flume Remix",
       "url": "https://open.spotify.com/track/3W2ZcrRsInZbjWylOi6KhZ"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Intense",
+        "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "This Is What It Feels Like",
+      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Blood, Sweat & 3 Years",
-        "url": "https://open.spotify.com/album/0KQDN58Lz8CXOsfIG6tQ7X"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 205078,
-      "name": "Take Me Home (feat. Bebe Rexha)",
-      "url": "https://open.spotify.com/track/7L59vVTpoS94JU3KEeolqt"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Magnets EP",
         "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 174444,
       "name": "Post Malone (feat. RANI)",
       "url": "https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Blood, Sweat & 3 Years",
+        "url": "https://open.spotify.com/album/0KQDN58Lz8CXOsfIG6tQ7X"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 205078,
+      "name": "Take Me Home (feat. Bebe Rexha)",
+      "url": "https://open.spotify.com/track/7L59vVTpoS94JU3KEeolqt"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/6OY5SQlmfr67Pfi2vrqMcH"
-      },
-      "artists": [
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        },
-        {
-          "name": "Zac Samuel",
-          "url": "https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0"
-        }
-      ],
-      "duration_ms": 213135,
-      "name": "Say Something - Zac Samuel Remix",
-      "url": "https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
         "name": "Forever (Deluxe)",
         "url": "https://open.spotify.com/album/0rKecMSGWfKqhls4Rp3PJn"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 210013,
       "name": "Heroes (we could be)",
       "url": "https://open.spotify.com/track/05XtssRLI22p8wLFIr7Vrl"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/6OY5SQlmfr67Pfi2vrqMcH"
+      },
+      "artists": [
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        },
+        {
+          "name": "Zac Samuel",
+          "url": "https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0"
+        }
+      ],
+      "duration_ms": 213135,
+      "name": "Say Something - Zac Samuel Remix",
+      "url": "https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU"
     },
     {
       "added_at": "2023-08-25 09:30:35",

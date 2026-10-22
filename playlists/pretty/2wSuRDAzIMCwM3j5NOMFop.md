@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 
 > Fucked up and evil\. What an absolute bop.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 61 songs - 3 hr 9 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 2 likes - 61 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

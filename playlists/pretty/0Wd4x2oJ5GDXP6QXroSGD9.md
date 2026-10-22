@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Wd4x2oJ5GDXP6QXroSGD9.md) - [plain]
 
 > Best lofi music to study or chill to.
 
-[Nebula](https://open.spotify.com/user/317ilbbsdggcepzdx6otfppl6uvm) - 1 like - 1,488 songs - 2 day 14 hr 37 min
+[Nebula](https://open.spotify.com/user/317ilbbsdggcepzdx6otfppl6uvm) - 2 likes - 1,488 songs - 2 day 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

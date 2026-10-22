@@ -4555,6 +4555,28 @@
     },
     {
       "album": {
+        "name": "CHROME//REFLECT",
+        "url": "https://open.spotify.com/album/0tdA3VrgYUk5mdWEvzA2Kh"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "CHROME//REFLECT",
+      "url": "https://open.spotify.com/track/0e9sx5NaCRz6FMEsOCPrIy"
+    },
+    {
+      "album": {
         "name": "CINEMA",
         "url": "https://open.spotify.com/album/4fqBn6j0jf2eLaBhZwA1dp"
       },

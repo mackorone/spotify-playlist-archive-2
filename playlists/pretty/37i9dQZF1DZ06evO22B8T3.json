@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1309648,
+  "num_followers": 1309699,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAAJ7RVLCKukXiq6rs76rlKw",
+  "snapshot_id": "atVdgAAAAAB/N+dFrPy6L2Lj5afPyTg2",
   "tracks": [
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1%",
-        "url": "https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 224845,
-      "name": "1%",
-      "url": "https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No la Puedo Olvidar",
         "url": "https://open.spotify.com/album/6jG4udBvQmoHWbDnCPOncZ"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 207600,
       "name": "No la Puedo Olvidar",
       "url": "https://open.spotify.com/track/0DAAUZcROuFcGSWMyiWnkv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1%",
+        "url": "https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 224845,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp"
     },
     {
       "added_at": null,

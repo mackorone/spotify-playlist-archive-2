@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 
 > This is Leon Thomas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,485 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,496 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 | 25 | [I USED TO \(feat\. Baby Rose\)](https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:27 |
 | 26 | [Lone Wolf \(feat\. 4batz\)](https://open.spotify.com/track/5fcmrNQySUNbFn3n3ktu1n) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:18 |
 | 27 | [CATCH A STRAY](https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 4:42 |
-| 28 | [Beg](https://open.spotify.com/track/3lRXoxtNXehoTBFinymrhE) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Elle Varner](https://open.spotify.com/artist/7zmk5lkmCMVvfvwF3H8FWC) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 3:33 |
-| 29 | [New to Love](https://open.spotify.com/track/4tX7t9p8jMLMsou83f6FLm) | [EZMNY](https://open.spotify.com/artist/0HZkAiKdcDbVNHvsWsHudM), [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [New to Love](https://open.spotify.com/album/23dHlSzv3ymbgpbQjQ8zQU) | 3:34 |
+| 28 | [New to Love](https://open.spotify.com/track/4tX7t9p8jMLMsou83f6FLm) | [EZMNY](https://open.spotify.com/artist/0HZkAiKdcDbVNHvsWsHudM), [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [New to Love](https://open.spotify.com/album/23dHlSzv3ymbgpbQjQ8zQU) | 3:34 |
+| 29 | [Beg](https://open.spotify.com/track/3lRXoxtNXehoTBFinymrhE) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Elle Varner](https://open.spotify.com/artist/7zmk5lkmCMVvfvwF3H8FWC) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 3:33 |
 | 30 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 |
 | 31 | [Here We Go \(Uh Oh\) \[Remix\] \(feat\. Leon Thomas\)](https://open.spotify.com/track/2QDNxaKybJGJaZ0ZLoZbxf) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Why Not More? \(MORE!\)](https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M) | 3:36 |
 | 32 | [SAFE PLACE](https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 | 49 | [Remarkable Hussle](https://open.spotify.com/track/32mzcN3gDjsTow89hs5SmR) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Set In Stone](https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB) | 3:46 |
 | 50 | [dangerous game](https://open.spotify.com/track/1Qq1TDdMo7UjRP6nlSog2q) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [FRANCIS](https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs) | 3:50 |
 
-Snapshot ID: `atQMAAAAAABK/y7z4dVdz12ilJ1Eul2w`
+Snapshot ID: `atVdgAAAAAAYtPcwiCRfd8i5AExEcZzs`

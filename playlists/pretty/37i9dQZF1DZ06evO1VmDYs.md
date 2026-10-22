@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 
 > This is Weezer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,901 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,919 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 | 30 | [Keep Fishin'](https://open.spotify.com/track/1ljTFrbwY1ojpfd6bAmPTZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:52 |
 | 31 | [Shine Again](https://open.spotify.com/track/2dxTgb1knMXCt0AzRnFR0C) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 4:05 |
 | 32 | [Photograph](https://open.spotify.com/track/4hA3OFMvHCFCK3TfJYdbif) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:19 |
-| 33 | [Troublemaker](https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ) | 2:44 |
-| 34 | [You Gave Your Love To Me Softly](https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 1:58 |
+| 33 | [You Gave Your Love To Me Softly](https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 1:58 |
+| 34 | [Troublemaker](https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ) | 2:44 |
 | 35 | [Up In the Clouds](https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 3:39 |
 | 36 | [O Girlfriend](https://open.spotify.com/track/1EYwaLwf6fdS3NIlTbUZ3X) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:49 |
 | 37 | [Happy Together](https://open.spotify.com/track/3KxOYNt66Hj42HzO7ao0CV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 | 49 | [Mr\. Blue Sky](https://open.spotify.com/track/7ptKh9V0xt8CjLn0Z7ZgYd) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 4:46 |
 | 50 | [Aloo Gobi](https://open.spotify.com/track/6rSJz9u8Y9xixsh5fKu9hV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [OK Human](https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl) | 3:03 |
 
-Snapshot ID: `atQMAAAAAAAH2ktlqngqRwk7ctlnMgs1`
+Snapshot ID: `atVdgAAAAAAj7F0ZHobdgGGO4wKbPoKL`

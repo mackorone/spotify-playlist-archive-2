@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 
 > Old school jams to kick nostalgia up a notch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,757 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,765 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 20 | [Densu](https://open.spotify.com/track/3Bif5CgGVc8fgA27T3whVr) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Densu](https://open.spotify.com/album/4xrzwSLcJbkFZflR8R2u2c) | 5:16 |
 | 21 | [ABC](https://open.spotify.com/track/1VWsOHwb8bThWcbqYKzh6y) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [ABC Of Love](https://open.spotify.com/album/4laW16BiD24CmfqHGQ5TfH) | 5:37 |
 | 22 | [Fefe Na Efe](https://open.spotify.com/track/57z4I0GeGLwByEcPYOVUsT) | [Tic Tac](https://open.spotify.com/artist/7xtmj62gTz59CEBTSDOiML) | [Wope](https://open.spotify.com/album/6gEFYo0IQdlMJ1D6eOxH9k) | 6:00 |
-| 23 | [Abiba](https://open.spotify.com/track/6F0D7wS8XbrClBxhC4Okex) | [Rex Omar](https://open.spotify.com/artist/4IPHkdjugU9e3ACphVpX3s) | [The Collection](https://open.spotify.com/album/0g60elM8DKMcjusfaaQi8x) | 4:55 |
-| 24 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 |
+| 23 | [Slow Down](https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Slow Down](https://open.spotify.com/album/1M7aXbvLJZZU0tcW75opXe) | 2:57 |
+| 24 | [Abiba](https://open.spotify.com/track/6F0D7wS8XbrClBxhC4Okex) | [Rex Omar](https://open.spotify.com/artist/4IPHkdjugU9e3ACphVpX3s) | [The Collection](https://open.spotify.com/album/0g60elM8DKMcjusfaaQi8x) | 4:55 |
 | 25 | [Africa Money](https://open.spotify.com/track/6zhfuaevbv2CGBmvLv11l6) | [Sidney Barima Oppong](https://open.spotify.com/artist/6flAiqO3WySVk4w8xAEu6W) | [Ghana Awake, Vol\. 1](https://open.spotify.com/album/7HzECIqKqXIIdXACUpzvKO) | 4:43 |
 | 26 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 |
 | 27 | [Abeiku](https://open.spotify.com/track/0R55ud90TSQNXeqLeepXPq) | [Nana Tuffour](https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv) | [Abeiku](https://open.spotify.com/album/2oIwt5wf1BMRe3m386BrBT) | 5:42 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 35 | [Still I Love You](https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:22 |
 | 36 | [Aben Wo Aha](https://open.spotify.com/track/0r6z4y1ipgGloVF3ZPSfZ7) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wa Ha](https://open.spotify.com/album/6xFIOw6oitS4vkTK6q41Sd) | 5:12 |
 | 37 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
-| 38 | [Sorkode](https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E) | [Sorkode](https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g) | 3:40 |
-| 39 | [Esi](https://open.spotify.com/track/7gfdnU3uY17MoCcCjESPq7) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Esi](https://open.spotify.com/album/6Oqh2P8A4E7yMKTcmtOEcK) | 6:14 |
-| 40 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |
-| 41 | [Dadi Dada](https://open.spotify.com/track/5vzG33HzojMhz0HPmkdVEZ) | [Rex Omar](https://open.spotify.com/artist/4IPHkdjugU9e3ACphVpX3s), [Appietus](https://open.spotify.com/artist/3aupsfQC9Iy7j3uSEnTqoN) | [Appietus \(Two Decades of Hiplife Hits\)](https://open.spotify.com/album/3VFeXjXGobVYiKixb31Fa8) | 6:16 |
-| 42 | [Simple](https://open.spotify.com/track/1ZneNgmfcgGBGshd7VgqBf) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL) | [Simple](https://open.spotify.com/album/4XS1iaLdd3g4IxKYoZs2jh) | 4:13 |
-| 43 | [16 Years](https://open.spotify.com/track/5VbYXY9TupDh4oX33zBMwR) | [Mzbel](https://open.spotify.com/artist/5YUTALnG3R7Hocweh7eovn) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:07 |
-| 44 | [Alkayida \(Boy Abre\)](https://open.spotify.com/track/7xAHWYJhJQLM83eDaerhS2) | [Guru](https://open.spotify.com/artist/1c9Ya9GKcFOLh4gixxivdk) | [Alkayida \(Boy Abre\)](https://open.spotify.com/album/3ejLKMcv8zl0FKgv1QBzGn) | 3:38 |
-| 45 | [Gonja Barracks](https://open.spotify.com/track/28L43Uu8pfBiraGT6VXPcW) | [Buk Bak](https://open.spotify.com/artist/6e6W1oSxPGjoF2iAp2AZtF) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:43 |
-| 46 | [Meyere ne me mpena](https://open.spotify.com/track/23ihDMqcmFHFviUdndXeld) | [OKOMFOUR KWADEE](https://open.spotify.com/artist/7cL1cbqdjLnI6R3uhUv6uu) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:45 |
-| 47 | [Aso](https://open.spotify.com/track/0g1VSk3zf99q1ku5LLUaws) | [Reggie Zippy](https://open.spotify.com/artist/42pJWNBJ7CtAGFjmuPksEp), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Ghana Old Skuul Mix](https://open.spotify.com/album/1XFPqApmPThTt8LEddI55m) | 5:49 |
-| 48 | [Anadwo Yede](https://open.spotify.com/track/7BcXZP856gok2P9nVp0hD6) | [KK Fosu](https://open.spotify.com/artist/3LJawO6XULI4SZT5dVHEYO) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:38 |
-| 49 | [Adwoa Yankey, Pt\. 1](https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87) | [C\. K\. Mann](https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi) | [Best of C\. K\. Mann](https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa) | 8:47 |
-| 50 | [Soroku Special](https://open.spotify.com/track/1HIzAGOVvUIf1U7L2NUolW) | [Kaakyire Kwame Appiah](https://open.spotify.com/artist/6Pmxco13PCCjhPCwxKeUic) | [Soroku](https://open.spotify.com/album/56OAJsISgvpTsUv3PrkVJ3) | 7:36 |
+| 38 | [Soroku Special](https://open.spotify.com/track/1HIzAGOVvUIf1U7L2NUolW) | [Kaakyire Kwame Appiah](https://open.spotify.com/artist/6Pmxco13PCCjhPCwxKeUic) | [Soroku](https://open.spotify.com/album/56OAJsISgvpTsUv3PrkVJ3) | 7:36 |
+| 39 | [Sorkode](https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E) | [Sorkode](https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g) | 3:40 |
+| 40 | [Esi](https://open.spotify.com/track/7gfdnU3uY17MoCcCjESPq7) | [Kontihene](https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Esi](https://open.spotify.com/album/6Oqh2P8A4E7yMKTcmtOEcK) | 6:14 |
+| 41 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |
+| 42 | [Dadi Dada](https://open.spotify.com/track/5vzG33HzojMhz0HPmkdVEZ) | [Rex Omar](https://open.spotify.com/artist/4IPHkdjugU9e3ACphVpX3s), [Appietus](https://open.spotify.com/artist/3aupsfQC9Iy7j3uSEnTqoN) | [Appietus \(Two Decades of Hiplife Hits\)](https://open.spotify.com/album/3VFeXjXGobVYiKixb31Fa8) | 6:16 |
+| 43 | [Simple](https://open.spotify.com/track/1ZneNgmfcgGBGshd7VgqBf) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL) | [Simple](https://open.spotify.com/album/4XS1iaLdd3g4IxKYoZs2jh) | 4:13 |
+| 44 | [16 Years](https://open.spotify.com/track/5VbYXY9TupDh4oX33zBMwR) | [Mzbel](https://open.spotify.com/artist/5YUTALnG3R7Hocweh7eovn) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:07 |
+| 45 | [Alkayida \(Boy Abre\)](https://open.spotify.com/track/7xAHWYJhJQLM83eDaerhS2) | [Guru](https://open.spotify.com/artist/1c9Ya9GKcFOLh4gixxivdk) | [Alkayida \(Boy Abre\)](https://open.spotify.com/album/3ejLKMcv8zl0FKgv1QBzGn) | 3:38 |
+| 46 | [Gonja Barracks](https://open.spotify.com/track/28L43Uu8pfBiraGT6VXPcW) | [Buk Bak](https://open.spotify.com/artist/6e6W1oSxPGjoF2iAp2AZtF) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:43 |
+| 47 | [Meyere ne me mpena](https://open.spotify.com/track/23ihDMqcmFHFviUdndXeld) | [OKOMFOUR KWADEE](https://open.spotify.com/artist/7cL1cbqdjLnI6R3uhUv6uu) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:45 |
+| 48 | [Aso](https://open.spotify.com/track/0g1VSk3zf99q1ku5LLUaws) | [Reggie Zippy](https://open.spotify.com/artist/42pJWNBJ7CtAGFjmuPksEp), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Ghana Old Skuul Mix](https://open.spotify.com/album/1XFPqApmPThTt8LEddI55m) | 5:49 |
+| 49 | [Anadwo Yede](https://open.spotify.com/track/7BcXZP856gok2P9nVp0hD6) | [KK Fosu](https://open.spotify.com/artist/3LJawO6XULI4SZT5dVHEYO) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:38 |
+| 50 | [Adwoa Yankey, Pt\. 1](https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87) | [C\. K\. Mann](https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi) | [Best of C\. K\. Mann](https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa) | 8:47 |
 
 Snapshot ID: `AAAAAEH8tawp+C56ZxYCcYjcLZ2VRE7N`

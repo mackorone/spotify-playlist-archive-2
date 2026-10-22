@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1603125,
+  "num_followers": 1603121,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Q: Are We Not Men? A: We Are Devo!",
-        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 297733,
-      "name": "Gut Feeling / (Slap Your Mammy)",
-      "url": "https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 167400,
       "name": "All This and More",
       "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 297733,
+      "name": "Gut Feeling / (Slap Your Mammy)",
+      "url": "https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Double Nickels on the Dime",
-        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
-      },
-      "artists": [
-        {
-          "name": "Minutemen",
-          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
-        }
-      ],
-      "duration_ms": 89666,
-      "name": "Viet Nam",
-      "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 130826,
       "name": "What Love Is",
       "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Double Nickels on the Dime",
+        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
+      },
+      "artists": [
+        {
+          "name": "Minutemen",
+          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
+        }
+      ],
+      "duration_ms": 89666,
+      "name": "Viet Nam",
+      "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Big Lizard In My Back Yard",
-        "url": "https://open.spotify.com/album/4idwu1NCDTQ6V6CumtfW93"
-      },
-      "artists": [
-        {
-          "name": "The Dead Milkmen",
-          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
-        }
-      ],
-      "duration_ms": 109133,
-      "name": "Dean's Dream",
-      "url": "https://open.spotify.com/track/65ZK2zk1YFTnaD7D4deD37"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Raw Power (Iggy Mix - 2023 Remaster)",
         "url": "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 256760,
       "name": "Raw Power [2023 Remaster] - Iggy Mix",
       "url": "https://open.spotify.com/track/3BnVqaDfgKyI4CFCfozors"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Big Lizard In My Back Yard",
+        "url": "https://open.spotify.com/album/4idwu1NCDTQ6V6CumtfW93"
+      },
+      "artists": [
+        {
+          "name": "The Dead Milkmen",
+          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
+        }
+      ],
+      "duration_ms": 109133,
+      "name": "Dean's Dream",
+      "url": "https://open.spotify.com/track/65ZK2zk1YFTnaD7D4deD37"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Add It Up - 2002 Remastered Version",
-      "url": "https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Give Me Convenience or Give Me Death",
         "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 207040,
       "name": "California Uber Alles",
       "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Add It Up - 2002 Remastered Version",
+      "url": "https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Love Bites (Special Edition)",
-        "url": "https://open.spotify.com/album/7p6Nh183RUdsEM5wltdv9Q"
-      },
-      "artists": [
-        {
-          "name": "Buzzcocks",
-          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
-      "url": "https://open.spotify.com/track/0bHm2wFL0m7qZIlhO7PQu5"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "...And Out Come The Wolves",
         "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Operation Ivy",
-        "url": "https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e"
+        "name": "Love Bites (Special Edition)",
+        "url": "https://open.spotify.com/album/7p6Nh183RUdsEM5wltdv9Q"
       },
       "artists": [
         {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+          "name": "Buzzcocks",
+          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
         }
       ],
-      "duration_ms": 134026,
-      "name": "Sound System",
-      "url": "https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22"
+      "duration_ms": 163693,
+      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+      "url": "https://open.spotify.com/track/0bHm2wFL0m7qZIlhO7PQu5"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 277533,
       "name": "Holiday in Cambodia",
       "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Operation Ivy",
+        "url": "https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Sound System",
+      "url": "https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Can I Say",
-        "url": "https://open.spotify.com/album/6fChptnZEkS7QK1u1xQGpB"
+        "name": "Pink Flag",
+        "url": "https://open.spotify.com/album/5dfFLlA2pgPWdZZxrgZAGP"
       },
       "artists": [
         {
-          "name": "Dag Nasty",
-          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
+          "name": "Wire",
+          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
         }
       ],
-      "duration_ms": 166560,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/7EuYt3nnLOLKprkHdsOOX2"
+      "duration_ms": 139693,
+      "name": "Ex Lion Tamer - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/3XBD2pEimgCRsVwMazPeCa"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Pink Flag",
-        "url": "https://open.spotify.com/album/5dfFLlA2pgPWdZZxrgZAGP"
+        "name": "Can I Say",
+        "url": "https://open.spotify.com/album/6fChptnZEkS7QK1u1xQGpB"
       },
       "artists": [
         {
-          "name": "Wire",
-          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+          "name": "Dag Nasty",
+          "url": "https://open.spotify.com/artist/2KytjqKNcs59u2JaCKNT9E"
         }
       ],
-      "duration_ms": 139693,
-      "name": "Ex Lion Tamer - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/3XBD2pEimgCRsVwMazPeCa"
+      "duration_ms": 166560,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/7EuYt3nnLOLKprkHdsOOX2"
     },
     {
       "added_at": "2024-11-29 00:00:00",

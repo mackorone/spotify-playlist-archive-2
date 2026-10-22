@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,978 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,982 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 23 | [Sejauh Dua Benua](https://open.spotify.com/track/4k91MisM6AJZHLS4lSceOY) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Sejauh Dua Benua](https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY) | 3:45 |
 | 24 | [Tiga Titik Hitam](https://open.spotify.com/track/7Fi3EyFExj8iIumylN29ne) | [Burgerkill](https://open.spotify.com/artist/77X41f0zoHXGhC3a3UvdJk) | [Berkarat](https://open.spotify.com/album/20Lby8PRGQSqfo7kJCz81W) | 5:32 |
 | 25 | [Insya Allah](https://open.spotify.com/track/1iOoTZdnqb5r6eFfzKAJfl) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Insya Allah](https://open.spotify.com/album/27Ul1EwxPb7vJ4DBUX8MOg) | 3:23 |
-| 26 | [Kosong](https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 3:28 |
-| 27 | [Kalam](https://open.spotify.com/track/0m0ZGGpcLSR074LZHmwygB) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Kalam](https://open.spotify.com/album/2LqkY37FJu6Vs0Tjeju2NR) | 1:58 |
+| 26 | [Kalam](https://open.spotify.com/track/0m0ZGGpcLSR074LZHmwygB) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Kalam](https://open.spotify.com/album/2LqkY37FJu6Vs0Tjeju2NR) | 1:58 |
+| 27 | [Kosong](https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 3:28 |
 | 28 | [Membisu](https://open.spotify.com/track/0MCcd7qtxzOXncK5eFaBeW) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/6sV7rZpvGIIQS1ccs61YXV) | 3:57 |
 | 29 | [Disappear](https://open.spotify.com/track/4PDQYHp5YzHFcfoxDMIDPY) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:15 |
 | 30 | [HAHAHA](https://open.spotify.com/track/0coPXOjcMS7mhizONlReis) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [HAHAHA](https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI) | 3:13 |

@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Kasia Krzyżaniak
 
-1,013 songs - 2 day 1 hr 27 min
+1,014 songs - 2 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [kto poda?](https://open.spotify.com/track/2LBUBOvOf1RjiPhvFpg76J) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [papablessbeatz](https://open.spotify.com/artist/162AzTq1o7CUVQP8Rn52pY) | [kto poda?](https://open.spotify.com/album/09GIXfaNkq1C8osMq0JYFD) | 3:25 | 2026-01-08 | 2026-01-28 |
 | [Kto to?](https://open.spotify.com/track/1k8tA0yItZD9JtUhFH1e2y) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Kto to?](https://open.spotify.com/album/2nB02o3OgITvvCaMvezQEF) | 2:17 | 2026-02-12 | 2026-05-08 |
 | [Ktoś](https://open.spotify.com/track/6JSzod8y7ovVlCENj7V0WV) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Ktoś](https://open.spotify.com/album/52tOlA2N5YrzOPbwyO12QE) | 2:36 | 2024-08-01 | 2025-01-24 |
+| [Ktoś mnie popsuł](https://open.spotify.com/track/4k7xNz1S72KDxRR2tyi9pc) | [Kacper Gołda](https://open.spotify.com/artist/7q3cKMxcO26KSgAhxZGZbK), [Dizzma](https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1) | [Ktoś mnie popsuł](https://open.spotify.com/album/5WTGgxefUhIaCx16k5q9Ww) | 2:48 | 2026-10-15 |  |
 | [KUKU](https://open.spotify.com/track/6zNT4rr5WyxydUAa1WfOTZ) | [Nicole](https://open.spotify.com/artist/0u0v2kVNfDCRjSlND4Od44), [Faded Dollars](https://open.spotify.com/artist/7d16c3NgSNVAKr6ADZVSX6), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [KUKU](https://open.spotify.com/album/6fNggR8FhEbRX6clkcMdtr) | 2:24 | 2025-03-06 | 2025-03-30 |
 | [Kumple <3 \- MAVOOI Remix](https://open.spotify.com/track/2IzsajD0fEx4pITXTKt5J0) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2), [MAVOOI](https://open.spotify.com/artist/5v0vw1OfT1KHdGh80XT8lS) | [Kumple <3 \(MAVOOI Remix\)](https://open.spotify.com/album/5jV78ocCcoimj6Am8rWKkU) | 2:11 | 2026-03-26 | 2026-04-13 |
 | [Kupiłam bilet](https://open.spotify.com/track/7kcTC12KbK28uBMFVro6rw) | [Zofia Alaya](https://open.spotify.com/artist/1G5x2erYy0IZLTgy7jieik) | [Kupiłam bilet](https://open.spotify.com/album/57fmp0azwfpXlUklB5Amdh) | 3:12 | 2026-04-30 | 2026-07-10 |
@@ -791,7 +792,7 @@
 | [Stranger](https://open.spotify.com/track/6qcNQVplYV2f3Ra6PniM5t) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Stranger](https://open.spotify.com/album/71GP0asXIktlgEL8t3qcyk) | 2:14 | 2025-07-10 | 2025-09-24 |
 | [Stuck](https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw) | [Basia Małecka](https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY) | [Stuck](https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb) | 2:21 | 2026-08-06 |  |
 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 | 2026-04-09 | 2026-09-04 |
-| [styropian](https://open.spotify.com/track/5Spy3OEUnZyEGZSO2F2Ys8) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [styropian](https://open.spotify.com/album/4lHXqMnEF9nr0ay377Menf) | 2:53 | 2026-09-10 |  |
+| [styropian](https://open.spotify.com/track/5Spy3OEUnZyEGZSO2F2Ys8) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [styropian](https://open.spotify.com/album/4lHXqMnEF9nr0ay377Menf) | 2:53 | 2026-09-10 | 2026-10-22 |
 | [Sunburn](https://open.spotify.com/track/3KnNRJwe3Vzv3cyjNaS4Bd) | [Charli Lucas](https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx) | [Sunburn](https://open.spotify.com/album/1dF6Na5IDeVsVnC9MSzZBI) | 3:02 | 2026-07-09 | 2026-07-31 |
 | [Swobodnie](https://open.spotify.com/track/4YYvrnhbJKYOp7GFoj29pr) | [Clayknot](https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7) | [Swobodnie](https://open.spotify.com/album/7C007RGrlWjf8dyHxCOLGl) | 2:45 | 2026-02-05 | 2026-02-13 |
 | [Synchronija](https://open.spotify.com/track/6i8vfbeUP5jDpWpdEbTSEu) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [Synchronija](https://open.spotify.com/album/4hzsv1bDcEEQzNq30P3Ufl) | 2:59 | 2026-02-27 | 2026-03-17 |

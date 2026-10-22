@@ -1,6 +1,6 @@
 {
   "description": "'t\u00e1 na rua? traz salsinha?' (eternamente)",
-  "num_followers": 137201,
+  "num_followers": 137200,
   "original_name": "Cozinhando a Ceia",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "AFIM",
+        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 206312,
+      "name": "Hexagrama 28",
+      "url": "https://open.spotify.com/track/4LMgK06OzzLvEN4ar4OYeN"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "Alma Bonita",
         "url": "https://open.spotify.com/album/5fLZ3JHapAITqNBIBed2L9"
       },
@@ -779,18 +795,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "AFIM",
-        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
+        "name": "Canto Djavan",
+        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        },
+        {
+          "name": "Slap",
+          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
         }
       ],
-      "duration_ms": 206312,
-      "name": "Hexagrama 28",
-      "url": "https://open.spotify.com/track/4LMgK06OzzLvEN4ar4OYeN"
+      "duration_ms": 200000,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -819,26 +839,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Canto Djavan",
-        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
-      },
-      "artists": [
-        {
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
-        },
-        {
-          "name": "Slap",
-          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Samurai",
-      "url": "https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Estragar a Amizade",
         "url": "https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG"
       },
@@ -855,6 +855,42 @@
       "duration_ms": 201937,
       "name": "Estragar a Amizade",
       "url": "https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Minha Cara",
+        "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 237306,
+      "name": "Entretanto",
+      "url": "https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Servi\u00e7o",
+        "url": "https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge"
+      },
+      "artists": [
+        {
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "C\u00e9u da Boca",
+      "url": "https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -883,22 +919,6 @@
       "duration_ms": 256888,
       "name": "Ainda \u00c9 Tempo pra Ser Feliz",
       "url": "https://open.spotify.com/track/08hIFSxQLvmSCwgECBLLBv"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "Minha Cara",
-        "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 237306,
-      "name": "Entretanto",
-      "url": "https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -955,26 +975,6 @@
       "duration_ms": 231989,
       "name": "Pra Sempre",
       "url": "https://open.spotify.com/track/4ElEPqphxDORaD5Ov08hSp"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "Servi\u00e7o",
-        "url": "https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge"
-      },
-      "artists": [
-        {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "C\u00e9u da Boca",
-      "url": "https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U"
     },
     {
       "added_at": "2025-12-05 19:00:22",

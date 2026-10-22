@@ -1,6 +1,6 @@
 {
   "description": "S\u00fc\u00dfes sonst gibt's Saures! \ud83c\udf83",
-  "num_followers": 62693,
+  "num_followers": 62729,
   "original_name": "Familienzeit: Halloween",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/4cRPlJQgUtC5Gdnq9IeYIL"
+      },
+      "artists": [
+        {
+          "name": "Gro\u00dfstadtEngel",
+          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
+        }
+      ],
+      "duration_ms": 213160,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/7m39SmkQUZvFwcqsbeoiyV"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
         "name": "Halloween mit Kalle Klang",
         "url": "https://open.spotify.com/album/4E55eXzf6CEKfnHfuVnMiK"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 186637,
       "name": "Es ist Halloween",
       "url": "https://open.spotify.com/track/5OaCfSHtRfur3ui0PwFO6e"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
-        "name": "Halloween",
-        "url": "https://open.spotify.com/album/4cRPlJQgUtC5Gdnq9IeYIL"
-      },
-      "artists": [
-        {
-          "name": "Gro\u00dfstadtEngel",
-          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
-        }
-      ],
-      "duration_ms": 213160,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/7m39SmkQUZvFwcqsbeoiyV"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
+        "name": "BOBmusik - Das gelbe Album",
+        "url": "https://open.spotify.com/album/7fZoTCsfgq9vRNiUgWzSks"
+      },
+      "artists": [
+        {
+          "name": "SpongeBob Schwammkopf",
+          "url": "https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w"
+        }
+      ],
+      "duration_ms": 186266,
+      "name": "Monsterqualle",
+      "url": "https://open.spotify.com/track/7M4QKGugK6ggvAF6xlB5yZ"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
         "name": "Der haarige Kobold",
         "url": "https://open.spotify.com/album/0Ie5t9xq6DH5yaYw9V3JC2"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 215813,
       "name": "Der haarige Kobold",
       "url": "https://open.spotify.com/track/2XE8wyKC44cWX0G3HmXlmh"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
-        "name": "BOBmusik - Das gelbe Album",
-        "url": "https://open.spotify.com/album/7fZoTCsfgq9vRNiUgWzSks"
-      },
-      "artists": [
-        {
-          "name": "SpongeBob Schwammkopf",
-          "url": "https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w"
-        }
-      ],
-      "duration_ms": 186266,
-      "name": "Monsterqualle",
-      "url": "https://open.spotify.com/track/7M4QKGugK6ggvAF6xlB5yZ"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Schau meine Hexe: Die sch\u00f6nsten Hexenlieder",
-        "url": "https://open.spotify.com/album/0JEGG0YOqBir077LMClwRp"
-      },
-      "artists": [
-        {
-          "name": "Kinderchor Canzonetta Berlin",
-          "url": "https://open.spotify.com/artist/2hPcTWItqk71rEzyaHQn7R"
-        },
-        {
-          "name": "Cattu der Traumf\u00e4nger",
-          "url": "https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx"
-        }
-      ],
-      "duration_ms": 183525,
-      "name": "Hexentanz",
-      "url": "https://open.spotify.com/track/1neJ0rILtJuhFx6qFQM14S"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
         "name": "Das gro\u00dfe Felix Liederalbum 2",
         "url": "https://open.spotify.com/album/6UCseiCljsu6wn0tQuT5sq"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 289986,
       "name": "Dracula - Remastered 2004",
       "url": "https://open.spotify.com/track/2qNDy6bmZyVnWJS8UeqbtA"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
+        "name": "Schau meine Hexe: Die sch\u00f6nsten Hexenlieder",
+        "url": "https://open.spotify.com/album/0JEGG0YOqBir077LMClwRp"
+      },
+      "artists": [
+        {
+          "name": "Kinderchor Canzonetta Berlin",
+          "url": "https://open.spotify.com/artist/2hPcTWItqk71rEzyaHQn7R"
+        },
+        {
+          "name": "Cattu der Traumf\u00e4nger",
+          "url": "https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx"
+        }
+      ],
+      "duration_ms": 183525,
+      "name": "Hexentanz",
+      "url": "https://open.spotify.com/track/1neJ0rILtJuhFx6qFQM14S"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
-        "name": "Und die Traummonster (Das Liederalbum zum Kinofilm)",
-        "url": "https://open.spotify.com/album/5rOYhAMUVFcoQSSRvhzEGe"
-      },
-      "artists": [
-        {
-          "name": "Lauras Stern",
-          "url": "https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "Monster sind furchtbar",
-      "url": "https://open.spotify.com/track/0hjaUOYr74luB7uhEVswQ9"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
         "name": "Nena Und Die Bambus B\u00e4ren Bande",
         "url": "https://open.spotify.com/album/5zMipqCNwLqTYXMSo3qJpa"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 162826,
       "name": "Wenn die Flederm\u00e4use tanzen",
       "url": "https://open.spotify.com/track/4MeA9SGzhfPXmwYOJGolZo"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
+        "name": "Und die Traummonster (Das Liederalbum zum Kinofilm)",
+        "url": "https://open.spotify.com/album/5rOYhAMUVFcoQSSRvhzEGe"
+      },
+      "artists": [
+        {
+          "name": "Lauras Stern",
+          "url": "https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Monster sind furchtbar",
+      "url": "https://open.spotify.com/track/0hjaUOYr74luB7uhEVswQ9"
     },
     {
       "added_at": "2026-10-05 07:57:32",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-10-05 07:57:32",
       "album": {
+        "name": "Au Backe!",
+        "url": "https://open.spotify.com/album/15TCbswxpNzD23AJJIG78I"
+      },
+      "artists": [
+        {
+          "name": "Rainer Wenzel",
+          "url": "https://open.spotify.com/artist/0Pqj7d09m594nU0ckKJ9vh"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Drei kleine Hexen",
+      "url": "https://open.spotify.com/track/7prmyyJSIZbY7ZwlczWG0T"
+    },
+    {
+      "added_at": "2026-10-05 07:57:32",
+      "album": {
         "name": "Wir tanzen mit den Drachen im Wind (Lieder, Geschichten und Gedichte zur Herbstzeit)",
         "url": "https://open.spotify.com/album/1q5GB9X82GVAQTrTYVghkU"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 133593,
       "name": "Halloweenparty im Kinderhaus",
       "url": "https://open.spotify.com/track/1YfNhJPhbmjhYsAfWU580m"
-    },
-    {
-      "added_at": "2026-10-05 07:57:32",
-      "album": {
-        "name": "Au Backe!",
-        "url": "https://open.spotify.com/album/15TCbswxpNzD23AJJIG78I"
-      },
-      "artists": [
-        {
-          "name": "Rainer Wenzel",
-          "url": "https://open.spotify.com/artist/0Pqj7d09m594nU0ckKJ9vh"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Drei kleine Hexen",
-      "url": "https://open.spotify.com/track/7prmyyJSIZbY7ZwlczWG0T"
     },
     {
       "added_at": "2026-10-05 07:57:32",

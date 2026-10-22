@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,248 likes - 41 songs - 2 hr 13 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,269 likes - 45 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,9 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 39 | [BIMMA](https://open.spotify.com/track/0N3ay0NW33bsbfOds4HD4j) | [AME](https://open.spotify.com/artist/6QoVi8LaBxXTAXZVVfJpLV) | [BIMMA](https://open.spotify.com/album/6lYIWN98PypZoOdoGyvg2v) | 2:57 |
 | 40 | [Devil's Blues](https://open.spotify.com/track/33X5j5PnNGzEx68ASBqaQv) | [Gravens](https://open.spotify.com/artist/3ynl82AyQaG2Rw8Kws3f7Y) | [Rising](https://open.spotify.com/album/5hawHjIi7zbq7iEbaArhUL) | 3:55 |
 | 41 | [The Last Thing That I Do](https://open.spotify.com/track/41O2sZgfLwvAkef5ElAdGF) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Chasing Ghosts](https://open.spotify.com/album/7oHcVV83L7tZdOvPWghwpq) | 4:33 |
+| 42 | [Murder Parade](https://open.spotify.com/track/0SDqFtJAV9lWKZqPXHyft0) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Murder Parade](https://open.spotify.com/album/7cm9XsZG13NeEUGDP0OOOw) | 2:19 |
+| 43 | [Beautiful Child](https://open.spotify.com/track/0QncGNao6DPCIaZsBErbeL) | [Sejung Go](https://open.spotify.com/artist/6okUWvbqHW03Yr6W1nEx9Q) | [Beautiful Child](https://open.spotify.com/album/7pz0Zlobeu8fVttJpxEtxg) | 3:06 |
+| 44 | [I wish](https://open.spotify.com/track/3L3FHxCCEX4CuDDR1OsQNV) | [ËRRÄ](https://open.spotify.com/artist/0JEioRiCYOk5ris1hGqIiE) | [I wish](https://open.spotify.com/album/2Uv1oGETqSBICJefqrwZj7) | 2:23 |
+| 45 | [Infinity](https://open.spotify.com/track/6pPe9uz0EzSQ2bLeNyXimB) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Infinity](https://open.spotify.com/album/79hfXejPfxPxshntSaHAvA) | 3:10 |
 
-Snapshot ID: `AAAEiNAN9DZJaK9nlHJaCJxuxf68u8ch`
+Snapshot ID: `AAAEjGhEmiN+DQXAnHjTRBQa3tJ1ahaM`

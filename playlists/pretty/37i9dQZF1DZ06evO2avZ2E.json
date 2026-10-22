@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 3338,
+  "num_followers": 3339,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAC2pRwJjGJWjx1Uvcaqw0ws",
+  "snapshot_id": "atVdgAAAAABFRZg3Aj+MDoD2RwNemkW6",
   "tracks": [
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memento",
-        "url": "https://open.spotify.com/album/1cPTdgytERhvbR8eQYyjUT"
-      },
-      "artists": [
-        {
-          "name": "Jona Camacho",
-          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 130021,
-      "name": "Te Choca Te Checa",
-      "url": "https://open.spotify.com/track/2GaivpfWlIkneFGII8xwXA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volver a Comenzar",
         "url": "https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 187670,
       "name": "Volver a Comenzar",
       "url": "https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memento",
+        "url": "https://open.spotify.com/album/1cPTdgytERhvbR8eQYyjUT"
+      },
+      "artists": [
+        {
+          "name": "Jona Camacho",
+          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 130021,
+      "name": "Te Choca Te Checa",
+      "url": "https://open.spotify.com/track/2GaivpfWlIkneFGII8xwXA"
     },
     {
       "added_at": null,

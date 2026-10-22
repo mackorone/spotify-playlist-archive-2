@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ynuHdDZGi3xe4AXKCbZgJ.md) - [plain]
 
 > Previously known as Runaway
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 31 songs - 1 hr 53 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 31 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

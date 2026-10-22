@@ -1,13 +1,45 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6931,
+  "num_followers": 6929,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AADu8hF7dsfMNU7sdKYwfS28JaUCvwbz",
+  "snapshot_id": "AADu9MmpKFzJ6vAs9fU/anGKuF/Qx2LF",
   "tracks": [
+    {
+      "added_at": "2026-10-21 17:10:31",
+      "album": {
+        "name": "Random Violence",
+        "url": "https://open.spotify.com/album/3z8j4xdVVyUH12VXFWRCVK"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 315333,
+      "name": "Random Violence",
+      "url": "https://open.spotify.com/track/0T3vTM8KUAwGMukdAhNVj2"
+    },
+    {
+      "added_at": "2026-10-21 17:10:42",
+      "album": {
+        "name": "Another Way To Cry",
+        "url": "https://open.spotify.com/album/70hA53FbV5cN21BYFesOSu"
+      },
+      "artists": [
+        {
+          "name": "Texas",
+          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
+        }
+      ],
+      "duration_ms": 232327,
+      "name": "Another Way To Cry",
+      "url": "https://open.spotify.com/track/6kbuePrdGoBU8FTjguZESN"
+    },
     {
       "added_at": "2026-10-16 04:29:38",
       "album": {

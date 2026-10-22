@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume! October ambassador: <a href=\"spotify:artist:6OOF9nSZbNw4etK0InqtEZ\">CVNTS</a>",
-  "num_followers": 14519,
+  "num_followers": 14564,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
@@ -483,18 +483,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "wat doe je nou",
-        "url": "https://open.spotify.com/album/3p4PTUDXpRhoVSsy0Rsl1n"
+        "name": "Feel At Home",
+        "url": "https://open.spotify.com/album/6r4EIWWuvehofN8G6BCpFG"
       },
       "artists": [
         {
-          "name": "Babet",
-          "url": "https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh"
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
         }
       ],
-      "duration_ms": 168000,
-      "name": "wat doe je nou",
-      "url": "https://open.spotify.com/track/4APCqMbu2MQ25XSudrmBpN"
+      "duration_ms": 145822,
+      "name": "Feel At Home",
+      "url": "https://open.spotify.com/track/4RZHzZtfExcjFAqgFtwwrZ"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -527,34 +527,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Feel At Home",
-        "url": "https://open.spotify.com/album/6r4EIWWuvehofN8G6BCpFG"
+        "name": "wat doe je nou",
+        "url": "https://open.spotify.com/album/3p4PTUDXpRhoVSsy0Rsl1n"
       },
       "artists": [
         {
-          "name": "ISHA",
-          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
+          "name": "Babet",
+          "url": "https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh"
         }
       ],
-      "duration_ms": 145822,
-      "name": "Feel At Home",
-      "url": "https://open.spotify.com/track/4RZHzZtfExcjFAqgFtwwrZ"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
-        "name": "Meisjes Spelen Niet Buiten (Soundtrack Sugar)",
-        "url": "https://open.spotify.com/album/3jNd80vZPVvHtGoRDgnkMv"
-      },
-      "artists": [
-        {
-          "name": "Delany",
-          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
-        }
-      ],
-      "duration_ms": 199442,
-      "name": "Meisjes Spelen Niet Buiten - Soundtrack Sugar",
-      "url": "https://open.spotify.com/track/1w7uvbsXomUWWYVXI7Ie0H"
+      "duration_ms": 168000,
+      "name": "wat doe je nou",
+      "url": "https://open.spotify.com/track/4APCqMbu2MQ25XSudrmBpN"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -575,22 +559,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Wanneer Is Het Genoeg?",
-        "url": "https://open.spotify.com/album/1LXLl2ab3cKsGVbZTq0Jbc"
-      },
-      "artists": [
-        {
-          "name": "OLIVIA",
-          "url": "https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM"
-        }
-      ],
-      "duration_ms": 165436,
-      "name": "Wanneer Is Het Genoeg?",
-      "url": "https://open.spotify.com/track/1oRNJWXfWfnHs1JdL9gdmh"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Trial & Error",
         "url": "https://open.spotify.com/album/57sG1gu8jeTmnWYR2Ss9sb"
       },
@@ -603,6 +571,38 @@
       "duration_ms": 228800,
       "name": "Mama",
       "url": "https://open.spotify.com/track/43lD6s1AJLws5e2EEk8fjY"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Meisjes Spelen Niet Buiten (Soundtrack Sugar)",
+        "url": "https://open.spotify.com/album/3jNd80vZPVvHtGoRDgnkMv"
+      },
+      "artists": [
+        {
+          "name": "Delany",
+          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
+        }
+      ],
+      "duration_ms": 199442,
+      "name": "Meisjes Spelen Niet Buiten - Soundtrack Sugar",
+      "url": "https://open.spotify.com/track/1w7uvbsXomUWWYVXI7Ie0H"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Wanneer Is Het Genoeg?",
+        "url": "https://open.spotify.com/album/1LXLl2ab3cKsGVbZTq0Jbc"
+      },
+      "artists": [
+        {
+          "name": "OLIVIA",
+          "url": "https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM"
+        }
+      ],
+      "duration_ms": 165436,
+      "name": "Wanneer Is Het Genoeg?",
+      "url": "https://open.spotify.com/track/1oRNJWXfWfnHs1JdL9gdmh"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -635,6 +635,22 @@
       "duration_ms": 192982,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0W4VEKGacTuzvJUe8i8da6"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/595mXVxQHpoHgNHDX7WWf3"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 194438,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4TQtB0Tdb7YeCEuiusNmp0"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -683,18 +699,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/595mXVxQHpoHgNHDX7WWf3"
+        "name": "Naakt",
+        "url": "https://open.spotify.com/album/19jvbtwOnz4DG4TPqBKavL"
       },
       "artists": [
         {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
         }
       ],
-      "duration_ms": 194438,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/4TQtB0Tdb7YeCEuiusNmp0"
+      "duration_ms": 241290,
+      "name": "Naakt",
+      "url": "https://open.spotify.com/track/58mYugAG7mXlUATqqjvX10"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -719,22 +735,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Naakt",
-        "url": "https://open.spotify.com/album/19jvbtwOnz4DG4TPqBKavL"
-      },
-      "artists": [
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/0mYBpec0ykRwV25xiGnU2W"
-        }
-      ],
-      "duration_ms": 241290,
-      "name": "Naakt",
-      "url": "https://open.spotify.com/track/58mYugAG7mXlUATqqjvX10"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Glow-Up Era",
         "url": "https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "We Doen Alsof",
-        "url": "https://open.spotify.com/album/59pkwsQ2UfKwtR5o9TPeNW"
-      },
-      "artists": [
-        {
-          "name": "Wende",
-          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
-        }
-      ],
-      "duration_ms": 210040,
-      "name": "We Doen Alsof",
-      "url": "https://open.spotify.com/track/54JVTO9jnEayXd0DZgaut0"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Gianni",
         "url": "https://open.spotify.com/album/0HRvk6rOkS2nUIGzJfH4BA"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 182426,
       "name": "Gianni",
       "url": "https://open.spotify.com/track/3bZCTz8RuBTvcYXoVFxWga"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "We Doen Alsof",
+        "url": "https://open.spotify.com/album/59pkwsQ2UfKwtR5o9TPeNW"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        }
+      ],
+      "duration_ms": 210040,
+      "name": "We Doen Alsof",
+      "url": "https://open.spotify.com/track/54JVTO9jnEayXd0DZgaut0"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Fuck You <3",
-        "url": "https://open.spotify.com/album/6tP32hnUOIge0kFArr66aE"
-      },
-      "artists": [
-        {
-          "name": "Renee Rose",
-          "url": "https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI"
-        }
-      ],
-      "duration_ms": 158053,
-      "name": "Fuck You <3",
-      "url": "https://open.spotify.com/track/2OtKijVqgCHJICLDZYbVyN"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Jij Was Bij Mij",
         "url": "https://open.spotify.com/album/3vLArpUpRq0SCBjbGhYw5x"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 196189,
       "name": "Jij Was Bij Mij",
       "url": "https://open.spotify.com/track/0VJfMgLKN0k9nspBSJMf3L"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Fuck You <3",
+        "url": "https://open.spotify.com/album/6tP32hnUOIge0kFArr66aE"
+      },
+      "artists": [
+        {
+          "name": "Renee Rose",
+          "url": "https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI"
+        }
+      ],
+      "duration_ms": 158053,
+      "name": "Fuck You <3",
+      "url": "https://open.spotify.com/track/2OtKijVqgCHJICLDZYbVyN"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/44QpVZIGqCT4OCU5PougQT"
-      },
-      "artists": [
-        {
-          "name": "Alice Aera",
-          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
-        }
-      ],
-      "duration_ms": 190129,
-      "name": "Exit Wounds",
-      "url": "https://open.spotify.com/track/2wISrbI8SMX0UsMJiLcXyO"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Back to Me",
         "url": "https://open.spotify.com/album/3sN8Sup6iW9tzW1ryrexEN"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 259353,
       "name": "Back to Me",
       "url": "https://open.spotify.com/track/41qun4g44RzCovHZUp05zS"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/44QpVZIGqCT4OCU5PougQT"
+      },
+      "artists": [
+        {
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "Exit Wounds",
+      "url": "https://open.spotify.com/track/2wISrbI8SMX0UsMJiLcXyO"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Branches to the Sky",
-        "url": "https://open.spotify.com/album/7HoGHUIwguJMBk1fAiOg0V"
+        "name": "Conclusions",
+        "url": "https://open.spotify.com/album/5EMUzq6vVtgyJvCjSL9SBT"
       },
       "artists": [
         {
-          "name": "Jessy Yasmeen",
-          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+          "name": "Helena Casella",
+          "url": "https://open.spotify.com/artist/0cRh1NWKBsNPYyUwc7DiYN"
         }
       ],
-      "duration_ms": 183605,
-      "name": "Branches to the Sky",
-      "url": "https://open.spotify.com/track/60p4RZZYqC3T7KptYYvRL8"
+      "duration_ms": 251570,
+      "name": "Conclusions",
+      "url": "https://open.spotify.com/track/050ytDQTWbRH1DaEKMsYaf"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Conclusions",
-        "url": "https://open.spotify.com/album/5EMUzq6vVtgyJvCjSL9SBT"
+        "name": "Branches to the Sky",
+        "url": "https://open.spotify.com/album/7HoGHUIwguJMBk1fAiOg0V"
       },
       "artists": [
         {
-          "name": "Helena Casella",
-          "url": "https://open.spotify.com/artist/0cRh1NWKBsNPYyUwc7DiYN"
+          "name": "Jessy Yasmeen",
+          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
         }
       ],
-      "duration_ms": 251570,
-      "name": "Conclusions",
-      "url": "https://open.spotify.com/track/050ytDQTWbRH1DaEKMsYaf"
+      "duration_ms": 183605,
+      "name": "Branches to the Sky",
+      "url": "https://open.spotify.com/track/60p4RZZYqC3T7KptYYvRL8"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Page Of Cups (Reversed)",
-        "url": "https://open.spotify.com/album/6L32wCheBG0rQDjQa9xSdr"
-      },
-      "artists": [
-        {
-          "name": "Ciska Ciska",
-          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
-        }
-      ],
-      "duration_ms": 150213,
-      "name": "Indoctrinate Me",
-      "url": "https://open.spotify.com/track/12HecHt9HGPDhfy0KUaKfu"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Desire Is Movement",
         "url": "https://open.spotify.com/album/7LewXoNUuPAbxL4UDBPX0v"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 328680,
       "name": "Desire Is Movement",
       "url": "https://open.spotify.com/track/39qyXA2HjZ7pvtPJjgpMTd"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Page Of Cups (Reversed)",
+        "url": "https://open.spotify.com/album/6L32wCheBG0rQDjQa9xSdr"
+      },
+      "artists": [
+        {
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+        }
+      ],
+      "duration_ms": 150213,
+      "name": "Indoctrinate Me",
+      "url": "https://open.spotify.com/track/12HecHt9HGPDhfy0KUaKfu"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Bright Soul",
-        "url": "https://open.spotify.com/album/1B3Z8rRTNOlSlbc7HDpeCe"
+        "name": "STAR VIVA",
+        "url": "https://open.spotify.com/album/2XMuXw1xBx0o3ERV3op3E0"
       },
       "artists": [
         {
-          "name": "Lotte Walda",
-          "url": "https://open.spotify.com/artist/0IkirifajdauvWWt6wZkC6"
+          "name": "Judy Blank",
+          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
         }
       ],
-      "duration_ms": 242516,
-      "name": "Bright Soul",
-      "url": "https://open.spotify.com/track/6Ouqr3uuqRMpKRF8F4eW2N"
+      "duration_ms": 169304,
+      "name": "MATAMOS TIEMPO",
+      "url": "https://open.spotify.com/track/5bw9K71y47BzBXbbc8vNd5"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "STAR VIVA",
-        "url": "https://open.spotify.com/album/2XMuXw1xBx0o3ERV3op3E0"
+        "name": "Bright Soul",
+        "url": "https://open.spotify.com/album/1B3Z8rRTNOlSlbc7HDpeCe"
       },
       "artists": [
         {
-          "name": "Judy Blank",
-          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
+          "name": "Lotte Walda",
+          "url": "https://open.spotify.com/artist/0IkirifajdauvWWt6wZkC6"
         }
       ],
-      "duration_ms": 169304,
-      "name": "MATAMOS TIEMPO",
-      "url": "https://open.spotify.com/track/5bw9K71y47BzBXbbc8vNd5"
+      "duration_ms": 242516,
+      "name": "Bright Soul",
+      "url": "https://open.spotify.com/track/6Ouqr3uuqRMpKRF8F4eW2N"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "l i f e o f t h e p a r t y",
-        "url": "https://open.spotify.com/album/6Fm0fRRMfDqNuTllgwOBIe"
-      },
-      "artists": [
-        {
-          "name": "Demi Lou",
-          "url": "https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ"
-        }
-      ],
-      "duration_ms": 127289,
-      "name": "l i f e o f t h e p a r t y",
-      "url": "https://open.spotify.com/track/0ylXkg7shq3ATRYkxwAzVH"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Days on Days on Days",
         "url": "https://open.spotify.com/album/3z4zr0RKLtTgooYVUnDfJ3"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 194760,
       "name": "Days on Days on Days",
       "url": "https://open.spotify.com/track/5tca4r6i2Ej7VE2hLp9G16"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "l i f e o f t h e p a r t y",
+        "url": "https://open.spotify.com/album/6Fm0fRRMfDqNuTllgwOBIe"
+      },
+      "artists": [
+        {
+          "name": "Demi Lou",
+          "url": "https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ"
+        }
+      ],
+      "duration_ms": 127289,
+      "name": "l i f e o f t h e p a r t y",
+      "url": "https://open.spotify.com/track/0ylXkg7shq3ATRYkxwAzVH"
     },
     {
       "added_at": "2026-10-06 22:00:25",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-10-06 22:00:25",
       "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/3ZGPb9uQBroN0o26CK2GXZ"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Ewbank",
-          "url": "https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/1a6Kg9KhFMXD3BnyOXUKSD"
-    },
-    {
-      "added_at": "2026-10-06 22:00:25",
-      "album": {
         "name": "Compass",
         "url": "https://open.spotify.com/album/5Iw4woqMi3eGtO3RBikx1e"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 390000,
       "name": "Compass",
       "url": "https://open.spotify.com/track/7JEPByXX8vpwUJ2dDSZT7m"
+    },
+    {
+      "added_at": "2026-10-06 22:00:25",
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/3ZGPb9uQBroN0o26CK2GXZ"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Ewbank",
+          "url": "https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/1a6Kg9KhFMXD3BnyOXUKSD"
     },
     {
       "added_at": "2026-10-06 22:00:25",

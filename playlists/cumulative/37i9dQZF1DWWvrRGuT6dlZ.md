@@ -4,7 +4,7 @@
 
 > The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Shahera Sam\. Artwork: Isu Kim.
 
-1,529 songs - 3 day 11 hr 52 min
+1,531 songs - 3 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [GENUINE](https://open.spotify.com/track/4jotEv6EtrxI6bkdtvZX7s) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [GENUINE](https://open.spotify.com/album/0YpFNKxT9qpeYKFMGbQqHJ) | 2:08 | 2025-07-31 | 2025-09-06 |
 | [GET THIS RIGHT](https://open.spotify.com/track/06zW1L5h75YSZ86L3GSr3p) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [GET THIS RIGHT](https://open.spotify.com/album/65OzeAHliScpDpBB2zMMTu) | 3:12 | 2023-05-11 | 2023-08-18 |
 | [get to the car!](https://open.spotify.com/track/7L1xmtnXyi2WVEqcJ4qpNP) | [swij](https://open.spotify.com/artist/0gW3VB0blRjQBgTMBpyaZ7), [Johnson](https://open.spotify.com/artist/6KnBzfjg7VRyWhXS9OHoWb) | [get to the car!](https://open.spotify.com/album/6kFJixqfuvEzB1tvUh7CnA) | 2:39 | 2024-07-11 | 2025-01-18 |
+| [ghost](https://open.spotify.com/track/1b7CMm3dhPsqDHZ9Q5AFe1) | [CLARY](https://open.spotify.com/artist/0cvCbPXZzELIrIYQl2yxLm) | [ghost](https://open.spotify.com/album/6QuiMTtFeLfAfDupS5tt9R) | 3:17 | 2026-10-21 |  |
 | [Ghost of You](https://open.spotify.com/track/35up11wO0KUoOTJL6aqLOq) | [Whitten Ooi](https://open.spotify.com/artist/7aRwq1gafZoh3BDVCgfYEd) | [Ghost of You](https://open.spotify.com/album/4TaLcDr2AsycQ73dC2CXsG) | 3:40 | 2026-09-23 |  |
 | [ghosts](https://open.spotify.com/track/1cMeqJMTgPWt8ye2GDg45i) | [Killmeslow](https://open.spotify.com/artist/0leX5B96n67GDEQDfR2boJ) | [ghosts](https://open.spotify.com/album/6PYwFpDFDhZsTYjWu9DBN7) | 2:19 | 2025-09-05 | 2025-10-17 |
 | [Glass Stained Eyes](https://open.spotify.com/track/5PTCcUbUgmRVRKQLuJS4G2) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Glass Stained Eyes](https://open.spotify.com/album/5G30IZQVh5eYJS5KrjwyHH) | 3:07 | 2022-01-20 | 2022-06-17 |
@@ -594,6 +595,7 @@
 | [ILYAS](https://open.spotify.com/track/451OgRQdiAKJdV8NzguyqT) | [kiingkess](https://open.spotify.com/artist/6hVsLLm8Ny0Vn2sY73Rukr) | [ILYAS](https://open.spotify.com/album/5YD8jfInU12VPNXHDuWaYX) | 2:32 | 2023-09-14 | 2024-01-19 |
 | [IMONTOP](https://open.spotify.com/track/60af6K3ZZCWnBg1hSxRvt2) | [Danboy Studio](https://open.spotify.com/artist/28CBPsyK4uO1VfWeo6wk86) | [IMONTOP](https://open.spotify.com/album/2cDtwNQ6x2MGOddOh2b2Vu) | 2:20 | 2025-09-19 | 2025-11-08 |
 | [In Absence](https://open.spotify.com/track/1htBVSeU62QojxuN6IWiS4) | [The Baby Cosmos](https://open.spotify.com/artist/4J5HK6rQIwVEgOZGG6JM4f) | [In Absence](https://open.spotify.com/album/3nB8MJAXIEKTP825IywWYd) | 4:48 | 2026-07-08 | 2026-09-03 |
+| [In Love](https://open.spotify.com/track/6ac2oWjdsZKKjq5Rf4a9cC) | [Harin](https://open.spotify.com/artist/1k5u6Rxiv1jHA7LqPrCrW1) | [In Love](https://open.spotify.com/album/6AGMvv1uu2dRataE6VYYKz) | 3:06 | 2026-10-21 |  |
 | [In Love With A Stranger](https://open.spotify.com/track/6AVF4P4HHQdRUQsqly1VWG) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [In Love With A Stranger](https://open.spotify.com/album/3qpLVDFsG622yX5FDBttHB) | 2:40 | 2023-05-26 | 2023-10-20 |
 | [In My Bag](https://open.spotify.com/track/39IbQcCVLmnPC5rq9vz9Gu) | [The Island Voices](https://open.spotify.com/artist/6qlXAApftEMUSOCpaFiMKR) | [In My Bag](https://open.spotify.com/album/6Gn12dQTYf7FPKKQoHSjWk) | 2:52 | 2026-01-30 | 2026-03-21 |
 | [IN MY HEAD](https://open.spotify.com/track/2Wi2iXfN2rHW24P5kBQTvg) | [Kidmeddling](https://open.spotify.com/artist/1Wtp5gxsbuzXJnFOgd3uXZ) | [IN MY HEAD](https://open.spotify.com/album/3YeavO2N80hcKmgpAUB6N0) | 2:09 | 2022-01-13 | 2022-03-11 |

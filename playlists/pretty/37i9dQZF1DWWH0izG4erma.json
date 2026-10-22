@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 681982,
+  "num_followers": 682075,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "Jackson Dean",
-        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 187957,
-      "name": "Don't Come Lookin'",
-      "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
-    },
-    {
-      "added_at": "2026-10-16 04:01:41",
-      "album": {
         "name": "Heavy Metal",
         "url": "https://open.spotify.com/album/33bWo4vFIyoC62phzfjEKy"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 154240,
       "name": "Heavy Metal",
       "url": "https://open.spotify.com/track/1U88VM6HzsPBZbXPT1aAR5"
+    },
+    {
+      "added_at": "2026-10-16 04:01:41",
+      "album": {
+        "name": "Jackson Dean",
+        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "duration_ms": 187957,
+      "name": "Don't Come Lookin'",
+      "url": "https://open.spotify.com/track/1vscizuuPwkwC1cc5N5KQV"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
+        "name": "INSIGNIFICANT OTHER",
+        "url": "https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 207230,
+      "name": "INSIGNIFICANT OTHER - feat. Sam Canty & Lance Vanley",
+      "url": "https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac"
+    },
+    {
+      "added_at": "2026-10-16 04:01:41",
+      "album": {
         "name": "Bruce County",
         "url": "https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 224693,
       "name": "Moonshines",
       "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
-    },
-    {
-      "added_at": "2026-10-16 04:01:41",
-      "album": {
-        "name": "AMERICAN MOTOR SPORTS",
-        "url": "https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz"
-      },
-      "artists": [
-        {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        }
-      ],
-      "duration_ms": 164795,
-      "name": "SPINNIN' YOU AROUND",
-      "url": "https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "INSIGNIFICANT OTHER",
-        "url": "https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y"
+        "name": "AMERICAN MOTOR SPORTS",
+        "url": "https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz"
       },
       "artists": [
         {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
         }
       ],
-      "duration_ms": 207230,
-      "name": "INSIGNIFICANT OTHER - feat. Sam Canty & Lance Vanley",
-      "url": "https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac"
+      "duration_ms": 164795,
+      "name": "SPINNIN' YOU AROUND",
+      "url": "https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "Living Proof (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
+        "name": "Off The Rails",
+        "url": "https://open.spotify.com/album/4Hem3OoaopJ70xEEAQGBYO"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         }
       ],
-      "duration_ms": 218986,
-      "name": "Living Proof (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
+      "duration_ms": 184426,
+      "name": "Off The Rails",
+      "url": "https://open.spotify.com/track/6h3eHLBhpWL5KQLRKxXz76"
     },
     {
       "added_at": "2026-10-16 04:01:41",
@@ -1507,18 +1503,22 @@
     {
       "added_at": "2026-10-16 04:01:41",
       "album": {
-        "name": "Off The Rails",
-        "url": "https://open.spotify.com/album/4Hem3OoaopJ70xEEAQGBYO"
+        "name": "Living Proof (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
       },
       "artists": [
         {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 184426,
-      "name": "Off The Rails",
-      "url": "https://open.spotify.com/track/6h3eHLBhpWL5KQLRKxXz76"
+      "duration_ms": 218986,
+      "name": "Living Proof (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
     },
     {
       "added_at": "2026-10-16 04:01:41",

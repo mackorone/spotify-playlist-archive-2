@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 12019,
+  "num_followers": 12018,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAB0d+rDrQl43mayNA6ksTnc",
+  "snapshot_id": "atVdgAAAAADwrEc/ee+GsxBbFbfKhJsE",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Cry Like A Baby",
+      "url": "https://open.spotify.com/track/7sQmRscgaqL7Ue2BguSrLR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tea & Sympathy (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6zt2LZDe7Yv6a0zpH7xjBN"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 240893,
       "name": "Watch Over Me (feat. Kasey Chambers & Clare Bowditch)",
       "url": "https://open.spotify.com/track/45LCTq3XmuEVhCb09vDUDc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Cry Like A Baby",
-      "url": "https://open.spotify.com/track/7sQmRscgaqL7Ue2BguSrLR"
     },
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "A Little Bit Lonesome",
+      "url": "https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rattlin' Bones",
         "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
       },
@@ -375,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "A Little Bit Lonesome",
-      "url": "https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Captain",
         "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
       },
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
+        "name": "Wayward Angel",
+        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
       },
       "artists": [
         {
@@ -416,9 +416,25 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 212653,
-      "name": "Backbone (The Desert Child)",
-      "url": "https://open.spotify.com/track/2rLL8muKBG5dbBK4YYzMpo"
+      "duration_ms": 236666,
+      "name": "Like A River",
+      "url": "https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barricades & Brickwalls",
+        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 171893,
+      "name": "On A Bad Day",
+      "url": "https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj"
     },
     {
       "added_at": null,
@@ -443,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barricades & Brickwalls",
-        "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
       },
       "artists": [
         {
@@ -452,65 +468,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 171893,
-      "name": "On A Bad Day",
-      "url": "https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wayward Angel",
-        "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Like A River",
-      "url": "https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wreck & Ruin",
-        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        }
-      ],
-      "duration_ms": 155693,
-      "name": "The Quiet Life",
-      "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rattlin' Bones",
-        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Sweetest Waste Of Time",
-      "url": "https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr"
+      "duration_ms": 212653,
+      "name": "Backbone (The Desert Child)",
+      "url": "https://open.spotify.com/track/2rLL8muKBG5dbBK4YYzMpo"
     },
     {
       "added_at": null,
@@ -547,6 +507,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Sweetest Waste Of Time",
+      "url": "https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wreck & Ruin",
+        "url": "https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "duration_ms": 155693,
+      "name": "The Quiet Life",
+      "url": "https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Barricades & Brickwalls",
         "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
       },
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "The Divorce Song",
-      "url": "https://open.spotify.com/track/1jpjbMqhn32gbHURghvODc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 187692,
       "name": "Hey (with Paul Kelly)",
       "url": "https://open.spotify.com/track/3XnN1OhwOLTYjDB1UR3Sx8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "The Divorce Song",
+      "url": "https://open.spotify.com/track/1jpjbMqhn32gbHURghvODc"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/4cnOOtSM3k3qFBbE4zNOgO"
-      },
-      "artists": [
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 175832,
-      "name": "Whispering Voice",
-      "url": "https://open.spotify.com/track/1CNckFP5VsvL6jrMX7ESsY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM"
       },
@@ -699,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/4cnOOtSM3k3qFBbE4zNOgO"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 175832,
+      "name": "Whispering Voice",
+      "url": "https://open.spotify.com/track/1CNckFP5VsvL6jrMX7ESsY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Little Bird",
         "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 220813,
-      "name": "A Love Like Springsteen",
-      "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wayward Angel",
         "url": "https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 209293,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/7KlvXLOb3z0UFX0uBHG0x6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 220813,
+      "name": "A Love Like Springsteen",
+      "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
     },
     {
       "added_at": null,

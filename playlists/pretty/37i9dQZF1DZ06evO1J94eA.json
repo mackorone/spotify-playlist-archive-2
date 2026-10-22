@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 43568,
+  "num_followers": 43576,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAB7XrbYAC6VNWic/E6Kc1mT",
+  "snapshot_id": "atVdgAAAAAA9/t0fM/neolhe4u7/eRQw",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Possibilities",
-        "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 327613,
-      "name": "Stitched Up (feat. John Mayer)",
-      "url": "https://open.spotify.com/track/4Czqh0g9rGdkhXMyf2Yhbn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 480000,
       "name": "Yams",
       "url": "https://open.spotify.com/track/57B6gMEI1E4E3kKLKvfX3U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Possibilities",
+        "url": "https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 327613,
+      "name": "Stitched Up (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/4Czqh0g9rGdkhXMyf2Yhbn"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 408466,
+      "name": "The Maze - Remastered 2007",
+      "url": "https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legendary Recordings: Herbie Hancock",
         "url": "https://open.spotify.com/album/38rwVFg1NMwmkeGmo8b9oU"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 106306,
       "name": "Bring Down the Birds - Outtake",
       "url": "https://open.spotify.com/track/3i0meyRRCpIzyMmLdYssGw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 408466,
-      "name": "The Maze - Remastered 2007",
-      "url": "https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e"
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 424560,
-      "name": "Stars in Your Eyes",
-      "url": "https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3"
+      "duration_ms": 538743,
+      "name": "I Thought It Was You",
+      "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e"
       },
       "artists": [
         {
@@ -700,9 +700,25 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 538743,
-      "name": "I Thought It Was You",
-      "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
+      "duration_ms": 424560,
+      "name": "Stars in Your Eyes",
+      "url": "https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 677893,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2YQBDxMbQbOsdXixdL4ZyE"
     },
     {
       "added_at": null,
@@ -723,22 +739,6 @@
       "duration_ms": 414466,
       "name": "Sister Moon (feat. Sting)",
       "url": "https://open.spotify.com/track/0GiqmR1TtxOTZgf3AIYEp7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 677893,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2YQBDxMbQbOsdXixdL4ZyE"
     },
     {
       "added_at": null,

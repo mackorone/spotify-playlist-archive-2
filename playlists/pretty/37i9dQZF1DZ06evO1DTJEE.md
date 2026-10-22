@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 
 > This is Riley Green\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,803 likes - 48 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,890 likes - 48 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Worst Way](https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:40 |
 | 2 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/2PyJAiQjp1OPkow2FJZKHR) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 3:44 |
 | 3 | [Don't Mind If I Do](https://open.spotify.com/track/1FHIZknONrV2c20w0x5AVG) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:38 |
-| 4 | [Go Again](https://open.spotify.com/track/6TLJax0EYimCJxCF1Zg69e) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Go Again](https://open.spotify.com/album/1DqoGBZHjDONQkSs5p1q2g) | 4:00 |
-| 5 | [When She Comes Home Tonight](https://open.spotify.com/track/3QE9qyQrIgefznSchAYJPB) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Outlaws Like Us](https://open.spotify.com/album/6PorC2h1FBX9xatc7ChceS) | 4:10 |
+| 4 | [When She Comes Home Tonight](https://open.spotify.com/track/3QE9qyQrIgefznSchAYJPB) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Outlaws Like Us](https://open.spotify.com/album/6PorC2h1FBX9xatc7ChceS) | 4:10 |
+| 5 | [Go Again](https://open.spotify.com/track/6TLJax0EYimCJxCF1Zg69e) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp) | [Go Again](https://open.spotify.com/album/1DqoGBZHjDONQkSs5p1q2g) | 4:00 |
 | 6 | [My Way](https://open.spotify.com/track/6lAzalfQMfuyLJK2KpPor9) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6) | 4:02 |
 | 7 | [Change My Mind](https://open.spotify.com/track/6puede6hRbNP5SdPmS2PT0) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do](https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D) | 3:19 |
 | 8 | [Different 'Round Here](https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 2:56 |
 | 9 | [There Was This Girl](https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:14 |
-| 10 | [Don't Come Any Closer](https://open.spotify.com/track/4AXEqmbpkdwo9buwlYndHQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6) | 3:28 |
+| 10 | [That's Just Me](https://open.spotify.com/track/6K98kUtQPk41LbTCslLEqZ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6) | 3:50 |
 | 11 | [Jesus Saves](https://open.spotify.com/track/6Jp2r3WXDaQ61f1ydATsVS) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:52 |
 | 12 | [Make It Rain](https://open.spotify.com/track/5uJUF0Az31PDoOjaYeT2Cy) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Don't Mind If I Do \(Deluxe\)](https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx) | 4:12 |
 | 13 | [Think As You Drunk](https://open.spotify.com/track/20FhqUEadmPYCrJYzeyPSx) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Think As You Drunk](https://open.spotify.com/album/10I3RS2Ijy9GCVZZAVG7Al) | 3:48 |
-| 14 | [That's Just Me](https://open.spotify.com/track/6K98kUtQPk41LbTCslLEqZ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6) | 3:50 |
+| 14 | [Don't Come Any Closer](https://open.spotify.com/track/4AXEqmbpkdwo9buwlYndHQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6) | 3:28 |
 | 15 | [I Wish Grandpas Never Died](https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 4:10 |
 | 16 | [Hell Of A Way To Go](https://open.spotify.com/track/4vfTyv3PkLAac4zTn5P82d) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Hell Of A Way To Go](https://open.spotify.com/album/3RxpA45wGZ0WxTWqTozgGf) | 2:46 |
 | 17 | [Atlantic City](https://open.spotify.com/track/0fVtwWhTp2ctRs3P5p8ADQ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:15 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DTJEE.md) - [plain]
 | 44 | [Good Morning From Mexico](https://open.spotify.com/track/2UzdgpZgL41ZkT3TUnNZPr) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:08 |
 | 45 | [Where Corn Don’t Grow](https://open.spotify.com/track/6jxQfS8A6yz99wXGpGCLzy) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Where Corn Don't Grow](https://open.spotify.com/album/65ipgpM1Z5TmFj6AAIrP2F) | 4:03 |
 | 46 | [Mississippi Or Me](https://open.spotify.com/track/3FqMZ5dQ4fOCfNhYJQ62oR) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:31 |
-| 47 | [I Let A Damn Good Woman Leave](https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:32 |
-| 48 | [Alabama Vs\. Tennessee](https://open.spotify.com/track/2MpjZBEnggk1u4vCOG5wJ8) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Peyton Manning](https://open.spotify.com/artist/4MMSLWJDd3EAbI2AOdaygo) | [Alabama Vs\. Tennessee](https://open.spotify.com/album/38tW98gcq2744sq33ksNYN) | 3:58 |
+| 47 | [Alabama Vs\. Tennessee](https://open.spotify.com/track/2MpjZBEnggk1u4vCOG5wJ8) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Peyton Manning](https://open.spotify.com/artist/4MMSLWJDd3EAbI2AOdaygo) | [Alabama Vs\. Tennessee](https://open.spotify.com/album/38tW98gcq2744sq33ksNYN) | 3:58 |
+| 48 | [I Let A Damn Good Woman Leave](https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:32 |
 
-Snapshot ID: `atQMAAAAAADzaclTLg1+myVyW7ufwTHT`
+Snapshot ID: `atVdgAAAAADcfwaQWKeQmHOlZUfAqw9l`

@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 77191,
+  "num_followers": 77207,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
+        "name": "Aguas Frescas De Jamaica",
+        "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Tan Distante",
+      "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
+    },
+    {
+      "added_at": "2026-09-18 03:00:25",
+      "album": {
         "name": "Andei S\u00f3",
         "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 357533,
       "name": "Andei S\u00f3",
       "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
-    },
-    {
-      "added_at": "2026-09-18 03:00:25",
-      "album": {
-        "name": "Aguas Frescas De Jamaica",
-        "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "Tan Distante",
-      "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
-        "name": "Quiero ser feliz tambien",
-        "url": "https://open.spotify.com/album/1sVWfIvv4A8G81RIQZl6RG"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Quiero ser feliz tambien",
-      "url": "https://open.spotify.com/track/69JT3b2gIzPSf7POUiBpdI"
-    },
-    {
-      "added_at": "2026-09-18 03:00:25",
-      "album": {
         "name": "S\u00ed Ser\u00e1s",
         "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
       },
@@ -911,26 +895,6 @@
       "duration_ms": 198680,
       "name": "Puede Parecer",
       "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
-    },
-    {
-      "added_at": "2026-09-18 03:00:25",
-      "album": {
-        "name": "Cachacoleto",
-        "url": "https://open.spotify.com/album/0OloiZOXxNtn1m8Psr5cum"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
-        }
-      ],
-      "duration_ms": 189485,
-      "name": "Vamos Tu y Yo",
-      "url": "https://open.spotify.com/track/18hBIeESqJqIQ3M9FGOHBT"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -955,6 +919,42 @@
       "duration_ms": 170906,
       "name": "Vale la Pena",
       "url": "https://open.spotify.com/track/1AWBu5AXFzNry1wZJan5so"
+    },
+    {
+      "added_at": "2026-09-18 03:00:25",
+      "album": {
+        "name": "Cachacoleto",
+        "url": "https://open.spotify.com/album/0OloiZOXxNtn1m8Psr5cum"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Guillermo Bonetto",
+          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
+        }
+      ],
+      "duration_ms": 189485,
+      "name": "Vamos Tu y Yo",
+      "url": "https://open.spotify.com/track/18hBIeESqJqIQ3M9FGOHBT"
+    },
+    {
+      "added_at": "2026-09-18 03:00:25",
+      "album": {
+        "name": "Quiero ser feliz tambien",
+        "url": "https://open.spotify.com/album/1sVWfIvv4A8G81RIQZl6RG"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Quiero ser feliz tambien",
+      "url": "https://open.spotify.com/track/69JT3b2gIzPSf7POUiBpdI"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros Reggae",
+          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Naufrago",
+      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
+    },
+    {
+      "added_at": "2026-09-18 03:00:25",
+      "album": {
         "name": "One Drop",
         "url": "https://open.spotify.com/album/4guVvB3rBVdTjwb58DZfeh"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 238062,
       "name": "One Drop",
       "url": "https://open.spotify.com/track/6ygWwUSHRVDbja6zpfMFNG"
-    },
-    {
-      "added_at": "2026-09-18 03:00:25",
-      "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros Reggae",
-          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Naufrago",
-      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
+        "name": "Amor De Barrio",
+        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Lo Que Dicta El Tiempo",
+      "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
+    },
+    {
+      "added_at": "2026-09-18 03:00:25",
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2eYLzfawsxegd6ppMH2FVC"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 213624,
       "name": "My Love",
       "url": "https://open.spotify.com/track/2YKv6SXLar1fRtk9xYUd6b"
-    },
-    {
-      "added_at": "2026-09-18 03:00:25",
-      "album": {
-        "name": "Amor De Barrio",
-        "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Lo Que Dicta El Tiempo",
-      "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
-        "name": "Que Bonita Vecindad",
-        "url": "https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh"
+        "name": "S\u00ed Ser\u00e1s",
+        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
       },
       "artists": [
         {
           "name": "Rondamon",
           "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        },
-        {
-          "name": "Guillermo Bonetto",
-          "url": "https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L"
         }
       ],
-      "duration_ms": 223405,
-      "name": "Nadie Sabe",
-      "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
+      "duration_ms": 283400,
+      "name": "La Clave",
+      "url": "https://open.spotify.com/track/7CkVCRgoZWPt2v1WXRV7rs"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -1359,22 +1355,18 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
-        "name": "S\u00fabete",
-        "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
+        "name": "Liberaci\u00f3n",
+        "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
       },
       "artists": [
         {
-          "name": "12 Tribus",
-          "url": "https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4"
-        },
-        {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+          "name": "Slow Burnin\u00b4",
+          "url": "https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV"
         }
       ],
-      "duration_ms": 245000,
-      "name": "El Cuento",
-      "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
+      "duration_ms": 171013,
+      "name": "Nada Que Me Venga Mal",
+      "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
     },
     {
       "added_at": "2026-09-18 03:00:25",
@@ -1399,18 +1391,22 @@
     {
       "added_at": "2026-09-18 03:00:25",
       "album": {
-        "name": "Liberaci\u00f3n",
-        "url": "https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1"
+        "name": "S\u00fabete",
+        "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
       },
       "artists": [
         {
-          "name": "Slow Burnin\u00b4",
-          "url": "https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV"
+          "name": "12 Tribus",
+          "url": "https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4"
+        },
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
         }
       ],
-      "duration_ms": 171013,
-      "name": "Nada Que Me Venga Mal",
-      "url": "https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo"
+      "duration_ms": 245000,
+      "name": "El Cuento",
+      "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
     },
     {
       "added_at": "2026-09-18 03:00:25",

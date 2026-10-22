@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 170203,
+  "num_followers": 170215,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-07-27 16:20:33",
       "album": {
+        "name": "NEKTAR",
+        "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
+      },
+      "artists": [
+        {
+          "name": "Ava Rocha",
+          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
+        }
+      ],
+      "duration_ms": 206442,
+      "name": "LONGE LONGE DE MIM",
+      "url": "https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI"
+    },
+    {
+      "added_at": "2026-07-27 16:20:33",
+      "album": {
         "name": "Sambadouro",
         "url": "https://open.spotify.com/album/3gquRrB1Lj71VooYnoT76R"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 205482,
       "name": "Sarav\u00e1, Sarav\u00e1",
       "url": "https://open.spotify.com/track/5MFlTzOnyxnegJ2HlbK8vU"
-    },
-    {
-      "added_at": "2026-07-27 16:20:33",
-      "album": {
-        "name": "NEKTAR",
-        "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
-      },
-      "artists": [
-        {
-          "name": "Ava Rocha",
-          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
-        }
-      ],
-      "duration_ms": 206442,
-      "name": "LONGE LONGE DE MIM",
-      "url": "https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI"
     },
     {
       "added_at": "2026-07-27 16:20:33",

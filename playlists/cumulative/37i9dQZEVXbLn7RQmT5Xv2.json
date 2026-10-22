@@ -377,6 +377,32 @@
     },
     {
       "album": {
+        "name": "WW3",
+        "url": "https://open.spotify.com/album/066dA7zgsBI76f8KHVvsfQ"
+      },
+      "artists": [
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259787,
+      "name": "5msat",
+      "url": "https://open.spotify.com/track/6nqWPOw5bed5ceN99keEYK"
+    },
+    {
+      "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
       },
@@ -7302,7 +7328,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 213838,
       "name": "Heseeny",
       "url": "https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj"
@@ -11051,6 +11077,28 @@
     },
     {
       "album": {
+        "name": "WW3",
+        "url": "https://open.spotify.com/album/066dA7zgsBI76f8KHVvsfQ"
+      },
+      "artists": [
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138764,
+      "name": "Mongini",
+      "url": "https://open.spotify.com/track/35EVYaB2lhgdOSU6w4Lan9"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -11426,7 +11474,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 224341,
       "name": "Msh Fare2ly",
       "url": "https://open.spotify.com/track/1ioPKsnpJvlHtqwENYKL3m"
@@ -11554,6 +11602,28 @@
       "duration_ms": 193813,
       "name": "Music For a Sushi Restaurant",
       "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
+    },
+    {
+      "album": {
+        "name": "WW3",
+        "url": "https://open.spotify.com/album/066dA7zgsBI76f8KHVvsfQ"
+      },
+      "artists": [
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177977,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/2x4WoXZaFrGyzo5LWnkxe9"
     },
     {
       "album": {
@@ -16948,7 +17018,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 299258,
       "name": "Ya Layaly",
       "url": "https://open.spotify.com/track/2EmLwhd0RfEyFQjXNIenJG"
@@ -17890,7 +17960,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-04",
+      "date_removed": null,
       "duration_ms": 209293,
       "name": "\u0627\u062e\u062f\u062a \u0627\u0644\u0643\u062f\u0631 \u0645\u0646 \u0627\u0644\u062c\u0645\u064a\u0639",
       "url": "https://open.spotify.com/track/6r5VAKShZTrcoGd318VYSS"
@@ -18050,7 +18120,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 247196,
       "name": "\u0627\u0643\u062a\u0628\u0644\u0643 \u062a\u0639\u0647\u062f",
       "url": "https://open.spotify.com/track/5HGnXaIWkMFUIcCFrwi9Rv"
@@ -19410,7 +19480,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 217787,
       "name": "\u0628\u062a\u0641\u062a\u0643\u0631\u0646\u064a \u0633\u0627\u0639\u0627\u062a",
       "url": "https://open.spotify.com/track/7JN6ZcsdAz2e1JWexv8edB"
@@ -23018,7 +23088,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 201723,
       "name": "\u0644\u0633\u0627\u0646\u064a \u0628\u0644\u0639\u0628 \u0648\u0627\u0646\u0627 \u0641\u0631\u062f\u0627\u0646\u064a ( \u0639\u0645\u0647\u0627 \u0645\u064a\u0646 \u0641\u064a\u0643\u0648 \u0642\u0627\u0644 \u0627\u0646\u062a\u0647\u064a )",
       "url": "https://open.spotify.com/track/4o1WoOrn31vvT5WKsvJd8p"

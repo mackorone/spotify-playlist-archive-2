@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,566,277 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,566,161 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 56 | [Waves](https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Waves](https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd) | 4:54 |
 | 57 | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T) | 3:43 |
 | 58 | [Bass Down Low \(feat\. DEV\) \[Trap Version\]](https://open.spotify.com/track/6ww3QtV3wV0qBfgYCfFu3C) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Bass Down Low \(feat\. DEV\) \[Trap Version\]](https://open.spotify.com/album/3bi9DlUjl64Rcd6gMddtek) | 2:46 |
-| 59 | [CRUSH ON U](https://open.spotify.com/track/5NjS8UegnF9wCyEHhy1U0s) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ) | [UNMASKED!](https://open.spotify.com/album/0gAinmiR8iNRC7yFmVHxtM) | 2:19 |
-| 60 | [IN THE ALLEY](https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [IN THE ALLEY](https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh) | 2:42 |
+| 59 | [IN THE ALLEY](https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [IN THE ALLEY](https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh) | 2:42 |
+| 60 | [CRUSH ON U](https://open.spotify.com/track/5NjS8UegnF9wCyEHhy1U0s) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ) | [UNMASKED!](https://open.spotify.com/album/0gAinmiR8iNRC7yFmVHxtM) | 2:19 |
 | 61 | [Ultrasound](https://open.spotify.com/track/2R2NZJZ5P52UOEp2IhlrzX) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [Ultrasound](https://open.spotify.com/album/2FC2qvtOZfOuQRscDSZq2w) | 3:05 |
 | 62 | [Snakepit Anthem](https://open.spotify.com/track/25ZeuwUZtEkpKiWyn3ythT) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakepit](https://open.spotify.com/album/6PNhLb06FOlSkRtApeADEu) | 2:17 |
 | 63 | [Take Control](https://open.spotify.com/track/4CRKkzqCFATooA37D0koid) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Take Control](https://open.spotify.com/album/5I1gdDu7X5YjeAEBEZ5NQW) | 2:44 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 72 | [select@](https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [nolimit](https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv) | 2:44 |
 | 73 | [Adrenaline](https://open.spotify.com/track/0tsq2ep6prmyRMEI1niqZv) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Adrenaline](https://open.spotify.com/album/78TPbebDwkSG8BgvCTAiMj) | 2:35 |
 | 74 | [Blue Mile](https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Blue Mile](https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9) | 3:32 |
-| 75 | [Shake](https://open.spotify.com/track/6L9dTqUK7bDCTHkLoi6GkS) | [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [Shake](https://open.spotify.com/album/7JdbsYo6DFOfMTrBZS0wUL) | 2:46 |
+| 75 | [System Shock](https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [System Shock](https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq) | 2:16 |
 
 Snapshot ID: `AAAAAEoKlAbUBG7YxEAmhwg11ZtrJLSd`

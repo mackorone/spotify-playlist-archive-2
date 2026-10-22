@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: DPR CREAM\)
+> Trendy & Chill Korean R&B music\. \(Cover: LNGSHOT\)
 
-943 songs - 2 day 1 hr 40 min
+944 songs - 2 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [Happy Tears](https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Happy Tears](https://open.spotify.com/album/4gXSXykZmeNY8c6k5QNAGk) | 2:53 | 2024-03-27 | 2024-04-06 |
 | [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2022-11-09 | 2022-11-15 |
 | [Have I Asked You](https://open.spotify.com/track/6ntNYbDZwSmYiQAaqTYo01) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [SHINDRUM](https://open.spotify.com/artist/0Zvh7pzTiN04XiiDAOzHjB) | [Cityboys Attitude](https://open.spotify.com/album/6Ocr3jf1Opxm12ZQchH0sq) | 3:32 | 2025-12-05 | 2026-02-11 |
-| [HAWWAH](https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx) | [dodree](https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN) | [HAWWAH](https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0) | 2:53 | 2026-06-30 |  |
+| [HAWWAH](https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx) | [dodree](https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN) | [HAWWAH](https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0) | 2:53 | 2026-06-30 | 2026-10-22 |
 | [Hear Me Out](https://open.spotify.com/track/44EXniDpWap2veS1gH1svO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Hear Me Out](https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ) | 3:24 | 2023-07-05 | 2023-10-23 |
 | [Heart](https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [Belief](https://open.spotify.com/album/52FuiW7wS6lmx5PngSKWbw) | 3:16 | 2022-04-19 | 2022-07-29 |
 | [Heaven \(Feat\. Sam Kim\)](https://open.spotify.com/track/0ZpEiNVDCJbZBS8e9DKOUw) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:06 | 2024-06-17 | 2024-11-14 |
@@ -524,6 +524,7 @@
 | [MAMMAMIA \(Feat\. Tabber\)](https://open.spotify.com/track/6RL6ZSNwpYk2dQfKu1tu88) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [FANG](https://open.spotify.com/album/5LPzhS5QHGdIMcZ8Bk1oWq) | 2:44 | 2025-09-01 | 2025-09-29 |
 | [Man Like You](https://open.spotify.com/track/4g93jayBWXtNJfpfTUFq40) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [Man Like You](https://open.spotify.com/album/6Jc77yFtdk1idMAF5DrhKV) | 2:38 | 2024-09-24 | 2024-10-14 |
 | [Mars](https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:07 | 2024-05-09 | 2026-03-14 |
+| [Masterpiece](https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Masterpiece](https://open.spotify.com/album/2mCoRKgz1QeoSZETF68AY6) | 2:49 | 2026-10-21 |  |
 | [Matter of Taste \(feat\. Paloalto\)](https://open.spotify.com/track/0U4U1RdFuj6TzzQdbUtYkB) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:50 | 2022-05-11 | 2022-07-19 |
 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:53 | 2022-06-03 | 2022-06-21 |
 | [maybe we need a break](https://open.spotify.com/track/2P2r0647uy5pKUikGZ7q9B) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [modern breakups](https://open.spotify.com/album/2QnNSkWnmb2Aw42kEGvDQL) | 3:04 | 2022-07-27 | 2023-03-18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 181502,
+  "num_followers": 181517,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAC0ZwodpLYDnZKmK+bkSiW6",
+  "snapshot_id": "atVdgAAAAABX8vPVMVsf5Set4z1C0zM4",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x"
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 148673,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq"
+      "duration_ms": 217012,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/2DdxVSxtbNWLw2ssJe8e9n"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 217012,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/2DdxVSxtbNWLw2ssJe8e9n"
+      "duration_ms": 148673,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq"
     },
     {
       "added_at": null,
@@ -463,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radical Dude!",
-        "url": "https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz"
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
       },
       "artists": [
-        {
-          "name": "Getter",
-          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
-        },
         {
           "name": "Oliver Tree",
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 212631,
-      "name": "Forget It (feat. Oliver Tree)",
-      "url": "https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy"
+      "duration_ms": 195520,
+      "name": "My Only Friend",
+      "url": "https://open.spotify.com/track/05n4kFKzoCjCU3Lfg8I3Ba"
     },
     {
       "added_at": null,
@@ -499,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+        "name": "Radical Dude!",
+        "url": "https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz"
       },
       "artists": [
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        },
         {
           "name": "Oliver Tree",
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 195520,
-      "name": "My Only Friend",
-      "url": "https://open.spotify.com/track/05n4kFKzoCjCU3Lfg8I3Ba"
+      "duration_ms": 212631,
+      "name": "Forget It (feat. Oliver Tree)",
+      "url": "https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy"
     },
     {
       "added_at": null,

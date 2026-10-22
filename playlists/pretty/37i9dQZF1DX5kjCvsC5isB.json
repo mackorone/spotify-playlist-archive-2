@@ -1,6 +1,6 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 318184,
+  "num_followers": 318202,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Shortest Fuse",
-        "url": "https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 220649,
-      "name": "Shortest Fuse",
-      "url": "https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Cleopatra",
         "url": "https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 210200,
       "name": "Cleopatra",
       "url": "https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Shortest Fuse",
+        "url": "https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 220649,
+      "name": "Shortest Fuse",
+      "url": "https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Velveteen",
-        "url": "https://open.spotify.com/album/20autaRlTtoAUnewO5c12H"
-      },
-      "artists": [
-        {
-          "name": "PONY",
-          "url": "https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/4wBf57Njjl4tKNBGpa39s2"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "The Pain",
         "url": "https://open.spotify.com/album/7joUWLYVbBN7QllFU1hTsD"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 221080,
       "name": "The Pain",
       "url": "https://open.spotify.com/track/7436W6cDzihQ5AJvTsa0Vw"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Velveteen",
+        "url": "https://open.spotify.com/album/20autaRlTtoAUnewO5c12H"
+      },
+      "artists": [
+        {
+          "name": "PONY",
+          "url": "https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/4wBf57Njjl4tKNBGpa39s2"
     },
     {
       "added_at": "2024-07-05 22:18:14",

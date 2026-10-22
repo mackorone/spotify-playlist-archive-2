@@ -1,28 +1,32 @@
 {
-  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: DAILY:DIRECTION) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 1209385,
+  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: JEONGHAN, JOSHUA) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "num_followers": 1209242,
   "original_name": "K-Pop Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO6dAYVGdcBJqPCxA4IXCzfsp8S0",
+  "snapshot_id": "AAAAAIHKtXOjTxxBi1PvrrwBgXTUWQb4",
   "tracks": [
     {
-      "added_at": "2026-10-15 01:17:23",
+      "added_at": "2026-10-21 05:01:33",
       "album": {
-        "name": "WHICH WAY",
-        "url": "https://open.spotify.com/album/5sDUhA85xqNra0VHL8zfBE"
+        "name": "DREAMSCAPE",
+        "url": "https://open.spotify.com/album/5jD5t9PK0GH5wvJ4vdk0u4"
       },
       "artists": [
         {
-          "name": "DAILY:DIRECTION",
-          "url": "https://open.spotify.com/artist/7tEX36hrHuwMnHXrZUkzx7"
+          "name": "JEONGHAN",
+          "url": "https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF"
+        },
+        {
+          "name": "JOSHUA",
+          "url": "https://open.spotify.com/artist/74AwWFYdjQ3ER5vHO4H7b0"
         }
       ],
-      "duration_ms": 180000,
-      "name": "WHICH WAY",
-      "url": "https://open.spotify.com/track/4t25GxC3kgK4krFOHaJpW2"
+      "duration_ms": 148000,
+      "name": "12 o'clock",
+      "url": "https://open.spotify.com/track/1dp1GI9YcKDoxrKBpp0u9F"
     },
     {
       "added_at": "2026-10-15 01:17:23",
@@ -43,22 +47,22 @@
     {
       "added_at": "2026-10-07 04:53:07",
       "album": {
-        "name": "KICK OFF THE WALL Pt. 1",
-        "url": "https://open.spotify.com/album/2pFF3Bxebnh8IU4FwUD2BS"
+        "name": "Chain Reaction",
+        "url": "https://open.spotify.com/album/0b54twygaqMM8bmvhzMMjW"
       },
       "artists": [
         {
-          "name": "KickFlip",
-          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+          "name": "X:IN",
+          "url": "https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu"
         },
         {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Kick Off The Wall (Feat. iann dior)",
-      "url": "https://open.spotify.com/track/6ReoAs5rbmEfNrimlfJAGc"
+      "duration_ms": 141699,
+      "name": "ZZIRIT (Feat. Lu\u00edsa Sonza)",
+      "url": "https://open.spotify.com/track/2Q61w7dlB4UbOJrLvzHxOF"
     },
     {
       "added_at": "2026-10-07 04:53:07",
@@ -95,26 +99,6 @@
     {
       "added_at": "2026-10-07 04:53:07",
       "album": {
-        "name": "Chain Reaction",
-        "url": "https://open.spotify.com/album/0b54twygaqMM8bmvhzMMjW"
-      },
-      "artists": [
-        {
-          "name": "X:IN",
-          "url": "https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 141699,
-      "name": "ZZIRIT (Feat. Lu\u00edsa Sonza)",
-      "url": "https://open.spotify.com/track/2Q61w7dlB4UbOJrLvzHxOF"
-    },
-    {
-      "added_at": "2026-10-07 04:53:07",
-      "album": {
         "name": "2LOUD",
         "url": "https://open.spotify.com/album/2ULR4Fp8Fl8w8Lv3ND6ADi"
       },
@@ -127,6 +111,42 @@
       "duration_ms": 150928,
       "name": "2LOUD",
       "url": "https://open.spotify.com/track/5SoG7BQ42MMksYEfaeeVgE"
+    },
+    {
+      "added_at": "2026-10-15 01:17:23",
+      "album": {
+        "name": "WHICH WAY",
+        "url": "https://open.spotify.com/album/5sDUhA85xqNra0VHL8zfBE"
+      },
+      "artists": [
+        {
+          "name": "DAILY:DIRECTION",
+          "url": "https://open.spotify.com/artist/7tEX36hrHuwMnHXrZUkzx7"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "WHICH WAY",
+      "url": "https://open.spotify.com/track/4t25GxC3kgK4krFOHaJpW2"
+    },
+    {
+      "added_at": "2026-10-07 04:53:07",
+      "album": {
+        "name": "KICK OFF THE WALL Pt. 1",
+        "url": "https://open.spotify.com/album/2pFF3Bxebnh8IU4FwUD2BS"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Kick Off The Wall (Feat. iann dior)",
+      "url": "https://open.spotify.com/track/6ReoAs5rbmEfNrimlfJAGc"
     },
     {
       "added_at": "2026-10-07 04:53:07",
@@ -835,26 +855,6 @@
       "duration_ms": 180112,
       "name": "LIVE FAST DIE SLOW",
       "url": "https://open.spotify.com/track/0QLTEaLCsqQrgf54EtPMkt"
-    },
-    {
-      "added_at": "2026-10-07 04:53:07",
-      "album": {
-        "name": "4SHOBOIZ Vol. 2: 4SHOVILLE",
-        "url": "https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "LNGSHOT",
-          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
-        }
-      ],
-      "duration_ms": 241131,
-      "name": "4SHO 4SHO",
-      "url": "https://open.spotify.com/track/3GK3htTIyOEq8gz3sPj6L0"
     }
   ],
   "unique_name": "K-Pop Dance Party",

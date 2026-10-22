@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Winnie the Pooh 100th Anniversary Songbook",
+        "url": "https://open.spotify.com/album/4SegXiQTuNTCZl8XLjRQDs"
+      },
+      "artists": [
+        {
+          "name": "Allegra Miles",
+          "url": "https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Happier With You",
+      "url": "https://open.spotify.com/track/0VfkxnL69Zt5M2hNgGr8Of"
+    },
+    {
+      "album": {
         "name": "Happily Ever After (Full Version)",
         "url": "https://open.spotify.com/album/5G6LlLP5I8HvrWYzXPdQUY"
       },

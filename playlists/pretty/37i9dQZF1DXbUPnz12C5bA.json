@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 233393,
+  "num_followers": 233479,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -887,8 +887,8 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
       },
       "artists": [
         {
@@ -896,25 +896,29 @@
           "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 296066,
-      "name": "Amigo el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4OxGIqQxKDzDtzy8qf6I7W"
+      "duration_ms": 296133,
+      "name": "No Me Vuelvo a Ilusionar",
+      "url": "https://open.spotify.com/track/0HpriIc5XXt9rqFFeVn3UR"
     },
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
-        "name": "Rafael Orozco... Vive",
-        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
+        "name": "Marca Registrada del Binomio de Oro",
+        "url": "https://open.spotify.com/album/00vITF8SZst4YVAbF8nqOq"
       },
       "artists": [
         {
           "name": "Binomio de Oro",
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        },
+        {
+          "name": "Dub\u00e1n Bayona",
+          "url": "https://open.spotify.com/artist/6jGkJmr4vmIFRPIRy7zsF1"
         }
       ],
-      "duration_ms": 277266,
-      "name": "Qu\u00e9 Sera de M\u00ed",
-      "url": "https://open.spotify.com/track/2ER4g5nBnn2ZE7s9nRRWxB"
+      "duration_ms": 270293,
+      "name": "Me Sobran las Palabras",
+      "url": "https://open.spotify.com/track/3jPpZ5ikg40XJ8g6rjjUvJ"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Vallenato",

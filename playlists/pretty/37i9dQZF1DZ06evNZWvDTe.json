@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 15269,
+  "num_followers": 15272,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAD9JO+15wXewtuJ36bGGl8z",
+  "snapshot_id": "atVdgAAAAACZd+ZJMvl3bWS7tUuu4efn",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wins & Losses",
-        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Yaadman fka Yung L",
-          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
-        }
-      ],
-      "duration_ms": 179825,
-      "name": "Wins & Losses",
-      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where Do We Go From Here",
         "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 197045,
       "name": "Otan",
       "url": "https://open.spotify.com/track/40QrEzU7KQxJUViO5IF9U1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wins & Losses",
+        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        }
+      ],
+      "duration_ms": 179825,
+      "name": "Wins & Losses",
+      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEXT DOOR (with Sarkodie)",
-        "url": "https://open.spotify.com/album/0stN3a7ORRVvn3Xeyq47HI"
-      },
-      "artists": [
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 156791,
-      "name": "NEXT DOOR (with Sarkodie)",
-      "url": "https://open.spotify.com/track/7ngTKqkPVMV5sVrIWcBnTC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Have Mercy 2",
         "url": "https://open.spotify.com/album/4iVKlmCDADFXGJOP30ABDj"
       },
@@ -719,22 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "IBRAHIM TRAOR\u00c9",
-        "url": "https://open.spotify.com/album/2QTZRYRK0anZxoph2j6mUK"
+        "name": "NEXT DOOR (with Sarkodie)",
+        "url": "https://open.spotify.com/album/0stN3a7ORRVvn3Xeyq47HI"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
         },
         {
-          "name": "Worlasi",
-          "url": "https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 161311,
-      "name": "IBRAHIM TRAOR\u00c9",
-      "url": "https://open.spotify.com/track/0nWYe6bQy71wCegnoeXO1S"
+      "duration_ms": 156791,
+      "name": "NEXT DOOR (with Sarkodie)",
+      "url": "https://open.spotify.com/track/7ngTKqkPVMV5sVrIWcBnTC"
     },
     {
       "added_at": null,
@@ -755,6 +735,26 @@
       "duration_ms": 223947,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/3efFRZSg2qNU0OFZolXCix"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IBRAHIM TRAOR\u00c9",
+        "url": "https://open.spotify.com/album/2QTZRYRK0anZxoph2j6mUK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Worlasi",
+          "url": "https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "IBRAHIM TRAOR\u00c9",
+      "url": "https://open.spotify.com/track/0nWYe6bQy71wCegnoeXO1S"
     },
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anointing",
-        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Anointing",
-      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hope (Brighter Day)",
         "url": "https://open.spotify.com/album/5Ks031asGtXwrPF5nV9wq5"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 316422,
       "name": "Hope (Brighter Day)",
       "url": "https://open.spotify.com/track/1WUYq0lXmd7K2DVVxi8XPv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 216546,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
     },
     {
       "added_at": null,
@@ -987,26 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 191719,
-      "name": "Anadwo",
-      "url": "https://open.spotify.com/track/727FNLOrz4Wj4KhTRMRlEv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jailer",
         "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 230588,
       "name": "Jailer",
       "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 191719,
+      "name": "Anadwo",
+      "url": "https://open.spotify.com/track/727FNLOrz4Wj4KhTRMRlEv"
     }
   ],
   "unique_name": "This Is Sarkodie",

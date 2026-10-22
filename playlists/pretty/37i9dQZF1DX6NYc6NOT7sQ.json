@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:3gNEIgLeknpwkNViU8WAhg\">Oceanvs Orientalis</a>' favorite tracks. Updated regularly. Curated by Oceanvs Orientalis. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 92798,
+  "num_followers": 92815,
   "original_name": "Oceanvs Orientalis' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANyI+okB+VWe77xHvKdBFpBWlq6b",
+  "snapshot_id": "AAAAAEe/Hz3I+g/PqLdjUChVX7+tWzQ8",
   "tracks": [
     {
       "added_at": "2026-10-09 06:50:12",
@@ -79,6 +79,30 @@
       "duration_ms": 774000,
       "name": "Green Pastures",
       "url": "https://open.spotify.com/track/0L19FE1wmgUzs3IrOcTIAa"
+    },
+    {
+      "added_at": "2026-10-21 06:25:09",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/3maL8rBdFoFcFjUmOV3avd"
+      },
+      "artists": [
+        {
+          "name": "Shimon (Fr)",
+          "url": "https://open.spotify.com/artist/3rN9xqLR59j3NAn0VM9rGR"
+        },
+        {
+          "name": "PKM",
+          "url": "https://open.spotify.com/artist/5xmOuNCskJkhnlSV3Qkx3v"
+        },
+        {
+          "name": "Yoshi",
+          "url": "https://open.spotify.com/artist/4dK0bRA6Gr0Q99OUw8bqjS"
+        }
+      ],
+      "duration_ms": 357120,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/3URPEusEkLVXLp2FlAqCQN"
     },
     {
       "added_at": "2026-10-09 06:50:12",
@@ -1799,26 +1823,6 @@
       "duration_ms": 433500,
       "name": "The Dark Sea of Awareness",
       "url": "https://open.spotify.com/track/1J5QYbZLeLPjQUIa92yMdE"
-    },
-    {
-      "added_at": "2026-08-28 21:00:13",
-      "album": {
-        "name": "The End Homage",
-        "url": "https://open.spotify.com/album/2J0yedk08oqBqEHkyU45su"
-      },
-      "artists": [
-        {
-          "name": "Biota",
-          "url": "https://open.spotify.com/artist/4nzXUdRf1uVNKqlyFQwutD"
-        },
-        {
-          "name": "Duenia",
-          "url": "https://open.spotify.com/artist/2JYtaaw3tnqJXQsOWqJN0r"
-        }
-      ],
-      "duration_ms": 439518,
-      "name": "The End Homage (feat. Duenia)",
-      "url": "https://open.spotify.com/track/2joSIGY8pHPt3PGl5JoSKl"
     },
     {
       "added_at": "2026-08-28 21:00:13",

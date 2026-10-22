@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 134312,
+  "num_followers": 134315,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAABN7iMyWOIaMXhiOf57QWmd",
+  "snapshot_id": "atVdgAAAAAAoUUNIn4tgq8YlsJCV5u/x",
   "tracks": [
     {
       "added_at": null,
@@ -619,38 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Juke Box Hits",
-        "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 108320,
-      "name": "I'm Talking About You",
-      "url": "https://open.spotify.com/track/4Qz94VdIvKAmtBIyuoAZW9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 169173,
-      "name": "Downbound Train",
-      "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck Berry In London",
         "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
       },
@@ -683,6 +651,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 169173,
+      "name": "Downbound Train",
+      "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Juke Box Hits",
+        "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 108320,
+      "name": "I'm Talking About You",
+      "url": "https://open.spotify.com/track/4Qz94VdIvKAmtBIyuoAZW9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hail! Hail! Rock 'N' Roll",
+        "url": "https://open.spotify.com/album/3vbjfGvgC1nMGmpBPdDuOV"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 314133,
+      "name": "Wee Wee Hours",
+      "url": "https://open.spotify.com/track/2Fv6Dka7LJKU6U5X1cMTzC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 205733,
       "name": "San Francisco Dues",
       "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hail! Hail! Rock 'N' Roll",
-        "url": "https://open.spotify.com/album/3vbjfGvgC1nMGmpBPdDuOV"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 314133,
-      "name": "Wee Wee Hours",
-      "url": "https://open.spotify.com/track/2Fv6Dka7LJKU6U5X1cMTzC"
     },
     {
       "added_at": null,

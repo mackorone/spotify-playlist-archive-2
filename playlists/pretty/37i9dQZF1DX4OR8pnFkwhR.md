@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: めっちゃ美人
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,095 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,097 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Treasure Your Mom](https://open.spotify.com/track/21kzPlITOdLfQEBkMShi1b) | [めっちゃ美人](https://open.spotify.com/artist/3qFK1j4FfFGUiR7EeeLbuZ) | [コンプリート・ファイター４](https://open.spotify.com/album/4shvUNVrn33DG58uNYSNH9) | 4:12 |
-| 2 | [Track 5](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 0:00 |
+| 2 | [i won't see you anymore](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 4:02 |
 | 3 | [The Light](https://open.spotify.com/track/1R24BBp5ARWY3dhSvCsjh4) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [The Light](https://open.spotify.com/album/67tbg8epO9CQ1sH4dvQF7P) | 3:51 |
 | 4 | [誤訳Love](https://open.spotify.com/track/4FtnwHwGZukK5EWrepz7nu) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [OK集](https://open.spotify.com/album/3fzX4zbJ8I5gLMzb4aQq11) | 2:51 |
 | 5 | [Blessed](https://open.spotify.com/track/20dDIAqQEqaRBFWWkEjwhI) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB), [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Blessed](https://open.spotify.com/album/6CTnhjsCTTXdCu2126UUHo) | 3:52 |

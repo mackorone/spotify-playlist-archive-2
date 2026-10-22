@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: אודיה
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,633 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,694 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 46 | [אהבה ראשונה](https://open.spotify.com/track/6JPlSTk7mpboMx3VRxiFTC) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [שירים בפתקים](https://open.spotify.com/album/3W7rpLDKrMVpNR0UwINLb2) | 3:01 |
 | 47 | [תקופה חרא](https://open.spotify.com/track/3tT0AuW2Xjykbx5TcYv64j) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חלק מהנצח](https://open.spotify.com/album/0jcuylGpmKfQxQFirBkN6F) | 4:03 |
 | 48 | [סוד הנעורים](https://open.spotify.com/track/3IGeTg6zodZUVUNHp7bfmk) | [young buta](https://open.spotify.com/artist/7eDcihyzgwCbWXFRJFc0MB) | [סוד הנעורים](https://open.spotify.com/album/5a7PsyCayvzgpsgfS614Ay) | 3:03 |
-| 49 | [סטארבקס](https://open.spotify.com/track/4LcvV8xxA3oYpvOoaZa59o) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [סטארבקס](https://open.spotify.com/album/2qN1BFwlE4CfnZWmO1STIz) | 2:31 |
+| 49 | [סטארבקס](https://open.spotify.com/track/4LcvV8xxA3oYpvOoaZa59o) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5), [שרקי](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [סטארבקס](https://open.spotify.com/album/2qN1BFwlE4CfnZWmO1STIz) | 2:31 |
 | 50 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 
 Snapshot ID: `AAAAALkYitq0BRRZKdwOHQnzddpxuLdF`

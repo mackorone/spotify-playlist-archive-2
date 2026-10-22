@@ -1,6 +1,6 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover: Tiakola",
-  "num_followers": 45306,
+  "num_followers": 45358,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-10-16 00:01:56",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+    },
+    {
+      "added_at": "2026-10-16 00:01:56",
+      "album": {
         "name": "Who\u2019s Dat Girl",
         "url": "https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 172912,
       "name": "Who's Dat Girl (feat. Rema)",
       "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"
-    },
-    {
-      "added_at": "2026-10-16 00:01:56",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
     },
     {
       "added_at": "2026-10-16 00:01:56",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-10-16 00:01:56",
       "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 174823,
-      "name": "Tornado",
-      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
-    },
-    {
-      "added_at": "2026-10-16 00:01:56",
-      "album": {
         "name": "REAL, Vol. 1",
         "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
       },
@@ -883,26 +867,18 @@
     {
       "added_at": "2026-10-16 00:01:56",
       "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/1tHG3rISWudn1FJoDjV56d"
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 172877,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/1VixD42StOF93a1naJMGnb"
+      "duration_ms": 174823,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
     },
     {
       "added_at": "2026-10-16 00:01:56",
@@ -931,6 +907,30 @@
       "duration_ms": 148550,
       "name": "Getting Paid \u200b(f\u200beat\u200b. Asake, Wizkid, Skillibeng\u200b)",
       "url": "https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s"
+    },
+    {
+      "added_at": "2026-10-16 00:01:56",
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/1tHG3rISWudn1FJoDjV56d"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 172877,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/1VixD42StOF93a1naJMGnb"
     },
     {
       "added_at": "2026-10-16 00:01:56",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2026-10-16 00:01:56",
       "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Jam",
+      "url": "https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw"
+    },
+    {
+      "added_at": "2026-10-16 00:01:56",
+      "album": {
         "name": "COCA BODY",
         "url": "https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa"
       },
@@ -1143,42 +1163,18 @@
     {
       "added_at": "2026-10-16 00:01:56",
       "album": {
-        "name": "XX",
-        "url": "https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf"
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
       },
       "artists": [
         {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
         }
       ],
-      "duration_ms": 180386,
-      "name": "Jam",
-      "url": "https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw"
-    },
-    {
-      "added_at": "2026-10-16 00:01:56",
-      "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 150147,
-      "name": "Tell Everybody (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
+      "duration_ms": 146086,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
     },
     {
       "added_at": "2026-10-16 00:01:56",
@@ -1219,18 +1215,22 @@
     {
       "added_at": "2026-10-16 00:01:56",
       "album": {
-        "name": "My Darling",
-        "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
       },
       "artists": [
         {
-          "name": "Chella",
-          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 146086,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
+      "duration_ms": 150147,
+      "name": "Tell Everybody (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
     },
     {
       "added_at": "2026-10-16 00:01:56",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2026-10-16 00:01:56",
       "album": {
-        "name": "Gaou la (feat. 6uff)",
-        "url": "https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Gaou la (feat. 6uff)",
-      "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
-    },
-    {
-      "added_at": "2026-10-16 00:01:56",
-      "album": {
         "name": "My Eyes Only - Flashback",
         "url": "https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 131439,
       "name": "J'PENSE \u00c0 TOI",
       "url": "https://open.spotify.com/track/6jDCqvmPaMw8006fpbfmZx"
+    },
+    {
+      "added_at": "2026-10-16 00:01:56",
+      "album": {
+        "name": "Gaou la (feat. 6uff)",
+        "url": "https://open.spotify.com/album/3jIgXwF5wIe2GhF3NBSsrp"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Gaou la (feat. 6uff)",
+      "url": "https://open.spotify.com/track/0TVPbrQyDW6Rhi7hJa024K"
     },
     {
       "added_at": "2026-10-16 00:01:56",

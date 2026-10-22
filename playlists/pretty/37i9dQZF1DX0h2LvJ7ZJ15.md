@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,666,509 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,666,743 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 18 | [Sleepwalker \- Slowed](https://open.spotify.com/track/5cjRF0yXxYvqzmJfUbq9AW) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Sleepwalker \(Slowed\)](https://open.spotify.com/album/2EAUAqdIVckKAPCCT0hAQg) | 4:18 |
 | 19 | [Sem Tempo \- Super Slowed](https://open.spotify.com/track/780ZnY2NatxOl1olIhXSF9) | [SCARIONIX](https://open.spotify.com/artist/19lQadj43jplt3tzz36jLb) | [Sem Tempo](https://open.spotify.com/album/6uglHzHW6I7Byh9WXHH8bc) | 2:00 |
 | 20 | [Nevada \- Slowed + Reverb](https://open.spotify.com/track/3lDYfIb9QHWdHcIIlkJeue) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/6mLb7hgL16NhiRpTt09Fik) | 4:31 |
-| 21 | [CLEARED \- Remix \(Slowed\)](https://open.spotify.com/track/2G2zAIs50FJyvutTfZqkZj) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [CLEARED \- Remix \(Slowed / Sped Up\)](https://open.spotify.com/album/2c8DjbK7TaAUYkYWouikkH) | 2:47 |
-| 22 | [Mary On A Cross \- slowed + reverb](https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Mary On A Cross \(slowed + reverb\)](https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8) | 4:34 |
+| 21 | [Mary On A Cross \- slowed + reverb](https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Mary On A Cross \(slowed + reverb\)](https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8) | 4:34 |
+| 22 | [CLEARED \- Remix \(Slowed\)](https://open.spotify.com/track/2G2zAIs50FJyvutTfZqkZj) | [Lilithzplug](https://open.spotify.com/artist/2YVybYBfG1kXdtori5aUMo) | [CLEARED \- Remix \(Slowed / Sped Up\)](https://open.spotify.com/album/2c8DjbK7TaAUYkYWouikkH) | 2:47 |
 | 23 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6cii6vbf1gITzGEpDrc5BP) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/1UtDjgbJnpqtAhfeMrb4Qm) | 4:28 |
 | 24 | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ) | 3:12 |
 | 25 | [chess \- slowed](https://open.spotify.com/track/5mfhZc6AUbfoe6WqV33u4l) | [joyful](https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ) | [chess](https://open.spotify.com/album/35q2E7Iy0368OlYsPCA0ou) | 2:22 |

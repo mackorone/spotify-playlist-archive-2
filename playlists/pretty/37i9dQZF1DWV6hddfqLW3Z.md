@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,887 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,891 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 51 | [A Janela, Carolina](https://open.spotify.com/track/08ccPaMAsu7IYnbFDJxUoH) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Beleza\. Mas agora a gente faz o que com isso?](https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf) | 2:38 |
 | 52 | [Deixar](https://open.spotify.com/track/4dTzcw2ajjxSde0XFMoxXE) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Mostrando Os Dentes](https://open.spotify.com/album/5c0oHJioFpM2zSSJCvjay8) | 2:31 |
 | 53 | [A Paz \- Ao Vivo](https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Paz \(Ao Vivo\)](https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv) | 4:34 |
-| 54 | [Concrete Jungle](https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 3:32 |
-| 55 | [I Don't Want To Talk About It](https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK) | [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Na Medida do Impossível Ao Vivo No Inhotim \(álbum Comentado\)](https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB) | 3:27 |
+| 54 | [I Don't Want To Talk About It](https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK) | [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Na Medida do Impossível Ao Vivo No Inhotim \(álbum Comentado\)](https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB) | 3:27 |
+| 55 | [Concrete Jungle](https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 3:32 |
 | 56 | [Joia](https://open.spotify.com/track/5PJZbd8I7PrQDDDcehVU6M) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W), [Isaiah Sharkey](https://open.spotify.com/artist/0kp0swievR0bFFY3zRoETY), [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 3:16 |
 | 57 | [O Barquinho](https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Diogo Monzo](https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc), [Ricardo Bacelar](https://open.spotify.com/artist/0ydGW5O1ai60prNBXKWSbF) | [Nós e o Mar](https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU) | 3:53 |
-| 58 | [Logo agora](https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Logo agora](https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC) | 3:07 |
-| 59 | [Gostoso Demais \- Ao Vivo](https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Abraçar e Agradecer \(Ao Vivo\)](https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS) | 1:45 |
+| 58 | [Gostoso Demais \- Ao Vivo](https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Abraçar e Agradecer \(Ao Vivo\)](https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS) | 1:45 |
+| 59 | [Logo agora](https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Logo agora](https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC) | 3:07 |
 | 60 | [Minha Felicidade](https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Minha Felicidade](https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5) | 3:37 |
 | 61 | [When The Wind Blows \- Private Sessions](https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [When The Wind Blows \(Private Sessions\)](https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc) | 4:04 |
 | 62 | [Seville](https://open.spotify.com/track/6AnO2VhMq5G5bDPNMqCKJB) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Plays Great Songs](https://open.spotify.com/album/4f5CVT1TStkzO3vT54ODoG) | 2:14 |

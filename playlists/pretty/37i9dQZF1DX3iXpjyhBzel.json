@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isadora Pompeo",
-  "num_followers": 1222587,
+  "num_followers": 1222658,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-10-16 03:01:02",
       "album": {
+        "name": "Santo Pra Sempre (Ao Vivo no Mineir\u00e3o)",
+        "url": "https://open.spotify.com/album/3hji0VKEnN3DUK2Zydyr0i"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 409301,
+      "name": "Santo Pra Sempre - Ao Vivo no Mineir\u00e3o",
+      "url": "https://open.spotify.com/track/4fkunTJ8AogdrUHzEtzjCY"
+    },
+    {
+      "added_at": "2026-10-16 03:01:02",
+      "album": {
         "name": "Um Novo Dia (Ao Vivo)",
         "url": "https://open.spotify.com/album/2PgHfrGTk7oyN7XscjbFrE"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 360143,
       "name": "Um Novo Dia - Ao Vivo",
       "url": "https://open.spotify.com/track/3kpWSH8AGR9MkGinPA4XDJ"
-    },
-    {
-      "added_at": "2026-10-16 03:01:02",
-      "album": {
-        "name": "Santo Pra Sempre (Ao Vivo no Mineir\u00e3o)",
-        "url": "https://open.spotify.com/album/3hji0VKEnN3DUK2Zydyr0i"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 409301,
-      "name": "Santo Pra Sempre - Ao Vivo no Mineir\u00e3o",
-      "url": "https://open.spotify.com/track/4fkunTJ8AogdrUHzEtzjCY"
     },
     {
       "added_at": "2026-10-16 03:01:02",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-10-16 03:01:02",
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 332906,
-      "name": "Alian\u00e7a (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4cRSit9wzI1XfV0PB7GVSQ"
-    },
-    {
-      "added_at": "2026-10-16 03:01:02",
-      "album": {
         "name": "F\u00e9 Para O Imposs\u00edvel",
         "url": "https://open.spotify.com/album/4vmCARn8Gmc9Uodx8aaJGE"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 260506,
       "name": "F\u00e9 Para O Imposs\u00edvel",
       "url": "https://open.spotify.com/track/0OSnHMH7SVZT9CgA2DMu4x"
+    },
+    {
+      "added_at": "2026-10-16 03:01:02",
+      "album": {
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 332906,
+      "name": "Alian\u00e7a (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4cRSit9wzI1XfV0PB7GVSQ"
     },
     {
       "added_at": "2026-10-16 03:01:02",
@@ -779,30 +779,6 @@
     {
       "added_at": "2026-10-16 03:01:02",
       "album": {
-        "name": "Fiel \u00e9 Deus",
-        "url": "https://open.spotify.com/album/2DxTfnkSxyNWz6PfsQUZKb"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "L\u00e9o Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
-        }
-      ],
-      "duration_ms": 503584,
-      "name": "Fiel \u00e9 Deus",
-      "url": "https://open.spotify.com/track/1EzlXvFPrQ8d7Ar4L9kOSx"
-    },
-    {
-      "added_at": "2026-10-16 03:01:02",
-      "album": {
         "name": "Meu Mestre",
         "url": "https://open.spotify.com/album/0pgRI4TKSJmgYA8TMkM0fn"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 364104,
       "name": "Meu Mestre",
       "url": "https://open.spotify.com/track/04bK600xontKmxPDo5HYRb"
+    },
+    {
+      "added_at": "2026-10-16 03:01:02",
+      "album": {
+        "name": "Fiel \u00e9 Deus",
+        "url": "https://open.spotify.com/album/2DxTfnkSxyNWz6PfsQUZKb"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "L\u00e9o Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
+        }
+      ],
+      "duration_ms": 503584,
+      "name": "Fiel \u00e9 Deus",
+      "url": "https://open.spotify.com/track/1EzlXvFPrQ8d7Ar4L9kOSx"
     },
     {
       "added_at": "2026-10-16 03:01:02",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-10-16 03:01:02",
       "album": {
-        "name": "Quem \u00e9 Como Nosso Deus?",
-        "url": "https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 489116,
-      "name": "Quem \u00e9 Como Nosso Deus? - Ao Vivo",
-      "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
-    },
-    {
-      "added_at": "2026-10-16 03:01:02",
-      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 412747,
       "name": "Brasa Viva - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF"
+    },
+    {
+      "added_at": "2026-10-16 03:01:02",
+      "album": {
+        "name": "Quem \u00e9 Como Nosso Deus?",
+        "url": "https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 489116,
+      "name": "Quem \u00e9 Como Nosso Deus? - Ao Vivo",
+      "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
     },
     {
       "added_at": "2026-10-16 03:01:02",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2026-10-16 03:01:02",
       "album": {
+        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 431470,
+      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
+    },
+    {
+      "added_at": "2026-10-16 03:01:02",
+      "album": {
         "name": "Si\u00e3o / Derrama (Ao Vivo)",
         "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 508733,
       "name": "Si\u00e3o / Derrama - Ao Vivo",
       "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
-    },
-    {
-      "added_at": "2026-10-16 03:01:02",
-      "album": {
-        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 431470,
-      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
     },
     {
       "added_at": "2026-10-16 03:01:02",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-10-16 03:01:02",
       "album": {
-        "name": "Avenida do Arrependimento",
-        "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Esp\u00edrito Santo (Inhabit)",
-      "url": "https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b"
-    },
-    {
-      "added_at": "2026-10-16 03:01:02",
-      "album": {
         "name": "A Promessa Nasceu",
         "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 306103,
       "name": "A Promessa Nasceu",
       "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
+    },
+    {
+      "added_at": "2026-10-16 03:01:02",
+      "album": {
+        "name": "Avenida do Arrependimento",
+        "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Esp\u00edrito Santo (Inhabit)",
+      "url": "https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b"
     },
     {
       "added_at": "2026-10-16 03:01:02",

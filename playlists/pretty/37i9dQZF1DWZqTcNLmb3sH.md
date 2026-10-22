@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Brindavihari
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,581 likes - 101 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,596 likes - 101 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

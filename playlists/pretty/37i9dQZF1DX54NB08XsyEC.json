@@ -1,6 +1,6 @@
 {
   "description": "pov: minhas favs / Foto: Olivia Rodrigo, Chappel Roan",
-  "num_followers": 1059612,
+  "num_followers": 1059564,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-10-16 11:30:24",
       "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-10-16 11:30:24",
+      "album": {
         "name": "Mi Chico (Official - Jason Derulo x Melody)",
         "url": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2026-10-16 11:30:24",
-      "album": {
-        "name": "Housewife",
-        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
       "added_at": "2026-10-16 11:30:24",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-10-16 11:30:24",
       "album": {
-        "name": "A*POP",
-        "url": "https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 176876,
-      "name": "THAT GIRL",
-      "url": "https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF"
-    },
-    {
-      "added_at": "2026-10-16 11:30:24",
-      "album": {
         "name": "Mud",
         "url": "https://open.spotify.com/album/19cvoEE5d3pMkxLFL5TsAG"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 210665,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/0Rxs96nQeboThWCNzP4H0c"
+    },
+    {
+      "added_at": "2026-10-16 11:30:24",
+      "album": {
+        "name": "A*POP",
+        "url": "https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 176876,
+      "name": "THAT GIRL",
+      "url": "https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF"
     },
     {
       "added_at": "2026-10-16 11:30:24",
@@ -771,6 +771,34 @@
     {
       "added_at": "2026-10-16 11:30:24",
       "album": {
+        "name": "Hootie Frutti (PEDRO SAMPAIO Remix)",
+        "url": "https://open.spotify.com/album/4MzwQyp0LxL2Q27vBnq1Wg"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Clementaum",
+          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Hootie Frutti - PEDRO SAMPAIO Remix",
+      "url": "https://open.spotify.com/track/19rZJZMOK4c9CaocPSHqqC"
+    },
+    {
+      "added_at": "2026-10-16 11:30:24",
+      "album": {
         "name": "She\u2019s the Best",
         "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
       },
@@ -799,34 +827,6 @@
       "duration_ms": 175555,
       "name": "Watch It Burn",
       "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
-    },
-    {
-      "added_at": "2026-10-16 11:30:24",
-      "album": {
-        "name": "Hootie Frutti (PEDRO SAMPAIO Remix)",
-        "url": "https://open.spotify.com/album/4MzwQyp0LxL2Q27vBnq1Wg"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Clementaum",
-          "url": "https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Hootie Frutti - PEDRO SAMPAIO Remix",
-      "url": "https://open.spotify.com/track/19rZJZMOK4c9CaocPSHqqC"
     },
     {
       "added_at": "2026-10-16 11:30:24",
@@ -907,8 +907,8 @@
     {
       "added_at": "2026-10-16 11:30:24",
       "album": {
-        "name": "LUX (Complete Works)",
-        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 170533,
-      "name": "Focu 'Ranni",
-      "url": "https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH"
+      "duration_ms": 162533,
+      "name": "Sauvignon Blanc",
+      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
     },
     {
       "added_at": "2026-10-16 11:30:24",
@@ -987,8 +987,8 @@
     {
       "added_at": "2026-10-16 11:30:24",
       "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+        "name": "LUX (Complete Works)",
+        "url": "https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 162533,
-      "name": "Sauvignon Blanc",
-      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
+      "duration_ms": 170533,
+      "name": "Focu 'Ranni",
+      "url": "https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH"
     },
     {
       "added_at": "2026-10-16 11:30:24",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-10-16 11:30:24",
       "album": {
+        "name": "after the sun goes down",
+        "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "nah",
+      "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
+    },
+    {
+      "added_at": "2026-10-16 11:30:24",
+      "album": {
         "name": "BODY TYPE",
         "url": "https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J"
       },
@@ -1223,38 +1239,6 @@
     {
       "added_at": "2026-10-16 11:30:24",
       "album": {
-        "name": "after the sun goes down",
-        "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "nah",
-      "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
-    },
-    {
-      "added_at": "2026-10-16 11:30:24",
-      "album": {
-        "name": "Look at My Life",
-        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Look at My Life",
-      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
-    },
-    {
-      "added_at": "2026-10-16 11:30:24",
-      "album": {
         "name": "Little More Time",
         "url": "https://open.spotify.com/album/4iRdV4c5sAh3oMl5MTYv9t"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 128000,
       "name": "Remedied",
       "url": "https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj"
+    },
+    {
+      "added_at": "2026-10-16 11:30:24",
+      "album": {
+        "name": "Look at My Life",
+        "url": "https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Look at My Life",
+      "url": "https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB"
     },
     {
       "added_at": "2026-10-16 11:30:24",

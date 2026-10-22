@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,138 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,137 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 46 | [Flashy \(feat\. Kim Petras\)](https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:45 |
 | 47 | [Three Point Stance \(feat\. City Girls & Megan Thee Stallion\)](https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Three Point Stance \(feat\. City Girls & Megan Thee Stallion\)](https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly) | 3:22 |
 | 48 | [Sweet Tooth](https://open.spotify.com/track/5z3gOVUk7km3eNJM8M57tv) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:23 |
-| 49 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 |
+| 49 | [4 Da Moment \(feat\. City Girls\)](https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:22 |
 | 50 | [Static \(feat\. Lil Durk\)](https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:47 |
 
-Snapshot ID: `atQMAAAAAABkq7/ZywVTBb3RAdkM55uN`
+Snapshot ID: `atVdgAAAAADBRZ+pKF5Zm+RcUvmY0ooZ`

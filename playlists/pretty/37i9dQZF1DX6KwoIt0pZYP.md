@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,820 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,839 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 50 | [the space between us](https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [the space between us](https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx) | 4:13 |
 | 51 | [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 |
 | 52 | [THRIFTED](https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [THRIFTED](https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq) | 2:41 |
-| 53 | [Run Back To You](https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Run Back To You](https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza) | 3:08 |
-| 54 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
+| 53 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
+| 54 | [Run Back To You](https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Run Back To You](https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza) | 3:08 |
 | 55 | [Zero Pressure](https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [BINIverse](https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5) | 2:50 |
 | 56 | [Sexy Goodbye](https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sexy Goodbye](https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK) | 3:26 |
 | 57 | [what can i do?](https://open.spotify.com/track/3ds8Ve7yEkWcwHSnVlmqHV) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj), [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [TYPHOON](https://open.spotify.com/album/53SL5EIuJdUG7EBF6u2rdv) | 3:16 |
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 75 | [Tell Me The Name](https://open.spotify.com/track/2hFpbQpaRHlZhtrYlXIltT) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Tell Me The Name](https://open.spotify.com/album/770EzwgJTG2oM0U6pX1B11) | 3:05 |
 | 76 | [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 |
 | 77 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
-| 78 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
-| 79 | [INDIGO \(with u\)](https://open.spotify.com/track/1X9BHY12mpgKejetEtMYrx) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [KOLORCOASTER](https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a) | 2:46 |
-| 80 | [dishonesty](https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dishonesty](https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6) | 2:59 |
-| 81 | [my love my love my love](https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [my love my love my love](https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY) | 2:38 |
+| 78 | [INDIGO \(with u\)](https://open.spotify.com/track/1X9BHY12mpgKejetEtMYrx) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [KOLORCOASTER](https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a) | 2:46 |
+| 79 | [dishonesty](https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dishonesty](https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6) | 2:59 |
+| 80 | [my love my love my love](https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [my love my love my love](https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY) | 2:38 |
+| 81 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
 | 82 | [Almost over you](https://open.spotify.com/track/2F6OiWpyqFAqRLmVoqGlkB) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:24 |
 | 83 | [I WANT YOU](https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [PAGTATAG!](https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF) | 3:43 |
 | 84 | [don't matter](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 94 | [someone will love you better \- Zack Tabudlo Version](https://open.spotify.com/track/5vYv4cboyu9XJvk2CQPuyh) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [someone will love you better \(Zack Tabudlo Version\)](https://open.spotify.com/album/2A8Iv2GjSKkotZyH4CHZpE) | 2:48 |
 | 95 | [kiss me thru the phone](https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E) | [CLUB BOYBND](https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN) | [kiss me thru the phone](https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P) | 1:57 |
 | 96 | [would you be mine?](https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [would you be mine?](https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp) | 3:10 |
-| 97 | [Questionnaire](https://open.spotify.com/track/4pdvCKJILikUUDeepfxuvU) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Questionnaire](https://open.spotify.com/album/6LfZ7mDW1xHAwh6T1WbUr4) | 2:12 |
+| 97 | [Home](https://open.spotify.com/track/7eSD3OvRfbCrkEIN3VYFv7) | [niko rain](https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [Home](https://open.spotify.com/album/6G8uxObNHG7b09p8EUVEFZ) | 2:10 |
 | 98 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 |
-| 99 | [Home](https://open.spotify.com/track/7eSD3OvRfbCrkEIN3VYFv7) | [niko rain](https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [Home](https://open.spotify.com/album/6G8uxObNHG7b09p8EUVEFZ) | 2:10 |
-| 100 | [Infatuated](https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Infatuated](https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd) | 3:46 |
+| 99 | [Infatuated](https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Infatuated](https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd) | 3:46 |
+| 100 | [Questionnaire](https://open.spotify.com/track/4pdvCKJILikUUDeepfxuvU) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Questionnaire](https://open.spotify.com/album/6LfZ7mDW1xHAwh6T1WbUr4) | 2:12 |
 
 Snapshot ID: `AAAAAKir5x1AEbW8CELWO7aJyvMCTIst`

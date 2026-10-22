@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 
 > Timeless easy listening from the sixties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,108 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,105 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 60 | [My Girl](https://open.spotify.com/track/6RrXd9Hph4hYR4bf3dbM6H) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S) | 2:45 |
 | 61 | [Chapel Of Love](https://open.spotify.com/track/0SMRck5oZi9hc16L6FuRF6) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:47 |
 | 62 | [Somethin' Stupid](https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [The World We Knew](https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK) | 2:42 |
-| 63 | [Will You Love Me Tomorrow](https://open.spotify.com/track/7oYTK1C0Clz6MZiETSpFTS) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Tonight's The Night](https://open.spotify.com/album/1kZelGeyflOF29raK8dsYa) | 2:42 |
+| 63 | [You've Really Got A Hold On Me](https://open.spotify.com/track/107Vckb6BgV7NI36jxWQJM) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [The Fabulous Miracles](https://open.spotify.com/album/5UKZIGXuxNMnGGFhkllgoz) | 2:57 |
 | 64 | [Love Me Do \- Mono / Remastered](https://open.spotify.com/track/5JT7CoUSGNk7mMNkHMQjqr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh) | 2:20 |
-| 65 | [You've Really Got A Hold On Me](https://open.spotify.com/track/107Vckb6BgV7NI36jxWQJM) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [The Fabulous Miracles](https://open.spotify.com/album/5UKZIGXuxNMnGGFhkllgoz) | 2:57 |
+| 65 | [Will You Love Me Tomorrow](https://open.spotify.com/track/7oYTK1C0Clz6MZiETSpFTS) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Tonight's The Night](https://open.spotify.com/album/1kZelGeyflOF29raK8dsYa) | 2:42 |
 | 66 | [At Last \- Single Version](https://open.spotify.com/track/0CmIALzGn4vHIHJG4n3Q4z) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/2pBhXw3Hi1hBf8FpAtE101) | 3:02 |
 | 67 | [Iko Iko](https://open.spotify.com/track/2xZPpUIcajScKX99PH0fD9) | [The Dixie Cups](https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772) | [Chapel of Love](https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin) | 2:02 |
 | 68 | [Where Did Our Love Go \- Stereo Version](https://open.spotify.com/track/6yz8hKpO3s2byra8Et3w9x) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go: 40th Anniversary Edition](https://open.spotify.com/album/3W2FhBKieLAcrS4e9SHtr6) | 2:31 |

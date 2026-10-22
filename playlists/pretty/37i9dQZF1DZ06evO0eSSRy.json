@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAAfGewTaIhdryqLT7JJIEur",
+  "snapshot_id": "atVdgAAAAADngBplclqRLcSwqq27zM4h",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fixed It All",
-        "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
       },
       "artists": [
         {
@@ -100,25 +100,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 208974,
-      "name": "Journey of the Prairie King",
-      "url": "https://open.spotify.com/track/4iNY9h9jOd0lEhXHfYY4Cv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You're in both dreams (and you're scared)",
-        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/6nH7HTesM0q7KFtFISslhC"
+      "duration_ms": 218288,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/2FYYzRt1ucC50W6uqjS5Ha"
     },
     {
       "added_at": null,
@@ -139,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
       },
       "artists": [
         {
@@ -148,9 +132,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 218288,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/2FYYzRt1ucC50W6uqjS5Ha"
+      "duration_ms": 215986,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/6nH7HTesM0q7KFtFISslhC"
     },
     {
       "added_at": null,
@@ -164,105 +148,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 197915,
-      "name": "Archives",
-      "url": "https://open.spotify.com/track/0q4wHE2zStn68DoAifJchG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You're in both dreams (and you're scared)",
-        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 181771,
-      "name": "Amanita",
-      "url": "https://open.spotify.com/track/22MOx6iBZP7vE2jXx8l8tF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RITA",
-        "url": "https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 415965,
-      "name": "Always Assuming",
-      "url": "https://open.spotify.com/track/7g7dzfLIPgeVX9ccPKn9eF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Know",
-        "url": "https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 233965,
-      "name": "Know",
-      "url": "https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fixed It All",
-        "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 261301,
-      "name": "Fixed It All",
-      "url": "https://open.spotify.com/track/4StSImJMmm9Lq9FqaVWhiG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You're in both dreams (and you're scared)",
-        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 276424,
-      "name": "Sequoia",
-      "url": "https://open.spotify.com/track/6VPhuhPsapwZIU2EP6QceW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RITA",
-        "url": "https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 213232,
-      "name": "Strawberry",
-      "url": "https://open.spotify.com/track/26dJcg1z7uYU67eFr2xN4w"
+      "duration_ms": 208974,
+      "name": "Journey of the Prairie King",
+      "url": "https://open.spotify.com/track/4iNY9h9jOd0lEhXHfYY4Cv"
     },
     {
       "added_at": null,
@@ -283,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fixed It All",
-        "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
+        "name": "RITA",
+        "url": "https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww"
       },
       "artists": [
         {
@@ -292,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 218334,
-      "name": "Water Doctor",
-      "url": "https://open.spotify.com/track/0dXhvuHICapK14lW6huwO3"
+      "duration_ms": 415965,
+      "name": "Always Assuming",
+      "url": "https://open.spotify.com/track/7g7dzfLIPgeVX9ccPKn9eF"
     },
     {
       "added_at": null,
@@ -308,9 +196,41 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 244767,
-      "name": "Houses of American Style",
-      "url": "https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P"
+      "duration_ms": 181771,
+      "name": "Amanita",
+      "url": "https://open.spotify.com/track/22MOx6iBZP7vE2jXx8l8tF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 197915,
+      "name": "Archives",
+      "url": "https://open.spotify.com/track/0q4wHE2zStn68DoAifJchG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Know",
+        "url": "https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 233965,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ"
     },
     {
       "added_at": null,
@@ -331,6 +251,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 276424,
+      "name": "Sequoia",
+      "url": "https://open.spotify.com/track/6VPhuhPsapwZIU2EP6QceW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 261301,
+      "name": "Fixed It All",
+      "url": "https://open.spotify.com/track/4StSImJMmm9Lq9FqaVWhiG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boy",
         "url": "https://open.spotify.com/album/66JcnvXctFOhPeNeYH6gTh"
       },
@@ -347,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fixed It All",
-        "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
+        "name": "RITA",
+        "url": "https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww"
       },
       "artists": [
         {
@@ -356,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 234065,
-      "name": "412",
-      "url": "https://open.spotify.com/track/1nx2dR3JFSU89eCXITguU5"
+      "duration_ms": 213232,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/26dJcg1z7uYU67eFr2xN4w"
     },
     {
       "added_at": null,
@@ -372,15 +324,15 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 243612,
-      "name": "It Only Bothers You",
-      "url": "https://open.spotify.com/track/5AJps1PW2mre1T6W2OvLq2"
+      "duration_ms": 244767,
+      "name": "Houses of American Style",
+      "url": "https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P"
     },
     {
       "added_at": null,
       "album": {
-        "name": "RITA",
-        "url": "https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww"
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
       },
       "artists": [
         {
@@ -388,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 259087,
-      "name": "Hurry Slowly",
-      "url": "https://open.spotify.com/track/7plPrRlkbzd47xyWjDn6Xv"
+      "duration_ms": 218334,
+      "name": "Water Doctor",
+      "url": "https://open.spotify.com/track/0dXhvuHICapK14lW6huwO3"
     },
     {
       "added_at": null,
@@ -411,6 +363,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "RITA",
+        "url": "https://open.spotify.com/album/79DWOYQBxAFzcSh7pVNvww"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 259087,
+      "name": "Hurry Slowly",
+      "url": "https://open.spotify.com/track/7plPrRlkbzd47xyWjDn6Xv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 243612,
+      "name": "It Only Bothers You",
+      "url": "https://open.spotify.com/track/5AJps1PW2mre1T6W2OvLq2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fixed It All",
         "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
       },
@@ -420,9 +404,25 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 241920,
-      "name": "Mike + Susan",
-      "url": "https://open.spotify.com/track/14iRhVzDOc9EKuRIbzsczQ"
+      "duration_ms": 234065,
+      "name": "412",
+      "url": "https://open.spotify.com/track/1nx2dR3JFSU89eCXITguU5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 211029,
+      "name": "Then People Forget",
+      "url": "https://open.spotify.com/track/3brIRujiNsAw7xXNJt9V9I"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG"
       },
       "artists": [
         {
@@ -468,25 +468,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 211029,
-      "name": "Then People Forget",
-      "url": "https://open.spotify.com/track/3brIRujiNsAw7xXNJt9V9I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Semi Finalists",
-        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 180736,
-      "name": "7-57",
-      "url": "https://open.spotify.com/track/0mARjWxyuauPTUBC1G8s9f"
+      "duration_ms": 241920,
+      "name": "Mike + Susan",
+      "url": "https://open.spotify.com/track/14iRhVzDOc9EKuRIbzsczQ"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 229824,
       "name": "Start out with Differences",
       "url": "https://open.spotify.com/track/036ME3TU5NT3XCLdYxpGMA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Semi Finalists",
+        "url": "https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 180736,
+      "name": "7-57",
+      "url": "https://open.spotify.com/track/0mARjWxyuauPTUBC1G8s9f"
     },
     {
       "added_at": null,

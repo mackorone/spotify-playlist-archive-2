@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 236730,
+  "num_followers": 236735,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAACI+gxv6/9IjW8XG3UIwAVj",
+  "snapshot_id": "atVdgAAAAADoSwZnM2U0jTVx3QeGetPL",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man",
-        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "It's Only Love Doing Its Thing",
-      "url": "https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back On The Block",
         "url": "https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 401066,
       "name": "The Secret Garden (Sweet Seduction Suite)",
       "url": "https://open.spotify.com/track/3PZW66625MiyEmZaat7tce"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "It's Only Love Doing Its Thing",
+      "url": "https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Another Way To Say I Love You",
-        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 302493,
-      "name": "Heavenly, That's What You Are To Me",
-      "url": "https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beware!",
         "url": "https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 261133,
       "name": "I Won't Settle For Less Than The Best (For You Baby)",
       "url": "https://open.spotify.com/track/10rAFshE2jcncyB0a6f618"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Another Way To Say I Love You",
+        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 302493,
+      "name": "Heavenly, That's What You Are To Me",
+      "url": "https://open.spotify.com/track/2Zkfn9RlK67gTpiUZcDIvQ"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "I'm Qualified To Satisfy You - Edit",
-      "url": "https://open.spotify.com/track/2zG5Yo3FFSjdsDuLzejIZe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barry White's Greatest Hits",
         "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 194173,
       "name": "Honey Please, Can't Ya See",
       "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "I'm Qualified To Satisfy You - Edit",
+      "url": "https://open.spotify.com/track/2zG5Yo3FFSjdsDuLzejIZe"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Love To Sing The Songs I Sing",
-        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "I Love To Sing The Songs I Sing",
-      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Icon Is Love",
         "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 639600,
       "name": "Whatever We Had, We Had",
       "url": "https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Love To Sing The Songs I Sing",
+        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "I Love To Sing The Songs I Sing",
+      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Got So Much To Give",
-        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 497426,
-      "name": "I've Got So Much To Give",
-      "url": "https://open.spotify.com/track/1p5jtupWpNUuHB9iUenTrx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barry White - The Collection",
         "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 273466,
       "name": "Sho' You Right",
       "url": "https://open.spotify.com/track/5dRFOwbyqjX1ZqwzBP0iDr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Got So Much To Give",
+        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 497426,
+      "name": "I've Got So Much To Give",
+      "url": "https://open.spotify.com/track/1p5jtupWpNUuHB9iUenTrx"
     },
     {
       "added_at": null,

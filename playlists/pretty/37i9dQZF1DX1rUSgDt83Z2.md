@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,978 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,985 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 19 | [Bang Dat Ik Je Stem Vergeet](https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:54 |
 | 20 | [Dit Is Zo'n Dag](https://open.spotify.com/track/3fXTq5dSIKlEmXzOoxhJ3B) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Dit Is Zo'n Dag](https://open.spotify.com/album/5FO2SsTD9zwJPXGbMwsN0H) | 3:27 |
 | 21 | [Toen Ik Je Zag](https://open.spotify.com/track/5AM4yh4nq6shKIJqyhBvSI) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Beste Zangers 2024 \(Claude\)](https://open.spotify.com/album/7cFYcG7GHXLS29svnOSWw7) | 3:36 |
-| 22 | [File Lied](https://open.spotify.com/track/1Pzpr4nl7apUt2pXMSQr3E) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Niets Doen](https://open.spotify.com/album/2k2s5a6JlV2olXRitmux9S) | 3:03 |
-| 23 | [Nergens Liever](https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nergens Liever](https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB) | 3:15 |
-| 24 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 |
-| 25 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
-| 26 | [Ik Zal Er Zijn](https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Ik Zal Er Zijn](https://open.spotify.com/album/4RmhGsZpq5TfSTwuQen0ES) | 3:16 |
+| 22 | [Nergens Liever](https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nergens Liever](https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB) | 3:15 |
+| 23 | [File Lied](https://open.spotify.com/track/1Pzpr4nl7apUt2pXMSQr3E) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Niets Doen](https://open.spotify.com/album/2k2s5a6JlV2olXRitmux9S) | 3:03 |
+| 24 | [Ik Zal Er Zijn](https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Ik Zal Er Zijn](https://open.spotify.com/album/4RmhGsZpq5TfSTwuQen0ES) | 3:16 |
+| 25 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 |
+| 26 | [Rode Draad](https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Rode Draad](https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH) | 2:56 |
 | 27 | [Zo Stil](https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH) | [Jan Dulles](https://open.spotify.com/artist/0BAXn1g8tr7qMwiVuOwEAw), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(KiKa aflevering\)](https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP) | 3:54 |
 | 28 | [We Leven Nu](https://open.spotify.com/track/6iwZINFNsfDcfKZFarAsTn) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [We Leven Nu](https://open.spotify.com/album/5C3EV0dEs7nycg5r0zTxhS) | 3:10 |
 | 29 | [Droom Een Beetje Meer](https://open.spotify.com/track/31bSYd3Vn2OVmAysLXm3yy) | [Guus Hulshof](https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl) | [Droom Een Beetje Meer](https://open.spotify.com/album/5IU8dhrYtcOteiLfPw7HFt) | 3:25 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 36 | [Onzeker Van Liefde](https://open.spotify.com/track/3zCjfxeF8o3D6tEEcnnDsJ) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Hardop](https://open.spotify.com/album/0prlgkkZJtQ7rfl0pxGsz5) | 3:11 |
 | 37 | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6) | 4:10 |
 | 38 | [Vergeef Me](https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Vergeef Me](https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN) | 3:02 |
-| 39 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 |
-| 40 | [Oktober](https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Oktober](https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW) | 3:21 |
+| 39 | [Oktober](https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Oktober](https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW) | 3:21 |
+| 40 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 |
 | 41 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 |
 | 42 | [Alles Wat Ik Zoek \- Radio Edit](https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Wat Ik Zoek \(Radio Edit\)](https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt) | 2:48 |
 | 43 | [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 |

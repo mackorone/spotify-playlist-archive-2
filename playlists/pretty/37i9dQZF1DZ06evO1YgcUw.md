@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 
 > This is The Beach Boys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,762 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,759 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 19 | [Surfin' Safari \- Mono/Remastered 2001](https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' Safari \(Remastered\)](https://open.spotify.com/album/6gcXDGhzGcCBY4dLzEgNFB) | 2:06 |
 | 20 | [Then I Kissed Her \- Remastered 2001](https://open.spotify.com/track/3Ez3Pk5Xe6GmocOVZ6dEks) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:17 |
 | 21 | [In My Room \- Remastered](https://open.spotify.com/track/62fX8EW16l8St2yL8rMer9) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:14 |
-| 22 | [All I Wanna Do \- Remastered 2009](https://open.spotify.com/track/7y9O8sJmuX7DvmyrR7h3PY) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:36 |
-| 23 | [Meant For You \- Remastered 2001](https://open.spotify.com/track/2h5cpnAVMC4kOOLF7NqmIr) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Friends \(Remastered\)](https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS) | 0:39 |
+| 22 | [Meant For You \- Remastered 2001](https://open.spotify.com/track/2h5cpnAVMC4kOOLF7NqmIr) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Friends \(Remastered\)](https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS) | 0:39 |
+| 23 | [All I Wanna Do \- Remastered 2009](https://open.spotify.com/track/7y9O8sJmuX7DvmyrR7h3PY) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sunflower](https://open.spotify.com/album/6oUeivCrkGIQwM9uSy0N1P) | 2:36 |
 | 24 | [That's Not Me](https://open.spotify.com/track/0j0y0KnYpbNSiJ0YBwRx9E) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:31 |
 | 25 | [Surfer Girl \- Remastered 2001](https://open.spotify.com/track/1AJ5F0FMTC3yFU3ocjy1gE) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:28 |
 | 26 | [Do It Again \- Remastered 2001](https://open.spotify.com/track/0vhCcrN8ULryq1KuEEYlm2) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [20/20 \(Remastered\)](https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YgcUw.md) - [plain]
 | 49 | [Catch A Wave \- Stereo/Remastered 2001](https://open.spotify.com/track/6huvhTE5Z5gXnduG3G3nHh) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Remastered\)](https://open.spotify.com/album/1AhsZr98dNCfhO1XC4Ht7C) | 2:10 |
 | 50 | [Getcha Back](https://open.spotify.com/track/0gRFT4DkEpiYuSc2KlebWF) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Very Best Of The Beach Boys: Sounds Of Summer](https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw) | 2:59 |
 
-Snapshot ID: `atQMAAAAAADnBOVHh0TS7i4mLHnONb9z`
+Snapshot ID: `atVdgAAAAAB9uF/KmEZNsEHJtEZ3FD1F`

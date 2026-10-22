@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 178 songs - 12 hr 19 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 3 likes - 179 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 109 | [You Could Be Happy](https://open.spotify.com/track/7zkLcJktbodeRntovGdXQK) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/5PYva5C1cdwx2PAsOgZBHN) | 3:01 |
 | 110 | [A Day In The Life \- Remastered 2009](https://open.spotify.com/track/0hKRSZhUGEhKU6aNSPBACZ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered 2009\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 5:37 |
 | 111 | [Seize The Day](https://open.spotify.com/track/7GceECVybAMFcn9C7H0Za9) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:20 |
-| 112 | [Roze \(Euston Station\)](https://open.spotify.com/track/1NPIaOo7Ahopf4LuVyEb3o) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I Am Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 3:36 |
+| 112 | [Roze \(Euston Station\)](https://open.spotify.com/track/1NPIaOo7Ahopf4LuVyEb3o) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 3:36 |
 | 113 | [Exit Music \(For A Film\)](https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:27 |
 | 114 | [Little Wing](https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:25 |
 | 115 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
@@ -186,5 +186,6 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 176 | [Soon](https://open.spotify.com/track/4bYtMO7J56StUfIEEAQSPH) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [NEST](https://open.spotify.com/album/0j0hwWbswXy4yEFdnT34If) | 3:16 |
 | 177 | [Between Two Points](https://open.spotify.com/track/1xQ4BNf4nXPWtBFdJPknYJ) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8), [Romany Gilmour](https://open.spotify.com/artist/3zWa7Jgzsv63hObXVRTRJD) | [Luck and Strange](https://open.spotify.com/album/2j2jOwKnbrXv5UpEU5fWrn) | 5:46 |
 | 178 | [Japan](https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:14 |
+| 179 | [Little Earl](https://open.spotify.com/track/3BcTsjEYRe0mzkatVfDqo1) | [The Delines](https://open.spotify.com/artist/0SRMBXTBnSm9Jmy24gqggg) | [The Sea Drift](https://open.spotify.com/album/5oA73lOwAKHlSlCM4gemet) | 4:16 |
 
-Snapshot ID: `AAABM6QsmnpJ+ztkHIAX6Dq3mUw6yxDN`
+Snapshot ID: `AAABNP4LLeEiCVIoQ1CvxGyzfV2qacmQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Ryan Fidelis e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,968 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,936 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 18 | [É Demais](https://open.spotify.com/track/1KpEmpouOXgxavYYmYtXaZ) | [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm) | [É Demais](https://open.spotify.com/album/3w0QlSP1zXOfnWItpSyTb6) | 3:17 |
 | 19 | [Gin Com Suco De Laranja](https://open.spotify.com/track/5SUAeZK4t0cgV4xf7ZK6QM) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:42 |
 | 20 | [FOME](https://open.spotify.com/track/0jpNOSKOUgnYCbRUQxW6Re) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 3:42 |
-| 21 | [Doce, Dengosa, Polida](https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Tudo Que Eu Sinto Faz Barulho](https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5) | 3:25 |
-| 22 | [BRENDA](https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [DougBeats](https://open.spotify.com/artist/3HyxA4BGfaxNsT9aFf9D5w) | [SPAM](https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59) | 2:49 |
+| 21 | [BRENDA](https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [DougBeats](https://open.spotify.com/artist/3HyxA4BGfaxNsT9aFf9D5w) | [SPAM](https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59) | 2:49 |
+| 22 | [Doce, Dengosa, Polida](https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Tudo Que Eu Sinto Faz Barulho](https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5) | 3:25 |
 | 23 | [Number One](https://open.spotify.com/track/72han37EfWVjoOVJbHKdfe) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 2:32 |
 | 24 | [Sem Sentimento](https://open.spotify.com/track/37J7T56pGfgnQQMlAqdrGt) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Sem Sentimento](https://open.spotify.com/album/6cKl9wlnEI5KTwdBtW3FwG) | 2:12 |
 | 25 | [Yeezy Slide "REMIX"](https://open.spotify.com/track/3BdG3O9MCiJEWTJDIevhXi) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [MC Marlon PH](https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ), [ANTCONSTANTINO](https://open.spotify.com/artist/0ncGcxcuCgFZ9vIMEMYQ30), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Yeezy Slide "REMIX"](https://open.spotify.com/album/61SPqXJSxF2WozUy1KLRrD) | 2:18 |

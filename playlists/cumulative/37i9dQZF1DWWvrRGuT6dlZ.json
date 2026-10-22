@@ -8251,6 +8251,24 @@
     },
     {
       "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/6QuiMTtFeLfAfDupS5tt9R"
+      },
+      "artists": [
+        {
+          "name": "CLARY",
+          "url": "https://open.spotify.com/artist/0cvCbPXZzELIrIYQl2yxLm"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/1b7CMm3dhPsqDHZ9Q5AFe1"
+    },
+    {
+      "album": {
         "name": "Ghost of You",
         "url": "https://open.spotify.com/album/4TaLcDr2AsycQ73dC2CXsG"
       },
@@ -11162,6 +11180,24 @@
       "duration_ms": 288923,
       "name": "In Absence",
       "url": "https://open.spotify.com/track/1htBVSeU62QojxuN6IWiS4"
+    },
+    {
+      "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/6AGMvv1uu2dRataE6VYYKz"
+      },
+      "artists": [
+        {
+          "name": "Harin",
+          "url": "https://open.spotify.com/artist/1k5u6Rxiv1jHA7LqPrCrW1"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186502,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/6ac2oWjdsZKKjq5Rf4a9cC"
     },
     {
       "album": {

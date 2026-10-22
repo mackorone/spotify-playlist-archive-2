@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,497 likes - 100 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,655 likes - 100 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 41 | [Atlas](https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC) | [Benny Bernstein](https://open.spotify.com/artist/4iJdqHLAdAbYvCrB5hDnHM) | [Atlas](https://open.spotify.com/album/1TY41tXfNuiL4incf5pFLO) | 2:45 |
 | 42 | [Indian Nights](https://open.spotify.com/track/0tqngYytTrZi44CRIWnVz7) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [OM Yoga Mix](https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P) | 11:26 |
 | 43 | [Spiritual Touch](https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Re\-Creating](https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky) | 4:17 |
-| 44 | [Insitarament](https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Sleeping Traveller](https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT) | 4:00 |
+| 44 | [Sacred Breath](https://open.spotify.com/track/2nwknls2umYQSh3flvnA4m) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Sacred Breath](https://open.spotify.com/album/0jk0S1srvlCB4yuYCA7813) | 3:12 |
 | 45 | [In A River](https://open.spotify.com/track/0vrnDo7jKOp6TjTyDNKcWp) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [David Peter Vestin](https://open.spotify.com/artist/0088INLrI8Cc537xq1N3p3) | [In A River](https://open.spotify.com/album/0tlVbRpHRsfiIKwLUHnt8a) | 2:01 |
-| 46 | [Sacred Breath](https://open.spotify.com/track/2nwknls2umYQSh3flvnA4m) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Sacred Breath](https://open.spotify.com/album/0jk0S1srvlCB4yuYCA7813) | 3:12 |
+| 46 | [Insitarament](https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Sleeping Traveller](https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT) | 4:00 |
 | 47 | [...There You Are!](https://open.spotify.com/track/37bWNUTzhM1DvYyOEXY0rC) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [E T](https://open.spotify.com/album/1NSrJbZlKyM30VqMvMucwd) | 3:46 |
 | 48 | [Grounded](https://open.spotify.com/track/5K7yKfdKni76tWOckNwVlo) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Breathing Space](https://open.spotify.com/album/2kgOi231E4SfAtAurK4Bmb) | 9:31 |
 | 49 | [Soft Native Flute](https://open.spotify.com/track/3Zt5D4DF4mSM149SowYRml) | [Selene Noor](https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi) | [Indian Equanimous Repose](https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW) | 3:41 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 57 | [Leviathan](https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ) | [Dean Delaux](https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0) | [Leviathan](https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz) | 2:24 |
 | 58 | [Life of Birds](https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB) | [Oceanmere](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 3:51 |
 | 59 | [Meditation: Soft Mindfulness](https://open.spotify.com/track/56zX2qETrgZUS3SqOnN6m6) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Jupiter Grains](https://open.spotify.com/album/5Jo6hMYywVJZQKBpCrrrHt) | 2:45 |
-| 60 | [Silently Falling](https://open.spotify.com/track/1uH3TovSPAvbpVaXjNGpjL) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Silently Falling](https://open.spotify.com/album/0gRoVemj1NS2g96DClsXYX) | 2:36 |
-| 61 | [Bedside Angels](https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Bedside Angels](https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq) | 2:14 |
+| 60 | [Bedside Angels](https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Bedside Angels](https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq) | 2:14 |
+| 61 | [Silently Falling](https://open.spotify.com/track/1uH3TovSPAvbpVaXjNGpjL) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Silently Falling](https://open.spotify.com/album/0gRoVemj1NS2g96DClsXYX) | 2:36 |
 | 62 | [Spheres Of The Angels](https://open.spotify.com/track/6ioQi5nd8gxD2RE3iZqik1) | [Shajan](https://open.spotify.com/artist/6gNMvkr78Olrxyw9tFa3Lv) | [The Healing Touch \- Music for Reiki and Meditation, Vol\. 2](https://open.spotify.com/album/69jtcMWOhK48aAPC52ZRwp) | 15:03 |
 | 63 | [Waves Music Relax](https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Sleep Music With Ambient Nature](https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM) | 2:28 |
 | 64 | [Healing](https://open.spotify.com/track/7H8JMDinIdUPYLWKBgcLJT) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Yoga Music](https://open.spotify.com/album/13MrYs2p8gjLMnUMDbuipS) | 5:35 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 70 | [Inner Calmness](https://open.spotify.com/track/2TFig1plWWZlWuDSM639SK) | [Arijit Ghoshal](https://open.spotify.com/artist/0pEb6D4xs90JTZIYe8QT86) | [Relaxation and Meditation in Bollywood](https://open.spotify.com/album/3WHIiM2LNNdUsrY7mLyknm) | 6:46 |
 | 71 | [Hands of Love](https://open.spotify.com/track/5thzPpq4bX8deK5qYzcbx5) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Wellness Meditation Relaxation: Musical Images, Vol\. 100](https://open.spotify.com/album/31baJpqQCjXr2tG7Bo8WrJ) | 3:35 |
 | 72 | [A Peaceful Music](https://open.spotify.com/track/2kLEJnmA1rYMHyhClUL1jE) | [Mitchell Solaris](https://open.spotify.com/artist/1478i00xqrQalHvEdqWIrU) | [Relaxation \- Ambient Music, Relaxing Sounds of Nature for Soothing Mindfulness Meditation](https://open.spotify.com/album/4ez05ASxVwqPm5O0xkcEFv) | 5:17 |
-| 73 | [Calm Meditation](https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I) | [Memory Helper](https://open.spotify.com/artist/3HFsBn76RDKKstmqrKcY6h) | [Zen Music for Massage: Tranquility & Total Relax](https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA) | 6:53 |
-| 74 | [Nature's Bed](https://open.spotify.com/track/5O0F8J3nnm418xPwFlCPpG) | [Soft Sky](https://open.spotify.com/artist/2S1pbxlltIuIDrRypd7zWi) | [Nature's Bed](https://open.spotify.com/album/60aObkIVavhW6QdXVevRT1) | 2:11 |
+| 73 | [Nature's Bed](https://open.spotify.com/track/5O0F8J3nnm418xPwFlCPpG) | [Soft Sky](https://open.spotify.com/artist/2S1pbxlltIuIDrRypd7zWi) | [Nature's Bed](https://open.spotify.com/album/60aObkIVavhW6QdXVevRT1) | 2:11 |
+| 74 | [Calm Meditation](https://open.spotify.com/track/5VA0QFtk8DwwJ8isLZmv4I) | [Memory Helper](https://open.spotify.com/artist/3HFsBn76RDKKstmqrKcY6h) | [Zen Music for Massage: Tranquility & Total Relax](https://open.spotify.com/album/6cIqo6O7PyK0u2ojZG9FsA) | 6:53 |
 | 75 | [Attention Caller](https://open.spotify.com/track/5mgbGh47Sm1s8swwlGsSbW) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Hyper Focus](https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am) | 3:23 |
 | 76 | [Deep Meditation](https://open.spotify.com/track/0vMGRC7yBCCt6MRgN79Wa0) | [Savasana](https://open.spotify.com/artist/071HcfBGJsWCrggabfaC5D) | [Mindfulness and Relaxation](https://open.spotify.com/album/2N2hHr7r3EYQ6UGxJtIHwU) | 2:09 |
 | 77 | [Poornam](https://open.spotify.com/track/7JRb8YV4LFbRv0ULSw1Qjs) | [All For Soul](https://open.spotify.com/artist/5HdX7qBCsiTrzfHZdsW9kM), [Varun Rao](https://open.spotify.com/artist/2hybncPpUQFPqcSK3ePny9) | [Trinity](https://open.spotify.com/album/4ugL0TPWzwDwjDbFFtPCGo) | 5:04 |

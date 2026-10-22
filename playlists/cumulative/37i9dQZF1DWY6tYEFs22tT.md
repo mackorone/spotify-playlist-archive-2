@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Central](https://open.spotify.com/playlist/37i9dQZF1DWY6tYEFs22tT)
 
-> Today's Hip\-Hop with Gunna, Quavo, Drake, offset, Cardi B, and Travis Scott,.
+> Today's Hip\-Hop with Gunna, Quavo, Drake, Offset, Cardi B, and Travis Scott.
 
 1,672 songs - 3 day 10 hr 37 min
 

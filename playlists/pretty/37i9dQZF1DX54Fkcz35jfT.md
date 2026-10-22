@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/  Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: MAN WITH A MISSION
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,318 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,323 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,26 +66,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 56 | [Atmosphere](https://open.spotify.com/track/5zedOynNXLH5aUHPM5zSv7) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [The Unforgettables E.P.](https://open.spotify.com/album/0wfPZAnAc4hs0pIxXtS8pM) | 2:48 |
 | 57 | [Inside of Me](https://open.spotify.com/track/20Y2bZDq6iSvWgykeyShXD) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Inside Of Me](https://open.spotify.com/album/3qhR0fpKLkCSGWn63xBXHE) | 3:13 |
 | 58 | [DUA･RHYTHM](https://open.spotify.com/track/4gTa2HNlJEfGr9q1s2PsFD) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [DUA･RHYTHM](https://open.spotify.com/album/4Cfgh8X6COsvtyirAF5iBF) | 3:33 |
-| 59 | [SLAY!!](https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [SLAY!!](https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO) | 3:12 |
+| 59 | [ズーキッド｜Zookid](https://open.spotify.com/track/2MMFKAKnmYQL8KwGbcuidD) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [ズーキッド｜Zookid](https://open.spotify.com/album/0maaspUDFaviSfLXawwMrS) | 3:01 |
 | 60 | [O･TA･KUラブリー伝説](https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [O･TA･KUラブリー伝説](https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb) | 3:12 |
-| 61 | [VOICE](https://open.spotify.com/track/1wGkwIKe9VGWOmeqrPrB7C) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [VOICE](https://open.spotify.com/album/3gthCm0KeAHGYjSwGlbOfr) | 3:23 |
-| 62 | [ズーキッド｜Zookid](https://open.spotify.com/track/2MMFKAKnmYQL8KwGbcuidD) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [ズーキッド｜Zookid](https://open.spotify.com/album/0maaspUDFaviSfLXawwMrS) | 3:01 |
+| 61 | [SLAY!!](https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [SLAY!!](https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO) | 3:12 |
+| 62 | [VOICE](https://open.spotify.com/track/1wGkwIKe9VGWOmeqrPrB7C) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [VOICE](https://open.spotify.com/album/3gthCm0KeAHGYjSwGlbOfr) | 3:23 |
 | 63 | [EPIPHANY](https://open.spotify.com/track/0lnyoAKhIfozU8aEWV3IOR) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:16 |
 | 64 | [Ready to Rock](https://open.spotify.com/track/6RmznWIj65w4YPTcfVfmpt) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Ready to Rock](https://open.spotify.com/album/70YvxjBBrnc812iiPAzZ05) | 3:26 |
 | 65 | [東京ミッドナイト \- Tokyo Midnight](https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [The Crown](https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca) | 3:48 |
 | 66 | [I'll be there](https://open.spotify.com/track/0lfcOko3BkbcOOQvIJVUG0) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [I'll be there](https://open.spotify.com/album/2XV1p7LViusogXzUiB338X) | 4:38 |
 | 67 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
 | 68 | [GIZA](https://open.spotify.com/track/4VtKZP3vOFd0hHKCRzLTfX) | [METALVERSE](https://open.spotify.com/artist/4FZB47paQH8eOatPhgG7pp) | [GIZA](https://open.spotify.com/album/0CnyDtoegFUUEm9uZbcMb6) | 3:13 |
-| 69 | [CHASING SHADOWS](https://open.spotify.com/track/2KzPlIJdel4ObXJBDqcFOk) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [CHASING SHADOWS](https://open.spotify.com/album/3DU6iVhXE99QOPKpmTW4RQ) | 3:47 |
-| 70 | [Loo% Who%](https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Lost God of SASORI](https://open.spotify.com/album/5S1kW1jHBlg22tckMUY5Z1) | 4:08 |
+| 69 | [Loo% Who%](https://open.spotify.com/track/6g4Is4isktqRSyE0v4AbDd) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Lost God of SASORI](https://open.spotify.com/album/5S1kW1jHBlg22tckMUY5Z1) | 4:08 |
+| 70 | [CHASING SHADOWS](https://open.spotify.com/track/2KzPlIJdel4ObXJBDqcFOk) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [CHASING SHADOWS](https://open.spotify.com/album/3DU6iVhXE99QOPKpmTW4RQ) | 3:47 |
 | 71 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 |
-| 72 | [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 |
-| 73 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 |
+| 72 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 |
+| 73 | [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 |
 | 74 | [EVER](https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS) | 4:02 |
 | 75 | [Matatabi](https://open.spotify.com/track/5ESsDYmXOxYf2kgTJ4ANW4) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Matatabi](https://open.spotify.com/album/0J6JjcNYWHJ3mPrMAodZGG) | 2:48 |
 | 76 | [SUPER NATURAL HIGH \- feat\. 唾奇](https://open.spotify.com/track/7H2G4gNAop4IEmLSJJP6L7) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1) | [PALEDUSK](https://open.spotify.com/album/60WzIOT8v9ww4FeKfndWwI) | 3:18 |
-| 77 | [ENERGETIC](https://open.spotify.com/track/136RFhFtC1lDlKgXw7eXM3) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [ENERGETIC](https://open.spotify.com/album/6xa5EHn3K16kLv3oYtKP4N) | 3:22 |
-| 78 | [Straight Up \(feat\. Kj\)](https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [Straight Up \(feat\. Kj\)](https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5) | 4:12 |
+| 77 | [Straight Up \(feat\. Kj\)](https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [Straight Up \(feat\. Kj\)](https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5) | 4:12 |
+| 78 | [ENERGETIC](https://open.spotify.com/track/136RFhFtC1lDlKgXw7eXM3) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [ENERGETIC](https://open.spotify.com/album/6xa5EHn3K16kLv3oYtKP4N) | 3:22 |
 | 79 | [天誅 & Mercy](https://open.spotify.com/track/4yPQdCSNYZq7xjWZpjY6mc) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [DISASTERPIECE](https://open.spotify.com/album/6KjTMgxqXazmTzIpzmQ4Dk) | 3:45 |
 | 80 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
 | 81 | [OMIKUJI](https://open.spotify.com/track/0s0v24Z8OFvhXWTWDZmRzN) | [METALVERSE](https://open.spotify.com/artist/4FZB47paQH8eOatPhgG7pp) | [OMIKUJI](https://open.spotify.com/album/4kpZcMq9Zjaw0t7e1YxULn) | 3:13 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 96 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 |
 | 97 | [THE LAST ROCKSTARS \- PARIS MIX](https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k) | [The Last Rockstars](https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz), [YOSHIKI](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm) | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor) | 4:45 |
 | 98 | [Future's near by \[Re:\]](https://open.spotify.com/track/5WeEZHGAHwz9mIBC7NwFlf) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [Future's near by \[Re:\]](https://open.spotify.com/album/02bdX40wHJdnkjC0YvjQ2b) | 4:20 |
-| 99 | [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 |
-| 100 | [TAKE OVER](https://open.spotify.com/track/5gHvc4KOAOSeeoM4ZfbrS3) | [T.N.T](https://open.spotify.com/artist/7hPdXB6soJMZG24vdbfPOC) | [TAKE OVER](https://open.spotify.com/album/3LXkmiNkDO6bigwAyLx3I6) | 3:46 |
+| 99 | [HOLIC](https://open.spotify.com/track/5AzGFUZHD7jK9aCqlcOapQ) | [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l) | [HOLIC](https://open.spotify.com/album/4VY2gcCfXQoQ6aXgZnDrWg) | 4:30 |
+| 100 | [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 |
 
 Snapshot ID: `AAAAAONnsOYbtpkBgSGJkuT65lkAmqSj`

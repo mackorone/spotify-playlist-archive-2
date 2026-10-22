@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Braxton Keith",
-  "num_followers": 398386,
+  "num_followers": 398341,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
+        "name": "A Cat in the Rain",
+        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 317226,
+      "name": "A Cat in the Rain",
+      "url": "https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/7gei0BhwKRgS4MhsO4RqLh"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 228557,
       "name": "Like She Does",
       "url": "https://open.spotify.com/track/7vLzS4QoDV2wP9zfvdhVgd"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
-        "name": "A Cat in the Rain",
-        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 317226,
-      "name": "A Cat in the Rain",
-      "url": "https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
+        "name": "A Cat in the Rain",
+        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "Chipping Mill",
+      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
         "name": "Tumbleweed",
         "url": "https://open.spotify.com/album/2ekPtfEo5Pno1k4eiybcty"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 274576,
       "name": "How Much Beer",
       "url": "https://open.spotify.com/track/4lCfLElvRrGN4HVGg2oH5E"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
-        "name": "A Cat in the Rain",
-        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "Chipping Mill",
-      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Fan of You",
-        "url": "https://open.spotify.com/album/2EKBJst1lNOakc8jbaSBEv"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 221816,
-      "name": "Fan of You",
-      "url": "https://open.spotify.com/track/2fqB6LSwNdGV1JQC3f8esT"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Never Again One More Time",
         "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 178284,
       "name": "Never Again One More Time",
       "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Fan of You",
+        "url": "https://open.spotify.com/album/2EKBJst1lNOakc8jbaSBEv"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "duration_ms": 221816,
+      "name": "Fan of You",
+      "url": "https://open.spotify.com/track/2fqB6LSwNdGV1JQC3f8esT"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Hit The Hay Runnin'",
-        "url": "https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 184271,
-      "name": "Hit The Hay Runnin'",
-      "url": "https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Carry Me Home",
         "url": "https://open.spotify.com/album/4wR24Dlp1ULiwjTqR32qVx"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 212346,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/2uGhFYgEsIowLnRqf3Z78T"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Hit The Hay Runnin'",
+        "url": "https://open.spotify.com/album/4WRiI5GDDiVZyqgMklIqHN"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 184271,
+      "name": "Hit The Hay Runnin'",
+      "url": "https://open.spotify.com/track/6jubVjNr6RcoZcDy6jeVQv"
     },
     {
       "added_at": "2026-08-07 04:01:44",

@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free \u2764\ufe0f\u200d\ud83e\ude79",
-  "num_followers": 854480,
+  "num_followers": 854503,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -215,18 +215,22 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "Cruise",
-        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
       "artists": [
         {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
         }
       ],
-      "duration_ms": 175708,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
+      "duration_ms": 158760,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -315,18 +319,18 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "SET ME FREE",
-        "url": "https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW"
+        "name": "Cruise",
+        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
       },
       "artists": [
         {
-          "name": "Mattilo",
-          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
         }
       ],
-      "duration_ms": 178330,
-      "name": "SET ME FREE",
-      "url": "https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB"
+      "duration_ms": 175708,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -403,22 +407,18 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
+        "name": "SET ME FREE",
+        "url": "https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Nate Traveller",
-          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+          "name": "Mattilo",
+          "url": "https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC"
         }
       ],
-      "duration_ms": 158760,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+      "duration_ms": 178330,
+      "name": "SET ME FREE",
+      "url": "https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        },
-        {
-          "name": "kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 200637,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
-    },
-    {
-      "added_at": "2026-09-25 17:35:07",
-      "album": {
         "name": "BLINK",
         "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 237938,
       "name": "Keep Love Waiting",
       "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
+    },
+    {
+      "added_at": "2026-09-25 17:35:07",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 200637,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "LEAVE IT ALL BEHIND",
-        "url": "https://open.spotify.com/album/6Y9HX9UwK5M6pwICoHkTNA"
-      },
-      "artists": [
-        {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "LEAVE IT ALL BEHIND",
-      "url": "https://open.spotify.com/track/6UTUFQdLHBHKpvKDGqFwMq"
-    },
-    {
-      "added_at": "2026-09-25 17:35:07",
-      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/5egHfU7PLDcFLI12sI9IVk"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 178605,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/70cc5nSWcRNCnsRt9A3b9Z"
+    },
+    {
+      "added_at": "2026-09-25 17:35:07",
+      "album": {
+        "name": "LEAVE IT ALL BEHIND",
+        "url": "https://open.spotify.com/album/6Y9HX9UwK5M6pwICoHkTNA"
+      },
+      "artists": [
+        {
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "LEAVE IT ALL BEHIND",
+      "url": "https://open.spotify.com/track/6UTUFQdLHBHKpvKDGqFwMq"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 238506,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
-    },
-    {
-      "added_at": "2026-09-25 17:35:07",
-      "album": {
         "name": "Love Me For Real",
         "url": "https://open.spotify.com/album/0wcZU2ve89Yx4mndvcku0B"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 317142,
       "name": "Love Me For Real",
       "url": "https://open.spotify.com/track/1c6ccgNZU2oULnXDilF5gm"
+    },
+    {
+      "added_at": "2026-09-25 17:35:07",
+      "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 238506,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -1935,22 +1935,6 @@
       "duration_ms": 167222,
       "name": "Problemsss",
       "url": "https://open.spotify.com/track/6xkrfrsmz7GWkIbmPd7owG"
-    },
-    {
-      "added_at": "2026-09-25 17:35:07",
-      "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/61Xufs5spPrIrBfwkDmwwm"
-      },
-      "artists": [
-        {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
-        }
-      ],
-      "duration_ms": 134558,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/5vvC8D7laU6Ns8i6V6mk51"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -1979,6 +1963,22 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/61Xufs5spPrIrBfwkDmwwm"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "duration_ms": 134558,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/5vvC8D7laU6Ns8i6V6mk51"
+    },
+    {
+      "added_at": "2026-09-25 17:35:07",
+      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/7vzSIDKeliMyC4akCCEsVy"
       },
@@ -2003,30 +2003,6 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "PRESSURE",
-        "url": "https://open.spotify.com/album/5R6Hhxu8qohIsu7w3nJDfo"
-      },
-      "artists": [
-        {
-          "name": "Jhay Rivas",
-          "url": "https://open.spotify.com/artist/4hQHXyqZ6QlqPC76XmT2kH"
-        },
-        {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
-        },
-        {
-          "name": "DNC",
-          "url": "https://open.spotify.com/artist/2VU4MNFUjGbcvOQWp7JRSQ"
-        }
-      ],
-      "duration_ms": 205970,
-      "name": "PRESSURE",
-      "url": "https://open.spotify.com/track/6pJ8wNE7qPzbpBM0ARW90m"
-    },
-    {
-      "added_at": "2026-09-25 17:35:07",
-      "album": {
         "name": "You And I",
         "url": "https://open.spotify.com/album/5BJM2v2xqOMuy15C319TGT"
       },
@@ -2047,6 +2023,30 @@
       "duration_ms": 211428,
       "name": "You And I",
       "url": "https://open.spotify.com/track/56Q8dn5LGmBRdmXSpi7vX8"
+    },
+    {
+      "added_at": "2026-09-25 17:35:07",
+      "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/5R6Hhxu8qohIsu7w3nJDfo"
+      },
+      "artists": [
+        {
+          "name": "Jhay Rivas",
+          "url": "https://open.spotify.com/artist/4hQHXyqZ6QlqPC76XmT2kH"
+        },
+        {
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        },
+        {
+          "name": "DNC",
+          "url": "https://open.spotify.com/artist/2VU4MNFUjGbcvOQWp7JRSQ"
+        }
+      ],
+      "duration_ms": 205970,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/6pJ8wNE7qPzbpBM0ARW90m"
     },
     {
       "added_at": "2026-09-25 17:35:07",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2026-09-25 17:35:07",
       "album": {
-        "name": "ifidiewouldyoucry",
-        "url": "https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "ifidiewouldyoucry",
-      "url": "https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC"
-    },
-    {
-      "added_at": "2026-09-25 17:35:07",
-      "album": {
         "name": "THINKIN' BOUT U",
         "url": "https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 167111,
       "name": "THINKIN' BOUT U",
       "url": "https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl"
+    },
+    {
+      "added_at": "2026-09-25 17:35:07",
+      "album": {
+        "name": "ifidiewouldyoucry",
+        "url": "https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "ifidiewouldyoucry",
+      "url": "https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC"
     },
     {
       "added_at": "2026-09-25 17:35:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/25eSdLvxjvwfev36rQY3xX.md) - [plain]
 
 > 
 
-[Sam Milligan](https://open.spotify.com/user/1264157291) - 1 like - 90 songs - 5 hr 40 min
+[Sam Milligan](https://open.spotify.com/user/1264157291) - 2 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 25938,
+  "num_followers": 25941,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAC7NqfawPQsE68DoZn6YxAo",
+  "snapshot_id": "atVdgAAAAAAJ1w6uCbKTf+8nZvS16Igt",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ringer From The Top End",
-        "url": "https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Ringer From The Top End",
-      "url": "https://open.spotify.com/track/4MFQc7u01Kpy4GB48SUsDV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Looking Forward Looking Back",
         "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 192533,
       "name": "Looking Forward Looking Back",
       "url": "https://open.spotify.com/track/3yW1XsTXzSorz1AuMwKFUC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ringer From The Top End",
+        "url": "https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Ringer From The Top End",
+      "url": "https://open.spotify.com/track/4MFQc7u01Kpy4GB48SUsDV"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 184866,
-      "name": "The Biggest Disappointment",
-      "url": "https://open.spotify.com/track/7BXwT7paPEOEGgG8Qj18r2"
+      "duration_ms": 203200,
+      "name": "Three Rivers Hotel",
+      "url": "https://open.spotify.com/track/6etnW9TP1vFYrUP90dgUA9"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
       "duration_ms": 169666,
       "name": "Highway Fever - 1992 Digital Remaster",
       "url": "https://open.spotify.com/track/3nSNkGNsZtI7CrVKxK5GCg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Never Was At All",
-      "url": "https://open.spotify.com/track/1rqr7YSNxRfHLbotx9lpYP"
     },
     {
       "added_at": null,
@@ -339,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Never Was At All",
+      "url": "https://open.spotify.com/track/1rqr7YSNxRfHLbotx9lpYP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No. 50 - The Golden Anniversary Album",
         "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
       },
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 203200,
-      "name": "Three Rivers Hotel",
-      "url": "https://open.spotify.com/track/6etnW9TP1vFYrUP90dgUA9"
+      "duration_ms": 184866,
+      "name": "The Biggest Disappointment",
+      "url": "https://open.spotify.com/track/7BXwT7paPEOEGgG8Qj18r2"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+        "name": "'99",
+        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 463800,
-      "name": "The Man From Snowy River",
-      "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
+      "duration_ms": 183760,
+      "name": "Abalinga Mail",
+      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "'99",
-        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
       },
       "artists": [
         {
@@ -644,29 +644,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 183760,
-      "name": "Abalinga Mail",
-      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
-      },
-      "artists": [
-        {
-          "name": "Troy Cassar-Daley",
-          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
-        },
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "The Biggest Disappointment",
-      "url": "https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd"
+      "duration_ms": 463800,
+      "name": "The Man From Snowy River",
+      "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
     },
     {
       "added_at": null,
@@ -691,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Very Best Of Slim Dusty (Remastered)",
+        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Plains Of Peppimenarti - 1998 Remaster",
+      "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Looking Forward Looking Back",
         "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
@@ -707,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of Slim Dusty (Remastered)",
-        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
       },
       "artists": [
+        {
+          "name": "Troy Cassar-Daley",
+          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
+        },
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 193533,
-      "name": "Plains Of Peppimenarti - 1998 Remaster",
-      "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
+      "duration_ms": 193493,
+      "name": "The Biggest Disappointment",
+      "url": "https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slim Dusty... Live Into The 90's",
-        "url": "https://open.spotify.com/album/65OyUkNXHW2BncXXQ4AqeB"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 92000,
-      "name": "I'm Going Back Again To Yarrawonga - Live",
-      "url": "https://open.spotify.com/track/58nl5MF8brCEqggrFbv9nL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sittin' On 80 (Remastered)",
         "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 174333,
       "name": "Give Me Room",
       "url": "https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slim Dusty... Live Into The 90's",
+        "url": "https://open.spotify.com/album/65OyUkNXHW2BncXXQ4AqeB"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 92000,
+      "name": "I'm Going Back Again To Yarrawonga - Live",
+      "url": "https://open.spotify.com/track/58nl5MF8brCEqggrFbv9nL"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Old Time Country Halls",
-      "url": "https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sittin' On 80 (Remastered)",
         "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 151840,
       "name": "No Good Truckin' Man",
       "url": "https://open.spotify.com/track/3wOZmnApmX1c7ytbvjYelE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Old Time Country Halls",
+      "url": "https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L"
     }
   ],
   "unique_name": "This Is Slim Dusty",

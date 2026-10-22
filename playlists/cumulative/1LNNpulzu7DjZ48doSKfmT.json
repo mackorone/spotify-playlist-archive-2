@@ -5547,6 +5547,24 @@
     },
     {
       "album": {
+        "name": "DOIN BETTER",
+        "url": "https://open.spotify.com/album/45bsUcyVXWCUNtYSGuIVqg"
+      },
+      "artists": [
+        {
+          "name": "808 Corari",
+          "url": "https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135409,
+      "name": "DOIN BETTER",
+      "url": "https://open.spotify.com/track/1LBehFbQVQFEttXb6eaNTg"
+    },
+    {
+      "album": {
         "name": "Domenica mattina",
         "url": "https://open.spotify.com/album/2bZjKSpBeuBPvVm3BbHzLX"
       },
@@ -16915,6 +16933,28 @@
     },
     {
       "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/1l2VwfXWL66ueegxf4KpTn"
+      },
+      "artists": [
+        {
+          "name": "Loco Mic",
+          "url": "https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN"
+        },
+        {
+          "name": "Ghetto-T.",
+          "url": "https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194999,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/7iQ7QJL8FxybDfDx7JJd0N"
+    },
+    {
+      "album": {
         "name": "Right Here Next to Me",
         "url": "https://open.spotify.com/album/3NiiFAeV4k97sqSTnNWIlZ"
       },
@@ -21186,6 +21226,24 @@
       "duration_ms": 266635,
       "name": "Tripping",
       "url": "https://open.spotify.com/track/7dX84JjRtlN2M7dVWHFlei"
+    },
+    {
+      "album": {
+        "name": "Trou \u00e0 rats",
+        "url": "https://open.spotify.com/album/2LKZVUYfn2bhRLadPiOa5z"
+      },
+      "artists": [
+        {
+          "name": "Adanah",
+          "url": "https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144096,
+      "name": "Trou \u00e0 rats",
+      "url": "https://open.spotify.com/track/3NgBSvEHicK5YbWVJm5SpT"
     },
     {
       "album": {

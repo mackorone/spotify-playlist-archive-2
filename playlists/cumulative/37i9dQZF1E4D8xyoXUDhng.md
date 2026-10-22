@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Vickie Winans, Amber Bullock, Mikael Karlsson and more
+> With Mikael Karlsson, Rev\. Milton Brunson, Donald Lawrence & The Tri\-City Singers and more
 
 2,040 songs - 6 day 14 hr 6 min
 

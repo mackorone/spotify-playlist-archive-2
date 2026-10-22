@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1980s.",
-  "num_followers": 1480705,
+  "num_followers": 1480961,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 363400,
       "name": "Wanna Be Startin' Somethin'",
       "url": "https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 233270,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Bad 25th Anniversary",
         "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 257766,
       "name": "Smooth Criminal - 2012 Remaster",
       "url": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 233270,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Branigan",
-        "url": "https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 289853,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Make It Big",
         "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 302693,
       "name": "Everything She Wants",
       "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Branigan",
+        "url": "https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        }
+      ],
+      "duration_ms": 289853,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
+        "name": "True (Special Edition)",
+        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 290720,
+      "name": "Gold - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
         "name": "Tell It to My Heart (Expanded Edition)",
         "url": "https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 215040,
       "name": "Pump Up The Jam - Edit",
       "url": "https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
-        "name": "True (Special Edition)",
-        "url": "https://open.spotify.com/album/2iGwIUZh0tNkhOtqoo812B"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 290720,
-      "name": "Gold - 2003 Remaster",
-      "url": "https://open.spotify.com/track/0Z9UkcT1pnrmLciUJPcMMS"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Rhythm Of The Night",
-        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
-      },
-      "artists": [
-        {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Rhythm Of The Night",
-      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Another Step",
         "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 255220,
       "name": "You Keep Me Hangin On",
       "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Rhythm Of The Night",
+        "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Rhythm Of The Night",
+      "url": "https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Word Up",
-        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
-      },
-      "artists": [
-        {
-          "name": "Cameo",
-          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Word Up",
-      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "How Could It Be",
         "url": "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 253293,
       "name": "Party All the Time",
       "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Word Up",
+        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
+      },
+      "artists": [
+        {
+          "name": "Cameo",
+          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Word Up",
+      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "On The Radio: Greatest Hits Volumes I & II",
-        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 241506,
-      "name": "On The Radio",
-      "url": "https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Sabrina",
         "url": "https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 234812,
       "name": "Boys - Summertime Love",
       "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "On The Radio: Greatest Hits Volumes I & II",
+        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 241506,
+      "name": "On The Radio",
+      "url": "https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Girl You Know It's True - The Best Of Milli Vanilli",
-        "url": "https://open.spotify.com/album/67QUZa2DQaBdeQvPQGfSkL"
-      },
-      "artists": [
-        {
-          "name": "Milli Vanilli",
-          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Girl You Know It's True",
-      "url": "https://open.spotify.com/track/0C7dYeCLF6ukChtW64UNge"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/741fWPbQLcaYT0uVL32KCS"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 287360,
       "name": "Everybody Have Fun Tonight",
       "url": "https://open.spotify.com/track/6qBSGvyUzqNQv8XtnzCr9n"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Girl You Know It's True - The Best Of Milli Vanilli",
+        "url": "https://open.spotify.com/album/67QUZa2DQaBdeQvPQGfSkL"
+      },
+      "artists": [
+        {
+          "name": "Milli Vanilli",
+          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Girl You Know It's True",
+      "url": "https://open.spotify.com/track/0C7dYeCLF6ukChtW64UNge"
     },
     {
       "added_at": "2024-07-09 02:34:23",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2024-07-09 02:34:23",
       "album": {
-        "name": "Conscience",
-        "url": "https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W"
-      },
-      "artists": [
-        {
-          "name": "Womack & Womack",
-          "url": "https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ"
-        }
-      ],
-      "duration_ms": 303666,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/34zDwAdksPXYzGINUT0oW7"
-    },
-    {
-      "added_at": "2024-07-09 02:34:23",
-      "album": {
         "name": "A Night To Remember",
         "url": "https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 251506,
       "name": "I Drove All Night",
       "url": "https://open.spotify.com/track/3J0AoQhAufniMrznCRJASD"
+    },
+    {
+      "added_at": "2024-07-09 02:34:23",
+      "album": {
+        "name": "Conscience",
+        "url": "https://open.spotify.com/album/1Ekl9JY2EBWZ2xzR2Iog7W"
+      },
+      "artists": [
+        {
+          "name": "Womack & Womack",
+          "url": "https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ"
+        }
+      ],
+      "duration_ms": 303666,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/34zDwAdksPXYzGINUT0oW7"
     },
     {
       "added_at": "2024-07-09 02:34:23",

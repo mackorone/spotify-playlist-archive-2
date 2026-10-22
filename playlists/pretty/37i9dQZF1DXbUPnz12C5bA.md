@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,393 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,479 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 46 | [El Papá de los Amores](https://open.spotify.com/track/1oeEXETl1l4PoJiJnH6rzL) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [El Papá De Los Amores](https://open.spotify.com/album/4bDVM51RU9kfd1mKv8kMKl) | 4:00 |
 | 47 | [Que No Me Faltes Tu](https://open.spotify.com/track/1lMWIocgDgDRBmYQnoTi44) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [30 Mejores](https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7) | 4:43 |
 | 48 | [Entregame Tu Amor](https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn) | 5:17 |
-| 49 | [Amigo el Corazón](https://open.spotify.com/track/4OxGIqQxKDzDtzy8qf6I7W) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq) | 4:56 |
-| 50 | [Qué Sera de Mí](https://open.spotify.com/track/2ER4g5nBnn2ZE7s9nRRWxB) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco..\. Vive](https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r) | 4:37 |
+| 49 | [No Me Vuelvo a Ilusionar](https://open.spotify.com/track/0HpriIc5XXt9rqFFeVn3UR) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 4:56 |
+| 50 | [Me Sobran las Palabras](https://open.spotify.com/track/3jPpZ5ikg40XJ8g6rjjUvJ) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W), [Dubán Bayona](https://open.spotify.com/artist/6jGkJmr4vmIFRPIRy7zsF1) | [Marca Registrada del Binomio de Oro](https://open.spotify.com/album/00vITF8SZst4YVAbF8nqOq) | 4:30 |
 
 Snapshot ID: `AAAAAFWXvSdyV+OLwOd8V7iQj0UIJDYU`

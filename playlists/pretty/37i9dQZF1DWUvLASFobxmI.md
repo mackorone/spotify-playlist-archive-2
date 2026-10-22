@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Equipo HC en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,341 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,337 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 36 | [Pero Me Dañaste](https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Pero Me Dañaste](https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ) | 3:34 |
 | 37 | [Desvélate conmigo](https://open.spotify.com/track/0OjdgenD6rcxEt7quScAyc) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Desde El Ensayo Vol.1](https://open.spotify.com/album/020HUblc2diWXTsCKgPrBn) | 3:02 |
 | 38 | [La Península](https://open.spotify.com/track/45j5pajkmVDnUw05tIRGfJ) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [La Península](https://open.spotify.com/album/5CkfhaeczdgCQ7qRUya2Ld) | 2:43 |
-| 39 | [El Rubio](https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [Las Filtradas](https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez) | 2:27 |
-| 40 | [Tu Culpa](https://open.spotify.com/track/71fEdsATrEMneN7WtPHOKm) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Tu Culpa](https://open.spotify.com/album/5xjSsGHh00cq4aUQ4oEUg6) | 2:54 |
-| 41 | [UNO PARA EL OTRO](https://open.spotify.com/track/2NS5P8iCp2eMLRH3lj6UGa) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [UNO PARA EL OTRO](https://open.spotify.com/album/2HWYoPP10xV4KD68P4T6kw) | 3:02 |
+| 39 | [UNO PARA EL OTRO](https://open.spotify.com/track/2NS5P8iCp2eMLRH3lj6UGa) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [UNO PARA EL OTRO](https://open.spotify.com/album/2HWYoPP10xV4KD68P4T6kw) | 3:02 |
+| 40 | [El Rubio](https://open.spotify.com/track/3BlTS0Qs6N2jfyAGFBdWai) | [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [Las Filtradas](https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez) | 2:27 |
+| 41 | [Tu Culpa](https://open.spotify.com/track/71fEdsATrEMneN7WtPHOKm) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Tu Culpa](https://open.spotify.com/album/5xjSsGHh00cq4aUQ4oEUg6) | 2:54 |
 | 42 | [DR\. STRANGE](https://open.spotify.com/track/5SINT50A0nx7NiFbMDcvW8) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [DR\. STRANGE](https://open.spotify.com/album/67WRjyo3MxIFQ1iAd2tPrz) | 2:43 |
 | 43 | [Me Consulto El Padrino](https://open.spotify.com/track/0iKoe405X8gV7p2dht5s9D) | [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [Me Consulto El Padrino](https://open.spotify.com/album/2osy2NXRGldVelrNmv0GcH) | 2:55 |
 | 44 | [De México Soy](https://open.spotify.com/track/6DGPN25C9jioipnxlahZ3J) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [De México Soy](https://open.spotify.com/album/3TlUK5ukcTDdHXan3QEIQp) | 2:42 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 81 | [Cuestión Que Quieras](https://open.spotify.com/track/1uuwJy5EJ0U9a4KF8o6TPT) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Cuestión Que Quieras](https://open.spotify.com/album/5ufEErsLzCtHoSxFzyINTm) | 1:57 |
 | 82 | [Vibra Perfecta](https://open.spotify.com/track/51Y0UQOWtVxTNYSu5ipSdZ) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Entre Besos](https://open.spotify.com/album/3HdKGjDeY3MQZLairAgdPV) | 3:07 |
 | 83 | [El Plan Perfecto](https://open.spotify.com/track/4FpDTTWtPoLy7OpoWE128H) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [El Plan Perfecto](https://open.spotify.com/album/2gl7Zc325H3DISVMSj9R39) | 3:19 |
-| 84 | [Al Revés](https://open.spotify.com/track/5nDwxEmqGQRNcIlOw343Ad) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ) | [Al Revés](https://open.spotify.com/album/0zyHusfuKqERuKNvarKN8d) | 3:02 |
-| 85 | [La Madrugada](https://open.spotify.com/track/5vngLJOgpzKNJCY9pSnBMi) | [Grupo Exclusivo](https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k) | [La Madrugada](https://open.spotify.com/album/5hp6ytgiR4jmIPDcCsVd4n) | 4:51 |
-| 86 | [KBRON](https://open.spotify.com/track/1ggjoOO0Strq7nEV2GCdpK) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe) | [CHULA ELLA 59](https://open.spotify.com/album/2hG9jA3GrO9myvWUmVfdty) | 2:24 |
+| 84 | [KBRON](https://open.spotify.com/track/1ggjoOO0Strq7nEV2GCdpK) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe) | [CHULA ELLA 59](https://open.spotify.com/album/2hG9jA3GrO9myvWUmVfdty) | 2:24 |
+| 85 | [Al Revés](https://open.spotify.com/track/5nDwxEmqGQRNcIlOw343Ad) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ) | [Al Revés](https://open.spotify.com/album/0zyHusfuKqERuKNvarKN8d) | 3:02 |
+| 86 | [La Madrugada](https://open.spotify.com/track/5vngLJOgpzKNJCY9pSnBMi) | [Grupo Exclusivo](https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k) | [La Madrugada](https://open.spotify.com/album/5hp6ytgiR4jmIPDcCsVd4n) | 4:51 |
 | 87 | [No Te Da Vergüenza](https://open.spotify.com/track/36rjhojiHUzrOCAk3A8Zbc) | [Grupo Anexxado](https://open.spotify.com/artist/5U4SQ3MLlKmphCGAcD1Ls9), [Adrian Acosta](https://open.spotify.com/artist/5TnoIUCQETZ3Fagr9q6X9P) | [No Te Da Vergüenza](https://open.spotify.com/album/53UsLp0OiG9YUnHYOfBJHm) | 3:04 |
 | 88 | [Soy Yo](https://open.spotify.com/track/6NyYYcxBRWqQgKKEVnCLWm) | [Conjunto Relincho](https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU) | [Soy Yo](https://open.spotify.com/album/2jWBsJ2aMzmxNMMNBQOpfN) | 3:02 |
 | 89 | [La Troca Del Moño Negro](https://open.spotify.com/track/2SoDzw6EJ1rA8WZwe6zwwH) | [Reos De Nuevo Leon](https://open.spotify.com/artist/4DQnycRabRkXz0mfaLCTSf) | [La Troca Del Moño Negro](https://open.spotify.com/album/713u3gA9Tbki9Ym7ma50JT) | 3:00 |

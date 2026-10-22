@@ -1285,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/7igmoEKKdDe992KTjeFvZv"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199237,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/2JsZeQX8GqPm2NLN2ODY1e"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD"
       },

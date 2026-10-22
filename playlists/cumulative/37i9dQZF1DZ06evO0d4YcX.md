@@ -4,7 +4,7 @@
 
 > This is Amber Mark\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 6 min
+55 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [FOMO](https://open.spotify.com/track/00ncxi6KW6Ly1Ts0pOH8si) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 3:51 | 2025-12-18 |  |
 | [Foreign Things](https://open.spotify.com/track/1tyGqOo8VRLDVQETLtMyDS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 3:00 | 2025-12-18 |  |
 | [Generous](https://open.spotify.com/track/6bgPMgXiSvSxRS6qKn9wK4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Generous](https://open.spotify.com/album/0TCR8wB4v4fstHa3CJmZG4) | 2:44 | 2025-12-18 |  |
-| [GODDESS REIGN](https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [MAKER'S DESIGN](https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl) | 3:29 | 2025-12-18 |  |
+| [GODDESS REIGN](https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [MAKER'S DESIGN](https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl) | 3:29 | 2025-12-18 | 2026-10-22 |
+| [GODDESS REIGN](https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [GODDESS REIGN](https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1) | 3:29 | 2026-10-22 |  |
 | [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 | 2025-12-18 |  |
 | [HEAT](https://open.spotify.com/track/4x0yfBUpGWpovUxJqj20p0) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [HEAT](https://open.spotify.com/album/3K2K785SdN3wozTA3krazb) | 3:07 | 2025-12-18 |  |
 | [Heatwave](https://open.spotify.com/track/5DQ45iTgC4PgcaYt89gg6y) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heatwave](https://open.spotify.com/album/4g9FEP9LOTOblQ8ni00ymY) | 4:29 | 2025-12-18 | 2026-10-02 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 100499,
+  "num_followers": 100520,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAABymzDjUeNRzPxdfWdtdYUc",
+  "snapshot_id": "atVdgAAAAAClNO/fYwEBFI+zFdO3l//L",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meet Me by the Ocean",
-        "url": "https://open.spotify.com/album/4uC0Siq07QpZ1h5H7sTgK5"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 236946,
-      "name": "Meet Me by the Ocean",
-      "url": "https://open.spotify.com/track/15u5ivcq3t32mDnId6LAXU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set in Stone",
         "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 325480,
       "name": "Sound of the Sea",
       "url": "https://open.spotify.com/track/1Gsv8f8KmowkF5BnfMIGKy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meet Me by the Ocean",
+        "url": "https://open.spotify.com/album/4uC0Siq07QpZ1h5H7sTgK5"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 236946,
+      "name": "Meet Me by the Ocean",
+      "url": "https://open.spotify.com/track/15u5ivcq3t32mDnId6LAXU"
     },
     {
       "added_at": null,
@@ -135,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wisdom",
-        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 250397,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3iyMN5JhGnJXvKvFr8Mf7S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set in Stone",
         "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 229616,
       "name": "What a Feeling",
       "url": "https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wisdom",
+        "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 250397,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3iyMN5JhGnJXvKvFr8Mf7S"
     },
     {
       "added_at": null,

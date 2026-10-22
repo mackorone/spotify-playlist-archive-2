@@ -1,6 +1,6 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 389491,
+  "num_followers": 389498,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Tom Sawyer",
+      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
         "name": "In The City",
         "url": "https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd"
       },
@@ -911,18 +927,18 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
-        "name": "Moving Pictures (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
+        "name": "Hell: The Sequel (Deluxe)",
+        "url": "https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P"
       },
       "artists": [
         {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+          "name": "Bad Meets Evil",
+          "url": "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
         }
       ],
-      "duration_ms": 276880,
-      "name": "Tom Sawyer",
-      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
+      "duration_ms": 249560,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"
     },
     {
       "added_at": "2024-07-15 15:51:37",
@@ -943,22 +959,6 @@
       "duration_ms": 241840,
       "name": "It's Goin' Down (feat. Nitti)",
       "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
-        "name": "Hell: The Sequel (Deluxe)",
-        "url": "https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P"
-      },
-      "artists": [
-        {
-          "name": "Bad Meets Evil",
-          "url": "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
-        }
-      ],
-      "duration_ms": 249560,
-      "name": "Fast Lane",
-      "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"
     },
     {
       "added_at": "2024-07-15 15:51:37",

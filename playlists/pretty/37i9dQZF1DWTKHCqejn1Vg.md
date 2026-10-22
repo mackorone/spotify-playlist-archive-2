@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,756 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,753 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 54 | [i said it](https://open.spotify.com/track/26a0JIitgz3Ut1CNnf2HgW) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [i said it](https://open.spotify.com/album/4Bwf79TKUV0FYcc9e9A3GN) | 2:27 |
 | 55 | [Love Kills](https://open.spotify.com/track/4kuzXJLEHWn412PoIMeVuP) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:37 |
 | 56 | [I wonder \(Feat\. Jay Park\)](https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr) | [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Not my fault](https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9) | 3:34 |
-| 57 | [muah](https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [AFTER UPSET](https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh) | 2:09 |
-| 58 | [TOUCHIN'](https://open.spotify.com/track/4N5jdijK8DSBbBd4A30DUe) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [TOUCHIN'](https://open.spotify.com/album/08FjoakLYgsyA4NzfVPWke) | 3:05 |
-| 59 | [Down \(Feat\. DUT2\)](https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:33 |
-| 60 | [OVERZONE](https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [HORIZON : THE MIXTAPE](https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj) | 1:21 |
+| 57 | [TOUCHIN'](https://open.spotify.com/track/4N5jdijK8DSBbBd4A30DUe) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [TOUCHIN'](https://open.spotify.com/album/08FjoakLYgsyA4NzfVPWke) | 3:05 |
+| 58 | [muah](https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [AFTER UPSET](https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh) | 2:09 |
+| 59 | [OVERZONE](https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [HORIZON : THE MIXTAPE](https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj) | 1:21 |
+| 60 | [Down \(Feat\. DUT2\)](https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:33 |
 
 Snapshot ID: `AAAAAG3tEbiWy9T6kjaRQ2evgfm9fJ8D`

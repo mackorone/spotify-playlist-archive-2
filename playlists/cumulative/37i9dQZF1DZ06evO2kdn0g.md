@@ -4,7 +4,7 @@
 
 > This is Avenoir\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 10 min
+48 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [MORAL](https://open.spotify.com/track/4FVeq46pcFppDtiMd8GReE) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [MORAL](https://open.spotify.com/album/7eMOW9nITxzhIs7RUzv26H) | 2:45 | 2026-06-16 | 2026-10-06 |
 | [MORTAL](https://open.spotify.com/track/2DsKEr398bpEAOJvZjem6L) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:21 | 2026-06-16 | 2026-10-20 |
 | [MORTAL](https://open.spotify.com/track/4ZbUA2dQFMvEwgzZJWsBTF) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/4Edp8Knz4hREMPHSCD6Ewd) | 2:21 | 2026-10-20 |  |
-| [MOVIE](https://open.spotify.com/track/5Izl3SfU1DbkOkBZoQltsa) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:46 | 2026-06-16 |  |
+| [MOVIE](https://open.spotify.com/track/0rASH6enPQjubIHb3uuYKF) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/4Yaj2AWCgmCUgQzatJETct) | 2:46 | 2026-10-22 |  |
+| [MOVIE](https://open.spotify.com/track/5Izl3SfU1DbkOkBZoQltsa) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:46 | 2026-06-16 | 2026-10-22 |
 | [Paradise](https://open.spotify.com/track/46a7o30ZuYAhX8LgralbbQ) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/1ScwWsJ8KmcKRrAWh9nCAS) | 1:53 | 2026-10-11 |  |
 | [Paradise](https://open.spotify.com/track/6mU00UhZ1jCEyEoja3B3hl) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 1:53 | 2026-06-16 | 2026-10-10 |
 | [Plein Soleil](https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Plein Soleil](https://open.spotify.com/album/34syQNcB2yboOXhcPmN78h) | 3:25 | 2026-09-20 |  |

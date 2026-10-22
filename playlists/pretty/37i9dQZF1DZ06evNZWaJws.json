@@ -1,29 +1,13 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 360748,
+  "num_followers": 360773,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAACBjqz6Lcifu9XPQRYFsCMs",
+  "snapshot_id": "atVdgAAAAAADOadEgFWvDuWW/o/1O42w",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Codo (Remasterizado 2026)",
-        "url": "https://open.spotify.com/album/3gVDoFE7NJJGO176dNeoNM"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 177795,
-      "name": "El Codo - (Remasterizado 2026)",
-      "url": "https://open.spotify.com/track/1oZLZo2gLhRVMKahsQAtKG"
-    },
     {
       "added_at": null,
       "album": {
@@ -563,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 Tucanazos Bien Pesados",
-        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 145004,
-      "name": "Carrera Prohibida",
-      "url": "https://open.spotify.com/track/6WOJAgzKbqHxBmYsKqbiW5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Plat\u00f3nico",
         "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
       },
@@ -591,6 +559,22 @@
       "duration_ms": 197013,
       "name": "Desde Que Te Amo",
       "url": "https://open.spotify.com/track/51FDXDr71U8e9D7Umn9V6r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 145004,
+      "name": "Carrera Prohibida",
+      "url": "https://open.spotify.com/track/6WOJAgzKbqHxBmYsKqbiW5"
     },
     {
       "added_at": null,
@@ -631,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lista Negra",
-        "url": "https://open.spotify.com/album/4DszgJmZkatLJFbLvTyklT"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 152373,
-      "name": "Se Equivoco El Pistolero",
-      "url": "https://open.spotify.com/track/643LQeeR5hE6l8AlZJDxdY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -667,6 +635,22 @@
       "duration_ms": 166720,
       "name": "Las Heladas - En Vivo",
       "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lista Negra",
+        "url": "https://open.spotify.com/album/4DszgJmZkatLJFbLvTyklT"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 152373,
+      "name": "Se Equivoco El Pistolero",
+      "url": "https://open.spotify.com/track/643LQeeR5hE6l8AlZJDxdY"
     },
     {
       "added_at": null,
@@ -843,6 +827,22 @@
       "duration_ms": 173386,
       "name": "El Pesado",
       "url": "https://open.spotify.com/track/1INJtwan6KATEWHapjTtHZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lista Negra",
+        "url": "https://open.spotify.com/album/4DszgJmZkatLJFbLvTyklT"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 156493,
+      "name": "El Agricultor",
+      "url": "https://open.spotify.com/track/7C3bObRIUeOGPDWlhSKEvw"
     }
   ],
   "unique_name": "This Is Los Tucanes De Tijuana",

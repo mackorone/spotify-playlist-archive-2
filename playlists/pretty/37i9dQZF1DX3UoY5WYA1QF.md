@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,301 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,332 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 36 | [Me La Escondieron Sus Padres](https://open.spotify.com/track/59fL7G4mCumnpSm77HwT6M) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Homenaje a un Poeta](https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO) | 3:37 |
 | 37 | [En Un Jaripeo](https://open.spotify.com/track/368PvQ3FRthUJLTHp11JP2) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 2:41 |
 | 38 | [El Ilegal](https://open.spotify.com/track/43jcEGEx5ICgVx3PLWus1Y) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Homenaje al Poeta Gracias Joan Sebastian](https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f) | 3:01 |
-| 39 | [Corrido de Manuel Juárez](https://open.spotify.com/track/0OrSSO2y8XouFaL66KZGxD) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 4:49 |
-| 40 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
-| 41 | [Un idiota](https://open.spotify.com/track/35euE6BwKwWF3DeEoINvE9) | [Julian Figueroa](https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m) | [Volaré](https://open.spotify.com/album/0yP1BBqUrfPnRBai5d63Yf) | 3:02 |
+| 39 | [Un idiota](https://open.spotify.com/track/35euE6BwKwWF3DeEoINvE9) | [Julian Figueroa](https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m) | [Volaré](https://open.spotify.com/album/0yP1BBqUrfPnRBai5d63Yf) | 3:02 |
+| 40 | [Corrido de Manuel Juárez](https://open.spotify.com/track/0OrSSO2y8XouFaL66KZGxD) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 4:49 |
+| 41 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
 | 42 | [Nube Gris](https://open.spotify.com/track/4rRaKJ1sdlZlRat7WR5xF4) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 2:42 |
 | 43 | [Rumores](https://open.spotify.com/track/4xN5mVYQilvByCPY6XE352) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Irany & David](https://open.spotify.com/artist/0D9IxwuqUWlytmoPOvurIo) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:39 |
-| 44 | [Hay Un Tren A Las 5](https://open.spotify.com/track/6p6gClXVVCKssTgrdg9fTC) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 2:42 |
-| 45 | [Sangoloteadito](https://open.spotify.com/track/5ANVq31Ya8ktdx5Qy34yuA) | [Conjunto Sol De Ojinaga](https://open.spotify.com/artist/5ZaOWvcoYvKvMShrVo3gK8) | [El Homenaje Al Poeta Del Pueblo Joan Sebastian](https://open.spotify.com/album/3ikKz6kxwP90xWVtUbiUb2) | 3:47 |
+| 44 | [Sangoloteadito](https://open.spotify.com/track/5ANVq31Ya8ktdx5Qy34yuA) | [Conjunto Sol De Ojinaga](https://open.spotify.com/artist/5ZaOWvcoYvKvMShrVo3gK8) | [El Homenaje Al Poeta Del Pueblo Joan Sebastian](https://open.spotify.com/album/3ikKz6kxwP90xWVtUbiUb2) | 3:47 |
+| 45 | [Hay Un Tren A Las 5](https://open.spotify.com/track/6p6gClXVVCKssTgrdg9fTC) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 2:42 |
 | 46 | [Prisionero De La Ciudad](https://open.spotify.com/track/65nHDfhLe607gawYa1m1Dx) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Alberto Vázquez Interpreta A Joan Sebastian](https://open.spotify.com/album/0Zyjce2YUDw3TG9ex2EblK) | 3:22 |
 | 47 | [Nada De Ti](https://open.spotify.com/track/1iIIyMbWDfMLyufjX3N80U) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:06 |
 | 48 | [25 Rosas](https://open.spotify.com/track/0lrDFehYH6mT8tycGoZ7Z8) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:15 |

@@ -1,6 +1,6 @@
 {
   "description": "Pinches cumbiones bien locos para bailar.",
-  "num_followers": 315175,
+  "num_followers": 315248,
   "original_name": "50 Cumbiones Bien Locos",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
+        "name": "15 Grandes",
+        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
+      },
+      "artists": [
+        {
+          "name": "Diablos Locos",
+          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
+        }
+      ],
+      "duration_ms": 308837,
+      "name": "Si No La Tengo",
+      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
         "name": "Costumbres (Vivo)",
         "url": "https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 133077,
       "name": "Costumbres - Vivo",
       "url": "https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
-        "name": "15 Grandes",
-        "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
-      },
-      "artists": [
-        {
-          "name": "Diablos Locos",
-          "url": "https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY"
-        }
-      ],
-      "duration_ms": 308837,
-      "name": "Si No La Tengo",
-      "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -431,6 +431,30 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
+        "name": "Si Me Tomo una Cerveza",
+        "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Alico",
+          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 182198,
+      "name": "Si Me Tomo Una Cerveza",
+      "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
         "name": "Me Vas a Extra\u00f1ar (En Vivo)",
         "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
       },
@@ -471,30 +495,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "Si Me Tomo una Cerveza",
-        "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Alico",
-          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 182198,
-      "name": "Si Me Tomo Una Cerveza",
-      "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "La Lata",
         "url": "https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP"
       },
@@ -527,26 +527,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "No Te Creas Tan Importante (En Vivo)",
-        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "No Te Creas Tan Importante - En Vivo",
-      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "El Final De Nuestra Historia",
         "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 235853,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "No Te Creas Tan Importante (En Vivo)",
+        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "No Te Creas Tan Importante - En Vivo",
+      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "Universo Paralelo",
         "url": "https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 217072,
       "name": "Universo Paralelo",
       "url": "https://open.spotify.com/track/6LBpjWMfy1NUfyxAJbcMRs"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -707,6 +707,26 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
+        "name": "Echarme Al Olvido",
+        "url": "https://open.spotify.com/album/3wDHFioqgXvjbUcXxhhXmN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 278800,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/16Pff0FadGUI8noya36AsN"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
         "name": "Perrito Malvado",
         "url": "https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 280895,
       "name": "Perrito Malvado",
       "url": "https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
-        "name": "Echarme Al Olvido",
-        "url": "https://open.spotify.com/album/3wDHFioqgXvjbUcXxhhXmN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 278800,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/16Pff0FadGUI8noya36AsN"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Soy Soltero",
+      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
         "name": "La Cumbia Triste",
         "url": "https://open.spotify.com/album/7DSLHSjqV7CCjNa1NxKi2P"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 210955,
       "name": "La Cumbia Triste",
       "url": "https://open.spotify.com/track/2sAFBZ8a7uTT7tsAsjoUzo"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Soy Soltero",
-      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
       "added_at": "2025-11-20 12:00:38",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2025-11-20 12:00:38",
       "album": {
-        "name": "Que Locura Fue Enamorarme de Ti (Remix)",
-        "url": "https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe"
-      },
-      "artists": [
-        {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
-        },
-        {
-          "name": "Kevo DJ",
-          "url": "https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z"
-        }
-      ],
-      "duration_ms": 141453,
-      "name": "Que Locura Fue Enamorarme de Ti (Remix)",
-      "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
-    },
-    {
-      "added_at": "2025-11-20 12:00:38",
-      "album": {
         "name": "Nuestra Historia Termino",
         "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 234140,
       "name": "Nuestra Historia Termino",
       "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
+    },
+    {
+      "added_at": "2025-11-20 12:00:38",
+      "album": {
+        "name": "Que Locura Fue Enamorarme de Ti (Remix)",
+        "url": "https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe"
+      },
+      "artists": [
+        {
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+        },
+        {
+          "name": "Kevo DJ",
+          "url": "https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z"
+        }
+      ],
+      "duration_ms": 141453,
+      "name": "Que Locura Fue Enamorarme de Ti (Remix)",
+      "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
     },
     {
       "added_at": "2025-11-20 12:00:38",

@@ -1,12 +1,12 @@
 {
   "description": "This is The Strokes. The essential tracks, all in one playlist.",
-  "num_followers": 507843,
+  "num_followers": 508006,
   "original_name": "This Is The Strokes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAABQxlCozaDy//GHVB3t25tg",
+  "snapshot_id": "atVdgAAAAABwSjmitCDnvU3Cog9A9asN",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 290773,
-      "name": "Liar's Remorse",
-      "url": "https://open.spotify.com/track/2DqVYGuRxSdzZ2ZQMbwY6M"
+      "duration_ms": 381293,
+      "name": "Falling out of Love",
+      "url": "https://open.spotify.com/track/7D92yxAcYNd1Sis8uXdkQo"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 381293,
-      "name": "Falling out of Love",
-      "url": "https://open.spotify.com/track/7D92yxAcYNd1Sis8uXdkQo"
+      "duration_ms": 290773,
+      "name": "Liar's Remorse",
+      "url": "https://open.spotify.com/track/2DqVYGuRxSdzZ2ZQMbwY6M"
     },
     {
       "added_at": null,

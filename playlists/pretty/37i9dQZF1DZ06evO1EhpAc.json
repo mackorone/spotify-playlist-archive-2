@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9759,
+  "num_followers": 9760,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAABzklVky0Zc3eu20T93eVAD",
+  "snapshot_id": "atVdgAAAAACqygfagS7Dam3/8lwNbB95",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wo ai ni / break it even",
-        "url": "https://open.spotify.com/album/5uqvTMO6KZ2mvLVwAWM6dA"
-      },
-      "artists": [
-        {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 211525,
-      "name": "wo ai ni",
-      "url": "https://open.spotify.com/track/1eBpg5UATfNMvmDMTDcsPR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "booboo2",
         "url": "https://open.spotify.com/album/1IsFIHJqTpK5M5ibPdbCEF"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 219666,
       "name": "booboo2",
       "url": "https://open.spotify.com/track/3FmjoFY4SfTVLs3hhCxHCM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wo ai ni / break it even",
+        "url": "https://open.spotify.com/album/5uqvTMO6KZ2mvLVwAWM6dA"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 211525,
+      "name": "wo ai ni",
+      "url": "https://open.spotify.com/track/1eBpg5UATfNMvmDMTDcsPR"
     },
     {
       "added_at": null,

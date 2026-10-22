@@ -117689,6 +117689,24 @@
     },
     {
       "album": {
+        "name": "Legendary Love",
+        "url": "https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209453,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4s1xndGOzjMU1sSgC8FJkz"
+    },
+    {
+      "album": {
         "name": "Kasper fra K\u00f8ge",
         "url": "https://open.spotify.com/album/1ZMo1fjCbeb4fe8ghO9UnW"
       },

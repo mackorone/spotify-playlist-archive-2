@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 404170,
+  "num_followers": 404207,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
-        "name": "Ain't No Way",
-        "url": "https://open.spotify.com/album/7kRrf0s1HZCz1vOx1aVbxd"
-      },
-      "artists": [
-        {
-          "name": "Jamie MacDonald",
-          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Ain't No Way - Studio Session",
-      "url": "https://open.spotify.com/track/3qhbBibRY8TZevA51xeyBd"
-    },
-    {
-      "added_at": "2026-07-29 17:50:44",
-      "album": {
         "name": "Talking Like Friends",
         "url": "https://open.spotify.com/album/4eQ2CSzcTC5rkuGc6KIh91"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 292857,
       "name": "Talking Like Friends",
       "url": "https://open.spotify.com/track/7EXK5UuvlNoHv794VEGGht"
+    },
+    {
+      "added_at": "2026-07-29 17:50:44",
+      "album": {
+        "name": "Ain't No Way",
+        "url": "https://open.spotify.com/album/7kRrf0s1HZCz1vOx1aVbxd"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Ain't No Way - Studio Session",
+      "url": "https://open.spotify.com/track/3qhbBibRY8TZevA51xeyBd"
     },
     {
       "added_at": "2026-07-29 17:50:44",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
+        "name": "Cold Of The Night",
+        "url": "https://open.spotify.com/album/118XTpb5m0rG05GIh2tXhV"
+      },
+      "artists": [
+        {
+          "name": "Ivan Castro",
+          "url": "https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14"
+        }
+      ],
+      "duration_ms": 223858,
+      "name": "Cold Of The Night",
+      "url": "https://open.spotify.com/track/1hVu0KC031qLlIn8UPsDe7"
+    },
+    {
+      "added_at": "2026-07-29 17:50:44",
+      "album": {
         "name": "Den of Thieves",
         "url": "https://open.spotify.com/album/5blEPQ4nWKz7h9rG53d3Sg"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 185893,
       "name": "Den of Thieves",
       "url": "https://open.spotify.com/track/60wo8E1JY2t33TVmm4xf7Q"
-    },
-    {
-      "added_at": "2026-07-29 17:50:44",
-      "album": {
-        "name": "Cold Of The Night",
-        "url": "https://open.spotify.com/album/118XTpb5m0rG05GIh2tXhV"
-      },
-      "artists": [
-        {
-          "name": "Ivan Castro",
-          "url": "https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14"
-        }
-      ],
-      "duration_ms": 223858,
-      "name": "Cold Of The Night",
-      "url": "https://open.spotify.com/track/1hVu0KC031qLlIn8UPsDe7"
     },
     {
       "added_at": "2026-07-29 17:50:44",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
-        "name": "God Is A Person",
-        "url": "https://open.spotify.com/album/6of0HtLpPFq7ZgZIigbTg6"
-      },
-      "artists": [
-        {
-          "name": "Tenroc",
-          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "halle-lujah",
-      "url": "https://open.spotify.com/track/3VpZiYd05kBjVlZyw4OZi5"
-    },
-    {
-      "added_at": "2026-07-29 17:50:44",
-      "album": {
         "name": "EAT",
         "url": "https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 214535,
       "name": "The Water",
       "url": "https://open.spotify.com/track/1sbNbrhXGfamKxnoBP0JWI"
+    },
+    {
+      "added_at": "2026-07-29 17:50:44",
+      "album": {
+        "name": "God Is A Person",
+        "url": "https://open.spotify.com/album/6of0HtLpPFq7ZgZIigbTg6"
+      },
+      "artists": [
+        {
+          "name": "Tenroc",
+          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "halle-lujah",
+      "url": "https://open.spotify.com/track/3VpZiYd05kBjVlZyw4OZi5"
     },
     {
       "added_at": "2026-07-29 17:50:44",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/0kx2b0TYDAj9oA9JVi8jdN"
+      },
+      "artists": [
+        {
+          "name": "Ri-An",
+          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
+        }
+      ],
+      "duration_ms": 181119,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/2yfww2fXM4qCZVUSw6iSQ8"
+    },
+    {
+      "added_at": "2026-07-29 17:50:44",
+      "album": {
         "name": "Will Be Done",
         "url": "https://open.spotify.com/album/4sRnToa2OmP7ciWdkBeUOd"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 221874,
       "name": "Will Be Done",
       "url": "https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H"
-    },
-    {
-      "added_at": "2026-07-29 17:50:44",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/0kx2b0TYDAj9oA9JVi8jdN"
-      },
-      "artists": [
-        {
-          "name": "Ri-An",
-          "url": "https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo"
-        }
-      ],
-      "duration_ms": 181119,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/2yfww2fXM4qCZVUSw6iSQ8"
     },
     {
       "added_at": "2026-07-29 17:50:44",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
+        "name": "when i think about my jesus",
+        "url": "https://open.spotify.com/album/63lc6UbvqqCLjBej27ovMW"
+      },
+      "artists": [
+        {
+          "name": "Bella Taylor Smith",
+          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
+        }
+      ],
+      "duration_ms": 210054,
+      "name": "when i think about my jesus",
+      "url": "https://open.spotify.com/track/2zTq9WcEIZ41YP4KluCgqT"
+    },
+    {
+      "added_at": "2026-07-29 17:50:44",
+      "album": {
         "name": "Sentimental Prison",
         "url": "https://open.spotify.com/album/4GW9lZPCyOjLSQI4nKAKRC"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 192600,
       "name": "Sentimental Prison",
       "url": "https://open.spotify.com/track/406OJmzC7Evty1Ht2LzuTt"
-    },
-    {
-      "added_at": "2026-07-29 17:50:44",
-      "album": {
-        "name": "when i think about my jesus",
-        "url": "https://open.spotify.com/album/63lc6UbvqqCLjBej27ovMW"
-      },
-      "artists": [
-        {
-          "name": "Bella Taylor Smith",
-          "url": "https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ"
-        }
-      ],
-      "duration_ms": 210054,
-      "name": "when i think about my jesus",
-      "url": "https://open.spotify.com/track/2zTq9WcEIZ41YP4KluCgqT"
     },
     {
       "added_at": "2026-07-29 17:50:44",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/4Pr78CKZWWqGq6GAEo83QX"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 233708,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/1shkGViIKA1j6afZNF6jwN"
-    },
-    {
-      "added_at": "2026-07-29 17:50:44",
-      "album": {
         "name": "Questions",
         "url": "https://open.spotify.com/album/5pnwdDVdh7EABESXfKdZoQ"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 159441,
       "name": "Always There",
       "url": "https://open.spotify.com/track/1d2SBptoBq4LrCVEdL0N1j"
+    },
+    {
+      "added_at": "2026-07-29 17:50:44",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/4Pr78CKZWWqGq6GAEo83QX"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 233708,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/1shkGViIKA1j6afZNF6jwN"
     },
     {
       "added_at": "2026-07-29 17:50:44",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
-        "name": "What A Life",
-        "url": "https://open.spotify.com/album/7JUSGZ2sWVqW5PvFpmt28Q"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "What A Life",
-      "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
-    },
-    {
-      "added_at": "2026-07-29 17:50:44",
-      "album": {
         "name": "best thing",
         "url": "https://open.spotify.com/album/3cReeK55hE5LnvhpLA8kh9"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 233583,
       "name": "best thing",
       "url": "https://open.spotify.com/track/5GFxzXTom2S4ZhC7JSOBEh"
+    },
+    {
+      "added_at": "2026-07-29 17:50:44",
+      "album": {
+        "name": "What A Life",
+        "url": "https://open.spotify.com/album/7JUSGZ2sWVqW5PvFpmt28Q"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "What A Life",
+      "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
     },
     {
       "added_at": "2026-07-29 17:50:44",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
-        "name": "You Hold It All",
-        "url": "https://open.spotify.com/album/59Fwf6YU9AdpzQmnAbRIEJ"
-      },
-      "artists": [
-        {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Skin And Bone",
-      "url": "https://open.spotify.com/track/49jNWNrotJdUObt2fRpiI1"
-    },
-    {
-      "added_at": "2026-07-29 17:50:44",
-      "album": {
         "name": "follow the leader",
         "url": "https://open.spotify.com/album/7vM7J1K5YMzVQzbsLIPO94"
       },
@@ -1767,6 +1751,22 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
+        "name": "You Hold It All",
+        "url": "https://open.spotify.com/album/59Fwf6YU9AdpzQmnAbRIEJ"
+      },
+      "artists": [
+        {
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "Skin And Bone",
+      "url": "https://open.spotify.com/track/49jNWNrotJdUObt2fRpiI1"
+    },
+    {
+      "added_at": "2026-07-29 17:50:44",
+      "album": {
         "name": "wake up",
         "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
       },
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
-        "name": "Source",
-        "url": "https://open.spotify.com/album/3NMJUCJYkRSLZyypdd0hCs"
-      },
-      "artists": [
-        {
-          "name": "Eris Ford",
-          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
-        }
-      ],
-      "duration_ms": 141369,
-      "name": "Source",
-      "url": "https://open.spotify.com/track/3Lnn03uiy08zcVU3I3pRMc"
-    },
-    {
-      "added_at": "2026-07-29 17:50:44",
-      "album": {
         "name": "not alone",
         "url": "https://open.spotify.com/album/3k0JfPDoQf2NQxVNakBo2o"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 137250,
       "name": "not alone",
       "url": "https://open.spotify.com/track/3PKCtiaRoDhrtnRuNBelaq"
+    },
+    {
+      "added_at": "2026-07-29 17:50:44",
+      "album": {
+        "name": "Source",
+        "url": "https://open.spotify.com/album/3NMJUCJYkRSLZyypdd0hCs"
+      },
+      "artists": [
+        {
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+        }
+      ],
+      "duration_ms": 141369,
+      "name": "Source",
+      "url": "https://open.spotify.com/track/3Lnn03uiy08zcVU3I3pRMc"
     },
     {
       "added_at": "2026-07-29 17:50:44",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
+        "name": "aroma:devotion",
+        "url": "https://open.spotify.com/album/0Is8pbhwqDFPyNiAqlkJja"
+      },
+      "artists": [
+        {
+          "name": "Elyssa Figueroa",
+          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
+        }
+      ],
+      "duration_ms": 226790,
+      "name": "Here In The Moment",
+      "url": "https://open.spotify.com/track/1TlIZbnfUgZdW8vRucbYeD"
+    },
+    {
+      "added_at": "2026-07-29 17:50:44",
+      "album": {
         "name": "Little Big Dreams",
         "url": "https://open.spotify.com/album/31kG968T4NmPlLaFynGNLz"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 266326,
       "name": "Little Big Dreams",
       "url": "https://open.spotify.com/track/7pJU4hwoSBRlQ2FaBcASK6"
-    },
-    {
-      "added_at": "2026-07-29 17:50:44",
-      "album": {
-        "name": "aroma:devotion",
-        "url": "https://open.spotify.com/album/0Is8pbhwqDFPyNiAqlkJja"
-      },
-      "artists": [
-        {
-          "name": "Elyssa Figueroa",
-          "url": "https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l"
-        }
-      ],
-      "duration_ms": 226790,
-      "name": "Here In The Moment",
-      "url": "https://open.spotify.com/track/1TlIZbnfUgZdW8vRucbYeD"
     },
     {
       "added_at": "2026-07-29 17:50:44",
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
-        "name": "WHAT A LIFE",
-        "url": "https://open.spotify.com/album/0B1PkKQ123tk2b21lFNeh5"
+        "name": "fair weather!",
+        "url": "https://open.spotify.com/album/7iTYcdADt1MfsskWi1WACq"
       },
       "artists": [
         {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+          "name": "Praise Lubangu",
+          "url": "https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ"
         }
       ],
-      "duration_ms": 179657,
-      "name": "WHAT A LIFE",
-      "url": "https://open.spotify.com/track/6bj4w1FqEFMKdLql8b6WvN"
+      "duration_ms": 184247,
+      "name": "fair weather!",
+      "url": "https://open.spotify.com/track/3ZIsd95wl3EGSYGt9lGpp2"
     },
     {
       "added_at": "2026-07-29 17:50:44",
@@ -1995,18 +1995,18 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
-        "name": "fair weather!",
-        "url": "https://open.spotify.com/album/7iTYcdADt1MfsskWi1WACq"
+        "name": "WHAT A LIFE",
+        "url": "https://open.spotify.com/album/0B1PkKQ123tk2b21lFNeh5"
       },
       "artists": [
         {
-          "name": "Praise Lubangu",
-          "url": "https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ"
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
         }
       ],
-      "duration_ms": 184247,
-      "name": "fair weather!",
-      "url": "https://open.spotify.com/track/3ZIsd95wl3EGSYGt9lGpp2"
+      "duration_ms": 179657,
+      "name": "WHAT A LIFE",
+      "url": "https://open.spotify.com/track/6bj4w1FqEFMKdLql8b6WvN"
     },
     {
       "added_at": "2026-07-29 17:50:44",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
+        "name": "Again And Again",
+        "url": "https://open.spotify.com/album/3z3zLIrhtHohjQeuQrWWWJ"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Again And Again",
+      "url": "https://open.spotify.com/track/0adl1qoadkOyKMrDE2uvgo"
+    },
+    {
+      "added_at": "2026-07-29 17:50:44",
+      "album": {
         "name": "The King Is Coming (Reimagined)",
         "url": "https://open.spotify.com/album/5ICnnanXjdEOP2tHzAlqkH"
       },
@@ -2143,22 +2159,6 @@
       "duration_ms": 253632,
       "name": "Who You'll Always Be - Reimagined",
       "url": "https://open.spotify.com/track/37QFWIEWsLUyzPDRuUiYhX"
-    },
-    {
-      "added_at": "2026-07-29 17:50:44",
-      "album": {
-        "name": "Again And Again",
-        "url": "https://open.spotify.com/album/3z3zLIrhtHohjQeuQrWWWJ"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Again And Again",
-      "url": "https://open.spotify.com/track/0adl1qoadkOyKMrDE2uvgo"
     },
     {
       "added_at": "2026-07-29 17:50:44",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
-        "name": "The Lies",
-        "url": "https://open.spotify.com/album/2zqmP0kE7bZigBfjvmeXnF"
-      },
-      "artists": [
-        {
-          "name": "Claudia Isaki",
-          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
-        }
-      ],
-      "duration_ms": 208738,
-      "name": "The Lies",
-      "url": "https://open.spotify.com/track/5pGzwbj0BxqYXi4qsAB16V"
-    },
-    {
-      "added_at": "2026-07-29 17:50:44",
-      "album": {
         "name": "uptown",
         "url": "https://open.spotify.com/album/3tVKCVSO21t2ZVdnid4EBe"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 202554,
       "name": "Beautiful Things (From the Angel Original Series Miracle)",
       "url": "https://open.spotify.com/track/5pdVUXCTlMP4kfwcNICBai"
+    },
+    {
+      "added_at": "2026-07-29 17:50:44",
+      "album": {
+        "name": "The Lies",
+        "url": "https://open.spotify.com/album/2zqmP0kE7bZigBfjvmeXnF"
+      },
+      "artists": [
+        {
+          "name": "Claudia Isaki",
+          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
+        }
+      ],
+      "duration_ms": 208738,
+      "name": "The Lies",
+      "url": "https://open.spotify.com/track/5pGzwbj0BxqYXi4qsAB16V"
     },
     {
       "added_at": "2026-07-29 17:50:44",
@@ -2395,18 +2395,22 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
-        "name": "Know Me God",
-        "url": "https://open.spotify.com/album/4oGfZseuQG3WCQBe6JdirW"
+        "name": "The One",
+        "url": "https://open.spotify.com/album/4kMsE5VU9kluT1t8LjnjXi"
       },
       "artists": [
         {
-          "name": "Kaelob Mecum",
-          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Naomi Mae",
+          "url": "https://open.spotify.com/artist/7vNoVbs242w1vl2kaeOfdK"
         }
       ],
-      "duration_ms": 200330,
-      "name": "Know Me God",
-      "url": "https://open.spotify.com/track/51NTYD2gSPR3CLOsgnTBYE"
+      "duration_ms": 162142,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3ZJy2ZkZE0yAmTI6XlekFl"
     },
     {
       "added_at": "2026-07-29 17:50:44",
@@ -2427,22 +2431,18 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/4kMsE5VU9kluT1t8LjnjXi"
+        "name": "Know Me God",
+        "url": "https://open.spotify.com/album/4oGfZseuQG3WCQBe6JdirW"
       },
       "artists": [
         {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Naomi Mae",
-          "url": "https://open.spotify.com/artist/7vNoVbs242w1vl2kaeOfdK"
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
         }
       ],
-      "duration_ms": 162142,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/3ZJy2ZkZE0yAmTI6XlekFl"
+      "duration_ms": 200330,
+      "name": "Know Me God",
+      "url": "https://open.spotify.com/track/51NTYD2gSPR3CLOsgnTBYE"
     },
     {
       "added_at": "2026-07-29 17:50:44",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2026-07-29 17:50:44",
       "album": {
-        "name": "Don't Count Me Out",
-        "url": "https://open.spotify.com/album/2FePLiHwZ9hrrX53Zj4sUR"
-      },
-      "artists": [
-        {
-          "name": "Amanda Nolan",
-          "url": "https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8"
-        }
-      ],
-      "duration_ms": 204161,
-      "name": "Don't Count Me Out",
-      "url": "https://open.spotify.com/track/0zuJsIOYKAir5r0ZcjtTLf"
-    },
-    {
-      "added_at": "2026-07-29 17:50:44",
-      "album": {
         "name": "KNOWN",
         "url": "https://open.spotify.com/album/1rhLqLdT3MO4dQGRgmaqiS"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 228279,
       "name": "KNOWN",
       "url": "https://open.spotify.com/track/1h58D20BA2O5WIXmpRGGvH"
+    },
+    {
+      "added_at": "2026-07-29 17:50:44",
+      "album": {
+        "name": "Don't Count Me Out",
+        "url": "https://open.spotify.com/album/2FePLiHwZ9hrrX53Zj4sUR"
+      },
+      "artists": [
+        {
+          "name": "Amanda Nolan",
+          "url": "https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8"
+        }
+      ],
+      "duration_ms": 204161,
+      "name": "Don't Count Me Out",
+      "url": "https://open.spotify.com/track/0zuJsIOYKAir5r0ZcjtTLf"
     },
     {
       "added_at": "2026-07-29 17:50:44",

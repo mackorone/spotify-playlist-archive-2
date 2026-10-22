@@ -4,7 +4,7 @@
 
 > New & Hottest K\-Hip Hop is here\. \(Cover:  Kid Milli, TRADE L\)
 
-1,966 songs - 4 day 8 hr 52 min
+1,967 songs - 4 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1974,5 +1974,6 @@
 | [탠가 갖고와 \(feat\. oceanfromtheblue\)](https://open.spotify.com/track/3RWLbUduD28wKUNHIFgzXL) | [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [CHERRY STORY](https://open.spotify.com/album/45stDCiZdY6OtGmlr0ghs1) | 2:56 | 2024-05-10 | 2024-06-29 |
 | [한번뿐인 인생 One Life to Live](https://open.spotify.com/track/2MvehWGMkCeHZclsQo9kCJ) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [The Real Me](https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE) | 4:33 | 2026-02-04 | 2026-02-12 |
 | [홍길동 \(Hong Gil\-Dong\)](https://open.spotify.com/track/7qhwOzOPNbrbpccPdFeJx9) | [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst), [Nochang](https://open.spotify.com/artist/2V2yYJyuABpj7WqTqmXftV) | [Already There](https://open.spotify.com/album/5QNax6kPK4vO8uSnUZ29GZ) | 3:37 | 2024-12-05 | 2025-04-09 |
+| [후 \(puff\)](https://open.spotify.com/track/0MmlAwSg3Zx8590JMei6G9) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw), [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ) | [shaking](https://open.spotify.com/album/2ZDqjIVxeRURiJrp3sARkx) | 2:08 | 2026-10-21 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

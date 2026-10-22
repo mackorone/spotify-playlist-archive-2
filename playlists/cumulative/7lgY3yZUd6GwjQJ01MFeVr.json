@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Today's top country music! Cover: Cameron Whitcomb, Zach Bryan &amp; Cody Johnson",
+  "description": "Today's top country music! Cover: Zach Bryan &amp; Lana Del Rey",
   "name": "Top Country Hits",
   "tracks": [
     {
@@ -428,6 +428,24 @@
       "duration_ms": 197590,
       "name": "Backwards",
       "url": "https://open.spotify.com/track/7gSfFlfC5w2JjqChH8P8mv"
+    },
+    {
+      "album": {
+        "name": "Young Manhood and Other Donatable Organs",
+        "url": "https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213373,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/0mPeciUj7pSZ6fFd7FSrP6"
     },
     {
       "album": {
@@ -1496,6 +1514,24 @@
       "duration_ms": 239346,
       "name": "Dirt Cheap",
       "url": "https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa"
+    },
+    {
+      "album": {
+        "name": "Young Manhood and Other Donatable Organs",
+        "url": "https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189264,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/4vvBYPHEKAhFU5qnFthWv9"
     },
     {
       "album": {
@@ -2656,7 +2692,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -2852,6 +2888,24 @@
       "duration_ms": 286634,
       "name": "Indigo (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
+    },
+    {
+      "album": {
+        "name": "Young Manhood and Other Donatable Organs",
+        "url": "https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178195,
+      "name": "Is The Blue Tangled In You?",
+      "url": "https://open.spotify.com/track/4D9gnmocVP4sVWQHRYv5YH"
     },
     {
       "album": {
@@ -3177,6 +3231,28 @@
     },
     {
       "album": {
+        "name": "Young Manhood and Other Donatable Organs",
+        "url": "https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220588,
+      "name": "Lies (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/2T8ZVV7QlRrsCtXUiAoBuK"
+    },
+    {
+      "album": {
         "name": "Lies (feat. Lana Del Rey)",
         "url": "https://open.spotify.com/album/2JGeJAaYYGEB2geK9ejaoF"
       },
@@ -3192,7 +3268,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 220588,
       "name": "Lies (feat. Lana Del Rey)",
       "url": "https://open.spotify.com/track/4EVSMqqVEehvyyOBmjNTlA"
@@ -4176,10 +4252,32 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 194920,
       "name": "Pink Skies",
       "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+    },
+    {
+      "album": {
+        "name": "Young Manhood and Other Donatable Organs",
+        "url": "https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226173,
+      "name": "Plainsman (feat. Turnpike Troubadours)",
+      "url": "https://open.spotify.com/track/3fvDMzxUvLoVbbTCDVdj4G"
     },
     {
       "album": {
@@ -4194,7 +4292,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 185788,
       "name": "Plastic Cigarette",
       "url": "https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i"
@@ -4708,7 +4806,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 143985,
       "name": "Say Why",
       "url": "https://open.spotify.com/track/0BUvxX1tTOSJcsn6Y24Bsp"
@@ -4900,7 +4998,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
@@ -6282,6 +6380,24 @@
       "duration_ms": 157477,
       "name": "You Proof",
       "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
+    },
+    {
+      "album": {
+        "name": "Young Manhood and Other Donatable Organs",
+        "url": "https://open.spotify.com/album/22sKPJ4HaJbLghwRQXac1u"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258005,
+      "name": "You'll Get By",
+      "url": "https://open.spotify.com/track/7lPkjiujKlBKiBpNm52lll"
     },
     {
       "album": {

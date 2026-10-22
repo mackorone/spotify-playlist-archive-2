@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 228859,
+  "num_followers": 228882,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -239,26 +239,18 @@
     {
       "added_at": "2026-10-16 04:00:18",
       "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
         }
       ],
-      "duration_ms": 195431,
-      "name": "DIE TRYING",
-      "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
+      "duration_ms": 199396,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
       "added_at": "2026-10-16 04:00:18",
@@ -279,18 +271,26 @@
     {
       "added_at": "2026-10-16 04:00:18",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 199396,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
+      "duration_ms": 195431,
+      "name": "DIE TRYING",
+      "url": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
     },
     {
       "added_at": "2026-10-16 04:00:18",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-10-16 04:00:18",
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 356560,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5"
+    },
+    {
+      "added_at": "2026-10-16 04:00:18",
+      "album": {
         "name": "One and the Same",
         "url": "https://open.spotify.com/album/6RvgpXA6LKZoToLxrlTylh"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 223729,
       "name": "One and the Same",
       "url": "https://open.spotify.com/track/6OKtJlCD9Ox6BiXN0xaMfY"
-    },
-    {
-      "added_at": "2026-10-16 04:00:18",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 356560,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5"
     },
     {
       "added_at": "2026-10-16 04:00:18",

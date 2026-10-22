@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2COSHn7qabg1U1gYEoiXVX.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 149 songs - 14 hr 52 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 1 like - 149 songs - 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

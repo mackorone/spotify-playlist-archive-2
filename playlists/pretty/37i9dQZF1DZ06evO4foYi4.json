@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAD77OQA8xvdqRRxpJJrhfvI",
+  "snapshot_id": "atVdgAAAAADO4dHyD9I5rZ1RcKhJTYWz",
   "tracks": [
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strange Mercy",
-        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
+        "name": "St. Vincent",
+        "url": "https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 214986,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/6FPw780c3azvSQXDuV5Z52"
+      "duration_ms": 202000,
+      "name": "Digital Witness",
+      "url": "https://open.spotify.com/track/5L16tlSHNt93RiiRiCc8ya"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent",
-        "url": "https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf"
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Digital Witness",
-      "url": "https://open.spotify.com/track/5L16tlSHNt93RiiRiCc8ya"
+      "duration_ms": 214986,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6FPw780c3azvSQXDuV5Z52"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 208626,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/4SUVGUZp37ZCEJKkrqfwgd"
+      "duration_ms": 265053,
+      "name": "Surgeon",
+      "url": "https://open.spotify.com/track/7HwB14f2cAVqbvIZNQS4oK"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 265053,
-      "name": "Surgeon",
-      "url": "https://open.spotify.com/track/7HwB14f2cAVqbvIZNQS4oK"
+      "duration_ms": 208626,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/4SUVGUZp37ZCEJKkrqfwgd"
     },
     {
       "added_at": null,

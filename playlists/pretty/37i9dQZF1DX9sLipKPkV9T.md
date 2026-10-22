@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נועם בתן
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,528 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,535 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 2 | [מחכה + איפה אתה \- מתוך חזרות למופע NEXT](https://open.spotify.com/track/3OHlQBGP05iAhv5I0op1Hn) | [Rita](https://open.spotify.com/artist/5pHxqQIoEFTV7nyZPHZtOE), [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [מחכה + איפה אתה \(מתוך חזרות למופע NEXT\)](https://open.spotify.com/album/6YVRY6TjvjHU7K39y6p9em) | 5:21 |
 | 3 | [מדאם + המבט בעיניך](https://open.spotify.com/track/1GsaNKPtUq3Jr9QVkY9fFW) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i), [גלגלצ](https://open.spotify.com/artist/4H2Iqzn4PuLynSkfhIoAqJ) | [מדאם + המבט בעיניך](https://open.spotify.com/album/3HuvTNjCnqguGso4x114Cv) | 4:15 |
 | 4 | [לאב סונג](https://open.spotify.com/track/783Gugq5q7JvaMANrNRnCA) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [לאב סונג](https://open.spotify.com/album/0pEDx9iRcxkI8Fryu6bqvB) | 2:58 |
-| 5 | [סטארבקס](https://open.spotify.com/track/4LcvV8xxA3oYpvOoaZa59o) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [סטארבקס](https://open.spotify.com/album/2qN1BFwlE4CfnZWmO1STIz) | 2:31 |
+| 5 | [סטארבקס](https://open.spotify.com/track/4LcvV8xxA3oYpvOoaZa59o) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5), [שרקי](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [סטארבקס](https://open.spotify.com/album/2qN1BFwlE4CfnZWmO1STIz) | 2:31 |
 | 6 | [Imperfections](https://open.spotify.com/track/3beVXaLSfcnqoHczr1lS1p) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Imperfections](https://open.spotify.com/album/21ViHJNHkd9N63CpbBTWoY) | 2:54 |
 | 7 | [כוכבי לכת](https://open.spotify.com/track/15scHQhFam9KWtT1HTonlt) | [עידו מלכה](https://open.spotify.com/artist/2UAEpEEwnaFVjWZGwxHWL3) | [כוכבי לכת](https://open.spotify.com/album/26VVBRusoyTnKbtGbl7t77) | 2:30 |
 | 8 | [דרך העושים מאהבה](https://open.spotify.com/track/44t8ofCDsaORHScldYd4mX) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj), [Zusha](https://open.spotify.com/artist/0VXG44vdmNhcTCipc2Iz3Z) | [דרך העושים מאהבה](https://open.spotify.com/album/5sO3zESDSsBFgd9m76MK2q) | 3:14 |

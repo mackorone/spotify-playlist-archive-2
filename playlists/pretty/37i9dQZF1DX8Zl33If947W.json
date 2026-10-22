@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 212793,
+  "num_followers": 212825,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Er geh\u00f6rt zu mir",
-        "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
-      },
-      "artists": [
-        {
-          "name": "Marianne Rosenberg",
-          "url": "https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Er geh\u00f6rt zu mir",
-      "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Mit K",
         "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 258360,
       "name": "Kein Liebeslied",
       "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Er geh\u00f6rt zu mir",
+        "url": "https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth"
+      },
+      "artists": [
+        {
+          "name": "Marianne Rosenberg",
+          "url": "https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "Er geh\u00f6rt zu mir",
+      "url": "https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -303,18 +303,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
-        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
+        "name": "Keine Homies",
+        "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
       },
       "artists": [
         {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        },
+        {
+          "name": "Maxe",
+          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
         }
       ],
-      "duration_ms": 217680,
-      "name": "Verdammt Ich lieb' dich",
-      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
+      "duration_ms": 122241,
+      "name": "Keine Homies",
+      "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -335,22 +339,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Keine Homies",
-        "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
+        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
+        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
       },
       "artists": [
         {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        },
-        {
-          "name": "Maxe",
-          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
         }
       ],
-      "duration_ms": 122241,
-      "name": "Keine Homies",
-      "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
+      "duration_ms": 217680,
+      "name": "Verdammt Ich lieb' dich",
+      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Wei\u00dfe Haare",
-        "url": "https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j"
-      },
-      "artists": [
-        {
-          "name": "Florian K\u00fcnstler",
-          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
-        }
-      ],
-      "duration_ms": 169775,
-      "name": "Wei\u00dfe Haare",
-      "url": "https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Es ist Juli",
         "url": "https://open.spotify.com/album/4TSdsloInMbjQjj1Zf5KOD"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 215786,
       "name": "Regen und Meer",
       "url": "https://open.spotify.com/track/6fIGXxeU3C230sAm07WJxY"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Wei\u00dfe Haare",
+        "url": "https://open.spotify.com/album/0yE1tu84Ie5SjfpOmvoa2j"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        }
+      ],
+      "duration_ms": 169775,
+      "name": "Wei\u00dfe Haare",
+      "url": "https://open.spotify.com/track/1MUMsiZAZ4qAEVKb51uKst"
     },
     {
       "added_at": "2026-03-26 08:28:03",

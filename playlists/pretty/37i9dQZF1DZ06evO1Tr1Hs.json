@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 47644,
+  "num_followers": 47652,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAADbyq7vhlGZe/Ipg7YA+1c",
+  "snapshot_id": "atVdgAAAAAA2H0NuhAY4Q15zbyy82Ccj",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "the acronym (with Destroy Lonely)",
-        "url": "https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7"
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },
       "artists": [
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 147495,
-      "name": "the acronym (with Destroy Lonely)",
-      "url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
+      "duration_ms": 128000,
+      "name": "mewtwo",
+      "url": "https://open.spotify.com/track/6xZYGIixR3zhhOHwu7UEMY"
     },
     {
       "added_at": null,
@@ -251,18 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+        "name": "the acronym (with Destroy Lonely)",
+        "url": "https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7"
       },
       "artists": [
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 128000,
-      "name": "mewtwo",
-      "url": "https://open.spotify.com/track/6xZYGIixR3zhhOHwu7UEMY"
+      "duration_ms": 147495,
+      "name": "the acronym (with Destroy Lonely)",
+      "url": "https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ"
     },
     {
       "added_at": null,

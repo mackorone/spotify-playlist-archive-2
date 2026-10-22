@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 287 likes - 4,971 songs - 11 day 5 hr 40 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,971 songs - 11 day 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

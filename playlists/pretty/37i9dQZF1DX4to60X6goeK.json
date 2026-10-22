@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 77049,
+  "num_followers": 77060,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
-        "name": "CLOSE2U",
-        "url": "https://open.spotify.com/album/1XcKPc1MCgLcJ1pyQSMbbN"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        }
-      ],
-      "duration_ms": 224657,
-      "name": "CLOSE2U",
-      "url": "https://open.spotify.com/track/1aspoLyL8dJ3VqLom5aHmv"
-    },
-    {
-      "added_at": "2026-10-02 09:59:15",
-      "album": {
         "name": "Planet Dust (Latte Remix)",
         "url": "https://open.spotify.com/album/6lveuYxSFFgdgL1VMOGiJT"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 358620,
       "name": "Planet Dust - Latte Remix",
       "url": "https://open.spotify.com/track/2mWKhxXzTebK51PqWoDsVv"
+    },
+    {
+      "added_at": "2026-10-02 09:59:15",
+      "album": {
+        "name": "CLOSE2U",
+        "url": "https://open.spotify.com/album/1XcKPc1MCgLcJ1pyQSMbbN"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "duration_ms": 224657,
+      "name": "CLOSE2U",
+      "url": "https://open.spotify.com/track/1aspoLyL8dJ3VqLom5aHmv"
     },
     {
       "added_at": "2026-10-02 09:59:15",
@@ -767,6 +767,26 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "duration_ms": 177136,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
+    },
+    {
+      "added_at": "2026-10-02 09:59:15",
+      "album": {
         "name": "Reaper (feat. Comma Dee)",
         "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
       },
@@ -787,22 +807,18 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
+        "name": "Rhythm & Gash VIP",
+        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
       },
       "artists": [
         {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
         }
       ],
-      "duration_ms": 177136,
-      "name": "Outlaw",
-      "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
+      "duration_ms": 164571,
+      "name": "Rhythm & Gash VIP",
+      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
     },
     {
       "added_at": "2026-10-02 09:59:15",
@@ -827,38 +843,26 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
-        "name": "Rhythm & Gash VIP",
-        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+        "name": "Good Times (feat. ellen lynch)",
+        "url": "https://open.spotify.com/album/53fbG8wV8ADsa1iIc2ZeAu"
       },
       "artists": [
         {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Rhythm & Gash VIP",
-      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
-    },
-    {
-      "added_at": "2026-10-02 09:59:15",
-      "album": {
-        "name": "Lose Your Shit",
-        "url": "https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
         },
         {
-          "name": "Phantom",
-          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
+          "name": "Sub Zero",
+          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
+        },
+        {
+          "name": "ellen lynch",
+          "url": "https://open.spotify.com/artist/4l2D4sguBSSAKbLk68ACGi"
         }
       ],
-      "duration_ms": 190094,
-      "name": "Lose Your Shit",
-      "url": "https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm"
+      "duration_ms": 201603,
+      "name": "Good Times (feat. ellen lynch)",
+      "url": "https://open.spotify.com/track/5YrrUGwh8YgQCnj2sMRMEf"
     },
     {
       "added_at": "2026-10-02 09:59:15",
@@ -883,26 +887,22 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
-        "name": "Good Times (feat. ellen lynch)",
-        "url": "https://open.spotify.com/album/53fbG8wV8ADsa1iIc2ZeAu"
+        "name": "Lose Your Shit",
+        "url": "https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd"
       },
       "artists": [
         {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
         },
         {
-          "name": "Sub Zero",
-          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
-        },
-        {
-          "name": "ellen lynch",
-          "url": "https://open.spotify.com/artist/4l2D4sguBSSAKbLk68ACGi"
+          "name": "Phantom",
+          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
         }
       ],
-      "duration_ms": 201603,
-      "name": "Good Times (feat. ellen lynch)",
-      "url": "https://open.spotify.com/track/5YrrUGwh8YgQCnj2sMRMEf"
+      "duration_ms": 190094,
+      "name": "Lose Your Shit",
+      "url": "https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm"
     },
     {
       "added_at": "2026-10-02 09:59:15",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-10-02 09:59:15",
       "album": {
-        "name": "Feel My Love",
-        "url": "https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus"
-      },
-      "artists": [
-        {
-          "name": "Eskei83",
-          "url": "https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R"
-        }
-      ],
-      "duration_ms": 224827,
-      "name": "Feel My Love",
-      "url": "https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl"
-    },
-    {
-      "added_at": "2026-10-02 09:59:15",
-      "album": {
         "name": "Go Hard / Wednesday",
         "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 267586,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
+    },
+    {
+      "added_at": "2026-10-02 09:59:15",
+      "album": {
+        "name": "Feel My Love",
+        "url": "https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus"
+      },
+      "artists": [
+        {
+          "name": "Eskei83",
+          "url": "https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R"
+        }
+      ],
+      "duration_ms": 224827,
+      "name": "Feel My Love",
+      "url": "https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl"
     },
     {
       "added_at": "2026-10-02 09:59:15",

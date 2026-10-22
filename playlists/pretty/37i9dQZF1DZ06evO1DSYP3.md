@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,790 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,789 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 49 | [Light This Bitch Up](https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Jay Anthony](https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK) | [Before Anything \- EP](https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18) | 4:03 |
 | 50 | [Level](https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Good Life](https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j) | 2:55 |
 
-Snapshot ID: `atQMAAAAAAAW8jri73hX9K5CJCqraeAN`
+Snapshot ID: `atVdgAAAAAAEhWdFRtrZehOVPxh/fHtC`

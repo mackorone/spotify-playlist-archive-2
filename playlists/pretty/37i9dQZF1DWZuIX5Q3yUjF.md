@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > JANAKI in cover della playlist dell'R&B italiano 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,007 likes - 101 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,005 likes - 101 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

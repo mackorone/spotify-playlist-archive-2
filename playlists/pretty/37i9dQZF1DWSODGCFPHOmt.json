@@ -1079,6 +1079,38 @@
     {
       "added_at": "2025-12-19 05:00:41",
       "album": {
+        "name": "Contigo En Navidad",
+        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Dame Un Beso En Noche Buena",
+      "url": "https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A"
+    },
+    {
+      "added_at": "2025-12-19 05:00:41",
+      "album": {
+        "name": "Navidad Para Ti",
+        "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 207653,
+      "name": "Cumbi\u00f3n Navide\u00f1o",
+      "url": "https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD"
+    },
+    {
+      "added_at": "2025-12-19 05:00:41",
+      "album": {
         "name": "Navidad Sin t\u00ed",
         "url": "https://open.spotify.com/album/445k2DkZWd5Fv24xPPMjq0"
       },
@@ -1111,38 +1143,6 @@
       "duration_ms": 186477,
       "name": "Amarga Navidad",
       "url": "https://open.spotify.com/track/70GSsd2TYikh9QMQy8BR2P"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
-        "name": "Navidad Para Ti",
-        "url": "https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 207653,
-      "name": "Cumbi\u00f3n Navide\u00f1o",
-      "url": "https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD"
-    },
-    {
-      "added_at": "2025-12-19 05:00:41",
-      "album": {
-        "name": "Contigo En Navidad",
-        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Dame Un Beso En Noche Buena",
-      "url": "https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A"
     },
     {
       "added_at": "2025-12-19 05:00:41",

@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wpPxg.md) - [plain]
 | 49 | [Lord, I Looked Down The Road](https://open.spotify.com/track/3DwLIPryx8uGBcchKIrUCj) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Say No To The Devil](https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe) | 4:18 |
 | 50 | [You Got To Go Down](https://open.spotify.com/track/0nPMAv8LxG6CxO4bkP0qi8) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:18 |
 
-Snapshot ID: `atQMAAAAAABvNbmjWQag/r21CXwIGQ3i`
+Snapshot ID: `atVdgAAAAAARmYl7xndwH3wtBa8hGRRG`

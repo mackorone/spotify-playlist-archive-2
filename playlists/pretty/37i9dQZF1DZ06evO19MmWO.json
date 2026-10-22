@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 7378,
+  "num_followers": 7377,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAADsCUnz3gYWpHqvQNcK0wHu",
+  "snapshot_id": "atVdgAAAAAAFcdC3sxFGsHDiEI0X/pPR",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 164893,
-      "name": "Juke",
-      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
+      "duration_ms": 144493,
+      "name": "Just Your Fool",
+      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 144493,
-      "name": "Just Your Fool",
-      "url": "https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL"
+      "duration_ms": 164893,
+      "name": "Juke",
+      "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessin' The Blues",
-        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "One More Chance With You",
-      "url": "https://open.spotify.com/track/7IB7kU4E7YesUiqPqmBG1e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete Chess Masters (1950 - 1967)",
         "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 132146,
       "name": "Evans Shuffle",
       "url": "https://open.spotify.com/track/7qMbcPfEJFEltXDsLs3DXc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confessin' The Blues",
+        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "One More Chance With You",
+      "url": "https://open.spotify.com/track/7IB7kU4E7YesUiqPqmBG1e"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 160773,
-      "name": "I Got To Go",
-      "url": "https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG"
+      "duration_ms": 147600,
+      "name": "Mean Old Frisco",
+      "url": "https://open.spotify.com/track/2x2LPXCxlDLkT80kbjBAMR"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 368706,
-      "name": "I Just Want To Make Love To You",
-      "url": "https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB"
+      "duration_ms": 341560,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/1l4xHvN0jjPQKCqmal7Ybn"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 147600,
-      "name": "Mean Old Frisco",
-      "url": "https://open.spotify.com/track/2x2LPXCxlDLkT80kbjBAMR"
+      "duration_ms": 160773,
+      "name": "I Got To Go",
+      "url": "https://open.spotify.com/track/1Kf6OIqtYE5QZkLLWJg9DG"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 341560,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/1l4xHvN0jjPQKCqmal7Ybn"
+      "duration_ms": 368706,
+      "name": "I Just Want To Make Love To You",
+      "url": "https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB"
     },
     {
       "added_at": null,

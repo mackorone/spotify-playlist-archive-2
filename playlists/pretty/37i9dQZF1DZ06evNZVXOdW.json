@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9758,
+  "num_followers": 9760,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAADQIex3eGolR8Bt9zSzgbyy",
+  "snapshot_id": "atVdgAAAAAA9KIvf8HBDJ3onr7rH++CA",
   "tracks": [
     {
       "added_at": null,
@@ -103,22 +103,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulture Prince (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1WH2ttzuKMSlxtfA7PQw8S"
+        "name": "Freedom Now",
+        "url": "https://open.spotify.com/album/3Bj0rk8lOxbzs5D2gOj9RO"
       },
       "artists": [
         {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
         },
         {
-          "name": "Anoushka Shankar",
-          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+          "name": "Golshifteh Farahani",
+          "url": "https://open.spotify.com/artist/2r87yC8H1mrlvAP8kq6BuB"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 303361,
-      "name": "Udhero Na feat. Anoushka Shankar",
-      "url": "https://open.spotify.com/track/2hFN5GkZ1CNZNRp1tFYWqW"
+      "duration_ms": 224996,
+      "name": "Freedom Now",
+      "url": "https://open.spotify.com/track/4rHQ8H5ZI8a9aIEGff3td5"
     },
     {
       "added_at": null,
@@ -159,26 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freedom Now",
-        "url": "https://open.spotify.com/album/3Bj0rk8lOxbzs5D2gOj9RO"
+        "name": "Vulture Prince (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1WH2ttzuKMSlxtfA7PQw8S"
       },
       "artists": [
         {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        },
-        {
-          "name": "Golshifteh Farahani",
-          "url": "https://open.spotify.com/artist/2r87yC8H1mrlvAP8kq6BuB"
-        },
-        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
         }
       ],
-      "duration_ms": 224996,
-      "name": "Freedom Now",
-      "url": "https://open.spotify.com/track/4rHQ8H5ZI8a9aIEGff3td5"
+      "duration_ms": 303361,
+      "name": "Udhero Na feat. Anoushka Shankar",
+      "url": "https://open.spotify.com/track/2hFN5GkZ1CNZNRp1tFYWqW"
     },
     {
       "added_at": null,
@@ -372,13 +372,21 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Vijay Iyer",
-          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Kaki King",
+          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
+        },
+        {
+          "name": "Maeve Gilchrist",
+          "url": "https://open.spotify.com/artist/389WRgo5xrmZWgpleecYa5"
         }
       ],
-      "duration_ms": 406831,
-      "name": "Saaqi (feat. Vijay Iyer)",
-      "url": "https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u"
+      "duration_ms": 307887,
+      "name": "Last Night Reprise (feat. Cautious Clay, Kaki King, Maeve Gilchrist)",
+      "url": "https://open.spotify.com/track/35IhAAciJPseghP7KlBhVU"
     },
     {
       "added_at": null,
@@ -460,21 +468,13 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        },
-        {
-          "name": "Kaki King",
-          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
-        },
-        {
-          "name": "Maeve Gilchrist",
-          "url": "https://open.spotify.com/artist/389WRgo5xrmZWgpleecYa5"
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
         }
       ],
-      "duration_ms": 307887,
-      "name": "Last Night Reprise (feat. Cautious Clay, Kaki King, Maeve Gilchrist)",
-      "url": "https://open.spotify.com/track/35IhAAciJPseghP7KlBhVU"
+      "duration_ms": 406831,
+      "name": "Saaqi (feat. Vijay Iyer)",
+      "url": "https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u"
     },
     {
       "added_at": null,

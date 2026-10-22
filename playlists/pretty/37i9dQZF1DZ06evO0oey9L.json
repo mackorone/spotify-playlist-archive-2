@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 101759,
+  "num_followers": 101761,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAADfo+M8Pw7Y9qjIu898jj+u",
+  "snapshot_id": "atVdgAAAAACwBNKNJitnRsHCYPy2uY4E",
   "tracks": [
     {
       "added_at": null,
@@ -508,25 +508,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 225226,
-      "name": "Ya Lo Decid\u00ed",
-      "url": "https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Derecha La Flecha",
-        "url": "https://open.spotify.com/album/1xiSb0JPOxGd1JnOejlAVY"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 178327,
-      "name": "Derecha La Flecha",
-      "url": "https://open.spotify.com/track/6Qei0rSgoDr6jjsvbZ0sCp"
+      "duration_ms": 186301,
+      "name": "Barrio Xolo",
+      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
     },
     {
       "added_at": null,
@@ -543,6 +527,22 @@
       "duration_ms": 148344,
       "name": "La Fiesta Ya Empezo",
       "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Derecha La Flecha",
+        "url": "https://open.spotify.com/album/1xiSb0JPOxGd1JnOejlAVY"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 178327,
+      "name": "Derecha La Flecha",
+      "url": "https://open.spotify.com/track/6Qei0rSgoDr6jjsvbZ0sCp"
     },
     {
       "added_at": null,
@@ -572,25 +572,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 186301,
-      "name": "Barrio Xolo",
-      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fin De Semana",
-        "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 180197,
-      "name": "Fin De Semana",
-      "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
+      "duration_ms": 225226,
+      "name": "Ya Lo Decid\u00ed",
+      "url": "https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
       "duration_ms": 192728,
       "name": "Toxico",
       "url": "https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 180197,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ"
     },
     {
       "added_at": null,

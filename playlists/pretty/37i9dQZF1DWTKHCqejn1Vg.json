@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34756,
+  "num_followers": 34753,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
+        "name": "TOUCHIN'",
+        "url": "https://open.spotify.com/album/08FjoakLYgsyA4NzfVPWke"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "TOUCHIN'",
+      "url": "https://open.spotify.com/track/4N5jdijK8DSBbBd4A30DUe"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
         "name": "AFTER UPSET",
         "url": "https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "TOUCHIN'",
-        "url": "https://open.spotify.com/album/08FjoakLYgsyA4NzfVPWke"
+        "name": "HORIZON : THE MIXTAPE",
+        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
       },
       "artists": [
         {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
         }
       ],
-      "duration_ms": 185760,
-      "name": "TOUCHIN'",
-      "url": "https://open.spotify.com/track/4N5jdijK8DSBbBd4A30DUe"
+      "duration_ms": 81101,
+      "name": "OVERZONE",
+      "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
     },
     {
       "added_at": "2026-09-03 07:18:48",
@@ -1067,22 +1083,6 @@
       "duration_ms": 213282,
       "name": "Down (Feat. DUT2)",
       "url": "https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
-        "name": "HORIZON : THE MIXTAPE",
-        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 81101,
-      "name": "OVERZONE",
-      "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",

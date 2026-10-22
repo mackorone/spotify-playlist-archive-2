@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 1033066,
+  "num_followers": 1033223,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAAJ28I691mKjgV+Wiab/An1",
+  "snapshot_id": "atVdgAAAAADApWe4hDKsjuMZWtCw9Lx3",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 177516,
-      "name": "Amorcito M\u00edo",
-      "url": "https://open.spotify.com/track/07synGEtMdfRfwY3wNmedn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Sebastian Con El Mariachi Vargas",
         "url": "https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 187368,
       "name": "Como T\u00fa Decidas",
       "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 177516,
+      "name": "Amorcito M\u00edo",
+      "url": "https://open.spotify.com/track/07synGEtMdfRfwY3wNmedn"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alza El Vuelo",
-        "url": "https://open.spotify.com/album/6UShlJGWod3wfFwauvmF1t"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 172361,
-      "name": "Tiernas Mentiras",
-      "url": "https://open.spotify.com/track/1elLceQ9yD7ZQwhJsSxjXb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Sebastian Con Tambora",
         "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
       },
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norte\u00f1o",
-        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
+        "name": "Alza El Vuelo",
+        "url": "https://open.spotify.com/album/6UShlJGWod3wfFwauvmF1t"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 187431,
-      "name": "En Tu Sonrisa",
-      "url": "https://open.spotify.com/track/1fH1YGzkP3mQrZhtwGrtp7"
+      "duration_ms": 172361,
+      "name": "Tiernas Mentiras",
+      "url": "https://open.spotify.com/track/1elLceQ9yD7ZQwhJsSxjXb"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 186734,
       "name": "Melod\u00eda Para Dos",
       "url": "https://open.spotify.com/track/623Lx99JwTGxEivWzNIyX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norte\u00f1o",
+        "url": "https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "En Tu Sonrisa",
+      "url": "https://open.spotify.com/track/1fH1YGzkP3mQrZhtwGrtp7"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Celebrando El 13",
-        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "T\u00fa Sabes Quien",
-      "url": "https://open.spotify.com/track/6vap3d2mFX3mmWq1tNd0uH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tambora, Vol. 2",
         "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
       },
@@ -779,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
+        "name": "13 Celebrando El 13",
+        "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
       },
       "artists": [
         {
@@ -788,9 +772,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 166480,
-      "name": "Hoy Empieza Mi Tristeza",
-      "url": "https://open.spotify.com/track/0KK9SygmQOXHPwFEpedhyK"
+      "duration_ms": 197266,
+      "name": "T\u00fa Sabes Quien",
+      "url": "https://open.spotify.com/track/6vap3d2mFX3mmWq1tNd0uH"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 149884,
       "name": "Traficante De Besos",
       "url": "https://open.spotify.com/track/6F1VmuzOgcOxaj4idJKU9i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 166480,
+      "name": "Hoy Empieza Mi Tristeza",
+      "url": "https://open.spotify.com/track/0KK9SygmQOXHPwFEpedhyK"
     },
     {
       "added_at": null,

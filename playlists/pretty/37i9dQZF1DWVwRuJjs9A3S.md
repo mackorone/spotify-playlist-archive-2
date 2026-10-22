@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Valter Nilsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,622 likes - 199 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,623 likes - 199 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

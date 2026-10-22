@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,056 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,062 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
 | 50 | [panzerknacker.wav](https://open.spotify.com/track/40NjASTBlqkyCZ9bPVDcMK) | [LENNSKO](https://open.spotify.com/artist/0WyJfrWjsny9mSxops8ksX) | [panzerknacker.wav](https://open.spotify.com/album/6fi2aOnWlIuxhx3fhZonLx) | 2:36 |
 
-Snapshot ID: `Mmrk2AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mmw0AAAAAAAAAAAAAAAAAAAAAAAAAGVu`

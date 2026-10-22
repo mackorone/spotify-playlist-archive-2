@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2MRjDGxeIYDgOxA1acUM4z.md) - [plain]
 
 > ❤️
 
-[Lolo](https://open.spotify.com/user/126463876) - 1 like - 50 songs - 3 hr 6 min
+[Lolo](https://open.spotify.com/user/126463876) - 2 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

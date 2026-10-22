@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,312 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,320 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Moneda Sin Valor](https://open.spotify.com/track/3fRqJK9IGjuPFlbFbxCzl6) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Serie De Colección 15 Auténticos Éxitos](https://open.spotify.com/album/7kUAaTE5u9TiqObEmoDDoR) | 3:09 |
-| 2 | [La Carga Blanca](https://open.spotify.com/track/329yMhAD7SjiTj8mTXZYml) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos De Contrabando](https://open.spotify.com/album/74v8hM16gKXrMqlF58FcVO) | 3:20 |
+| 1 | [La Carga Blanca](https://open.spotify.com/track/329yMhAD7SjiTj8mTXZYml) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos De Contrabando](https://open.spotify.com/album/74v8hM16gKXrMqlF58FcVO) | 3:20 |
+| 2 | [Moneda Sin Valor](https://open.spotify.com/track/3fRqJK9IGjuPFlbFbxCzl6) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Serie De Colección 15 Auténticos Éxitos](https://open.spotify.com/album/7kUAaTE5u9TiqObEmoDDoR) | 3:09 |
 | 3 | [De Tres Flores](https://open.spotify.com/track/1m4xYKvIRyYoyGmRWR0U34) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb), [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Recordando A Mi Padre](https://open.spotify.com/album/3e6s26Xm7sBdzL70CqzgMB) | 2:13 |
 | 4 | [La Martina](https://open.spotify.com/track/4JdIlTrvfAv3IAamg7Asgg) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ), [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Los Alegres De Terán, Sus Mejores Corridos Y Rancheras Contestadas](https://open.spotify.com/album/43Eu9c8JiKyvuWMAnJCuxc) | 2:47 |
 | 5 | [La Mesera](https://open.spotify.com/track/47UQd2dvP9u5bQQbsAAQPN) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/6SnbjiM90bWj2fHgr2SosD) | 3:01 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 34 | [Tomando Licor](https://open.spotify.com/track/3JJDTrzSLZTPxd3EfiLOIS) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Alegres De Terán](https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ) | 2:56 |
 | 35 | [Corazoncito Tirano](https://open.spotify.com/track/6WDO9b672nRsA3W3FtPlLU) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Ojos De Pancha](https://open.spotify.com/album/3wFMgp4RVQF5AoCmgjseWX) | 2:48 |
 | 36 | [Valente Quintero](https://open.spotify.com/track/4TVZ40cph6HTc6H5OOszZj) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 3:31 |
-| 37 | [Veinte Años](https://open.spotify.com/track/4jLHdOEXzOqQUUrrrE6FuD) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Homenaje Norteño A Felipe Valdes Leal Con](https://open.spotify.com/album/0ZJcupskEdoVbyQqCaU4rp) | 3:10 |
+| 37 | [La Pajarera](https://open.spotify.com/track/3lljQzKEcHzw2uXl9JJ9rk) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Fogata Norteña](https://open.spotify.com/album/779btSeHZhLy2Bam2WAHAj) | 3:11 |
 | 38 | [Hermosísimo Lucero](https://open.spotify.com/track/3OHQ9BPCDHHu1DoAUqXbM4) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Serie De Colección 15 Auténticos Éxitos](https://open.spotify.com/album/7kUAaTE5u9TiqObEmoDDoR) | 2:46 |
-| 39 | [La Pajarera](https://open.spotify.com/track/3lljQzKEcHzw2uXl9JJ9rk) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Fogata Norteña](https://open.spotify.com/album/779btSeHZhLy2Bam2WAHAj) | 3:11 |
+| 39 | [Veinte Años](https://open.spotify.com/track/4jLHdOEXzOqQUUrrrE6FuD) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Homenaje Norteño A Felipe Valdes Leal Con](https://open.spotify.com/album/0ZJcupskEdoVbyQqCaU4rp) | 3:10 |
 | 40 | [Modesta Ayala](https://open.spotify.com/track/7hFGRE0pf1KQCuR16lHW0r) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Mano A Mano](https://open.spotify.com/album/7AqygqPGx2duxufK7woexa) | 2:47 |
 | 41 | [Margarita](https://open.spotify.com/track/3AHRnIxggLXyUdw5Wi5DtH) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [LA TRAICIONERA \(Remastered\)](https://open.spotify.com/album/116YnDmd7Vevo95B70AUdq) | 2:00 |
 | 42 | [Porque Te Quiero](https://open.spotify.com/track/3CFVyZA39o7RnGcQoOadZ5) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Éxitos de los Alegres de Terán, Vol\. 2](https://open.spotify.com/album/3UCqW7jOFnJl6DDwOz7eth) | 2:23 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 48 | [Ojitos Bonitos](https://open.spotify.com/track/0HSYfhp7wIlEbHsAPKyfzn) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Grandes Exitos Con Los Grandes Del Norte](https://open.spotify.com/album/3gVyzNysh0fdwJItrrxr35) | 3:14 |
 | 49 | [El Troquero](https://open.spotify.com/track/0EbRCXRYI1arDphzObwcXu) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Señorita Cantinera \(Serie 2000\)](https://open.spotify.com/album/0WZxY0v3nKJNBJHCXqlryw) | 3:02 |
 
-Snapshot ID: `atQMAAAAAADLDIPv7NK7n+f5Bws2xn7c`
+Snapshot ID: `atVdgAAAAAC4P4/LS/BXcD/Uo49J/QY9`

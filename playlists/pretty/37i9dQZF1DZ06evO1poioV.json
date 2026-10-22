@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 125741,
+  "num_followers": 125760,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAB6o1GFN2jflnH+/uU3nYo3",
+  "snapshot_id": "atVdgAAAAAAIkrPMM1DfOwaWl0qKzlkT",
   "tracks": [
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life On The Run",
-        "url": "https://open.spotify.com/album/7yAO3o6qdWfWgJNHeNwu7Z"
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 229816,
-      "name": "Life On The Run",
-      "url": "https://open.spotify.com/track/0hQCfLsKgUJbupwRcXKpKI"
+      "duration_ms": 185421,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
+        "name": "Life On The Run",
+        "url": "https://open.spotify.com/album/7yAO3o6qdWfWgJNHeNwu7Z"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 185421,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
+      "duration_ms": 229816,
+      "name": "Life On The Run",
+      "url": "https://open.spotify.com/track/0hQCfLsKgUJbupwRcXKpKI"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Practical Magic 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5XVnqvARyWFkHTzFrpo0Ni"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 191661,
+      "name": "And So It Goes - Film Version from \u201cPractical Magic 2\"",
+      "url": "https://open.spotify.com/track/1wsqZU8WbZoSLRNrjzSGVt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bear Creek",
         "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 142840,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Practical Magic 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5XVnqvARyWFkHTzFrpo0Ni"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 191661,
-      "name": "And So It Goes - Film Version from \u201cPractical Magic 2\"",
-      "url": "https://open.spotify.com/track/1wsqZU8WbZoSLRNrjzSGVt"
     },
     {
       "added_at": null,
@@ -639,22 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brandy Clark",
-        "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
       "artists": [
         {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
         },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 276146,
-      "name": "Dear Insecurity (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
+      "duration_ms": 224893,
+      "name": "How (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
     },
     {
       "added_at": null,
@@ -691,6 +691,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saturn Return",
+        "url": "https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Water Witch",
+      "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Returning To Myself",
+      "url": "https://open.spotify.com/track/7kw7I7P3MmYKfD4a4bf41l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brandy Clark",
+        "url": "https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 276146,
+      "name": "Dear Insecurity (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
         "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
       },
@@ -719,62 +775,6 @@
       "duration_ms": 291533,
       "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
       "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "Returning To Myself",
-      "url": "https://open.spotify.com/track/7kw7I7P3MmYKfD4a4bf41l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "How (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saturn Return",
-        "url": "https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Water Witch",
-      "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"
     },
     {
       "added_at": null,

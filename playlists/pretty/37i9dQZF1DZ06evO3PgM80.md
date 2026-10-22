@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,274 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,277 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 12 | [Tu És Santo](https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tu És Santo](https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO) | 3:40 |
 | 13 | [Tu és Bom](https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tu és Bom](https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV) | 3:22 |
 | 14 | [Ele Vem / A Cidade Santa \- Ao Vivo](https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [One Service Project](https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7) | [Ele Vem / A Cidade Santa \(Ao Vivo\)](https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ) | 5:29 |
-| 15 | [De Adentro Hacia Afuera](https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [De Adentro Hacia Afuera](https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE) | 5:07 |
-| 16 | [Jesus é o Centro \(Jesus At The Center\) \- Ao Vivo](https://open.spotify.com/track/7Cdo20MPK9QSQabUVEXfwS) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Jesus é o Centro \(Jesus At The Center\) \[Ao Vivo\]](https://open.spotify.com/album/3JI7IUuZGsZbmDOMGXy9mH) | 5:46 |
+| 15 | [Jesus é o Centro \(Jesus At The Center\) \- Ao Vivo](https://open.spotify.com/track/7Cdo20MPK9QSQabUVEXfwS) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Jesus é o Centro \(Jesus At The Center\) \[Ao Vivo\]](https://open.spotify.com/album/3JI7IUuZGsZbmDOMGXy9mH) | 5:46 |
+| 16 | [De Adentro Hacia Afuera](https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [De Adentro Hacia Afuera](https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE) | 5:07 |
 | 17 | [Canção dos Redimidos \- Ao Vivo](https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Canção dos Redimidos \(Ao Vivo\)](https://open.spotify.com/album/3erNcW7hi9cRVSBhZwR7vZ) | 6:53 |
 | 18 | [Em Fervente Oração \- Acústico](https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Em Fervente Oração \(Acústico\)](https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx) | 4:53 |
 | 19 | [Maravilhosa Graça \- Ao Vivo](https://open.spotify.com/track/0J02dbGDmHI2kyb5ZjcUMG) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Maravilhosa Graça \(Ao Vivo\)](https://open.spotify.com/album/4bQgF2scWrAUw5qOhfI3Et) | 5:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 49 | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD) | 3:22 |
 | 50 | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [O céu é o meu Lugar \(feat\. Julia Vitória\)](https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu) | 4:43 |
 
-Snapshot ID: `atQMAAAAAADg1cTdVyJ1ZC/TEyEX5Jm0`
+Snapshot ID: `atVdgAAAAACrp4D6h/hRcUYuI79TiXC7`

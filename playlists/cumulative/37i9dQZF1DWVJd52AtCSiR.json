@@ -193,6 +193,28 @@
     },
     {
       "album": {
+        "name": "THE ORCHESTRA JAPAN PLAYS DISNEY",
+        "url": "https://open.spotify.com/album/3IQ7QdDwiJzjaSif1i79Ye"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        },
+        {
+          "name": "THE ORCHESTRA JAPAN",
+          "url": "https://open.spotify.com/artist/5Av82WDPMSTXOzpgVxtJFl"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146658,
+      "name": "Almost There - From \"The Princess and The Frog\"/THE ORCHESTRA JAPAN PLAYS DISNEY",
+      "url": "https://open.spotify.com/track/1qMQjHhnwhnTBqYKEfGS2H"
+    },
+    {
+      "album": {
         "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
         "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
       },
@@ -1600,7 +1622,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 137258,
       "name": "I Won't Say I'm in Love",
       "url": "https://open.spotify.com/track/0eVGKrXC2PAHY5nnYKwvv2"
@@ -2143,6 +2165,32 @@
     },
     {
       "album": {
+        "name": "THE ORCHESTRA JAPAN PLAYS DISNEY",
+        "url": "https://open.spotify.com/album/3IQ7QdDwiJzjaSif1i79Ye"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Howard Ashman",
+          "url": "https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN"
+        },
+        {
+          "name": "THE ORCHESTRA JAPAN",
+          "url": "https://open.spotify.com/artist/5Av82WDPMSTXOzpgVxtJFl"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205028,
+      "name": "Part of Your World - From \"The Little Mermaid\"/THE ORCHESTRA JAPAN PLAYS DISNEY",
+      "url": "https://open.spotify.com/track/7tBeK9MdFJTzNTQeFhWV7J"
+    },
+    {
+      "album": {
         "name": "Maleficent (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA"
       },
@@ -2344,6 +2392,32 @@
       "duration_ms": 144044,
       "name": "Remember Me (From \"Coco\") - Piano Version",
       "url": "https://open.spotify.com/track/5efW4nsKHuFXKykWHt08lX"
+    },
+    {
+      "album": {
+        "name": "THE ORCHESTRA JAPAN PLAYS DISNEY",
+        "url": "https://open.spotify.com/album/3IQ7QdDwiJzjaSif1i79Ye"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        },
+        {
+          "name": "THE ORCHESTRA JAPAN",
+          "url": "https://open.spotify.com/artist/5Av82WDPMSTXOzpgVxtJFl"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164211,
+      "name": "Remember Me (Spanish Version) - From \"Coco\"/THE ORCHESTRA JAPAN PLAYS DISNEY",
+      "url": "https://open.spotify.com/track/2jFFIaZkp582c0zVyxDZ5m"
     },
     {
       "album": {
@@ -3036,7 +3110,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 199488,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/6m9FPLChTjwUpkzj6jYY76"

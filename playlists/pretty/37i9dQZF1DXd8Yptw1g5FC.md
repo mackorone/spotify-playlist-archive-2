@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Elif Buse Doğan ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,480 likes - 144 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,469 likes - 144 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

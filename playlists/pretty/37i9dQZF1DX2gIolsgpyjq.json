@@ -1,13 +1,29 @@
 {
   "description": "The best new music by independent artists in the Nordics. Cover: Ella Hoff",
-  "num_followers": 31807,
+  "num_followers": 31812,
   "original_name": "Fresh Finds Nordics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFMMpwVqG037/QuqvUY5IJNmSN/u",
+  "snapshot_id": "AAAAAIhTa3lZ01nuo++A+55pJZgU6ITA",
   "tracks": [
+    {
+      "added_at": "2026-10-14 07:21:08",
+      "album": {
+        "name": "Steady Baby",
+        "url": "https://open.spotify.com/album/2eaBxA9k8csZdcbNyctkmy"
+      },
+      "artists": [
+        {
+          "name": "Ella Hoff",
+          "url": "https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Steady Baby",
+      "url": "https://open.spotify.com/track/4DGKtg1YzmGwbG175DFTYY"
+    },
     {
       "added_at": "2026-10-20 22:00:13",
       "album": {
@@ -71,22 +87,6 @@
       "duration_ms": 199330,
       "name": "curbstone",
       "url": "https://open.spotify.com/track/2W0DPHfAgEXQQwdo4EQoKS"
-    },
-    {
-      "added_at": "2026-10-14 07:21:08",
-      "album": {
-        "name": "Steady Baby",
-        "url": "https://open.spotify.com/album/2eaBxA9k8csZdcbNyctkmy"
-      },
-      "artists": [
-        {
-          "name": "Ella Hoff",
-          "url": "https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Steady Baby",
-      "url": "https://open.spotify.com/track/4DGKtg1YzmGwbG175DFTYY"
     },
     {
       "added_at": "2026-10-20 22:00:13",

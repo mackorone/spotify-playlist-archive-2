@@ -4,7 +4,7 @@
 
 > Слухай українських виконавиць на повну гучність! Добірка створена спільно із Miss Monique 💚
 
-1,487 songs - 3 day 1 hr 54 min
+1,488 songs - 3 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10 \(Час...\)](https://open.spotify.com/track/6hlONft3272cgCxJg3r5Re) | [Kateryna Huliuk](https://open.spotify.com/artist/0jk2JeMUbf3HPfUlqhx2ct), [The Budchuk](https://open.spotify.com/artist/0uGzb9yQNvlHef5jl7JDZ9) | [10](https://open.spotify.com/album/2vy9M1MuF9vSdApnMReGNh) | 1:54 | 2026-08-04 | 2026-09-02 |
 | [1000](https://open.spotify.com/track/3ANthXz3eR8XinNuOwd95O) | [iT'e](https://open.spotify.com/artist/4gdMM01sjOFcSLThA1enbv) | [1000](https://open.spotify.com/album/1YTQREkkWDkp9Ih3tprxi0) | 1:41 | 2025-06-03 | 2025-07-02 |
 | [16](https://open.spotify.com/track/2k3Cex45o7d5EfLS9XMJLJ) | [Potrib](https://open.spotify.com/artist/2RqneyI88GkGECVe1fbnXC) | [ЙБОМ](https://open.spotify.com/album/48nUe3hY5E5kmtQoliPu1r) | 3:28 | 2025-02-04 | 2025-03-05 |
+| [17](https://open.spotify.com/track/1H3ognNITW8bmuYl2BEdf1) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Mario Eighta](https://open.spotify.com/artist/02Tau9NwwC9Ipv4ckCdS3m) | [17](https://open.spotify.com/album/1NwCnD52aKO3isV3Zgqnqn) | 2:45 | 2026-10-21 |  |
 | [18](https://open.spotify.com/track/5x6VqIJDnLWPw1cK4TAHZb) | [ESELISHA](https://open.spotify.com/artist/5bNRVyulb3jLRbGj5zfRHE) | [18](https://open.spotify.com/album/3VmQF84374S6TgqE5ZTJ8J) | 2:41 | 2024-09-03 | 2024-10-02 |
 | [18:18](https://open.spotify.com/track/1kf2G3N6B89GRy33HARDmG) | [Sofia Shanti](https://open.spotify.com/artist/546wSi6Jl1aMJnQ7ACGrsE) | [18:18](https://open.spotify.com/album/4vrsxP9OOz7Uj1gvnmGVOj) | 2:22 | 2024-06-04 | 2024-07-03 |
 | [2 хвилини](https://open.spotify.com/track/57zGKQZR700dmoqBrJocdb) | [Уляна Шуба](https://open.spotify.com/artist/2bNFeJdA9ic5U3yhMg9Jji) | [2 хвилини](https://open.spotify.com/album/165L3SJ9DWAkPeQWp2Ml8Q) | 2:00 | 2024-08-06 | 2024-09-04 |
@@ -134,7 +135,7 @@
 | [No cocaina](https://open.spotify.com/track/6pJ0vytMPQ4qtEl6mJLegG) | [Анна Трінчер](https://open.spotify.com/artist/71Lczal1i7u1Emcp0UfY9E) | [No cocaina](https://open.spotify.com/album/7DokZhB4LPyNxNZcKGUI54) | 3:06 | 2025-11-04 | 2025-12-04 |
 | [No Makeup](https://open.spotify.com/track/1CZWGW08pvgpYBJLj4H4uf) | [ANKA](https://open.spotify.com/artist/2mAU8vxS9srI7GiaQHxKsa) | [No Makeup](https://open.spotify.com/album/6OEBWtLv96E5PTAykUXS0K) | 2:14 | 2024-06-04 | 2024-07-03 |
 | [No Time to Cry](https://open.spotify.com/track/62Mlz8ffiLicV1Ngzlpjrw) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [No Time to Cry](https://open.spotify.com/album/1jJR2WVlgeyuKPxT6n8ktw) | 2:50 | 2025-02-04 | 2026-01-15 |
-| [Nomacita](https://open.spotify.com/track/4NjCBS4wF0lFO5wbYBQuIt) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Carl Bee](https://open.spotify.com/artist/1BjovuKg3qRbCNNy5W9Efv) | [Nomacita](https://open.spotify.com/album/4gJo8k21SMNJsfPxp3Bhyi) | 2:50 | 2026-10-07 |  |
+| [Nomacita](https://open.spotify.com/track/4NjCBS4wF0lFO5wbYBQuIt) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [Carl Bee](https://open.spotify.com/artist/1BjovuKg3qRbCNNy5W9Efv) | [Nomacita](https://open.spotify.com/album/4gJo8k21SMNJsfPxp3Bhyi) | 2:50 | 2026-10-07 | 2026-10-22 |
 | [Not in the Mood](https://open.spotify.com/track/7IYNcIGO3RoOZCQjqsNl5d) | [Pur:Pur](https://open.spotify.com/artist/1hNKwa40SiFwpAwCtsfaKS) | [Not in the Mood](https://open.spotify.com/album/2NCMuFOPLcNknts4sUtPPu) | 2:37 | 2024-07-02 | 2024-08-07 |
 | [Obsessed With You](https://open.spotify.com/track/7rlZ0PVscGTT8QozMZaydU) | [NASTEISHA](https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9), [INSOMNIA](https://open.spotify.com/artist/06NXURAd96AYm2mCb3gW3H) | [Obsessed With You](https://open.spotify.com/album/1dMQeESQebHa6hF3icHr6v) | 1:49 | 2025-03-04 | 2025-04-02 |
 | [OKAY](https://open.spotify.com/track/1ZJxG4lX2kNxjuxyDvXwEC) | [Vikki Flowz](https://open.spotify.com/artist/3x7Rkw9n0jeIrioxGYcOGV), [PRIANA](https://open.spotify.com/artist/2xGAERGRgL4jTLW7nVH1Ct) | [OKAY](https://open.spotify.com/album/14qMC9yR3cib0Cy0XIux0H) | 3:05 | 2025-03-04 | 2025-04-02 |

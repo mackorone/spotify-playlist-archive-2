@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Angèle,  RnBoi, Tate McRae et La Fouine x La Mano 1.9 au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,941 likes - 103 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,904 likes - 103 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

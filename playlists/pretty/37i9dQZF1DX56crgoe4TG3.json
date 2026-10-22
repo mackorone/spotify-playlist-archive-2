@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 287252,
+  "num_followers": 287257,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Cowboy Take Me Away",
+        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
         "url": "https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 301569,
       "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
       "url": "https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Cowboy Take Me Away",
-        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "No Rain",
         "url": "https://open.spotify.com/album/6D5SHwk9iambazDxMy1GuF"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 203810,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/46ZQXqq2hnbyER4JJdcD1u"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Possum",
+        "url": "https://open.spotify.com/album/5jwhyufmOOJwAkZaKDDxkd"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 333013,
+      "name": "Possum",
+      "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 267690,
       "name": "It's a Great Day to Be Alive",
       "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Possum",
-        "url": "https://open.spotify.com/album/5jwhyufmOOJwAkZaKDDxkd"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 333013,
-      "name": "Possum",
-      "url": "https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -827,30 +827,6 @@
       "duration_ms": 295528,
       "name": "In the Summertime",
       "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Those Were the Days",
-        "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        },
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        }
-      ],
-      "duration_ms": 214453,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -895,6 +871,30 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Those Were the Days",
+        "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        },
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Rhapsody in Blue (grass)",
         "url": "https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Gum Tree Canoe",
-        "url": "https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv"
-      },
-      "artists": [
-        {
-          "name": "John Hartford",
-          "url": "https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Little Piece of My Heart",
-      "url": "https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Songs That Made Me Weird, Vol. 1",
         "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 251621,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Gum Tree Canoe",
+        "url": "https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv"
+      },
+      "artists": [
+        {
+          "name": "John Hartford",
+          "url": "https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Little Piece of My Heart",
+      "url": "https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Go Your Own Way",
-        "url": "https://open.spotify.com/album/3USoKckUZmdxDJsOoUZipo"
-      },
-      "artists": [
-        {
-          "name": "SloCoast",
-          "url": "https://open.spotify.com/artist/1pqfEZcU2ZglurzGnEkaNd"
-        }
-      ],
-      "duration_ms": 247534,
-      "name": "Go Your Own Way",
-      "url": "https://open.spotify.com/track/50M460tbcGAaJuX0HQJygx"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Rich Girl",
         "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 230454,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Go Your Own Way",
+        "url": "https://open.spotify.com/album/3USoKckUZmdxDJsOoUZipo"
+      },
+      "artists": [
+        {
+          "name": "SloCoast",
+          "url": "https://open.spotify.com/artist/1pqfEZcU2ZglurzGnEkaNd"
+        }
+      ],
+      "duration_ms": 247534,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/50M460tbcGAaJuX0HQJygx"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "The Very Best Yet (The Very Best Yet Version)",
-        "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
-      },
-      "artists": [
-        {
-          "name": "The Hillbilly Moonshiners Bluegrass Band",
-          "url": "https://open.spotify.com/artist/6BcK7PtPC4B4buhH0wsLua"
-        }
-      ],
-      "duration_ms": 218091,
-      "name": "Can't Feel My Face - The Very Best Yet Version",
-      "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Johnny B. Goode",
         "url": "https://open.spotify.com/album/3GwPLOfHKwTHpOdO349mRv"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 197250,
       "name": "Johnny B. Goode",
       "url": "https://open.spotify.com/track/2dEAao1ozL1u3uFKtqS6Hq"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "The Very Best Yet (The Very Best Yet Version)",
+        "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
+      },
+      "artists": [
+        {
+          "name": "The Hillbilly Moonshiners Bluegrass Band",
+          "url": "https://open.spotify.com/artist/6BcK7PtPC4B4buhH0wsLua"
+        }
+      ],
+      "duration_ms": 218091,
+      "name": "Can't Feel My Face - The Very Best Yet Version",
+      "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
+        "name": "Hits of Newgrass",
+        "url": "https://open.spotify.com/album/3xS4XeyzLdRN58BwJEoBeE"
+      },
+      "artists": [
+        {
+          "name": "The Seldom Scene",
+          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/21PHpRAPpmSUIICiFNq5mb"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
         "name": "Simply Bluegrass (Live / Vol. 1)",
         "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 190955,
       "name": "Drivin' Nails In My Coffin - Live",
       "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
-        "name": "Hits of Newgrass",
-        "url": "https://open.spotify.com/album/3xS4XeyzLdRN58BwJEoBeE"
-      },
-      "artists": [
-        {
-          "name": "The Seldom Scene",
-          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/21PHpRAPpmSUIICiFNq5mb"
     },
     {
       "added_at": "2026-08-21 04:02:18",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2026-08-21 04:02:18",
       "album": {
-        "name": "Guess I'm Doing Fine",
-        "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 280441,
-      "name": "Guess I'm Doing Fine",
-      "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
-    },
-    {
-      "added_at": "2026-08-21 04:02:18",
-      "album": {
         "name": "Family, Friends & Heroes",
         "url": "https://open.spotify.com/album/4jEA27ToawCGCUH7GZUkH0"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 304333,
       "name": "Pretty Woman",
       "url": "https://open.spotify.com/track/3wITrtynoofk1CNLgy2XOh"
+    },
+    {
+      "added_at": "2026-08-21 04:02:18",
+      "album": {
+        "name": "Guess I'm Doing Fine",
+        "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 280441,
+      "name": "Guess I'm Doing Fine",
+      "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
     },
     {
       "added_at": "2026-08-21 04:02:18",

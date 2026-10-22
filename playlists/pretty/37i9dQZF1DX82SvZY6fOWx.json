@@ -1,6 +1,6 @@
 {
   "description": "Walk on sunshine or dance on the ceiling with some feel good 80s Pop!",
-  "num_followers": 247552,
+  "num_followers": 247545,
   "original_name": "80s Popped!",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-12-24 03:01:31",
       "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 302693,
+      "name": "Everything She Wants",
+      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
+    },
+    {
+      "added_at": "2024-12-24 03:01:31",
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 183733,
       "name": "Red Red Wine",
       "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
-    },
-    {
-      "added_at": "2024-12-24 03:01:31",
-      "album": {
-        "name": "Branigan",
-        "url": "https://open.spotify.com/album/7tDrvcJnNTSIaFmRJVhagA"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 289853,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ"
     }
   ],
   "unique_name": "80s Popped!",

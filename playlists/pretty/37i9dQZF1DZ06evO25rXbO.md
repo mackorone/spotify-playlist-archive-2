@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 
 > This is Gorillaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,254,515 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,254,614 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 44 | [The Valley of The Pagans \(feat\. Beck\)](https://open.spotify.com/track/3oP3Tfn86FRmxAGsV0TqCp) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 3:00 |
 | 45 | [Strobelite \(feat\. Peven Everett\)](https://open.spotify.com/track/6XGddj522FQRHXEhBtjiJu) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 4:32 |
 | 46 | [Kansas](https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 4:08 |
-| 47 | [Revolving Doors](https://open.spotify.com/track/4IekHBYUwUNLILgA9R22OD) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Fall](https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah) | 3:26 |
+| 47 | [Doncamatic \(feat\. Daley\)](https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Doncamatic \(feat\. Daley\) \[The Joker Remix\]](https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W) | 3:22 |
 | 48 | [Pac\-Man \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/4hURm1oP1rE1KZ4zd7mRay) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 3:12 |
-| 49 | [Doncamatic \(feat\. Daley\)](https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Doncamatic \(feat\. Daley\) \[The Joker Remix\]](https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W) | 3:22 |
+| 49 | [Revolving Doors](https://open.spotify.com/track/4IekHBYUwUNLILgA9R22OD) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Fall](https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah) | 3:26 |
 | 50 | [Controllah \(feat\. MC Bin Laden\)](https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 2:30 |
 
-Snapshot ID: `atQMAAAAAAAmP0lZ7cXvq/Pz7eEB9E6F`
+Snapshot ID: `atVdgAAAAABwLbHQcXeZVZ18HQVpKtok`

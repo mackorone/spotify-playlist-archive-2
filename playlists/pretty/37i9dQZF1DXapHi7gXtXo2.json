@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 94671,
+  "num_followers": 94676,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "A la Vez",
-        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 182876,
-      "name": "A la Vez",
-      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "NAFTA II",
         "url": "https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 178454,
       "name": "Andate",
       "url": "https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "A la Vez",
+        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 182876,
+      "name": "A la Vez",
+      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Delorean",
-        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
-      },
-      "artists": [
-        {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Delorean",
-      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "La Negaci\u00f3n",
         "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 192070,
       "name": "Sad Balada",
       "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
+      },
+      "artists": [
+        {
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Casi Algo",
-        "url": "https://open.spotify.com/album/4Gf0hePwvQJ6WfesWheCDv"
-      },
-      "artists": [
-        {
-          "name": "J\u00fapiter en Casa",
-          "url": "https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd"
-        }
-      ],
-      "duration_ms": 201187,
-      "name": "Casi Algo",
-      "url": "https://open.spotify.com/track/3uFUFTdWpuBDyHV8PpL6aV"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Ni tan Bien",
         "url": "https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 187690,
       "name": "Buen viaje",
       "url": "https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Casi Algo",
+        "url": "https://open.spotify.com/album/4Gf0hePwvQJ6WfesWheCDv"
+      },
+      "artists": [
+        {
+          "name": "J\u00fapiter en Casa",
+          "url": "https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "Casi Algo",
+      "url": "https://open.spotify.com/track/3uFUFTdWpuBDyHV8PpL6aV"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Piel",
+        "url": "https://open.spotify.com/album/22zFtS2ipuNixDofMq176B"
+      },
+      "artists": [
+        {
+          "name": "Deborah De Corral",
+          "url": "https://open.spotify.com/artist/0cEINGGZS5I0npSooTOQRZ"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Llueve Sobre Mojado",
+      "url": "https://open.spotify.com/track/7AbXvFA3CC6sA7t1wlwApo"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 197506,
       "name": "Cuando Estamos los Dos",
       "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Piel",
-        "url": "https://open.spotify.com/album/22zFtS2ipuNixDofMq176B"
-      },
-      "artists": [
-        {
-          "name": "Deborah De Corral",
-          "url": "https://open.spotify.com/artist/0cEINGGZS5I0npSooTOQRZ"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Llueve Sobre Mojado",
-      "url": "https://open.spotify.com/track/7AbXvFA3CC6sA7t1wlwApo"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Quemarropa",
-        "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
-      },
-      "artists": [
-        {
-          "name": "Juku Ares",
-          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
-        }
-      ],
-      "duration_ms": 180891,
-      "name": "Porque",
-      "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
         "url": "https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Herminia",
+        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/6NOrzjlq99joQdEySY7Dtt"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Good Fortune",
         "url": "https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci"
       },
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Quemarropa",
+        "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
+      },
+      "artists": [
+        {
+          "name": "Juku Ares",
+          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
+        }
+      ],
+      "duration_ms": 180891,
+      "name": "Porque",
+      "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Oler A Ti",
         "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 225013,
       "name": "Oler A Ti",
       "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Herminia",
-        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/6NOrzjlq99joQdEySY7Dtt"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Que No",
-        "url": "https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 230437,
-      "name": "Que No",
-      "url": "https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Martes 13",
         "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
       },
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Mi D\u00eda",
-        "url": "https://open.spotify.com/album/5JS19QEMVnLMe8rXaTTlR7"
+        "name": "Que No",
+        "url": "https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ"
       },
       "artists": [
         {
-          "name": "Joystick",
-          "url": "https://open.spotify.com/artist/4jLnkyQUqdN35FQGBPAhji"
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
         }
       ],
-      "duration_ms": 213197,
-      "name": "Mi D\u00eda",
-      "url": "https://open.spotify.com/track/5yDQOG9IxYZuykfyBHxY79"
+      "duration_ms": 230437,
+      "name": "Que No",
+      "url": "https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Mi D\u00eda",
+        "url": "https://open.spotify.com/album/5JS19QEMVnLMe8rXaTTlR7"
+      },
+      "artists": [
+        {
+          "name": "Joystick",
+          "url": "https://open.spotify.com/artist/4jLnkyQUqdN35FQGBPAhji"
+        }
+      ],
+      "duration_ms": 213197,
+      "name": "Mi D\u00eda",
+      "url": "https://open.spotify.com/track/5yDQOG9IxYZuykfyBHxY79"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "T\u00fa",
         "url": "https://open.spotify.com/album/0CFy2tIg0L4rGxZ5NbgtFe"
       },
@@ -1567,26 +1567,6 @@
       "duration_ms": 224893,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/7e6vvTnOICR7sY6MKkmh20"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Te Odio",
-        "url": "https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        },
-        {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        }
-      ],
-      "duration_ms": 213956,
-      "name": "Te odio",
-      "url": "https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1607,6 +1587,26 @@
       "duration_ms": 230179,
       "name": "La Burbuja",
       "url": "https://open.spotify.com/track/3YdqNKwtID5pip8QbnIHls"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Te Odio",
+        "url": "https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        },
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        }
+      ],
+      "duration_ms": 213956,
+      "name": "Te odio",
+      "url": "https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe"
+        "name": "LO QUE PAS\u00d3 UNA VEZ",
+        "url": "https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t"
       },
       "artists": [
         {
-          "name": "Pacifica",
-          "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
         }
       ],
-      "duration_ms": 147772,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8"
+      "duration_ms": 150013,
+      "name": "LO QUE PAS\u00d3 UNA VEZ",
+      "url": "https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL"
     }
   ],
   "unique_name": "Radio Indie",

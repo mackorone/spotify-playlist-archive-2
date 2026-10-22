@@ -1,12 +1,12 @@
 {
   "description": "FREE SUBMISSIONS - Got unreleased music in 2026 or like to hear unsigned artists?  30 days free promotion for new music. Just submit via my linktree: https:&#x2F;&#x2F;linktr.ee&#x2F;Anythings.Possible.Music",
-  "num_followers": 6088,
+  "num_followers": 6095,
   "original_name": "All New Music",
   "owner": {
     "name": "Anything's Possible Music",
     "url": "https://open.spotify.com/user/ashdown1981"
   },
-  "snapshot_id": "AAA9VIUVyh4r1gVM4ovSSt4IOo0QaiMa",
+  "snapshot_id": "AAA9Wf+7DZZrnxFevNBstblBiesfXfcu",
   "tracks": [
     {
       "added_at": "2026-07-04 10:16:45",
@@ -3979,6 +3979,90 @@
       "duration_ms": 206529,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/30eXlYrAE06Pdxz16hViNs"
+    },
+    {
+      "added_at": "2026-10-21 07:34:45",
+      "album": {
+        "name": "How Do We Make Sure This Never Happens Again?",
+        "url": "https://open.spotify.com/album/3wGwzIXIg3WSOyp3B0ZLfs"
+      },
+      "artists": [
+        {
+          "name": "Purple Microdot",
+          "url": "https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4"
+        }
+      ],
+      "duration_ms": 181948,
+      "name": "How Do We Make Sure This Never Happens Again?",
+      "url": "https://open.spotify.com/track/4PI1sKx9ofytpdRoRUgaTR"
+    },
+    {
+      "added_at": "2026-10-21 07:37:10",
+      "album": {
+        "name": "Pink Nebula Stardrive (Vector 3)",
+        "url": "https://open.spotify.com/album/3wgvo4ADoeMOqQef3Ul71h"
+      },
+      "artists": [
+        {
+          "name": "Astral Chill",
+          "url": "https://open.spotify.com/artist/1QSETZDdwziHZQn0CaXPVu"
+        },
+        {
+          "name": "Moons of Goom",
+          "url": "https://open.spotify.com/artist/13GZmTBeKHss4uzlee9wVr"
+        }
+      ],
+      "duration_ms": 288699,
+      "name": "Pink Nebula Stardrive (Vector 3)",
+      "url": "https://open.spotify.com/track/4e0GFauXiSYdB0MNUFkGnE"
+    },
+    {
+      "added_at": "2026-10-21 09:26:34",
+      "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/6SFtNyFl9hBHf8rfkM3qM7"
+      },
+      "artists": [
+        {
+          "name": "Xener",
+          "url": "https://open.spotify.com/artist/6KgUIsgJqj0KZlI9Uk1eo3"
+        }
+      ],
+      "duration_ms": 183406,
+      "name": "She",
+      "url": "https://open.spotify.com/track/1805x8xBy4p8oKHhDl0x0J"
+    },
+    {
+      "added_at": "2026-10-21 18:20:03",
+      "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/5abXKPqJyHEhSpwL8lGKdO"
+      },
+      "artists": [
+        {
+          "name": "Kian @ The shoutnez",
+          "url": "https://open.spotify.com/artist/42HzytkIRBPSmnHF76x70a"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/4gQzd06fhBJjaUTP1eIYBs"
+    },
+    {
+      "added_at": "2026-10-21 18:20:36",
+      "album": {
+        "name": "Chicago to Paris",
+        "url": "https://open.spotify.com/album/6W0MS8GvEGHUmWGu4kuFGw"
+      },
+      "artists": [
+        {
+          "name": "Anastasiya Sopova",
+          "url": "https://open.spotify.com/artist/1F6M797LHeCqVkQiuQKqmS"
+        }
+      ],
+      "duration_ms": 194663,
+      "name": "Chicago to Paris",
+      "url": "https://open.spotify.com/track/7p3gAQtAbmlFPAVrM1e5N9"
     }
   ],
   "unique_name": "All New Music",

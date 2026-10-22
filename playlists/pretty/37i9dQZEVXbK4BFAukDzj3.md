@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,264 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,262 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 39 | [HVB](https://open.spotify.com/track/3FxNuAmuRqep1aJk9shjho) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [DOMUS](https://open.spotify.com/album/17bPG03ez6fQfwvMH2wYGP) | 2:31 |
 | 40 | [Moët Dat Nou](https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Moët Dat Nou](https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze) | 2:34 |
 | 41 | [Door Het Oog Van De Nacht](https://open.spotify.com/track/0uWmcPc7Ie30nyNrsHnTjR) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Door Het Oog Van De Nacht](https://open.spotify.com/album/7BRsfyW9ugAffAfhAo3yim) | 2:54 |
-| 42 | [So Incredible](https://open.spotify.com/track/384JA8UkGvHNlbzR4gyxEq) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Incredible](https://open.spotify.com/album/3GSt8EeN0cZ9hjssIowCeA) | 2:57 |
+| 42 | [So Incredible](https://open.spotify.com/track/1aYBIcbgnye5b0MjcYXoou) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [So Incredible](https://open.spotify.com/album/7vT9FjutoZJ6stgHxouGaa) | 2:57 |
 | 43 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
 | 44 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 | 45 | [RMB \(Ring My Bell\)](https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [RMB \(Ring My Bell\)](https://open.spotify.com/album/4pkAMeqsWDN1YtFHsKoD1g) | 2:54 |
 | 46 | [Het Is Al Laat Toch](https://open.spotify.com/track/0rG3E7ZQ5zDUjrpAzKT1qB) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Spijt Is Iets Voor Later](https://open.spotify.com/album/6d8hSrvIeJoUbeQ6iYAFZx) | 3:28 |
 | 47 | [Bare Minimum](https://open.spotify.com/track/3aj18nggqoyQrlKPMvfOYd) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/2jZzND3FctUUDWC8I4MYNK) | 2:32 |
 | 48 | [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 |
-| 49 | [Dreams \- 2001 Remaster](https://open.spotify.com/track/53qkszfgztIvkFyF31GfdQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/04bZvSsD7bbuKyeEdMABLF) | 4:18 |
+| 49 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 | 50 | [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 |
 
-Snapshot ID: `Mmrk2AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mmw0AAAAAAAAAAAAAAAAAAAAAAAAAGVu`

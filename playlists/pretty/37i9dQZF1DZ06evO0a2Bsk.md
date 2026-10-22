@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0a2Bsk.md) - [plain]
 
 > This is Every Time I Die\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,085 likes - 43 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,088 likes - 43 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0a2Bsk.md) - [plain]
 | 36 | [Easy Tiger](https://open.spotify.com/track/2MObD1EfIVb300KaYHrFyR) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 3:02 |
 | 37 | [Moor](https://open.spotify.com/track/1GhJWxdqTNlU6zrl1o1NXd) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [From Parts Unknown \(Deluxe Edition\)](https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr) | 3:26 |
 | 38 | [For The Record](https://open.spotify.com/track/2phLPwpH3ZY6oLoCzQtWak) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 2:59 |
-| 39 | [I Suck \(Blood\)](https://open.spotify.com/track/6PIltGJHvV1bfAwl4JhMk4) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Ex Lives \(Deluxe Edition\)](https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h) | 2:55 |
+| 39 | [Revival Mode](https://open.spotify.com/track/33Pr2Mpw6XoQ19zUEZHXfQ) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Ex Lives \(Deluxe Edition\)](https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h) | 3:46 |
 | 40 | [Bored Stiff](https://open.spotify.com/track/15Ui1PgTVpDqAu8W9fBvLk) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Gutter Phenomenon](https://open.spotify.com/album/6bL6rFAbAPxrmvuRZx9tfz) | 2:18 |
 | 41 | [Pelican Of The Desert](https://open.spotify.com/track/7J7tAx9isUTVOD7Qs3FNJz) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [From Parts Unknown \(Deluxe Edition\)](https://open.spotify.com/album/2WEg8OjycdfnrQFd0tX3yr) | 1:58 |
 | 42 | [The Sweet Life](https://open.spotify.com/track/2tKSOEousfYFYCLJ2jfWgj) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [New Junk Aesthetic \(Deluxe Edition\)](https://open.spotify.com/album/4XOjfUQ93qWPOlJr4w0ek4) | 2:52 |
-| 43 | [Revival Mode](https://open.spotify.com/track/33Pr2Mpw6XoQ19zUEZHXfQ) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Ex Lives \(Deluxe Edition\)](https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h) | 3:46 |
+| 43 | [I Suck \(Blood\)](https://open.spotify.com/track/6PIltGJHvV1bfAwl4JhMk4) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Ex Lives \(Deluxe Edition\)](https://open.spotify.com/album/46gRYBHX98UQPdUjwNcG3h) | 2:55 |
 
-Snapshot ID: `atQMAAAAAAB1+Qsvf4/LGBajrNg9QCq3`
+Snapshot ID: `atVdgAAAAAArUDlAro21EMBdp1sKmQqf`

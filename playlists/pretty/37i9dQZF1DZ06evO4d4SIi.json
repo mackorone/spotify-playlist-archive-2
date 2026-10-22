@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 61044,
+  "num_followers": 61054,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAABi733NCWwuFCuS6lr2rS/o",
+  "snapshot_id": "atVdgAAAAADmdwid+Nlu/oxaRy663Eje",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/4S11HIOfB1kuSmH7L5JEJC"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 222847,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/64V8r31StUY8JoFXdnphZI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Learn The Hard Way",
         "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 204013,
       "name": "Turn This Truck Around",
       "url": "https://open.spotify.com/track/26me6ABXv5sHTe6eriudll"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/4S11HIOfB1kuSmH7L5JEJC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 222847,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/64V8r31StUY8JoFXdnphZI"
     },
     {
       "added_at": null,
@@ -323,6 +323,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Learn The Hard Way",
+        "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "Son Of A Gun",
+      "url": "https://open.spotify.com/track/2QM5kNCm26szq86xVJoauS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Among Friends",
+        "url": "https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 221760,
+      "name": "Banks",
+      "url": "https://open.spotify.com/track/3ye6QIIvOq5doDr0HRgWUC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 213689,
+      "name": "Going 'Round",
+      "url": "https://open.spotify.com/track/533eZXKFBL7Lpk5zMIqxCB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bluebird Days",
         "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
@@ -348,45 +400,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 175386,
-      "name": "Son Of A Gun",
-      "url": "https://open.spotify.com/track/2QM5kNCm26szq86xVJoauS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 213689,
-      "name": "Going 'Round",
-      "url": "https://open.spotify.com/track/533eZXKFBL7Lpk5zMIqxCB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Among Friends",
-        "url": "https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "Banks",
-      "url": "https://open.spotify.com/track/3ye6QIIvOq5doDr0HRgWUC"
+      "duration_ms": 179906,
+      "name": "Ain't Enough Road",
+      "url": "https://open.spotify.com/track/0froGQFzaDPiXzxxk0LuOi"
     },
     {
       "added_at": null,
@@ -407,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Learn The Hard Way",
-        "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 179906,
-      "name": "Ain't Enough Road",
-      "url": "https://open.spotify.com/track/0froGQFzaDPiXzxxk0LuOi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Home State",
         "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 192954,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/0eTCwA8AO9RhTaDz9A9cMW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "Whiskey Weak",
+      "url": "https://open.spotify.com/track/40MIJQeZ9nR0qDXq0GlfLE"
     },
     {
       "added_at": null,
@@ -467,22 +483,6 @@
       "duration_ms": 156200,
       "name": "Drink Had Me",
       "url": "https://open.spotify.com/track/4KOEQ1VPa1Ri5PWT1h84jt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "Whiskey Weak",
-      "url": "https://open.spotify.com/track/40MIJQeZ9nR0qDXq0GlfLE"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buy Dirt",
-        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 182613,
-      "name": "Need To Not",
-      "url": "https://open.spotify.com/track/1nJ9J9k4fOJZVU8CmvNv4o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bluebird Days",
         "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 188266,
       "name": "Part Of It",
       "url": "https://open.spotify.com/track/31MKhFNSudCNyzK38g5toI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buy Dirt",
+        "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 182613,
+      "name": "Need To Not",
+      "url": "https://open.spotify.com/track/1nJ9J9k4fOJZVU8CmvNv4o"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Among Friends",
-        "url": "https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        },
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "Buy Dirt",
-      "url": "https://open.spotify.com/track/0pvwG3L9KMrWFQItEnimaa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REBEL",
         "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 196733,
       "name": "Country Gold",
       "url": "https://open.spotify.com/track/0UnMW3SztHeKFHTEIFyIVh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Among Friends",
+        "url": "https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "Buy Dirt",
+      "url": "https://open.spotify.com/track/0pvwG3L9KMrWFQItEnimaa"
     },
     {
       "added_at": null,

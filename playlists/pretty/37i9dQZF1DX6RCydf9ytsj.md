@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > We're celebrating the 40th anniversary of The Judd's album "Why Not Me" on 80s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,561 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,670 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 42 | [Swingin'](https://open.spotify.com/track/7x6z6qiA3eXSeKOH7hH2Mr) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Wild And Blue](https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc) | 3:03 |
 | 43 | [Guitars, Cadillacs](https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Guitars, Cadillacs, Etc., Etc.](https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO) | 3:05 |
 | 44 | [Friday Night Blues](https://open.spotify.com/track/5AgHGO8qE6Gf5HFaY1YHg9) | [John Conlee](https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP) | [Friday Night Blues](https://open.spotify.com/album/6ahnIVl7o1IfC6GEOWgafD) | 3:18 |
-| 45 | [Lord, I Hope This Day Is Good \- Single Version](https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Lord I Hope This Day Is Good](https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk) | 4:09 |
-| 46 | [Through The Years](https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Best Of Kenny Rogers: Through The Years](https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP) | 4:22 |
+| 45 | [Through The Years](https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Best Of Kenny Rogers: Through The Years](https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP) | 4:22 |
+| 46 | [Lord, I Hope This Day Is Good \- Single Version](https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Lord I Hope This Day Is Good](https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk) | 4:09 |
 | 47 | [Rockin' With The Rhythm Of The Rain](https://open.spotify.com/track/0uEuAQ0c5yittMpxJ3l5iR) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 2:40 |
 | 48 | [Roll On \(Eighteen Wheeler\)](https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Roll On](https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb) | 4:21 |
 | 49 | [Old Flames Can't Hold a Candle to You](https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly Dolly Dolly](https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186) | 3:23 |
@@ -109,9 +109,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 99 | [I'll Still Be Loving You](https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Wheels](https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi) | 4:18 |
 | 100 | [I'm No Stranger to the Rain](https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 3:36 |
 | 101 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 |
-| 102 | [I Believe In You](https://open.spotify.com/track/2XQUerfdDAi7Ncla2a4skr) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 4:05 |
+| 102 | [Do You Wanna Go to Heaven](https://open.spotify.com/track/27QrAETf4eB2J533ktttTw) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Super Hits](https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu) | 3:10 |
 | 103 | [Same Ole Me](https://open.spotify.com/track/4yXvztnOOlSspO4W3MIsdd) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Still The Same Ole Me](https://open.spotify.com/album/37SDFDUGI4DBZt1YssNSNE) | 2:50 |
-| 104 | [Do You Wanna Go to Heaven](https://open.spotify.com/track/27QrAETf4eB2J533ktttTw) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Super Hits](https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu) | 3:10 |
+| 104 | [I Believe In You](https://open.spotify.com/track/2XQUerfdDAi7Ncla2a4skr) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 4:05 |
 | 105 | [Tight Fittin' Jeans](https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [20th Century Masters: The Millennium Collection: Best Of Conway Twitty](https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE) | 2:50 |
 | 106 | [What I'd Say](https://open.spotify.com/track/6qdaMyeAxixEtIiI1Wqr4l) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj) | [The Heart of It All](https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG) | 3:52 |
 | 107 | [The Bluest Eyes In Texas](https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Big Dreams In A Small Town](https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz) | 4:47 |

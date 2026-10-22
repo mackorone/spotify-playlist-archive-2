@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407097,
+  "num_followers": 407093,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -923,42 +923,6 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "Mean Girls (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf"
-      },
-      "artists": [
-        {
-          "name": "Grey Henson",
-          "url": "https://open.spotify.com/artist/3iMYbOWvKWy8lsjhf7Dkcf"
-        },
-        {
-          "name": "Barrett Wilbert Weed",
-          "url": "https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz"
-        },
-        {
-          "name": "Taylor Louderman",
-          "url": "https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0"
-        },
-        {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
-        },
-        {
-          "name": "Kate Rockwell",
-          "url": "https://open.spotify.com/artist/4kHxu1UJeYLB0ZkBQZdqT2"
-        },
-        {
-          "name": "Erika Henningsen",
-          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
-        }
-      ],
-      "duration_ms": 257920,
-      "name": "Meet The Plastics",
-      "url": "https://open.spotify.com/track/4QNuz0m2QCn2Yw1sCUNIS2"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
         "name": "Chicago - Music From The Miramax Motion Picture",
         "url": "https://open.spotify.com/album/3RH2do6C88Owoka8V51LsP"
       },
@@ -995,6 +959,42 @@
       "duration_ms": 442733,
       "name": "Cell Block Tango",
       "url": "https://open.spotify.com/track/28Tmk14BdrfaV2YzxpB35c"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
+        "name": "Mean Girls (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf"
+      },
+      "artists": [
+        {
+          "name": "Grey Henson",
+          "url": "https://open.spotify.com/artist/3iMYbOWvKWy8lsjhf7Dkcf"
+        },
+        {
+          "name": "Barrett Wilbert Weed",
+          "url": "https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz"
+        },
+        {
+          "name": "Taylor Louderman",
+          "url": "https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0"
+        },
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        },
+        {
+          "name": "Kate Rockwell",
+          "url": "https://open.spotify.com/artist/4kHxu1UJeYLB0ZkBQZdqT2"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "Meet The Plastics",
+      "url": "https://open.spotify.com/track/4QNuz0m2QCn2Yw1sCUNIS2"
     },
     {
       "added_at": "2026-07-29 10:41:14",

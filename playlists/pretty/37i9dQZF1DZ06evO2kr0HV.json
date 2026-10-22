@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 42642,
+  "num_followers": 42648,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAB2wa54AUso2+Yesl5Cdp/J",
+  "snapshot_id": "atVdgAAAAABrnt9/Isz0j9hddH6dHc0Z",
   "tracks": [
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor\u00edo",
-        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "Nada que ver",
-      "url": "https://open.spotify.com/track/6OdCIsv4H1C4gJOW5gX2yr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Volviera A Nacer",
         "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 221760,
       "name": "Juan Y Paul",
       "url": "https://open.spotify.com/track/1FUKWcdbjLj872lLhgdVeu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor\u00edo",
+        "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "Nada que ver",
+      "url": "https://open.spotify.com/track/6OdCIsv4H1C4gJOW5gX2yr"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/367p3heMzeLfeQtx2GufOn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 186853,
       "name": "Noches De Verano",
       "url": "https://open.spotify.com/track/6V3rv3WLYQCta6jadsslm0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/367p3heMzeLfeQtx2GufOn"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fuma",
         "url": "https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 199200,
       "name": "Fuma",
       "url": "https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/63tsypGXts1WqBAK7BYiCA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bailando Por Ti",
         "url": "https://open.spotify.com/album/7ismWpgWee343IgwBx0oyI"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 165000,
       "name": "Bailando Por Ti",
       "url": "https://open.spotify.com/track/40gWTnjJgkpYENBrPVKSgN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/63tsypGXts1WqBAK7BYiCA"
     },
     {
       "added_at": null,

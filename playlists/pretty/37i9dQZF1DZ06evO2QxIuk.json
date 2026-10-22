@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 376613,
+  "num_followers": 376621,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAABzVlNr63GO8ce8W8DAZPWP",
+  "snapshot_id": "atVdgAAAAADCBkHWzPq4QNB02TkvHPc2",
   "tracks": [
     {
       "added_at": null,
@@ -359,18 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head To The Sky",
-        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
+        "name": "You Want My Love",
+        "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
       },
       "artists": [
         {
           "name": "Earth, Wind & Fire",
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 311002,
-      "name": "Keep Your Head to the Sky",
-      "url": "https://open.spotify.com/track/0iPy1MWCrOT7SjGs14zSSv"
+      "duration_ms": 194373,
+      "name": "You Want My Love",
+      "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
     },
     {
       "added_at": null,
@@ -391,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Want My Love",
-        "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
+        "name": "Head To The Sky",
+        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
       },
       "artists": [
         {
           "name": "Earth, Wind & Fire",
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 194373,
-      "name": "You Want My Love",
-      "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
+      "duration_ms": 311002,
+      "name": "Keep Your Head to the Sky",
+      "url": "https://open.spotify.com/track/0iPy1MWCrOT7SjGs14zSSv"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head To The Sky",
-        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 300017,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/0IFbyuvJUXroM8UkZ2Pnsk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Illumination",
         "url": "https://open.spotify.com/album/05dTNXB4JyV4I0h6ShWyFY"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 276600,
       "name": "The Way You Move (feat. Kenny G)",
       "url": "https://open.spotify.com/track/39h3z023DlqOR9dFUqkVik"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Head To The Sky",
+        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 300017,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/0IFbyuvJUXroM8UkZ2Pnsk"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-1,074 songs - 2 day 3 hr 37 min
+1,075 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Choco Milo](https://open.spotify.com/track/3nIWHeSpBwBM09Fi0VDxgF) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [Choco Milo](https://open.spotify.com/album/5jngcep59Rk5mfytsXPvgz) | 1:56 | 2025-04-18 | 2025-05-29 |
 | [Choice](https://open.spotify.com/track/0nWaHVM8Qmi9f2UOty7yOx) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Choice](https://open.spotify.com/album/0rAY6dVOAWpIBwfJCPd0EA) | 2:39 | 2026-01-14 | 2026-04-30 |
 | [Chop & Slide](https://open.spotify.com/track/1rWxa2PtZT1S1mr6Jxm86B) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:48 | 2022-05-05 | 2022-08-26 |
+| [Cinderella](https://open.spotify.com/track/4oMLmQyX1VubCpDGSZJhhr) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX), [A$TRA](https://open.spotify.com/artist/76Lm1HmUL1LDTRoP0za2qi), [Prohibeats](https://open.spotify.com/artist/6heZ8Pfr4lqfDADLtrBqkn) | [Cinderella](https://open.spotify.com/album/1wh2tpER5kDqXXF3qjIo5y) | 3:00 | 2026-10-16 |  |
 | [Cinderella Girl \(Where You Dey\) \[feat\. Ludacris\]](https://open.spotify.com/track/1E4ed73l5iopAIr9UkAlGy) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Cinderella Girl \(Where You Dey\) \[feat\. Ludacris\]](https://open.spotify.com/album/2Qk595xR8M6ar44RYi9aPR) | 3:35 | 2023-05-11 | 2023-06-10 |
 | [CINNAMON](https://open.spotify.com/track/3PoX7dhk415kWtgoNMG1rx) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc) | [BEBE/CINNAMON](https://open.spotify.com/album/1xNUH2MsviQz6p4firxKHR) | 3:13 | 2024-03-22 | 2024-04-19 |
 | [Clingy](https://open.spotify.com/track/47T1ubQyQImtj2kZ0WRWd9) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Clingy](https://open.spotify.com/album/0n5DbGWxP7DokcO5e9RlRV) | 2:43 | 2025-04-11 | 2025-05-31 |
@@ -860,7 +861,7 @@
 | [Santi](https://open.spotify.com/track/2UfaE5AvQQHL2CkHeyM74O) | [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ) | [Santi](https://open.spotify.com/album/45qYrEUMR65J6PDoh6G8fQ) | 3:50 | 2022-08-19 | 2022-09-02 |
 | [Santorini Coffee](https://open.spotify.com/track/6TTR7tXftck5lU7BPRY7bV) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa) | [THENIGHTISYOUNG.](https://open.spotify.com/album/4np0ohQb06VAAitOpk3Rt4) | 2:14 | 2022-02-14 | 2023-09-29 |
 | [Sara Jay](https://open.spotify.com/track/1IggNH1lZpnxFQOH4fmCa4) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [12 Summers \(Summerfornication\) \[Deluxe Edition\]](https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7) | 3:00 | 2024-12-16 | 2025-02-13 |
-| [Screaming Beauty](https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Screaming Beauty](https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP) | 2:41 | 2025-02-28 |  |
+| [Screaming Beauty](https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Screaming Beauty](https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP) | 2:41 | 2025-02-28 | 2026-10-22 |
 | [Secondhand \(feat\. Rema\)](https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:46 | 2026-02-13 | 2026-07-17 |
 | [See Finish](https://open.spotify.com/track/5ydzXyCRG9AUq9w8pIf0Uc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [See Finish](https://open.spotify.com/album/2f3gCbx2qefdq823voOXuh) | 3:00 | 2023-02-10 | 2024-02-17 |
 | [Seek & Find \(feat\. Azanti\)](https://open.spotify.com/track/77jghFtCt5TBqaK7gutlrf) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Seek & Find \(feat\. Azanti\)](https://open.spotify.com/album/6ZIig4udjxAl6Zs27aHtpg) | 3:36 | 2023-06-30 | 2023-07-21 |

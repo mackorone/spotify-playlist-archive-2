@@ -4,7 +4,7 @@
 
 > 
 
-146 songs - 10 hr 12 min
+147 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Cause Of Death](https://open.spotify.com/track/1JMrmmvPZvwdKOnti8wbmC) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 4:03 | 2026-02-13 |  |
 | [Come What May](https://open.spotify.com/track/0Ab8W397VjR2ZNVkItDjSO) | [Aaron Tveit](https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx), [Karen Olivo](https://open.spotify.com/artist/01hcqBKMrPmHtg3RBJsxaP), [Original Broadway Cast of Moulin Rouge! The Musical](https://open.spotify.com/artist/2W2MyOwxAxKWGxWVk0vw8v) | [Moulin Rouge! The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1catLRW8LZfugEmfjnTWCk) | 3:16 | 2026-03-30 | 2026-10-08 |
 | [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:09 | 2026-03-30 | 2026-09-11 |
+| [Daffodils](https://open.spotify.com/track/575iCJ8dSMEhO9XZIxT9wk) | [Norbert Leo Butz](https://open.spotify.com/artist/2LEinBhufpsqT17c5XYomF), [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Big Fish \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3Cn2jrMkdeC6uOtoYWio5v) | 5:08 | 2026-10-21 |  |
 | [Damocles](https://open.spotify.com/track/1ulH5PIntNj0ro2K69W4Fx) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Damocles](https://open.spotify.com/album/5ariqOmY9FYLTn2HmXcwAw) | 4:24 | 2025-04-28 |  |
 | [Dance With The Devil](https://open.spotify.com/track/10ASBwZsp7oUUDsJEYz3uS) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia \(Explicit Version\)](https://open.spotify.com/album/6yJdQMlMkfYJFiSsL6764c) | 3:47 | 2025-06-05 | 2026-02-06 |
 | [Dangerous](https://open.spotify.com/track/105Fwh9wijwT41rrfgSnrE) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:11 | 2026-03-30 |  |

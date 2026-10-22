@@ -1103,6 +1103,52 @@
     },
     {
       "album": {
+        "name": "Aadame (From \"Disco\")",
+        "url": "https://open.spotify.com/album/36bErCvxGaYaCMCxWVqMA4"
+      },
+      "artists": [
+        {
+          "name": "Manikandan Ayyappa",
+          "url": "https://open.spotify.com/artist/0DBXdapluRDfEm5NP4USwN"
+        },
+        {
+          "name": "Chemban Vinod Jose",
+          "url": "https://open.spotify.com/artist/2djF9lKAWsaCDi2ufrH4I3"
+        },
+        {
+          "name": "Himna Hilari",
+          "url": "https://open.spotify.com/artist/1VVEKPxaTnYrNeO1dKp9vT"
+        },
+        {
+          "name": "Hinitha Hilary",
+          "url": "https://open.spotify.com/artist/5qfJ6kEOLgOveQ4T1Zec0O"
+        },
+        {
+          "name": "Noushad Thrissur",
+          "url": "https://open.spotify.com/artist/6QcD0MjjsaI6ifu9qnYBKJ"
+        },
+        {
+          "name": "Rocky Fuoco",
+          "url": "https://open.spotify.com/artist/1eBqsz1buypFkF3rirMLlE"
+        },
+        {
+          "name": "Suhail Koya",
+          "url": "https://open.spotify.com/artist/1d3zWx1pD19ZF60KcVUPYv"
+        },
+        {
+          "name": "Lema",
+          "url": "https://open.spotify.com/artist/6av3Sx2I8qcFPYOwInxrO7"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Aadame (From \"Disco\")",
+      "url": "https://open.spotify.com/track/66P4n8V4YpfTO0CjaveArM"
+    },
+    {
+      "album": {
         "name": "Aaj Ki Raat (From \"Stree 2\")",
         "url": "https://open.spotify.com/album/3UFJUJXBdfDRd2qRZ9ijyn"
       },
@@ -12304,7 +12350,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -15042,7 +15088,7 @@
       ],
       "date_added": "2026-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 158502,
       "name": "Garee2a Awy - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4rf1NRUuO9jRXdRSvsYpHC"
@@ -29696,7 +29742,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 214400,
       "name": "No Scrubs",
       "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
@@ -37310,7 +37356,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 209491,
       "name": "Shoft Kalam",
       "url": "https://open.spotify.com/track/2HtFhMMHqwdobOT1DQC0Iu"
@@ -43982,7 +44028,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"

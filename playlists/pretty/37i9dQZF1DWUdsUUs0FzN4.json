@@ -1,6 +1,6 @@
 {
   "description": "bailando en el antro con Marcos Villalobos y Martinwhite hasta el amanecer ",
-  "num_followers": 24787,
+  "num_followers": 24789,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "Gaga",
-        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 188304,
-      "name": "Gaga",
-      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
         "name": "ITALO MIXTAPE VOL. 3",
         "url": "https://open.spotify.com/album/2LHWy7BA83xWm1kePTdiMK"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 167462,
       "name": "AMNESIA",
       "url": "https://open.spotify.com/track/1ymc98fp75ggtCsQ74uYoT"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
+        "name": "Gaga",
+        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 188304,
+      "name": "Gaga",
+      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "HOTCORE",
-        "url": "https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB"
-      },
-      "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "N\u00c3O TEM FIN (garota fav)",
-      "url": "https://open.spotify.com/track/7DPnyFu4HRTC2KkAYV6KH1"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
         "name": "Mirando La Luna",
         "url": "https://open.spotify.com/album/34gFohcqtnjgqRdOgQ2htm"
       },
@@ -1483,22 +1467,18 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "Miraverah\u00ed (Slow Jamz Remix)",
-        "url": "https://open.spotify.com/album/4boDswbpYB6q9ikDzAgEkf"
+        "name": "HOTCORE",
+        "url": "https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        },
-        {
-          "name": "Slow Jamz",
-          "url": "https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o"
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
         }
       ],
-      "duration_ms": 257374,
-      "name": "Miraverah\u00ed - Slow Jamz Remix",
-      "url": "https://open.spotify.com/track/6k7hllGhHCNwdDBoosxCLT"
+      "duration_ms": 163384,
+      "name": "N\u00c3O TEM FIN (garota fav)",
+      "url": "https://open.spotify.com/track/7DPnyFu4HRTC2KkAYV6KH1"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -1527,6 +1507,26 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
+        "name": "Miraverah\u00ed (Slow Jamz Remix)",
+        "url": "https://open.spotify.com/album/4boDswbpYB6q9ikDzAgEkf"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        },
+        {
+          "name": "Slow Jamz",
+          "url": "https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o"
+        }
+      ],
+      "duration_ms": 257374,
+      "name": "Miraverah\u00ed - Slow Jamz Remix",
+      "url": "https://open.spotify.com/track/6k7hllGhHCNwdDBoosxCLT"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
         "name": "Shippeo",
         "url": "https://open.spotify.com/album/4DhwrVu3V0UOIZKWCW10pp"
       },
@@ -1539,6 +1539,22 @@
       "duration_ms": 155000,
       "name": "Shippeo",
       "url": "https://open.spotify.com/track/0Fpf1FiEbWfr8rPWmibpLE"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
+        "name": "DESDE EL COMA",
+        "url": "https://open.spotify.com/album/7GlWfnHMjoxbS5qdbVpADR"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 123840,
+      "name": "F MY X (I'M A MESS)",
+      "url": "https://open.spotify.com/track/2NMz6woaCFgUDXnZOdNtwQ"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -1559,22 +1575,6 @@
       "duration_ms": 162980,
       "name": "Explicaci\u00f3n",
       "url": "https://open.spotify.com/track/3EmPNpenfX19hm2eIBIsoe"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
-        "name": "DESDE EL COMA",
-        "url": "https://open.spotify.com/album/7GlWfnHMjoxbS5qdbVpADR"
-      },
-      "artists": [
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 123840,
-      "name": "F MY X (I'M A MESS)",
-      "url": "https://open.spotify.com/track/2NMz6woaCFgUDXnZOdNtwQ"
     }
   ],
   "unique_name": "ANTRO ",

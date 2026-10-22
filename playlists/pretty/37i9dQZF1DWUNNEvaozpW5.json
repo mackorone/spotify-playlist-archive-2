@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Estopa.",
-  "num_followers": 621013,
+  "num_followers": 621034,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
-        "name": "La Rosa De Los Vientos",
-        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
-      },
-      "artists": [
-        {
-          "name": "La Frontera",
-          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "El Limite",
-      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
-    },
-    {
-      "added_at": "2026-10-15 22:01:56",
-      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 269426,
       "name": "Necesito Respirar",
       "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
+    },
+    {
+      "added_at": "2026-10-15 22:01:56",
+      "album": {
+        "name": "La Rosa De Los Vientos",
+        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
+      },
+      "artists": [
+        {
+          "name": "La Frontera",
+          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "El Limite",
+      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
     },
     {
       "added_at": "2026-10-15 22:01:56",
@@ -1243,22 +1243,18 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
-        "name": "Miguel R\u00edos y las estrellas del Rock latino",
-        "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
+        "name": "Estop\u00eda",
+        "url": "https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02"
       },
       "artists": [
         {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
-        },
-        {
-          "name": "Manolo Garcia",
-          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
         }
       ],
-      "duration_ms": 227973,
-      "name": "Insurrecci\u00f3n (con Manolo Garc\u00eda)",
-      "url": "https://open.spotify.com/track/5JD2HODIglXaNJopWb248t"
+      "duration_ms": 200367,
+      "name": "K\u00e9 M\u00e1s Nos Da",
+      "url": "https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y"
     },
     {
       "added_at": "2026-10-15 22:01:56",
@@ -1279,18 +1275,22 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
-        "name": "Estop\u00eda",
-        "url": "https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02"
+        "name": "Miguel R\u00edos y las estrellas del Rock latino",
+        "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
       "artists": [
         {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        },
+        {
+          "name": "Manolo Garcia",
+          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
         }
       ],
-      "duration_ms": 200367,
-      "name": "K\u00e9 M\u00e1s Nos Da",
-      "url": "https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y"
+      "duration_ms": 227973,
+      "name": "Insurrecci\u00f3n (con Manolo Garc\u00eda)",
+      "url": "https://open.spotify.com/track/5JD2HODIglXaNJopWb248t"
     },
     {
       "added_at": "2026-10-15 22:01:56",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
+        "name": "El D\u00eda Que T\u00fa Te Marches",
+        "url": "https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 208101,
+      "name": "El D\u00eda Que T\u00fa Te Marches",
+      "url": "https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z"
+    },
+    {
+      "added_at": "2026-10-15 22:01:56",
+      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 188106,
       "name": "Tras la barra",
       "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
-    },
-    {
-      "added_at": "2026-10-15 22:01:56",
-      "album": {
-        "name": "El D\u00eda Que T\u00fa Te Marches",
-        "url": "https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 208101,
-      "name": "El D\u00eda Que T\u00fa Te Marches",
-      "url": "https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z"
     },
     {
       "added_at": "2026-10-15 22:01:56",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
+        "name": "Insurreccion (En Directo)",
+        "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Insurreccion (En Directo)",
+      "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
+    },
+    {
+      "added_at": "2026-10-15 22:01:56",
+      "album": {
         "name": "La Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 285480,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
-    },
-    {
-      "added_at": "2026-10-15 22:01:56",
-      "album": {
-        "name": "Insurreccion (En Directo)",
-        "url": "https://open.spotify.com/album/5focapBHI0lsefUUz46XxG"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Insurreccion (En Directo)",
-      "url": "https://open.spotify.com/track/4SafR3a8senZ2r65hZWMKN"
     },
     {
       "added_at": "2026-10-15 22:01:56",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
-        "name": "Los Singles",
-        "url": "https://open.spotify.com/album/4OHtmXevEbNgLl7nfa9IMG"
-      },
-      "artists": [
-        {
-          "name": "Barricada",
-          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "En Blanco Y Negro",
-      "url": "https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H"
-    },
-    {
-      "added_at": "2026-10-15 22:01:56",
-      "album": {
         "name": "20 a\u00f1os de canciones",
         "url": "https://open.spotify.com/album/47xgtvfLA126uHFF1Hipi3"
       },
@@ -1727,6 +1711,22 @@
     {
       "added_at": "2026-10-15 22:01:56",
       "album": {
+        "name": "Los Singles",
+        "url": "https://open.spotify.com/album/4OHtmXevEbNgLl7nfa9IMG"
+      },
+      "artists": [
+        {
+          "name": "Barricada",
+          "url": "https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "En Blanco Y Negro",
+      "url": "https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H"
+    },
+    {
+      "added_at": "2026-10-15 22:01:56",
+      "album": {
         "name": "Esencial Estopa",
         "url": "https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK"
       },
@@ -1739,22 +1739,6 @@
       "duration_ms": 203213,
       "name": "Como Camar\u00f3n",
       "url": "https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6"
-    },
-    {
-      "added_at": "2026-10-15 22:01:56",
-      "album": {
-        "name": "Matricula De Honor/New Booklet",
-        "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
-      },
-      "artists": [
-        {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Rock And Roll en la Plaza del Pueblo",
-      "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
     },
     {
       "added_at": "2026-10-15 22:01:56",
@@ -1779,6 +1763,22 @@
       "duration_ms": 249984,
       "name": "\u00bfVolver\u00e1? (feat. Dani Mart\u00edn, Rulo y la Contrabanda)",
       "url": "https://open.spotify.com/track/56bY8QWkhq11vfMpOIhJli"
+    },
+    {
+      "added_at": "2026-10-15 22:01:56",
+      "album": {
+        "name": "Matricula De Honor/New Booklet",
+        "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
+      },
+      "artists": [
+        {
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Rock And Roll en la Plaza del Pueblo",
+      "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
     },
     {
       "added_at": "2026-10-15 22:01:56",

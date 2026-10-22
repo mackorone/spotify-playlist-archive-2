@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 667263,
+  "num_followers": 667266,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAACbBQ9i/cs5q0olkAvCgXo2",
+  "snapshot_id": "atVdgAAAAADcoUiM9esQvuRIyH+SFeok",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great American Bar Scene",
-        "url": "https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
       },
       "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
         {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 216253,
-      "name": "Sandpaper (feat. Bruce Springsteen)",
-      "url": "https://open.spotify.com/track/39jaMEXqY45at7te6OpskG"
+      "duration_ms": 267853,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
     },
     {
       "added_at": null,
@@ -175,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB"
       },
       "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
         {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 267853,
-      "name": "Secret Garden",
-      "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
+      "duration_ms": 216253,
+      "name": "Sandpaper (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/39jaMEXqY45at7te6OpskG"
     },
     {
       "added_at": null,

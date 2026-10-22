@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Shirin David, Summer Cem",
-  "num_followers": 906790,
+  "num_followers": 906749,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
+        "name": "Tr\u00e4nen",
+        "url": "https://open.spotify.com/album/7Hjp9ZAbijiLCUZ1pwcnsO"
+      },
+      "artists": [
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        }
+      ],
+      "duration_ms": 147730,
+      "name": "Tr\u00e4nen",
+      "url": "https://open.spotify.com/track/5fML3HUwuAgxkdRskh5apJ"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
         "name": "STRASSE",
         "url": "https://open.spotify.com/album/6UlpE9Y7MeUoiAJrHh8g7W"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 154434,
       "name": "STRASSE",
       "url": "https://open.spotify.com/track/7pRWIMEOT4YMZcsm4YMA3G"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
-        "name": "Tr\u00e4nen",
-        "url": "https://open.spotify.com/album/7Hjp9ZAbijiLCUZ1pwcnsO"
-      },
-      "artists": [
-        {
-          "name": "Makar",
-          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
-        }
-      ],
-      "duration_ms": 147730,
-      "name": "Tr\u00e4nen",
-      "url": "https://open.spotify.com/track/5fML3HUwuAgxkdRskh5apJ"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -199,6 +199,22 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
+        "name": "GALLARDO",
+        "url": "https://open.spotify.com/album/5ucpnJp5ZzMuwqlizbqg77"
+      },
+      "artists": [
+        {
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "GALLARDO",
+      "url": "https://open.spotify.com/track/5wbSLkHkTRPGaIJilnfr6Q"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
         "name": "STARBOYZ",
         "url": "https://open.spotify.com/album/1GRCiDDDgMNf3jWnM9efjJ"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 152186,
       "name": "GYALDEM",
       "url": "https://open.spotify.com/track/3L3gjaGUsqpvWxi17lFLL9"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
-        "name": "GALLARDO",
-        "url": "https://open.spotify.com/album/5ucpnJp5ZzMuwqlizbqg77"
-      },
-      "artists": [
-        {
-          "name": "CANEY030",
-          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "GALLARDO",
-      "url": "https://open.spotify.com/track/5wbSLkHkTRPGaIJilnfr6Q"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "MON FR\u00c8RE",
-        "url": "https://open.spotify.com/album/2ChCYqCNePb3OtnYNJBIKF"
-      },
-      "artists": [
-        {
-          "name": "THIZZY52",
-          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "MON FR\u00c8RE",
-      "url": "https://open.spotify.com/track/6UjrBp0tyzBG2n0ZgQ72Jv"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/5C1Sd7q6rTVcgBTb8ObWEg"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 136800,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/4mGjBB9Kfn0Znah2TIlYNG"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "MON FR\u00c8RE",
+        "url": "https://open.spotify.com/album/2ChCYqCNePb3OtnYNJBIKF"
+      },
+      "artists": [
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "MON FR\u00c8RE",
+      "url": "https://open.spotify.com/track/6UjrBp0tyzBG2n0ZgQ72Jv"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "Mein Cutie <3",
-        "url": "https://open.spotify.com/album/73MU9R7JX5phaaO5StfOA7"
-      },
-      "artists": [
-        {
-          "name": "YUNG SAINT PAUL",
-          "url": "https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R"
-        }
-      ],
-      "duration_ms": 130914,
-      "name": "Mein Cutie <3",
-      "url": "https://open.spotify.com/track/4amIje1MIz0NbIzmso07tZ"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "\u00f4 dis o\u00f9 t'es",
         "url": "https://open.spotify.com/album/2zil9C5LyM5ryiFTYv9sEE"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 130469,
       "name": "\u00f4 dis o\u00f9 t'es",
       "url": "https://open.spotify.com/track/6HFIcrIgp65pXnnFm7zC4w"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "Mein Cutie <3",
+        "url": "https://open.spotify.com/album/73MU9R7JX5phaaO5StfOA7"
+      },
+      "artists": [
+        {
+          "name": "YUNG SAINT PAUL",
+          "url": "https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R"
+        }
+      ],
+      "duration_ms": 130914,
+      "name": "Mein Cutie <3",
+      "url": "https://open.spotify.com/track/4amIje1MIz0NbIzmso07tZ"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "Red Bull Weiss",
-        "url": "https://open.spotify.com/album/7yAkRP95MnetxqZqDc6lme"
-      },
-      "artists": [
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        }
-      ],
-      "duration_ms": 110363,
-      "name": "Red Bull Weiss",
-      "url": "https://open.spotify.com/track/7bxNBMYMOy0m2GRs4vfZIa"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "Nur Mailbox",
         "url": "https://open.spotify.com/album/4ilDdqTIkZk1FjB4IDCghU"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 156000,
       "name": "Nur Mailbox",
       "url": "https://open.spotify.com/track/5InwXfb7WnudjoHEdmRLVy"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "Red Bull Weiss",
+        "url": "https://open.spotify.com/album/7yAkRP95MnetxqZqDc6lme"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "duration_ms": 110363,
+      "name": "Red Bull Weiss",
+      "url": "https://open.spotify.com/track/7bxNBMYMOy0m2GRs4vfZIa"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -1451,18 +1451,22 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "Luftkuss",
-        "url": "https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO"
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS"
       },
       "artists": [
         {
-          "name": "Ceren",
-          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Jamin",
+          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
         }
       ],
-      "duration_ms": 113761,
-      "name": "Luftkuss",
-      "url": "https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ"
+      "duration_ms": 184453,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/1ivw4hEEh8sUHcqjmuYnZ6"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -1483,22 +1487,18 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS"
+        "name": "Luftkuss",
+        "url": "https://open.spotify.com/album/2dAs0KawfQSD9DgNdjOCtO"
       },
       "artists": [
         {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Jamin",
-          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
         }
       ],
-      "duration_ms": 184453,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/1ivw4hEEh8sUHcqjmuYnZ6"
+      "duration_ms": 113761,
+      "name": "Luftkuss",
+      "url": "https://open.spotify.com/track/2BiDON4uyW5VvPXJN5IOpZ"
     },
     {
       "added_at": "2026-10-16 09:20:36",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-10-16 09:20:36",
       "album": {
-        "name": "V.T.Z.R.",
-        "url": "https://open.spotify.com/album/06LmQq3NiLQmulXmGMM53I"
-      },
-      "artists": [
-        {
-          "name": "Azu",
-          "url": "https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "FACECARD",
-      "url": "https://open.spotify.com/track/1t3pxAheT48eYCT9y8SPNY"
-    },
-    {
-      "added_at": "2026-10-16 09:20:36",
-      "album": {
         "name": "SOMMER 218",
         "url": "https://open.spotify.com/album/2JXK6ElDFAsWBm9g9yZZC5"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 123950,
       "name": "SOMMER 218",
       "url": "https://open.spotify.com/track/070F9GBGdKgJx49yCKdMsA"
+    },
+    {
+      "added_at": "2026-10-16 09:20:36",
+      "album": {
+        "name": "V.T.Z.R.",
+        "url": "https://open.spotify.com/album/06LmQq3NiLQmulXmGMM53I"
+      },
+      "artists": [
+        {
+          "name": "Azu",
+          "url": "https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "FACECARD",
+      "url": "https://open.spotify.com/track/1t3pxAheT48eYCT9y8SPNY"
     },
     {
       "added_at": "2026-10-16 09:20:36",

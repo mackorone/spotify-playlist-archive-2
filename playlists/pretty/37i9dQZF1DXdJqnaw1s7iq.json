@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 72726,
+  "num_followers": 72750,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
-      },
-      "artists": [
-        {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
-        }
-      ],
-      "duration_ms": 345560,
-      "name": "Blind - Radio Edit",
-      "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Tremors",
         "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 233017,
       "name": "The Wheel",
       "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        }
+      ],
+      "duration_ms": 345560,
+      "name": "Blind - Radio Edit",
+      "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "99 Cents",
-        "url": "https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Joli Mai",
         "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
       },
@@ -1131,6 +1115,38 @@
       "duration_ms": 226479,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Further",
+        "url": "https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "99 Cents",
+        "url": "https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1151,22 +1167,6 @@
       "duration_ms": 253584,
       "name": "Warm Water - Snakehips Remix",
       "url": "https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Further",
-        "url": "https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Swoon",
-      "url": "https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Love What Survives",
-        "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "Micachu",
-          "url": "https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa"
-        }
-      ],
-      "duration_ms": 251356,
-      "name": "Marilyn",
-      "url": "https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1251,6 +1231,26 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "Love What Survives",
+        "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Micachu",
+          "url": "https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa"
+        }
+      ],
+      "duration_ms": 251356,
+      "name": "Marilyn",
+      "url": "https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "All In All",
         "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
       },
@@ -1263,22 +1263,6 @@
       "duration_ms": 468113,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Underwaterfall",
-        "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
-      },
-      "artists": [
-        {
-          "name": "Bearcubs",
-          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
-        }
-      ],
-      "duration_ms": 260064,
-      "name": "Underwaterfall",
-      "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1311,6 +1295,22 @@
       "duration_ms": 222339,
       "name": "Ivory",
       "url": "https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Underwaterfall",
+        "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
+      },
+      "artists": [
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "duration_ms": 260064,
+      "name": "Underwaterfall",
+      "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1395,38 +1395,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 196052,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/2ru82sMlycieEodGcKyszh"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
-        "name": "Lover Chanting (Jayda G Remix)",
-        "url": "https://open.spotify.com/album/2iA2IGACvVxyS5p7qhH9vN"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 205464,
-      "name": "Lover Chanting - Edit",
-      "url": "https://open.spotify.com/track/3ceihRUljV1eSM1plIjsB6"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "Nostalchic",
         "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
@@ -1447,6 +1415,22 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
+        "name": "Lover Chanting (Jayda G Remix)",
+        "url": "https://open.spotify.com/album/2iA2IGACvVxyS5p7qhH9vN"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 205464,
+      "name": "Lover Chanting - Edit",
+      "url": "https://open.spotify.com/track/3ceihRUljV1eSM1plIjsB6"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
         "name": "Choose Your Weapon",
         "url": "https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
       },
       "artists": [
         {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 344158,
-      "name": "Hours",
-      "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
+      "duration_ms": 196052,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/2ru82sMlycieEodGcKyszh"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1491,6 +1475,22 @@
       "duration_ms": 285565,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 344158,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
     },
     {
       "added_at": "2025-08-22 17:54:07",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-08-22 17:54:07",
       "album": {
-        "name": "There Is Love in You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 281303,
-      "name": "She Just Likes to Fight",
-      "url": "https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7"
-    },
-    {
-      "added_at": "2025-08-22 17:54:07",
-      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 299000,
       "name": "BULLETS",
       "url": "https://open.spotify.com/track/54B9SGrQI1Yfu0vuoBZBGy"
+    },
+    {
+      "added_at": "2025-08-22 17:54:07",
+      "album": {
+        "name": "There Is Love in You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 281303,
+      "name": "She Just Likes to Fight",
+      "url": "https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7"
     },
     {
       "added_at": "2025-08-22 17:54:07",

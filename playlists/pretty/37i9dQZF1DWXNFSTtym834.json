@@ -1,6 +1,6 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1417236,
+  "num_followers": 1417321,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "All Hope Is Gone (10th Anniversary)",
-        "url": "https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 284120,
-      "name": "Psychosocial",
-      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 321040,
       "name": "Take A Look Around",
       "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "All Hope Is Gone (10th Anniversary)",
+        "url": "https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 284120,
+      "name": "Psychosocial",
+      "url": "https://open.spotify.com/track/3RAFcUBrCNaboRXoP3S5t1"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Vol. 3: The Subliminal Verses (Special Edition)",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 278600,
-      "name": "Before I Forget",
-      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -299,18 +283,34 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Ten Thousand Fists",
-        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
+        "name": "Vol. 3: The Subliminal Verses (Special Edition)",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 245226,
-      "name": "Stricken",
-      "url": "https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV"
+      "duration_ms": 278600,
+      "name": "Before I Forget",
+      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Avenged Sevenfold",
+        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 352426,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -331,18 +331,18 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Avenged Sevenfold",
-        "url": "https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF"
+        "name": "Ten Thousand Fists",
+        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
       },
       "artists": [
         {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 352426,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/7zAt4tdL44D3VuzsvM0N8n"
+      "duration_ms": 245226,
+      "name": "Stricken",
+      "url": "https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 311813,
+      "name": "Bat Country",
+      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
         "name": "White Pony",
         "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 304373,
       "name": "Awake",
       "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 311813,
-      "name": "Bat Country",
-      "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Unholy Confessions",
+      "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
         "name": "Iowa (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 236333,
       "name": "Eat You Alive",
       "url": "https://open.spotify.com/track/0EtzpDX05udzfLcGntGbGU"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
-        "name": "Waking The Fallen",
-        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Unholy Confessions",
-      "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -875,8 +875,8 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+        "name": "St. Anger",
+        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 466586,
-      "name": "The Unforgiven III",
-      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
+      "duration_ms": 441132,
+      "name": "St. Anger",
+      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Reinventing the Steel",
-        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 316493,
-      "name": "Revolution Is My Name",
-      "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Untouchables",
         "url": "https://open.spotify.com/album/32H8ZczfX12FWWODVVr6NQ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 270960,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/66LT15XEqCaWiMG44NGQRE"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Reinventing the Steel",
+        "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 316493,
+      "name": "Revolution Is My Name",
+      "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -955,8 +955,8 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "St. Anger",
-        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 441132,
-      "name": "St. Anger",
-      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Primitive (Special Edition)",
-        "url": "https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l"
-      },
-      "artists": [
-        {
-          "name": "Soulfly",
-          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
-        }
-      ],
-      "duration_ms": 311986,
-      "name": "Jumpdafuckup",
-      "url": "https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Horizons (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 187960,
       "name": "Carrion",
       "url": "https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Primitive (Special Edition)",
+        "url": "https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l"
+      },
+      "artists": [
+        {
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+        }
+      ],
+      "duration_ms": 311986,
+      "name": "Jumpdafuckup",
+      "url": "https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Supremacy",
-        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Destroy Everything",
-      "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Fate of Norns",
         "url": "https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 270253,
       "name": "The Pursuit of Vikings",
       "url": "https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Supremacy",
+        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Destroy Everything",
+      "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Brave New World (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 434293,
-      "name": "Blood Brothers - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4q9YY8eorYGjpjk3Zko7l9"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Twilight Of The Thunder God",
         "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 263160,
       "name": "Guardians Of Asgaard",
       "url": "https://open.spotify.com/track/2DR9AzDhYeStkHupvU08FC"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Brave New World (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 434293,
+      "name": "Blood Brothers - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4q9YY8eorYGjpjk3Zko7l9"
     },
     {
       "added_at": "2026-04-05 20:45:13",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-04-05 20:45:13",
       "album": {
-        "name": "Slania",
-        "url": "https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ"
-      },
-      "artists": [
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Inis Mona",
-      "url": "https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt"
-    },
-    {
-      "added_at": "2026-04-05 20:45:13",
-      "album": {
         "name": "Shadows Are Security",
         "url": "https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 238173,
       "name": "Through Struggle",
       "url": "https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1"
+    },
+    {
+      "added_at": "2026-04-05 20:45:13",
+      "album": {
+        "name": "Slania",
+        "url": "https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ"
+      },
+      "artists": [
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "duration_ms": 249240,
+      "name": "Inis Mona",
+      "url": "https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt"
     },
     {
       "added_at": "2026-04-05 20:45:13",

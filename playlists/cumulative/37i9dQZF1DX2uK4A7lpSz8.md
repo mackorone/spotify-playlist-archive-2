@@ -4,7 +4,7 @@
 
 > A collection of feel\-good songs from your favorite anime\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-50 songs - 3 hr 6 min
+51 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [il vento d'oro](https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture](https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX) | 4:55 | 2026-10-19 |  |
 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 | 2026-10-19 |  |
 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 | 2026-10-19 |  |
+| [Period](https://open.spotify.com/track/60TwNB7uyKHsm8zpuCSaR0) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Period](https://open.spotify.com/album/6MOiPzaRFngumUQFF4qG1A) | 3:26 | 2026-10-19 |  |
 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 | 2026-10-19 |  |
 | [RPG](https://open.spotify.com/track/7facNrW6VRW8s3ICZ8G1uW) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Tree](https://open.spotify.com/album/1NF6OvO7LcY8f7m5rVxU1T) | 4:51 | 2026-10-19 |  |
 | [Smells Blood](https://open.spotify.com/track/6ZRxnIHvjN0qTVRwz3PLtO) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [DEVILMAN crybaby \(Original Soundtrack\)](https://open.spotify.com/album/05xPgo0O1tujgg6eDzIfxV) | 1:49 | 2026-10-19 |  |
@@ -48,7 +49,7 @@
 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 | 2026-10-19 |  |
 | [消えない理由](https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [消えない理由](https://open.spotify.com/album/69GUXMqIsG12AEYIg5Uy7R) | 4:09 | 2026-10-19 |  |
 | [狂乱 Hey Kids!!](https://open.spotify.com/track/0ax0UBVE6S1Qh6ReyJbyXk) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/31hzHZDypaPz7M1AyIoMt9) | 4:10 | 2026-10-19 |  |
-| [猫じゃらし](https://open.spotify.com/track/5Qq7kURxLlKg0tu2ZTGGvs) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [猫じゃらし](https://open.spotify.com/album/2uYPJOuresrTw80IwTTuwr) | 2:47 | 2026-10-19 |  |
+| [猫じゃらし](https://open.spotify.com/track/5Qq7kURxLlKg0tu2ZTGGvs) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [猫じゃらし](https://open.spotify.com/album/2uYPJOuresrTw80IwTTuwr) | 2:47 | 2026-10-19 | 2026-10-22 |
 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 | 2026-10-19 |  |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2026-10-19 |  |
 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2026-10-19 |  |

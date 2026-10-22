@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,520 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,546 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 22 | [1, 2 Many](https://open.spotify.com/track/226le7T3p82reYWzsi9Hsz) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:00 |
 | 23 | [Must've Never Met You](https://open.spotify.com/track/6ojicjDYUUoeE1tdSvfFo4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:19 |
 | 24 | [Tell 'Em About Tonight](https://open.spotify.com/track/6OxutlGyuRP0sWs9BbcIES) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way I Am](https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ) | 3:41 |
-| 25 | [Better That Way \(feat\. Luke Combs\)](https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Better That Way](https://open.spotify.com/album/0ymtg4pXliLjHMMGCcCoSt) | 3:45 |
+| 25 | [Love You Anyway](https://open.spotify.com/track/2kYevr8cbIAH2ha8210Bnz) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:49 |
 | 26 | [Better Together](https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:37 |
-| 27 | [Love You Anyway](https://open.spotify.com/track/2kYevr8cbIAH2ha8210Bnz) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:49 |
-| 28 | [Finders Keepers](https://open.spotify.com/track/2h7n0HIRYmOvE5MvI9GzSz) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Signs](https://open.spotify.com/album/2WSyZvOGDRjPvhY6xUNZ71) | 3:43 |
+| 27 | [Finders Keepers](https://open.spotify.com/track/2h7n0HIRYmOvE5MvI9GzSz) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Signs](https://open.spotify.com/album/2WSyZvOGDRjPvhY6xUNZ71) | 3:43 |
+| 28 | [Better That Way \(feat\. Luke Combs\)](https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Better That Way](https://open.spotify.com/album/0ymtg4pXliLjHMMGCcCoSt) | 3:45 |
 | 29 | [Back in the Saddle](https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Back in the Saddle](https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ) | 3:33 |
 | 30 | [Lovin' On You](https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:15 |
 | 31 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 49 | [The Man He Sees in Me](https://open.spotify.com/track/4MXzdffMz78GLlLM7mDa9v) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 2:45 |
 | 50 | [Two Dozen Roses \(feat\. Luke Combs\)](https://open.spotify.com/track/5GQgvVT7tJGZNzj13pz36l) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Two Dozen Roses \(feat\. Luke Combs\)](https://open.spotify.com/album/3Drss6cMVLm1BC2787GlLY) | 3:50 |
 
-Snapshot ID: `atQMAAAAAABppfgkbSG7qkZrcBg69Od0`
+Snapshot ID: `atVdgAAAAADPiprKHoKvc4Bwu0rvGWAi`

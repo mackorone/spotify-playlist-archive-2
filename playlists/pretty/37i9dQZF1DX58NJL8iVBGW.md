@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Long\-shadow roots rock, folk, and Americana\. Grit\-worn, brooding, and  dark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,219 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,273 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 41 | [Hades Pleads](https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:36 |
 | 42 | [Get Right Church](https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Heavy Load](https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx) | 3:44 |
 | 43 | [The Edge of the Map \(Cumberland Gap\)](https://open.spotify.com/track/2kCAq5RxMJF0U7kYmzDcoL) | [Small Fools](https://open.spotify.com/artist/5IsHbK3X6ZDauHENF6HMEm) | [The Edge of the Map \(Cumberland Gap\)](https://open.spotify.com/album/3IzvwJ6nngKTdiyOdjJ70j) | 3:00 |
-| 44 | [Work Song](https://open.spotify.com/track/5szmwG86IFASvYrca21MEz) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 3:49 |
-| 45 | [Dark Feathers](https://open.spotify.com/track/3ron5Rg6TcEC2eIHzhoMK5) | [Renee Christine](https://open.spotify.com/artist/1VGSv0y30R6THoFPMiccx2) | [Dark Feathers](https://open.spotify.com/album/1lSnurE1qrHG1rai2ps8CK) | 3:57 |
+| 44 | [Dark Feathers](https://open.spotify.com/track/3ron5Rg6TcEC2eIHzhoMK5) | [Renee Christine](https://open.spotify.com/artist/1VGSv0y30R6THoFPMiccx2) | [Dark Feathers](https://open.spotify.com/album/1lSnurE1qrHG1rai2ps8CK) | 3:57 |
+| 45 | [Work Song](https://open.spotify.com/track/5szmwG86IFASvYrca21MEz) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 3:49 |
 | 46 | [Hy\-Brasil](https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 5:35 |
 | 47 | [Bottom of the River](https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Bottom of the River](https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED) | 3:21 |
 | 48 | [Go Dig My Grave](https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 8:38 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 51 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 |
 | 52 | [Ashes](https://open.spotify.com/track/1bSaCwYFe8qwTcNuEIFvKV) | [Goodnight, Texas](https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5) | [Wooden Machine](https://open.spotify.com/album/1pTDcGfgXQEwT2uzMuKTT3) | 3:42 |
 | 53 | [Leaving the Zoo](https://open.spotify.com/track/48yHIdE2cS9InGZf95kKXF) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Leaving The Zoo](https://open.spotify.com/album/3zmh3e8iqYzJhvEDcfmgkf) | 5:23 |
-| 54 | [Judgement Day](https://open.spotify.com/track/09p0mCc89zi4lqvil3uW1Z) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Reckoning](https://open.spotify.com/album/2fwzpGgUamzs0JvTNQtA9u) | 3:07 |
-| 55 | [Sling and Stone](https://open.spotify.com/track/0iDxbQIExTjJqXBLzXP8ow) | [Jess Woodland](https://open.spotify.com/artist/20IXA7HkfD8CccYusWwEsq) | [Sling and Stone](https://open.spotify.com/album/3LbKa4s282oUZg7TgZW0xk) | 3:14 |
+| 54 | [Sling and Stone](https://open.spotify.com/track/0iDxbQIExTjJqXBLzXP8ow) | [Jess Woodland](https://open.spotify.com/artist/20IXA7HkfD8CccYusWwEsq) | [Sling and Stone](https://open.spotify.com/album/3LbKa4s282oUZg7TgZW0xk) | 3:14 |
+| 55 | [Judgement Day](https://open.spotify.com/track/09p0mCc89zi4lqvil3uW1Z) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Reckoning](https://open.spotify.com/album/2fwzpGgUamzs0JvTNQtA9u) | 3:07 |
 | 56 | [Lost Boys](https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W) | [Paper Bird](https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn) | [When the River Took Flight](https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB) | 3:06 |
 | 57 | [Alone And Forsaken](https://open.spotify.com/track/4Vj4lQaRXrSzyLvXTl0vV8) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [Country Is Dead](https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN) | 3:42 |
 | 58 | [Shake off Your Flesh](https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI) | [The Huntress and Holder of Hands](https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX) | [Avalon](https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg) | 5:31 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 71 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
 | 72 | [Lungs](https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Lungs](https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g) | 2:57 |
 | 73 | [Cadillac Dust](https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Tin Type](https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu) | 3:14 |
-| 74 | [Little Dove](https://open.spotify.com/track/00QfFBVK4riZi2YdmPbrGL) | [Lacy Green](https://open.spotify.com/artist/6WO2WuZjHxfZweG6FvoeCL), [Adam Wright](https://open.spotify.com/artist/22rPdPcY0bEc2E0TgD70bc), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Little Dove](https://open.spotify.com/album/19XBdwZcAWUlQo8AuOiXke) | 3:48 |
-| 75 | [Get What You Give](https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [By The Rule](https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T) | 3:10 |
+| 74 | [Get What You Give](https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [By The Rule](https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T) | 3:10 |
+| 75 | [Little Dove](https://open.spotify.com/track/00QfFBVK4riZi2YdmPbrGL) | [Lacy Green](https://open.spotify.com/artist/6WO2WuZjHxfZweG6FvoeCL), [Adam Wright](https://open.spotify.com/artist/22rPdPcY0bEc2E0TgD70bc), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Little Dove](https://open.spotify.com/album/19XBdwZcAWUlQo8AuOiXke) | 3:48 |
 | 76 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
 | 77 | [Heaven Help Me](https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Heaven Help Me](https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m) | 3:04 |
 | 78 | [Pull the Moon](https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Quiet Flame](https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO) | 4:02 |

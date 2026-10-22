@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Spain.",
-  "num_followers": 1726795,
+  "num_followers": 1726837,
   "original_name": "Top 50 - Spain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mmrk2AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mmw0AAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "SORDO DE UN PIE",
         "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7AZ2LheRr13nDXyVrXKKMQ"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
         "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
@@ -49,7 +49,23 @@
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
+      "album": {
+        "name": "SORDO DE UN PIE",
+        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "duration_ms": 177820,
+      "name": "CONTIGO",
+      "url": "https://open.spotify.com/track/4YfiXtaSvZsRKwHwdI0qcL"
+    },
+    {
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "NO PASA NADA HOMBRE",
         "url": "https://open.spotify.com/album/2LZilHeJFb3m7Rr95Fapqr"
@@ -69,23 +85,7 @@
       "url": "https://open.spotify.com/track/1nnh1lotoDxDMcIgiyB1zi"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
-      "album": {
-        "name": "SORDO DE UN PIE",
-        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        }
-      ],
-      "duration_ms": 177820,
-      "name": "CONTIGO",
-      "url": "https://open.spotify.com/track/4YfiXtaSvZsRKwHwdI0qcL"
-    },
-    {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "SORDO DE UN PIE",
         "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
@@ -101,23 +101,7 @@
       "url": "https://open.spotify.com/track/484KFKs3HA4EBKZKXR1p9X"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
-      "album": {
-        "name": "SORDO DE UN PIE",
-        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        }
-      ],
-      "duration_ms": 141180,
-      "name": "AIRE",
-      "url": "https://open.spotify.com/track/4FNsQDspil49kbpjvI7G3Y"
-    },
-    {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "EL BAIFO",
         "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
@@ -137,7 +121,23 @@
       "url": "https://open.spotify.com/track/0TJYJrUDKQ1btt4g0Xwklw"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
+      "album": {
+        "name": "SORDO DE UN PIE",
+        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "duration_ms": 141180,
+      "name": "AIRE",
+      "url": "https://open.spotify.com/track/4FNsQDspil49kbpjvI7G3Y"
+    },
+    {
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "SORDO DE UN PIE",
         "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/0eGMdy3PE9JcMTFGarNWS3"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "SORDO DE UN PIE",
         "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/1oSgmTpcuIrT3CwCRn5p8D"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "La Voz Favorita",
         "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "EL BAIFO",
         "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/6LD1tYOKReFqZh5ZdCdxIz"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "Dichavate",
         "url": "https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "La Falda",
         "url": "https://open.spotify.com/album/0tbf8UBDFwP0zMfcc7zqJh"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/3RskBcs0Iu92bHl4KmRryd"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "SORDO DE UN PIE",
         "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
@@ -277,59 +277,7 @@
       "url": "https://open.spotify.com/track/0hkZlvla8RTwi4TSwMpRc2"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
-      "album": {
-        "name": "SORDO DE UN PIE",
-        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        }
-      ],
-      "duration_ms": 181946,
-      "name": "SINTIGO",
-      "url": "https://open.spotify.com/track/5lLZCyubBUxtmq5HL1zYhl"
-    },
-    {
-      "added_at": "2026-10-20 14:09:27",
-      "album": {
-        "name": "SORDO DE UN PIE",
-        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        }
-      ],
-      "duration_ms": 153588,
-      "name": "FACE ID",
-      "url": "https://open.spotify.com/track/1bRkvxyQ4dr0jVINtQp2Bq"
-    },
-    {
-      "added_at": "2026-10-20 14:09:27",
-      "album": {
-        "name": "pa ti toa <3",
-        "url": "https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 213001,
-      "name": "pa ti toa <3",
-      "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
-    },
-    {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "NO PASA NADA HOMBRE",
         "url": "https://open.spotify.com/album/2LZilHeJFb3m7Rr95Fapqr"
@@ -349,7 +297,7 @@
       "url": "https://open.spotify.com/track/4tAwuKIsQeflnb51Er77cU"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "SORDO DE UN PIE",
         "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
@@ -360,12 +308,12 @@
           "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
         }
       ],
-      "duration_ms": 165133,
-      "name": "RIGHT NOW",
-      "url": "https://open.spotify.com/track/5DQlWplGHmjCRPZtZyet4i"
+      "duration_ms": 181946,
+      "name": "SINTIGO",
+      "url": "https://open.spotify.com/track/5lLZCyubBUxtmq5HL1zYhl"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "NO ME GUILLO v2",
         "url": "https://open.spotify.com/album/0cYF1DJpl1oizxiRmBYuZJ"
@@ -389,7 +337,7 @@
       "url": "https://open.spotify.com/track/0vHJupzsREkNskbkuSiwF1"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "VAMO A VEL",
         "url": "https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI"
@@ -409,43 +357,27 @@
       "url": "https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
-        "name": "SORDO DE UN PIE",
-        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
+        "name": "pa ti toa <3",
+        "url": "https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD"
       },
       "artists": [
         {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         },
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 182873,
-      "name": "SENTADILLA",
-      "url": "https://open.spotify.com/track/1b6KP5w07kkGFtDt7pQ796"
+      "duration_ms": 213001,
+      "name": "pa ti toa <3",
+      "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
-      "album": {
-        "name": "Las mas bonitas son p#tas",
-        "url": "https://open.spotify.com/album/6ylkMDI1T3kWWSeDdD8yyO"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 159840,
-      "name": "Las mas bonitas son p#tas",
-      "url": "https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe"
-    },
-    {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "Real G4 Life Vol. 3",
         "url": "https://open.spotify.com/album/4fIyZEKAUwrH6o4rWrdmT0"
@@ -461,7 +393,23 @@
       "url": "https://open.spotify.com/track/3kWMm2iFysQf0j1857c1vk"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
+      "album": {
+        "name": "SORDO DE UN PIE",
+        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "RIGHT NOW",
+      "url": "https://open.spotify.com/track/5DQlWplGHmjCRPZtZyet4i"
+    },
+    {
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
@@ -477,7 +425,59 @@
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
+      "album": {
+        "name": "Las mas bonitas son p#tas",
+        "url": "https://open.spotify.com/album/6ylkMDI1T3kWWSeDdD8yyO"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 159840,
+      "name": "Las mas bonitas son p#tas",
+      "url": "https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe"
+    },
+    {
+      "added_at": "2026-10-21 17:54:16",
+      "album": {
+        "name": "TA FACIL",
+        "url": "https://open.spotify.com/album/3NfLFMJll0BlczcIVzDu2m"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "duration_ms": 175681,
+      "name": "TOCATE SOLA",
+      "url": "https://open.spotify.com/track/1ouj0AkMXny8V1su2tuoci"
+    },
+    {
+      "added_at": "2026-10-21 17:54:16",
+      "album": {
+        "name": "SORDO DE UN PIE",
+        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "duration_ms": 153588,
+      "name": "FACE ID",
+      "url": "https://open.spotify.com/track/1bRkvxyQ4dr0jVINtQp2Bq"
+    },
+    {
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "AGUA",
         "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "SORDO DE UN PIE",
         "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
@@ -508,16 +508,32 @@
           "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
         },
         {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 174426,
-      "name": "VAMOS PALL\u00c1",
-      "url": "https://open.spotify.com/track/4knOtGLKWSM0Nzcr0StpuK"
+      "duration_ms": 182873,
+      "name": "SENTADILLA",
+      "url": "https://open.spotify.com/track/1b6KP5w07kkGFtDt7pQ796"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
+      "album": {
+        "name": "TRAPPii 2",
+        "url": "https://open.spotify.com/album/6edg9wy9YoB6Hr27gHmSCQ"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        }
+      ],
+      "duration_ms": 167428,
+      "name": "After",
+      "url": "https://open.spotify.com/track/6xNVBgIRbb9cHKR1ipzIfm"
+    },
+    {
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "Se Le Ve",
         "url": "https://open.spotify.com/album/2FbThz4XHG6MbcrF9shGN7"
@@ -545,10 +561,10 @@
       "url": "https://open.spotify.com/track/0ExNALbmBpY7IAZ2dzupnv"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
-        "name": "TA FACIL",
-        "url": "https://open.spotify.com/album/3NfLFMJll0BlczcIVzDu2m"
+        "name": "SORDO DE UN PIE",
+        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
       },
       "artists": [
         {
@@ -556,32 +572,16 @@
           "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
         },
         {
-          "name": "La Pantera",
-          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
         }
       ],
-      "duration_ms": 175681,
-      "name": "TOCATE SOLA",
-      "url": "https://open.spotify.com/track/1ouj0AkMXny8V1su2tuoci"
+      "duration_ms": 174426,
+      "name": "VAMOS PALL\u00c1",
+      "url": "https://open.spotify.com/track/4knOtGLKWSM0Nzcr0StpuK"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
-      "album": {
-        "name": "TRAPPii 2",
-        "url": "https://open.spotify.com/album/6edg9wy9YoB6Hr27gHmSCQ"
-      },
-      "artists": [
-        {
-          "name": "Conep",
-          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
-        }
-      ],
-      "duration_ms": 167428,
-      "name": "After",
-      "url": "https://open.spotify.com/track/6xNVBgIRbb9cHKR1ipzIfm"
-    },
-    {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "La Nieve (Original song from the film La Bola Negra)",
         "url": "https://open.spotify.com/album/6dvL5fF1fokV4nwgaw9j2i"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/6W4fSGsqNmyPTYo29rJ50z"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "TRAMPA",
         "url": "https://open.spotify.com/album/1YjqNF0ynaNtkomCyICFdw"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/52Vhx5T4MUIsIkar8D9Ovi"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "EL BAIFO",
         "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
@@ -641,23 +641,7 @@
       "url": "https://open.spotify.com/track/4cAgxAadH8i2QmPtQmK6BK"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
-      "album": {
-        "name": "Dama y Vagabundo",
-        "url": "https://open.spotify.com/album/5oYCZYhIe59Y95fzwXngHL"
-      },
-      "artists": [
-        {
-          "name": "Envido6",
-          "url": "https://open.spotify.com/artist/5J902UuqnRFheyj03hRTpf"
-        }
-      ],
-      "duration_ms": 190901,
-      "name": "Dama y Vagabundo",
-      "url": "https://open.spotify.com/track/7FluWUa59Z3kXYdbguz8Wr"
-    },
-    {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "Peli De Terror",
         "url": "https://open.spotify.com/album/0DV9Wp58g7OCCzpD8jbQoK"
@@ -681,7 +665,7 @@
       "url": "https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "Eso Si Es De Gangster",
         "url": "https://open.spotify.com/album/1NFuCKrxkK9Dyo4cUtbGLb"
@@ -709,27 +693,7 @@
       "url": "https://open.spotify.com/track/56V7nzrqr6Sq1uFym4odwa"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
-      "album": {
-        "name": "Better Late Than Never",
-        "url": "https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 243070,
-      "name": "Dardos",
-      "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
-    },
-    {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "EL BAIFO",
         "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
@@ -745,55 +709,7 @@
       "url": "https://open.spotify.com/track/55ADnsCq80j9s8tzSrXKW1"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
-      "album": {
-        "name": "SORDO DE UN PIE",
-        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        }
-      ],
-      "duration_ms": 185900,
-      "name": "LOLA",
-      "url": "https://open.spotify.com/track/0aMgm42ExTYIlDMls1nm3C"
-    },
-    {
-      "added_at": "2026-10-20 14:09:27",
-      "album": {
-        "name": "\u00c9xitos Espa\u00f1a",
-        "url": "https://open.spotify.com/album/0JE2ZcJ7u8wtoc1RCVkuhU"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Corrupta",
-      "url": "https://open.spotify.com/track/1Ok4aiD2OUO6AyhrlvF98b"
-    },
-    {
-      "added_at": "2026-10-20 14:09:27",
-      "album": {
-        "name": "Spanish Leather",
-        "url": "https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 166068,
-      "name": "BABIECA!",
-      "url": "https://open.spotify.com/track/45VlOHY7pEd6IC3plYeKZ3"
-    },
-    {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "Do Not Disturb: Late Checkout",
         "url": "https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO"
@@ -813,7 +729,59 @@
       "url": "https://open.spotify.com/track/6iWg7wVBXWwQYlVqp4UKPh"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
+      "album": {
+        "name": "Dama y Vagabundo",
+        "url": "https://open.spotify.com/album/5oYCZYhIe59Y95fzwXngHL"
+      },
+      "artists": [
+        {
+          "name": "Envido6",
+          "url": "https://open.spotify.com/artist/5J902UuqnRFheyj03hRTpf"
+        }
+      ],
+      "duration_ms": 190901,
+      "name": "Dama y Vagabundo",
+      "url": "https://open.spotify.com/track/7FluWUa59Z3kXYdbguz8Wr"
+    },
+    {
+      "added_at": "2026-10-21 17:54:16",
+      "album": {
+        "name": "\u00c9xitos Espa\u00f1a",
+        "url": "https://open.spotify.com/album/0JE2ZcJ7u8wtoc1RCVkuhU"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Corrupta",
+      "url": "https://open.spotify.com/track/1Ok4aiD2OUO6AyhrlvF98b"
+    },
+    {
+      "added_at": "2026-10-21 17:54:16",
+      "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 243070,
+      "name": "Dardos",
+      "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
+    },
+    {
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "POR SI MA\u00d1ANA NO ESTOY",
         "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
@@ -829,39 +797,7 @@
       "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
-      "album": {
-        "name": "SORDO DE UN PIE",
-        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "AHORA NO",
-      "url": "https://open.spotify.com/track/43CiJ5V9lGMLOzmCqEKdGO"
-    },
-    {
-      "added_at": "2026-10-20 14:09:27",
-      "album": {
-        "name": "Quiero m\u00e1s",
-        "url": "https://open.spotify.com/album/6X4uBmtXQoR3wYLCpr76Sw"
-      },
-      "artists": [
-        {
-          "name": "La Pantera",
-          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
-        }
-      ],
-      "duration_ms": 151048,
-      "name": "Quiero m\u00e1s",
-      "url": "https://open.spotify.com/track/0P95y11fiaArEEDcT995WF"
-    },
-    {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "PINKY PROMISE 2",
         "url": "https://open.spotify.com/album/5D9814ry3IMoiArNV7dwng"
@@ -885,7 +821,23 @@
       "url": "https://open.spotify.com/track/6hFzA2zbArwtGpmTQEsxnn"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
+      "album": {
+        "name": "Spanish Leather",
+        "url": "https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 166068,
+      "name": "BABIECA!",
+      "url": "https://open.spotify.com/track/45VlOHY7pEd6IC3plYeKZ3"
+    },
+    {
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "SORDO DE UN PIE",
         "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
@@ -896,28 +848,76 @@
           "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
         }
       ],
-      "duration_ms": 229226,
-      "name": "QUERIDO TIEMPO",
-      "url": "https://open.spotify.com/track/17KNvgjeg1wY2pAaMpiFcT"
+      "duration_ms": 185900,
+      "name": "LOLA",
+      "url": "https://open.spotify.com/track/0aMgm42ExTYIlDMls1nm3C"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
-        "name": "Manufacturas del Club de la Gente Sola (MCGS)",
-        "url": "https://open.spotify.com/album/2nbzoGtAmIt5pVkBMEgVvH"
+        "name": "Quiero m\u00e1s",
+        "url": "https://open.spotify.com/album/6X4uBmtXQoR3wYLCpr76Sw"
       },
       "artists": [
         {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
         }
       ],
-      "duration_ms": 250720,
-      "name": "Olivos",
-      "url": "https://open.spotify.com/track/4zBjSyZGHsYCyhHQx95WnM"
+      "duration_ms": 151048,
+      "name": "Quiero m\u00e1s",
+      "url": "https://open.spotify.com/track/0P95y11fiaArEEDcT995WF"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-10-21 17:54:16",
+      "album": {
+        "name": "SORDO DE UN PIE",
+        "url": "https://open.spotify.com/album/6W88MgHDPkCPL64IIH3jir"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "AHORA NO",
+      "url": "https://open.spotify.com/track/43CiJ5V9lGMLOzmCqEKdGO"
+    },
+    {
+      "added_at": "2026-10-21 17:54:16",
+      "album": {
+        "name": "CARITA FELIZ",
+        "url": "https://open.spotify.com/album/72fKROtde4M6Rv14mgIOpm"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 193910,
+      "name": "CARITA FELIZ",
+      "url": "https://open.spotify.com/track/6bQsFck5fRznOrCfJMxF1c"
+    },
+    {
+      "added_at": "2026-10-21 17:54:16",
       "album": {
         "name": "NO PASA NADA HOMBRE",
         "url": "https://open.spotify.com/album/4ArjbWv4T84aHRHzMsclzB"
@@ -933,28 +933,20 @@
       "url": "https://open.spotify.com/track/1i1VqbJKfTMZYyO4fcMBO1"
     },
     {
-      "added_at": "2026-10-20 14:09:27",
+      "added_at": "2026-10-21 17:54:16",
       "album": {
-        "name": "EL DIAMOND FOREVER",
-        "url": "https://open.spotify.com/album/3XKJ8cCTqAPODrDQRCBo1J"
+        "name": "Manufacturas del Club de la Gente Sola (MCGS)",
+        "url": "https://open.spotify.com/album/2nbzoGtAmIt5pVkBMEgVvH"
       },
       "artists": [
         {
-          "name": "Fronti",
-          "url": "https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
         }
       ],
-      "duration_ms": 191580,
-      "name": "SPICY",
-      "url": "https://open.spotify.com/track/1lmGCKyRnoiRuuJQrNdsfB"
+      "duration_ms": 250720,
+      "name": "Olivos",
+      "url": "https://open.spotify.com/track/4zBjSyZGHsYCyhHQx95WnM"
     }
   ],
   "unique_name": "Top 50 - Spain",

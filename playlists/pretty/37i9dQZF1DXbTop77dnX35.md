@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Fireboy DML,Blaqbonez, Solana, Gyakie, Cruel Santino, Sarkodie, Katseye and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,659 likes - 71 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,735 likes - 71 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 40 | [Don't Say Bye](https://open.spotify.com/track/0wBZUYzwFmcLtA2H4Fpl9S) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA), [Shiloh Yodellé](https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH) | [Something To Die For](https://open.spotify.com/album/5ihcKiGRtC9jo8NGa36TeT) | 2:57 |
 | 41 | [Heya](https://open.spotify.com/track/3xfZflUNY7N5KQCSjT9bl1) | [Heliograph](https://open.spotify.com/artist/1FEutGSizDVYrOB6C8TQXu), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Baray](https://open.spotify.com/artist/7t3BQ6Vgg0GvX0ZlpjTV3N), [Hika](https://open.spotify.com/artist/7doVWlAValxHrNse2eIBdu) | [Heya](https://open.spotify.com/album/5m1yeNASTwzZR14FyyqdVJ) | 2:30 |
 | 42 | [Different Breed](https://open.spotify.com/track/6OJ3qy7Fuc4p5ezXgPZqO0) | [Fuzeejasmine](https://open.spotify.com/artist/51BQQDclzLAUbxx2VfIigc), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [2 Classics](https://open.spotify.com/album/10NrxBxgrEXhajpNsUxtcO) | 2:53 |
-| 43 | [Swag Up](https://open.spotify.com/track/0ayOzJH8S7ikVxGe4FphUc) | [Tobi Nation](https://open.spotify.com/artist/7pzMp7mAU2KRlAjtYuKoje), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx), [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd) | [Swag Up](https://open.spotify.com/album/3lYTeMnf7e2QH7MCfeBMGR) | 1:56 |
+| 43 | [Swag Up](https://open.spotify.com/track/0ayOzJH8S7ikVxGe4FphUc) | [Tobi Nation](https://open.spotify.com/artist/7pzMp7mAU2KRlAjtYuKoje), [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [Swag Up](https://open.spotify.com/album/3lYTeMnf7e2QH7MCfeBMGR) | 1:56 |
 | 44 | [Lost](https://open.spotify.com/track/3rznJ3MrBk7KdAP9irugzs) | [Dani Silva](https://open.spotify.com/artist/4yMmZdVBoBcFogfiW7Y1ej), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [A PIECE OF ME](https://open.spotify.com/album/0SXyFIrt14tOd5YEDchKRp) | 1:56 |
 | 45 | [PROMISES](https://open.spotify.com/track/13mFJm1Dy7MWus3CbJwd3T) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [PROMISES](https://open.spotify.com/album/0NYyCbw8hpJI2YQp1ZolBB) | 3:39 |
 | 46 | [Addict](https://open.spotify.com/track/1sCTI9G1rPqXO0g9pSr958) | [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [Addict](https://open.spotify.com/album/5Mgdw6ZiYudJ9qjjo9O6ZQ) | 2:42 |

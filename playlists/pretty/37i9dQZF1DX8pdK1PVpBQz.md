@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Dream Boat
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,772 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,838 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Real!](https://open.spotify.com/track/1yxpRDrcK5ExwNiThPa9Uh) | [Dream Boat](https://open.spotify.com/artist/6oRvLsN1PnXplBf6mLS940), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Real!](https://open.spotify.com/album/4fD8azzRJrj1pkzk1ra0ZG) | 2:58 |
+| 1 | [Real!](https://open.spotify.com/track/1yxpRDrcK5ExwNiThPa9Uh) | [Dream Boat](https://open.spotify.com/artist/6oRvLsN1PnXplBf6mLS940) | [Real!](https://open.spotify.com/album/4fD8azzRJrj1pkzk1ra0ZG) | 2:58 |
 | 2 | [Fly](https://open.spotify.com/track/1TWxiU8jL0blI5oxWfMgBq) | [Sour Worm](https://open.spotify.com/artist/2BXCboDuXFujtpOez1aYzW) | [Whole World Round / Fly](https://open.spotify.com/album/65SPqtCF6eAsVVigq6cRdO) | 2:59 |
 | 3 | [i dont like that](https://open.spotify.com/track/4gwlS11GtPmraiGKNOFLSW) | [zaqquack](https://open.spotify.com/artist/6AR7FcpA1dXUbl23rPOSfn) | [i dont like that](https://open.spotify.com/album/5pTwEfOJJoBeMhW1UqUZP6) | 1:40 |
 | 4 | [Hold On](https://open.spotify.com/track/3CjP5YfkcjAwzN3leFXNex) | [FUKHED](https://open.spotify.com/artist/5BqpnSBznM8TZgqiCYRW2w) | [Hold On](https://open.spotify.com/album/2wgQbZH7cfCVYdoSb7uKoA) | 2:44 |

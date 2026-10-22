@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 78131,
+  "num_followers": 78128,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -939,18 +939,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "All Sufficient Merit (Live)",
-        "url": "https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI"
+        "name": "Jesus Song (Live)",
+        "url": "https://open.spotify.com/album/4re8Y6tpEIARFz4CUYiGiC"
       },
       "artists": [
         {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        },
+        {
+          "name": "Taylor Gall",
+          "url": "https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV"
         }
       ],
-      "duration_ms": 330502,
-      "name": "All Sufficient Merit - Live",
-      "url": "https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ"
+      "duration_ms": 380713,
+      "name": "Jesus Song - Live",
+      "url": "https://open.spotify.com/track/6p4znVw6OoMeJOWUOyK1cy"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -975,22 +979,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Jesus Song (Live)",
-        "url": "https://open.spotify.com/album/4re8Y6tpEIARFz4CUYiGiC"
+        "name": "All Sufficient Merit (Live)",
+        "url": "https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI"
       },
       "artists": [
         {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        },
-        {
-          "name": "Taylor Gall",
-          "url": "https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV"
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 380713,
-      "name": "Jesus Song - Live",
-      "url": "https://open.spotify.com/track/6p4znVw6OoMeJOWUOyK1cy"
+      "duration_ms": 330502,
+      "name": "All Sufficient Merit - Live",
+      "url": "https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Calvary",
-        "url": "https://open.spotify.com/album/2LFpbMOEZnJDFwNvAboRLg"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        },
-        {
-          "name": "Janice Gaines",
-          "url": "https://open.spotify.com/artist/5Lhj3Zhqnh4r33iU0tnecc"
-        }
-      ],
-      "duration_ms": 265688,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/17aPbGuR4BStWix3SjjnLo"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Breakthrough Miracle Power / You Are The Lord",
         "url": "https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU"
       },
@@ -1343,18 +1323,38 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
+        "name": "Calvary",
+        "url": "https://open.spotify.com/album/2LFpbMOEZnJDFwNvAboRLg"
       },
       "artists": [
         {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        },
+        {
+          "name": "Janice Gaines",
+          "url": "https://open.spotify.com/artist/5Lhj3Zhqnh4r33iU0tnecc"
         }
       ],
-      "duration_ms": 283746,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
+      "duration_ms": 265688,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/17aPbGuR4BStWix3SjjnLo"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Christ to Every Nation",
+        "url": "https://open.spotify.com/album/6mXnYUrT77iI7vygpw5yAL"
+      },
+      "artists": [
+        {
+          "name": "Stillcreek",
+          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
+        }
+      ],
+      "duration_ms": 251408,
+      "name": "Christ to Every Nation",
+      "url": "https://open.spotify.com/track/6bpr23ZKuduCEPMyYtxFqz"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Christ to Every Nation",
-        "url": "https://open.spotify.com/album/6mXnYUrT77iI7vygpw5yAL"
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
       },
       "artists": [
         {
-          "name": "Stillcreek",
-          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
         }
       ],
-      "duration_ms": 251408,
-      "name": "Christ to Every Nation",
-      "url": "https://open.spotify.com/track/6bpr23ZKuduCEPMyYtxFqz"
+      "duration_ms": 283746,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Wonder Working Power",
-        "url": "https://open.spotify.com/album/4Q8OiIfEB7drI9glY9C37g"
-      },
-      "artists": [
-        {
-          "name": "Southeast Worship",
-          "url": "https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99"
-        },
-        {
-          "name": "Taylor Barton",
-          "url": "https://open.spotify.com/artist/2uajyTFCN2VcWMe2L1EUVv"
-        }
-      ],
-      "duration_ms": 226740,
-      "name": "Wonder Working Power",
-      "url": "https://open.spotify.com/track/5BLk4TeZObZerBo3GZKQ09"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Thank The Lord",
         "url": "https://open.spotify.com/album/7gjCfoCmp00bvGVYQzg8JB"
       },
@@ -1691,18 +1671,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Surrounded",
-        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
+        "name": "Wonder Working Power",
+        "url": "https://open.spotify.com/album/4Q8OiIfEB7drI9glY9C37g"
       },
       "artists": [
         {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+          "name": "Southeast Worship",
+          "url": "https://open.spotify.com/artist/48Cxaiqses3N5qczr2RJ99"
+        },
+        {
+          "name": "Taylor Barton",
+          "url": "https://open.spotify.com/artist/2uajyTFCN2VcWMe2L1EUVv"
         }
       ],
-      "duration_ms": 300026,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
+      "duration_ms": 226740,
+      "name": "Wonder Working Power",
+      "url": "https://open.spotify.com/track/5BLk4TeZObZerBo3GZKQ09"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1719,6 +1703,22 @@
       "duration_ms": 372064,
       "name": "My Jesus On The Cross",
       "url": "https://open.spotify.com/track/5u0mxYTtdhOYLG7WEjtvS7"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 300026,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/73u7dTjaBTMyvs3KWOThGR"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Crown Him With Many Crowns",
+        "url": "https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU"
+      },
+      "artists": [
+        {
+          "name": "Nathan Drake",
+          "url": "https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr"
+        }
+      ],
+      "duration_ms": 254479,
+      "name": "Crown Him With Many Crowns",
+      "url": "https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "Awaken: The Surrounded Experience",
         "url": "https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa"
       },
@@ -1803,18 +1819,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Crown Him With Many Crowns",
-        "url": "https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU"
+        "name": "Songs For Easter",
+        "url": "https://open.spotify.com/album/1MSqoULfzApXe051w71wvr"
       },
       "artists": [
         {
-          "name": "Nathan Drake",
-          "url": "https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Molly Skaggs",
+          "url": "https://open.spotify.com/artist/0cW4RaDqeYZ5YSP2AtRanL"
         }
       ],
-      "duration_ms": 254479,
-      "name": "Crown Him With Many Crowns",
-      "url": "https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd"
+      "duration_ms": 493293,
+      "name": "Ain\u2019t No Grave (Live)",
+      "url": "https://open.spotify.com/track/0SvJfjDhfAZ6oZiFuJ1CyA"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -1839,26 +1859,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Songs For Easter",
-        "url": "https://open.spotify.com/album/1MSqoULfzApXe051w71wvr"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Molly Skaggs",
-          "url": "https://open.spotify.com/artist/0cW4RaDqeYZ5YSP2AtRanL"
-        }
-      ],
-      "duration_ms": 493293,
-      "name": "Ain\u2019t No Grave (Live)",
-      "url": "https://open.spotify.com/track/0SvJfjDhfAZ6oZiFuJ1CyA"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "Long Live The King (Live At The Grove)",
         "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
       },
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Nothing But The Blood (Live)",
-        "url": "https://open.spotify.com/album/5oc8j52aZ2nD6OzuNV2hHX"
-      },
-      "artists": [
-        {
-          "name": "Journey Worship Co.",
-          "url": "https://open.spotify.com/artist/2dRrLKTkXMeLvUcmyHaEco"
-        }
-      ],
-      "duration_ms": 305454,
-      "name": "Nothing But The Blood - Live",
-      "url": "https://open.spotify.com/track/7DMltTS4tvWCm423u42YEr"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
         "name": "This Is Jesus",
         "url": "https://open.spotify.com/album/6ay87bBJ8ybv7xiIj4M0ks"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 317415,
       "name": "Calvary's Cross",
       "url": "https://open.spotify.com/track/76WVzKc2G1HDMkx70U4Gmr"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
+        "name": "Nothing But The Blood (Live)",
+        "url": "https://open.spotify.com/album/5oc8j52aZ2nD6OzuNV2hHX"
+      },
+      "artists": [
+        {
+          "name": "Journey Worship Co.",
+          "url": "https://open.spotify.com/artist/2dRrLKTkXMeLvUcmyHaEco"
+        }
+      ],
+      "duration_ms": 305454,
+      "name": "Nothing But The Blood - Live",
+      "url": "https://open.spotify.com/track/7DMltTS4tvWCm423u42YEr"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2279,18 +2279,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Land of the Living (Live)",
-        "url": "https://open.spotify.com/album/4CVXOAkmstbNySWmp5LXIx"
+        "name": "Kari Jobe",
+        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
       },
       "artists": [
         {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         }
       ],
-      "duration_ms": 325701,
-      "name": "Rest on Us - Live",
-      "url": "https://open.spotify.com/track/5hbyxp9uM2iLSUTi5swnV3"
+      "duration_ms": 361386,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2343,18 +2343,18 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/2bbndQzbmvnaaiKcTPsnYO"
+        "name": "Land of the Living (Live)",
+        "url": "https://open.spotify.com/album/4CVXOAkmstbNySWmp5LXIx"
       },
       "artists": [
         {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
         }
       ],
-      "duration_ms": 271533,
-      "name": "Lion and the Lamb",
-      "url": "https://open.spotify.com/track/2nn89bqsJMqX9po7uiSr5r"
+      "duration_ms": 325701,
+      "name": "Rest on Us - Live",
+      "url": "https://open.spotify.com/track/5hbyxp9uM2iLSUTi5swnV3"
     },
     {
       "added_at": "2026-04-04 06:11:10",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2026-04-04 06:11:10",
       "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/2bbndQzbmvnaaiKcTPsnYO"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 271533,
+      "name": "Lion and the Lamb",
+      "url": "https://open.spotify.com/track/2nn89bqsJMqX9po7uiSr5r"
+    },
+    {
+      "added_at": "2026-04-04 06:11:10",
+      "album": {
         "name": "All The Earth",
         "url": "https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty"
       },
@@ -2395,22 +2411,6 @@
       "duration_ms": 486944,
       "name": "Peace Be Still (feat. Lauren Daigle)",
       "url": "https://open.spotify.com/track/6zvSkAEtFZIJD7kVeo5by4"
-    },
-    {
-      "added_at": "2026-04-04 06:11:10",
-      "album": {
-        "name": "Kari Jobe",
-        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Revelation Song",
-      "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
     },
     {
       "added_at": "2026-04-04 06:11:10",

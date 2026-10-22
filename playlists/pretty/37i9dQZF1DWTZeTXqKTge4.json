@@ -1,6 +1,6 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Franz Keloh",
-  "num_followers": 89605,
+  "num_followers": 89615,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
@@ -687,18 +687,18 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
-        "name": "SAY LESS",
-        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
+        "name": "DESTIN\u00c9",
+        "url": "https://open.spotify.com/album/5IqzgFotMAjs7h3YjO8nLF"
       },
       "artists": [
         {
-          "name": "Nyota Parker",
-          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
         }
       ],
-      "duration_ms": 195473,
-      "name": "SAY LESS",
-      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
+      "duration_ms": 183457,
+      "name": "PHANTOM",
+      "url": "https://open.spotify.com/track/0kBJl7JfGYCXzZYg3j4Hyj"
     },
     {
       "added_at": "2026-10-16 04:03:02",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
+        "name": "SAY LESS",
+        "url": "https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "duration_ms": 195473,
+      "name": "SAY LESS",
+      "url": "https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC"
+    },
+    {
+      "added_at": "2026-10-16 04:03:02",
+      "album": {
         "name": "MADURO",
         "url": "https://open.spotify.com/album/35PNhr8jU5kNHpRog1zhXD"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 171696,
       "name": "MADURO",
       "url": "https://open.spotify.com/track/35RHNKHvAkBM7ZTZfH6cgL"
-    },
-    {
-      "added_at": "2026-10-16 04:03:02",
-      "album": {
-        "name": "DESTIN\u00c9",
-        "url": "https://open.spotify.com/album/5IqzgFotMAjs7h3YjO8nLF"
-      },
-      "artists": [
-        {
-          "name": "TJ DTS",
-          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
-        }
-      ],
-      "duration_ms": 183457,
-      "name": "PHANTOM",
-      "url": "https://open.spotify.com/track/0kBJl7JfGYCXzZYg3j4Hyj"
     },
     {
       "added_at": "2026-10-16 04:03:02",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
-        "name": "CLIC CLAC",
-        "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
-      },
-      "artists": [
-        {
-          "name": "Mk.official",
-          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "CLIC CLAC",
-      "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
-    },
-    {
-      "added_at": "2026-10-16 04:03:02",
-      "album": {
         "name": "\u00c0 la prochaine fois",
         "url": "https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 150589,
       "name": "Cayo Perico",
       "url": "https://open.spotify.com/track/33qbNBTRNuR6cbhRI1B6hU"
+    },
+    {
+      "added_at": "2026-10-16 04:03:02",
+      "album": {
+        "name": "CLIC CLAC",
+        "url": "https://open.spotify.com/album/4OMTINlR66Du6jdm9wFDIN"
+      },
+      "artists": [
+        {
+          "name": "Mk.official",
+          "url": "https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "CLIC CLAC",
+      "url": "https://open.spotify.com/track/13hnpuT9elqcOF5p5ex6Uz"
     },
     {
       "added_at": "2026-10-16 04:03:02",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
-        "name": "Helen Quelle Heure",
-        "url": "https://open.spotify.com/album/2bBxBySTKaJMF69AZiHfE2"
-      },
-      "artists": [
-        {
-          "name": "elpy!",
-          "url": "https://open.spotify.com/artist/0Gmf9HWQAcCy6iZdJlRF1m"
-        },
-        {
-          "name": "SMS",
-          "url": "https://open.spotify.com/artist/4j63HnohVGYEDn2K8HmhcW"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "Helen Quelle Heure",
-      "url": "https://open.spotify.com/track/2OKLiEIW4hZPaNpb6kMtdL"
-    },
-    {
-      "added_at": "2026-10-16 04:03:02",
-      "album": {
         "name": "SEPT ANS DE MALHEUR (titre temporaire)",
         "url": "https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40"
       },
@@ -1267,18 +1247,22 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/38lhD7UTPAqxVHeX4BIpVm"
+        "name": "Helen Quelle Heure",
+        "url": "https://open.spotify.com/album/2bBxBySTKaJMF69AZiHfE2"
       },
       "artists": [
         {
-          "name": "Statzz",
-          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
+          "name": "elpy!",
+          "url": "https://open.spotify.com/artist/0Gmf9HWQAcCy6iZdJlRF1m"
+        },
+        {
+          "name": "SMS",
+          "url": "https://open.spotify.com/artist/4j63HnohVGYEDn2K8HmhcW"
         }
       ],
-      "duration_ms": 123263,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/1ppKGaddAQIZuYOx1YDvn6"
+      "duration_ms": 125538,
+      "name": "Helen Quelle Heure",
+      "url": "https://open.spotify.com/track/2OKLiEIW4hZPaNpb6kMtdL"
     },
     {
       "added_at": "2026-10-16 04:03:02",
@@ -1299,6 +1283,22 @@
       "duration_ms": 352600,
       "name": "L'\u00e9tage souterrain",
       "url": "https://open.spotify.com/track/5jEY7o6CLzkEqQAvIHaiRG"
+    },
+    {
+      "added_at": "2026-10-16 04:03:02",
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/38lhD7UTPAqxVHeX4BIpVm"
+      },
+      "artists": [
+        {
+          "name": "Statzz",
+          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
+        }
+      ],
+      "duration_ms": 123263,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/1ppKGaddAQIZuYOx1YDvn6"
     },
     {
       "added_at": "2026-10-16 04:03:02",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-10-16 04:03:02",
       "album": {
+        "name": "Super freak",
+        "url": "https://open.spotify.com/album/3321zU0m0MEMlKi8De58P1"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Super freak",
+      "url": "https://open.spotify.com/track/08GtxZO0oNgWDJXvT0LWcx"
+    },
+    {
+      "added_at": "2026-10-16 04:03:02",
+      "album": {
         "name": "Teke Fren",
         "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 177748,
       "name": "Teke Fren",
       "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
-    },
-    {
-      "added_at": "2026-10-16 04:03:02",
-      "album": {
-        "name": "Super freak",
-        "url": "https://open.spotify.com/album/3321zU0m0MEMlKi8De58P1"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Super freak",
-      "url": "https://open.spotify.com/track/08GtxZO0oNgWDJXvT0LWcx"
     },
     {
       "added_at": "2026-10-16 04:03:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Veer Sandhu,  Bhallwaan, Gur Sidhu and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,274 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,282 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 34 | [Hear Me Out](https://open.spotify.com/track/4i3wXY26XbH5ANRZ0ydChb) | [Jass Pannu](https://open.spotify.com/artist/3CLq5iLTyPhrsmJuA3wAO5), [Spy Boi](https://open.spotify.com/artist/1gttYcIL5LonZdudIP1HLb) | [Hear Me Out](https://open.spotify.com/album/3R6KRIBlXndf5cykdLljdJ) | 2:22 |
 | 35 | [TERE NI KARARAN](https://open.spotify.com/track/2jfYfzdoOUmgTdvC2k06qY) | [TOOR](https://open.spotify.com/artist/5EWY7Jo2G1gWqPRnKmGeiX), [AJUNT](https://open.spotify.com/artist/3J0u9LRWkb2CRuxAIluC1j) | [TERE NI KARARAN](https://open.spotify.com/album/0n6QCqv8BDOeExmAvHrqpM) | 2:59 |
 | 36 | [Rack and Stack](https://open.spotify.com/track/2BZA30EimVAXEd3ibMfMmu) | [PAMMA](https://open.spotify.com/artist/3NVXC77TBtcTwCHDygf6WC), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [Rack and Stack](https://open.spotify.com/album/56QdKmnOVgrrniUzpnA4rS) | 2:06 |
-| 37 | [No Face No Case](https://open.spotify.com/track/0y3oDOZPZba3p8BBhcZBkF) | [MAAHIIR](https://open.spotify.com/artist/4ImwfTnD5mrEl49LhbeNR5) | [No Face No Case](https://open.spotify.com/album/39QleeN6WU9frrzFnKGij9) | 2:12 |
+| 37 | [No Face No Case](https://open.spotify.com/track/0y3oDOZPZba3p8BBhcZBkF) | [MAAHIIR](https://open.spotify.com/artist/4ImwfTnD5mrEl49LhbeNR5) | [No Face No Case](https://open.spotify.com/album/39QleeN6WU9frrzFnKGij9) | 2:13 |
 | 38 | [So Mean](https://open.spotify.com/track/5xmLZd8CiIz9dWfnpOOBbQ) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Arvin Beatz](https://open.spotify.com/artist/2GaqYSHNeH0PKPCl0Vcn84) | [Xyz](https://open.spotify.com/album/7re8biApDmCZwoq3sD4YqQ) | 2:22 |
 | 39 | [Said & Done](https://open.spotify.com/track/6bKTS7loIO28oRns4mnfEf) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Qarn Mallhi](https://open.spotify.com/artist/1yAFQk48cg77eplJI5XyX7) | [Said & Done](https://open.spotify.com/album/4dYcU9n0NJPFpvs7n101KD) | 3:08 |
 | 40 | [Sirfiray](https://open.spotify.com/track/7wSHSBqmU3JDLAOH1fuh5m) | [Siippyy Gill](https://open.spotify.com/artist/2zstvC7L2UiHZZo5Nrz9gY) | [Sirfiray](https://open.spotify.com/album/6ayFk8LUMNBMQJpUDN0MSQ) | 3:27 |

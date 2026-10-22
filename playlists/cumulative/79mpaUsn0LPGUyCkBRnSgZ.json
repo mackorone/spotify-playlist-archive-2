@@ -7703,6 +7703,24 @@
     },
     {
       "album": {
+        "name": "A Mile South of Heaven",
+        "url": "https://open.spotify.com/album/5gtnnY39j0QRzGXqAVJbd7"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199884,
+      "name": "Goodbye to All That",
+      "url": "https://open.spotify.com/track/7rvykT4YaOkRwCg0ciXvtJ"
+    },
+    {
+      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },

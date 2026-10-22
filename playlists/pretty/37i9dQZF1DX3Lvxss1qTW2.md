@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Solana
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,675 likes - 94 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,695 likes - 94 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 37 | [Lalakula](https://open.spotify.com/track/5IVdYdrTLndg67bZMcwF7c) | [Txmmyily](https://open.spotify.com/artist/2k4BorccGemzBPjIRkT5Pa), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Lalakula](https://open.spotify.com/album/5gIPupWRwioFOuuW6Qjq5k) | 2:32 |
 | 38 | [Ore Agbako](https://open.spotify.com/track/2hRN9AqC0Fugv7oHb0Cg1b) | [Double Gee2x](https://open.spotify.com/artist/1rHgBi9laQFZlR4hhjeU4C) | [Ore Agbako](https://open.spotify.com/album/2FhHvlT5xp2K4imuLyuzge) | 2:35 |
 | 39 | [CHELSEA](https://open.spotify.com/track/7bqytRU8u6CIdNfNPCfo1U) | [BOLA BMH](https://open.spotify.com/artist/497qEgixkGM0jhzjBqMerI), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [1DRAG](https://open.spotify.com/artist/31m4L2e9AjRbZOtKWXF84z) | [CHELSEA](https://open.spotify.com/album/1fcYsxU0OdhhqST34BnHHr) | 2:40 |
-| 40 | [Swag Up](https://open.spotify.com/track/0ayOzJH8S7ikVxGe4FphUc) | [Tobi Nation](https://open.spotify.com/artist/7pzMp7mAU2KRlAjtYuKoje), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx), [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd) | [Swag Up](https://open.spotify.com/album/3lYTeMnf7e2QH7MCfeBMGR) | 1:56 |
+| 40 | [Swag Up](https://open.spotify.com/track/0ayOzJH8S7ikVxGe4FphUc) | [Tobi Nation](https://open.spotify.com/artist/7pzMp7mAU2KRlAjtYuKoje), [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [Swag Up](https://open.spotify.com/album/3lYTeMnf7e2QH7MCfeBMGR) | 1:56 |
 | 41 | [SDF \(SO DAMN FINE\)](https://open.spotify.com/track/58Qf0DEvNQvH2bFjkLC4Wv) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [SDF \(SO DAMN FINE\)](https://open.spotify.com/album/5wRKlRhqRXZG3ywRDz5Jl2) | 2:31 |
 | 42 | [Tonight](https://open.spotify.com/track/745mHdoVRs4PGifOnVOn15) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM) | [Tonight](https://open.spotify.com/album/3wyrXSUn7oWeBw07t8E8Z3) | 3:16 |
 | 43 | [Round One \(Elle Mummy\)](https://open.spotify.com/track/3CKyzdQM4EjX6JoZw3UEmB) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Round One \(Elle Mummy\)](https://open.spotify.com/album/3j09wQBdGXlk0YK27mGKEX) | 2:26 |

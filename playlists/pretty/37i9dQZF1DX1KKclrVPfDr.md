@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,542 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,540 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 43 | [Seeta Ke Sakal Dekhi](https://open.spotify.com/track/6zdVpdazwqRj8JfekfuzcW) | [Devi](https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk) | [Mangal Geet](https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh) | 4:29 |
 | 44 | [Samdhi Ho Gaile Nachniyaan](https://open.spotify.com/track/2X0dl5IqzEhhaLxosSjhBi) | [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [Kaahe Ko Byahe Bides](https://open.spotify.com/album/1W6iCSVsuBVhMUchYAfhCO) | 4:45 |
 | 45 | [CHUTKI BHAR SENURA](https://open.spotify.com/track/4LQ8sY86aDpaVOYLhlRNs6) | [Mohini Dwivedi](https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO) | [CHUTKI BHAR SENURA](https://open.spotify.com/album/0aBZzUEo03oyAzfbThE5xy) | 4:50 |
-| 46 | [Samdhi Khala Rasbuniya](https://open.spotify.com/track/1m8Le98QXAnVapcSwUcL3y) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn) | [Beti Ke Biaah](https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR) | 6:47 |
+| 46 | [Shri Ganeshay Namah](https://open.spotify.com/track/5WoSQKlucY7p6W4laXFGLd) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn) | [Beti Ke Biaah](https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR) | 5:43 |
 | 47 | [Chutki Bhar Senura](https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Chutki Bhar Senura](https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w) | 6:52 |
 | 48 | [Hare\-Hare Hare Dada](https://open.spotify.com/track/1atl5wZPYRVqYotOzmiWiL) | [Devi](https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk) | [Mangal Geet](https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh) | 6:44 |
 | 49 | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/track/0Tt7bu3C0JouzB9kbzRKyP) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ashkandani](https://open.spotify.com/artist/6U3uObcnGgPTY80L1JDU5w) | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/album/0nI5UD7gJKmriWMFNEBR2m) | 3:03 |

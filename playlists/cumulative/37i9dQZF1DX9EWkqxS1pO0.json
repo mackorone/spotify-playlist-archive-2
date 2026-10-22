@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Ah\u015fap Kutu",
+        "url": "https://open.spotify.com/album/1WHy01IQtPQB59RTms1wXL"
+      },
+      "artists": [
+        {
+          "name": "Peki Mom\u00e9s",
+          "url": "https://open.spotify.com/artist/3Jz0VJbZRA8hOXxNXGF2Uf"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138735,
+      "name": "Ah\u015fap Kutu",
+      "url": "https://open.spotify.com/track/0ldb6REGn8guDjkpA21tJx"
+    },
+    {
+      "album": {
         "name": "Akl\u0131n Neredeydi",
         "url": "https://open.spotify.com/album/4qth5OmI91na8kin4CbjJ7"
       },
@@ -214,7 +232,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 175182,
       "name": "Akl\u0131nda Kim Var?",
       "url": "https://open.spotify.com/track/5rTEZu5um5xHiRzHz5UbSQ"
@@ -2387,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "Durmamak \u0130\u00e7in",
+        "url": "https://open.spotify.com/album/36YvRGXUWhexF1IiYbrB5T"
+      },
+      "artists": [
+        {
+          "name": "Yasemin Arin",
+          "url": "https://open.spotify.com/artist/0F3iKWOpHOjaeo1zEfW8g3"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165816,
+      "name": "Durmamak \u0130\u00e7in",
+      "url": "https://open.spotify.com/track/45OfCZG52sULg7H7XNNfGk"
+    },
+    {
+      "album": {
         "name": "HERYOL",
         "url": "https://open.spotify.com/album/38Qyt0cKpOjVIWEa4m8ukV"
       },
@@ -2438,7 +2474,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 166216,
       "name": "Duydu\u011fum En G\u00fczel \u015eark\u0131s\u0131n",
       "url": "https://open.spotify.com/track/1QvY3m3YPL8xGnBnFSiVUl"
@@ -2672,7 +2708,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 198973,
       "name": "Elveda",
       "url": "https://open.spotify.com/track/45Un6ScdLCvoqsXkvTDv4u"
@@ -5684,6 +5720,24 @@
       "duration_ms": 202173,
       "name": "Sesim Kulakl\u0131klar\u0131nda",
       "url": "https://open.spotify.com/track/7aUT5V4qet2cJlyeV8eq3W"
+    },
+    {
+      "album": {
+        "name": "SEV",
+        "url": "https://open.spotify.com/album/4ptlH2sk0mt9wusJcxoqqp"
+      },
+      "artists": [
+        {
+          "name": "Umut",
+          "url": "https://open.spotify.com/artist/7clEql9ZPLrfsNQgpDPJrv"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162638,
+      "name": "SEV",
+      "url": "https://open.spotify.com/track/6jIzwfeclVwdglQA7zZU9N"
     },
     {
       "album": {

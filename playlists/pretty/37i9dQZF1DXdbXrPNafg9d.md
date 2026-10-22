@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: @
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,121 likes - 200 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,105 likes - 200 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

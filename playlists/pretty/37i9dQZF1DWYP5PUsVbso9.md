@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,963 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,977 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 48 | [Blue Skies](https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 3:37 |
 | 49 | [I Love You, I Honestly Love You](https://open.spotify.com/track/5q8UoqDHPe9bU4R5bbvcJF) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [If You Love Me, Let Me Know](https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg) | 3:40 |
 | 50 | [Years](https://open.spotify.com/track/0NmCGVEXhfAu7XMI4JMyff) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Just For The Record](https://open.spotify.com/album/4eoO8CKZTuLmTitjkPOpIY) | 3:51 |
-| 51 | [Blanket On The Ground](https://open.spotify.com/track/7mTBUlWPquXPQzDg8yGLlJ) | [Billie Jo Spears](https://open.spotify.com/artist/3Xt0yrWeurmp48fodXqMWf) | [Country Greats](https://open.spotify.com/album/2m7xJ3oCOzUKMhHIaFsdwG) | 3:35 |
-| 52 | [By The Time I Get To Phoenix \- Remastered 2001](https://open.spotify.com/track/1tZKsxgKebVQX9s6oiojG9) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [By The Time I Get To Phoenix \(Remastered\)](https://open.spotify.com/album/29tTA46kurlOioRkjBqOMS) | 2:44 |
+| 51 | [By The Time I Get To Phoenix \- Remastered 2001](https://open.spotify.com/track/1tZKsxgKebVQX9s6oiojG9) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [By The Time I Get To Phoenix \(Remastered\)](https://open.spotify.com/album/29tTA46kurlOioRkjBqOMS) | 2:44 |
+| 52 | [Blanket On The Ground](https://open.spotify.com/track/7mTBUlWPquXPQzDg8yGLlJ) | [Billie Jo Spears](https://open.spotify.com/artist/3Xt0yrWeurmp48fodXqMWf) | [Country Greats](https://open.spotify.com/album/2m7xJ3oCOzUKMhHIaFsdwG) | 3:35 |
 | 53 | [Snowbird](https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [This Way Is My Way](https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F) | 2:14 |
 | 54 | [The Grand Tour](https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:07 |
 | 55 | [Drinkin' My Baby \(Off My Mind\) \- 2009 Remaster](https://open.spotify.com/track/0aH37hHD9bgClsjGngV974) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Number One Hits](https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8) | 2:25 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 85 | [Tennessee Waltz](https://open.spotify.com/track/7A3TAN0Epolvort9IcqKvq) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Let's Keep It That Way](https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR) | 2:49 |
 | 86 | [Take This Job and Shove It](https://open.spotify.com/track/6yT7kcpsXNW7QS9xunPaox) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Johnny Paycheck \- 16 Biggest Hits](https://open.spotify.com/album/7EcDMC33XvuCEWwLTwc8N5) | 2:36 |
 | 87 | [East Bound and Down](https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/1SpsDklXoa1vV9OzBsSXe0) | 2:49 |
-| 88 | [Don't Let Me Cross Over](https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Good 'N' Country](https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu) | 2:19 |
-| 89 | [Some Broken Hearts Never Mend \- Single Version](https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:48 |
+| 88 | [Some Broken Hearts Never Mend \- Single Version](https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:48 |
+| 89 | [Don't Let Me Cross Over](https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Good 'N' Country](https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu) | 2:19 |
 | 90 | [For the Good Times](https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Essential Ray Price](https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ) | 3:47 |
 | 91 | [Her Name Is...](https://open.spotify.com/track/6v3ozeTaUGr5Wwmya1Xhg0) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Anniversary \(Ten Years Of Hits\)](https://open.spotify.com/album/03CmBZWedcwyCLKmypX5Lb) | 2:18 |
 | 92 | [Why Have You Left The One You Left Me For](https://open.spotify.com/track/4u2Fcnbsf2KtH7gE86vxM0) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:56 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 97 | [Stop And Smell The Roses](https://open.spotify.com/track/0gXj72vNlNoh7kiC8zPEQp) | [Mac Davis](https://open.spotify.com/artist/6HX8AbXUFaYRtlqKb4CCo0) | [Stop And Smell The Roses](https://open.spotify.com/album/4vZ6eSpIwea2IIPnwG8jfx) | 3:21 |
 | 98 | [I Just Fall In Love Again](https://open.spotify.com/track/6aBiU9lFd3BhtggI7aeqBI) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [New Kind Of Feeling](https://open.spotify.com/album/7lzKMo3MHAz8Xuc0LBA4tG) | 2:51 |
 | 99 | [Rub It In](https://open.spotify.com/track/6q014fQ3SqLy180KPuCTG1) | [Billy 'Crash' Craddock](https://open.spotify.com/artist/4Se104PDIxemxBgtWynyIq) | [The Best Of Billy "Crash" Craddock](https://open.spotify.com/album/6GLL2DGK5Dw8P99pbUGkii) | 2:26 |
-| 100 | [Every Time Two Fools Collide](https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Every Time Two Fools Collide](https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL) | 3:00 |
+| 100 | [Y'all Come Back Saloon](https://open.spotify.com/track/5O8eCRZGcjLfztSye87CMw) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Oak Ridge Boys Greatest Hits](https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN) | 2:54 |
 
 Snapshot ID: `AAAAAEZ3Vvj/kJ8vR8/AVt2yjY1g9nRL`

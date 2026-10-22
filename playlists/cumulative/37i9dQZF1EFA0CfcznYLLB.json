@@ -1065,6 +1065,32 @@
     },
     {
       "album": {
+        "name": "Make Me Say It Again, Girl",
+        "url": "https://open.spotify.com/album/3NmEbqCKjPjDQHlnTflXfj"
+      },
+      "artists": [
+        {
+          "name": "Ronald Isley",
+          "url": "https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L"
+        },
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310217,
+      "name": "Biggest Bosses",
+      "url": "https://open.spotify.com/track/5QRY79q7reAyKvyZkGntHV"
+    },
+    {
+      "album": {
         "name": "BLAME IT ON BABY (DELUXE)",
         "url": "https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q"
       },
@@ -7830,8 +7856,8 @@
       },
       "artists": [
         {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+          "name": "Lambb",
+          "url": "https://open.spotify.com/artist/0j55qvFhVPcwqz7wJoKscs"
         }
       ],
       "date_added": "2026-08-04",

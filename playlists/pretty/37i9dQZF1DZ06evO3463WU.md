@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,560 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,567 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 12 | [Donde Andará](https://open.spotify.com/track/0E8nEiE1PIVFf0Mex5NHsg) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Del Campo a la Ciudad](https://open.spotify.com/album/2Z7kNdzXDDRPZhQlyW6d67) | 3:47 |
 | 13 | [Mi Amor Y Mi Agonía](https://open.spotify.com/track/4cCHoIZovhZO9u6kzTPrE1) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mi Amor Y Mi Agonía](https://open.spotify.com/album/2JHN0HfZIzbrJfIWqp4TqJ) | 2:53 |
 | 14 | [El Terco](https://open.spotify.com/track/5lSFtOj0QXN9OFrOhssiAl) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Terco](https://open.spotify.com/album/1NqMUNU9QxwLQNFKxeca1g) | 3:42 |
-| 15 | [Y Las Mariposas](https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Las Consentidas De Pancho Barraza](https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ) | 3:49 |
-| 16 | [Unidos Para Amarnos](https://open.spotify.com/track/6pRMjfUSKsKKfJWXEvbBL9) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Sinvergüenza Y Mujeriego](https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo) | 3:26 |
+| 15 | [Unidos Para Amarnos](https://open.spotify.com/track/6pRMjfUSKsKKfJWXEvbBL9) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Sinvergüenza Y Mujeriego](https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo) | 3:26 |
+| 16 | [Y Las Mariposas](https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Las Consentidas De Pancho Barraza](https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ) | 3:49 |
 | 17 | [Una Noche Cualquiera](https://open.spotify.com/track/2eVbSvyRzbOlnL0A5qcxQ7) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Mis 30 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL) | 3:35 |
 | 18 | [No Llores Mis Recuerdos](https://open.spotify.com/track/0rUYYUjhjxQDE2Zc6tDK5A) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Cuenta Conmigo](https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se) | 4:11 |
 | 19 | [Yo Estaba Solo](https://open.spotify.com/track/4DVI0TImXhEBPtaeRxPAs1) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mas Fuerte Que Nunca](https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 49 | [La Reyna de Mi Hogar \- Remastered 2025](https://open.spotify.com/track/38cbzqx5JErHASEDOOz8V3) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor \(Remastered 2025\)](https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0) | 3:35 |
 | 50 | [Cien Por Ciento Sincero](https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Mis 30 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL) | 3:07 |
 
-Snapshot ID: `atQMAAAAAABtzqaoD4JAvwnZgqYnBDl6`
+Snapshot ID: `atVdgAAAAABCBHHMfg8u1kkSoOgP7+yJ`

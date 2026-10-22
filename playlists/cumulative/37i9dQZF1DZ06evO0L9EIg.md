@@ -4,7 +4,7 @@
 
 > This is Volker Bertelmann\. The essential tracks, all in one playlist.
 
-62 songs - 2 hr 16 min
+63 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Bomb Crater](https://open.spotify.com/track/5Gxag8dA7NCfE3ubfesHsP) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [All Quiet On The Western Front \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3lOnEZT1TjZojoAdaDGQa4) | 3:39 | 2026-10-13 | 2026-10-15 |
 | [Buried & Found](https://open.spotify.com/track/6Bvz5uq01LsxrkdcvmnPRn) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [All Quiet On The Western Front \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3lOnEZT1TjZojoAdaDGQa4) | 2:51 | 2026-10-03 | 2026-10-06 |
 | [Carriages Approaching](https://open.spotify.com/track/1LadRPfP4J0BFC1OWNK9Hj) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [The Uprising \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3IOtkRLNMQvNKURniV5yi6) | 1:55 | 2026-10-03 | 2026-10-10 |
-| [Clayface Theme \- from "Clayface"](https://open.spotify.com/track/5rM5qO8taQbwguyBUxLxrs) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Clayface Theme \(from "Clayface"\)](https://open.spotify.com/album/6Lj7OEb9GcnZ9GeaFa9Wcj) | 1:54 | 2026-10-13 |  |
+| [Clayface Theme](https://open.spotify.com/track/5rM5qO8taQbwguyBUxLxrs) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Clayface Theme](https://open.spotify.com/album/6Lj7OEb9GcnZ9GeaFa9Wcj) | 1:54 | 2026-10-13 |  |
 | [Data](https://open.spotify.com/track/35m6BvyDq5xz0WY42EbXdm) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Pressure \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K) | 2:35 | 2026-10-03 |  |
 | [DEFCON 2](https://open.spotify.com/track/0Bsg2HB2Wa05Y1nrzeP0AH) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [A House Of Dynamite \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1hUQ6j8EMIi4LZ4WjZtnmm) | 1:06 | 2026-10-20 |  |
 | [Destination Unknown \(From "Adrift" Soundtrack\)](https://open.spotify.com/track/6TPw1o9LBXU2Afbg6u4QPQ) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Adrift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/35GBJFBQHC4SEkI4Y4XUjd) | 3:30 | 2026-10-03 |  |
@@ -56,7 +56,7 @@
 | [Reporting for Duty](https://open.spotify.com/track/5Xy19elG6eCFOcjP3nXQtn) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Pressure \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K) | 2:49 | 2026-10-03 |  |
 | [Route of Fear](https://open.spotify.com/track/3SavniJSPZDTfyRbsk0xBC) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Conclave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N) | 1:07 | 2026-10-04 |  |
 | [Salvation \(From "Adrift" Soundtrack\)](https://open.spotify.com/track/6t52BHKOeX3os9AxPqET1R) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Adrift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/35GBJFBQHC4SEkI4Y4XUjd) | 5:25 | 2026-10-03 |  |
-| [Seeing Things](https://open.spotify.com/track/4Tbmj9ybqrhoDkOEmX7N95) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Verity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2) | 2:34 | 2026-10-20 |  |
+| [Seeing Things](https://open.spotify.com/track/4Tbmj9ybqrhoDkOEmX7N95) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Verity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2) | 2:34 | 2026-10-20 | 2026-10-22 |
 | [Shots in the Woods](https://open.spotify.com/track/08nJshNf9whdrbe6vPZviQ) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Dead of Winter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/05N5gKavSFywtKg7vhYwfV) | 2:32 | 2026-10-03 |  |
 | [Sunny and George](https://open.spotify.com/track/7ptZ6zMSKkY4xmHGIuXJqx) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Classical Piano \- Peaceful music to fall asleep](https://open.spotify.com/album/7tUACpaBwLPreYrkYG5DWk) | 1:32 | 2026-10-03 |  |
 | [Sunset Monet \(From "Adrift" Soundtrack\)](https://open.spotify.com/track/0K9XD6kV0t9JTbk5w5TdUX) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Adrift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/35GBJFBQHC4SEkI4Y4XUjd) | 1:42 | 2026-10-03 |  |
@@ -67,8 +67,9 @@
 | [Tjaden](https://open.spotify.com/track/1ZiVNuzYE1vDHuGsSNpkaJ) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [All Quiet On The Western Front \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3lOnEZT1TjZojoAdaDGQa4) | 1:29 | 2026-10-03 |  |
 | [Un soldat](https://open.spotify.com/track/44kibO5hKeYYbuCsGjRuIh) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [La Bataille de Gaulle \- L'Âge de fer \(Bande originale du film\)](https://open.spotify.com/album/5LC1praIA0pjCadXz4oi1g) | 1:56 | 2026-10-03 |  |
 | [Uprising Ouverture](https://open.spotify.com/track/4qqV4dqTq1wXP9wZG74QY6) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [The Uprising \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3IOtkRLNMQvNKURniV5yi6) | 2:45 | 2026-10-03 | 2026-10-10 |
+| [Walk of Doubt](https://open.spotify.com/track/5IP352PPY5GDptNnR0qceo) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Conclave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N) | 1:10 | 2026-10-22 |  |
 | [Whatever The Weather](https://open.spotify.com/track/7C4CkSHJDsQXHzdcpO4VWZ) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Pressure \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K) | 0:44 | 2026-10-03 |  |
 | [Why the Weather](https://open.spotify.com/track/6i3ucuq6Wa2utadifWJMVT) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Pressure \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K) | 0:38 | 2026-10-03 |  |
-| [You Should Be Careful](https://open.spotify.com/track/5X57Ocxj4uNoBPu0HrUnHL) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Conclave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N) | 4:10 | 2026-10-03 |  |
+| [You Should Be Careful](https://open.spotify.com/track/5X57Ocxj4uNoBPu0HrUnHL) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Conclave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N) | 4:10 | 2026-10-03 | 2026-10-22 |
 
 \*This playlist was first scraped on 2026-10-03. Prior content cannot be recovered.

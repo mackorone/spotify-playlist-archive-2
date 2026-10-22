@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Jind",
+  "description": "Discover the future of Punjabi Pop! Cover: Armaan Arora",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -180,7 +180,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 211000,
       "name": "4 You",
       "url": "https://open.spotify.com/track/1hDDl7BVn2GBvocFsquOE5"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 209267,
       "name": "After You",
       "url": "https://open.spotify.com/track/5le3wiWUrfDd8GnDZuzaNv"
@@ -1024,6 +1024,24 @@
       "duration_ms": 162666,
       "name": "Backhome",
       "url": "https://open.spotify.com/track/0GhRs7Mj3bJyHR94IswfXN"
+    },
+    {
+      "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/3eEZfmcRd3x0Mh8Yd24iSy"
+      },
+      "artists": [
+        {
+          "name": "Leo Rana",
+          "url": "https://open.spotify.com/artist/3tAjZSorMLv8rskQQy0DLu"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167730,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/5VC6NGX38bYaR6W5mFpDIB"
     },
     {
       "album": {
@@ -2926,7 +2944,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 146526,
       "name": "Dedaar",
       "url": "https://open.spotify.com/track/5F901IXR3TVGwFbQWIbZ5O"
@@ -3627,6 +3645,32 @@
     },
     {
       "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/2CRyb57aJgzNcm9nJjpAfF"
+      },
+      "artists": [
+        {
+          "name": "Yuvraj",
+          "url": "https://open.spotify.com/artist/0OsAgjLycxTWDMK25Avcvw"
+        },
+        {
+          "name": "JayB Singh",
+          "url": "https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM"
+        },
+        {
+          "name": "Karan Thabal",
+          "url": "https://open.spotify.com/artist/62qB87ja0UIqQH2sG8PyT8"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160851,
+      "name": "EUPHORIA",
+      "url": "https://open.spotify.com/track/31j0HcGYXSABUvNeXyHR0r"
+    },
+    {
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/3amPlcoQ8ZifGXfq016JYK"
       },
@@ -4036,7 +4080,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 122553,
       "name": "Flex",
       "url": "https://open.spotify.com/track/7ntWY93MDg3ElnYC9Cv1dn"
@@ -5648,6 +5692,24 @@
       "duration_ms": 211619,
       "name": "Ik Munda",
       "url": "https://open.spotify.com/track/3RF8VftPBBh7uW4cSqg8z7"
+    },
+    {
+      "album": {
+        "name": "Ik Pase Tu",
+        "url": "https://open.spotify.com/album/64NE3zCIlgTBzMUtm7qva8"
+      },
+      "artists": [
+        {
+          "name": "Armaan Arora",
+          "url": "https://open.spotify.com/artist/1OnsQR4MDhLVFXXr8qQgiZ"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169906,
+      "name": "Ik Pase Tu",
+      "url": "https://open.spotify.com/track/38FOtFz0zgZpep15jTYmNq"
     },
     {
       "album": {
@@ -8509,6 +8571,24 @@
     },
     {
       "album": {
+        "name": "Mera Naa Sohniye",
+        "url": "https://open.spotify.com/album/4uRUMW6STGIQWxDgC3e7C9"
+      },
+      "artists": [
+        {
+          "name": "Saji Singh",
+          "url": "https://open.spotify.com/artist/4SnMqyEnyESj2voS8jPZE6"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194117,
+      "name": "Mera Naa Sohniye",
+      "url": "https://open.spotify.com/track/2aguK1I0kHoOPX8Ac3x7Vt"
+    },
+    {
+      "album": {
         "name": "MERA YAAR",
         "url": "https://open.spotify.com/album/7Fq5g1BORrbYwavQKvmyHC"
       },
@@ -8734,6 +8814,24 @@
       "duration_ms": 169565,
       "name": "Midnight Rush",
       "url": "https://open.spotify.com/track/0NpRYPoLBZX5MD5knyA70N"
+    },
+    {
+      "album": {
+        "name": "Mirza",
+        "url": "https://open.spotify.com/album/7jV6D2HqbQ69TXbwTw3Xw3"
+      },
+      "artists": [
+        {
+          "name": "Prabh Rai",
+          "url": "https://open.spotify.com/artist/6BNvL3e1zBIf1YWCOVgFwb"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231999,
+      "name": "Mirza",
+      "url": "https://open.spotify.com/track/2piCTSIH4YF4F4w5DBXyOz"
     },
     {
       "album": {
@@ -11118,7 +11216,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 147127,
       "name": "Riwaj",
       "url": "https://open.spotify.com/track/35MjBXwTX7oMDTuq11SGys"

@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Tohji
 
-2,100 songs - 5 day 0 hr 21 min
+2,100 songs - 5 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,6 +512,7 @@
 | [I Promise You](https://open.spotify.com/track/21y1mxbNoMVu1QuWanagWw) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [I Promise You](https://open.spotify.com/album/1VuIaZ6r8o5b2ktHGiOVq6) | 3:35 | 2024-03-05 | 2024-03-13 |
 | [I Want You Back](https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:ST](https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF) | 2:49 | 2025-11-04 | 2025-12-10 |
 | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/track/2CSbGdlvxO4sGBEL9ZPAcZ) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/album/3CW4GK7h8PO7t18vQHbEoc) | 2:27 | 2026-02-03 | 2026-02-11 |
+| [i won't see you anymore](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 4:02 | 2026-10-20 |  |
 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 | 2024-04-16 | 2024-07-27 |
 | [I'll be fine.](https://open.spotify.com/track/4xNb0XZixcum6m8oeTIuv5) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [I'll be fine.](https://open.spotify.com/album/1slwTvH9IoT9TWIejKKQFD) | 3:27 | 2026-01-14 | 2026-01-21 |
 | [I'm home](https://open.spotify.com/track/4Gl1Cm7SkKaqz8rRr8mtsn) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [HOMETOWN](https://open.spotify.com/album/1jDyZFmXcH0VeJEiGawTTh) | 3:48 | 2024-05-07 | 2024-06-26 |
@@ -1090,7 +1091,6 @@
 | [Touhikou](https://open.spotify.com/track/5Xg3ixE8imcxa3QKnH8ldi) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Touhikou](https://open.spotify.com/album/6AU5EVaR9fZQpJL3aB0VK6) | 2:56 | 2023-12-26 | 2024-01-17 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2025-11-12 |
 | [Toyfriend](https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Wakas At Simula](https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W) | 3:21 | 2026-03-31 | 2026-05-13 |
-| [Track 5](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 0:00 | 2026-10-20 |  |
 | [TRANSLATE](https://open.spotify.com/track/1uol8s3UHFIz2mMpMTgBQS) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [EN\-GÏNE](https://open.spotify.com/album/4Y6Koxny3nnyGhvuGdwnMf) | 2:54 | 2026-09-15 | 2026-10-07 |
 | [Transpose](https://open.spotify.com/track/0n2q9kCBG5QSgZx2sj4H1P) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/6txrWZ14wMs7sh93JtWFUU) | 3:59 | 2024-02-20 | 2024-03-13 |
 | [Transpose](https://open.spotify.com/track/1pXgfCnwQwziwKHULqVIXo) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Transpose](https://open.spotify.com/album/0CpmKvgc6E22A9gD5GTxin) | 3:59 | 2024-02-20 | 2024-02-22 |

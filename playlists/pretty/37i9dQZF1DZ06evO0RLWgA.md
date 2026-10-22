@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,881 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,877 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [My Own Blues](https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:33 |
 | 50 | [I'm Bad Like Jesse James \- Live At Cafe Au\-Go\-Go/1966](https://open.spotify.com/track/5VmHzbvhPS6nCfO7NZiVBq) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Live At The Cafe Au\-Go\-Go](https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd) | 5:31 |
 
-Snapshot ID: `atQMAAAAAACb94+xy6ndN1vdvm/brONU`
+Snapshot ID: `atVdgAAAAAAQUzgtsHRlX0l3EvcWd6Mt`

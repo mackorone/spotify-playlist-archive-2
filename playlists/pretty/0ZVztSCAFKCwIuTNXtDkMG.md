@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZVztSCAFKCwIuTNXtDkMG.md) - [plain]
 
 > Feel the difference with MadFit's official workout playlist\.  <a href="https://topsify.lnk.to/MadFitYouTubeSY">Subscribe to MadFit on YouTube.</a>
 
-[Topsify](https://open.spotify.com/user/topsify) - 147,424 likes - 100 songs - 5 hr 30 min
+[Topsify](https://open.spotify.com/user/topsify) - 147,408 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/0ZVztSCAFKCwIuTNXtDkMG.md) - [plain]
 | 10 | [Mature](https://open.spotify.com/track/1BeyjPUWYbHcthHjusrejv) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Mature](https://open.spotify.com/album/5zv7DvRotH8BII1MpJjr8O) | 3:37 |
 | 11 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 |
 | 12 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
-| 13 | [ADDICTED2U \(feat\. underscores\)](https://open.spotify.com/track/265m78JMXBWdUIft3ch7Ez) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [ADDICTED2U \(feat\. underscores\)](https://open.spotify.com/album/2sjKZOLNyQl0Glf0sev6Ie) | 3:00 |
+| 13 | [ADDICTED2U \(feat\. underscores\)](https://open.spotify.com/track/265m78JMXBWdUIft3ch7Ez) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [ADDICTED2U \(feat\. underscores\)](https://open.spotify.com/album/2sjKZOLNyQl0Glf0sev6Ie) | 2:57 |
 | 14 | [Bass Persuades](https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3) | 3:22 |
 | 15 | [Arizona](https://open.spotify.com/track/4Nl32YRv6I3SenFccnCXN2) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Arizona](https://open.spotify.com/album/6GMGbOPuf2cBkQzjOhSm1X) | 2:44 |
 | 16 | [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 4:59 |

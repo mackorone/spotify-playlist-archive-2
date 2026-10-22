@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,527 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,530 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 18 | [Als De Dag Van Toen](https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [! Ich Kann](https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q) | 5:15 |
 | 19 | [Dodenrit](https://open.spotify.com/track/12h7TXKEL1HtjmiWatGFb5) | [Drs\. P](https://open.spotify.com/artist/2OqiAHa5cLO0NlxuGiMgWe) | [Drs\. P Compilé Complé](https://open.spotify.com/album/6TinSF7eJQD6SpGwlmaEkn) | 5:12 |
 | 20 | [De Liefde Van De Man Gaat Door De Maag \(Worstjes Op M'n Borstjes\)](https://open.spotify.com/track/1qR1XT5nIXhdkxTsYsxO2c) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Het Beste van Ria Valk](https://open.spotify.com/album/3guN60m0HfC3P3HLJB6aSM) | 3:20 |
-| 21 | [Ik Ben Verliefd Op John Travolta](https://open.spotify.com/track/5tC59DDuaODHeYpX4kKsRZ) | [Sandy](https://open.spotify.com/artist/5PpJnd7D504yfy2B0AjyAo) | [Sandy \(Remastered\)](https://open.spotify.com/album/2HPPNcdT5ezzRbE16asLaI) | 3:39 |
-| 22 | [Teddybeer](https://open.spotify.com/track/2h3A48Ho17v0jlSo9MzpKY) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Teddybeer](https://open.spotify.com/album/67xn5qDdvyhwB4PBeLNbuo) | 4:18 |
+| 21 | [Teddybeer](https://open.spotify.com/track/2h3A48Ho17v0jlSo9MzpKY) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Teddybeer](https://open.spotify.com/album/67xn5qDdvyhwB4PBeLNbuo) | 4:18 |
+| 22 | [Ik Ben Verliefd Op John Travolta](https://open.spotify.com/track/5tC59DDuaODHeYpX4kKsRZ) | [Sandy](https://open.spotify.com/artist/5PpJnd7D504yfy2B0AjyAo) | [Sandy \(Remastered\)](https://open.spotify.com/album/2HPPNcdT5ezzRbE16asLaI) | 3:39 |
 | 23 | [Waarheen, Waarvoor](https://open.spotify.com/track/7tLxcHzbbeezs1auDLq5lQ) | [Mieke Telkamp](https://open.spotify.com/artist/7MapYRyHxqCY4JrujFIzfq) | [Waarheen, Waarvoor](https://open.spotify.com/album/6IDpXkN0suXABodTg84j2X) | 3:47 |
 | 24 | [Zou Het Erg Zijn, Lieve Opa](https://open.spotify.com/track/0tA70v8mUkJfhSQrmyIjYJ) | [Wilma](https://open.spotify.com/artist/5qfQ89hvnImhLth6VTewEi), [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq) | [Wilma](https://open.spotify.com/album/092vpDBtbC8iFyV5VVUSpq) | 4:02 |
 | 25 | [Willem](https://open.spotify.com/track/6VbIs6wZ0n3PK0BIAZT7j1) | [Willem Duyn](https://open.spotify.com/artist/0FBC3i2GQtzRe9jUodXf3c) | [Wat Maakt Dat Nou Uit](https://open.spotify.com/album/0bgzHWIWQAvfkU2FwK085R) | 3:34 |
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 46 | [Veronica 538](https://open.spotify.com/track/4UpxV7NEhLLHWDnLZvIkXM) | [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq), [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [De Singles](https://open.spotify.com/album/3kTkS0et9ZhrwEmunEoQk2) | 4:55 |
 | 47 | [Johanna](https://open.spotify.com/track/4oHur64TnY5PQF68POh7F0) | [Henk Elsink](https://open.spotify.com/artist/7peMTGosIMq2ZGgWLmAuQW), [Hugh Den Ouden](https://open.spotify.com/artist/5EfEtw0gEFfuiCQRbDFOr5) | [Toen Was Geluk Heel Gewoon](https://open.spotify.com/album/74pP2D0hYoq6rGQhH0akW3) | 5:58 |
 | 48 | ['T Is Weer Voorbij Die Mooie Zomer](https://open.spotify.com/track/1OkDLYSHraLYrClG4Q0AQX) | [Gerard Cox](https://open.spotify.com/artist/7fZiIcfYlK7sJbKpZLZSUh) | [Grootste Hits](https://open.spotify.com/album/6GQEqbcOvzzNMbh9VdhiOv) | 4:41 |
-| 49 | [Pappie, Ik Zie Tranen In Uw Ogen](https://open.spotify.com/track/5JwsIbgqsEJWUe26OjJti4) | [Arno](https://open.spotify.com/artist/6LfYonG58cMqM9q2n695BO), [Gratje](https://open.spotify.com/artist/0IdMlt1mYpecmg4TeUdJPp) | [Smartlappen Top 100 \- Deel 2](https://open.spotify.com/album/2vmDDtUfBv1HUS1RxeHgtv) | 3:01 |
-| 50 | [Dag Zuster Ursula](https://open.spotify.com/track/5CbSKFHtoheVWjXd1TnCEN) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 2:30 |
+| 49 | [Dag Zuster Ursula](https://open.spotify.com/track/5CbSKFHtoheVWjXd1TnCEN) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 2:30 |
+| 50 | [Pappie, Ik Zie Tranen In Uw Ogen](https://open.spotify.com/track/5JwsIbgqsEJWUe26OjJti4) | [Arno](https://open.spotify.com/artist/6LfYonG58cMqM9q2n695BO), [Gratje](https://open.spotify.com/artist/0IdMlt1mYpecmg4TeUdJPp) | [Smartlappen Top 100 \- Deel 2](https://open.spotify.com/album/2vmDDtUfBv1HUS1RxeHgtv) | 3:01 |
 | 51 | [Met De Vlam In De Pijp](https://open.spotify.com/track/0yPcH1rEI9aLYZxROxRlLm) | [Henk Wijngaard](https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb) | [Alle 40 Goed](https://open.spotify.com/album/0oXHOohTvlcBbGHY1hXYgE) | 3:09 |
 | 52 | [Hé Kom Aan](https://open.spotify.com/track/2H7IJB05VJymLMBYJ6bE79) | [Dimitri Van Toren](https://open.spotify.com/artist/6o8d8XXO1VTWSVoEg0j5sb) | [Liedjes van Toen \- Grootste Hollandse Hits 1973\-1974](https://open.spotify.com/album/4sGNb7vx99j0cP2kDJEG2W) | 2:06 |
 | 53 | [1948 \(Toen Was Geluk Heel Gewoon\)](https://open.spotify.com/track/12lKjWZSwRMejGWKTrvukB) | [Gerard Cox](https://open.spotify.com/artist/7fZiIcfYlK7sJbKpZLZSUh) | [Grootste Hits](https://open.spotify.com/album/6GQEqbcOvzzNMbh9VdhiOv) | 4:04 |
-| 54 | [Angeline \(M'n Blonde Sexmachine\)](https://open.spotify.com/track/6LlJePhi6I45KVfNiQr7Zp) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 4:19 |
-| 55 | [Het Werd Zomer](https://open.spotify.com/track/2AOCPLs1pU7KpL1vsOkOzC) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:08 |
+| 54 | [Het Werd Zomer](https://open.spotify.com/track/2AOCPLs1pU7KpL1vsOkOzC) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:08 |
+| 55 | [Angeline \(M'n Blonde Sexmachine\)](https://open.spotify.com/track/6LlJePhi6I45KVfNiQr7Zp) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 4:19 |
 | 56 | [Vino \(Waar Blijft De Wijn\)](https://open.spotify.com/track/3AWIhm2aCaB2Nj6w4SH61W) | [Imca Marina](https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5) | [Lytse Hille Presenteert de 'Ik Kwam Je Tegen' tour](https://open.spotify.com/album/0huX9PWQ3GRT5PfpZhF6CZ) | 3:16 |
 | 57 | [Een Lied Alleen Voor Kinderen](https://open.spotify.com/track/6kbOM1lp2na4rJu0964R3m) | [Dimitri Van Toren](https://open.spotify.com/artist/6o8d8XXO1VTWSVoEg0j5sb) | [Liedjes van Toen \- Grootste Hollandse Hits 1973\-1974](https://open.spotify.com/album/4sGNb7vx99j0cP2kDJEG2W) | 3:49 |
 | 58 | [Maar Wie Holt Van Mekaar](https://open.spotify.com/track/0cx4IjYw6Nz92bpZ4i6QJB) | [Gerard Hoeben](https://open.spotify.com/artist/6UFl7mSRtkStqDaKl5GV8E) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:46 |
-| 59 | [Veronica Sorry](https://open.spotify.com/track/21lMOKWDcK9VMse8rt4PPb) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Het Beste Van Peter Koelewijn](https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2) | 4:48 |
-| 60 | [Malle Babbe](https://open.spotify.com/track/1VU0IOYvnK7392tq5rnHTn) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:14 |
+| 59 | [Malle Babbe](https://open.spotify.com/track/1VU0IOYvnK7392tq5rnHTn) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:14 |
+| 60 | [Veronica Sorry](https://open.spotify.com/track/21lMOKWDcK9VMse8rt4PPb) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Het Beste Van Peter Koelewijn](https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2) | 4:48 |
 
 Snapshot ID: `AAAAAOyCOQ0wBwsvxSfSq8+RxeHlK3Jd`

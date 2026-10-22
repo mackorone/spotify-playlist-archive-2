@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: Xdinary Heroes)",
+  "description": "Future K-Pop hits! (Cover: A2O MAY)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -536,7 +536,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 251000,
       "name": "99 Degrees",
       "url": "https://open.spotify.com/track/0Adkq5CkilX52wKp7GzRct"
@@ -1986,6 +1986,28 @@
       "duration_ms": 164266,
       "name": "BAD BOY (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/5DvSOtsX1zRg1M2TjkK9BF"
+    },
+    {
+      "album": {
+        "name": "BAD HABITS TONITE",
+        "url": "https://open.spotify.com/album/2JOQCL9FFYM2o6rUrOAolP"
+      },
+      "artists": [
+        {
+          "name": "A2O",
+          "url": "https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE"
+        },
+        {
+          "name": "A2O MAY",
+          "url": "https://open.spotify.com/artist/6MHvscbuui67TvYTr3ZpV4"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "BAD HABITS TONITE",
+      "url": "https://open.spotify.com/track/2nX1nKma4JpfOfh3kbWrlC"
     },
     {
       "album": {
@@ -29522,7 +29544,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 145000,
       "name": "The Symphony of Fxxkboys (minlee Remix)",
       "url": "https://open.spotify.com/track/7etsBgkoZX9jywsQqXOj6Z"
@@ -33658,7 +33680,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 218000,
       "name": "You and I",
       "url": "https://open.spotify.com/track/35kftu3tYZnhWFBuKGyS1p"

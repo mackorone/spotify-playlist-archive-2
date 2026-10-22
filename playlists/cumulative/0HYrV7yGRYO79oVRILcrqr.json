@@ -7601,6 +7601,24 @@
     },
     {
       "album": {
+        "name": "Love & Thunder",
+        "url": "https://open.spotify.com/album/0CDKCOhgkwqMwx0Ku1Y7Sg"
+      },
+      "artists": [
+        {
+          "name": "Static Revolver",
+          "url": "https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228597,
+      "name": "Love & Thunder",
+      "url": "https://open.spotify.com/track/7JwU1ozmYIVZZiC0wkHlgu"
+    },
+    {
+      "album": {
         "name": "Love Bomb Me",
         "url": "https://open.spotify.com/album/0Ht9x8uHVCDnGVG8yYiT1a"
       },
@@ -10042,6 +10060,24 @@
       "duration_ms": 182679,
       "name": "Phoenix Blood",
       "url": "https://open.spotify.com/track/5T9vB7ik3DayIDTKArLzWN"
+    },
+    {
+      "album": {
+        "name": "Piensalo dos veces",
+        "url": "https://open.spotify.com/album/74DWhau5rAHpE1XerTaVxW"
+      },
+      "artists": [
+        {
+          "name": "Rokd\u00ebbil",
+          "url": "https://open.spotify.com/artist/6XwejHVkpCvWg3DTD249Lf"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "Piensalo dos veces",
+      "url": "https://open.spotify.com/track/6c1YfviezL0YtuQGNslWZi"
     },
     {
       "album": {

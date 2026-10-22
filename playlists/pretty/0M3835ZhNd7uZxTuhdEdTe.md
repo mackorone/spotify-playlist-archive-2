@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0M3835ZhNd7uZxTuhdEdTe.md) - [plain]
 
 > i do what I can\. rest is not in my hands\.   \( ps: been six years since i first heard it and i felt it now\)
 
-[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 1 like - 25 songs - 1 hr 9 min
+[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 2 likes - 25 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

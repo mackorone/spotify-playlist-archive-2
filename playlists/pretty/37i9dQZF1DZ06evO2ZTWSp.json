@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 474329,
+  "num_followers": 474299,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAC+VjV3D2AZ9AwW7X6Xa3A8",
+  "snapshot_id": "atVdgAAAAAB4cFdgktCWWyH9/IX2QXfF",
   "tracks": [
     {
       "added_at": null,
@@ -23,26 +23,6 @@
       "duration_ms": 187107,
       "name": "2 Be Loved (Am I Ready)",
       "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Special (feat. SZA)",
-        "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174748,
-      "name": "Special (feat. SZA)",
-      "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
     },
     {
       "added_at": null,
@@ -75,6 +55,26 @@
       "duration_ms": 176882,
       "name": "Break Up Twice",
       "url": "https://open.spotify.com/track/7Bzgs1crJViC1NEliHSp8O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Special (feat. SZA)",
+        "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174748,
+      "name": "Special (feat. SZA)",
+      "url": "https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk"
     },
     {
       "added_at": null,
@@ -391,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charli",
-        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
       "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 191506,
-      "name": "Blame It on Your Love (feat. Lizzo)",
-      "url": "https://open.spotify.com/track/2RCUr24WkEe2r5Vv4oDKlN"
+      "duration_ms": 185594,
+      "name": "Water Me",
+      "url": "https://open.spotify.com/track/4WbO3H3wFGUdrngpMMs4sF"
     },
     {
       "added_at": null,
@@ -427,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Charli",
+        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "Blame It on Your Love (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/2RCUr24WkEe2r5Vv4oDKlN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BITCH",
         "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 170760,
       "name": "Sexy Ladies (feat. UCB (Uncalled 4 Band))",
       "url": "https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 185594,
-      "name": "Water Me",
-      "url": "https://open.spotify.com/track/4WbO3H3wFGUdrngpMMs4sF"
     },
     {
       "added_at": null,
@@ -679,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "3rd Ward Bounce",
-        "url": "https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj"
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
       },
       "artists": [
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 185890,
-      "name": "Karaoke (feat. Lizzo)",
-      "url": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
+      "duration_ms": 174156,
+      "name": "Happy 2 Be",
+      "url": "https://open.spotify.com/track/3IPnp0aifOAcZg2irtekhq"
     },
     {
       "added_at": null,
@@ -715,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+        "name": "3rd Ward Bounce",
+        "url": "https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj"
       },
       "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 174156,
-      "name": "Happy 2 Be",
-      "url": "https://open.spotify.com/track/3IPnp0aifOAcZg2irtekhq"
+      "duration_ms": 185890,
+      "name": "Karaoke (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
     },
     {
       "added_at": null,

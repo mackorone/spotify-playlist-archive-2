@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Baby Wave",
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: bed",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -3650,7 +3650,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 162110,
       "name": "Beaver Pond",
       "url": "https://open.spotify.com/track/0BbHVuiG6ZqReCaWJoSInq"
@@ -4496,7 +4496,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 170196,
       "name": "Billboard Style",
       "url": "https://open.spotify.com/track/35ve61xDrQy5Q4U20CCttN"
@@ -4932,7 +4932,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 114162,
       "name": "Blood Eagle",
       "url": "https://open.spotify.com/track/7rTgGCxL3pC30l1AqHacC2"
@@ -10743,6 +10743,24 @@
     },
     {
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1wNYcaTcLxCWbm0gC0m0qh"
+      },
+      "artists": [
+        {
+          "name": "Janelane",
+          "url": "https://open.spotify.com/artist/35N63pLgKzB0ZknLTrFVSA"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185249,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/5iXSGe9jq2ZNOjvPi2Wlqy"
+    },
+    {
+      "album": {
         "name": "Devil Child",
         "url": "https://open.spotify.com/album/5rgJMPUpBjR8axqaImE6Tw"
       },
@@ -12964,7 +12982,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 211177,
       "name": "Eternal Flame",
       "url": "https://open.spotify.com/track/6dG9v1LiSdDPu1Hluz6fk7"
@@ -17428,7 +17446,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 156640,
       "name": "Haven't Lived it Yet",
       "url": "https://open.spotify.com/track/75v6C5H8fXxziMjFChET0f"
@@ -18368,7 +18386,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 169546,
       "name": "Hilary",
       "url": "https://open.spotify.com/track/3EWSkEHJD94ecvT6wlw5iF"
@@ -20470,6 +20488,24 @@
       "duration_ms": 230136,
       "name": "ifshitfuq",
       "url": "https://open.spotify.com/track/73YDopbDooUCO4WUKwI4zL"
+    },
+    {
+      "album": {
+        "name": "Spitting Your Name Into the River",
+        "url": "https://open.spotify.com/album/3XgIdalRyJ8jedO7J6YkNt"
+      },
+      "artists": [
+        {
+          "name": "r. image",
+          "url": "https://open.spotify.com/artist/0nwynIUuC5DgX62knlri4i"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244102,
+      "name": "Igneous",
+      "url": "https://open.spotify.com/track/4ZUm4jhPqjJFKJpo2aVZeQ"
     },
     {
       "album": {
@@ -23625,6 +23661,24 @@
     },
     {
       "album": {
+        "name": "Little Things (There's Nothing Bigger)",
+        "url": "https://open.spotify.com/album/7iHG04nyET3sXQYbO9Rztc"
+      },
+      "artists": [
+        {
+          "name": "Ferguson Hi-Fi",
+          "url": "https://open.spotify.com/artist/6lOgAwO6yOGHLOqdplm0Cl"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143713,
+      "name": "Little Things (There's Nothing Bigger)",
+      "url": "https://open.spotify.com/track/2b4A1O8Wo8CCA3J7NsXbdJ"
+    },
+    {
+      "album": {
         "name": "Live Forever",
         "url": "https://open.spotify.com/album/19ULLIq9q1a7P8BqQlH7W5"
       },
@@ -24403,6 +24457,24 @@
     },
     {
       "album": {
+        "name": "Lucile",
+        "url": "https://open.spotify.com/album/1SIeK36MU3vha66Dz3xkCn"
+      },
+      "artists": [
+        {
+          "name": "Ballet",
+          "url": "https://open.spotify.com/artist/0WIbNObVmemQwisszTjb1A"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217777,
+      "name": "Lucile",
+      "url": "https://open.spotify.com/track/2whmQ62VKCqzlDvj0WmGT3"
+    },
+    {
+      "album": {
         "name": "Lucinda",
         "url": "https://open.spotify.com/album/1JtO0zQKKOL7DhVMRtPjlT"
       },
@@ -25055,6 +25127,24 @@
     },
     {
       "album": {
+        "name": "Pull of the Moon",
+        "url": "https://open.spotify.com/album/7Hj6pSXdu05tnEttYuut2z"
+      },
+      "artists": [
+        {
+          "name": "Billboard Style",
+          "url": "https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126570,
+      "name": "Meloxicam",
+      "url": "https://open.spotify.com/track/3ZuisujJ7z1pedrNbrYg4N"
+    },
+    {
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/3Umseyu6wAqpYXq5SivGW3"
       },
@@ -25466,6 +25556,24 @@
       "duration_ms": 286029,
       "name": "Mind's a Lie",
       "url": "https://open.spotify.com/track/5BypykbT4N0dRhjTbXwxBE"
+    },
+    {
+      "album": {
+        "name": "Fixer",
+        "url": "https://open.spotify.com/album/1SYmW6CXCy4FVBNr10wYwu"
+      },
+      "artists": [
+        {
+          "name": "penny loafer",
+          "url": "https://open.spotify.com/artist/7em8QNm1ai99fHyJAOlqAL"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Minolta",
+      "url": "https://open.spotify.com/track/4M7H51B5BkS8ajnmozIhva"
     },
     {
       "album": {
@@ -28842,7 +28950,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 263133,
       "name": "Out Of My Bag",
       "url": "https://open.spotify.com/track/1g8tO5yzWzparJKCJwj1ht"
@@ -31980,7 +32088,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 137986,
       "name": "Return II Hammer",
       "url": "https://open.spotify.com/track/6GK9uobieA3ziCPbZ9tKqZ"
@@ -42727,6 +42835,24 @@
     },
     {
       "album": {
+        "name": "WHAT A REGULAR DAY",
+        "url": "https://open.spotify.com/album/1ejjDFpNkTI4LE8P1HUcjf"
+      },
+      "artists": [
+        {
+          "name": "BALACLAVA",
+          "url": "https://open.spotify.com/artist/7ySwjlIIhZRIzydurByhAI"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "WHAT A REGULAR DAY",
+      "url": "https://open.spotify.com/track/0cxTnIXyy13AcnHtfPnxpX"
+    },
+    {
+      "album": {
         "name": "What If?",
         "url": "https://open.spotify.com/album/4MNcltdJAhkGGuBklUaNa4"
       },
@@ -44740,6 +44866,24 @@
       "duration_ms": 273603,
       "name": "Zombies",
       "url": "https://open.spotify.com/track/3gpW3GpvFgOJSJBDlSXDUl"
+    },
+    {
+      "album": {
+        "name": "\u30ba\u30fc\u30ad\u30c3\u30c9\uff5cZookid",
+        "url": "https://open.spotify.com/album/20a26ZApAzEfDfmIOCCsa6"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186803,
+      "name": "\u30ba\u30fc\u30ad\u30c3\u30c9\uff5cZookid",
+      "url": "https://open.spotify.com/track/22wCJHuwjBIBgUBF5sFDCH"
     },
     {
       "album": {

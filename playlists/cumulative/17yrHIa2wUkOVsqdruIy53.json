@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 41.2026 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 42.2026 / German Streaming-Charts",
   "tracks": [
     {
       "album": {
@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 168000,
       "name": "BAD TIMES",
       "url": "https://open.spotify.com/track/3mS3robDVwBRrk2R2ef6zA"
@@ -2287,6 +2287,28 @@
     },
     {
       "album": {
+        "name": "Blue Talisman",
+        "url": "https://open.spotify.com/album/2cQCTsV31QsqGnwMi5PATh"
+      },
+      "artists": [
+        {
+          "name": "SadiQ",
+          "url": "https://open.spotify.com/artist/2cbnuG01tV93pqdfr4OBqL"
+        },
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Blue Talisman",
+      "url": "https://open.spotify.com/track/1JT6JFTCc15gtFLI4ClcxZ"
+    },
+    {
+      "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
       },
@@ -2944,7 +2966,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 224813,
       "name": "Cheap Thrills (feat. Sean Paul)",
       "url": "https://open.spotify.com/track/378iszndTZAR4dH8kwsLC6"
@@ -3502,7 +3524,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 196099,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/0rCxlp7KdpW1JR8uG6Uno0"
@@ -3724,6 +3746,24 @@
       "duration_ms": 282062,
       "name": "Dirty Diana",
       "url": "https://open.spotify.com/track/6JZYMxvcoeLD4IifJPvDux"
+    },
+    {
+      "album": {
+        "name": "Master of My Make-Believe",
+        "url": "https://open.spotify.com/album/69jrxUSjHoEu6PeBMq3273"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284400,
+      "name": "Disparate Youth",
+      "url": "https://open.spotify.com/track/7d23MhPFE9eB3U8DPRirnL"
     },
     {
       "album": {
@@ -4066,7 +4106,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
@@ -4638,7 +4678,7 @@
       ],
       "date_added": "2026-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 225360,
       "name": "Everybody (Backstreet's Back) - Radio Edit",
       "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
@@ -4848,7 +4888,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 102857,
       "name": "Feuermelder",
       "url": "https://open.spotify.com/track/6i47bNSWEEWa6VmLZrZmXS"
@@ -5150,6 +5190,24 @@
       "duration_ms": 163000,
       "name": "gangster & efendi",
       "url": "https://open.spotify.com/track/3fQi2IcEpdJLZqzveAYwCJ"
+    },
+    {
+      "album": {
+        "name": "GAUNA SPORT",
+        "url": "https://open.spotify.com/album/0ByzZHSyBApl0XfKtUKf7N"
+      },
+      "artists": [
+        {
+          "name": "PAPKE",
+          "url": "https://open.spotify.com/artist/2MrPCoNGJoi0LlO2FKWASe"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144618,
+      "name": "GAUNA SPORT",
+      "url": "https://open.spotify.com/track/0HqFIHt5xSHaThDQnQ18sP"
     },
     {
       "album": {
@@ -5526,6 +5584,36 @@
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
+    },
+    {
+      "album": {
+        "name": "GLASWASSERFLASCHE",
+        "url": "https://open.spotify.com/album/4p5mddme6aAgR0gWjimQit"
+      },
+      "artists": [
+        {
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU"
+        },
+        {
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+        },
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146419,
+      "name": "GLASWASSERFLASCHE",
+      "url": "https://open.spotify.com/track/7kPEhBHAsuDqEOidXk3JT5"
     },
     {
       "album": {
@@ -6188,7 +6276,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 158206,
       "name": "Hin und Her",
       "url": "https://open.spotify.com/track/5PcZTsUAo5ZH9JcTmBNy5t"
@@ -9597,6 +9685,24 @@
     },
     {
       "album": {
+        "name": "My Body Isn't Ready",
+        "url": "https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217380,
+      "name": "My Body Isn't Ready",
+      "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
+    },
+    {
+      "album": {
         "name": "My Only Wish (This Year)",
         "url": "https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL"
       },
@@ -9876,7 +9982,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 214400,
       "name": "No Scrubs",
       "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
@@ -10746,7 +10852,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
@@ -10934,7 +11040,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 195117,
       "name": "Porzellan",
       "url": "https://open.spotify.com/track/5bDWgqubENQqlPoORYNtIQ"
@@ -11018,6 +11124,28 @@
       "duration_ms": 146181,
       "name": "PUSH PUSH",
       "url": "https://open.spotify.com/track/7vkZI3Nk7phvR7zST8XRyM"
+    },
+    {
+      "album": {
+        "name": "PUZZLETEIL",
+        "url": "https://open.spotify.com/album/4vvWnO5vtdZsPOFK4RPC0D"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167114,
+      "name": "PUZZLETEIL",
+      "url": "https://open.spotify.com/track/4aeP4ntvTT8rV37nqezEV2"
     },
     {
       "album": {
@@ -12084,7 +12212,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 203346,
       "name": "Sex on Fire",
       "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
@@ -12360,6 +12488,24 @@
       "duration_ms": 186241,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ"
+    },
+    {
+      "album": {
+        "name": "The Age of Consent",
+        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302413,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
     },
     {
       "album": {
@@ -13754,7 +13900,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-07",
+      "date_removed": null,
       "duration_ms": 208173,
       "name": "The Night We Met (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l"
@@ -13816,7 +13962,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 179120,
       "name": "The Way I Are",
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
@@ -14958,7 +15104,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 201325,
       "name": "Walzer",
       "url": "https://open.spotify.com/track/605G7F1FEjm60IdXmLhlNN"

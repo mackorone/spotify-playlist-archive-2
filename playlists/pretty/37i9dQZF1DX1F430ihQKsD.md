@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal w/ Colin Léo
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,976 likes - 68 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,980 likes - 68 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sérotonine](https://open.spotify.com/track/5OCFrLaGaITH9EJZg4aENB) | [Colin Léo](https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC), [Greg Beaudin](https://open.spotify.com/artist/3c1E23TTSqemqVSfJBmnFb) | [Léger Stress](https://open.spotify.com/album/1GwiO50DjkJXSiaRFHhvQU) | 3:08 |
+| 1 | [Sérotonine](https://open.spotify.com/track/5OCFrLaGaITH9EJZg4aENB) | [Colin Léo](https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC), [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0) | [Léger Stress](https://open.spotify.com/album/1GwiO50DjkJXSiaRFHhvQU) | 3:08 |
 | 2 | [They/Them Summer](https://open.spotify.com/track/6IcgYoQUJekZtAcobhgY19) | [Chaude Chaleur](https://open.spotify.com/artist/1mDSretn552shMdrXmhiuk) | [They/Them Summer](https://open.spotify.com/album/5MhANPNQ5a1XVipxwtM7Do) | 3:40 |
 | 3 | [À demi\-croisé](https://open.spotify.com/track/6bTGBEE4tmh2YJtURQul7N) | [Visrei](https://open.spotify.com/artist/6cjATtjJUrtOGS1TQoTUuu) | [À demi\-croisé](https://open.spotify.com/album/72mT2RY5uUEegxhgkbowX5) | 2:40 |
 | 4 | [Ascension](https://open.spotify.com/track/6KV2gnAdcLD59u7hJoc8bZ) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Marathon 2 \(Mont\-Royal\)](https://open.spotify.com/album/6JkexA5EWgI9Ap5EBDTCmI) | 6:24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 
 > This is Arsenal Efectivo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,750 likes - 35 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,752 likes - 35 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 | 17 | [Vida Peligrosa \(En Vivo\)](https://open.spotify.com/track/0yIcL5dw8vNA54bJNPvaiT) | [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [ALGO LEVE EN VIVO](https://open.spotify.com/album/36CJxvpWNOXJR6gOaRXqYh) | 3:17 |
 | 18 | [Calorsitos Del Desierto](https://open.spotify.com/track/74NAHTRdV5EuABIWxCYK6A) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 3:29 |
 | 19 | [Playas](https://open.spotify.com/track/7xVJ2ccRAQpUWL6fHPslqL) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 2:26 |
-| 20 | [Soy Ayon](https://open.spotify.com/track/1RoXiUyEb8DZsw6uAcGPiJ) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/4huwqIi9UfY9D3DtGwo4di) | 2:57 |
-| 21 | [BELLAGIO](https://open.spotify.com/track/3raY7hL7cPzLYOefqW4ubH) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [BELLAGIO](https://open.spotify.com/album/1xHAZAsmU6kT8P3SO49MLZ) | 2:38 |
+| 20 | [BELLAGIO](https://open.spotify.com/track/3raY7hL7cPzLYOefqW4ubH) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [BELLAGIO](https://open.spotify.com/album/1xHAZAsmU6kT8P3SO49MLZ) | 2:38 |
+| 21 | [Soy Ayon](https://open.spotify.com/track/1RoXiUyEb8DZsw6uAcGPiJ) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/4huwqIi9UfY9D3DtGwo4di) | 2:57 |
 | 22 | [El Vivo Retrato \(Ivan Archivaldo\)](https://open.spotify.com/track/3gwyEB1bV3xdtl4gbfxAXt) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:44 |
 | 23 | [Gente De Negocio](https://open.spotify.com/track/3rZXsyClbQZPN20u3h8ADk) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 2:26 |
 | 24 | [FIONA](https://open.spotify.com/track/3vdhIXQOzU7qTS3cgL1J8K) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [FIONA](https://open.spotify.com/album/4eQKfcyUhqCXfXjstocfhQ) | 3:08 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Bus3e.md) - [plain]
 | 34 | [Peligro](https://open.spotify.com/track/4e57NeDTbHbdan24Vf6WU5) | [Trouble Kidd](https://open.spotify.com/artist/2BUm9jjApR6h94btZHECuw), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Peligro](https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh) | 2:08 |
 | 35 | [Platicame De Ti \- En Vivo](https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr) | [Sol De Mi Tierra\- mariacheño](https://open.spotify.com/artist/51adjnMrqIJnsXRtyQkLFc), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Platicame De Ti \(En Vivo\)](https://open.spotify.com/album/0HFW2U2GnGAosNeBZAT7is) | 2:54 |
 
-Snapshot ID: `atQMAAAAAAD5/SV3NP0HtryDhgQZ49OH`
+Snapshot ID: `atVdgAAAAADz8YKWldt2PHO/3LqqkUZJ`

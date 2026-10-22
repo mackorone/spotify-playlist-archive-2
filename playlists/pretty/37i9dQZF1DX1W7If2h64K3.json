@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 59794,
+  "num_followers": 59797,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -323,26 +323,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann - Jan\u00e1\u010dek - Berg",
-        "url": "https://open.spotify.com/album/4exYsowx0ys0TtAh6R7DwQ"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Davidsb\u00fcndlert\u00e4nze, Op. 6: XVII. Wie aus der Ferne",
-      "url": "https://open.spotify.com/track/74hhrFJWIKOa5xkpNU2dJX"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Humoreske, Op. 20 / Fantasia In C, Op. 17",
         "url": "https://open.spotify.com/album/3udA4oqeaONjqWRcudxaCo"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 1579000,
       "name": "Humoreske, op. 20",
       "url": "https://open.spotify.com/track/59vvQ1vzVLkGZ8CsaaaJDi"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann - Jan\u00e1\u010dek - Berg",
+        "url": "https://open.spotify.com/album/4exYsowx0ys0TtAh6R7DwQ"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Davidsb\u00fcndlert\u00e4nze, Op. 6: XVII. Wie aus der Ferne",
+      "url": "https://open.spotify.com/track/74hhrFJWIKOa5xkpNU2dJX"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -743,6 +743,30 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
+        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
+        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "duration_ms": 773000,
+      "name": "Symphony No. 2 in C Major, Op. 61: I. Sostenuto assai \u2013 Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
         "name": "Schumann: Violin Concerto; Piano Trio No. 3",
         "url": "https://open.spotify.com/album/77OdIMqqtoXO8bTBdlcA8q"
       },
@@ -767,30 +791,6 @@
       "duration_ms": 911400,
       "name": "Violin Concerto in D minor, WoO 23: I. In kr\u00e4ftigem, nicht zu schnellem Tempo",
       "url": "https://open.spotify.com/track/3GI9zES0F4tERFfC91obWX"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
-        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
-        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 773000,
-      "name": "Symphony No. 2 in C Major, Op. 61: I. Sostenuto assai \u2013 Allegro ma non troppo",
-      "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
     },
     {
       "added_at": "2025-12-15 12:40:07",

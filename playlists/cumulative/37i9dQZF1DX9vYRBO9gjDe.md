@@ -2,7 +2,7 @@
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。10月19日付。
+> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。10月20日付。
 
 7,914 songs - 19 day 15 hr 44 min
 
@@ -115,7 +115,7 @@
 | [95 Project \(Reprise\)](https://open.spotify.com/track/6XY6EHw2syj0We0U0GxCf7) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [95 Project \(Reprise\)](https://open.spotify.com/album/6V8BnI070YFCoWX0T8A60r) | 2:30 | 2023-07-14 | 2023-07-17 |
 | [96ers](https://open.spotify.com/track/6AvxOYstG9cCD4RVQp4aJz) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [HxW 1st Single Album 'BEAM'](https://open.spotify.com/album/4SOFnzIWYI2JU9ypuQX2E4) | 2:45 | 2025-03-14 | 2025-04-02 |
 | [99](https://open.spotify.com/track/7pUWe1cHuyvonD3FXVII5g) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [99](https://open.spotify.com/album/5Awgbm64Mrd6omctZmRPaj) | 2:50 | 2023-12-07 | 2023-12-23 |
-| [99 Steps](https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [99 Steps](https://open.spotify.com/album/1B57GqqYDv7nSHsiymJzv0) | 3:17 | 2025-05-12 | 2026-10-19 |
+| [99 Steps](https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [99 Steps](https://open.spotify.com/album/1B57GqqYDv7nSHsiymJzv0) | 3:17 | 2025-05-12 |  |
 | [>one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2023-03-09 | 2023-03-10 |
 | [^\_^](https://open.spotify.com/track/3xS7BMJ5vn7MAo2e8IEEpr) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 2:17 | 2025-01-17 | 2025-01-21 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-05-02 | 2024-05-04 |
@@ -4162,7 +4162,7 @@
 | [Stay Gold \- from BEYBLADE X](https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stay Gold \(from BEYBLADE X\)](https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI) | 3:26 | 2025-06-17 | 2025-06-24 |
 | [STAY HERE 4 LIFE \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 5:46 | 2026-01-21 | 2026-01-23 |
 | [Stay Strong](https://open.spotify.com/track/5QpUC7xEHDtfb8LDKjQL1X) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:ST](https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF) | 3:57 | 2025-11-03 | 2025-12-23 |
-| [STAY TUNE](https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [THE KIDS](https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF) | 4:58 | 2024-10-10 |  |
+| [STAY TUNE](https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [THE KIDS](https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF) | 4:58 | 2024-10-10 | 2026-10-22 |
 | [Stay With Me](https://open.spotify.com/track/0fsKNLLBYG3rKS2TqkjFK1) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Stay With Me](https://open.spotify.com/album/7kVrV33IC6X8fFjhbI8Bej) | 2:57 | 2026-01-05 | 2026-01-15 |
 | [STAY with ME](https://open.spotify.com/track/5jSydhgZhCHzEooYlRnK3y) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [LiKE](https://open.spotify.com/album/0JKdtgiu4SQsxn463ay4WE) | 4:59 | 2026-04-23 | 2026-04-25 |
 | [stay with me](https://open.spotify.com/track/2H9QGcpwQ9kaPxNK5qBOEc) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [理屈で話す君と、感情論の僕](https://open.spotify.com/album/3VgIlelKWt7n48M80O7CHx) | 3:39 | 2026-02-16 | 2026-02-21 |
@@ -5650,7 +5650,7 @@
 | [アンカー](https://open.spotify.com/track/5d7sKC9OOuQzimMOngprCw) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [Running Through the Fire](https://open.spotify.com/album/6FhWmFVExZZrqvPudu8SCV) | 2:54 | 2025-09-09 | 2025-09-11 |
 | [アンスロポス](https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k) | [関ジャニ∞](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [アンスロポス](https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d) | 3:39 | 2024-01-26 | 2024-01-29 |
 | [アンゼンパイ](https://open.spotify.com/track/2rpnXsPsPV36V4HGnYhTdo) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Progressive](https://open.spotify.com/album/5KcY5VouJpaGlb4FZ383gl) | 4:26 | 2025-08-01 | 2025-08-02 |
-| [アンパンマンたいそう](https://open.spotify.com/track/1uet9g0vZZPACZ83oMDDe4) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン 恐竜ノッシーの大冒険](https://open.spotify.com/album/4KqNbhc7QjASUToxOaRlDo) | 4:34 | 2025-02-28 |  |
+| [アンパンマンたいそう](https://open.spotify.com/track/1uet9g0vZZPACZ83oMDDe4) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン 恐竜ノッシーの大冒険](https://open.spotify.com/album/4KqNbhc7QjASUToxOaRlDo) | 4:34 | 2025-02-28 | 2026-10-22 |
 | [アンパンマンのマーチ](https://open.spotify.com/track/1zWDvA65SyP3k2lqGmCvGZ) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン キラキラ星の涙](https://open.spotify.com/album/2GHqWKLw906drAsKQtQf64) | 2:50 | 2024-11-20 | 2026-07-24 |
 | [アンビシャス](https://open.spotify.com/track/7svD5Sa5WNmvEpflWbUkhR) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [アンビシャス](https://open.spotify.com/album/7IUZ67rVQ6jOffOzVjrMTr) | 3:06 | 2023-05-01 | 2023-05-15 |
 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-01-22 | 2024-04-16 |

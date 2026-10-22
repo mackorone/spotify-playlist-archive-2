@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0aQSzxOq/6PAAJLrsPs9u7K7sO",
+  "snapshot_id": "AAAAAKmdAYhjFmUrAu/Ez6/5qpXMzqH1",
   "tracks": [
     {
       "added_at": "2026-09-15 08:08:14",
@@ -95,6 +95,26 @@
       "duration_ms": 259852,
       "name": "Radhimaa - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/6jJHYbJReFfR2ieGzRP5bq"
+    },
+    {
+      "added_at": "2026-10-21 12:05:18",
+      "album": {
+        "name": "Jailer 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1uwOU5ZjczJJozQkhzrGJr"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Thamizh Aadhavan",
+          "url": "https://open.spotify.com/artist/2naoxh21roEyvOd7NWwDUb"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "Putaapu Gang",
+      "url": "https://open.spotify.com/track/55ePB3CmrchPFWCZKWZvhW"
     },
     {
       "added_at": "2026-03-17 06:06:13",
@@ -331,6 +351,30 @@
       "duration_ms": 258993,
       "name": "Ekavali (From \"Renigunta 2\")",
       "url": "https://open.spotify.com/track/40rsaNsQOa4jFd15CvdUFX"
+    },
+    {
+      "added_at": "2026-10-21 12:05:18",
+      "album": {
+        "name": "Jailer 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1uwOU5ZjczJJozQkhzrGJr"
+      },
+      "artists": [
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Super Subu",
+          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
+        }
+      ],
+      "duration_ms": 254304,
+      "name": "Bindaas",
+      "url": "https://open.spotify.com/track/42XT1ZPONGnwbQsc4EPnoY"
     },
     {
       "added_at": "2026-02-18 16:03:52",
@@ -985,38 +1029,6 @@
       "url": "https://open.spotify.com/track/4ipcv9eHC6w5xKXxX0Z1Zu"
     },
     {
-      "added_at": "2025-06-21 04:05:14",
-      "album": {
-        "name": "Jinguchaa (From \"Thug Life\") (Tamil)",
-        "url": "https://open.spotify.com/album/5ROLhzeNs1qAN2SwAD4Ukp"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Kamal Haasan",
-          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
-        },
-        {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        },
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        },
-        {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        }
-      ],
-      "duration_ms": 260314,
-      "name": "Jinguchaa (From \"Thug Life\") (Tamil)",
-      "url": "https://open.spotify.com/track/3hZg8oiTOWFZWaFudFi610"
-    },
-    {
       "added_at": "2026-02-18 16:03:52",
       "album": {
         "name": "My Lord (Original Motion Picture Soundtrack)",
@@ -1191,26 +1203,6 @@
       "duration_ms": 239110,
       "name": "The One",
       "url": "https://open.spotify.com/track/12zT7djETGfDeL6JIVjM2b"
-    },
-    {
-      "added_at": "2025-06-11 13:07:10",
-      "album": {
-        "name": "Paiya Dei (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/64rBaqo05hIvSgN2cDMT40"
-      },
-      "artists": [
-        {
-          "name": "Asal Kolaar",
-          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
-        },
-        {
-          "name": "Anand Kashinath",
-          "url": "https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "Paiya Dei - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/5zgalMo7LWrUPbnv9tgupN"
     }
   ],
   "unique_name": "Hot Hits Tamil",

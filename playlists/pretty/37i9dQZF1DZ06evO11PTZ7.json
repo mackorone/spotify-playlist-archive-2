@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAAHFD1FPr7XQuwkp2Dw6lPh",
+  "snapshot_id": "atVdgAAAAABGn5w0YP8lzfQpYEFcPYfS",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death To Tyrants",
-        "url": "https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg"
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Uprising Nation",
-      "url": "https://open.spotify.com/track/0LKkIxYMgGX1jtxalTLgqc"
+      "duration_ms": 146693,
+      "name": "Just Look Around",
+      "url": "https://open.spotify.com/track/6rabHuX6nMyq9eC6VpEVyi"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
+        "name": "Death To Tyrants",
+        "url": "https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 146693,
-      "name": "Just Look Around",
-      "url": "https://open.spotify.com/track/6rabHuX6nMyq9eC6VpEVyi"
+      "duration_ms": 145000,
+      "name": "Uprising Nation",
+      "url": "https://open.spotify.com/track/0LKkIxYMgGX1jtxalTLgqc"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death To Tyrants",
-        "url": "https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "Make A Mark",
-      "url": "https://open.spotify.com/track/6eCxi8qQmJT89kWMyAOMmi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Act of Defiance",
         "url": "https://open.spotify.com/album/7I8FZgFrOsxTKy8lG3fYkV"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 162945,
       "name": "DNC",
       "url": "https://open.spotify.com/track/5UE9WdcsB6fnOJGgm5psjw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death To Tyrants",
+        "url": "https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "Make A Mark",
+      "url": "https://open.spotify.com/track/6eCxi8qQmJT89kWMyAOMmi"
     },
     {
       "added_at": null,

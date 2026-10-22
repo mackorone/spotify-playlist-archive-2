@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PvcRINiHpzzSWn0k2h8Wc.md) - [plain]
 
 > 
 
-[Leah](https://open.spotify.com/user/45qhw1s0njc96km65yesotdhi) - 0 likes - 11 songs - 38 min 59 sec
+[Leah](https://open.spotify.com/user/45qhw1s0njc96km65yesotdhi) - 1 like - 11 songs - 38 min 59 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

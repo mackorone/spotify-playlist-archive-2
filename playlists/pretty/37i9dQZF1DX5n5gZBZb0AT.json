@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 998831,
+  "num_followers": 998907,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -395,26 +395,6 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
-        "name": "COM MEDO!",
-        "url": "https://open.spotify.com/album/6JekYwYFalK1oXttdZ9kGk"
-      },
-      "artists": [
-        {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
-        },
-        {
-          "name": "Scythermane",
-          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
-        }
-      ],
-      "duration_ms": 69736,
-      "name": "COM MEDO!",
-      "url": "https://open.spotify.com/track/7wrjh1jGLkV99AhcgnGRjE"
-    },
-    {
-      "added_at": "2026-04-03 16:00:07",
-      "album": {
         "name": "Step Back!",
         "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 150674,
       "name": "Step Back!",
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
+    },
+    {
+      "added_at": "2026-04-03 16:00:07",
+      "album": {
+        "name": "COM MEDO!",
+        "url": "https://open.spotify.com/album/6JekYwYFalK1oXttdZ9kGk"
+      },
+      "artists": [
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        },
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        }
+      ],
+      "duration_ms": 69736,
+      "name": "COM MEDO!",
+      "url": "https://open.spotify.com/track/7wrjh1jGLkV99AhcgnGRjE"
     },
     {
       "added_at": "2026-04-03 16:00:07",

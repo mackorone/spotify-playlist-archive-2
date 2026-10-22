@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 240662,
+  "num_followers": 240684,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAB9TfyZPV4aF92THveX+933",
+  "snapshot_id": "atVdgAAAAABd/hnVD0Iv3O8KmRWcXAfV",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romanticas",
-        "url": "https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V"
+        "name": "El Katch",
+        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
       },
       "artists": [
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Kenia Rios",
-          "url": "https://open.spotify.com/artist/7cVq3EUeJq8EQpwKNIdU8a"
         }
       ],
-      "duration_ms": 207517,
-      "name": "Como Tu (feat. Kenia Rios)",
-      "url": "https://open.spotify.com/track/69WJE0HTS9acF3WOq5q4gF"
+      "duration_ms": 117560,
+      "name": "Nom\u00e1s Por Ser Sinaloense",
+      "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
     },
     {
       "added_at": null,
@@ -715,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Katch",
-        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
+        "name": "Romanticas",
+        "url": "https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V"
       },
       "artists": [
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Kenia Rios",
+          "url": "https://open.spotify.com/artist/7cVq3EUeJq8EQpwKNIdU8a"
         }
       ],
-      "duration_ms": 117560,
-      "name": "Nom\u00e1s Por Ser Sinaloense",
-      "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
+      "duration_ms": 207517,
+      "name": "Como Tu (feat. Kenia Rios)",
+      "url": "https://open.spotify.com/track/69WJE0HTS9acF3WOq5q4gF"
     },
     {
       "added_at": null,

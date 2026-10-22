@@ -1,12 +1,12 @@
 {
   "description": "This is Tyla. The essential tracks, all in one playlist.",
-  "num_followers": 88873,
+  "num_followers": 88885,
   "original_name": "This Is Tyla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAAADRwDah2Dgdb9YRul6VKit",
+  "snapshot_id": "atVdgAAAAACmCeD/QgCfP9gmJACw8Dmv",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 155220,
+      "name": "BACK to YOU",
+      "url": "https://open.spotify.com/track/4Oh1zkPShpImBJOBOKMMAq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Midnight Sun: Girls Trip",
         "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 206118,
       "name": "Hot & Sexy - Girls Trip",
       "url": "https://open.spotify.com/track/0bB61QUKk7MTDyTQJvUoHB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TYLA +",
-        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 155220,
-      "name": "BACK to YOU",
-      "url": "https://open.spotify.com/track/4Oh1zkPShpImBJOBOKMMAq"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Need Love (Girls Mix)",
-        "url": "https://open.spotify.com/album/06oN7xkWw9ZJcbK6tIAI71"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Girls Need Love (Girls Mix) (feat. Tyla)",
-      "url": "https://open.spotify.com/track/2SPr7EDc5WBw1tM6bNgcZC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TYLA +",
         "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 349166,
       "name": "SHAKE AH (feat. Tony Duardo, Optimist Music ZA & Ez Maestro)",
       "url": "https://open.spotify.com/track/67z96vytrhBnjKUnbELemt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girls Need Love (Girls Mix)",
+        "url": "https://open.spotify.com/album/06oN7xkWw9ZJcbK6tIAI71"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 158350,
+      "name": "Girls Need Love (Girls Mix) (feat. Tyla)",
+      "url": "https://open.spotify.com/track/2SPr7EDc5WBw1tM6bNgcZC"
     },
     {
       "added_at": null,

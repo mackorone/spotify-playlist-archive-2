@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,440 likes - 47 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,433 likes - 47 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 42 | [El Cielo En Brazos De Papá](https://open.spotify.com/track/20vs9G7JnvqkMrzpm8jZQx) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 3:07 |
 | 43 | [Ilarie](https://open.spotify.com/track/1KngeaJmXTycyZbrQLHeVI) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Pop para los peques](https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb) | 3:49 |
 | 44 | [Chiquita Pero Picosa \- Versión Pop](https://open.spotify.com/track/1Y6p6wf7CSisJGw4ijUNTF) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [A Romper La Piñata](https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf) | 3:28 |
-| 45 | [Take A Chance On Me](https://open.spotify.com/track/1ue2fObPbPA8idw4OKawZU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Dancing Queens Un Tributo Para ABBA](https://open.spotify.com/album/05UDkHg10FACnRaSKpsMwL) | 3:29 |
+| 45 | [Mala Fama](https://open.spotify.com/track/2LVWDR1oEthhLIOtT4hHih) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E](https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo) | 3:02 |
 | 46 | [La Fogata](https://open.spotify.com/track/5oFMxXRAwhoqZXAXTOjWwU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Lilibeth Lilibeth](https://open.spotify.com/artist/07UPbQXEAp4kUeJ27mmfI3), [Luis Fernando Madriz](https://open.spotify.com/artist/6xBIGCZWv0dIYUubdTpVNC) | [AmyLla Niña De La Mochila Azul Vol.2](https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW) | 2:00 |
-| 47 | [Mala Fama](https://open.spotify.com/track/2LVWDR1oEthhLIOtT4hHih) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E](https://open.spotify.com/album/4J7EXFsYW1SmRWmYAjwhEo) | 3:02 |
+| 47 | [Take A Chance On Me](https://open.spotify.com/track/1ue2fObPbPA8idw4OKawZU) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Dancing Queens Un Tributo Para ABBA](https://open.spotify.com/album/05UDkHg10FACnRaSKpsMwL) | 3:29 |
 
-Snapshot ID: `atQMAAAAAADqUoHCtr2WqOaJ8rGnpOb/`
+Snapshot ID: `atVdgAAAAAAQJUMxrlyRos51LrRuX0vk`

@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 101 | [Down the Road](https://open.spotify.com/track/23S4rMy1m1KE5AISVFY4cY) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Down the Road](https://open.spotify.com/album/1lFfsAuSrkHRIaLfv3NFT4) | 3:13 |
 | 102 | [Too Good](https://open.spotify.com/track/10O0IDtXxKqWh99trwm83p) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 3:06 |
 | 103 | [Lemonade](https://open.spotify.com/track/4LZAmygVtCeHBw7YYHGd9y) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Lemonade](https://open.spotify.com/album/4neiwFOPRfS89VoQ0BusHw) | 2:44 |
-| 104 | [Come On Christmas](https://open.spotify.com/track/4SKbZvDaY6L9Hlkfuzt75z) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Christmas Vacation](https://open.spotify.com/album/5dxdPpuzoIhqd4GiYsiJ2O) | 2:31 |
-| 105 | [Vividly](https://open.spotify.com/track/7lOQbruzETIUu9g9bFBrqL) | [Kouss](https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Vividly \(feat\. Emily Falvey\)](https://open.spotify.com/album/3i1L1vd84rtbdBwZKnDVqX) | 3:39 |
+| 104 | [Vividly](https://open.spotify.com/track/7lOQbruzETIUu9g9bFBrqL) | [Kouss](https://open.spotify.com/artist/7nepWph1tZT5bw2aL4DEci), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Vividly \(feat\. Emily Falvey\)](https://open.spotify.com/album/3i1L1vd84rtbdBwZKnDVqX) | 3:39 |
+| 105 | [Come On Christmas](https://open.spotify.com/track/4SKbZvDaY6L9Hlkfuzt75z) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Christmas Vacation](https://open.spotify.com/album/5dxdPpuzoIhqd4GiYsiJ2O) | 2:31 |
 | 106 | [LONELY PLACE](https://open.spotify.com/track/4aQ1hgPKHr74xqQUUwAour) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 5: DUMB / LONELY PLACE](https://open.spotify.com/album/63ygNpVZyoKuUoDMdzDDqb) | 1:03 |
 | 107 | [I Love You Now Change \(Acoustic\)](https://open.spotify.com/track/1jTMeE1A6kI1ntG3n8cGTL) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy \(Acoustic\)](https://open.spotify.com/album/2EpLvpfG7SLq36EFWUq7HF) | 3:40 |
 | 108 | [Lucky To Be Loved](https://open.spotify.com/track/2r0Rn5SeMKNDue14m3nRMQ) | [Baylee Lynn](https://open.spotify.com/artist/2Tkaxet46RKhWpDQqYiaij) | [Lucky To Be Loved](https://open.spotify.com/album/5LCfSWBOIGAi6AiWYQheq6) | 3:00 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 138 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 139 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 
-Snapshot ID: `AcfesgAAAAAJvCh+G4t4keQ4bbPIIHgE`
+Snapshot ID: `AcfkZgAAAADDlIHQ3QeN1SGnGFhS04oX`

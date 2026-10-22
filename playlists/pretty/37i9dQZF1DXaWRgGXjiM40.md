@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,544 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,518 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 32 | [Enquanto o Sol Brilhar \- Naiara 15 \- Ao Vivo em São Paulo](https://open.spotify.com/track/1fJpDOEtoymkXkxZv93eg9) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Matogrosso & Mathias](https://open.spotify.com/artist/5he1UTofdFOcdbKqnLixko) | [Enquanto o Sol Brilhar \(Naiara 15 \- Ao Vivo em São Paulo\)](https://open.spotify.com/album/02jmthjJMKaEhxMyxJXBu2) | 4:00 |
 | 33 | [Flor e Água \- Ao Vivo](https://open.spotify.com/track/0GdCNA2ugmaVJxywy2fl5f) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Da Minha Casa Pra Sua \(Ao Vivo\)](https://open.spotify.com/album/1l8SlujuKwMRpzoXwOAo8l) | 3:29 |
 | 34 | [Mural Dos Sonhos](https://open.spotify.com/track/1yEM9OQRmOzlidStpV7bsR) | [Matheus Vargas](https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Mural Dos Sonhos](https://open.spotify.com/album/54Gtm2scFqiZ1OxO5MdMyn) | 2:38 |
-| 35 | [Facas \- Ao Vivo](https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Facas \(Ao Vivo\)](https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q) | 3:16 |
+| 35 | [Princesa \- Ao Vivo](https://open.spotify.com/track/5agC5wI07VVfe5dQfXmud8) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Princesa \(Ao Vivo\)](https://open.spotify.com/album/1oigWQMt92MvWGBMmjcUIH) | 3:28 |
 | 36 | [Escreve Aí \- Ao Vivo](https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx) | 4:03 |
-| 37 | [Princesa \- Ao Vivo](https://open.spotify.com/track/5agC5wI07VVfe5dQfXmud8) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Princesa \(Ao Vivo\)](https://open.spotify.com/album/1oigWQMt92MvWGBMmjcUIH) | 3:28 |
+| 37 | [Facas \- Ao Vivo](https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Facas \(Ao Vivo\)](https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q) | 3:16 |
 | 38 | [Até Ficar Velhin \- Ao Vivo](https://open.spotify.com/track/37CkPWc8sgdSd6LkxSsSrT) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Resenha Piri \(Ao Vivo\)](https://open.spotify.com/album/0gm3AjkQZ8q0Cy7z1rjWNs) | 2:45 |
 | 39 | [Serenata \- Ao Vivo](https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:36 |
 | 40 | [Nosso Quadro](https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [AgroPlay Verão Vol.1](https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i) | 2:53 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 46 | [Mulher Maravilha \- Ao Vivo](https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:37 |
 | 47 | [Deixa Eu Te Amar \- Ao Vivo](https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Eu E Você De Novo \(Ao Vivo\)](https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin) | 3:21 |
 | 48 | [boa memória \- ao vivo](https://open.spotify.com/track/79BHjj4YkvbpOlMvG6wf3n) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 3:34 |
-| 49 | [Vira Homem](https://open.spotify.com/track/0GrEqRHf5FioT1hOB8PBxZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vira Homem](https://open.spotify.com/album/4ZvjMAz7i4pfWLKIbGE45z) | 3:16 |
-| 50 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
+| 49 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
+| 50 | [Vira Homem](https://open.spotify.com/track/0GrEqRHf5FioT1hOB8PBxZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vira Homem](https://open.spotify.com/album/4ZvjMAz7i4pfWLKIbGE45z) | 3:16 |
 
 Snapshot ID: `AAAAAJME7ZI4kxKVcD7cvyUcraluEWH2`

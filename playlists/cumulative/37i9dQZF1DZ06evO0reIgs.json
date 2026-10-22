@@ -3875,6 +3875,32 @@
     },
     {
       "album": {
+        "name": "Tudo Passar\u00e1",
+        "url": "https://open.spotify.com/album/4ACgtyuRCkuwUV49eunX1y"
+      },
+      "artists": [
+        {
+          "name": "Adonai",
+          "url": "https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Tudo Passar\u00e1",
+      "url": "https://open.spotify.com/track/3Sdd3cb8DyjzMSHO9tz9aX"
+    },
+    {
+      "album": {
         "name": "Ciclo Vicioso",
         "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
       },
@@ -3916,7 +3942,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 177800,
       "name": "Vai Partir",
       "url": "https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw"

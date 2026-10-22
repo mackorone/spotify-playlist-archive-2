@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0c0yv6TW1L0VJNwRwqgE5O.md) - [plain]
 
 > Exactly what you think
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 4 songs - 12 min 9 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 4 songs - 12 min 9 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

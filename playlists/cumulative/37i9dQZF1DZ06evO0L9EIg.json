@@ -157,7 +157,7 @@
     },
     {
       "album": {
-        "name": "Clayface Theme (from \"Clayface\")",
+        "name": "Clayface Theme",
         "url": "https://open.spotify.com/album/6Lj7OEb9GcnZ9GeaFa9Wcj"
       },
       "artists": [
@@ -170,7 +170,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 114946,
-      "name": "Clayface Theme - from \"Clayface\"",
+      "name": "Clayface Theme",
       "url": "https://open.spotify.com/track/5rM5qO8taQbwguyBUxLxrs"
     },
     {
@@ -924,7 +924,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 154716,
       "name": "Seeing Things",
       "url": "https://open.spotify.com/track/4Tbmj9ybqrhoDkOEmX7N95"
@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Conclave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70064,
+      "name": "Walk of Doubt",
+      "url": "https://open.spotify.com/track/5IP352PPY5GDptNnR0qceo"
+    },
+    {
+      "album": {
         "name": "Pressure (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
       },
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2026-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 250852,
       "name": "You Should Be Careful",
       "url": "https://open.spotify.com/track/5X57Ocxj4uNoBPu0HrUnHL"

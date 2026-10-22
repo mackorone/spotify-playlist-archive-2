@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > 🗣️doisdeee, doisdeee // Maru2D
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,410 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,414 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 43 | [Modo Baddie](https://open.spotify.com/track/7isp5grJjeQEPcLS9vblVx) | [Emilly Guedes](https://open.spotify.com/artist/08UYtcjRd8osOzRZTwtmmr), [Xizoh](https://open.spotify.com/artist/0NjUbCAKnxMxMYT6adoRdI) | [Modo Baddie](https://open.spotify.com/album/2uCQhK9I8RdKFu8UT31pLb) | 2:03 |
 | 44 | [UHUM](https://open.spotify.com/track/0slzabiVhe9m7kFBbzsKHk) | [OGCapitu](https://open.spotify.com/artist/3DV512qhStQiF9X2caGAhD), [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [GEXIS](https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU) | [UHUM](https://open.spotify.com/album/1kQed3eFH2KBffsDVj56KO) | 2:09 |
 | 45 | [TRAPSTAR](https://open.spotify.com/track/7mm7xz3BqY0vPnrvYGLchv) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Uris](https://open.spotify.com/artist/21E1PaxkHnKuTf58fRkE8Y), [Sussa](https://open.spotify.com/artist/63T4kVGFi1RkWNQ9hnZzP5) | [PERSONA](https://open.spotify.com/album/04jYh1CKoWM1BaqcjlpOYe) | 2:02 |
-| 46 | [Chefona](https://open.spotify.com/track/53FEgvDSOvHHKt8tIgF3U9) | [LETT](https://open.spotify.com/artist/7lk4zeklQt13A8QX1IzxcJ), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Mix Como Eu](https://open.spotify.com/album/54gHk4k81lwAihjMHxOCMB) | 2:32 |
-| 47 | [Daria um Filme](https://open.spotify.com/track/60ebdd8aFtIgcbOM9gpHgA) | [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk), [Vitor Vril](https://open.spotify.com/artist/6zElQx7msv91CIWwIz1YH7), [DJMDBEATS](https://open.spotify.com/artist/50WKQCle6uAWBRfPmcW3Jn) | [Daria um Filme](https://open.spotify.com/album/53oomJcea1w6NxO9yb3Nul) | 2:41 |
+| 46 | [Daria um Filme](https://open.spotify.com/track/60ebdd8aFtIgcbOM9gpHgA) | [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk), [Vitor Vril](https://open.spotify.com/artist/6zElQx7msv91CIWwIz1YH7), [DJMDBEATS](https://open.spotify.com/artist/50WKQCle6uAWBRfPmcW3Jn) | [Daria um Filme](https://open.spotify.com/album/53oomJcea1w6NxO9yb3Nul) | 2:41 |
+| 47 | [Chefona](https://open.spotify.com/track/53FEgvDSOvHHKt8tIgF3U9) | [LETT](https://open.spotify.com/artist/7lk4zeklQt13A8QX1IzxcJ), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Mix Como Eu](https://open.spotify.com/album/54gHk4k81lwAihjMHxOCMB) | 2:32 |
 | 48 | [Giragrana Girabala](https://open.spotify.com/track/0mWnU1xmvl0bChWsOEPiXz) | [Exódia Entertainment](https://open.spotify.com/artist/02rQVYHzAkTYPZv6koV920), [Lis Mc](https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE), [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Khamarinha](https://open.spotify.com/artist/1aWWrG0LM53V1ilVsiFAFI) | [Vai Tomando Mixtape Vol\. 2](https://open.spotify.com/album/5CVFSp03s0SahVsMJHnG22) | 2:19 |
 | 49 | [ACORDARAM AS BB QUENTE](https://open.spotify.com/track/58BLHgL9sBezLZQKLLoXjd) | [Delua Og](https://open.spotify.com/artist/3FUntHc3JwWp9Ktf8R7gjd), [DKmixx](https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX) | [MUNDO DA LUA](https://open.spotify.com/album/7x0IsY34mswleE2H60sIJH) | 2:25 |
 | 50 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |

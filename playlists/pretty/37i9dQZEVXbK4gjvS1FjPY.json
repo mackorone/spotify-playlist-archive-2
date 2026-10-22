@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Singapore.",
-  "num_followers": 135328,
+  "num_followers": 135331,
   "original_name": "Top 50 - Singapore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mmrk2AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mmw0AAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 181270,
-      "name": "Nicole Kidman",
-      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "Housewife",
         "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "NEON",
         "url": "https://open.spotify.com/album/4LcuVwt8mIj0SIoWQqnDkd"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
@@ -93,7 +109,39 @@
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "\u6d77\u5c7f\u4f60",
+        "url": "https://open.spotify.com/album/727oJmOO0Ph9lV82ozvQYA"
+      },
+      "artists": [
+        {
+          "name": "\u9a6c\u4e5f_Crabbit",
+          "url": "https://open.spotify.com/artist/1V6Bl7Ny5loHozQUalAd6M"
+        }
+      ],
+      "duration_ms": 295940,
+      "name": "\u6d77\u5c7f\u4f60",
+      "url": "https://open.spotify.com/track/6UO9nrihAk6sFGvVHDVTz8"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "expectations (feat. Chappell Roan)",
         "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
@@ -113,71 +161,7 @@
       "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "\u6d77\u5c7f\u4f60",
-        "url": "https://open.spotify.com/album/727oJmOO0Ph9lV82ozvQYA"
-      },
-      "artists": [
-        {
-          "name": "\u9a6c\u4e5f_Crabbit",
-          "url": "https://open.spotify.com/artist/1V6Bl7Ny5loHozQUalAd6M"
-        }
-      ],
-      "duration_ms": 295940,
-      "name": "\u6d77\u5c7f\u4f60",
-      "url": "https://open.spotify.com/track/6UO9nrihAk6sFGvVHDVTz8"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "stupid song",
-      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "\u7532\u4e59\u4e19\u4e01Strangers",
         "url": "https://open.spotify.com/album/30zNYNia7OQ2MWqIDNzP0V"
@@ -193,7 +177,23 @@
       "url": "https://open.spotify.com/track/629FqLOdjtsXh5b45FTk43"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "Sweet Boy",
         "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
@@ -209,26 +209,10 @@
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "The Girl Of Your Dreams",
-        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 199460,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+        "url": "https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM"
       },
       "artists": [
         {
@@ -238,10 +222,10 @@
       ],
       "duration_ms": 227333,
       "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
+      "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
@@ -261,55 +245,63 @@
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
-        "name": "FILM NOIR",
-        "url": "https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ"
+        "name": "The Girl Of Your Dreams",
+        "url": "https://open.spotify.com/album/03HD0ohJOvejRoesXWKZFl"
       },
       "artists": [
         {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 219864,
-      "name": "UNETHICAL",
-      "url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
+      "duration_ms": 199460,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+        "name": "FIRESTARTER",
+        "url": "https://open.spotify.com/album/1yz28fnKHjF4Yr06M6oCep"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
-      },
-      "artists": [
+          "name": "K/DA",
+          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+        },
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        },
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        },
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
         }
       ],
-      "duration_ms": 220177,
-      "name": "BANG BANG BANG",
-      "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
+      "duration_ms": 187280,
+      "name": "FIRESTARTER",
+      "url": "https://open.spotify.com/track/6UeSC8jEhf9XmUL8EX2rni"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -333,23 +325,7 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Fantastic Baby",
-      "url": "https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -369,7 +345,23 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "FILM NOIR",
+        "url": "https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 219864,
+      "name": "UNETHICAL",
+      "url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
@@ -385,39 +377,7 @@
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 256359,
-      "name": "Haru Haru",
-      "url": "https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 233098,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -433,87 +393,23 @@
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 224998,
-      "name": "drop dead",
-      "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "MADE SERIES",
-        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 267920,
-      "name": "IF YOU",
-      "url": "https://open.spotify.com/track/6z9QmF22YIe05yvG18awfE"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 219370,
-      "name": "LOSER",
-      "url": "https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "The Life of a Showgirl: The Encore",
-        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 225868,
-      "name": "Patient Zero",
-      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "\u770b\u7740\u6211\u7684\u773c\u775b\u8bf4",
-        "url": "https://open.spotify.com/album/1QNyyhTWQ72AGuv88AJqOj"
-      },
-      "artists": [
-        {
-          "name": "\u5f20\u8fdc",
-          "url": "https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18"
-        }
-      ],
-      "duration_ms": 260794,
-      "name": "\u770b\u7740\u6211\u7684\u773c\u775b\u8bf4",
-      "url": "https://open.spotify.com/track/5cOXSOo4olhVLVSpQBvQaP"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "Jumping Machine (\u8df3\u697c\u673a)",
         "url": "https://open.spotify.com/album/0ZrCpc5hnI1DGwUH3UCCQM"
@@ -529,7 +425,23 @@
       "url": "https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -545,39 +457,23 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
+        "name": "\u770b\u7740\u6211\u7684\u773c\u775b\u8bf4",
+        "url": "https://open.spotify.com/album/1QNyyhTWQ72AGuv88AJqOj"
       },
       "artists": [
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "\u5f20\u8fdc",
+          "url": "https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18"
         }
       ],
-      "duration_ms": 229120,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/54SpjxPioot7g7hVfbrXHh"
+      "duration_ms": 260794,
+      "name": "\u770b\u7740\u6211\u7684\u773c\u775b\u8bf4",
+      "url": "https://open.spotify.com/track/5cOXSOo4olhVLVSpQBvQaP"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 204068,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -593,23 +489,7 @@
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "BiiiG",
-        "url": "https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 164208,
-      "name": "BiiiG",
-      "url": "https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "SaWaDiKa",
         "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
@@ -625,7 +505,71 @@
       "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 220177,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 256359,
+      "name": "Haru Haru",
+      "url": "https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
@@ -641,39 +585,7 @@
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 158494,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
@@ -693,34 +605,10 @@
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
-        "name": "\u00dcbermensch",
-        "url": "https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        },
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
-        }
-      ],
-      "duration_ms": 211330,
-      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
-      "url": "https://open.spotify.com/track/5doooVlMVRZztQbySqARMI"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
       },
       "artists": [
         {
@@ -728,28 +616,60 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 237512,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w"
+      "duration_ms": 230573,
+      "name": "Fantastic Baby",
+      "url": "https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
-        "name": "The Script",
-        "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
         }
       ],
-      "duration_ms": 241373,
-      "name": "The Man Who Can't Be Moved",
-      "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/0kvoCDiWdZ7eHPW7xvdg3z"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "Dizzy up the Girl",
         "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
@@ -765,7 +685,39 @@
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "The Man Who Can't Be Moved",
+      "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 233098,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "Kiss All The Time. Disco, Occasionally.",
         "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
@@ -781,10 +733,10 @@
       "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+        "name": "BiiiG",
+        "url": "https://open.spotify.com/album/0TAVFAYcXBx6wMmUQYCWfq"
       },
       "artists": [
         {
@@ -792,44 +744,12 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 236817,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe"
+      "duration_ms": 164208,
+      "name": "BiiiG",
+      "url": "https://open.spotify.com/track/4pZi0VxU2C8zuxCYfEtFuL"
     },
     {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "COUP D'ETAT",
-        "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 224792,
-      "name": "CROOKED",
-      "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
-      "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 188369,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
-    },
-    {
-      "added_at": "2026-10-20 14:09:32",
+      "added_at": "2026-10-21 17:54:20",
       "album": {
         "name": "Illuminate",
         "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
@@ -843,6 +763,102 @@
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "MADE SERIES",
+        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 267920,
+      "name": "IF YOU",
+      "url": "https://open.spotify.com/track/6z9QmF22YIe05yvG18awfE"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 219370,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "added_at": "2026-10-21 17:54:20",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "honeybee",
+      "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
     }
   ],
   "unique_name": "Top 50 - Singapore",

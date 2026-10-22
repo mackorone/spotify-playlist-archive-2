@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0gOulRKExULOXb2olkSdfa.md) - [plain]
 
 > feel good jams
 
-[Noah](https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w) - 1 like - 30 songs - 1 hr 27 min
+[Noah](https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w) - 2 likes - 30 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

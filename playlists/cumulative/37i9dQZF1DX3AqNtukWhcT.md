@@ -4,7 +4,7 @@
 
 > Soft and soothing beats for all your yoga practices.
 
-307 songs - 14 hr 50 min
+309 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Blue Crystal \(with drums\)](https://open.spotify.com/track/7Hqt7Yq8V07w4vdZA8laRH) | [Nambara Nim](https://open.spotify.com/artist/3At7zeaoPY1lvcdRNioifv) | [Happiness](https://open.spotify.com/album/4yfV7rBQ4zDMOV5cOh9PBd) | 3:22 | 2023-06-21 | 2025-11-26 |
 | [Blue Reef](https://open.spotify.com/track/5yBb7oxuiAdSsNZE0khsWi) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Beneath The Waves](https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17) | 3:06 | 2022-12-22 | 2025-11-26 |
 | [Blue River](https://open.spotify.com/track/6b7xHgmSvw1LpisTjsKftM) | [The Sky](https://open.spotify.com/artist/0vOYkwa573vQ2BHbYGri2m) | [Blue River](https://open.spotify.com/album/29NmAv6BOvTbD0r7HxmSzf) | 2:37 | 2024-01-26 | 2025-11-26 |
+| [Blueprints](https://open.spotify.com/track/4JK8p65Mx23AZ0vBx6Erzy) | [weightless minutes](https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN) | [Blueprints](https://open.spotify.com/album/14u8uGONzD5KxScEvWVumN) | 2:51 | 2026-10-21 |  |
 | [Blume](https://open.spotify.com/track/3grDCNoz10P59lIs1JLbvi) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Blume](https://open.spotify.com/album/1Xw7vn8RhXcRoCBIEMkB0B) | 2:34 | 2025-11-25 | 2026-05-16 |
 | [Blunda](https://open.spotify.com/track/2FSe6GnnmKmeGu1EsnA15L) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [Blunda](https://open.spotify.com/album/2KyA0n5ZLSF56hjHqCh8Ll) | 2:22 | 2025-11-25 |  |
 | [Brittle](https://open.spotify.com/track/3VTgychGZYTT0uO1sdSjwb) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Brittle](https://open.spotify.com/album/7iNZEy0A7iqOhgM4CGayfK) | 1:54 | 2022-09-02 | 2023-06-22 |
@@ -287,6 +288,7 @@
 | [Thunderbrand](https://open.spotify.com/track/33qhC5OfZdelrQgvARr2eB) | [Leafgolden](https://open.spotify.com/artist/0jiudEshVEEN5Uo6gmtrLP) | [Thunderbrand](https://open.spotify.com/album/3kBafXQoV4nipuxyBmYiYe) | 2:18 | 2022-09-02 | 2025-11-26 |
 | [Time Therapy](https://open.spotify.com/track/31YOZL7hOmlmXQpC6lZbxz) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Time Therapy](https://open.spotify.com/album/0PZOWkKi5a775RjPlbKibF) | 2:34 | 2022-09-02 | 2024-09-07 |
 | [Time to Travel](https://open.spotify.com/track/1NqnBiNkkk3tdCErFQLty3) | [Five Senses Meditation Sanctuary](https://open.spotify.com/artist/2yQankcHwEvfEbpyRXqeVz) | [Mystical Spiritual Journey: Shamanic World, Sacral Dance, Native Flute & Drums, Discovery of New Senses, Deep Meditation, Shamanic Chants](https://open.spotify.com/album/25wFtxwlz5Dx0DGl0NFFHP) | 3:34 | 2022-09-02 | 2023-06-22 |
+| [Track 3](https://open.spotify.com/track/5hyQHsKDbHfu8Y8y6HG0Zj) | [so.tired](https://open.spotify.com/artist/4ordIijwezMyR8fJkOaVNy) | [Not Tonight](https://open.spotify.com/album/3tKUThK0cnOBD01aeo5BWD) | 0:00 | 2026-10-21 |  |
 | [Trance Tranquilo](https://open.spotify.com/track/59ilgrA53futwwjj232Y70) | [P\. Kock](https://open.spotify.com/artist/2rgJcYeNUebBUrewWW2rMm) | [Trance Tranquilo](https://open.spotify.com/album/2bSubrjoMdH5byb177KVti) | 2:53 | 2022-09-02 | 2024-11-12 |
 | [Tribal Tibble](https://open.spotify.com/track/6t6QdyCqUFIuIVbYVSK3zU) | [Lek\-Singh](https://open.spotify.com/artist/2xjXGjIknfLJXWsZ11MfvI) | [Tribal Tibble](https://open.spotify.com/album/1eBHxz3Ebe4CC8X7O3ytS3) | 3:58 | 2023-01-20 | 2025-11-26 |
 | [Under the Streetlamp](https://open.spotify.com/track/0iw5dlxyhas6vFG9phZZ5y) | [Dry Season](https://open.spotify.com/artist/2RpCGiBorQiczooQVuu2zo) | [Under the Streetlamp](https://open.spotify.com/album/7Ca78DcXhJEuBtUVYBnNvV) | 2:01 | 2026-01-14 | 2026-06-30 |

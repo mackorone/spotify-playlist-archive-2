@@ -1,6 +1,6 @@
 {
   "description": "Nederpop en Volkspop meezingers.",
-  "num_followers": 174634,
+  "num_followers": 174682,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
+        "name": "De Jonge Jaren van Doe Maar - 50 jaar Nederpop",
+        "url": "https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu"
+      },
+      "artists": [
+        {
+          "name": "Doe Maar",
+          "url": "https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE"
+        }
+      ],
+      "duration_ms": 200891,
+      "name": "Sinds 1 Dag Of 2 (32 Jaar)",
+      "url": "https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
         "name": "Gooi 'm Dicht",
         "url": "https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 152226,
       "name": "Gooi 'm Dicht",
       "url": "https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
-        "name": "De Jonge Jaren van Doe Maar - 50 jaar Nederpop",
-        "url": "https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu"
-      },
-      "artists": [
-        {
-          "name": "Doe Maar",
-          "url": "https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE"
-        }
-      ],
-      "duration_ms": 200891,
-      "name": "Sinds 1 Dag Of 2 (32 Jaar)",
-      "url": "https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1071,26 +1071,18 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
-        "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
+        "name": "De nieuwe van....",
+        "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
       },
       "artists": [
         {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
-        },
-        {
-          "name": "Rolf Sanchez",
-          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
         }
       ],
-      "duration_ms": 171508,
-      "name": "Pa Olvidarte",
-      "url": "https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3"
+      "duration_ms": 308053,
+      "name": "Jannes hitmedley",
+      "url": "https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1111,18 +1103,26 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "De nieuwe van....",
-        "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
+        "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
+        "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
       },
       "artists": [
         {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        },
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
         }
       ],
-      "duration_ms": 308053,
-      "name": "Jannes hitmedley",
-      "url": "https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea"
+      "duration_ms": 171508,
+      "name": "Pa Olvidarte",
+      "url": "https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "Met Of Zonder Jou",
-        "url": "https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 182618,
-      "name": "Met Of Zonder Jou",
-      "url": "https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Zin In Jou",
         "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 238167,
       "name": "Zin In Jou",
       "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "Met Of Zonder Jou",
+        "url": "https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 182618,
+      "name": "Met Of Zonder Jou",
+      "url": "https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1"
     },
     {
       "added_at": "2026-09-24 22:08:52",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2026-09-24 22:08:52",
       "album": {
-        "name": "De Laatste",
-        "url": "https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao"
-      },
-      "artists": [
-        {
-          "name": "Ammar",
-          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
-        },
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        }
-      ],
-      "duration_ms": 171285,
-      "name": "De Laatste",
-      "url": "https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0"
-    },
-    {
-      "added_at": "2026-09-24 22:08:52",
-      "album": {
         "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
         "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
+    },
+    {
+      "added_at": "2026-09-24 22:08:52",
+      "album": {
+        "name": "De Laatste",
+        "url": "https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "duration_ms": 171285,
+      "name": "De Laatste",
+      "url": "https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0"
     }
   ],
   "unique_name": "Hollandse Meezingers",

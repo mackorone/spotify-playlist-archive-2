@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-310 songs - 19 hr 17 min
+311 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Options](https://open.spotify.com/track/2G7r3ueCCNEBkAgqOR9Jwq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 4:32 | 2023-06-29 |  |
 | [Options](https://open.spotify.com/track/6GZvUqV4zYAtHnM4In4wHv) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/11sziv4CtA3MrrMv5Q1TTA) | 4:32 | 2026-09-23 | 2026-10-09 |
 | [Over Here \(feat\. Drake\)](https://open.spotify.com/track/43xzI2dp9CTUsmZXjm1voH) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR](https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e) | 2:57 | 2023-06-29 |  |
+| [Party At Game's](https://open.spotify.com/track/74kjgPMWx3Yv8meE9PXrQK) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [The Documentary III](https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo) | 4:45 | 2026-10-21 |  |
 | [PEACE OF MIND](https://open.spotify.com/track/3FA8JpHhWwDXkroqRFLLFe) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 5:03 | 2023-06-29 |  |
 | [PEACE OF MIND](https://open.spotify.com/track/60PMPa7LDjktH7proDoGRX) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/67nioH65ESfHdXoOg5XQ3o) | 5:03 | 2026-09-23 | 2026-10-09 |
 | [PERSIAN RUGS](https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:54 | 2023-06-29 |  |

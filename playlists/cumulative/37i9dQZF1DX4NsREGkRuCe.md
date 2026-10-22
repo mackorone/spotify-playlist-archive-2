@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,293 songs - 2 day 14 hr 56 min
+1,294 songs - 2 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Butta My Bread \- Remix](https://open.spotify.com/track/0iIdlQ3Ba3xvJKsQCVnD9c) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Butta My Bread \(Remix\)](https://open.spotify.com/album/4qjPuetqk9jcCRbfPwjjQW) | 4:02 | 2024-05-10 | 2024-05-17 |
 | [By Force](https://open.spotify.com/track/0aqQoLJamfWCXR3kJx9HhA) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [ANATII](https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55) | [Chop Life, Vol\. 1: Mzansi Chronicles](https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0) | 3:27 | 2023-05-26 | 2023-06-10 |
 | [by now](https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:44 | 2024-04-03 | 2025-02-25 |
+| [CA$H OUT](https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [NOMADINHO: 4TH PRIME](https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3) | 2:36 | 2026-10-16 |  |
 | [Calculate \- II](https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Calculate \(II\)](https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK) | 3:00 | 2025-08-22 | 2026-10-09 |
 | [Call Jehova](https://open.spotify.com/track/1CANP9um3E8PolYHhvzttV) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Call Jehova](https://open.spotify.com/album/0bDZOcGeHoA2GM0qll0beL) | 2:39 | 2023-01-27 | 2023-02-04 |
 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-06-08 | 2023-01-20 |
@@ -1064,7 +1065,7 @@
 | [She's Not Anyone](https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Lap 5](https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl) | 3:17 | 2022-09-23 | 2022-10-31 |
 | [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 | 2026-08-07 | 2026-08-14 |
 | [Shoday Kilode](https://open.spotify.com/track/2yXFYJfxL0TwzvN34OO9Hp) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Shoday Kilode](https://open.spotify.com/album/3aeIvHjzG9IxWaqRZVGWXF) | 2:11 | 2025-08-15 | 2026-04-14 |
-| [SHON PE \(Count Your Money\)](https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [SHON PE \(Count Your Money\)](https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk) | 2:38 | 2026-07-24 |  |
+| [SHON PE \(Count Your Money\)](https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [SHON PE \(Count Your Money\)](https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk) | 2:38 | 2026-07-24 | 2026-10-22 |
 | [Shona Phantsi / On Da Floor](https://open.spotify.com/track/0F4NG5PvVdTMB5YV4j0fQa) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Ney The Bae](https://open.spotify.com/artist/2ejPIS2ocEAjCNhqkEtblo), [Smilo](https://open.spotify.com/artist/23l0XAl8H66TddrdGFVYQL) | [Shona Phantsi / On Da Floor](https://open.spotify.com/album/2cM4DYlvErJdKVeQcEPKlG) | 5:57 | 2025-12-05 | 2026-01-15 |
 | [Show Me Something](https://open.spotify.com/track/0bexhCKTPDlufk97tVvo3v) | [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w), [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Kaey](https://open.spotify.com/artist/5QxTvd1ydIesFmXZ7bv9ou), [Vader the Wildcard](https://open.spotify.com/artist/2hqg3nrEdtdSTiMMllWO2w) | [Show Me Something](https://open.spotify.com/album/2lhMtPZJOQRmwdCgONmZqb) | 2:58 | 2023-01-27 | 2023-02-11 |
 | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/track/5xHodqknQtgokj6oO1giHb) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SHOWING OFF HER BODY \(with Davido\)](https://open.spotify.com/album/5CgztNME0IW2ebmYmjWqUN) | 3:32 | 2022-06-23 | 2022-10-21 |

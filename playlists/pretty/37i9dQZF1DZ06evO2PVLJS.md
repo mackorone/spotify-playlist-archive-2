@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 
 > This is Vicente Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,514 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,536 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 | 43 | [Miraron Llorar a un Hombre](https://open.spotify.com/track/2FkpqyehpuEhvkEMsOEg69) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Pesar De Todo](https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso) | 3:23 |
 | 44 | [A Mi Manera \- Tema Remasterizado](https://open.spotify.com/track/0lYBx37mRl0dbP7gF1yzh5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [15 Grandes Con El Número Uno](https://open.spotify.com/album/0p7h7INHr6e4NwvYXl3aDD) | 3:36 |
 | 45 | [Con un Mismo Corazón \(with Vicente Fernández\)](https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:40 |
-| 46 | [No Me Hagas Menos](https://open.spotify.com/track/4j30vBmlV8u1dRY7SjDSn8) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 2:56 |
-| 47 | [El Moro de Cumpas](https://open.spotify.com/track/7y9mmxLvi8HnZVMdVgs1CS) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mi Amigo El Tordillo](https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES) | 3:33 |
+| 46 | [El Moro de Cumpas](https://open.spotify.com/track/7y9mmxLvi8HnZVMdVgs1CS) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mi Amigo El Tordillo](https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES) | 3:33 |
+| 47 | [No Me Hagas Menos](https://open.spotify.com/track/4j30vBmlV8u1dRY7SjDSn8) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 2:56 |
 | 48 | [Yo Quiero Saber de Ti](https://open.spotify.com/track/2BF35PjVtpRDyFYldHnxMt) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Número Uno](https://open.spotify.com/album/36KRW7yc5rVeDpEzcBt8KN) | 3:11 |
 | 49 | [Aunque Mal Paguen Ellas \(with Roberto Carlos\)](https://open.spotify.com/track/16tSlxrIF7hDvU1VXkpL6U) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Por Tu Maldito Amor](https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7) | 3:26 |
-| 50 | [La Ley de la Vida](https://open.spotify.com/track/4mg9oUjQMGJryksOuzvnCr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 2:55 |
+| 50 | [Mi Amigo el Tordillo](https://open.spotify.com/track/6WtPeZXQnoLbLOz7e0dfZL) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mi Amigo El Tordillo](https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES) | 3:30 |
 
-Snapshot ID: `atQMAAAAAACpKMqmhVlu6Nwl9Dsz2CXb`
+Snapshot ID: `atVdgAAAAACwQtGkaiZ210bqsxl5kHJT`

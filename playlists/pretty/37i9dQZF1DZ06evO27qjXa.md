@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 
 > This is Danny Go!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,792 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,865 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 35 | [The Monkey Dance](https://open.spotify.com/track/2CqFULRDTD6TGRTgEpEOxI) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Monkey Dance](https://open.spotify.com/album/5IHb5jK2ej5WRvL88hfVs9) | 2:22 |
 | 36 | [The Space Race Planet Dance](https://open.spotify.com/track/5jvTizDVo08steVEiqXMbh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Space Race Planet Dance](https://open.spotify.com/album/6d8g23NRnlaL3DJylM8x8w) | 4:00 |
 | 37 | [The Glow\-in\-the\-Dark Shapes Dance](https://open.spotify.com/track/6SMj8salgyrCk84RCkMQyl) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Glow\-in\-the\-Dark Shapes Dance](https://open.spotify.com/album/1Ifg60CyJSEut0Aba6KEgI) | 3:33 |
-| 38 | [Ka\-Pow! 2: Attack of the Gravity Goldfish!](https://open.spotify.com/track/4Q2K0ZwwkafTcW1vwWSLOg) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Ka\-Pow! 2: Attack of the Gravity Goldfish!](https://open.spotify.com/album/06DxKoTL6ZTc8igBpiMV4t) | 7:34 |
-| 39 | [Swab The Deck \- Pirate Clean Up Song](https://open.spotify.com/track/3AThGve7ZzIiQ8NwLAIAIS) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Swab The Deck \(Pirate Clean Up Song\)](https://open.spotify.com/album/2oOgvfSIY81CFlsPWPF1cy) | 3:40 |
+| 38 | [Swab The Deck \- Pirate Clean Up Song](https://open.spotify.com/track/3AThGve7ZzIiQ8NwLAIAIS) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Swab The Deck \(Pirate Clean Up Song\)](https://open.spotify.com/album/2oOgvfSIY81CFlsPWPF1cy) | 3:40 |
+| 39 | [Ka\-Pow! 2: Attack of the Gravity Goldfish!](https://open.spotify.com/track/4Q2K0ZwwkafTcW1vwWSLOg) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Ka\-Pow! 2: Attack of the Gravity Goldfish!](https://open.spotify.com/album/06DxKoTL6ZTc8igBpiMV4t) | 7:34 |
 | 40 | [The Color Dance](https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Color Dance](https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70) | 3:44 |
 | 41 | [The Floor is Quicksand \- Pyramid Adventure](https://open.spotify.com/track/21PquaRGrYlY7MI2b9YNdr) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Floor is Quicksand \(Pyramid Adventure\)](https://open.spotify.com/album/4I8uTjGJhiMRPgyEMGGu1n) | 3:57 |
 | 42 | [The Ice King Freeze Dance](https://open.spotify.com/track/1a14fAbcmd3vwjUOHDgAXh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Ice King Freeze Dance](https://open.spotify.com/album/6savsF7SNiPRKpzCCUqpG0) | 3:23 |
-| 43 | [Don't Stop Digging](https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Don't Stop Digging](https://open.spotify.com/album/7eKVI4vDBcufHLJer1yyxy) | 4:05 |
-| 44 | [Digging In The Dirt \- Construction Vehicles Dance](https://open.spotify.com/track/01hdETjucKH5ZrB4vkUqwV) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Digging In The Dirt \(Construction Vehicles Dance\)](https://open.spotify.com/album/37KlVr59FQRgCLnI1LSIUq) | 3:36 |
+| 43 | [Digging In The Dirt \- Construction Vehicles Dance](https://open.spotify.com/track/01hdETjucKH5ZrB4vkUqwV) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Digging In The Dirt \(Construction Vehicles Dance\)](https://open.spotify.com/album/37KlVr59FQRgCLnI1LSIUq) | 3:36 |
+| 44 | [Don't Stop Digging](https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Don't Stop Digging](https://open.spotify.com/album/7eKVI4vDBcufHLJer1yyxy) | 4:05 |
 | 45 | [I Got That Rhythm!](https://open.spotify.com/track/4RNI2T3VjXFgu4PtrSdK8T) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Burning Energy!](https://open.spotify.com/album/59K3YaAwxti0OT65SChvno) | 4:02 |
-| 46 | [Rabbit Turtle Rodeo](https://open.spotify.com/track/4q0MbjZR7Aagh3IEEzCsxN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Rabbit Turtle Rodeo](https://open.spotify.com/album/3wHiRt7X5R2o2JnHXf1xAV) | 3:58 |
-| 47 | [The Skeleton Shake](https://open.spotify.com/track/0c6Ljz58jgF8X4FPAN544F) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Skeleton Shake](https://open.spotify.com/album/2qli6dz1uCBAj1IeU3KMu5) | 3:37 |
+| 46 | [The Skeleton Shake](https://open.spotify.com/track/0c6Ljz58jgF8X4FPAN544F) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Skeleton Shake](https://open.spotify.com/album/2qli6dz1uCBAj1IeU3KMu5) | 3:37 |
+| 47 | [Rabbit Turtle Rodeo](https://open.spotify.com/track/4q0MbjZR7Aagh3IEEzCsxN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Rabbit Turtle Rodeo](https://open.spotify.com/album/3wHiRt7X5R2o2JnHXf1xAV) | 3:58 |
 | 48 | [Rainbow Disco Unicorn](https://open.spotify.com/track/5J8qbgtxKEgM8FXhLeatNm) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Rainbow Disco Unicorn](https://open.spotify.com/album/66a5wLzW596cfmq65VzSYG) | 2:58 |
-| 49 | [Grocery Store DASH! \- Swipe and Scan](https://open.spotify.com/track/2ld6GcwMToKi6NpSA4urQF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Grocery Store DASH!](https://open.spotify.com/album/51yipUUQPWXDyvvxkn2tkP) | 4:46 |
-| 50 | [Little Cat](https://open.spotify.com/track/0DAtPFHyXrKNhqnHqbh5hN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Little Cat](https://open.spotify.com/album/7khTtFbmq7o0y1hrydp7VB) | 3:14 |
+| 49 | [Little Cat](https://open.spotify.com/track/0DAtPFHyXrKNhqnHqbh5hN) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Little Cat](https://open.spotify.com/album/7khTtFbmq7o0y1hrydp7VB) | 3:14 |
+| 50 | [Grocery Store DASH! \- Swipe and Scan](https://open.spotify.com/track/2ld6GcwMToKi6NpSA4urQF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Grocery Store DASH!](https://open.spotify.com/album/51yipUUQPWXDyvvxkn2tkP) | 4:46 |
 
-Snapshot ID: `atQMAAAAAADkwHFrxVjf/FohAlEXKpsG`
+Snapshot ID: `atVdgAAAAABCBbvF46qfigN0iLGwl+KN`

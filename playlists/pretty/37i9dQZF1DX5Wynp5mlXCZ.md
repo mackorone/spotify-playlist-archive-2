@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: SadSvit & FIЇNKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,476 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,470 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 66 | [Beauty In Us](https://open.spotify.com/track/71Blq9QnHZaCsKl2Cugrjf) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Beauty In Us](https://open.spotify.com/album/5p39MNTTjZm34glv6Bk7E7) | 2:52 |
 | 67 | [Walk of Fame \(feat\. Brittany Howard\) \- Edit](https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Walk of Fame \(feat\. Brittany Howard\) \[Edit\]](https://open.spotify.com/album/1vnLbFcRPUR6q9vkFuJY26) | 3:37 |
 | 68 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
-| 69 | [747](https://open.spotify.com/track/0fOk5gmlKmhKEmSWpI6Cc0) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [747](https://open.spotify.com/album/3J3ITSVDv3uw2gdOB2EtRR) | 2:53 |
-| 70 | [якщо це не по\-справжньому](https://open.spotify.com/track/5eCPcBBWHxkTJPJ92K2SoB) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [живу\-відстукує](https://open.spotify.com/album/2kh3w0NEksJO1JDzXWhCZJ) | 3:11 |
+| 69 | [якщо це не по\-справжньому](https://open.spotify.com/track/5eCPcBBWHxkTJPJ92K2SoB) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [живу\-відстукує](https://open.spotify.com/album/2kh3w0NEksJO1JDzXWhCZJ) | 3:11 |
+| 70 | [747](https://open.spotify.com/track/0fOk5gmlKmhKEmSWpI6Cc0) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [747](https://open.spotify.com/album/3J3ITSVDv3uw2gdOB2EtRR) | 2:53 |
 
 Snapshot ID: `AAAAAIrueT2m4RGAr04vkM+n4XHDZW0R`

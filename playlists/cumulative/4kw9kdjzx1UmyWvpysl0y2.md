@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,323 songs - 3 day 1 hr 15 min
+1,324 songs - 3 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Choir of the Banshees](https://open.spotify.com/track/72ijk2ClDkcZ5FgD4IM1n8) | [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Sorcerer’s Symphony](https://open.spotify.com/album/1ajS5QuEOLZXMVG7TG9twW) | 4:11 | 2024-02-07 | 2024-05-01 |
 | [Chroma](https://open.spotify.com/track/0Yf9BcL40KJplKTDwmpIPw) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Chroma](https://open.spotify.com/album/36V5r5FbxC2I0U1rCZn2Li) | 4:10 | 2023-11-27 | 2024-03-09 |
 | [Chromatically](https://open.spotify.com/track/6tr6rSUNVlBtTZUf0fFzKl) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Chromatically](https://open.spotify.com/album/238tOstpXzMOcfrLzWQtfY) | 3:18 | 2024-01-25 | 2024-04-16 |
+| [CHROME//REFLECT](https://open.spotify.com/track/0e9sx5NaCRz6FMEsOCPrIy) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [CHROME//REFLECT](https://open.spotify.com/album/0tdA3VrgYUk5mdWEvzA2Kh) | 2:52 | 2026-10-21 |  |
 | [CINEMA](https://open.spotify.com/track/1KUlGcqkfUjnoTL20bhtPr) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [CINEMA](https://open.spotify.com/album/4fqBn6j0jf2eLaBhZwA1dp) | 3:08 | 2022-03-14 | 2022-05-26 |
 | [CINEMA \- Fame & Fortune VIP](https://open.spotify.com/track/2MTgMyZGPnxdA4YOg3oE7w) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [CINEMA \(incl\. Fame & Fortune VIP\)](https://open.spotify.com/album/1H0JMgsdaYfxkn5n4rDkIf) | 2:14 | 2022-08-22 | 2022-11-01 |
 | [Cirrus](https://open.spotify.com/track/5ckFfWq62GHZVuhQiilShT) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA) | [Nimbus](https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx) | 3:24 | 2022-11-14 | 2022-11-16 |

@@ -4,7 +4,7 @@
 
 > 
 
-608 songs - 1 day 15 hr 16 min
+609 songs - 1 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Birth4000](https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Birth4000](https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx) | 4:46 | 2023-10-17 | 2024-06-01 |
 | [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 | 2024-03-22 | 2024-06-12 |
 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 | 2023-07-25 | 2024-04-10 |
+| [Bliss](https://open.spotify.com/track/2JsZeQX8GqPm2NLN2ODY1e) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Bliss](https://open.spotify.com/album/7igmoEKKdDe992KTjeFvZv) | 3:19 | 2026-10-21 |  |
 | [Bloom](https://open.spotify.com/track/4BzaG97pk6iZ5Wev2tKKgD) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Bloom](https://open.spotify.com/album/5ZNkTEY37Og8IqVZGYZCjD) | 3:37 | 2024-10-23 | 2025-11-07 |
 | [blu](https://open.spotify.com/track/5gNEUS6Ca9zxn5yYDiyTgK) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blu](https://open.spotify.com/album/757Mnb96yy0jT7po5qnvuU) | 2:16 | 2024-05-17 | 2024-07-31 |
 | [Blue Lights](https://open.spotify.com/track/1HaFNaN0DEaKCOrQ7AIpxx) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Blue Lights](https://open.spotify.com/album/1ZsDpgACrpIQ2w4qctiPF7) | 3:41 | 2023-03-31 | 2023-07-07 |

@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever. Classics to brand new tracks across heavy, power, doom, thrash, and sludge. Cover: Trivium",
-  "num_followers": 1418192,
+  "num_followers": 1418339,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "Images and Words",
+        "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 493933,
+      "name": "Pull Me Under",
+      "url": "https://open.spotify.com/track/5CPXR6lDTvngxtmMZxnWmC"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "Playing God (feat. Corey Taylor)",
         "url": "https://open.spotify.com/album/05WTokpw4rVSLReVc0OoEG"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 219536,
       "name": "Playing God (feat. Corey Taylor)",
       "url": "https://open.spotify.com/track/6EbyODHz4Pn3rkQXiMg1TQ"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
-        "name": "Images and Words",
-        "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 493933,
-      "name": "Pull Me Under",
-      "url": "https://open.spotify.com/track/5CPXR6lDTvngxtmMZxnWmC"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 187460,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "Foregone",
         "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 268744,
       "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
       "url": "https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 187460,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Tsunami Sea",
-        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "No Loss, No Love",
-      "url": "https://open.spotify.com/track/2wwxE7Ww8UfcDtXCiLlnsB"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "Welcome To The Circus",
         "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
       },
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "Tsunami Sea",
+        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "No Loss, No Love",
+      "url": "https://open.spotify.com/track/2wwxE7Ww8UfcDtXCiLlnsB"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Pure Ecstasy",
-        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 185425,
-      "name": "Pure Ecstasy",
-      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "Russian Grizzly In America",
         "url": "https://open.spotify.com/album/14lk6034z1NFepKWDzAzmj"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 254376,
       "name": "Russian Grizzly In America",
       "url": "https://open.spotify.com/track/7y8B5xo2qC9rrRyovjpccI"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 185425,
+      "name": "Pure Ecstasy",
+      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "On a Quest for Aberdeen",
-        "url": "https://open.spotify.com/album/2NRdEeTAqfiFWX49WM1VgA"
-      },
-      "artists": [
-        {
-          "name": "Gloryhammer",
-          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "On a Quest for Aberdeen",
-      "url": "https://open.spotify.com/track/6spmQ1gUjeu10pUUxnLyZW"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "The Catalyst",
-        "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
+        "name": "On a Quest for Aberdeen",
+        "url": "https://open.spotify.com/album/2NRdEeTAqfiFWX49WM1VgA"
       },
       "artists": [
         {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+          "name": "Gloryhammer",
+          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
         }
       ],
-      "duration_ms": 220893,
-      "name": "The Catalyst",
-      "url": "https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ"
+      "duration_ms": 233906,
+      "name": "On a Quest for Aberdeen",
+      "url": "https://open.spotify.com/track/6spmQ1gUjeu10pUUxnLyZW"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "The Catalyst",
+        "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "The Catalyst",
+      "url": "https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "Tipping Point",
         "url": "https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa"
       },
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Giants & Monsters",
-        "url": "https://open.spotify.com/album/5oFAGk4EQNN5uEah2C5HWI"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "A Little Is A Little Too Much",
-      "url": "https://open.spotify.com/track/4uFUalyidCKsnJbFCzRmhs"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 330453,
       "name": "Screaming Suicide",
       "url": "https://open.spotify.com/track/2zSb2Db4kNYH5qIs5V3BgG"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Giants & Monsters",
+        "url": "https://open.spotify.com/album/5oFAGk4EQNN5uEah2C5HWI"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "A Little Is A Little Too Much",
+      "url": "https://open.spotify.com/track/4uFUalyidCKsnJbFCzRmhs"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Fear Based Life",
-        "url": "https://open.spotify.com/album/086eMd4hJaJxTRj33KmRFN"
-      },
-      "artists": [
-        {
-          "name": "Nails",
-          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
-        }
-      ],
-      "duration_ms": 154653,
-      "name": "Fear Based Life",
-      "url": "https://open.spotify.com/track/2vlyJGYuyjE839pSMiGnvb"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "The Great Satan",
         "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 235906,
       "name": "F.T.W. 84",
       "url": "https://open.spotify.com/track/4DJDtYrUMZl1WteQCSKEBX"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Fear Based Life",
+        "url": "https://open.spotify.com/album/086eMd4hJaJxTRj33KmRFN"
+      },
+      "artists": [
+        {
+          "name": "Nails",
+          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
+        }
+      ],
+      "duration_ms": 154653,
+      "name": "Fear Based Life",
+      "url": "https://open.spotify.com/track/2vlyJGYuyjE839pSMiGnvb"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "NAIL5",
-        "url": "https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 153622,
-      "name": "NAIL5",
-      "url": "https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/3YCi2v3qZOVD8Ni6JlnPVu"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 247499,
       "name": "Pray",
       "url": "https://open.spotify.com/track/51vgMochoqsIX5SZEhhXDi"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "NAIL5",
+        "url": "https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 153622,
+      "name": "NAIL5",
+      "url": "https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Sinners of the Seven Seas",
-        "url": "https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 180930,
-      "name": "Sinners of the Seven Seas",
-      "url": "https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "A Visceral Retch",
         "url": "https://open.spotify.com/album/51kqr7eiWXoV5tzSYcYn4N"
       },
@@ -2063,18 +2047,18 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Liars Linger",
-        "url": "https://open.spotify.com/album/35Z5dVCttlGoPxxBNEGY6B"
+        "name": "Sinners of the Seven Seas",
+        "url": "https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP"
       },
       "artists": [
         {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
         }
       ],
-      "duration_ms": 367063,
-      "name": "Liars Linger",
-      "url": "https://open.spotify.com/track/7rddgyIBTlyKbq5vsQEd7v"
+      "duration_ms": 180930,
+      "name": "Sinners of the Seven Seas",
+      "url": "https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2107,6 +2091,22 @@
       "duration_ms": 229373,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Liars Linger",
+        "url": "https://open.spotify.com/album/35Z5dVCttlGoPxxBNEGY6B"
+      },
+      "artists": [
+        {
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+        }
+      ],
+      "duration_ms": 367063,
+      "name": "Liars Linger",
+      "url": "https://open.spotify.com/track/7rddgyIBTlyKbq5vsQEd7v"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/7pQc3n8UzHNnV10P9qaLEH"
       },
@@ -2419,22 +2435,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "A.F. Day",
         "url": "https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO"
       },
@@ -2447,22 +2447,6 @@
       "duration_ms": 227335,
       "name": "A.F. Day",
       "url": "https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
-        "name": "Domination",
-        "url": "https://open.spotify.com/album/5RvTRqpErJpEhO2Rt9hYml"
-      },
-      "artists": [
-        {
-          "name": "Primal Fear",
-          "url": "https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g"
-        }
-      ],
-      "duration_ms": 342946,
-      "name": "I Am The Primal Fear",
-      "url": "https://open.spotify.com/track/6hviGL6jKTypFG5AuqREAG"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2487,6 +2471,22 @@
       "duration_ms": 239266,
       "name": "Cradle To The Grave",
       "url": "https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Domination",
+        "url": "https://open.spotify.com/album/5RvTRqpErJpEhO2Rt9hYml"
+      },
+      "artists": [
+        {
+          "name": "Primal Fear",
+          "url": "https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g"
+        }
+      ],
+      "duration_ms": 342946,
+      "name": "I Am The Primal Fear",
+      "url": "https://open.spotify.com/track/6hviGL6jKTypFG5AuqREAG"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2691,18 +2691,18 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "In Waves",
-        "url": "https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic"
+        "name": "Spirit Of No Return",
+        "url": "https://open.spotify.com/album/4io0QUe3HCaYXFH2j1cBFn"
       },
       "artists": [
         {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+          "name": "Soilwork",
+          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
         }
       ],
-      "duration_ms": 302466,
-      "name": "In Waves",
-      "url": "https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs"
+      "duration_ms": 294026,
+      "name": "Spirit Of No Return",
+      "url": "https://open.spotify.com/track/1hihjb5dQTw4otuRxQy5cj"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2723,6 +2723,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "In Waves",
+        "url": "https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 302466,
+      "name": "In Waves",
+      "url": "https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "Rituals of Shame",
         "url": "https://open.spotify.com/album/3Rv6nS9XWAIvD6bIJMcTlH"
       },
@@ -2735,22 +2751,6 @@
       "duration_ms": 567405,
       "name": "Stations",
       "url": "https://open.spotify.com/track/3N2vldxlBL18A0scM94uxT"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
-        "name": "Spirit Of No Return",
-        "url": "https://open.spotify.com/album/4io0QUe3HCaYXFH2j1cBFn"
-      },
-      "artists": [
-        {
-          "name": "Soilwork",
-          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
-        }
-      ],
-      "duration_ms": 294026,
-      "name": "Spirit Of No Return",
-      "url": "https://open.spotify.com/track/1hihjb5dQTw4otuRxQy5cj"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Sidewinder",
-        "url": "https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o"
-      },
-      "artists": [
-        {
-          "name": "Volumes",
-          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
-        }
-      ],
-      "duration_ms": 239682,
-      "name": "Sidewinder",
-      "url": "https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "Gawdzillionaire",
         "url": "https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK"
       },
@@ -3059,18 +3043,18 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Good God / Baad Man",
-        "url": "https://open.spotify.com/album/5aEtaDnQwYruxTavJAaChJ"
+        "name": "Sidewinder",
+        "url": "https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o"
       },
       "artists": [
         {
-          "name": "Corrosion Of Conformity\t",
-          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
         }
       ],
-      "duration_ms": 240363,
-      "name": "Gimme Some Moore",
-      "url": "https://open.spotify.com/track/2tI78SEx3HpdqSdEG8G00L"
+      "duration_ms": 239682,
+      "name": "Sidewinder",
+      "url": "https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -3103,6 +3087,22 @@
       "duration_ms": 478186,
       "name": "Midnight Messiah",
       "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Good God / Baad Man",
+        "url": "https://open.spotify.com/album/5aEtaDnQwYruxTavJAaChJ"
+      },
+      "artists": [
+        {
+          "name": "Corrosion Of Conformity\t",
+          "url": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
+        }
+      ],
+      "duration_ms": 240363,
+      "name": "Gimme Some Moore",
+      "url": "https://open.spotify.com/track/2tI78SEx3HpdqSdEG8G00L"
     },
     {
       "added_at": "2026-09-18 04:01:06",

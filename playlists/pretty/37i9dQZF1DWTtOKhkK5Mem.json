@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 828870,
+  "num_followers": 828918,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Always On My Mind",
-        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 213359,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1wklsLLbGIZg1RDpoJovrb"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 228840,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 213359,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Stop All the World Now (Special Edition)",
-        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Collide - Acoustic Version",
-      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Michael Learns To Rock (1991)",
         "url": "https://open.spotify.com/album/4GxVVO2T9r3pf0WzseGyYR"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 273600,
       "name": "The Actor",
       "url": "https://open.spotify.com/track/7prFpeH9fXA7cL6ZZWLePs"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Stop All the World Now (Special Edition)",
+        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Collide - Acoustic Version",
+      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Endless Journey \u2013 The Essential Leo Sayer",
-        "url": "https://open.spotify.com/album/2qcpKdOFBiNMV7DNnTCW6x"
-      },
-      "artists": [
-        {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "When I Need You",
-      "url": "https://open.spotify.com/track/2EmS1b64xEjUdvDcLE1AuX"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 247842,
       "name": "Always",
       "url": "https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Endless Journey \u2013 The Essential Leo Sayer",
+        "url": "https://open.spotify.com/album/2qcpKdOFBiNMV7DNnTCW6x"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "When I Need You",
+      "url": "https://open.spotify.com/track/2EmS1b64xEjUdvDcLE1AuX"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/3Pc9topjxyaOZodNqU27Mp"
-      },
-      "artists": [
-        {
-          "name": "JOP",
-          "url": "https://open.spotify.com/artist/3KKxb3BykQhR9HVdXsSlkO"
-        }
-      ],
-      "duration_ms": 171020,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/1nyQWVjQ46agLbVmJJbWR7"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/0vQOkW8jvRYdf0wzonmLMK"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 193111,
       "name": "The Book of Love - EP Version",
       "url": "https://open.spotify.com/track/4HcSK64Cy7JJ5gv1Txzhzo"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/3Pc9topjxyaOZodNqU27Mp"
+      },
+      "artists": [
+        {
+          "name": "JOP",
+          "url": "https://open.spotify.com/artist/3KKxb3BykQhR9HVdXsSlkO"
+        }
+      ],
+      "duration_ms": 171020,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/1nyQWVjQ46agLbVmJJbWR7"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/5t7BjMUC2HXa5cWDOWmnVg"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 252160,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1j3H54xdahpAkNI0q6S89q"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Deep Cuts: The Best Of The Ballads",
         "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 208066,
       "name": "To Be With You",
       "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/5t7BjMUC2HXa5cWDOWmnVg"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1j3H54xdahpAkNI0q6S89q"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "...Hits",
-        "url": "https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Against All Odds (Take A Look At Me Now)",
-      "url": "https://open.spotify.com/track/2hMF7H2dO3oMz1WwIQnQw1"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Too Good At Goodbyes",
         "url": "https://open.spotify.com/album/7oiRNdTfUWmsx6DAjEe7DB"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes - Edit",
       "url": "https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "...Hits",
+        "url": "https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Against All Odds (Take A Look At Me Now)",
+      "url": "https://open.spotify.com/track/2hMF7H2dO3oMz1WwIQnQw1"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Original Soundtrack",
-        "url": "https://open.spotify.com/album/7pHLyF1GWxk65WE6Rkrod3"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 366640,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Sweet Baby James",
         "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 200579,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Original Soundtrack",
+        "url": "https://open.spotify.com/album/7pHLyF1GWxk65WE6Rkrod3"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 366640,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2319,18 +2319,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F"
+        "name": "Love Someone",
+        "url": "https://open.spotify.com/album/1y36YwGaSrqhDsxilR95iH"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
         }
       ],
-      "duration_ms": 241066,
-      "name": "Say You, Say Me",
-      "url": "https://open.spotify.com/track/0I9M3okWVRJXWT6G7cbIdx"
+      "duration_ms": 205463,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/6r3baE6njwU4aoJq6zPukG"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2351,34 +2351,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Love Someone",
-        "url": "https://open.spotify.com/album/1y36YwGaSrqhDsxilR95iH"
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F"
       },
       "artists": [
         {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 205463,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/6r3baE6njwU4aoJq6zPukG"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Tuesdays",
-        "url": "https://open.spotify.com/album/3DIMaIqQvaGXaYJMFT9LbD"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 216989,
-      "name": "Tuesdays",
-      "url": "https://open.spotify.com/track/7r5cRFkwHuPy7HlzvuovLD"
+      "duration_ms": 241066,
+      "name": "Say You, Say Me",
+      "url": "https://open.spotify.com/track/0I9M3okWVRJXWT6G7cbIdx"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2399,18 +2383,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "You Are The Reason",
-        "url": "https://open.spotify.com/album/7rfp8crDRCG0ACHe2Ghu9U"
+        "name": "Tuesdays",
+        "url": "https://open.spotify.com/album/3DIMaIqQvaGXaYJMFT9LbD"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
         }
       ],
-      "duration_ms": 204326,
-      "name": "You Are The Reason",
-      "url": "https://open.spotify.com/track/2d3NAGCKudIYpTlRI6BI0s"
+      "duration_ms": 216989,
+      "name": "Tuesdays",
+      "url": "https://open.spotify.com/track/7r5cRFkwHuPy7HlzvuovLD"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2427,6 +2411,22 @@
       "duration_ms": 195493,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/4T2SmVJPtDdugk5j5xV1d5"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "You Are The Reason",
+        "url": "https://open.spotify.com/album/7rfp8crDRCG0ACHe2Ghu9U"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 204326,
+      "name": "You Are The Reason",
+      "url": "https://open.spotify.com/track/2d3NAGCKudIYpTlRI6BI0s"
     }
   ],
   "unique_name": "In the Arms of a Woman",

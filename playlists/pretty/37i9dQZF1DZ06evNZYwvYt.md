@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,901 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,902 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 6 | [Déjalo](https://open.spotify.com/track/1WLo5jBtnCE9xinKT0LRQ1) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 3:41 |
 | 7 | [Domestícame](https://open.spotify.com/track/5HRmvSYMTo30HM9LJb8sTD) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk) | 4:09 |
 | 8 | [Ahora Me Toca a Mi](https://open.spotify.com/track/7IKsUBs0cOCWoWnnzpwHCX) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 3:56 |
-| 9 | [Nunca Nunca](https://open.spotify.com/track/76jFWuJwsDbSl7t85KZyIe) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 4:41 |
+| 9 | [Quiero hacerte feliz](https://open.spotify.com/track/3dDnyfBRSOpwPCXD6xSits) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 3:53 |
 | 10 | [Para Ti](https://open.spotify.com/track/5kbsQbh0fTewskukC8BbQS) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 3:53 |
-| 11 | [Quiero hacerte feliz](https://open.spotify.com/track/3dDnyfBRSOpwPCXD6xSits) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Morder](https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou) | 3:53 |
+| 11 | [Nunca Nunca](https://open.spotify.com/track/76jFWuJwsDbSl7t85KZyIe) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 4:41 |
 | 12 | [Eras Tan Para Mi](https://open.spotify.com/track/4GbA6cGPbMohI23YgsvEne) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 4:50 |
 | 13 | [Rescátame](https://open.spotify.com/track/213D70aof1PgFPFUvz3lUz) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Grandes Éxitos](https://open.spotify.com/album/1V8faK2E5dlifTERzgN9xF) | 4:11 |
-| 14 | [Tormentas y Tormentos](https://open.spotify.com/track/5ueVEmBnQxHrwTFuHdv1qP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 4:33 |
-| 15 | [Para Siempre](https://open.spotify.com/track/4JraKl6IxiWgaGvTl8K7uK) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 4:18 |
+| 14 | [Para Siempre](https://open.spotify.com/track/4JraKl6IxiWgaGvTl8K7uK) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Delicada Violencia](https://open.spotify.com/album/3VcU5G86g9pvNj8sBjpvyg) | 4:18 |
+| 15 | [Tormentas y Tormentos](https://open.spotify.com/track/5ueVEmBnQxHrwTFuHdv1qP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 4:33 |
 | 16 | [Cabeza de Escorpión](https://open.spotify.com/track/480xl7fiKixUIIoKAxm8cJ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Fortaleza](https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe) | 4:15 |
 | 17 | [Abrázame](https://open.spotify.com/track/5ml03YSdzAhpSW3krfO0sk) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Abrázame](https://open.spotify.com/album/7lIVdiLsiLTwKLMEhpBk93) | 4:22 |
 | 18 | [Quédate](https://open.spotify.com/track/2uGP5rzyXrSlXjF9q57a4w) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 49 | [Carne \- En Vivo](https://open.spotify.com/track/0DWKN008tO0MAwil7cVSDE) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En Vivo\)](https://open.spotify.com/album/5xT4omRJmTehWIb1y9LT4e) | 5:59 |
 | 50 | [Brígida](https://open.spotify.com/track/2wl5Cvzz0t3xmakrka5Ccs) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:35 |
 
-Snapshot ID: `atQMAAAAAADMLVufnp56zMA+hcY358Bd`
+Snapshot ID: `atVdgAAAAADpwmRYxUZqTeLpKFhRB4QO`

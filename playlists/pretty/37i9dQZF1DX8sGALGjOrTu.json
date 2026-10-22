@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 540338,
+  "num_followers": 540353,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Page Avenue",
-        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Anthem of Our Dying Day",
-      "url": "https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "All's Well That Ends Well",
         "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 280866,
       "name": "Baby, You Wouldn't Last A Minute On The Creek",
       "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Page Avenue",
+        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Anthem of Our Dying Day",
+      "url": "https://open.spotify.com/track/4sPJgy0CksvmXp9jC0W4gv"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 233762,
-      "name": "Note to Self",
-      "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "On Letting Go",
         "url": "https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 257693,
       "name": "The Difference Between Medicine And Poison Is In The Dose",
       "url": "https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "duration_ms": 233762,
+      "name": "Note to Self",
+      "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "The Art Of Drowning",
-        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "The Days Of The Phoenix",
-      "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Juturna",
         "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 200800,
       "name": "Act Appalled",
       "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "The Art Of Drowning",
+        "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "The Days Of The Phoenix",
+      "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "The Big Dirty",
-        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 204720,
-      "name": "We'rewolf",
-      "url": "https://open.spotify.com/track/5Bfy6Wfj4G1GBYWlMfQ1by"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Too Bad You're Beautiful",
         "url": "https://open.spotify.com/album/5gZbzZKm0cBUfJwlUErOLm"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 565973,
       "name": "Short Stories With Tragic Endings",
       "url": "https://open.spotify.com/track/4eRtGBzP92gjIMOtal2kNB"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "The Big Dirty",
+        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "We'rewolf",
+      "url": "https://open.spotify.com/track/5Bfy6Wfj4G1GBYWlMfQ1by"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "The Big Dirty",
-        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
-      },
-      "artists": [
-        {
-          "name": "Every Time I Die",
-          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
-        }
-      ],
-      "duration_ms": 203426,
-      "name": "No Son Of Mine",
-      "url": "https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Worship And Tribute (U.S. Version)",
         "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 224973,
       "name": "Mu Empire",
       "url": "https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "The Big Dirty",
+        "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
+      },
+      "artists": [
+        {
+          "name": "Every Time I Die",
+          "url": "https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM"
+        }
+      ],
+      "duration_ms": 203426,
+      "name": "No Son Of Mine",
+      "url": "https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "She Watched The Sky",
-        "url": "https://open.spotify.com/album/1DqmW3Jut1Zs61jEE65ej5"
-      },
-      "artists": [
-        {
-          "name": "A Skylit Drive",
-          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
-        }
-      ],
-      "duration_ms": 283560,
-      "name": "Drown the City",
-      "url": "https://open.spotify.com/track/0Egb43pvoIekj9PYV3MAZB"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "In Search of Solid Ground",
         "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 280546,
       "name": "Surrender Your Sons",
       "url": "https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "She Watched The Sky",
+        "url": "https://open.spotify.com/album/1DqmW3Jut1Zs61jEE65ej5"
+      },
+      "artists": [
+        {
+          "name": "A Skylit Drive",
+          "url": "https://open.spotify.com/artist/2HSp2S2KwxKE7sASl6bMR9"
+        }
+      ],
+      "duration_ms": 283560,
+      "name": "Drown the City",
+      "url": "https://open.spotify.com/track/0Egb43pvoIekj9PYV3MAZB"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Say Hello To Sunshine",
-        "url": "https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 215320,
-      "name": "Ink",
-      "url": "https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Trainwreck",
         "url": "https://open.spotify.com/album/1uFmJTSJEEm0mdjDERdg8P"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 240186,
       "name": "Medicating",
       "url": "https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Say Hello To Sunshine",
+        "url": "https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 215320,
+      "name": "Ink",
+      "url": "https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE"
     },
     {
       "added_at": "2025-11-24 12:49:27",

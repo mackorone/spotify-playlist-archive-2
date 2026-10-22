@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,952 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,949 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 35 | [Sincero \(feat\. Morgan\)](https://open.spotify.com/track/6v2eWAtpP4WDrxRDAG9FwL) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Morgan](https://open.spotify.com/artist/6RUY9TXdPIoeOExtd9twr0) | [Sincero \(feat\. Morgan\)](https://open.spotify.com/album/1N1j43lLEbPtcH2agEYos7) | 3:43 |
 | 36 | [Terra promessa](https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:43 |
 | 37 | [Fai rumore](https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Fai rumore](https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ) | 3:36 |
-| 38 | [Un Giorno Mi Dirai](https://open.spotify.com/track/4FIZpPI4oCuAfK6emmC77c) | [Stadio](https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA) | [Miss Nostalgia](https://open.spotify.com/album/6W5jqg5IfSVX0KeT6nG0TH) | 4:04 |
-| 39 | [Tutti I Miei Sbagli](https://open.spotify.com/track/79cRtxW6PQWvSbKpvdPGkQ) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Microchip Emozionale](https://open.spotify.com/album/1R6tWYMVH2NOVsejTwAHxg) | 4:03 |
+| 38 | [Tutti I Miei Sbagli](https://open.spotify.com/track/79cRtxW6PQWvSbKpvdPGkQ) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Microchip Emozionale](https://open.spotify.com/album/1R6tWYMVH2NOVsejTwAHxg) | 4:03 |
+| 39 | [Un Giorno Mi Dirai](https://open.spotify.com/track/4FIZpPI4oCuAfK6emmC77c) | [Stadio](https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA) | [Miss Nostalgia](https://open.spotify.com/album/6W5jqg5IfSVX0KeT6nG0TH) | 4:04 |
 | 40 | [Per Elisa](https://open.spotify.com/track/6P9ISBfXg35gWQzq3ggLIu) | [Alice](https://open.spotify.com/artist/3zNFrznlC0kv866J7Karl3) | [Alice](https://open.spotify.com/album/0VGXsdSBJngZJNRW5o9blY) | 3:40 |
 | 41 | [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 |
 | 42 | [Noi Ragazzi Di Oggi](https://open.spotify.com/track/3nMQMdlNAlPJVwJ6frem76) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Canta En Italiano](https://open.spotify.com/album/3PIns2QvAPHuDZ807zmHJz) | 3:41 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 61 | [Cuore matto](https://open.spotify.com/track/4VgZNaG1PQL2DJ2Y09Kd46) | [Little Tony](https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW) | [Little Tony](https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys) | 2:50 |
 | 62 | [Non amarmi](https://open.spotify.com/track/0YRMOyyJw458JBQhZMEvce) | [Francesca Alotta](https://open.spotify.com/artist/4GcNZfx2mvaMpGL76GAqBE), [Aleandro Baldi](https://open.spotify.com/artist/07RQpJUe4UmtHuLO7X17l4) | [Italian Love Songs](https://open.spotify.com/album/1og5fGuVXjSWeAGQMkfLrX) | 4:56 |
 | 63 | [Ciao Ciao](https://open.spotify.com/track/4nY63p14MsBDJXRRbhFpas) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [My Mamma](https://open.spotify.com/album/6HDpIK6j126R0D5xfbuIDx) | 3:04 |
-| 64 | [Fiamme negli occhi](https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [Fiamme negli occhi](https://open.spotify.com/album/63QloB2LteDzQMKstFJ3XK) | 3:26 |
+| 64 | [E poi](https://open.spotify.com/track/3yoADEzMFGJkP1n95TTMRR) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Greatest Hits \(Le Cose Non Vanno Mai come Credi\)](https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm) | 4:27 |
 | 65 | [Amore Di Plastica](https://open.spotify.com/track/4Phog5jQ2VeTPevfFH0UcH) | [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Due Parole](https://open.spotify.com/album/5uNzCs9eLmDcUn7DtZvhq7) | 4:04 |
-| 66 | [E poi](https://open.spotify.com/track/3yoADEzMFGJkP1n95TTMRR) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Greatest Hits \(Le Cose Non Vanno Mai come Credi\)](https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm) | 4:27 |
-| 67 | [Andamento lento](https://open.spotify.com/track/5HAri7dfAKqA7vTAt8vwMB) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [1998…e I miei grandi successi](https://open.spotify.com/album/4Vas2bDBwoX9SmeJ9ucL1Q) | 4:16 |
+| 66 | [Andamento lento](https://open.spotify.com/track/5HAri7dfAKqA7vTAt8vwMB) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [1998…e I miei grandi successi](https://open.spotify.com/album/4Vas2bDBwoX9SmeJ9ucL1Q) | 4:16 |
+| 67 | [Fiamme negli occhi](https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [Fiamme negli occhi](https://open.spotify.com/album/63QloB2LteDzQMKstFJ3XK) | 3:26 |
 | 68 | [Se stiamo insieme](https://open.spotify.com/track/3V2TMVsl5LlDvEVff9hw31) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Tutti I Miei Sogni](https://open.spotify.com/album/0tkQys6CWErjTUroTILFsA) | 4:39 |
 | 69 | [Signor tenente](https://open.spotify.com/track/6jT1ZkS8MkBZVdI8CGD4cS) | [Giorgio Faletti](https://open.spotify.com/artist/6lXJfV8IwjjXR4EkHOZDxq) | [Come un cartone animato](https://open.spotify.com/album/3yWhVhKidRJpTRQwrd59EN) | 3:17 |
 | 70 | [Dieci](https://open.spotify.com/track/2lBLzzEARN8mGgHFaXYKKk) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Dieci](https://open.spotify.com/album/4FggiQxPJcGvwiRCpNhdx7) | 3:18 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 87 | [La ragazza con il cuore di latta](https://open.spotify.com/track/1OvoC77TS6iKJecRCaq0hN) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [La ragazza con il cuore di latta](https://open.spotify.com/album/0wPIBB6biqh3RaadDbhfFo) | 3:42 |
 | 88 | [L'ADDIO](https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [L'ADDIO](https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ) | 3:27 |
 | 89 | [Nostalgia canaglia](https://open.spotify.com/track/14K0I2XngCqxazt1EfJkZj) | [Al Bano](https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw), [Romina Power](https://open.spotify.com/artist/2ZUY3LkHAoSiPSO7tXNwZM) | [Tutto Al Bano](https://open.spotify.com/album/6qafxVsxR0Cotcny5z1cdk) | 3:46 |
-| 90 | [Amare](https://open.spotify.com/track/4oeFVHLTmTRbvWOk68cetc) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Amare](https://open.spotify.com/album/7qTcq0GsKKoC0dVy5hnbJU) | 3:20 |
-| 91 | [Portami via](https://open.spotify.com/track/6nX309LzbDzBrSbimYfSKe) | [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Portami via](https://open.spotify.com/album/5OhzRRXrmJVhiSfLY8rxXP) | 3:16 |
+| 90 | [Portami via](https://open.spotify.com/track/6nX309LzbDzBrSbimYfSKe) | [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Portami via](https://open.spotify.com/album/5OhzRRXrmJVhiSfLY8rxXP) | 3:16 |
+| 91 | [Amare](https://open.spotify.com/track/4oeFVHLTmTRbvWOk68cetc) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Amare](https://open.spotify.com/album/7qTcq0GsKKoC0dVy5hnbJU) | 3:20 |
 | 92 | [Contessa \- Original Version 1980](https://open.spotify.com/track/0CWJIpU0D8Bk78H1k7ELC6) | [Decibel](https://open.spotify.com/artist/0wSk7M2UXea9whwjDzmK4R) | [Le origini \- Gli anni d'oro \(1978 \- 1982\)](https://open.spotify.com/album/3u9mKrMogJjg9W0Y8tYKMH) | 3:03 |
 | 93 | [Dio come ti amo!](https://open.spotify.com/track/0QceOqQ2vmiRfCjJwgHwqA) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Domenico Modugno](https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp) | 2:31 |
 | 94 | [Come saprei](https://open.spotify.com/track/1m9xilREL0BRWpwArPvpec) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Greatest Hits \(Le Cose Non Vanno Mai come Credi\)](https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm) | 5:00 |

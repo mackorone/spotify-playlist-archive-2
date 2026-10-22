@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 115814,
+  "num_followers": 115827,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-09-08 19:57:09",
       "album": {
+        "name": "Estou de Volta",
+        "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
+      },
+      "artists": [
+        {
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Estou de Volta",
+      "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
+    },
+    {
+      "added_at": "2026-09-08 19:57:09",
+      "album": {
         "name": "Somente Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/4r0G88MyU4XHrpBch3Rb7F"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 249824,
       "name": "Somente Filho (Ao Vivo)",
       "url": "https://open.spotify.com/track/1ykJvFCm52W7knHC0mwoD1"
-    },
-    {
-      "added_at": "2026-09-08 19:57:09",
-      "album": {
-        "name": "Estou de Volta",
-        "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
-      },
-      "artists": [
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Estou de Volta",
-      "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
     },
     {
       "added_at": "2026-09-08 19:57:09",

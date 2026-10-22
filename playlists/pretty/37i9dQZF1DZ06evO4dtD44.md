@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,184 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,185 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Corcovado \(Quiet Nights Of Quiet Stars\)](https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 4:16 |
 | 2 | [Tin Tin Por Tin Tin](https://open.spotify.com/track/54nMyXP7zFHWc2nrThkZ6v) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 3:40 |
 | 3 | [Aquarela do Brasil \(Participação especial de Gilberto Gil e Caetano Veloso\)](https://open.spotify.com/track/6K9LWxm740uE2m94xspjm6) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Mestres da Mpb](https://open.spotify.com/album/1BhPF9HsYN397PY48XIuRt) | 6:31 |
-| 4 | [Sorriu Para Mim](https://open.spotify.com/track/4fTmfK5efjGjADhAUAjgKl) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 3:05 |
+| 4 | [Eu Vim Da Bahia](https://open.spotify.com/track/3YyKhjarSxJWuO44trAVdr) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 2:34 |
 | 5 | [Para Machuchar Meu Coracao](https://open.spotify.com/track/5UaJ4zxtCIi5WZomhoZIeq) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 5:07 |
-| 6 | [Eu Vim Da Bahia](https://open.spotify.com/track/3YyKhjarSxJWuO44trAVdr) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 2:34 |
+| 6 | [Sorriu Para Mim](https://open.spotify.com/track/4fTmfK5efjGjADhAUAjgKl) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 3:05 |
 | 7 | [Pra Que Discutir Com Madame?](https://open.spotify.com/track/4qZ6Jm9bvQSxcacHe6qT0w) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [In Tokyo](https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf) | 6:01 |
-| 8 | [Wave](https://open.spotify.com/track/3JbZ8W2aFTIEP6EidBlN38) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 4:41 |
+| 8 | [Chega de saudade](https://open.spotify.com/track/380KZqSJVBziAQrvx7rdGW) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [The Birth of Bossa](https://open.spotify.com/album/2EKLmuoMZ4eN3bIDrUG3Or) | 2:01 |
 | 9 | [O Grande Amor](https://open.spotify.com/track/5GjCLHeNC77C0IbTkOU3tI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 5:27 |
-| 10 | [Chega de saudade](https://open.spotify.com/track/380KZqSJVBziAQrvx7rdGW) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [The Birth of Bossa](https://open.spotify.com/album/2EKLmuoMZ4eN3bIDrUG3Or) | 2:01 |
+| 10 | [Wave](https://open.spotify.com/track/3JbZ8W2aFTIEP6EidBlN38) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 4:41 |
 | 11 | [Rosa Morena](https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Hô\-Bá\-Lá\-Lá](https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp) | 2:04 |
 | 12 | [O Pato \- Ultimate Mix](https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:58 |
 | 13 | [Desafinado](https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 49 | [Saudade Fêz Um Samba](https://open.spotify.com/track/5pDxXDEmEKKa658VxDH29J) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade](https://open.spotify.com/album/0dtfLd8TK0aJECxnXgTAZw) | 1:47 |
 | 50 | [Undiú](https://open.spotify.com/track/5DPhD44bQHEOBPGRzc3Ebl) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 6:37 |
 
-Snapshot ID: `atQMAAAAAACGE1Ly/e6t8bqsMb2pzE9M`
+Snapshot ID: `atVdgAAAAABk+BHreN7QuA2YD/MN1tN/`

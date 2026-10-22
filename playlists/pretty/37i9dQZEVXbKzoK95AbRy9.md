@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,032 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,054 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [P do Pecado \- Ao Vivo](https://open.spotify.com/track/38Ps9Kui6qJjpVqdBOfN5M) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi) | 3:12 |
 | 50 | [Eu Me Apaixonei](https://open.spotify.com/track/4SjcIkVc4cvFgURD1EHxDM) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU) | [Eu Me Apaixonei](https://open.spotify.com/album/4KTpdC3znS9wWKo4KQw6oA) | 3:25 |
 
-Snapshot ID: `Mmrk2AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mmw0AAAAAAAAAAAAAAAAAAAAAAAAAGVu`

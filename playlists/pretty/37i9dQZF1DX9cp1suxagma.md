@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Maluma, Andrés Cepeda
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,335 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,307 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

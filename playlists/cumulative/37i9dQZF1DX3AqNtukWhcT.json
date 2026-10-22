@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Blueprints",
+        "url": "https://open.spotify.com/album/14u8uGONzD5KxScEvWVumN"
+      },
+      "artists": [
+        {
+          "name": "weightless minutes",
+          "url": "https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171672,
+      "name": "Blueprints",
+      "url": "https://open.spotify.com/track/4JK8p65Mx23AZ0vBx6Erzy"
+    },
+    {
+      "album": {
         "name": "Blume",
         "url": "https://open.spotify.com/album/1Xw7vn8RhXcRoCBIEMkB0B"
       },
@@ -5068,6 +5086,24 @@
       "duration_ms": 214659,
       "name": "Time to Travel",
       "url": "https://open.spotify.com/track/1NqnBiNkkk3tdCErFQLty3"
+    },
+    {
+      "album": {
+        "name": "Not Tonight",
+        "url": "https://open.spotify.com/album/3tKUThK0cnOBD01aeo5BWD"
+      },
+      "artists": [
+        {
+          "name": "so.tired",
+          "url": "https://open.spotify.com/artist/4ordIijwezMyR8fJkOaVNy"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/5hyQHsKDbHfu8Y8y6HG0Zj"
     },
     {
       "album": {

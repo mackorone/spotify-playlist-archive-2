@@ -1,6 +1,6 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 61777,
+  "num_followers": 61795,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
         }
       ],
-      "duration_ms": 1324586,
-      "name": "Symphony No. 2 in C Minor \"Resurrection\": I. Allegro maestoso - Mit durchaus ernstem und feierlichem Ausdruck",
-      "url": "https://open.spotify.com/track/0hBIISqYVIvY8ikBaeTVEk"
+      "duration_ms": 610386,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": III. In ruhig fliessender Bewegung - Sehr gem\u00e4chlich, nicht eilen",
+      "url": "https://open.spotify.com/track/1Wi8j2OdftVBQYV6qRCABl"
     },
     {
       "added_at": "2025-12-22 11:25:43",
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
         }
       ],
-      "duration_ms": 610386,
-      "name": "Symphony No. 2 in C Minor \"Resurrection\": III. In ruhig fliessender Bewegung - Sehr gem\u00e4chlich, nicht eilen",
-      "url": "https://open.spotify.com/track/1Wi8j2OdftVBQYV6qRCABl"
+      "duration_ms": 1324586,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": I. Allegro maestoso - Mit durchaus ernstem und feierlichem Ausdruck",
+      "url": "https://open.spotify.com/track/0hBIISqYVIvY8ikBaeTVEk"
     },
     {
       "added_at": "2025-12-22 11:25:43",
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
         }
       ],
-      "duration_ms": 1148173,
-      "name": "Symphony No. 5 In C Sharp Minor: 3. Scherzo (Kr\u00e4ftig, nicht zu schnell)",
-      "url": "https://open.spotify.com/track/6QNQHAY8KLaKstoszUp35z"
+      "duration_ms": 940372,
+      "name": "Symphony No. 5 In C Sharp Minor: 5. Rondo-Finale (Allegro)",
+      "url": "https://open.spotify.com/track/6CkYMdE7d2b2WAuKIzaXLk"
     },
     {
       "added_at": "2025-12-22 11:25:43",
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
         }
       ],
-      "duration_ms": 940372,
-      "name": "Symphony No. 5 In C Sharp Minor: 5. Rondo-Finale (Allegro)",
-      "url": "https://open.spotify.com/track/6CkYMdE7d2b2WAuKIzaXLk"
+      "duration_ms": 1148173,
+      "name": "Symphony No. 5 In C Sharp Minor: 3. Scherzo (Kr\u00e4ftig, nicht zu schnell)",
+      "url": "https://open.spotify.com/track/6QNQHAY8KLaKstoszUp35z"
     },
     {
       "added_at": "2025-12-22 11:25:43",
@@ -551,30 +551,6 @@
     {
       "added_at": "2025-12-22 11:25:43",
       "album": {
-        "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
-        "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        }
-      ],
-      "duration_ms": 2009653,
-      "name": "Mahler: Symphony No. 3 in D Minor: I. Kr\u00e4ftig. Entschieden",
-      "url": "https://open.spotify.com/track/5xw32PKkA42ObOxNntOMPF"
-    },
-    {
-      "added_at": "2025-12-22 11:25:43",
-      "album": {
         "name": "Mahler: Das Lied von der Erde",
         "url": "https://open.spotify.com/album/7yu4NWQJVCcsOryunJ8MBp"
       },
@@ -599,6 +575,30 @@
       "duration_ms": 486120,
       "name": "Das Lied von der Erde: I. Das Trinklied vom Jammer der Erde",
       "url": "https://open.spotify.com/track/0nxbzSRf2JH6wPzIeW6Jg1"
+    },
+    {
+      "added_at": "2025-12-22 11:25:43",
+      "album": {
+        "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
+        "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        }
+      ],
+      "duration_ms": 2009653,
+      "name": "Mahler: Symphony No. 3 in D Minor: I. Kr\u00e4ftig. Entschieden",
+      "url": "https://open.spotify.com/track/5xw32PKkA42ObOxNntOMPF"
     },
     {
       "added_at": "2025-12-22 11:25:43",
@@ -843,6 +843,42 @@
     {
       "added_at": "2025-12-22 11:25:43",
       "album": {
+        "name": "Mahler: Symphony No. 8",
+        "url": "https://open.spotify.com/album/0v90cyaG7HGzM8pLfaLiZ8"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "New York Choral Artists",
+          "url": "https://open.spotify.com/artist/70AeZLjqrd7QxYqwqFZ7Ed"
+        },
+        {
+          "name": "The Dessoff Symphonic Choir",
+          "url": "https://open.spotify.com/artist/0aWo0yS64FFhiebkTVJp9m"
+        },
+        {
+          "name": "Anthony Dean Griffey",
+          "url": "https://open.spotify.com/artist/0RQCOqfLa62jcI6Wb3Gt6Q"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 349497,
+      "name": "Symphony No. 8: II - VII. H\u00f6chste Herrscherin der Welt! - Live",
+      "url": "https://open.spotify.com/track/4W2C9mMIoYrC48RVrlCUXU"
+    },
+    {
+      "added_at": "2025-12-22 11:25:43",
+      "album": {
         "name": "Mahler: Symphony No. 8 (Mahler 8)",
         "url": "https://open.spotify.com/album/0KQbrGXEyi2s9cgwuD4daL"
       },
@@ -911,42 +947,6 @@
       "duration_ms": 309209,
       "name": "Symphony No. 8 in E flat - \"Symphony of a Thousand\" - Part One: Hymnus \"Veni creator spiritus\": \"Accende lumen sensibus\"",
       "url": "https://open.spotify.com/track/2hurAdmJRAKfQBZCfVhNAM"
-    },
-    {
-      "added_at": "2025-12-22 11:25:43",
-      "album": {
-        "name": "Mahler: Symphony No. 8",
-        "url": "https://open.spotify.com/album/0v90cyaG7HGzM8pLfaLiZ8"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "New York Choral Artists",
-          "url": "https://open.spotify.com/artist/70AeZLjqrd7QxYqwqFZ7Ed"
-        },
-        {
-          "name": "The Dessoff Symphonic Choir",
-          "url": "https://open.spotify.com/artist/0aWo0yS64FFhiebkTVJp9m"
-        },
-        {
-          "name": "Anthony Dean Griffey",
-          "url": "https://open.spotify.com/artist/0RQCOqfLa62jcI6Wb3Gt6Q"
-        },
-        {
-          "name": "Lorin Maazel",
-          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
-        }
-      ],
-      "duration_ms": 349497,
-      "name": "Symphony No. 8: II - VII. H\u00f6chste Herrscherin der Welt! - Live",
-      "url": "https://open.spotify.com/track/4W2C9mMIoYrC48RVrlCUXU"
     },
     {
       "added_at": "2025-12-22 11:25:43",

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Josie Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,697 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,696 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chemical Light](https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK) | [Josie Edwards](https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq) | [Greetings From Bleak St.](https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1) | 3:46 |
 | 2 | [MATADORA](https://open.spotify.com/track/04d5HlcQX6zH5MMqffXOon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 2:24 |
 | 3 | [Tell Me I'm Beautiful](https://open.spotify.com/track/3NMpis16saqwH4bTKbkmDi) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Tell Me I'm Beautiful](https://open.spotify.com/album/6ceUAFN6I4c1BI5HocTcLs) | 3:35 |
-| 4 | [Summer Bummer \(Lights On\)](https://open.spotify.com/track/3V6Hf8K6be5xJxlgaxqh5f) | [RhyRhy](https://open.spotify.com/artist/0rLtVRocFmE2FJtFJnt7q7) | [Summer Bummer \(Lights On\)](https://open.spotify.com/album/6vEhMAUKb40qMrilvcrsCl) | 3:04 |
-| 5 | [Nobody Wanna Dance Anymore](https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:20 |
+| 4 | [Nobody Wanna Dance Anymore](https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:20 |
+| 5 | [Summer Bummer \(Lights On\)](https://open.spotify.com/track/3V6Hf8K6be5xJxlgaxqh5f) | [RhyRhy](https://open.spotify.com/artist/0rLtVRocFmE2FJtFJnt7q7) | [Summer Bummer \(Lights On\)](https://open.spotify.com/album/6vEhMAUKb40qMrilvcrsCl) | 3:04 |
 | 6 | [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 |
 | 7 | [Summer You Were Mine](https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Long Way Home](https://open.spotify.com/album/0inYFsNCyffdWte267wXRW) | 3:07 |
 | 8 | [serena joy](https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [serena joy](https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza) | 3:05 |
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 31 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
 | 32 | [gloria!](https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gloria!](https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh) | 3:21 |
 | 33 | [Used To Be](https://open.spotify.com/track/4wj4ogBPevGweczZNtHoZ2) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Used To Be](https://open.spotify.com/album/3RYKpZIW82JbMpULEdcxHG) | 3:01 |
-| 34 | [Same Circus](https://open.spotify.com/track/7uanUiwGDy6VbYnrpJc8db) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Honest Woman](https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga) | 3:22 |
-| 35 | [Honest To God](https://open.spotify.com/track/7wtjMjxPbKlWikgmTtO6Dt) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Here I Am](https://open.spotify.com/album/4by63MmBpTRKY8ZbqtGuIh) | 2:59 |
+| 34 | [Honest To God](https://open.spotify.com/track/7wtjMjxPbKlWikgmTtO6Dt) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Here I Am](https://open.spotify.com/album/4by63MmBpTRKY8ZbqtGuIh) | 2:59 |
+| 35 | [Same Circus](https://open.spotify.com/track/7uanUiwGDy6VbYnrpJc8db) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Honest Woman](https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga) | 3:22 |
 | 36 | [only one way to know](https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [only one way to know](https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS) | 2:46 |
 | 37 | [Too Much Of A Good Thing](https://open.spotify.com/track/60UGNZlMSAQnNwWVlKS4Ma) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Too Much Of A Good Thing](https://open.spotify.com/album/72fu5cHbVyHCdTRNO3se9x) | 2:53 |
 | 38 | [It Just So Happens](https://open.spotify.com/track/39VskX4yIWsxCSE1x7Wa8j) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Feelings Are Forever](https://open.spotify.com/album/01rDa3R9E2OMXOISdH1295) | 2:48 |
 | 39 | [Her](https://open.spotify.com/track/4IvgjdQD4mG7yDvftdBOft) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Thank God](https://open.spotify.com/album/6KI31QMuC77LZi5GS8Ipqf) | 2:53 |
-| 40 | [WYO](https://open.spotify.com/track/7y306i1Fyfzapyo0CbeMRp) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [NOT DA 2](https://open.spotify.com/album/3Ntu1axGIlTbDhtAWFIeYi) | 2:36 |
-| 41 | [Focus](https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Mad Big World](https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4) | 2:49 |
+| 40 | [Focus](https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Mad Big World](https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4) | 2:49 |
+| 41 | [WYO](https://open.spotify.com/track/7y306i1Fyfzapyo0CbeMRp) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [NOT DA 2](https://open.spotify.com/album/3Ntu1axGIlTbDhtAWFIeYi) | 2:36 |
 | 42 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 |
 | 43 | [Sorta, kinda](https://open.spotify.com/track/3Upct5fD1ec5RSOqEvJJut) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Isn't That Sweet?](https://open.spotify.com/album/3wqrUSyblqilEKanMoRpWw) | 3:56 |
 | 44 | ['Til We Meet Again](https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | ['Til We Meet Again](https://open.spotify.com/album/0r8AyEKhH2xnRysPfV0Rda) | 4:19 |
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 46 | [The World Keeps Spinning](https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [The World Keeps Spinning](https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo) | 2:15 |
 | 47 | [His Favorite](https://open.spotify.com/track/6sM9n41CYIRkkZaFWvvTz1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [His Favorite](https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI) | 2:52 |
 | 48 | [Sugar Trap](https://open.spotify.com/track/0j38sAqoc1QL4MoccmWxD2) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Sugar Trap](https://open.spotify.com/album/5R7ggWmHJEuPapIoiqfKR3) | 3:09 |
-| 49 | [Next to U](https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Next to U](https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4) | 2:56 |
-| 50 | [Shock!](https://open.spotify.com/track/0qKVJsL0lNtKw3I2pieuhn) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Shock!](https://open.spotify.com/album/3hBIuH62O5Usqi3RXGVLY4) | 3:48 |
+| 49 | [Shock!](https://open.spotify.com/track/0qKVJsL0lNtKw3I2pieuhn) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Shock!](https://open.spotify.com/album/3hBIuH62O5Usqi3RXGVLY4) | 3:48 |
+| 50 | [Next to U](https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Next to U](https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4) | 2:56 |
 | 51 | [WHAT ELSE?](https://open.spotify.com/track/3h2OSS7nnFnEuZ57F2BmVF) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [WHAT ELSE?](https://open.spotify.com/album/7gFZKtpOHMIvkVhXSJ9z7f) | 2:20 |
-| 52 | [clementine](https://open.spotify.com/track/720NjMRiTI3YMHUeKQzSZc) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Observing Chaos](https://open.spotify.com/album/2PDL5zrh8O9xF8ukEfltam) | 2:44 |
-| 53 | [LSD \(Love, Sex & Diamonds\)](https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG) | [VANITY](https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7) | [Mascara Masquerade](https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0) | 3:56 |
+| 52 | [LSD \(Love, Sex & Diamonds\)](https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG) | [VANITY](https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7) | [Mascara Masquerade](https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0) | 3:56 |
+| 53 | [clementine](https://open.spotify.com/track/720NjMRiTI3YMHUeKQzSZc) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Observing Chaos](https://open.spotify.com/album/2PDL5zrh8O9xF8ukEfltam) | 2:44 |
 | 54 | [Sleeping with My Boots On](https://open.spotify.com/track/6NIFqS0Rz2Zbjh1RN69hzX) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Lucky to Be](https://open.spotify.com/album/50TURqK9AFsbLTS5lguddv) | 2:08 |
 
 Snapshot ID: `AAAAACcTRzclC3U8t8SbnOY4zjWzIhsF`

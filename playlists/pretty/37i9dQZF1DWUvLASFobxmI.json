@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Equipo HC en portada.",
-  "num_followers": 532341,
+  "num_followers": 532337,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
+        "name": "UNO PARA EL OTRO",
+        "url": "https://open.spotify.com/album/2HWYoPP10xV4KD68P4T6kw"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 182370,
+      "name": "UNO PARA EL OTRO",
+      "url": "https://open.spotify.com/track/2NS5P8iCp2eMLRH3lj6UGa"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
         "name": "Las Filtradas",
         "url": "https://open.spotify.com/album/5ranG1MkGTB5mHdFLXBIez"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 174641,
       "name": "Tu Culpa",
       "url": "https://open.spotify.com/track/71fEdsATrEMneN7WtPHOKm"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
-        "name": "UNO PARA EL OTRO",
-        "url": "https://open.spotify.com/album/2HWYoPP10xV4KD68P4T6kw"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 182370,
-      "name": "UNO PARA EL OTRO",
-      "url": "https://open.spotify.com/track/2NS5P8iCp2eMLRH3lj6UGa"
     },
     {
       "added_at": "2026-10-16 05:41:28",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-10-16 05:41:28",
       "album": {
+        "name": "CHULA ELLA 59",
+        "url": "https://open.spotify.com/album/2hG9jA3GrO9myvWUmVfdty"
+      },
+      "artists": [
+        {
+          "name": "Reynaldos de la Sierra",
+          "url": "https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe"
+        }
+      ],
+      "duration_ms": 144874,
+      "name": "KBRON",
+      "url": "https://open.spotify.com/track/1ggjoOO0Strq7nEV2GCdpK"
+    },
+    {
+      "added_at": "2026-10-16 05:41:28",
+      "album": {
         "name": "Al Rev\u00e9s",
         "url": "https://open.spotify.com/album/0zyHusfuKqERuKNvarKN8d"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 291801,
       "name": "La Madrugada",
       "url": "https://open.spotify.com/track/5vngLJOgpzKNJCY9pSnBMi"
-    },
-    {
-      "added_at": "2026-10-16 05:41:28",
-      "album": {
-        "name": "CHULA ELLA 59",
-        "url": "https://open.spotify.com/album/2hG9jA3GrO9myvWUmVfdty"
-      },
-      "artists": [
-        {
-          "name": "Reynaldos de la Sierra",
-          "url": "https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe"
-        }
-      ],
-      "duration_ms": 144874,
-      "name": "KBRON",
-      "url": "https://open.spotify.com/track/1ggjoOO0Strq7nEV2GCdpK"
     },
     {
       "added_at": "2026-10-16 05:41:28",

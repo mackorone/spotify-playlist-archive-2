@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 57 songs - 4 hr 12 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 2 likes - 58 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,5 +65,6 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 55 | [The Hand](https://open.spotify.com/track/177hzTEEFC7GTHOrfoUuSj) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/43fX9uwaRmoPEKbMzMMuav) | 3:10 |
 | 56 | [The Curtain Falls](https://open.spotify.com/track/5ygEf1YXtiS2OzOdnOeNjR) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Original Broadway Cast of Just In Time](https://open.spotify.com/artist/3mjvQw6QJSp0X2cIHn6QnG) | [The Curtain Falls](https://open.spotify.com/album/28vxoiUBRMBcybqeNgrFeb) | 3:11 |
 | 57 | [Anthem](https://open.spotify.com/track/2WaxEavbIServ6UOMJijd2) | [Nicholas Christopher](https://open.spotify.com/artist/1bc4RK3BAuMC9yCEYM8MrN), [CHESS 2025 Broadway Company](https://open.spotify.com/artist/6gfwuJdi9Bk7s41QgLAxiW) | [Anthem](https://open.spotify.com/album/5kBN5Qo1rxGqVr4dJIscT9) | 3:14 |
+| 58 | [Daffodils](https://open.spotify.com/track/575iCJ8dSMEhO9XZIxT9wk) | [Norbert Leo Butz](https://open.spotify.com/artist/2LEinBhufpsqT17c5XYomF), [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Big Fish \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3Cn2jrMkdeC6uOtoYWio5v) | 5:08 |
 
-Snapshot ID: `AAAHOD4Iy7czrqJDUuxQ2Q4mN2TJQ6jA`
+Snapshot ID: `AAAHOZxEV+ovZeDheBj8ZIUKM8osK7Tf`

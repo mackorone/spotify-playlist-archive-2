@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 
 > This is Ken Carson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,644 likes - 43 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,652 likes - 43 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 10 | [i need u](https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:28 |
 | 11 | [Freestyle 2](https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:18 |
 | 12 | [possession](https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [xperiment](https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9) | 2:13 |
-| 13 | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7) | 2:27 |
+| 13 | [mewtwo](https://open.spotify.com/track/6xZYGIixR3zhhOHwu7UEMY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:08 |
 | 14 | [Succubus](https://open.spotify.com/track/2pcv4nUQqaZnJk1kYvCfXV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:29 |
-| 15 | [mewtwo](https://open.spotify.com/track/6xZYGIixR3zhhOHwu7UEMY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:08 |
+| 15 | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7) | 2:27 |
 | 16 | [shadeson \(with 2hollis\)](https://open.spotify.com/track/7155NVwKKJjtQtssuaqgJ9) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [xperiment](https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9) | 1:58 |
 | 17 | [scrape](https://open.spotify.com/track/3eUOjBibvnzlUtOEoQ4PwC) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [xperiment \- cartunez](https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7) | 2:28 |
 | 18 | [Green Room](https://open.spotify.com/track/3MtB4aOzFkXJvAREmsy1Dj) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:08 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 42 | [Murda Musik \(feat\. Destroy Lonely\)](https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:56 |
 | 43 | [Trap Jump](https://open.spotify.com/track/56BtPjjWiRc0ch7DH8DNu9) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:30 |
 
-Snapshot ID: `atQMAAAAAAADbyq7vhlGZe/Ipg7YA+1c`
+Snapshot ID: `atVdgAAAAAA2H0NuhAY4Q15zbyy82Ccj`

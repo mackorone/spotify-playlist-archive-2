@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Dear Joanne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,995 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,000 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 47 | [Pipe dream](https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Pipe dream](https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf) | 2:37 |
 | 48 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
 | 49 | [Toujours oui <3](https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Toujours oui <3](https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA) | 3:25 |
-| 50 | [Te Perdí](https://open.spotify.com/track/6ONIKY4nNgn1Wxrn15eBFw) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [EL NENE, VOL 2](https://open.spotify.com/album/7fKsGvADHbGbW7TiJJTtUu) | 2:10 |
+| 50 | [Mujerón](https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [GORGONA](https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD) | 2:50 |
 
 Snapshot ID: `AAAAAGPyNFoyMSU/zs9lwtq4XjVkERHm`

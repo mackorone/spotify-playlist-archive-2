@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 359801,
+  "num_followers": 359859,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -195,30 +195,6 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
-        "name": "What Would You Do?",
-        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 174215,
-      "name": "What Would You Do?",
-      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/4gP5HYqMorQT7rSoSPPfIF"
       },
@@ -239,6 +215,30 @@
       "duration_ms": 183934,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/36wm1WBVArEbnIgtkT3abj"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
+        "name": "What Would You Do?",
+        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 174215,
+      "name": "What Would You Do?",
+      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
     },
     {
       "added_at": "2026-10-02 12:20:02",
@@ -711,6 +711,26 @@
     {
       "added_at": "2026-10-02 12:20:02",
       "album": {
+        "name": "Doin Nottin",
+        "url": "https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ"
+      },
+      "artists": [
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        },
+        {
+          "name": "GIU",
+          "url": "https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze"
+        }
+      ],
+      "duration_ms": 146538,
+      "name": "Doin Nottin",
+      "url": "https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK"
+    },
+    {
+      "added_at": "2026-10-02 12:20:02",
+      "album": {
         "name": "Party On My Own (feat. FAULHABER)",
         "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 146500,
       "name": "Party On My Own (feat. FAULHABER)",
       "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
-    },
-    {
-      "added_at": "2026-10-02 12:20:02",
-      "album": {
-        "name": "Doin Nottin",
-        "url": "https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ"
-      },
-      "artists": [
-        {
-          "name": "FatSync",
-          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
-        },
-        {
-          "name": "GIU",
-          "url": "https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze"
-        }
-      ],
-      "duration_ms": 146538,
-      "name": "Doin Nottin",
-      "url": "https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK"
     },
     {
       "added_at": "2026-10-02 12:20:02",

@@ -1,6 +1,6 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Olivia Rodrigo & Chappell Roan",
-  "num_followers": 249285,
+  "num_followers": 249260,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-10-16 00:00:17",
       "album": {
-        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
-        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
-    },
-    {
-      "added_at": "2026-10-16 00:00:17",
-      "album": {
         "name": "AGUA",
         "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 191107,
       "name": "AGUA",
       "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
+    },
+    {
+      "added_at": "2026-10-16 00:00:17",
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
     },
     {
       "added_at": "2026-10-16 00:00:17",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2026-10-16 00:00:17",
       "album": {
+        "name": "Before You Know It",
+        "url": "https://open.spotify.com/album/09MFYa0kaj2G2LpRZfKUyo"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 173202,
+      "name": "Before You Know It",
+      "url": "https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"
+    },
+    {
+      "added_at": "2026-10-16 00:00:17",
+      "album": {
         "name": "Watch It Burn",
         "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
       },
@@ -1107,22 +1127,6 @@
     {
       "added_at": "2026-10-16 00:00:17",
       "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "She\u2019s the Best",
-      "url": "https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61"
-    },
-    {
-      "added_at": "2026-10-16 00:00:17",
-      "album": {
         "name": "RESCUER",
         "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
       },
@@ -1139,22 +1143,18 @@
     {
       "added_at": "2026-10-16 00:00:17",
       "album": {
-        "name": "Before You Know It",
-        "url": "https://open.spotify.com/album/09MFYa0kaj2G2LpRZfKUyo"
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 173202,
-      "name": "Before You Know It",
-      "url": "https://open.spotify.com/track/0IEKKqwiTDVh6I3M9XlrAQ"
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/4q5EIdR3ONbaq6GvO9FV61"
     },
     {
       "added_at": "2026-10-16 00:00:17",

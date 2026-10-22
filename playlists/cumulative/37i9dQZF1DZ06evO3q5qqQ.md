@@ -4,7 +4,7 @@
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-173 songs - 8 hr 21 min
+174 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [CUANDO NADIE LA VE](https://open.spotify.com/track/0RDFRCTbMo7QVLRgyPk7QF) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [CUANDO NADIE LA VE](https://open.spotify.com/album/1h5M7sW3OD57E1p6rS2Be6) | 2:26 | 2026-06-18 |  |
 | [CUANDO NADIE LA VE](https://open.spotify.com/track/2UWESgzYXfiraEusfJbFem) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [CUANDO NADIE LA VE](https://open.spotify.com/album/3eocAlRtj5bR8ogB2TaSsQ) | 2:26 | 2025-10-19 | 2026-06-18 |
 | [De Aqui Soy](https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [De Aqui Soy](https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP) | 2:48 | 2025-02-03 |  |
+| [Deli](https://open.spotify.com/track/16WSMvxhuxH9mYA5E5YXl8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [La Fórmula](https://open.spotify.com/artist/3Cdm0n7u3cH5vVioNaByZ0) | [Deli](https://open.spotify.com/album/4leFgTpQRveiOxDJ2y99RE) | 3:05 | 2026-10-22 |  |
 | [Diosa Griega](https://open.spotify.com/track/2hoFmWhpgL4S9VV1AbApMS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Resiliencia](https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve) | 2:20 | 2025-10-26 | 2026-05-27 |
 | [Don Mayo \(En vivo\)](https://open.spotify.com/track/0dosB2O1QBbPSkAw2eFSX5) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa) | 2:56 | 2024-01-29 | 2025-06-11 |
 | [El 30](https://open.spotify.com/track/4YqYXDEXCOzoigKHCCAec7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El 30](https://open.spotify.com/album/5uFfnpEe1QrKi8kLEjEFSy) | 3:10 | 2024-01-29 | 2024-04-25 |
@@ -178,7 +179,7 @@
 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 | 2024-01-29 | 2024-04-19 |
 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 | 2024-04-19 |  |
 | [Ya No Puedo Con Esto](https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ya No Puedo Con Esto](https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX) | 2:29 | 2024-03-28 | 2026-03-27 |
-| [Ya No Puedo Con Esto](https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ya No Puedo Con Esto](https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs) | 2:29 | 2026-05-10 |  |
+| [Ya No Puedo Con Esto](https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ya No Puedo Con Esto](https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs) | 2:29 | 2026-05-10 | 2026-10-22 |
 | [¿Cómo Te Olvido?](https://open.spotify.com/track/2DzLUxQ1QB30GSQBYa1zIT) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [¿Cómo Te Olvido?](https://open.spotify.com/album/2RMo1JLJ9Kr1twPWbqzfBJ) | 3:28 | 2026-09-20 |  |
 | [¿En Dónde Te Habías Metido?](https://open.spotify.com/track/1xrLlWXeFoqrJnw7gPdjYq) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Color Del Amor](https://open.spotify.com/album/1TCg2YDwIjA36bRYTQgg9C) | 4:22 | 2025-10-14 | 2026-01-05 |
 

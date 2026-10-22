@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: V'ghn, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>",
-  "num_followers": 251174,
+  "num_followers": 251185,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -279,30 +279,6 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Mind My Business",
-        "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
-      },
-      "artists": [
-        {
-          "name": "Travis World",
-          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
-        },
-        {
-          "name": "Dan Evens",
-          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
-        },
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 119040,
-      "name": "Mind My Business",
-      "url": "https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz"
-    },
-    {
-      "added_at": "2026-08-20 14:00:42",
-      "album": {
         "name": "Bicycle Ride (Soca Remix)",
         "url": "https://open.spotify.com/album/6ZrNKMrWoQWQZ2HtY5RDD2"
       },
@@ -327,6 +303,30 @@
       "duration_ms": 172755,
       "name": "Bicycle Ride - Soca Remix",
       "url": "https://open.spotify.com/track/3iGfDrCxEu5PLayUTF9OMX"
+    },
+    {
+      "added_at": "2026-08-20 14:00:42",
+      "album": {
+        "name": "Mind My Business",
+        "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
+      },
+      "artists": [
+        {
+          "name": "Travis World",
+          "url": "https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd"
+        },
+        {
+          "name": "Dan Evens",
+          "url": "https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK"
+        },
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 119040,
+      "name": "Mind My Business",
+      "url": "https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
+        "name": "Last Train",
+        "url": "https://open.spotify.com/album/0yFAOpoi7SAzwDmx3zAEX5"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        }
+      ],
+      "duration_ms": 217777,
+      "name": "Last Train",
+      "url": "https://open.spotify.com/track/0YWDVOZE0phKo6ZWYJG4kn"
+    },
+    {
+      "added_at": "2026-08-20 14:00:42",
+      "album": {
         "name": "Heroes Riddim",
         "url": "https://open.spotify.com/album/259CBsx920bdse65Q33ln1"
       },
@@ -435,18 +451,22 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Last Train",
-        "url": "https://open.spotify.com/album/0yFAOpoi7SAzwDmx3zAEX5"
+        "name": "Same 24 Riddim",
+        "url": "https://open.spotify.com/album/67TEiUfvHYKELLyVKQGgjB"
       },
       "artists": [
         {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+          "name": "muddy",
+          "url": "https://open.spotify.com/artist/1sjktWGrxErKEMVpB6QKgM"
+        },
+        {
+          "name": "Xpert Productions",
+          "url": "https://open.spotify.com/artist/52O8pzIdLGt62WYa44LRXg"
         }
       ],
-      "duration_ms": 217777,
-      "name": "Last Train",
-      "url": "https://open.spotify.com/track/0YWDVOZE0phKo6ZWYJG4kn"
+      "duration_ms": 158250,
+      "name": "Payroll",
+      "url": "https://open.spotify.com/track/3XTjtCEfZ34xMua70IK01m"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -467,26 +487,6 @@
       "duration_ms": 159873,
       "name": "In the Water",
       "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
-    },
-    {
-      "added_at": "2026-08-20 14:00:42",
-      "album": {
-        "name": "Same 24 Riddim",
-        "url": "https://open.spotify.com/album/67TEiUfvHYKELLyVKQGgjB"
-      },
-      "artists": [
-        {
-          "name": "muddy",
-          "url": "https://open.spotify.com/artist/1sjktWGrxErKEMVpB6QKgM"
-        },
-        {
-          "name": "Xpert Productions",
-          "url": "https://open.spotify.com/artist/52O8pzIdLGt62WYa44LRXg"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "Payroll",
-      "url": "https://open.spotify.com/track/3XTjtCEfZ34xMua70IK01m"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -543,18 +543,22 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Spirit Of Carnival Project",
-        "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
+        "name": "Workout (feat. Nailah Blackman)",
+        "url": "https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe"
       },
       "artists": [
         {
           "name": "Kes",
           "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
         }
       ],
-      "duration_ms": 184273,
-      "name": "Mental Day",
-      "url": "https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1"
+      "duration_ms": 238153,
+      "name": "Workout",
+      "url": "https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -635,22 +639,18 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Workout (feat. Nailah Blackman)",
-        "url": "https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe"
+        "name": "Spirit Of Carnival Project",
+        "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
       },
       "artists": [
         {
           "name": "Kes",
           "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
         }
       ],
-      "duration_ms": 238153,
-      "name": "Workout",
-      "url": "https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63"
+      "duration_ms": 184273,
+      "name": "Mental Day",
+      "url": "https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -803,26 +803,6 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "CAPITAL",
-        "url": "https://open.spotify.com/album/7fYU36Z3zAiDrhWsDlObyw"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        },
-        {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "CAPITAL",
-      "url": "https://open.spotify.com/track/2nxS7kXeWZmbYltXuIV14k"
-    },
-    {
-      "added_at": "2026-08-20 14:00:42",
-      "album": {
         "name": "Black Keys Riddim",
         "url": "https://open.spotify.com/album/22UudBXkxd66PvwCHPLA3g"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 137330,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3HhdRHgiGbSH8rcGhJ0PGW"
+    },
+    {
+      "added_at": "2026-08-20 14:00:42",
+      "album": {
+        "name": "CAPITAL",
+        "url": "https://open.spotify.com/album/7fYU36Z3zAiDrhWsDlObyw"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        },
+        {
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "CAPITAL",
+      "url": "https://open.spotify.com/track/2nxS7kXeWZmbYltXuIV14k"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "D N A",
-        "url": "https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "D N A",
-      "url": "https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws"
-    },
-    {
-      "added_at": "2026-08-20 14:00:42",
-      "album": {
         "name": "Tack Back",
         "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 198671,
       "name": "Tack Back",
       "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
+    },
+    {
+      "added_at": "2026-08-20 14:00:42",
+      "album": {
+        "name": "D N A",
+        "url": "https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "D N A",
+      "url": "https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
       },
       "artists": [
         {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+          "name": "Peter Ram",
+          "url": "https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ"
         }
       ],
-      "duration_ms": 220500,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
+      "duration_ms": 279426,
+      "name": "Woman By My Side",
+      "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
       },
       "artists": [
         {
-          "name": "Peter Ram",
-          "url": "https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ"
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
         }
       ],
-      "duration_ms": 279426,
-      "name": "Woman By My Side",
-      "url": "https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu"
+      "duration_ms": 220500,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "Invasion Band Feat. Naya George",
-          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Trinidad",
-      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
-    },
-    {
-      "added_at": "2026-08-20 14:00:42",
-      "album": {
         "name": "Caution Riddim",
         "url": "https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 193488,
       "name": "Fattt",
       "url": "https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7"
+    },
+    {
+      "added_at": "2026-08-20 14:00:42",
+      "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "Invasion Band Feat. Naya George",
+          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
+        "name": "Charge",
+        "url": "https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo"
+      },
+      "artists": [
+        {
+          "name": "Xtatik",
+          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
+        }
+      ],
+      "duration_ms": 276131,
+      "name": "Footsteps",
+      "url": "https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI"
+    },
+    {
+      "added_at": "2026-08-20 14:00:42",
+      "album": {
         "name": "Lambadas Internacionais - As Melhores",
         "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 152624,
       "name": "Party Nice",
       "url": "https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh"
-    },
-    {
-      "added_at": "2026-08-20 14:00:42",
-      "album": {
-        "name": "Charge",
-        "url": "https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo"
-      },
-      "artists": [
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        }
-      ],
-      "duration_ms": 276131,
-      "name": "Footsteps",
-      "url": "https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Search Party",
-        "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
+        "name": "Spoil You",
+        "url": "https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb"
       },
       "artists": [
         {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+          "name": "Shemmy J",
+          "url": "https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2"
         }
       ],
-      "duration_ms": 206609,
-      "name": "Search Party",
-      "url": "https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB"
+      "duration_ms": 188842,
+      "name": "Spoil You",
+      "url": "https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE"
     },
     {
       "added_at": "2026-08-20 14:00:42",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2026-08-20 14:00:42",
       "album": {
-        "name": "Spoil You",
-        "url": "https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb"
+        "name": "Search Party",
+        "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
       },
       "artists": [
         {
-          "name": "Shemmy J",
-          "url": "https://open.spotify.com/artist/4FqeF4EINBD7lE3ulmExh2"
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
         }
       ],
-      "duration_ms": 188842,
-      "name": "Spoil You",
-      "url": "https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE"
+      "duration_ms": 206609,
+      "name": "Search Party",
+      "url": "https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB"
     },
     {
       "added_at": "2026-08-20 14:00:42",

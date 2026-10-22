@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 199033,
+  "num_followers": 199038,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAACHCtbYFfY1o3b+fVFSkV0n",
+  "snapshot_id": "atVdgAAAAADFRT2DZGCfKPX9LVPTdsMk",
   "tracks": [
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Decca Singles 1949-1958",
-        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "Can Anyone Explain?",
-      "url": "https://open.spotify.com/track/2bCNsUB6OfZOoWV34eOpZl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 236240,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/0YgEYSBt2e4BSTIQBhukou"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Decca Singles 1949-1958",
+        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "Can Anyone Explain?",
+      "url": "https://open.spotify.com/track/2bCNsUB6OfZOoWV34eOpZl"
     },
     {
       "added_at": null,
@@ -555,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volume 1: Rhythm Saved The World (1935-1936)",
-        "url": "https://open.spotify.com/album/2ce0x6CSfBLGz5QIOYKlc4"
+        "name": "Satchmo In Style (Expanded Edition)",
+        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Gordon Jenkins & His Orchestra",
+          "url": "https://open.spotify.com/artist/2zxOdG2ascAD3oLdP03mYU"
         }
       ],
-      "duration_ms": 190293,
-      "name": "I'm In The Mood For Love - Single Version",
-      "url": "https://open.spotify.com/track/5rsGCb9gGF94iibePU5jMO"
+      "duration_ms": 156333,
+      "name": "Spooks",
+      "url": "https://open.spotify.com/track/5WJ0I8oaf1XYrxwVr0Fp7j"
     },
     {
       "added_at": null,
@@ -587,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo In Style (Expanded Edition)",
-        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
+        "name": "Volume 1: Rhythm Saved The World (1935-1936)",
+        "url": "https://open.spotify.com/album/2ce0x6CSfBLGz5QIOYKlc4"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Gordon Jenkins & His Orchestra",
-          "url": "https://open.spotify.com/artist/2zxOdG2ascAD3oLdP03mYU"
         }
       ],
-      "duration_ms": 156333,
-      "name": "Spooks",
-      "url": "https://open.spotify.com/track/5WJ0I8oaf1XYrxwVr0Fp7j"
+      "duration_ms": 190293,
+      "name": "I'm In The Mood For Love - Single Version",
+      "url": "https://open.spotify.com/track/5rsGCb9gGF94iibePU5jMO"
     },
     {
       "added_at": null,
@@ -771,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo Sings",
-        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
+        "name": "I've Got The World On A String",
+        "url": "https://open.spotify.com/album/0RBcFzJZaV8N40scKLyIpU"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Sonny Burke & His Orchestra",
-          "url": "https://open.spotify.com/artist/4PyPlV92e4yMGcVEJhQxsV"
         }
       ],
-      "duration_ms": 177440,
-      "name": "Sincerely",
-      "url": "https://open.spotify.com/track/3StcXy0MMm3XNogT3HLcUT"
+      "duration_ms": 172306,
+      "name": "I've Got The World On A String",
+      "url": "https://open.spotify.com/track/4MSfbddZH4qfzwbubH4GED"
     },
     {
       "added_at": null,
@@ -811,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Got The World On A String",
-        "url": "https://open.spotify.com/album/0RBcFzJZaV8N40scKLyIpU"
+        "name": "Satchmo Sings",
+        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Sonny Burke & His Orchestra",
+          "url": "https://open.spotify.com/artist/4PyPlV92e4yMGcVEJhQxsV"
         }
       ],
-      "duration_ms": 172306,
-      "name": "I've Got The World On A String",
-      "url": "https://open.spotify.com/track/4MSfbddZH4qfzwbubH4GED"
+      "duration_ms": 177440,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/3StcXy0MMm3XNogT3HLcUT"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volume 2: Heart Full Of Rhythm (1936-38)",
+        "url": "https://open.spotify.com/album/6YlPSTWp7bq3Q01L9EcaGG"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "The Skeleton In The Closet - Single Version",
+      "url": "https://open.spotify.com/track/16VhRXGPiqsHgnw4KgKkuU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Essence of Armstrong",
         "url": "https://open.spotify.com/album/5FxOsi0n7p8SQJaZn3Ssxv"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 133266,
       "name": "I Still Get Jealous",
       "url": "https://open.spotify.com/track/5OBriDrN0dLdVcPyuGS5m8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volume 2: Heart Full Of Rhythm (1936-38)",
-        "url": "https://open.spotify.com/album/6YlPSTWp7bq3Q01L9EcaGG"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "The Skeleton In The Closet - Single Version",
-      "url": "https://open.spotify.com/track/16VhRXGPiqsHgnw4KgKkuU"
     },
     {
       "added_at": null,

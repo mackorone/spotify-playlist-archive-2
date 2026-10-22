@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Kf72URLxopa8Gga5hGY3F.md) - [plain]
 
 > 
 
-[Blitx](https://open.spotify.com/user/blitziny) - 1 like - 1,298 songs - 2 day 21 hr 37 min
+[Blitx](https://open.spotify.com/user/blitziny) - 2 likes - 1,298 songs - 2 day 21 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

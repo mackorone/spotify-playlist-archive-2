@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,106 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,169 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 21 | [Heaven On My Mind \(with Forrest Frank\)](https://open.spotify.com/track/6CfSsoolc9zgQRyMLddP3L) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Heaven On My Mind \(with Forrest Frank\)](https://open.spotify.com/album/2WoMWt180K0lhKten85CfK) | 3:01 |
 | 22 | [GOD IS GOOD](https://open.spotify.com/track/4SPycPiDl1PeFmwp7QPXRc) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 3:27 |
 | 23 | [NO L's](https://open.spotify.com/track/3uLuxijlvrmMLcSHoplmol) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:27 |
-| 24 | [slow down](https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [slow down](https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG) | 2:50 |
-| 25 | [Altar](https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CRY](https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW) | 3:34 |
+| 24 | [Altar](https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CRY](https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW) | 3:34 |
+| 25 | [slow down](https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [slow down](https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG) | 2:50 |
 | 26 | [Thank You](https://open.spotify.com/track/28utdkpekXSsk9LSVjxnoh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Thank You](https://open.spotify.com/album/4JxaMl4zCyktWBBMPW2vod) | 2:24 |
 | 27 | [B.I.G.](https://open.spotify.com/track/5xrtWzNclWvxic98ryBeWD) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II](https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs) | 2:47 |
 | 28 | [GOD'S GOT MY BACK](https://open.spotify.com/track/1hRNPO5VMUdIXijSs2DAgt) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 49 | [BREAK OF DAWN](https://open.spotify.com/track/5TpIzyD4RN5r8i8LiFAQtE) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:34 |
 | 50 | [YAHWEH](https://open.spotify.com/track/1OVbFAwbXXPKKMlLq8tKbW) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 3:05 |
 
-Snapshot ID: `atQMAAAAAAAJckPkh2Qubx0QLbnLOKhU`
+Snapshot ID: `atVdgAAAAADrut/0bwrbmpjh0TqLfY/5`

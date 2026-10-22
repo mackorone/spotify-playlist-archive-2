@@ -4,13 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/46nW9gotDIl5QFJjs5bRtA">NEA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-112 songs - 5 hr 53 min
+113 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Lover Like Me](https://open.spotify.com/track/11CpETSrp9Aso917ZYkzX8) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:52 | 2026-03-07 |  |
 | [All of Them](https://open.spotify.com/track/0uNcBFBisLrtcON9kiw2Oe) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [HARD FEELINGS](https://open.spotify.com/album/3VThjt3DkBA6MCIduJnp9Q) | 2:38 | 2026-03-07 |  |
-| [All They Wanna Be](https://open.spotify.com/track/2ffNvrXkSX5hNTCcDp0q9V) | [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42), [Caslin](https://open.spotify.com/artist/6We20xnlWq1e0X62ONbrFL) | [All They Wanna Be](https://open.spotify.com/album/2tzjglYB5QW3baeP7J9xHj) | 2:48 | 2026-03-07 |  |
+| [All They Wanna Be](https://open.spotify.com/track/2ffNvrXkSX5hNTCcDp0q9V) | [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42), [Caslin](https://open.spotify.com/artist/6We20xnlWq1e0X62ONbrFL) | [All They Wanna Be](https://open.spotify.com/album/2tzjglYB5QW3baeP7J9xHj) | 2:48 | 2026-03-07 | 2026-10-22 |
+| [All They Wanna Be](https://open.spotify.com/track/5Ya3lnJOifJpLiL0AE9nmf) | [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42), [Caslin](https://open.spotify.com/artist/6We20xnlWq1e0X62ONbrFL) | [All They Wanna Be](https://open.spotify.com/album/1JcrGshKiGsiZkdrPdTGp3) | 2:48 | 2026-10-21 |  |
 | [Andas \(feat\. Tove Styrke\)](https://open.spotify.com/track/5ZtdKERnY8g1YOOmwNDWwL) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq), [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Andas \(feat\. Tove Styrke\)](https://open.spotify.com/album/7lC8uCatBi0EskgKled77j) | 3:56 | 2026-03-07 |  |
 | [Barricade \- Radio Edit](https://open.spotify.com/track/0jFRZBZynRWrbWTwL3ro5B) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Barricade \(Radio Edit\)](https://open.spotify.com/album/5ahS2ztxwzLlgnW5R4LE5U) | 4:56 | 2026-03-07 |  |
 | [Best You've Ever Had](https://open.spotify.com/track/1etR1y1aHrUmaldnf1k69e) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Best You've Ever Had](https://open.spotify.com/album/7z04L7OM2bRDg9xut1xtcE) | 3:27 | 2026-03-07 |  |

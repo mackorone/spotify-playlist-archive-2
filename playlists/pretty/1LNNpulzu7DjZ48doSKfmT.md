@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 478 likes - 433 songs - 22 hr 40 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 479 likes - 436 songs - 22 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -441,5 +441,8 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 431 | [22 Settembre](https://open.spotify.com/track/3RficKMy181JNMFoV82XE8) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [22 Settembre](https://open.spotify.com/album/2rPJTpAO6Fvwn7athS4Jxn) | 4:06 |
 | 432 | [Donner Party / Sadly Forgotten](https://open.spotify.com/track/4pCIv4vfwZdrDLix4rQDCq) | [Massey's Cross](https://open.spotify.com/artist/44srOgIHTKwyOBmWW1tqkQ) | [Unbroken After the Storm](https://open.spotify.com/album/7wsDt2Eqn8EXfE6W22o1Lo) | 6:25 |
 | 433 | [Kamli](https://open.spotify.com/track/6U4JgXC2GVDF1Wbz1O50VY) | [Komb](https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc), [Maurya Sevak](https://open.spotify.com/artist/0xdqRvO8mc7jwRjfo4gqCs) | [Kamli](https://open.spotify.com/album/6On01aNRDqJP4JFv3LmQRQ) | 2:50 |
+| 434 | [DOIN BETTER](https://open.spotify.com/track/1LBehFbQVQFEttXb6eaNTg) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [DOIN BETTER](https://open.spotify.com/album/45bsUcyVXWCUNtYSGuIVqg) | 2:15 |
+| 435 | [Ride With Me](https://open.spotify.com/track/7iQ7QJL8FxybDfDx7JJd0N) | [Loco Mic](https://open.spotify.com/artist/5H9nGuCUsuQmKDtXHnY5FN), [Ghetto\-T.](https://open.spotify.com/artist/1wDpUIG9nc3sIFevt6h5Pp) | [Ride With Me](https://open.spotify.com/album/1l2VwfXWL66ueegxf4KpTn) | 3:14 |
+| 436 | [Trou à rats](https://open.spotify.com/track/3NgBSvEHicK5YbWVJm5SpT) | [Adanah](https://open.spotify.com/artist/6eG9vnRQdyCjQCfJnpC03N) | [Trou à rats](https://open.spotify.com/album/2LKZVUYfn2bhRLadPiOa5z) | 2:24 |
 
-Snapshot ID: `AAAeygelRQlnfnA0I/aoNlf36tLemc4D`
+Snapshot ID: `AAAezb8nS1GbkU+kCXKzMNonpR1YBSTW`

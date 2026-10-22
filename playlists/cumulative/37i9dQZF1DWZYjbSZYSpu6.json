@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Epik High, DAVICHI)",
+  "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Crush)",
   "name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "tracks": [
     {
@@ -1867,6 +1867,28 @@
     },
     {
       "album": {
+        "name": "Good For Me",
+        "url": "https://open.spotify.com/album/2rUsBSSmWBX3xP9eVCgfTc"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195046,
+      "name": "Good For Me (feat. pH-1)",
+      "url": "https://open.spotify.com/track/3P6os6uPcsqkXJri5zHfmK"
+    },
+    {
+      "album": {
         "name": "Good Person (2022)",
         "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
       },
@@ -2080,7 +2102,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 193263,
       "name": "I Wanna Be",
       "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
@@ -2876,7 +2898,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 150000,
       "name": "love me not (feat. Wonstein)",
       "url": "https://open.spotify.com/track/5wwLEmOTkShwvkzu621069"
@@ -4254,6 +4276,28 @@
       "duration_ms": 186666,
       "name": "See you - with Noair, Nason",
       "url": "https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo"
+    },
+    {
+      "album": {
+        "name": "seesaw (Feat. IU)",
+        "url": "https://open.spotify.com/album/6KbCtAZeKS65sKR6ElxnRs"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "seesaw (Feat. IU)",
+      "url": "https://open.spotify.com/track/3lTdjfpGVeYLeHfrczXw1a"
     },
     {
       "album": {

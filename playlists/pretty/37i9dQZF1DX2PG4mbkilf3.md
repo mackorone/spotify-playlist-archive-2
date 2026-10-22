@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > Your guide to R&B in Canada, with Jahson Paynter from Toronto, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,092 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,100 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 92 | [Don't Go Far](https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Don't Go Far](https://open.spotify.com/album/1ujn7USDCKuolHuK5UE8Fn) | 3:18 |
 | 93 | [96 Camry](https://open.spotify.com/track/6a40yy8ldfwr4YbO7DkfbF) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [PRAY FOR ME](https://open.spotify.com/album/3yZEEszzCOqgfBvehBC2Zs) | 3:15 |
 | 94 | [Greedy](https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Greedy](https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1) | 2:45 |
-| 95 | [Raw](https://open.spotify.com/track/4gVpr6S2aYVuNlfHg7iCrh) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Vandalizm](https://open.spotify.com/artist/1sTxSvbJ4mbDDZ77k391gt) | [Raw](https://open.spotify.com/album/7CjdYyY2OGDiB4ufweQR3R) | 3:03 |
+| 95 | [RAW](https://open.spotify.com/track/4gVpr6S2aYVuNlfHg7iCrh) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Vandalizm](https://open.spotify.com/artist/1sTxSvbJ4mbDDZ77k391gt) | [RAW](https://open.spotify.com/album/7CjdYyY2OGDiB4ufweQR3R) | 3:03 |
 | 96 | [ROCK & SLIDE](https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [FRIENDS](https://open.spotify.com/album/3y1nLsqq6RbF22AaJPzJdS) | 2:38 |
 | 97 | [SHOW ME LOVE \(feat\. Tory Lanez\)](https://open.spotify.com/track/37og4liez5wLRo5Rfe0ygo) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [SHOW ME LOVE \(feat\. Tory Lanez\)](https://open.spotify.com/album/4jZicC7cLLn9dQt4vGvtNh) | 2:07 |
 | 98 | [NEED IT](https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:39 |

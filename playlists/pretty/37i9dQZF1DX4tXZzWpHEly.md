@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,598 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,600 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 17 | [She's My Ute \- Remastered 2017](https://open.spotify.com/track/5Qi0HBS6QTQGr7RgEb4iDe) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 3:42 |
 | 18 | [Territory Time](https://open.spotify.com/track/6roCB2PRkDbuE6HFLMklAd) | [Tom Curtain](https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH) | [Territory Time](https://open.spotify.com/album/7a5eGe0BAUZptvWMQa6cYh) | 3:18 |
 | 19 | [Took the Children Away](https://open.spotify.com/track/2PolnevtHIyrxe6CjWYpXx) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 5:24 |
-| 20 | [Waltzing Matilda 2000](https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:50 |
+| 20 | [Raining on the Plains](https://open.spotify.com/track/4vh4gdpGssQbhyZXcyU8RW) | [Sara Storer](https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL), [John Williamson](https://open.spotify.com/artist/5fH1pefToSzsa6ZqG3LVOt) | [Beautiful Circle](https://open.spotify.com/album/4KNo99ec5fHrQk0ulmA2IM) | 3:08 |
 | 21 | [A Pub With No Beer \- 1979 Version](https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 3:00 |
 | 22 | [Damn Good Mates](https://open.spotify.com/track/2NrD87AMr1AuvjqM1R1Zjq) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 3:02 |
-| 23 | [Raining on the Plains](https://open.spotify.com/track/4vh4gdpGssQbhyZXcyU8RW) | [Sara Storer](https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL), [John Williamson](https://open.spotify.com/artist/5fH1pefToSzsa6ZqG3LVOt) | [Beautiful Circle](https://open.spotify.com/album/4KNo99ec5fHrQk0ulmA2IM) | 3:08 |
+| 23 | [Waltzing Matilda 2000](https://open.spotify.com/track/3xHpEd9vn7tPjbWpS79VeU) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Anthems \- A Celebration of Australia](https://open.spotify.com/album/2P5hfHC2zNLTYhpPTIfMGy) | 3:50 |
 | 24 | [Poor Ned](https://open.spotify.com/track/4aSk8MQdAmmKxIUB2V5fMP) | [Redgum](https://open.spotify.com/artist/2FBQIV8BJF5SrvXpziFE2M) | [If You Don't Fight You Lose](https://open.spotify.com/album/1Yrh3gRy435sieNCUzsADr) | 2:46 |
 | 25 | [Down On The Farm](https://open.spotify.com/track/5ukfBO88Eu4HikT5ZyS0gQ) | [James Blundell](https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD) | [This Road](https://open.spotify.com/album/20NV9L9jQeEHwaUgKVnXIy) | 3:56 |
 | 26 | [Swingin' Door](https://open.spotify.com/track/1hOmOZUQ9d7GmlXr0p3QQK) | [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ) | [Too Far Gone](https://open.spotify.com/album/5C7S5okhC9fxrsnMaMfBpd) | 3:45 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 71 | [My Hometown](https://open.spotify.com/track/1islrJG5v7TIwGIl5xOdyp) | [The Viper Creek Band](https://open.spotify.com/artist/0V0iGpPvQ1BdTHvGBaxn9Y) | [Kickin' Up Dust](https://open.spotify.com/album/5W5mmNSOK53lh0WyqPVIeW) | 3:47 |
 | 72 | [A Little Further North](https://open.spotify.com/track/77lErsyeAfTywgOud05g8E) | [Graeme Connors](https://open.spotify.com/artist/10nZL5iEI60Z11z1BUtfRj) | [The Best..\. 'Til Now \(Limited Edition\)](https://open.spotify.com/album/2DLR5EGBku28shSTYrwOHM) | 3:38 |
 | 73 | [Better Days](https://open.spotify.com/track/7eGt8dg46ni1LGK82034MJ) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [The Good Life](https://open.spotify.com/album/0o8Ylc1KfRnV1nv41BCP2c) | 3:52 |
-| 74 | [Koori Rose](https://open.spotify.com/track/6fSuXbKHvfjPgsnbre7oJo) | [Roger Knox](https://open.spotify.com/artist/3SGB83kV2y4Ij3dvVBOFBb) | [Warrior In Chains \- The Best of Roger Knox](https://open.spotify.com/album/1xNjcw2H6Lm5LmZRaZ7nzS) | 2:36 |
-| 75 | [Get Loud](https://open.spotify.com/track/5eJCHC6NaH5pXHqSu6Kdrk) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:54 |
+| 74 | [Get Loud](https://open.spotify.com/track/5eJCHC6NaH5pXHqSu6Kdrk) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:54 |
+| 75 | [Koori Rose](https://open.spotify.com/track/6fSuXbKHvfjPgsnbre7oJo) | [Roger Knox](https://open.spotify.com/artist/3SGB83kV2y4Ij3dvVBOFBb) | [Warrior In Chains \- The Best of Roger Knox](https://open.spotify.com/album/1xNjcw2H6Lm5LmZRaZ7nzS) | 2:36 |
 | 76 | [Rusty Strings](https://open.spotify.com/track/3aRnNQap5z6RQ4yvgfmpab) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Rusty Strings](https://open.spotify.com/album/6c5EKjVzwqVaB1Vf9pyhAG) | 3:24 |
 | 77 | [Let The Canefields Burn](https://open.spotify.com/track/7jEIw0bDHTL17fQjaBOLwI) | [Graeme Connors](https://open.spotify.com/artist/10nZL5iEI60Z11z1BUtfRj) | [The Best..\. 'Til Now \(Limited Edition\)](https://open.spotify.com/album/2DLR5EGBku28shSTYrwOHM) | 5:06 |
-| 78 | [Porch Party](https://open.spotify.com/track/44Ae2IWeBeIEttzi2qSbWi) | [Jayne Denham](https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ), [Jasmine Rae](https://open.spotify.com/artist/1k5Ro7O3YAzrVIZZYWrkjm), [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [Porch Party](https://open.spotify.com/album/4dN96MKeLKFisTM0ZAHE4c) | 3:21 |
-| 79 | [Storm Rollin In](https://open.spotify.com/track/1ybsvweyxqw2FSgGUaOPI5) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Country Heart](https://open.spotify.com/album/66GkKTkJU3PiDbXGp8H8it) | 2:42 |
-| 80 | [Dirt Track Cowboys](https://open.spotify.com/track/6h6lmoL3DyP2oujHiV02CI) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 2:53 |
+| 78 | [Storm Rollin In](https://open.spotify.com/track/1ybsvweyxqw2FSgGUaOPI5) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Country Heart](https://open.spotify.com/album/66GkKTkJU3PiDbXGp8H8it) | 2:42 |
+| 79 | [Dirt Track Cowboys](https://open.spotify.com/track/6h6lmoL3DyP2oujHiV02CI) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 2:53 |
+| 80 | [Porch Party](https://open.spotify.com/track/44Ae2IWeBeIEttzi2qSbWi) | [Jayne Denham](https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ), [Jasmine Rae](https://open.spotify.com/artist/1k5Ro7O3YAzrVIZZYWrkjm), [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [Porch Party](https://open.spotify.com/album/4dN96MKeLKFisTM0ZAHE4c) | 3:21 |
 
 Snapshot ID: `AAAAABCsGUBepAGbNSY8/haxgq4Rm2nB`

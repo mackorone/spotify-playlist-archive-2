@@ -1,6 +1,6 @@
 {
   "description": "The whole truth. Cover: Rick Ross",
-  "num_followers": 269600,
+  "num_followers": 269588,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
@@ -651,18 +651,22 @@
     {
       "added_at": "2026-07-16 23:00:27",
       "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 193054,
-      "name": "GIMME A HUG",
-      "url": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
+      "duration_ms": 184789,
+      "name": "CHAMPAIN & VACAY",
+      "url": "https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh"
     },
     {
       "added_at": "2026-07-16 23:00:27",
@@ -687,22 +691,18 @@
     {
       "added_at": "2026-07-16 23:00:27",
       "album": {
-        "name": "JACKBOYS 2",
-        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 184789,
-      "name": "CHAMPAIN & VACAY",
-      "url": "https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh"
+      "duration_ms": 193054,
+      "name": "GIMME A HUG",
+      "url": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
     },
     {
       "added_at": "2026-07-16 23:00:27",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-07-16 23:00:27",
       "album": {
-        "name": "Legends (with Lil Baby)",
-        "url": "https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 181448,
-      "name": "Legends (with Lil Baby)",
-      "url": "https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29"
-    },
-    {
-      "added_at": "2026-07-16 23:00:27",
-      "album": {
         "name": "THY KINGDOM COME",
         "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 223951,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/1IWDzlzjmhKZQp3dqXfv6W"
+    },
+    {
+      "added_at": "2026-07-16 23:00:27",
+      "album": {
+        "name": "Legends (with Lil Baby)",
+        "url": "https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 181448,
+      "name": "Legends (with Lil Baby)",
+      "url": "https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29"
     },
     {
       "added_at": "2026-07-16 23:00:27",

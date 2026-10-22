@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,334 likes - 164 songs - 9 hr 45 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,335 likes - 168 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,5 +172,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 162 | [Moe](https://open.spotify.com/track/2zlZ0kj1YVQKbLp1DDnK6v) | [Vain](https://open.spotify.com/artist/4tRzcUW6cv8dwq9ZzI4RAS) | [Moe](https://open.spotify.com/album/54DSmH0nbBMhQGyLr3CTFO) | 2:24 |
 | 163 | [Timewasters](https://open.spotify.com/track/56G3Tk04fSDDi4foq9PGvX) | [Worldview](https://open.spotify.com/artist/53AOSoE3dHnIV5IO2F1A0J) | [Timewasters](https://open.spotify.com/album/60UHrTyIUWd2vJGCJzhkao) | 3:50 |
 | 164 | [Nubes de mar](https://open.spotify.com/track/0wsohHhxVmY7ojKKmmDyLP) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [Nubes de mar](https://open.spotify.com/album/1RLDfTkHUl72KfEIhoEI0y) | 3:31 |
+| 165 | [Red Rain](https://open.spotify.com/track/67i89p0Q3Y7HX9BjmFOdeo) | [DOXAN](https://open.spotify.com/artist/5X246ObvluQlKKfjS2nZVJ) | [Red Rain](https://open.spotify.com/album/3VGG30u0pIwat7mYrvvOlb) | 5:30 |
+| 166 | [Wahrheit ans Licht](https://open.spotify.com/track/1AbQJmLZW93wmrIFtabzE8) | [Co2y](https://open.spotify.com/artist/2GITK1XRzRP2yGvL9SKSPd) | [Wahrheit ans Licht](https://open.spotify.com/album/1nhJtT23NZ7dpvdZ0o0dNw) | 3:27 |
+| 167 | [Sollie Sossa Rocka](https://open.spotify.com/track/4XK3kKEsHftEFEX1WRscRV) | [sol/mond](https://open.spotify.com/artist/0dTgBUJQrNRQHbzRQ6BGi2) | [Sollie Sossa Rocka](https://open.spotify.com/album/7pgCmVfCyVd30NkFZs8cTR) | 2:54 |
+| 168 | [How Do We Make Sure This Never Happens Again?](https://open.spotify.com/track/4PI1sKx9ofytpdRoRUgaTR) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [How Do We Make Sure This Never Happens Again?](https://open.spotify.com/album/3wGwzIXIg3WSOyp3B0ZLfs) | 3:01 |
 
-Snapshot ID: `AAAYwn95ZLURHZW3iFlMapyxhwsn5KaM`
+Snapshot ID: `AAAYxokjOQWv5ZhDPG1x8XcA/VSYvE/D`

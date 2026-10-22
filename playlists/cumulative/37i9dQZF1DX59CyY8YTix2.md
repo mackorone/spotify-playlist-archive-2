@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ハク。
 
-2,105 songs - 5 day 10 hr 18 min
+2,106 songs - 5 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Blue Hole](https://open.spotify.com/track/0nQu8qwZKAhfrbnGidJTDR) | [p/asma](https://open.spotify.com/artist/6Q1YKEC7u7P5Oc2ElTecR1) | [Color of Water](https://open.spotify.com/album/0jiePMk8x0QuV3q3tWJPig) | 4:59 | 2023-12-12 | 2024-01-10 |
 | [BMO](https://open.spotify.com/track/4Hc8BOyRbkQ3g9uZjsRgcM) | [BLUEVALLEY](https://open.spotify.com/artist/54sxCJUMzlGdftpwHE5DJW) | [BMO](https://open.spotify.com/album/7lfTM0jzGrk9eBnkEsybJA) | 3:39 | 2024-01-16 | 2024-02-07 |
 | [Bouquet](https://open.spotify.com/track/6AEiVvowy0FhIACwS9BROM) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [GLHF](https://open.spotify.com/album/5UosEfWZJZ7ol7WLerlTNq) | 3:35 | 2026-04-21 | 2026-08-10 |
-| [Bouquet](https://open.spotify.com/track/05ye2p3KzCb5U3yO0pm2Df) | [NELKE](https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG) | [Bouquet](https://open.spotify.com/album/0zS093L9kzNadSjy9fjTHL) | 3:32 | 2026-03-31 |  |
+| [Bouquet](https://open.spotify.com/track/05ye2p3KzCb5U3yO0pm2Df) | [NELKE](https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG) | [Bouquet](https://open.spotify.com/album/0zS093L9kzNadSjy9fjTHL) | 3:32 | 2026-03-31 | 2026-10-22 |
 | [Boy Boy](https://open.spotify.com/track/5xbOo5WvO0uYslwOH53Qu8) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [逆鱗](https://open.spotify.com/album/45TO32iipCiJXSAnhZOS5j) | 3:09 | 2025-12-23 | 2026-03-03 |
 | [Boys](https://open.spotify.com/track/2JFnPK8zBNEQ1c7Z1XOk9P) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [Boys](https://open.spotify.com/album/0qLkcCZm48PFDPLU4ZzGAX) | 3:54 | 2023-03-16 | 2023-04-05 |
 | [Boys, be ambitious](https://open.spotify.com/track/4vcHIzIDBsUllvqneWA6kD) | [TOKYO SHIOKOUJI](https://open.spotify.com/artist/0bnrNhhm8syLjMDOzqO0BL), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Boys, be ambitious](https://open.spotify.com/album/6aGMeoHhzvc5VIPtu3evWW) | 4:16 | 2023-01-17 | 2023-01-25 |
@@ -1656,6 +1656,7 @@
 | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/track/5Us9nHV0bOYJI7uh3wJQFf) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/album/5zEchapHbkbcP85WGzHBwi) | 3:38 | 2023-04-24 | 2024-10-02 |
 | [君はいなせなガール](https://open.spotify.com/track/3QFzoUHBlSLAA7RMR4umgU) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws), [日本松 ひとみ](https://open.spotify.com/artist/2HewoxIYwiA5DoOk4rFgNc) | [君はいなせなガール](https://open.spotify.com/album/0a8wJacfTpSenRSb4TCrNC) | 4:22 | 2022-06-07 | 2022-07-24 |
 | [吸って、吐いて](https://open.spotify.com/track/1jDkBxbUhmgQ0MJ8N2Sjcy) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [後日改めて伺います](https://open.spotify.com/album/5j9v6cG9gytC1hmNj0Zmmb) | 3:44 | 2022-06-16 | 2022-07-16 |
+| [呼びすて](https://open.spotify.com/track/0NsG8pKxHHaVPnvHf1Rqtf) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [呼びすて](https://open.spotify.com/album/6JPAfMvKxccCGS7LPVowxE) | 3:14 | 2026-10-14 |  |
 | [命短し対する乙女よ](https://open.spotify.com/track/3uXfyndmsK3fRNSMr7uWrI) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [命短し対する乙女よ](https://open.spotify.com/album/5bHN3dSjlEq7AX09q4U9dC) | 3:48 | 2026-07-07 |  |
 | [命短し食せよオコメ](https://open.spotify.com/track/330cZ4f0wqRsYY4Wfj7w8O) | [輪廻](https://open.spotify.com/artist/3KePD29FOQughZmXqHlt0v) | [命短し食せよオコメ](https://open.spotify.com/album/2rsLQl4wiTNoRJNNcnMIHI) | 3:43 | 2023-02-16 | 2023-02-22 |
 | [嘘つき](https://open.spotify.com/track/73gJibteNALC9uRzG2BQcT) | [Nanashi no Taro](https://open.spotify.com/artist/32xxJA5U8ot0QZPDllZ1po) | [嘘つき](https://open.spotify.com/album/3pLLHOC633736VHNrPZyUu) | 3:46 | 2024-03-19 | 2024-03-27 |

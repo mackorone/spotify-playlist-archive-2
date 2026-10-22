@@ -1,6 +1,6 @@
 {
   "description": "Zwolnij tempo i daj si\u0119 otuli\u0107 jesiennym brzmieniom. \ud83c\udf42\ud83c\udf83\u2615",
-  "num_followers": 344666,
+  "num_followers": 344712,
   "original_name": "Jesienny chill",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-10-16 10:33:20",
       "album": {
-        "name": "Perfect Man",
-        "url": "https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 213690,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
-    },
-    {
-      "added_at": "2026-10-16 10:33:20",
-      "album": {
         "name": "Unloveu",
         "url": "https://open.spotify.com/album/58745aGSmbG4rHAxveiJww"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 232527,
       "name": "Unloveu",
       "url": "https://open.spotify.com/track/51jUUdOdGqf0VeGtFOTbRe"
+    },
+    {
+      "added_at": "2026-10-16 10:33:20",
+      "album": {
+        "name": "Perfect Man",
+        "url": "https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 213690,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
     },
     {
       "added_at": "2026-10-16 10:33:20",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-10-16 10:33:20",
       "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 262896,
-      "name": "FF",
-      "url": "https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo"
-    },
-    {
-      "added_at": "2026-10-16 10:33:20",
-      "album": {
         "name": "tylko kochaj mnie",
         "url": "https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 161342,
       "name": "tylko kochaj mnie",
       "url": "https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ"
+    },
+    {
+      "added_at": "2026-10-16 10:33:20",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/5lxMKFdNAshWkJZsqr1FYD"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 262896,
+      "name": "FF",
+      "url": "https://open.spotify.com/track/5WJSOTl4LAuEipWkTMPSYo"
     },
     {
       "added_at": "2026-10-16 10:33:20",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2026-10-16 10:33:20",
       "album": {
-        "name": "Chcia\u0142bym urodzi\u0107 si\u0119 \u017ceby lata\u0142em",
-        "url": "https://open.spotify.com/album/1XvO6cGRXpNZWyk6bTHN0a"
+        "name": "\u017beremie",
+        "url": "https://open.spotify.com/album/7gOWyyB6lrWqFPOWEJkCGA"
       },
       "artists": [
         {
-          "name": "Artur Rojek",
-          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
+          "name": "Igor Herbut",
+          "url": "https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX"
         }
       ],
-      "duration_ms": 151306,
-      "name": "W dziale na S",
-      "url": "https://open.spotify.com/track/6FMQvAhWw7jLanJZIGgXM3"
+      "duration_ms": 228336,
+      "name": "Wagoniki",
+      "url": "https://open.spotify.com/track/218RVrFkpsNNX58I5kPdlQ"
     }
   ],
   "unique_name": "Jesienny chill",

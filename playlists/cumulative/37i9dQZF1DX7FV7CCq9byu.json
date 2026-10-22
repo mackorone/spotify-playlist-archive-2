@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "THAT'S SHOWBIZ BABY!",
+        "url": "https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197640,
+      "name": "Angel Of My Dreams",
+      "url": "https://open.spotify.com/track/3Zu0AWO9PN2lP2kCls5mkq"
+    },
+    {
+      "album": {
         "name": "Pink Velvet Theatre",
         "url": "https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb?si=710133cab8124f1b"> PJ</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,766 likes - 113 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,846 likes - 113 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 24 | [Luckiest Of All](https://open.spotify.com/track/3qrVcWdyFrAZMnhzHbNe9K) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [MARIE](https://open.spotify.com/album/7pHLR7D64gIh3hgpT0W1Wd) | 3:10 |
 | 25 | [\(+44\)](https://open.spotify.com/track/4CpCjWAFFlH0piLysyzoQh) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [\(+44\)](https://open.spotify.com/album/6GUop2qCRSCzAwHQD2a9Ex) | 3:30 |
 | 26 | [Angel Baby](https://open.spotify.com/track/0aHvsQDVWgIV6BIGvKvGwT) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [Angel Baby](https://open.spotify.com/album/3O7mxIuOHBX9yzNe583FyQ) | 2:16 |
-| 27 | [WHEREVER U ARE](https://open.spotify.com/track/2P9YlpNcAKn3aRjxCK3zMC) | [MIRIAH.](https://open.spotify.com/artist/2Znyc6i6KrQLwJ5xGxoFxB) | [WHEREVER U ARE](https://open.spotify.com/album/4smV1wt6uKbmiHjayeWn92) | 3:23 |
+| 27 | [WHEREVER U ARE](https://open.spotify.com/track/2P9YlpNcAKn3aRjxCK3zMC) | [MIRIAH](https://open.spotify.com/artist/2Znyc6i6KrQLwJ5xGxoFxB) | [WHEREVER U ARE](https://open.spotify.com/album/4smV1wt6uKbmiHjayeWn92) | 3:23 |
 | 28 | [We've Been Runnin'](https://open.spotify.com/track/6gbZW4RRyeL4Jb7pJgTMGr) | [ZADA](https://open.spotify.com/artist/6xUGLRA9ZV9aSKyGgqR6Uq) | [Heart of a Lion](https://open.spotify.com/album/5sNO3tWsWqbXluajITZZqQ) | 3:08 |
 | 29 | [Be myself](https://open.spotify.com/track/2W2mdRMEWaPfPobNuu1s7W) | [SEHB](https://open.spotify.com/artist/2N8j4lbdTWm0mcvq7qk4Xp) | [Be myself](https://open.spotify.com/album/4T4aAFru13MNEb6ngdJ7jf) | 4:35 |
 | 30 | [How Come](https://open.spotify.com/track/4OQ1mmUc7nd8BsPwU1IWVm) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [How Come](https://open.spotify.com/album/4nLWmAU5nlSraNhcvL6FCo) | 3:33 |

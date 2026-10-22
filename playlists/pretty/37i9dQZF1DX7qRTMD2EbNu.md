@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Itz Tiffany
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,244 likes - 86 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,256 likes - 86 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

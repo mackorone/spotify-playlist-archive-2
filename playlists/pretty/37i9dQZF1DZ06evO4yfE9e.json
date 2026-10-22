@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2978,
+  "num_followers": 2977,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAADVvmbvQPCMub8rwytgz/Wy",
+  "snapshot_id": "atVdgAAAAADe7IrHiE9iNeOvanV1iK+O",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 158996,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watch Me",
         "url": "https://open.spotify.com/album/4SpyKfOIcYmiXvxLU6co2X"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 137647,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/34pjQ4XCtI9gX83heBGuw6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 158996,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
         }
       ],
-      "duration_ms": 152418,
-      "name": "bubblegum pink",
-      "url": "https://open.spotify.com/track/6rRXZ8p3c7fMrayNYz296C"
+      "duration_ms": 140743,
+      "name": "sex toy",
+      "url": "https://open.spotify.com/track/19ksJ9fzQYvTQjRR6o743N"
     },
     {
       "added_at": null,

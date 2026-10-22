@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: KAPO. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: JAY. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -2679,6 +2679,28 @@
     },
     {
       "album": {
+        "name": "Fe Sanya",
+        "url": "https://open.spotify.com/album/5j42zMV14YHBsdj6XsqkVu"
+      },
+      "artists": [
+        {
+          "name": "Hasnaa",
+          "url": "https://open.spotify.com/artist/6SKtCxfqVRlTtxKZOlh6H6"
+        },
+        {
+          "name": "el-Maghrabi",
+          "url": "https://open.spotify.com/artist/2cyinXFWqn5knXAPkwxznJ"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Fe Sanya",
+      "url": "https://open.spotify.com/track/6aigpacaG47ZngBSVckCh8"
+    },
+    {
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/6I9D29zt85tVe5crIRbjYr"
       },
@@ -3012,7 +3034,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 122553,
       "name": "God bless",
       "url": "https://open.spotify.com/track/6InRnKEvD7AuwlLMeH1IJE"
@@ -4950,7 +4972,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 222812,
       "name": "Lwad Wadi",
       "url": "https://open.spotify.com/track/6TVOld6LKKDZxIgFLp7gaE"
@@ -5110,6 +5132,24 @@
       "duration_ms": 153688,
       "name": "Magnesium",
       "url": "https://open.spotify.com/track/4eapcfPXRl0kRoFOrJl0On"
+    },
+    {
+      "album": {
+        "name": "Mahontsh",
+        "url": "https://open.spotify.com/album/4VJpurmVFbMEZc9QEzGbuo"
+      },
+      "artists": [
+        {
+          "name": "JAY",
+          "url": "https://open.spotify.com/artist/4yiApEsX6J6PygGNtyRdoe"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Mahontsh",
+      "url": "https://open.spotify.com/track/5YwqzqGDFcP7gDCMDq4BVY"
     },
     {
       "album": {
@@ -7041,6 +7081,28 @@
     },
     {
       "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/2uI4qM6Z4WXGK1b2VWVUsf"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u064a\u0644\u0648",
+          "url": "https://open.spotify.com/artist/3mXE7BL3H3oCL16lpDtycN"
+        },
+        {
+          "name": "Andrew Amir",
+          "url": "https://open.spotify.com/artist/7fTioWTi2v7zik4MMkHRsC"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140326,
+      "name": "RADAR",
+      "url": "https://open.spotify.com/track/06McU6WqFd04gcP7OT64e4"
+    },
+    {
+      "album": {
         "name": "RADAR",
         "url": "https://open.spotify.com/album/6q0mtfCvxzMQVL64cWAnOs"
       },
@@ -8930,7 +8992,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 191735,
       "name": "Wein Hal Ghaybe",
       "url": "https://open.spotify.com/track/5utpreqHOAzJr8mdgW1Dp5"
@@ -9533,6 +9595,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u062f\u0646\u064a\u0627 \u062d\u0644\u0648\u0629",
+        "url": "https://open.spotify.com/album/6rRZktFBhMdgRN6R5Xr8fs"
+      },
+      "artists": [
+        {
+          "name": "Crashendo",
+          "url": "https://open.spotify.com/artist/2zC5ghA71eHQekiHCaLolD"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213923,
+      "name": "\u0627\u0644\u062f\u0646\u064a\u0627 \u062d\u0644\u0648\u0629",
+      "url": "https://open.spotify.com/track/3dL0SPbACIYAXkMpjuVGm6"
+    },
+    {
+      "album": {
         "name": "\u062f\u0631\u0628 \u0661\u0667",
         "url": "https://open.spotify.com/album/2ZEfwK5SBnuRBXZcnbxgKX"
       },
@@ -9944,7 +10024,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 178681,
       "name": "\u0634\u0637 \u062c\u062f\u064a\u062f (a new shore)",
       "url": "https://open.spotify.com/track/1ADCd0jpnbySVqVGvb1paM"

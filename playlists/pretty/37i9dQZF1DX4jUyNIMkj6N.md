@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,560 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,585 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,18 +46,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 36 | [love isn't everything](https://open.spotify.com/track/75kGiT9k4Gor7JOBbl4QWi) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [love isn't everything](https://open.spotify.com/album/2GHPtoxe8P9I9fbbq8eG77) | 3:27 |
 | 37 | [Til the music starts again](https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1) | [Banna Sona Band](https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW) | [Til the music starts again](https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK) | 3:28 |
 | 38 | [Cemetery](https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 2:52 |
-| 39 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
-| 40 | [Raven](https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U) | [Harriet Nauer](https://open.spotify.com/artist/7ntzg1pA71vjzEhdSwYj3Q) | [Vampire Country](https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ) | 4:07 |
-| 41 | [Charity](https://open.spotify.com/track/5oKWegSnfRuQcmJH9C98UB) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Revelations of Divine Love](https://open.spotify.com/album/1uuBA9XmI7XeNKDynK0AK2) | 6:44 |
-| 42 | [I'd Like To See It](https://open.spotify.com/track/6oiT5eBtHPQc3FeCMTJMzU) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Evergreen In Your Mind](https://open.spotify.com/album/2bwZckPIXlpLmPCrs83RK2) | 4:18 |
-| 43 | [Closer Now With You](https://open.spotify.com/track/6AYzCA6Amw49cbWOMp09k8) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [By The Morning](https://open.spotify.com/album/2m7ZHEwziLuTtC0nBXujYe) | 4:45 |
-| 44 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 |
+| 39 | [Raven](https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U) | [Harriet Nauer](https://open.spotify.com/artist/7ntzg1pA71vjzEhdSwYj3Q) | [Vampire Country](https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ) | 4:07 |
+| 40 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
+| 41 | [I'd Like To See It](https://open.spotify.com/track/6oiT5eBtHPQc3FeCMTJMzU) | [Juni Habel](https://open.spotify.com/artist/2Kn9TqqVY8YLi0ijUAAQqZ) | [Evergreen In Your Mind](https://open.spotify.com/album/2bwZckPIXlpLmPCrs83RK2) | 4:18 |
+| 42 | [Charity](https://open.spotify.com/track/5oKWegSnfRuQcmJH9C98UB) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Revelations of Divine Love](https://open.spotify.com/album/1uuBA9XmI7XeNKDynK0AK2) | 6:44 |
+| 43 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 |
+| 44 | [Closer Now With You](https://open.spotify.com/track/6AYzCA6Amw49cbWOMp09k8) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [By The Morning](https://open.spotify.com/album/2m7ZHEwziLuTtC0nBXujYe) | 4:45 |
 | 45 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 |
 | 46 | [member](https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [member](https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE) | 3:07 |
 | 47 | [Rusletur](https://open.spotify.com/track/0UcIJPL1K8fYZoLvArSO3g) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Til hverdagen tar oss igjen](https://open.spotify.com/album/2sCBn5AwUYBHDvr0I7euw9) | 3:23 |
 | 48 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 |
-| 49 | [Bonnie](https://open.spotify.com/track/4dSqTRVLTyLPEjlxqBcmde) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Bonnie](https://open.spotify.com/album/3XVNLt1yYmEnxqkVgwTmoP) | 3:05 |
-| 50 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
+| 49 | [fare thee well](https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:23 |
+| 50 | [Bonnie](https://open.spotify.com/track/4dSqTRVLTyLPEjlxqBcmde) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Bonnie](https://open.spotify.com/album/3XVNLt1yYmEnxqkVgwTmoP) | 3:05 |
 | 51 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 |
 | 52 | [Evigheten nærmer seg](https://open.spotify.com/track/5pYxllxzdm368L57cbzGIq) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Evigheten nærmer seg](https://open.spotify.com/album/77RXk1VrQ9aDWIWcGfnipX) | 2:51 |
 | 53 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 57 | [Til hverdagen tar oss igjen](https://open.spotify.com/track/7sEtrKKZjXd3OgIeMi0e3w) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Til hverdagen tar oss igjen](https://open.spotify.com/album/1QfiYSZcs3ezTBfv5KZn5U) | 3:42 |
 | 58 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |
 | 59 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
-| 60 | [The Arms Of You](https://open.spotify.com/track/37FTd4rCyFV9qLmxlF0fFY) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [The Arms Of You](https://open.spotify.com/album/549YvrnPbw6IUBBqJzhH43) | 2:50 |
+| 60 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
 
 Snapshot ID: `AAAAAPI/cbrx8+A3k8eKeBHljlFy4K0O`

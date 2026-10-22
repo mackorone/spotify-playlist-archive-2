@@ -1,6 +1,6 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1853960,
+  "num_followers": 1853827,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-10-08 21:26:35",
       "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Sauvignon Blanc",
+      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
+    },
+    {
+      "added_at": "2026-10-08 21:26:35",
+      "album": {
         "name": "Lejos de la Ciudad (con Camilo)",
         "url": "https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 187358,
       "name": "Lejos de la Ciudad - con Camilo",
       "url": "https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9"
-    },
-    {
-      "added_at": "2026-10-08 21:26:35",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Sauvignon Blanc",
-      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
     },
     {
       "added_at": "2026-10-08 21:26:35",

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 1494032,
+  "num_followers": 1494482,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Return of the Mack",
         "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 213093,
       "name": "Return of the Mack",
       "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
-      },
-      "artists": [
-        {
-          "name": "2 Brothers On The 4th Floor",
-          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Dreams (Will Come Alive)",
-      "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 224000,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
+      },
+      "artists": [
+        {
+          "name": "2 Brothers On The 4th Floor",
+          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Dreams (Will Come Alive)",
+      "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "Doctor Jones",
-      "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Music For The People",
         "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 269306,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "Doctor Jones",
+      "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Poison (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi"
-      },
-      "artists": [
-        {
-          "name": "Bell Biv DeVoe",
-          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 277293,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Poison (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi"
+      },
+      "artists": [
+        {
+          "name": "Bell Biv DeVoe",
+          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "Pump Up The Jam",
+        "url": "https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4"
+      },
+      "artists": [
+        {
+          "name": "Technotronic",
+          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
+        }
+      ],
+      "duration_ms": 337093,
+      "name": "Get Up (Before The Night Is Over)",
+      "url": "https://open.spotify.com/track/2MOOJh1xUgND4rLjB6h4jY"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "Like The Deserts Miss The Rain",
         "url": "https://open.spotify.com/album/3fZbJRKdX4TAoC43xo5kWK"
       },
@@ -2235,22 +2251,6 @@
       "duration_ms": 238706,
       "name": "That Don't Impress Me Much",
       "url": "https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "Pump Up The Jam",
-        "url": "https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4"
-      },
-      "artists": [
-        {
-          "name": "Technotronic",
-          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
-        }
-      ],
-      "duration_ms": 337093,
-      "name": "Get Up (Before The Night Is Over)",
-      "url": "https://open.spotify.com/track/2MOOJh1xUgND4rLjB6h4jY"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Motownphilly",
-      "url": "https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Doctor Adamski\u2019s Musical Pharmacy",
         "url": "https://open.spotify.com/album/4tr6huX1QRgVJ8KEFsAKd7"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 250760,
       "name": "Killer",
       "url": "https://open.spotify.com/track/5jhDeobWatA1XAHWKOWPh2"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Motownphilly",
+      "url": "https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8"
     },
     {
       "added_at": "2024-07-12 16:20:49",

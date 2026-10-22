@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dPrdS.md) - [plain]
 
 > This is Spice Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,959 likes - 41 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,957 likes - 41 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,18 +36,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dPrdS.md) - [plain]
 | 26 | [Outer Space Girls](https://open.spotify.com/track/1XHosFpKcWkRtuxPQm0HnO) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 3:58 |
 | 27 | [Tell Me Why](https://open.spotify.com/track/0r5d5LmhLQwJVEw0kTEExp) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:14 |
 | 28 | [Step To Me \- 7'' Mix](https://open.spotify.com/track/2HKwRUW59jYY7AAHOsIswy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Step To Me \(7" Mix\)](https://open.spotify.com/album/3Z83WnXSVFZl0yLJZhQR5Z) | 4:05 |
-| 29 | [Take Me Home](https://open.spotify.com/track/7sD27Faicv7OAEwFDcw09V) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 4:07 |
+| 29 | [Bumper To Bumper](https://open.spotify.com/track/4pMxscJWCWu5HjnomOGaa7) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Wannabe](https://open.spotify.com/album/18chSYUxefaj4wwJX6CK6x) | 3:42 |
 | 30 | [Walk Of Life](https://open.spotify.com/track/4zlUwX3UTWZe6CthxuMpSM) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 4:16 |
-| 31 | [Bumper To Bumper](https://open.spotify.com/track/4pMxscJWCWu5HjnomOGaa7) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Wannabe](https://open.spotify.com/album/18chSYUxefaj4wwJX6CK6x) | 3:42 |
+| 31 | [Take Me Home](https://open.spotify.com/track/7sD27Faicv7OAEwFDcw09V) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 4:07 |
 | 32 | [Baby Come Round](https://open.spotify.com/track/6OsISsKgpUCAmrxp71S7SD) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Mama / Who Do You Think You Are](https://open.spotify.com/album/0CsutAVtCmXujiHBIJXttN) | 3:24 |
 | 33 | [Feed Your Love \- Demo](https://open.spotify.com/track/7aKBMW87CsSfE5GJB8rOHF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Wannabe 25](https://open.spotify.com/album/1tFyfGyTsrI95m2xBUjczL) | 5:13 |
 | 34 | [Spice Girls Party Mix](https://open.spotify.com/track/0b6QDY3DSV733KWYX6yWTU) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 14:44 |
 | 35 | [Ain't No Stopping Us Now](https://open.spotify.com/track/3dtI8i1u14msA8noqVucZ2) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Stop](https://open.spotify.com/album/2SkOJGyLKB4B7u4LBQXnGl) | 4:56 |
-| 36 | [One Of These Girls](https://open.spotify.com/track/7a901tm0xql6ytmNPIkS1C) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 3:33 |
-| 37 | [We Are Family \- Live](https://open.spotify.com/track/0SnF7B4aTiEg1xRsWeqcWe) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG) | 3:34 |
+| 36 | [We Are Family \- Live](https://open.spotify.com/track/0SnF7B4aTiEg1xRsWeqcWe) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG) | 3:34 |
+| 37 | [One Of These Girls](https://open.spotify.com/track/7a901tm0xql6ytmNPIkS1C) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 3:33 |
 | 38 | [Spice Invaders](https://open.spotify.com/track/08DJaUZjWzdRhr9EIdEgg0) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice Up Your Life](https://open.spotify.com/album/4XIOBbf2ELRI4NHelbxRCq) | 3:38 |
 | 39 | [Seremos 1 Los 2 \- Versión En Español](https://open.spotify.com/track/6hcNd7nKFpTt06C754iIg0) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [2 Become 1](https://open.spotify.com/album/7hNNgDU4imUDX29rfuKBGO) | 3:50 |
-| 40 | [Spice Chat 2 “Shall We Say ‘Goodbye’ Then?’](https://open.spotify.com/track/3BDGPPDaW1dwVjOoLO5uPl) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 0:48 |
-| 41 | [Sisters \(Are Doing It For Themselves\) \- Live](https://open.spotify.com/track/0y2Zg6IkB3YhuA7ygudELZ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG) | 4:23 |
+| 40 | [Sisters \(Are Doing It For Themselves\) \- Live](https://open.spotify.com/track/0y2Zg6IkB3YhuA7ygudELZ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG) | 4:23 |
+| 41 | [Spice Chat 2 “Shall We Say ‘Goodbye’ Then?’](https://open.spotify.com/track/3BDGPPDaW1dwVjOoLO5uPl) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 0:48 |
 
-Snapshot ID: `atQMAAAAAABiIapP5k8nK43tmc5aCsje`
+Snapshot ID: `atVdgAAAAAB5OAmnCrNsCkOXwjtOCcsW`

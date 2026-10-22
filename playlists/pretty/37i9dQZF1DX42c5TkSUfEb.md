@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,069,995 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,069,930 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 35 | [Soon We'll Be Found](https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 4:20 |
 | 36 | [Jardin d'hiver](https://open.spotify.com/track/45gpJxviKRBsQo1lDZ03Xf) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La Biographie de Luka Philipsen](https://open.spotify.com/album/02o4ipeZALU4EG2RX6d4Ip) | 2:58 |
 | 37 | [waiting for me](https://open.spotify.com/track/7o34qMgjMGWjadKNH1cBvc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Ambiguous Desire \(Deluxe\)](https://open.spotify.com/album/7rbyJmp77Xj3utqDm71rWO) | 3:14 |
-| 38 | [The Meaning of Flowers](https://open.spotify.com/track/1xK0dhLmMpUlmLE2qRIPpM) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [The Meaning of Flowers](https://open.spotify.com/album/3FsljVr8Le5JiorxIQs3fB) | 3:54 |
-| 39 | [Feels Right](https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feels Right](https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj) | 3:09 |
-| 40 | [All I’ll Ever Need](https://open.spotify.com/track/7bb3TCpMOV3HC4Mo5WGRQP) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [We Were Only Young](https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF) | 2:15 |
+| 38 | [Feels Right](https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feels Right](https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj) | 3:09 |
+| 39 | [All I’ll Ever Need](https://open.spotify.com/track/7bb3TCpMOV3HC4Mo5WGRQP) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [We Were Only Young](https://open.spotify.com/album/4r0s2Z9J1e6HoKad1ieniF) | 2:15 |
+| 40 | [The Meaning of Flowers](https://open.spotify.com/track/1xK0dhLmMpUlmLE2qRIPpM) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [The Meaning of Flowers](https://open.spotify.com/album/3FsljVr8Le5JiorxIQs3fB) | 3:54 |
 | 41 | [Karaoke Bar](https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Karaoke Bar](https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa) | 3:24 |
 | 42 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 |
-| 43 | [Trying Times](https://open.spotify.com/track/52T8TTMESX21406wvTdQDY) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE) | 4:33 |
-| 44 | [The Pirate's Gospel](https://open.spotify.com/track/5azaaeLKtKevqs8u1XHRHI) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [The Pirate's Gospel \(Deluxe Edition\)](https://open.spotify.com/album/1rxMCeSrBGC5qf9di9gOJ6) | 2:55 |
-| 45 | [Sing](https://open.spotify.com/track/4dTf6qu0IVqLROkGCoM2yt) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Sing](https://open.spotify.com/album/1sjXusqnhkYsWmpeKxCaDS) | 6:11 |
+| 43 | [Sing](https://open.spotify.com/track/4dTf6qu0IVqLROkGCoM2yt) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Sing](https://open.spotify.com/album/1sjXusqnhkYsWmpeKxCaDS) | 6:11 |
+| 44 | [Trying Times](https://open.spotify.com/track/52T8TTMESX21406wvTdQDY) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE) | 4:33 |
+| 45 | [The Pirate's Gospel](https://open.spotify.com/track/5azaaeLKtKevqs8u1XHRHI) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [The Pirate's Gospel \(Deluxe Edition\)](https://open.spotify.com/album/1rxMCeSrBGC5qf9di9gOJ6) | 2:55 |
 | 46 | [New Soul](https://open.spotify.com/track/476JcJ3TpAuCOlGdCmomGm) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 3:45 |
 | 47 | [Only Gets Better](https://open.spotify.com/track/7ndD9CZzLSAyVWHGH1LytA) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Only Gets Better](https://open.spotify.com/album/1ZECACbWsbjf0MzKsZO0jC) | 3:54 |
 | 48 | [Island](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:03 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 90 | [Horizons Into Battlegrounds](https://open.spotify.com/track/1SSoLdnoptUGfs5kwgVQms) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Horizons Into Battlegrounds](https://open.spotify.com/album/72f1jbx4WSwyGxM9o5b28w) | 3:41 |
 | 91 | [City Walls](https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [City Walls](https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8) | 5:11 |
 | 92 | [Mindjeris De Panu Pretu](https://open.spotify.com/track/3HNoSnEbANwYxnEJhLCjJC) | [José Carlos Schwarz & Le Cobiana Djazz](https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO) | [Lua Ki Di Nos](https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm) | 4:31 |
-| 93 | [Paris\-Madrid](https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Paris\-Madrid](https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH) | 3:19 |
-| 94 | [autumn](https://open.spotify.com/track/5nQUv2ikT1ZomcjTOt4DzB) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [autumn](https://open.spotify.com/album/5UiNbnAfVXknFHgzaW3fTo) | 3:28 |
+| 93 | [autumn](https://open.spotify.com/track/5nQUv2ikT1ZomcjTOt4DzB) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [autumn](https://open.spotify.com/album/5UiNbnAfVXknFHgzaW3fTo) | 3:28 |
+| 94 | [Paris\-Madrid](https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Paris\-Madrid](https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH) | 3:19 |
 | 95 | [If Only](https://open.spotify.com/track/5R0H0SoA4ZMGhdOfZTFjHR) | [Aiden](https://open.spotify.com/artist/4hQe9URLHobODCosOur1Ma) | [If Only](https://open.spotify.com/album/7d05HveiLG4742vBLElcSE) | 3:06 |
 | 96 | [On dansera encore](https://open.spotify.com/track/3FxG5LgtVQdWxaahxkdJgm) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [On dansera encore](https://open.spotify.com/album/7MTGS8vjJPrGfkEJIZfLJo) | 3:02 |
 | 97 | [only human](https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [only human](https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm) | 3:34 |

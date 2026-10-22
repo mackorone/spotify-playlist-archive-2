@@ -4,7 +4,7 @@
 
 > This is Mariah Carey\. The essential tracks, all in one playlist.
 
-113 songs - 7 hr 37 min
+114 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Against All Odds \(Take A Look at Me Now\) \- Mariah Only](https://open.spotify.com/track/6PS1YRjdJ5Muakh2oh0UB2) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Against All Odds \(Take A Look at Me Now\) EP](https://open.spotify.com/album/3Jx6tgsjoX2oL7vqfnb89j) | 3:21 | 2023-07-28 | 2024-07-13 |
 | [All I Live For \- Extended Version](https://open.spotify.com/track/5DONusVYuZizlOE1Ieleot) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box: 30th Anniversary Edition](https://open.spotify.com/album/1GzBLltCCKsiIJM3T3AWj3) | 4:28 | 2023-09-18 | 2023-09-26 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2023-12-13 | 2024-12-29 |
-| [All My Life \- Channel Tres Remix](https://open.spotify.com/track/0TgLFlVroT5JBtzPYq3qZT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [All My Life \(Channel Tres Remix\)](https://open.spotify.com/album/50y7CGtM5ZI3OwmwME9vBb) | 4:40 | 2026-09-20 |  |
+| [All My Life \- Channel Tres Remix](https://open.spotify.com/track/0TgLFlVroT5JBtzPYq3qZT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [All My Life \(Channel Tres Remix\)](https://open.spotify.com/album/50y7CGtM5ZI3OwmwME9vBb) | 4:40 | 2026-09-20 | 2026-10-22 |
 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 | 2023-07-28 |  |
 | [Angels Cry Remix \- Remix](https://open.spotify.com/track/0TJRfA2MIIRd3tTDK9tPPf) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Angels Cry Remix feat\. Ne\-Yo](https://open.spotify.com/album/3SxgnytOcu80ARVznoU6P0) | 3:53 | 2023-07-28 |  |
 | [Anytime You Need a Friend](https://open.spotify.com/track/6tsBYvprVAntHx8rQLedqn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:25 | 2023-10-10 |  |
@@ -67,6 +67,7 @@
 | [Joy to the World](https://open.spotify.com/track/2OggiWqL8exckT6kOrcDuA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:17 | 2023-12-21 | 2023-12-30 |
 | [Lead the Way](https://open.spotify.com/track/7ECwX7z26v49LewcRegxXA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 3:53 | 2023-12-13 | 2025-07-09 |
 | [Love Takes Time](https://open.spotify.com/track/48l7PNpT2fBoT4cdLW6EzP) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 3:48 | 2023-07-28 |  |
+| [Loverboy \- Remix](https://open.spotify.com/track/37V9Td9HDL6GQ8SF0To3U8) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga), [Twenty II](https://open.spotify.com/artist/1nPV9GemEPQyWiFKF9IcL1) | [Loverboy \(Remix\)](https://open.spotify.com/album/385M8ex7dAinRxjMHlY9Ph) | 4:30 | 2026-10-22 |  |
 | [Made For Me \(with Mariah Carey\)](https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Made For Me \(with Mariah Carey\)](https://open.spotify.com/album/7kLt47kt9E31gqRepjHIn7) | 3:09 | 2024-05-24 |  |
 | [Make It Happen](https://open.spotify.com/track/5UVcgBRW78CCcKCopEGAST) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 5:08 | 2023-08-01 |  |
 | [Melt Away](https://open.spotify.com/track/7c010UJj6NGc5QcM8EaIt3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:40 | 2023-07-28 | 2026-08-28 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-439 songs - 23 hr 11 min
+440 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Big Shit](https://open.spotify.com/track/0dADaRjZfWrrXPAPr7qe75) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 2:32 | 2023-12-13 |  |
 | [Bigger in Texas](https://open.spotify.com/track/0x3R23PwarBJhGuzwW8hNm) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:13 | 2023-12-13 |  |
 | [Bigger Than You \(feat\. Drake & Quavo\)](https://open.spotify.com/track/5S1IUPueD0xE0vj4zU3nSf) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Bigger Than You feat\. Drake & Quavo](https://open.spotify.com/album/3Lh72gPELN4MIUJd3dYN6I) | 3:45 | 2023-12-13 |  |
+| [Biggest Bosses](https://open.spotify.com/track/5QRY79q7reAyKvyZkGntHV) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Make Me Say It Again, Girl](https://open.spotify.com/album/3NmEbqCKjPjDQHlnTflXfj) | 5:10 | 2026-10-21 |  |
 | [BILLBOARD BABY](https://open.spotify.com/track/2r7dK73sLbh1rSIV2lBMkK) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [BLAME IT ON BABY \(DELUXE\)](https://open.spotify.com/album/6SL49HqoUwu2hhfukBAK3Q) | 1:21 | 2023-12-13 |  |
 | [Birds](https://open.spotify.com/track/3J07OCYrIQuSuWLQbeFzZa) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Fix Before Tha VI](https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG) | 2:45 | 2023-12-13 |  |
 | [Blame My Friends \(The Gang\)](https://open.spotify.com/track/0v4yQTNMOmDCoQbmZViF5L) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Blame My Friends \(The Gang\)](https://open.spotify.com/album/14tgPDRP1lXbwQoiAKLQQu) | 4:02 | 2023-12-13 | 2025-06-28 |
@@ -376,7 +377,7 @@
 | [Take Time \(feat\. 24hrs\)](https://open.spotify.com/track/2sDdzM8oDivXDDpNYeMwdd) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Say Less](https://open.spotify.com/album/4bRMfuFdRrWtWWMO83ynIP) | 3:23 | 2026-09-23 | 2026-10-09 |
 | [Take Time \(feat\. 24hrs\)](https://open.spotify.com/track/4HlSeYvTvl6kuPdhJlm8Sg) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Say Less](https://open.spotify.com/album/2VLY0KLCsRkanyaL5PSruh) | 3:23 | 2023-12-13 |  |
 | [Tango \(Go\)](https://open.spotify.com/track/7BlCFDAHV17zwgjj2avheX) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Light Of Day](https://open.spotify.com/album/5jp7IiLD8lRVVmf8gfeHOV) | 3:03 | 2023-12-13 |  |
-| [tarmac](https://open.spotify.com/track/5j7FkMakactsB2IGYqaVd2) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [c r e a t u r e s](https://open.spotify.com/album/3iTHx4S0UyjWtpJmU40Jko) | 3:47 | 2026-08-04 |  |
+| [tarmac](https://open.spotify.com/track/5j7FkMakactsB2IGYqaVd2) | [Lambb](https://open.spotify.com/artist/0j55qvFhVPcwqz7wJoKscs) | [c r e a t u r e s](https://open.spotify.com/album/3iTHx4S0UyjWtpJmU40Jko) | 3:47 | 2026-08-04 |  |
 | [Ten Four](https://open.spotify.com/track/7GrCK1xxW9l2eWwsMe7EZi) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Signed to the Streets 2](https://open.spotify.com/album/7HYatzri59O5OrxJMCD695) | 3:12 | 2023-12-13 | 2025-06-28 |
 | [test drive](https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:02 | 2023-12-13 |  |
 | [Thank You Come Again](https://open.spotify.com/track/2TzzuP16s181AccGrXcDu7) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF) | 2:45 | 2024-08-17 | 2025-05-19 |

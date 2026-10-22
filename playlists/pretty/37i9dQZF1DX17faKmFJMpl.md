@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,701 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,705 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 7 | [Paris \(feat\. Jisun\)](https://open.spotify.com/track/1CjVSDqhTehDvMeKjSIWGm) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Jisun](https://open.spotify.com/artist/1FY6b8FV3KmqbQnY07T1f0) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 3:39 |
 | 8 | [소외된 모두, 왼발을 한 보 앞으로!](https://open.spotify.com/track/3ttJRHDJ9zuG9uU4qrE2VJ) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:20 |
 | 9 | [Resume Pt.2](https://open.spotify.com/track/5sA1HmiHPAUpAC5blsGeDp) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Enlightened](https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0) | 4:39 |
-| 10 | [Take The Q Train Remix \(feat\. P\-Type\)](https://open.spotify.com/track/0jwn6R68MwfFOLProG5oUt) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [Q Train \(Remaster\)](https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX) | 3:40 |
-| 11 | [불한당가 \(with 나찰, 피타입 & MC 메타\)](https://open.spotify.com/track/7a733QhzAN4jdckPKCbD82) | [NUCK](https://open.spotify.com/artist/7hdPhJPPkVZc5sJNVjLMGu), [Nachal](https://open.spotify.com/artist/2c1eCH3EjDdOuCdMv2goXQ), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [MC Meta](https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu) | [절충 3 : 불한당들의 진입과 전투 Pt\. 1](https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz) | 4:23 |
+| 10 | [불한당가 \(with 나찰, 피타입 & MC 메타\)](https://open.spotify.com/track/7a733QhzAN4jdckPKCbD82) | [NUCK](https://open.spotify.com/artist/7hdPhJPPkVZc5sJNVjLMGu), [Nachal](https://open.spotify.com/artist/2c1eCH3EjDdOuCdMv2goXQ), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [MC Meta](https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu) | [절충 3 : 불한당들의 진입과 전투 Pt\. 1](https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz) | 4:23 |
+| 11 | [Take The Q Train Remix \(feat\. P\-Type\)](https://open.spotify.com/track/0jwn6R68MwfFOLProG5oUt) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [Q Train \(Remaster\)](https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX) | 3:40 |
 | 12 | [평화의 날](https://open.spotify.com/track/0JccxO232uQwz6Rl7TIjNQ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [High Society](https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq) | 3:38 |
 | 13 | [고집쟁이](https://open.spotify.com/track/2jsrFWgixfjCPU7oJVc3Xe) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:55 |
 | 14 | [Gilmak](https://open.spotify.com/track/2Au4JIm7X0xVlUQ2uP0RxY) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Last Days](https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp) | 5:02 |
-| 15 | [한번뿐인 인생 One Life to Live](https://open.spotify.com/track/2MvehWGMkCeHZclsQo9kCJ) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [The Real Me](https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE) | 4:33 |
-| 16 | [남자이야기](https://open.spotify.com/track/66YxX3sVudr6SvgiUAUJgr) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [HONEY FAMILY](https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T) | 4:15 |
+| 15 | [남자이야기](https://open.spotify.com/track/66YxX3sVudr6SvgiUAUJgr) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [HONEY FAMILY](https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T) | 4:15 |
+| 16 | [한번뿐인 인생 One Life to Live](https://open.spotify.com/track/2MvehWGMkCeHZclsQo9kCJ) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [The Real Me](https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE) | 4:33 |
 | 17 | [Let It Rain \(feat\. 김종완\)](https://open.spotify.com/track/3bG8MFdLEqTXFtUkr1UrXW) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 4:40 |
 | 18 | [편의점](https://open.spotify.com/track/2sTdpHxC8VjvxQpkJfQLjU) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:44 |
 | 19 | [the real thing \(For The Club\)\(feat\. Shin Ji Sun\)](https://open.spotify.com/track/261dj6cohdYbXv6tluzwRm) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Massmediah](https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb) | 3:39 |

@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,787 songs - 9 day 21 hr 55 min
+3,788 songs - 9 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3174,7 +3174,8 @@
 | [The Call of Ktulu](https://open.spotify.com/track/05fbvl3wlNRQBzaDoZ6zfG) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Plays Metallica, Vol\. 2](https://open.spotify.com/album/5iBW3WJk0JpwNaxsjQxlAI) | 7:26 | 2024-06-07 | 2024-07-05 |
 | [The Call of Ktulu](https://open.spotify.com/track/3UlMifZrdaMzOiuTGdCq9t) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [The Call of Ktulu](https://open.spotify.com/album/2rQ0vvy8JtDNl8ptHhoHoq) | 7:26 | 2024-06-14 | 2024-06-16 |
 | [The Carousel](https://open.spotify.com/track/2jzzA8t8lJiC4fP2PG6fVN) | [Declaime](https://open.spotify.com/artist/0IWhrIU65vvKiggTlWKDZw), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Welcome To My Light](https://open.spotify.com/album/7rOHnI9S7ON90hBsvUXIEx) | 3:07 | 2026-04-04 | 2026-04-11 |
-| [The Center Eye](https://open.spotify.com/track/2G5oWiVywnXs4UxSxp17Qf) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [The Center Eye](https://open.spotify.com/album/05W9V7JjcPqndBOawmtv3B) | 2:55 | 2026-10-02 |  |
+| [The Center Eye](https://open.spotify.com/track/1mopYJFvx9Hg2ZfjC7KRi8) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Eight Ring Revival](https://open.spotify.com/album/0KS54hy5B9VbBWbkt70S4G) | 2:55 | 2026-10-16 |  |
+| [The Center Eye](https://open.spotify.com/track/2G5oWiVywnXs4UxSxp17Qf) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [The Center Eye](https://open.spotify.com/album/05W9V7JjcPqndBOawmtv3B) | 2:55 | 2026-10-02 | 2026-10-22 |
 | [The Chain \(Live at The Forum, Inglewood, CA, 10/22/82\) \- 2024 Remaster](https://open.spotify.com/track/4HTDAg9Zrr7WQymwm8WjbH) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage Tour '82 \(Live\)](https://open.spotify.com/album/62BXtgi628S51UANvOPTxi) | 6:37 | 2024-10-18 | 2024-10-20 |
 | [The Chain \- Live at the Fabulous Forum, Inglewood, CA, 08/29/77](https://open.spotify.com/track/4VGBaj8omMGArPnZ56a695) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours Live](https://open.spotify.com/album/24kD7cQnCojzadtNNlplxj) | 5:58 | 2023-09-08 | 2023-10-08 |
 | [The Chamber Meeting](https://open.spotify.com/track/4igwawNowSDYEl4bemzOx8) | [Bill Pachman](https://open.spotify.com/artist/57gHLHKo8XHJvXVZpJ0L0r), [D.V\. alias Khryst](https://open.spotify.com/artist/0kf9ZnZA1fMovLaWFEL3V2), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO) | [The Chamber Meeting](https://open.spotify.com/album/0kdVPEnBzyk2XiYFg6vqxd) | 4:06 | 2025-12-05 | 2025-12-20 |

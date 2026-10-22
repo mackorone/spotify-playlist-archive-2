@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Valdo Rodr\u00edguez y Wuicho Kun en portada.",
-  "num_followers": 535661,
+  "num_followers": 535580,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 207817,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Tengo",
         "url": "https://open.spotify.com/album/2cqrUCizJahsIfhzgE1uH8"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 248208,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/0yOUq6w4cN037OcxdZDQQP"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 207817,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/57HVjcV6s7ppmZJXhNHchy"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Cu\u00e1nta Raz\u00f3n",
-        "url": "https://open.spotify.com/album/5gM04XhsmPs0THHp4TuDab"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 185246,
-      "name": "Cu\u00e1nta Raz\u00f3n",
-      "url": "https://open.spotify.com/track/0uSN0udcNJb2G32HD2NNoe"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Aprend\u00ed",
         "url": "https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 173001,
       "name": "SALUDITOS A LOS EX",
       "url": "https://open.spotify.com/track/2h8nYa160PX2KMfirTRjrR"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Cu\u00e1nta Raz\u00f3n",
+        "url": "https://open.spotify.com/album/5gM04XhsmPs0THHp4TuDab"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 185246,
+      "name": "Cu\u00e1nta Raz\u00f3n",
+      "url": "https://open.spotify.com/track/0uSN0udcNJb2G32HD2NNoe"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Somos Algo",
-        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 234128,
-      "name": "Somos Algo",
-      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Ah\u00ed Voy a Estar",
         "url": "https://open.spotify.com/album/2fa6bOnqANv8YJXyCDulof"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Somos Algo",
+        "url": "https://open.spotify.com/album/2AsN8qBSqdGAlvUT3NBS4k"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 234128,
+      "name": "Somos Algo",
+      "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "S\u00f3lo T\u00fa",
-        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 187754,
-      "name": "S\u00f3lo T\u00fa",
-      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Quisiera Enamorarme",
         "url": "https://open.spotify.com/album/40t2ZbDA27Jqt3EhHMNwYk"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 186200,
       "name": "Quisiera Enamorarme",
       "url": "https://open.spotify.com/track/3ZhfWEFlqebiUEcc3YbR7D"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 187754,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "Casi algo",
+        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
+      },
+      "artists": [
+        {
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
+        }
+      ],
+      "duration_ms": 165229,
+      "name": "Casi algo",
+      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "COMO ARRUINARTE LA VIDA (con una herida prohibida)",
         "url": "https://open.spotify.com/album/1NNdcOYT3w0wuwazJhuiNc"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 196895,
       "name": "Yo Nunca Te Ment\u00ed",
       "url": "https://open.spotify.com/track/5i2gdwq2B6HWlGcYmZcT7h"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "Casi algo",
-        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
-      },
-      "artists": [
-        {
-          "name": "Me Dicen Jos",
-          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
-        }
-      ],
-      "duration_ms": 165229,
-      "name": "Casi algo",
-      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -915,6 +915,26 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "Mam\u00e1",
+        "url": "https://open.spotify.com/album/02Vg0bEN68tF5ySg2T6H0I"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 202799,
+      "name": "Mam\u00e1",
+      "url": "https://open.spotify.com/track/5DCCCNDhkcw1k3VMBN9zrx"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "No te puedes ir",
         "url": "https://open.spotify.com/album/15dUsTMz9I1piWJZetHq9H"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 213333,
       "name": "No te puedes ir",
       "url": "https://open.spotify.com/track/7dQ72oGTDZ1M3vhGJuRsGg"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "Mam\u00e1",
-        "url": "https://open.spotify.com/album/02Vg0bEN68tF5ySg2T6H0I"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 202799,
-      "name": "Mam\u00e1",
-      "url": "https://open.spotify.com/track/5DCCCNDhkcw1k3VMBN9zrx"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
+        "name": "El Vac\u00edo (Noches de Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/0f0Lm7ZkDq0x5nvcPk2d6F"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "El Vac\u00edo - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/5gSH1TCwTlUFwJHLLhFXqS"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
         "name": "Me Vuelves Loca",
         "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "El Vac\u00edo (Noches de Sal\u00f3n)",
-        "url": "https://open.spotify.com/album/0f0Lm7ZkDq0x5nvcPk2d6F"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "El Vac\u00edo - Noches de Sal\u00f3n",
-      "url": "https://open.spotify.com/track/5gSH1TCwTlUFwJHLLhFXqS"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Nuestro Primer Disco / Nuestro Amor",
         "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
       },
@@ -1119,26 +1119,6 @@
       "duration_ms": 209040,
       "name": "Para Que Pides Perdon (Bonus Track)",
       "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
-        "name": "SER AMIGOS (olvida)",
-        "url": "https://open.spotify.com/album/6fjvO0I7QKkKLrpr4esvh1"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 247790,
-      "name": "SER AMIGOS (olvida)",
-      "url": "https://open.spotify.com/track/1Hgqs710QBTM5lp7Tbv8ad"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1159,6 +1139,26 @@
       "duration_ms": 199296,
       "name": "Mexicana (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "SER AMIGOS (olvida)",
+        "url": "https://open.spotify.com/album/6fjvO0I7QKkKLrpr4esvh1"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 247790,
+      "name": "SER AMIGOS (olvida)",
+      "url": "https://open.spotify.com/track/1Hgqs710QBTM5lp7Tbv8ad"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "M\u00e9xico no es nada sin ti",
-        "url": "https://open.spotify.com/album/5QGumVuYhqDMZeXjOMfeEX"
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
       },
       "artists": [
         {
-          "name": "La Bruja de Texcoco",
-          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
         }
       ],
-      "duration_ms": 207313,
-      "name": "M\u00e9xico no es nada sin ti",
-      "url": "https://open.spotify.com/track/4cJr9Kk0Sig1ZvPVfewLR6"
+      "duration_ms": 201829,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1451,18 +1451,34 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
+        "name": "M\u00e9xico no es nada sin ti",
+        "url": "https://open.spotify.com/album/5QGumVuYhqDMZeXjOMfeEX"
       },
       "artists": [
         {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+          "name": "La Bruja de Texcoco",
+          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
         }
       ],
-      "duration_ms": 201829,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
+      "duration_ms": 207313,
+      "name": "M\u00e9xico no es nada sin ti",
+      "url": "https://open.spotify.com/track/4cJr9Kk0Sig1ZvPVfewLR6"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "La Apuesta",
+        "url": "https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "La Apuesta",
-        "url": "https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "No me Importa",
         "url": "https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Cuervos",
-        "url": "https://open.spotify.com/album/49skjf3CjwWrZK7NjdiG7K"
-      },
-      "artists": [
-        {
-          "name": "Armando Palomas",
-          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
-        }
-      ],
-      "duration_ms": 249790,
-      "name": "Cuervos",
-      "url": "https://open.spotify.com/track/3xIDI8AEo4Ll8NHwCGC6XB"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "L\u00e1grimas Negras",
         "url": "https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 318893,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Cuervos",
+        "url": "https://open.spotify.com/album/49skjf3CjwWrZK7NjdiG7K"
+      },
+      "artists": [
+        {
+          "name": "Armando Palomas",
+          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
+        }
+      ],
+      "duration_ms": 249790,
+      "name": "Cuervos",
+      "url": "https://open.spotify.com/track/3xIDI8AEo4Ll8NHwCGC6XB"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Empecemos a Empezar",
-        "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
-      },
-      "artists": [
-        {
-          "name": "Licenciado Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/2uEHk08DPegu9Q5e0OoG1m"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 200859,
-      "name": "Empecemos a Empezar",
-      "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Sindicato Del Ritmo",
         "url": "https://open.spotify.com/album/0HL2RlxUVZK2nNEkliZfrX"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 250960,
       "name": "Disfruto",
       "url": "https://open.spotify.com/track/0F0Ms8uyynijIoufuJ7c0Q"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Empecemos a Empezar",
+        "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
+      },
+      "artists": [
+        {
+          "name": "Licenciado Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/2uEHk08DPegu9Q5e0OoG1m"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 200859,
+      "name": "Empecemos a Empezar",
+      "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
     },
     {
       "added_at": "2026-10-02 06:00:21",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-10-02 06:00:21",
       "album": {
-        "name": "Cenicero",
-        "url": "https://open.spotify.com/album/5iT7CyiJDHVZxOyLWlxV07"
-      },
-      "artists": [
-        {
-          "name": "Diana Meril",
-          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Cenicero",
-      "url": "https://open.spotify.com/track/7zUFhXRcQ9CiswkoiSGnZ9"
-    },
-    {
-      "added_at": "2026-10-02 06:00:21",
-      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/58MCZcbUtpCZO2AxzN6ft2"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 197553,
       "name": "Por Debajo de la Mesa",
       "url": "https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167"
+    },
+    {
+      "added_at": "2026-10-02 06:00:21",
+      "album": {
+        "name": "Cenicero",
+        "url": "https://open.spotify.com/album/5iT7CyiJDHVZxOyLWlxV07"
+      },
+      "artists": [
+        {
+          "name": "Diana Meril",
+          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Cenicero",
+      "url": "https://open.spotify.com/track/7zUFhXRcQ9CiswkoiSGnZ9"
     }
   ],
   "unique_name": "nuevo bolero",

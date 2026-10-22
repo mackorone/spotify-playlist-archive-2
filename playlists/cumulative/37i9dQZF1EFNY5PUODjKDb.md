@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Qs9QUukNfAmA58YskIxQE">Andrew Lloyd Webber</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-1,235 songs - 3 day 3 hr 44 min
+1,236 songs - 3 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,8 @@
 | [Come Back with the Same Look in Your Eyes](https://open.spotify.com/track/0shqfeHuDaeSmQxDP8HoxS) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Denise Van Outen](https://open.spotify.com/artist/0T17VKgopV3csTElVlDpXF) | [Unmasked: The Platinum Collection](https://open.spotify.com/album/0MMqBRmLLBdUov2YUGqTeK) | 3:28 | 2025-11-02 |  |
 | [Come Back With The Same Look In Your Eyes](https://open.spotify.com/track/27vP2xbA96v1H13wV81wYo) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Denise Van Outen](https://open.spotify.com/artist/0T17VKgopV3csTElVlDpXF) | [Tell Me On A Sunday](https://open.spotify.com/album/4iDnjr7h9wm23fcIWT7FEQ) | 3:28 | 2024-07-24 | 2025-11-03 |
 | [Come Back with the Same Look in Your Eyes \- Live](https://open.spotify.com/track/7dRqFE9jlfBdXJcfTXRuOd) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Marti Webb](https://open.spotify.com/artist/40mIDxRW5aqgFGVjBed4qf) | [Song and Dance \(Live at the Palace Theatre\) \(Remastered 2005\)](https://open.spotify.com/album/4xm2Qcf3Jm2lPSll9n98MH) | 3:25 | 2026-08-18 | 2026-08-20 |
-| [Come Sinfonia](https://open.spotify.com/track/4sJBtby2jVNqYbCJi0yv44) | [Pino Donaggio](https://open.spotify.com/artist/1M5wLoT4Yub4wWOZAcj7z0) | [Non Ti Posso Lasciare](https://open.spotify.com/album/65lRjxnm5IaFyrdsRC0DRj) | 3:14 | 2026-02-13 |  |
+| [Come Sinfonia](https://open.spotify.com/track/4sJBtby2jVNqYbCJi0yv44) | [Pino Donaggio](https://open.spotify.com/artist/1M5wLoT4Yub4wWOZAcj7z0) | [Non Ti Posso Lasciare](https://open.spotify.com/album/65lRjxnm5IaFyrdsRC0DRj) | 3:14 | 2026-02-13 | 2026-10-22 |
+| [Come sinfonia](https://open.spotify.com/track/02rhrFjtJ2iLuB4KAUyQ08) | [Pino Donaggio](https://open.spotify.com/artist/1M5wLoT4Yub4wWOZAcj7z0) | [Come sinfonia \- I grandi successi](https://open.spotify.com/album/26dSZZcT7a13nOZnVOjZyn) | 3:16 | 2026-10-21 |  |
 | [Come sinfonia](https://open.spotify.com/track/7y0weeTSPdnWQjbvQQRqvo) | [Pino Donaggio](https://open.spotify.com/artist/1M5wLoT4Yub4wWOZAcj7z0) | [I Grandi Successi di Pino Donaggio](https://open.spotify.com/album/14YvmXWMQ1tTfu5vicG8iD) | 3:19 | 2026-08-18 | 2026-08-23 |
 | [Come Sinfonia \- Remaster 2004](https://open.spotify.com/track/6UZmmZlKYuxOTUcydKJmO2) | [Pino Donaggio](https://open.spotify.com/artist/1M5wLoT4Yub4wWOZAcj7z0) | [Made In Italy](https://open.spotify.com/album/6fQPEEYdGKDvpfwAG09JJJ) | 3:14 | 2025-07-17 | 2026-02-13 |
 | [Come Sinfonia \- Remaster 2004](https://open.spotify.com/track/4xLy6v4IE3e89eo0Ubzm5U) | [Pino Donaggio](https://open.spotify.com/artist/1M5wLoT4Yub4wWOZAcj7z0) | [Pino Donaggio: Solo Grandi Successi](https://open.spotify.com/album/6THxsj6t39MiWwQS1b4sVF) | 3:14 | 2026-02-12 | 2026-02-14 |

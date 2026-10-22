@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/21R6Tl68DEhGqrfOdSAtSZ.md) - [plain]
 
 > music that I find therapeutic
 
-[Isaac Shade](https://open.spotify.com/user/1216024340) - 4 likes - 125 songs - 7 hr 55 min
+[Isaac Shade](https://open.spotify.com/user/1216024340) - 5 likes - 125 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

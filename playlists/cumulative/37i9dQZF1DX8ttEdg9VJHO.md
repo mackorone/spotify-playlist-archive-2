@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 | 2023-07-14 |  |
+| [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 | 2023-07-14 | 2026-10-22 |
 | [Ain't Just a Game](https://open.spotify.com/track/767X07pxPQM1N9mtjzEdbQ) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Ain't Just a Game](https://open.spotify.com/album/6sJQlrlv2c6BYY3lIYBuZB) | 2:43 | 2024-07-19 | 2026-02-24 |
 | [All I Know So Far](https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [All I Know So Far](https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH) | 4:37 | 2023-07-14 |  |
 | [Angel Eyes](https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Angel Eyes](https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd) | 2:50 | 2023-09-15 |  |
@@ -188,7 +188,7 @@
 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 | 2024-01-26 |  |
 | [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 | 2023-07-14 | 2024-08-29 |
 | [Yesterday, Today, Tomorrow](https://open.spotify.com/track/2rz6LNSkIKcG1ulv67HNZZ) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [How Beautiful This Life Is](https://open.spotify.com/album/2CshB3bOrYGHuXyIu9FsP9) | 2:41 | 2026-05-21 |  |
-| [You](https://open.spotify.com/track/7hkYOiAjBNifkavLfxjCo6) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [How To Heal](https://open.spotify.com/album/73V1mnQ1qIeyERh5ZOId9B) | 2:56 | 2026-09-17 | 2026-10-16 |
+| [You](https://open.spotify.com/track/7hkYOiAjBNifkavLfxjCo6) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [How To Heal](https://open.spotify.com/album/73V1mnQ1qIeyERh5ZOId9B) | 2:56 | 2026-09-17 |  |
 | [You Make Me Happy](https://open.spotify.com/track/68pmau9FpqIwRjryGd2dDn) | [My Sun and Stars](https://open.spotify.com/artist/6ZzQtFgvmqdNtmB3pvh6UR) | [You Make Me Happy](https://open.spotify.com/album/7bpDg2iX5pdMWvUapiLVmj) | 3:21 | 2024-03-27 | 2025-09-01 |
 
 \*This playlist was first scraped on 2023-07-28. Prior content cannot be recovered.

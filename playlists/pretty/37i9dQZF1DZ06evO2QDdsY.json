@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAACkzBIrbZJ0yO+NEUE6yXdk",
+  "snapshot_id": "atVdgAAAAABc6xDckEQD9MqeJpTy3m6g",
   "tracks": [
     {
       "added_at": null,
@@ -547,18 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+        "name": "High Note [Feat. Stax Music Academy]",
+        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
       },
       "artists": [
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Stax Music Academy",
+          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
         }
       ],
-      "duration_ms": 250960,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0"
+      "duration_ms": 182099,
+      "name": "High Note [Feat. Stax Music Academy]",
+      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
     },
     {
       "added_at": null,
@@ -595,42 +599,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Note [Feat. Stax Music Academy]",
-        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
       },
       "artists": [
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "Stax Music Academy",
-          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
         }
       ],
-      "duration_ms": 182099,
-      "name": "High Note [Feat. Stax Music Academy]",
-      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
+      "duration_ms": 250960,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Tyrannosaur",
-        "url": "https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB"
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
       "artists": [
-        {
-          "name": "Sachal Vasandani",
-          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
-        },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 199642,
-      "name": "Tyrannosaur",
-      "url": "https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3"
+      "duration_ms": 314320,
+      "name": "Pushin\u2019 Against A Stone",
+      "url": "https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3"
     },
     {
       "added_at": null,
@@ -655,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+        "name": "Tyrannosaur",
+        "url": "https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB"
       },
       "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 314320,
-      "name": "Pushin\u2019 Against A Stone",
-      "url": "https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3"
+      "duration_ms": 199642,
+      "name": "Tyrannosaur",
+      "url": "https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAACuP1tTXZKWHPaYyFdJ31uI",
+  "snapshot_id": "atVdgAAAAADOphqP3HPpZGHH5Oo6CWJC",
   "tracks": [
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+        "name": "White Bikes",
+        "url": "https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 242066,
-      "name": "Dying in New Brunswick",
-      "url": "https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg"
+      "duration_ms": 265570,
+      "name": "White Bikes",
+      "url": "https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf"
     },
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 242066,
+      "name": "Dying in New Brunswick",
+      "url": "https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Taking Inventory Of A Frozen Lake",
         "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
       },
@@ -383,38 +399,6 @@
       "duration_ms": 257084,
       "name": "Taking Inventory Of A Frozen Lake",
       "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "White Bikes",
-        "url": "https://open.spotify.com/album/2GomwAQWCvL5KhnlkXQMwz"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 265570,
-      "name": "White Bikes",
-      "url": "https://open.spotify.com/track/2oLgt8U9rEkAtt1XqAs6Lf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 266653,
-      "name": "Streaks in the Sky",
-      "url": "https://open.spotify.com/track/6gHLLRQFPezsdsDieIVbJ5"
     },
     {
       "added_at": null,
@@ -451,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 266653,
+      "name": "Streaks in the Sky",
+      "url": "https://open.spotify.com/track/6gHLLRQFPezsdsDieIVbJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Application For Release From The Dream",
         "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 269721,
       "name": "Application For Release From The Dream",
       "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 276760,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/0FvQmcMVyGBBVjI81CvEbh"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 276760,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/0FvQmcMVyGBBVjI81CvEbh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Common Existence (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 243760,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/4LKXbWFPS9uTbkziBl3L7g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 223480,
-      "name": "Ian Curtis",
-      "url": "https://open.spotify.com/track/4fePHGj7DmOzuMRccSAgpO"
     },
     {
       "added_at": null,
@@ -563,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Common Existence (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 202598,
-      "name": "Resuscitation of a Dead Man",
-      "url": "https://open.spotify.com/track/6V2cc0uw6vMEDGsCEF6N1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
       },
@@ -588,9 +556,25 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 217186,
-      "name": "In-Transmission",
-      "url": "https://open.spotify.com/track/74IEX2wviU359ODZwmtG2G"
+      "duration_ms": 223480,
+      "name": "Ian Curtis",
+      "url": "https://open.spotify.com/track/4fePHGj7DmOzuMRccSAgpO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Common Existence (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 250853,
+      "name": "Friends In The Armed Forces",
+      "url": "https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 217186,
+      "name": "In-Transmission",
+      "url": "https://open.spotify.com/track/74IEX2wviU359ODZwmtG2G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Common Existence (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj"
       },
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 250853,
-      "name": "Friends In The Armed Forces",
-      "url": "https://open.spotify.com/track/4IALJqOdZE5pwUaL6ag1Ko"
+      "duration_ms": 202598,
+      "name": "Resuscitation of a Dead Man",
+      "url": "https://open.spotify.com/track/6V2cc0uw6vMEDGsCEF6N1k"
     },
     {
       "added_at": null,

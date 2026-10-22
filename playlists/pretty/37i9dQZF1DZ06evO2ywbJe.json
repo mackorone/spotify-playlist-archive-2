@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 9485,
+  "num_followers": 9488,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAADTXemhDXB67U81ZCu6LwLy",
+  "snapshot_id": "atVdgAAAAABBV5lb9JIZZUbxXYpIlHMM",
   "tracks": [
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 167657,
-      "name": "14DRoad",
-      "url": "https://open.spotify.com/track/6ttgo09Dm9yZfVUhQ4flbC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Astalavista",
         "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 171921,
       "name": "Astalavista",
       "url": "https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 167657,
+      "name": "14DRoad",
+      "url": "https://open.spotify.com/track/6ttgo09Dm9yZfVUhQ4flbC"
     },
     {
       "added_at": null,
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "Ale Yi",
+      "url": "https://open.spotify.com/track/2DKu5sidKO85F6HOZXdVX8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bolanle",
         "url": "https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 173712,
       "name": "Bolanle",
       "url": "https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "Ale Yi",
-      "url": "https://open.spotify.com/track/2DKu5sidKO85F6HOZXdVX8"
     },
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Am I a Yahoo Boy",
-        "url": "https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 148820,
-      "name": "Am I a Yahoo Boy",
-      "url": "https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resan",
         "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 167213,
       "name": "Money",
       "url": "https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Am I a Yahoo Boy",
+        "url": "https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 148820,
+      "name": "Am I a Yahoo Boy",
+      "url": "https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5"
     },
     {
       "added_at": null,
@@ -1047,22 +1047,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 134482,
-      "name": "50 Billion (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/1MT5w1g81k0RyiWnXjJjIq"
+      "duration_ms": 194823,
+      "name": "Alubarika",
+      "url": "https://open.spotify.com/track/6G242ZcM4Ic3WauviZ7w9S"
     }
   ],
   "unique_name": "This Is Zlatan",

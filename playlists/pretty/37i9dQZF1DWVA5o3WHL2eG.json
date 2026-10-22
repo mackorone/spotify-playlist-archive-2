@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: LIA LIA",
-  "num_followers": 51654,
+  "num_followers": 51644,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-10-07 22:00:17",
       "album": {
+        "name": "Ich und Ich Selbst",
+        "url": "https://open.spotify.com/album/2uHLlt2Trjv0tohppWAace"
+      },
+      "artists": [
+        {
+          "name": "Malina",
+          "url": "https://open.spotify.com/artist/0hRqnbeTBvO22nkNeVVuGF"
+        }
+      ],
+      "duration_ms": 156050,
+      "name": "Ich und Ich Selbst",
+      "url": "https://open.spotify.com/track/2ikv5HOMGdjlzJEreiKzIS"
+    },
+    {
+      "added_at": "2026-10-07 22:00:17",
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1J5v6IhsmFeJSNmtscPnhj"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 137710,
       "name": "SOS",
       "url": "https://open.spotify.com/track/6h8hgvwHPaocBQfdNbkKex"
-    },
-    {
-      "added_at": "2026-10-07 22:00:17",
-      "album": {
-        "name": "Ich und Ich Selbst",
-        "url": "https://open.spotify.com/album/2uHLlt2Trjv0tohppWAace"
-      },
-      "artists": [
-        {
-          "name": "Malina",
-          "url": "https://open.spotify.com/artist/0hRqnbeTBvO22nkNeVVuGF"
-        }
-      ],
-      "duration_ms": 156050,
-      "name": "Ich und Ich Selbst",
-      "url": "https://open.spotify.com/track/2ikv5HOMGdjlzJEreiKzIS"
     },
     {
       "added_at": "2026-10-07 22:00:17",

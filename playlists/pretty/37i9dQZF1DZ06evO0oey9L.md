@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,759 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,761 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 28 | [Se Oyen Recio Los Disparos](https://open.spotify.com/track/6qqICh8gOle9spzdSru35F) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 3:06 |
 | 29 | [Peligro](https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Peligro](https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3) | 2:00 |
 | 30 | [Miran La Apariencia](https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:16 |
-| 31 | [Ya Lo Decidí](https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:45 |
-| 32 | [Derecha La Flecha](https://open.spotify.com/track/6Qei0rSgoDr6jjsvbZ0sCp) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Derecha La Flecha](https://open.spotify.com/album/1xiSb0JPOxGd1JnOejlAVY) | 2:58 |
-| 33 | [La Fiesta Ya Empezo](https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:28 |
+| 31 | [Barrio Xolo](https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:06 |
+| 32 | [La Fiesta Ya Empezo](https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:28 |
+| 33 | [Derecha La Flecha](https://open.spotify.com/track/6Qei0rSgoDr6jjsvbZ0sCp) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Derecha La Flecha](https://open.spotify.com/album/1xiSb0JPOxGd1JnOejlAVY) | 2:58 |
 | 34 | [WAX](https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Con Los Pies En La Tierra Y La Mirada En El Cielo](https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T) | 3:17 |
-| 35 | [Barrio Xolo](https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:06 |
-| 36 | [Fin De Semana](https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Fin De Semana](https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff) | 3:00 |
-| 37 | [Toxico](https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Toxico](https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh) | 3:12 |
+| 35 | [Ya Lo Decidí](https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:45 |
+| 36 | [Toxico](https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Toxico](https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh) | 3:12 |
+| 37 | [Fin De Semana](https://open.spotify.com/track/4N5Qpos9bnbTFOXHBHANJQ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Fin De Semana](https://open.spotify.com/album/1GBuuYtkHBUXxY2j1XrLff) | 3:00 |
 | 38 | [Paris & Grecia](https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Santiago Rdgz](https://open.spotify.com/artist/5RZmXdBhExWcBGjyZVSy1u), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [Juan Soler](https://open.spotify.com/artist/62we2Z4MfYSQknQesr1111) | [Paris & Grecia](https://open.spotify.com/album/3kufVIruxrPYRml0XECQka) | 2:45 |
 | 39 | [Sangre De Rancho](https://open.spotify.com/track/3HhnflHZDAC5GsTBZLJIYa) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Sangre De Rancho](https://open.spotify.com/album/1juj3QmN79iMMZDKX8RgEH) | 2:48 |
 | 40 | [El Exceso Me Encanto](https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [El Exceso Me Encanto](https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 49 | [Loco Malandro](https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:41 |
 | 50 | [De La Escuelita Graduado](https://open.spotify.com/track/7t78b9kNHPzECSZ0wyzTc3) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [De La Escuelita Graduado](https://open.spotify.com/album/5WCODFEvrpKj4Aifd1Fxnp) | 2:43 |
 
-Snapshot ID: `atQMAAAAAADfo+M8Pw7Y9qjIu898jj+u`
+Snapshot ID: `atVdgAAAAACwBNKNJitnRsHCYPy2uY4E`

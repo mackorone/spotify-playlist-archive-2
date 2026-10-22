@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 181729,
+  "num_followers": 181727,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAADFb3MI/WiY5ni1gcsvqW1K",
+  "snapshot_id": "atVdgAAAAAB0wwuGLhAplEqFqsVFVTLt",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 270173,
+      "name": "No Me Digas Que No",
+      "url": "https://open.spotify.com/track/2A2U1QnZHSPriVFOxS6oZM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Criatura",
         "url": "https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3"
       },
@@ -227,30 +251,6 @@
       "duration_ms": 217093,
       "name": "B\u00e1ilame - Remix",
       "url": "https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 270173,
-      "name": "No Me Digas Que No",
-      "url": "https://open.spotify.com/track/2A2U1QnZHSPriVFOxS6oZM"
     },
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "POR SI ALGUIEN NOS ESCUCHA",
-        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 144453,
-      "name": "BA\u00daL DE LOS RECUERDOS, PART 1",
-      "url": "https://open.spotify.com/track/4eA0BFHcxY2C6O1MORav8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alg\u00fan D\u00eda",
         "url": "https://open.spotify.com/album/4u6qq4hzHJRdRTBzHpkjH8"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 189397,
       "name": "Alg\u00fan D\u00eda",
       "url": "https://open.spotify.com/track/1xsCN4M0pvYi0CkwxTUC0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POR SI ALGUIEN NOS ESCUCHA",
+        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 144453,
+      "name": "BA\u00daL DE LOS RECUERDOS, PART 1",
+      "url": "https://open.spotify.com/track/4eA0BFHcxY2C6O1MORav8w"
     },
     {
       "added_at": null,
@@ -967,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#Update",
-        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 237616,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desperte Sin Ti (Remix)",
         "url": "https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 319586,
       "name": "Desperte Sin Ti - Remix",
       "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 237616,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
     },
     {
       "added_at": null,

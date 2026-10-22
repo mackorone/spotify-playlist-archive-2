@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,398 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,443 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 46 | [Consejos del Viejo](https://open.spotify.com/track/6b93rHiefjegwUhk0aesXL) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Banda Corona del Rey](https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI) | [Consejos del Viejo](https://open.spotify.com/album/6vVuJ52tDtEE0ZDYb2cBkX) | 3:01 |
 | 47 | [De Bota y Sombrero](https://open.spotify.com/track/22ThBLl9Cytr6KlSnaCQ84) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:43 |
 | 48 | [Tus Desprecios](https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 2:23 |
-| 49 | [La Lotería](https://open.spotify.com/track/7E4nVNpcqxMzfJv5qqgaAk) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Lotería](https://open.spotify.com/album/33y7OjZc89x9SsOIebCGCJ) | 2:53 |
-| 50 | [Los Cuervos](https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Coronas Doradas](https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob) | 2:47 |
+| 49 | [Los Cuervos](https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Coronas Doradas](https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob) | 2:47 |
+| 50 | [La Lotería](https://open.spotify.com/track/7E4nVNpcqxMzfJv5qqgaAk) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Lotería](https://open.spotify.com/album/33y7OjZc89x9SsOIebCGCJ) | 2:53 |
 
-Snapshot ID: `atQMAAAAAADnrizc8T5gQWh0yBwUIRiH`
+Snapshot ID: `atVdgAAAAABp5zkvBU6lgfNDYQBD6RAU`

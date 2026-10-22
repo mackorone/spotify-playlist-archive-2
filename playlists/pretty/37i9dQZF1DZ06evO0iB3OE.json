@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 11090,
+  "num_followers": 11094,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAACD1Kh05Rw+hDYgImq/rjHY",
+  "snapshot_id": "atVdgAAAAACZrKI/fLxPmxZy7/qk/Z1a",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Sigue la Mata Dando",
+        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 160996,
+      "name": "El Solicitado",
+      "url": "https://open.spotify.com/track/0w9R6TV9XyHVZCIBY2nWzw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dejame",
         "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
       },
@@ -115,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Sigue la Mata Dando",
-        "url": "https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 160996,
-      "name": "El Solicitado",
-      "url": "https://open.spotify.com/track/0w9R6TV9XyHVZCIBY2nWzw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Desde Culiacan (En Vivo Desde Culiacan)",
         "url": "https://open.spotify.com/album/3vO5QnF68MTUPEIZAswBHF"
       },
@@ -143,22 +143,6 @@
       "duration_ms": 186456,
       "name": "El HR - En Vivo Desde Culiacan",
       "url": "https://open.spotify.com/track/4prEQWESWt6hWYuBLiQG52"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Primer Tiempo",
-        "url": "https://open.spotify.com/album/1kenLdV50A0LUgYFE73EjH"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 236373,
-      "name": "El Vaso Derrama",
-      "url": "https://open.spotify.com/track/4qbzincCvSKGd9mhhYCsUF"
     },
     {
       "added_at": null,
@@ -199,6 +183,22 @@
       "duration_ms": 200377,
       "name": "La Cama de Piedra - En Vivo",
       "url": "https://open.spotify.com/track/1ptgCreLni4KWGJxPSlrAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Primer Tiempo",
+        "url": "https://open.spotify.com/album/1kenLdV50A0LUgYFE73EjH"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 236373,
+      "name": "El Vaso Derrama",
+      "url": "https://open.spotify.com/track/4qbzincCvSKGd9mhhYCsUF"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00e9jame Vac\u00edo",
+        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 228320,
+      "name": "El Inicio...",
+      "url": "https://open.spotify.com/track/4Cc8CxUVyq0ZjXy6gH8vKx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde el Rancho Bella Vista",
         "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 179240,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00e9jame Vac\u00edo",
-        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 228320,
-      "name": "El Inicio...",
-      "url": "https://open.spotify.com/track/4Cc8CxUVyq0ZjXy6gH8vKx"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00e9jame Vac\u00edo",
+        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 198280,
+      "name": "D\u00e9jame Vac\u00edo",
+      "url": "https://open.spotify.com/track/0dYYyWLKrlqr1uXIiUnDIo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dejame",
         "url": "https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 201896,
       "name": "El Mayito de Aguaruto",
       "url": "https://open.spotify.com/track/0E4I9ebTKR8DyZtAV6ga7w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00e9jame Vac\u00edo",
-        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 198280,
-      "name": "D\u00e9jame Vac\u00edo",
-      "url": "https://open.spotify.com/track/0dYYyWLKrlqr1uXIiUnDIo"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Mejores Corridos",
+        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 185906,
+      "name": "Los Dos Jefes",
+      "url": "https://open.spotify.com/track/4JOlwQcpmx3YhVUd5YfxR2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EL Maz Poderoso",
         "url": "https://open.spotify.com/album/1rnwwEtCSZQSF0KpyZs1BW"
       },
@@ -483,26 +499,6 @@
       "duration_ms": 187533,
       "name": "El Poderoso",
       "url": "https://open.spotify.com/track/3xRtsmxdpwBsczSE7ldylz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Banda Los Pioneros",
-          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
-        }
-      ],
-      "duration_ms": 216850,
-      "name": "La Clave 7 - En Vivo",
-      "url": "https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g"
     },
     {
       "added_at": null,
@@ -523,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mejores Corridos",
-        "url": "https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY"
+        "name": "En Vivo Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
       },
       "artists": [
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Banda Los Pioneros",
+          "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
         }
       ],
-      "duration_ms": 185906,
-      "name": "Los Dos Jefes",
-      "url": "https://open.spotify.com/track/4JOlwQcpmx3YhVUd5YfxR2"
+      "duration_ms": 216850,
+      "name": "La Clave 7 - En Vivo",
+      "url": "https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Enemigo P\u00fablico",
+        "url": "https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 168613,
+      "name": "La Puerta Del Infierno",
+      "url": "https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hombre de Ley",
         "url": "https://open.spotify.com/album/7ornlEGGKP9dYomBfzUggZ"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 198832,
       "name": "Hombre de Ley",
       "url": "https://open.spotify.com/track/6ktLE4mGNG2qXSwTAut8jL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Enemigo P\u00fablico",
-        "url": "https://open.spotify.com/album/7bNnQTposh3BeN2Hz3Xd53"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 168613,
-      "name": "La Puerta Del Infierno",
-      "url": "https://open.spotify.com/track/5GQDiNkiaQLG8CPSBZrJ9C"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Comandante Fuentes",
-        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
+        "name": "D\u00e9jame Vac\u00edo",
+        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 188706,
-      "name": "El Comandante Fuentes",
-      "url": "https://open.spotify.com/track/7Jmo1akMie3KPVSMBqJvvb"
+      "duration_ms": 216333,
+      "name": "El Mes De Enero",
+      "url": "https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru"
     },
     {
       "added_at": null,
@@ -859,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jame Vac\u00edo",
-        "url": "https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU"
+        "name": "El Comandante Fuentes",
+        "url": "https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 216333,
-      "name": "El Mes De Enero",
-      "url": "https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru"
+      "duration_ms": 188706,
+      "name": "El Comandante Fuentes",
+      "url": "https://open.spotify.com/track/7Jmo1akMie3KPVSMBqJvvb"
     },
     {
       "added_at": null,

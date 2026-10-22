@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: Kroi
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,395 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,394 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 34 | [廻廻奇譚](https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 3:41 |
 | 35 | [See U in Hell \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/26wlaTdnrLNmpz5usoU2T3) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [See U in Hell \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/2brmv8QcoqNsngywe6NYxs) | 4:03 |
 | 36 | [コンテンポラリーダンス](https://open.spotify.com/track/0abmIa1nBnueKntVaUbGbk) | [PompadollS](https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0) | [コンテンポラリーダンス](https://open.spotify.com/album/6GTYf6MfNubPMziBRCLfAf) | 3:57 |
-| 37 | [GO GHOST](https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [GO GHOST](https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN) | 2:50 |
+| 37 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 |
 | 38 | [まばたき](https://open.spotify.com/track/7C8ZmYeJN1UfmgrOiXD31c) | [ミーマイナー](https://open.spotify.com/artist/7G8KRjagUdAsleZIfe2juo) | [まばたき](https://open.spotify.com/album/3NuPaqQCc8bkmGe4IsvKfC) | 3:16 |
 | 39 | [あぶく](https://open.spotify.com/track/59h6J25QnnT8xshPTFLkpe) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [あぶく](https://open.spotify.com/album/7gfuOSKYUVBQBdg8Onas9L) | 3:54 |
 | 40 | [風の中は走るっきゃないっ！](https://open.spotify.com/track/4fK5Y2ExgkIIurCMwt688I) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [風の中は走るっきゃないっ！](https://open.spotify.com/album/1Lk41WCPIDfpqESGmgygCf) | 3:43 |
 | 41 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
 | 42 | [パルス](https://open.spotify.com/track/4exRySsBiNAZB4AeRjctMB) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [パルス](https://open.spotify.com/album/1pRZosYED7veA2GH8JiuJX) | 3:42 |
-| 43 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 |
+| 43 | [GO GHOST](https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [GO GHOST](https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN) | 2:50 |
 | 44 | [秘密のパノラマ](https://open.spotify.com/track/3tCiwcbtprnj4NzMxNTgNf) | [PURPLE BUBBLE](https://open.spotify.com/artist/7ucP21XEjkdgwydBjpbaQI) | [秘密のパノラマ](https://open.spotify.com/album/1CrgYqJsoHxi5yBB5YaWIe) | 3:50 |
 | 45 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
 | 46 | [Tomorrow again](https://open.spotify.com/track/2a074VviuqxVFXL2GMDP3D) | [shifukuponcho](https://open.spotify.com/artist/0jGAznw2F6sZBJZpIRMYwP) | [Tomorrow again](https://open.spotify.com/album/5gGm4hU5JDTHklIBEiTsm2) | 3:28 |

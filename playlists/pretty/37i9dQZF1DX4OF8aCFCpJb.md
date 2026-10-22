@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,337 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,338 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 12 | [Gungar fram \(feat\. Näääk & Kaliffa\)](https://open.spotify.com/track/4nsJdPxz6b2mYwopZBco0H) | [Nimo](https://open.spotify.com/artist/2EBLZoR071bKhHfe4TNKPi), [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Gungar fram \(feat\. Näääk & Kaliffa\)](https://open.spotify.com/album/3tOIxEepIQ0D4Ee3rytRo5) | 3:52 |
 | 13 | [Fri \(feat\. Robert Athill\)](https://open.spotify.com/track/3AJ7HhpCdI5bc4mchElu4M) | [Rhymes & Riddim](https://open.spotify.com/artist/7m6DSze5TrrYbItmW8YRY3), [Robert Athill](https://open.spotify.com/artist/6i51ZqGXrs1KqmjugQxqL6) | [Fri](https://open.spotify.com/album/5f8H1KwJEnHUdJESdUdkqF) | 3:14 |
 | 14 | [Hög standard](https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe) | [Peps Blodsband](https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD) | [Hög standard](https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi) | 5:16 |
-| 15 | [Kärlek](https://open.spotify.com/track/3ZnZPPqpDO3kR8aY3zBtaj) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [Kärlek](https://open.spotify.com/album/3wjpMLo7H6dN3NAG3cbZVZ) | 3:37 |
+| 15 | [Dimman](https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Dimman](https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r) | 3:37 |
 | 16 | [Under samma himmel](https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Under samma himmel](https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA) | 4:13 |
-| 17 | [Dimman](https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Dimman](https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r) | 3:37 |
+| 17 | [Kärlek](https://open.spotify.com/track/3ZnZPPqpDO3kR8aY3zBtaj) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [Kärlek](https://open.spotify.com/album/3wjpMLo7H6dN3NAG3cbZVZ) | 3:37 |
 | 18 | [Mera tid](https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy) | [Mera tid](https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R) | 3:09 |
 | 19 | [Mediakåt feat\. Timbuktu](https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw) | [Helt Off](https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Marknadens soldat](https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t) | 4:11 |
 | 20 | [Vassaste kniven i lådan](https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L) | [RONGO](https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I) | 3:34 |

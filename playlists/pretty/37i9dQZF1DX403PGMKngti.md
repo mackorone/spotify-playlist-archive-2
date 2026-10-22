@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX403PGMKngti.md) - [plain]
 
 > ¡Los éxitos más champetúos de ayer y hoy se vacilan en Spotify! Foto: Criss y Ronny
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,381 likes - 65 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,392 likes - 65 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

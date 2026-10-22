@@ -88083,6 +88083,24 @@
     },
     {
       "album": {
+        "name": "meet me in my head",
+        "url": "https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242341,
+      "name": "i won't see you anymore",
+      "url": "https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT"
+    },
+    {
+      "album": {
         "name": "I wonder",
         "url": "https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je"
       },
@@ -115198,6 +115216,24 @@
       "duration_ms": 205000,
       "name": "Master Piece",
       "url": "https://open.spotify.com/track/76890CDqkrO0bteb2X0dIn"
+    },
+    {
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/2mCoRKgz1QeoSZETF68AY6"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/3h0ghWPVT1SzCgZnHPqp8b"
     },
     {
       "album": {
@@ -194048,24 +194084,6 @@
       "duration_ms": 240333,
       "name": "Trace",
       "url": "https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5"
-    },
-    {
-      "album": {
-        "name": "meet me in my head",
-        "url": "https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M"
-      },
-      "artists": [
-        {
-          "name": "Rol3ert",
-          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
-        }
-      ],
-      "date_added": "2026-10-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT"
     },
     {
       "album": {

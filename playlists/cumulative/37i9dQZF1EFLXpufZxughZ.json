@@ -951,6 +951,32 @@
     },
     {
       "album": {
+        "name": "LVRS PARADISE (SIDE B)",
+        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Yakiyn",
+          "url": "https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E"
+        },
+        {
+          "name": "Loose Kannon Takeoff",
+          "url": "https://open.spotify.com/artist/5BcPhRQo3EYCKITgzk0igj"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184888,
+      "name": "FLAWLESS",
+      "url": "https://open.spotify.com/track/2BhmNW2YrODQhdxpXYdQwG"
+    },
+    {
+      "album": {
         "name": "This Is Acting",
         "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
       },

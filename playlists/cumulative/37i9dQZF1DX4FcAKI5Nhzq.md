@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: Xdinary Heroes\)
+> Future K\-Pop hits! \(Cover: A2O MAY\)
 
-1,819 songs - 4 day 0 hr 57 min
+1,820 songs - 4 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [7HEAVEN](https://open.spotify.com/track/3ZvaNnxZATJ4bA41Vkbssc) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [FESTA](https://open.spotify.com/album/3dL6zwC1px9mU7R5x8RW8x) | 3:28 | 2023-09-11 | 2023-10-12 |
 | [8'O Clock](https://open.spotify.com/track/5mNPMAT47L4ZriY5YIGqJl) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [8'O Clock](https://open.spotify.com/album/0U2zMQyT1Cw2q6hFjx4c6D) | 2:52 | 2021-08-25 | 2021-10-06 |
 | [90's Love](https://open.spotify.com/track/0B36SbjfDv15ji1bQEEeTN) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s) | 3:33 | 2020-11-23 | 2021-04-22 |
-| [99 Degrees](https://open.spotify.com/track/0Adkq5CkilX52wKp7GzRct) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [99 Degrees](https://open.spotify.com/album/4Is832uPcdyCDQ2dupadBg) | 4:11 | 2026-07-10 |  |
+| [99 Degrees](https://open.spotify.com/track/0Adkq5CkilX52wKp7GzRct) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [99 Degrees](https://open.spotify.com/album/4Is832uPcdyCDQ2dupadBg) | 4:11 | 2026-07-10 | 2026-10-22 |
 | [9LIVES](https://open.spotify.com/track/0TC2qsBgTZC9ojrtbKz8Rd) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Good Girl \(Episode 2\)](https://open.spotify.com/album/0rnf3v41imToPANdyUNhWF) | 3:23 | 2020-10-13\* | 2020-11-05 |
 | [A Chance Encounter](https://open.spotify.com/track/0lGPKB9g7qVCs5vMzZMGe2) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [A Chance Encounter](https://open.spotify.com/album/2fccNWzL5jDwu4dfbqRROs) | 3:33 | 2025-10-27 | 2025-12-02 |
 | [A Minute, A Second](https://open.spotify.com/track/5QB4UqWDiTnKdmW4QXHj70) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A Minute, A Second](https://open.spotify.com/album/72jVNugN4j3KraXGzGEki2) | 3:12 | 2026-01-27 | 2026-03-25 |
@@ -114,6 +114,7 @@
 | [bad \(Feat\. SURAN\)](https://open.spotify.com/track/2MuCBAgNvKIzEp9wOBk0O0) | [Jason Lee](https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [need that](https://open.spotify.com/album/6pHY07kq08B6UiU84lZRDi) | 3:16 | 2024-02-15 | 2024-02-27 |
 | [BAD \(Steve Aoki Ver.\)](https://open.spotify.com/track/1Wucg5F2sgxH5G1UtMNkR6) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BAD \(Steve Aoki Ver.\)](https://open.spotify.com/album/0gI8v6pcOpciGbUO6TVhrw) | 3:16 | 2026-07-01 | 2026-09-21 |
 | [BAD BOY \(feat\. BIG Naughty\)](https://open.spotify.com/track/5DvSOtsX1zRg1M2TjkK9BF) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The Drift](https://open.spotify.com/album/5aIC9W1wlhJVl3sGmkbRyV) | 2:44 | 2023-05-17 | 2023-08-26 |
+| [BAD HABITS TONITE](https://open.spotify.com/track/2nX1nKma4JpfOfh3kbWrlC) | [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O MAY](https://open.spotify.com/artist/6MHvscbuui67TvYTr3ZpV4) | [BAD HABITS TONITE](https://open.spotify.com/album/2JOQCL9FFYM2o6rUrOAolP) | 3:10 | 2026-10-21 |  |
 | [Bad Idea](https://open.spotify.com/track/5C5mQ012yrXCHJAdesRWrJ) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:18 | 2020-10-13\* | 2021-01-18 |
 | [Bad Idea \(Feat\. BANG YEDAM, pH\-1\)](https://open.spotify.com/track/5YkYwKTub2bBqnoUsK89Su) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BLEND](https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR) | 2:17 | 2024-06-23 | 2024-08-09 |
 | [Bad News](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Born to be XX](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) | 2:40 | 2023-11-09 | 2024-02-16 |
@@ -1569,7 +1570,7 @@
 | [The Stealer](https://open.spotify.com/track/2DQgD8rAJLKNptQFK70ndO) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 5th MINI ALBUM \[CHASE\]](https://open.spotify.com/album/6HwY3FwprtqsmMuoLnXWhT) | 3:30 | 2020-10-13\* | 2021-03-01 |
 | [The Story](https://open.spotify.com/track/1RgojDREKMLTMyhhD66LWj) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [The Story](https://open.spotify.com/album/0nqC5SAcOnxL5v78tDSXCJ) | 3:06 | 2024-11-07 | 2025-01-23 |
 | [The Stranger](https://open.spotify.com/track/4YAgji0t2oRqsu2HJ8YtBD) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY IDENTITY](https://open.spotify.com/album/4LCtoxSKDHcUilR9nM9teK) | 3:03 | 2025-02-18 | 2025-04-07 |
-| [The Symphony of Fxxkboys \(minlee Remix\)](https://open.spotify.com/track/7etsBgkoZX9jywsQqXOj6Z) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL), [minlee](https://open.spotify.com/artist/72Gqg5WgtKqaOXWYNEYsJ4) | [The Symphony of Fxxkboys \(minlee Remix\)](https://open.spotify.com/album/6XDcZiFKUmUcddGG03OoFb) | 2:25 | 2026-07-10 |  |
+| [The Symphony of Fxxkboys \(minlee Remix\)](https://open.spotify.com/track/7etsBgkoZX9jywsQqXOj6Z) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL), [minlee](https://open.spotify.com/artist/72Gqg5WgtKqaOXWYNEYsJ4) | [The Symphony of Fxxkboys \(minlee Remix\)](https://open.spotify.com/album/6XDcZiFKUmUcddGG03OoFb) | 2:25 | 2026-07-10 | 2026-10-22 |
 | [The Way to love myself](https://open.spotify.com/track/0FT9NEMK3ndpjPNFwfOSjh) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Doctor Slump \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/19AaWH1Naf7VdrsSDkNtsH) | 3:29 | 2024-02-15 | 2024-03-31 |
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2021-10-16 | 2022-01-20 |
 | [Then, Now and Forever](https://open.spotify.com/track/2YLCxfPRnyYxgirjSYcTZZ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [RE\-CODE](https://open.spotify.com/album/6LKHdbZ7TNMnLX4pI1jeF2) | 3:50 | 2020-11-17 | 2021-02-15 |
@@ -1787,7 +1788,7 @@
 | [YG \- Spotify Singles](https://open.spotify.com/track/0QeZDFhBQGIrFgkmaIEko9) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [YEOHO](https://open.spotify.com/artist/4228BjQOcYIzpST8mLwR2V) | [Spotify Singles](https://open.spotify.com/album/0PAZM8z8Xa56Lmp0DZzTSp) | 3:09 | 2023-03-06 | 2023-04-21 |
 | [Yin and Yang](https://open.spotify.com/track/6CyRYi1FXygOyejKcfZeJI) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yin and Yang](https://open.spotify.com/album/4wEyDGNGZUVetM252x1D5W) | 2:07 | 2026-01-21 | 2026-03-20 |
 | [You](https://open.spotify.com/track/6MfWIdV9e9vu3V34L225B5) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA) | [JIN LAB Project 4\. \[You\]](https://open.spotify.com/album/4dvlOLOSqR0oOW1bNtXZDb) | 3:18 | 2024-07-30 | 2024-09-10 |
-| [You and I](https://open.spotify.com/track/35kftu3tYZnhWFBuKGyS1p) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [You and I](https://open.spotify.com/album/0W7dqgBtmGsVK18Y05cjKv) | 3:38 | 2026-07-10 |  |
+| [You and I](https://open.spotify.com/track/35kftu3tYZnhWFBuKGyS1p) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [You and I](https://open.spotify.com/album/0W7dqgBtmGsVK18Y05cjKv) | 3:38 | 2026-07-10 | 2026-10-22 |
 | [YOU AND I](https://open.spotify.com/track/2hHOqDemKev23WuLV8Rhwv) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [YOU AND I](https://open.spotify.com/album/4MoiswkE556lt1PuCCOUIE) | 2:49 | 2025-07-15 | 2025-08-19 |
 | [You Are Spring](https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG) | [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [Spring Fever, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN) | 3:47 | 2026-01-21 | 2026-03-12 |
 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 | 2021-08-11 | 2021-10-13 |

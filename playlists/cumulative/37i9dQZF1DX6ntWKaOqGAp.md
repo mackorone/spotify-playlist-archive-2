@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: WurtS
 
-3,676 songs - 9 day 12 hr 44 min
+3,676 songs - 9 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,6 +775,7 @@
 | [I was...](https://open.spotify.com/track/6UCGqwTZ85Fm7wlgMjn6Er) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [I was...](https://open.spotify.com/album/3n1foH2tPnogPeYPafLeCY) | 3:03 | 2023-03-16 | 2023-04-12 |
 | [I wish I could speak English](https://open.spotify.com/track/0Rma80SKnybwbqFJFD0APG) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [I wish I could speak English](https://open.spotify.com/album/4Dfjxq4rksuoyrBVtE7jAx) | 2:35 | 2026-03-03 | 2026-04-01 |
 | [I Wish to See You Again](https://open.spotify.com/track/3RV8UKmfpbzeqXvAGIt1Ur) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [I Wish to See You Again](https://open.spotify.com/album/1egT4g5YxhH1F7YdVVDMQf) | 3:12 | 2025-08-07 | 2025-08-14 |
+| [i won't see you anymore](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 4:02 | 2026-10-20 |  |
 | [I ♡ YOU BABY!!](https://open.spotify.com/track/3tLZr1y47x52wdWMGWD12y) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [I ♡ YOU BABY!!](https://open.spotify.com/album/6QfQSekQ2W8HVTH9EfdlPk) | 2:26 | 2025-11-04 | 2025-11-26 |
 | [I'll be there](https://open.spotify.com/track/0lfcOko3BkbcOOQvIJVUG0) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [I'll be there](https://open.spotify.com/album/2XV1p7LViusogXzUiB338X) | 4:38 | 2024-04-25 | 2024-09-18 |
 | [I'M A RAT](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 | 2023-04-19 | 2023-06-07 |
@@ -1788,7 +1789,6 @@
 | [Toumeiningen](https://open.spotify.com/track/1aSSUbMAjJwOmYRhN5xD6k) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [Sora Ni Kaoru Wa Natsu No Kage](https://open.spotify.com/album/6YsVn5cWsGEU51eWuc9iRo) | 4:36 | 2025-05-27 | 2025-07-16 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2025-10-22 |
 | [Toy Box](https://open.spotify.com/track/6XdQMHMigwCiEIb0x5tBHA) | [SHE'S](https://open.spotify.com/artist/6TNooB9HDJ9Xs1GFPl2Fiv) | [Who am I?](https://open.spotify.com/album/75SzOy9IS2koE6VeYtHYeR) | 3:00 | 2026-09-01 | 2026-09-09 |
-| [Track 5](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 0:00 | 2026-10-20 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-06-04 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/1z6CljeqsqNfFTr67lg2Ks) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI) | 3:53 | 2023-02-14 | 2023-02-16 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/5PUNRSIFNxWimFJ1r9vgkl) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/4c3iop1ngWgS6LZNcMYpI5) | 3:53 | 2023-02-14 | 2023-04-26 |

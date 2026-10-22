@@ -1,6 +1,6 @@
 {
   "description": "Dulce jazz ideal para estudiar o relajarse.",
-  "num_followers": 106305,
+  "num_followers": 106312,
   "original_name": "Jazz Tranquilo",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
+        "name": "Hidden Harmonies",
+        "url": "https://open.spotify.com/album/2jIBxZzaQt8mlP9QVZQosN"
+      },
+      "artists": [
+        {
+          "name": "Duponte et Duponte",
+          "url": "https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o"
+        }
+      ],
+      "duration_ms": 199809,
+      "name": "Hidden Harmonies",
+      "url": "https://open.spotify.com/track/2MYuzF9LpfzpQPIIt28unv"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
         "name": "At Least I Know",
         "url": "https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Hidden Harmonies",
-        "url": "https://open.spotify.com/album/2jIBxZzaQt8mlP9QVZQosN"
+        "name": "Whispers of the Evening",
+        "url": "https://open.spotify.com/album/1MEo1GRTrJ0RIg1jM1mxXs"
       },
       "artists": [
         {
-          "name": "Duponte et Duponte",
-          "url": "https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o"
+          "name": "Sodermalm Strand",
+          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
         }
       ],
-      "duration_ms": 199809,
-      "name": "Hidden Harmonies",
-      "url": "https://open.spotify.com/track/2MYuzF9LpfzpQPIIt28unv"
+      "duration_ms": 195058,
+      "name": "Whispers of the Evening",
+      "url": "https://open.spotify.com/track/3JnzwIwPo8dBlf3YCeJIrK"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -519,22 +535,6 @@
       "duration_ms": 169750,
       "name": "Early Spring",
       "url": "https://open.spotify.com/track/1g9DjsrhhqP4crNrYsS1TY"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
-        "name": "Whispers of the Evening",
-        "url": "https://open.spotify.com/album/1MEo1GRTrJ0RIg1jM1mxXs"
-      },
-      "artists": [
-        {
-          "name": "Sodermalm Strand",
-          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
-        }
-      ],
-      "duration_ms": 195058,
-      "name": "Whispers of the Evening",
-      "url": "https://open.spotify.com/track/3JnzwIwPo8dBlf3YCeJIrK"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Home town",
-        "url": "https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr"
-      },
-      "artists": [
-        {
-          "name": "Cole Peers trio",
-          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
-        }
-      ],
-      "duration_ms": 178250,
-      "name": "Home town",
-      "url": "https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "Everytime We Say Goodbye",
         "url": "https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 280734,
       "name": "Everytime We Say Goodbye",
       "url": "https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "Home town",
+        "url": "https://open.spotify.com/album/2uSWzyGyq7Iw3pVgQtjytr"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "duration_ms": 178250,
+      "name": "Home town",
+      "url": "https://open.spotify.com/track/26UQyr3L71oAnXQIJf18gr"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
+        "name": "The Lights",
+        "url": "https://open.spotify.com/album/51rjVgDAsjL0BFbhnbo7a4"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hide Trio",
+          "url": "https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "The Lights",
+      "url": "https://open.spotify.com/track/2UmLEYGqKbIjahx7v1EFIa"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
         "name": "Muddy Trail",
         "url": "https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "The Lights",
-        "url": "https://open.spotify.com/album/51rjVgDAsjL0BFbhnbo7a4"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hide Trio",
-          "url": "https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "The Lights",
-      "url": "https://open.spotify.com/track/2UmLEYGqKbIjahx7v1EFIa"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "Closing Time",
         "url": "https://open.spotify.com/album/6uvsg6dcwLw85DY6z4jMvh"
       },
@@ -1287,22 +1287,6 @@
       "duration_ms": 216097,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/2qLTH8o4woaUd81rgUAeZp"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
-        "name": "The yellow note",
-        "url": "https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD"
-      },
-      "artists": [
-        {
-          "name": "Hollbeck",
-          "url": "https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS"
-        }
-      ],
-      "duration_ms": 229756,
-      "name": "The yellow note",
-      "url": "https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
+        "name": "The yellow note",
+        "url": "https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD"
+      },
+      "artists": [
+        {
+          "name": "Hollbeck",
+          "url": "https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS"
+        }
+      ],
+      "duration_ms": 229756,
+      "name": "The yellow note",
+      "url": "https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
         "name": "You bet!",
         "url": "https://open.spotify.com/album/3LtckKyDK6gOe3dTgVLpq6"
       },
@@ -1335,22 +1335,6 @@
       "duration_ms": 222106,
       "name": "You bet!",
       "url": "https://open.spotify.com/track/79tPOqXrPFr2JDCunwgCt7"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
-        "name": "What room you in?",
-        "url": "https://open.spotify.com/album/2pJzyAeVLq0Ms0xA258gHE"
-      },
-      "artists": [
-        {
-          "name": "Ornette Haynes",
-          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
-        }
-      ],
-      "duration_ms": 197484,
-      "name": "What room you in?",
-      "url": "https://open.spotify.com/track/0aq8Ox33II1IE0fubT3YDe"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Midnight Memories",
-        "url": "https://open.spotify.com/album/1QOozr6l51QtdjLtXmZmkP"
+        "name": "What room you in?",
+        "url": "https://open.spotify.com/album/2pJzyAeVLq0Ms0xA258gHE"
       },
       "artists": [
         {
-          "name": "Arthur Taylor Trio",
-          "url": "https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n"
+          "name": "Ornette Haynes",
+          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
         }
       ],
-      "duration_ms": 170232,
-      "name": "Midnight Memories",
-      "url": "https://open.spotify.com/track/2MsHAU74YmVSjtN7BXFtOS"
+      "duration_ms": 197484,
+      "name": "What room you in?",
+      "url": "https://open.spotify.com/track/0aq8Ox33II1IE0fubT3YDe"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -1415,6 +1399,22 @@
       "duration_ms": 166114,
       "name": "This isn\u2019t home",
       "url": "https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "Midnight Memories",
+        "url": "https://open.spotify.com/album/1QOozr6l51QtdjLtXmZmkP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Taylor Trio",
+          "url": "https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n"
+        }
+      ],
+      "duration_ms": 170232,
+      "name": "Midnight Memories",
+      "url": "https://open.spotify.com/track/2MsHAU74YmVSjtN7BXFtOS"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Reminiscence",
-        "url": "https://open.spotify.com/album/16oWfTUfptSqQ1xF9WaJLE"
-      },
-      "artists": [
-        {
-          "name": "The Levon Trio",
-          "url": "https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ"
-        }
-      ],
-      "duration_ms": 167393,
-      "name": "Reminiscence",
-      "url": "https://open.spotify.com/track/4SjpZ8cCLF6LjCKLr3zZNj"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "In the Mood for Romance",
         "url": "https://open.spotify.com/album/51WtIwzbjyyTsiGXwdiwUR"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 219069,
       "name": "In the Mood for Romance",
       "url": "https://open.spotify.com/track/3hGuzdYTPih41oH3L2m1fu"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "Reminiscence",
+        "url": "https://open.spotify.com/album/16oWfTUfptSqQ1xF9WaJLE"
+      },
+      "artists": [
+        {
+          "name": "The Levon Trio",
+          "url": "https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ"
+        }
+      ],
+      "duration_ms": 167393,
+      "name": "Reminiscence",
+      "url": "https://open.spotify.com/track/4SjpZ8cCLF6LjCKLr3zZNj"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
+        "name": "The bag with cash",
+        "url": "https://open.spotify.com/album/5nGxB4RGvlB9KdI5A09fFv"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "duration_ms": 212829,
+      "name": "The bag with cash",
+      "url": "https://open.spotify.com/track/2UIP33RxIEfUCEFxY0gySi"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
         "name": "A Thousand Candles",
         "url": "https://open.spotify.com/album/49KX5Vrlrqx9q1VmzyBoPa"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 215564,
       "name": "A Thousand Candles",
       "url": "https://open.spotify.com/track/6FPlA5HOSAyEv7QzfCAVy6"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
-        "name": "Walking into Love",
-        "url": "https://open.spotify.com/album/2lfst2A0Lbz8kpzxprjnM2"
-      },
-      "artists": [
-        {
-          "name": "Nordic Swing",
-          "url": "https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4"
-        }
-      ],
-      "duration_ms": 197395,
-      "name": "Walking into Love",
-      "url": "https://open.spotify.com/track/5j3WbWhQJpANH3HFWHtLq5"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "The bag with cash",
-        "url": "https://open.spotify.com/album/5nGxB4RGvlB9KdI5A09fFv"
+        "name": "Walking into Love",
+        "url": "https://open.spotify.com/album/2lfst2A0Lbz8kpzxprjnM2"
       },
       "artists": [
         {
-          "name": "The Holly Molly Trio",
-          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+          "name": "Nordic Swing",
+          "url": "https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4"
         }
       ],
-      "duration_ms": 212829,
-      "name": "The bag with cash",
-      "url": "https://open.spotify.com/track/2UIP33RxIEfUCEFxY0gySi"
+      "duration_ms": 197395,
+      "name": "Walking into Love",
+      "url": "https://open.spotify.com/track/5j3WbWhQJpANH3HFWHtLq5"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "A place I knew",
-        "url": "https://open.spotify.com/album/6LVKVtWLCpQ8LU0sf5miQZ"
-      },
-      "artists": [
-        {
-          "name": "The Sweetgreens",
-          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "A place I knew",
-      "url": "https://open.spotify.com/track/08Y2U1Z3FuXOYNRZgUHXHk"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "Offscreen",
         "url": "https://open.spotify.com/album/7iyVs4uXiQVYxpPX4npAqN"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 155381,
       "name": "Offscreen",
       "url": "https://open.spotify.com/track/0SejxxbVr8Hj7YPu5uqqvV"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "A place I knew",
+        "url": "https://open.spotify.com/album/6LVKVtWLCpQ8LU0sf5miQZ"
+      },
+      "artists": [
+        {
+          "name": "The Sweetgreens",
+          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "A place I knew",
+      "url": "https://open.spotify.com/track/08Y2U1Z3FuXOYNRZgUHXHk"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Distracting Myself",
-        "url": "https://open.spotify.com/album/0zppZ3MWAJT9FpmfiJuxL0"
-      },
-      "artists": [
-        {
-          "name": "Ben Lively",
-          "url": "https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV"
-        }
-      ],
-      "duration_ms": 223363,
-      "name": "Distracting Myself",
-      "url": "https://open.spotify.com/track/5TlNodOiMdtKag4o312jwh"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "Sweet Smile",
         "url": "https://open.spotify.com/album/0z6Bmefx4SMCYqfRqZfJcH"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 234605,
       "name": "Sweet Smile",
       "url": "https://open.spotify.com/track/5DghAA2I1vE1jqFOaJRIsv"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "Distracting Myself",
+        "url": "https://open.spotify.com/album/0zppZ3MWAJT9FpmfiJuxL0"
+      },
+      "artists": [
+        {
+          "name": "Ben Lively",
+          "url": "https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV"
+        }
+      ],
+      "duration_ms": 223363,
+      "name": "Distracting Myself",
+      "url": "https://open.spotify.com/track/5TlNodOiMdtKag4o312jwh"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
+        "name": "Empty Embrace",
+        "url": "https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Jazz Band",
+          "url": "https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n"
+        }
+      ],
+      "duration_ms": 185517,
+      "name": "Empty Embrace",
+      "url": "https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
         "name": "My Sweetest You",
         "url": "https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq"
       },
@@ -2139,22 +2155,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Empty Embrace",
-        "url": "https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd"
-      },
-      "artists": [
-        {
-          "name": "Halcyon Jazz Band",
-          "url": "https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n"
-        }
-      ],
-      "duration_ms": 185517,
-      "name": "Empty Embrace",
-      "url": "https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "Numerous Occasions",
         "url": "https://open.spotify.com/album/4Hn6jU3s5yKVffhJnDr6Et"
       },
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Autumn Promises",
-        "url": "https://open.spotify.com/album/0JUe11QqnjHKIYXaUSKp7m"
-      },
-      "artists": [
-        {
-          "name": "Derek Hines Trio",
-          "url": "https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Autumn Promises",
-      "url": "https://open.spotify.com/track/5kVaJiItTvUFR9jy5lgNQo"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "Till There Was You",
         "url": "https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 155091,
       "name": "Till There Was You",
       "url": "https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "Autumn Promises",
+        "url": "https://open.spotify.com/album/0JUe11QqnjHKIYXaUSKp7m"
+      },
+      "artists": [
+        {
+          "name": "Derek Hines Trio",
+          "url": "https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Autumn Promises",
+      "url": "https://open.spotify.com/track/5kVaJiItTvUFR9jy5lgNQo"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Pot of gold",
-        "url": "https://open.spotify.com/album/7uXT61j09e3hcu2Ncm6mfq"
-      },
-      "artists": [
-        {
-          "name": "The Holly Molly Trio",
-          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
-        }
-      ],
-      "duration_ms": 207473,
-      "name": "Pot of gold",
-      "url": "https://open.spotify.com/track/3UFfw35PZHkM0ZM8IvIGDB"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "Emerald Dreamscape",
         "url": "https://open.spotify.com/album/5QKH9vfQVg0WzHc9vZBd6k"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 178822,
       "name": "Emerald Dreamscape",
       "url": "https://open.spotify.com/track/6y3A2C5g4NtmSTGPA1dn6c"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "Pot of gold",
+        "url": "https://open.spotify.com/album/7uXT61j09e3hcu2Ncm6mfq"
+      },
+      "artists": [
+        {
+          "name": "The Holly Molly Trio",
+          "url": "https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ"
+        }
+      ],
+      "duration_ms": 207473,
+      "name": "Pot of gold",
+      "url": "https://open.spotify.com/track/3UFfw35PZHkM0ZM8IvIGDB"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
+        "name": "A Note's Journey",
+        "url": "https://open.spotify.com/album/7DsmLchOkUIMsesLaVWkWn"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Lewis",
+          "url": "https://open.spotify.com/artist/3BpZjEATDP62xncYcfVkqP"
+        }
+      ],
+      "duration_ms": 228139,
+      "name": "A Note's Journey",
+      "url": "https://open.spotify.com/track/4I6QjfPQz1InbbIOIbw1jz"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
         "name": "First Call",
         "url": "https://open.spotify.com/album/4wZFlDHSxEZ5UVUiFgZrpA"
       },
@@ -2411,18 +2427,18 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "A Note's Journey",
-        "url": "https://open.spotify.com/album/7DsmLchOkUIMsesLaVWkWn"
+        "name": "Beautiful Sunrise",
+        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
       },
       "artists": [
         {
-          "name": "Isaiah Lewis",
-          "url": "https://open.spotify.com/artist/3BpZjEATDP62xncYcfVkqP"
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
         }
       ],
-      "duration_ms": 228139,
-      "name": "A Note's Journey",
-      "url": "https://open.spotify.com/track/4I6QjfPQz1InbbIOIbw1jz"
+      "duration_ms": 327224,
+      "name": "Quiet Sunset",
+      "url": "https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -2443,22 +2459,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Beautiful Sunrise",
-        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
-      },
-      "artists": [
-        {
-          "name": "Arta Porting",
-          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
-        }
-      ],
-      "duration_ms": 327224,
-      "name": "Quiet Sunset",
-      "url": "https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "Blues For Elsie",
         "url": "https://open.spotify.com/album/55CmXhW64nZfXpEeo1ARyk"
       },
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Guess the difference?",
-        "url": "https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh"
-      },
-      "artists": [
-        {
-          "name": "Lia Riggs Trio",
-          "url": "https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U"
-        }
-      ],
-      "duration_ms": 199923,
-      "name": "Guess the difference?",
-      "url": "https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "Smooth Sailing",
         "url": "https://open.spotify.com/album/1k28WBci9JPB2zCTplu2GJ"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 125328,
       "name": "Smooth Sailing",
       "url": "https://open.spotify.com/track/6yRs3JOb7GP0PYhlG6hVbe"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "Guess the difference?",
+        "url": "https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh"
+      },
+      "artists": [
+        {
+          "name": "Lia Riggs Trio",
+          "url": "https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U"
+        }
+      ],
+      "duration_ms": 199923,
+      "name": "Guess the difference?",
+      "url": "https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -2539,18 +2539,18 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Falling In Love With Love",
-        "url": "https://open.spotify.com/album/3K9sLxweNS6ILqTRFSYiJB"
+        "name": "Prez Delight",
+        "url": "https://open.spotify.com/album/3kdLQMUzpzQrGr23eznj7S"
       },
       "artists": [
         {
-          "name": "Drew Milner",
-          "url": "https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5"
+          "name": "Jenny Jones",
+          "url": "https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X"
         }
       ],
-      "duration_ms": 174102,
-      "name": "Falling In Love With Love",
-      "url": "https://open.spotify.com/track/22KchPj2ebXOCwdvK4azrZ"
+      "duration_ms": 215767,
+      "name": "Prez Delight",
+      "url": "https://open.spotify.com/track/6lGjkXzEE95Q0qma4QFVQL"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -2567,6 +2567,22 @@
       "duration_ms": 158866,
       "name": "Sunlit Sonata",
       "url": "https://open.spotify.com/track/56hKxPyecxQKS5ZkyeeBxe"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "Falling In Love With Love",
+        "url": "https://open.spotify.com/album/3K9sLxweNS6ILqTRFSYiJB"
+      },
+      "artists": [
+        {
+          "name": "Drew Milner",
+          "url": "https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5"
+        }
+      ],
+      "duration_ms": 174102,
+      "name": "Falling In Love With Love",
+      "url": "https://open.spotify.com/track/22KchPj2ebXOCwdvK4azrZ"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -2599,22 +2615,6 @@
       "duration_ms": 229727,
       "name": "Low In The Sky",
       "url": "https://open.spotify.com/track/64IxUrxbv4r5Mwxxez5IV2"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
-        "name": "Prez Delight",
-        "url": "https://open.spotify.com/album/3kdLQMUzpzQrGr23eznj7S"
-      },
-      "artists": [
-        {
-          "name": "Jenny Jones",
-          "url": "https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X"
-        }
-      ],
-      "duration_ms": 215767,
-      "name": "Prez Delight",
-      "url": "https://open.spotify.com/track/6lGjkXzEE95Q0qma4QFVQL"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -2763,22 +2763,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Thoughts Of You",
-        "url": "https://open.spotify.com/album/1qwTOSaVVrRVW4vBjjzbza"
-      },
-      "artists": [
-        {
-          "name": "Arto Ferrara",
-          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
-        }
-      ],
-      "duration_ms": 176124,
-      "name": "Thoughts Of You",
-      "url": "https://open.spotify.com/track/1ca7uFXnN2yDZu9TgMy04N"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "Heaven here",
         "url": "https://open.spotify.com/album/5QtsXrImWEImIVTEV3NIai"
       },
@@ -2791,6 +2775,22 @@
       "duration_ms": 212110,
       "name": "Heaven here",
       "url": "https://open.spotify.com/track/2J0A1Z7djWS3n0vSiyvgwQ"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "Thoughts Of You",
+        "url": "https://open.spotify.com/album/1qwTOSaVVrRVW4vBjjzbza"
+      },
+      "artists": [
+        {
+          "name": "Arto Ferrara",
+          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
+        }
+      ],
+      "duration_ms": 176124,
+      "name": "Thoughts Of You",
+      "url": "https://open.spotify.com/track/1ca7uFXnN2yDZu9TgMy04N"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -2859,18 +2859,18 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Overcome with emotion",
-        "url": "https://open.spotify.com/album/7kx9y7Z1NKaropXnE8tPmr"
+        "name": "Summer Romance",
+        "url": "https://open.spotify.com/album/5gDw4M9FAbrAjQcmH5TJc2"
       },
       "artists": [
         {
-          "name": "Felix McCoy Quartet",
-          "url": "https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh"
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
         }
       ],
-      "duration_ms": 194599,
-      "name": "Overcome with emotion",
-      "url": "https://open.spotify.com/track/5ZhZ2RGjOsFOUC57CyCUiJ"
+      "duration_ms": 152469,
+      "name": "Summer Romance",
+      "url": "https://open.spotify.com/track/0UEEd9xywztg2kbt3zRlJt"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -2891,34 +2891,18 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Summer Romance",
-        "url": "https://open.spotify.com/album/5gDw4M9FAbrAjQcmH5TJc2"
+        "name": "Overcome with emotion",
+        "url": "https://open.spotify.com/album/7kx9y7Z1NKaropXnE8tPmr"
       },
       "artists": [
         {
-          "name": "Eternal Time Trio",
-          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
+          "name": "Felix McCoy Quartet",
+          "url": "https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh"
         }
       ],
-      "duration_ms": 152469,
-      "name": "Summer Romance",
-      "url": "https://open.spotify.com/track/0UEEd9xywztg2kbt3zRlJt"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
-        "name": "This Morning",
-        "url": "https://open.spotify.com/album/7mYQhnbJorRqvOtmOepChZ"
-      },
-      "artists": [
-        {
-          "name": "Kuipers & Winter",
-          "url": "https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK"
-        }
-      ],
-      "duration_ms": 201508,
-      "name": "This Morning",
-      "url": "https://open.spotify.com/track/2kpki79GZZ2BNg5dNcvRUO"
+      "duration_ms": 194599,
+      "name": "Overcome with emotion",
+      "url": "https://open.spotify.com/track/5ZhZ2RGjOsFOUC57CyCUiJ"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -2935,6 +2919,22 @@
       "duration_ms": 144173,
       "name": "Maid of the Mist",
       "url": "https://open.spotify.com/track/1VzGuLqOVD04gpXZxCDPiM"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "This Morning",
+        "url": "https://open.spotify.com/album/7mYQhnbJorRqvOtmOepChZ"
+      },
+      "artists": [
+        {
+          "name": "Kuipers & Winter",
+          "url": "https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK"
+        }
+      ],
+      "duration_ms": 201508,
+      "name": "This Morning",
+      "url": "https://open.spotify.com/track/2kpki79GZZ2BNg5dNcvRUO"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -3067,22 +3067,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Paris in Spring",
-        "url": "https://open.spotify.com/album/6j3hvmLvXl1eIHonHyj8cV"
-      },
-      "artists": [
-        {
-          "name": "London Dunes",
-          "url": "https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t"
-        }
-      ],
-      "duration_ms": 233946,
-      "name": "At Dawn",
-      "url": "https://open.spotify.com/track/5nLMgWEQA33IDqZJyCkHND"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "The Only One Was Me",
         "url": "https://open.spotify.com/album/6AG3KpztkGqP75pX37ph1W"
       },
@@ -3095,6 +3079,22 @@
       "duration_ms": 257577,
       "name": "The Only One Was Me",
       "url": "https://open.spotify.com/track/5NLi9si71C7qKhksdIJje2"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "Paris in Spring",
+        "url": "https://open.spotify.com/album/6j3hvmLvXl1eIHonHyj8cV"
+      },
+      "artists": [
+        {
+          "name": "London Dunes",
+          "url": "https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t"
+        }
+      ],
+      "duration_ms": 233946,
+      "name": "At Dawn",
+      "url": "https://open.spotify.com/track/5nLMgWEQA33IDqZJyCkHND"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -3259,22 +3259,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Romancing",
-        "url": "https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS"
-      },
-      "artists": [
-        {
-          "name": "Foster Davies",
-          "url": "https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7"
-        }
-      ],
-      "duration_ms": 175744,
-      "name": "Romancing",
-      "url": "https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "Detour Ahead",
         "url": "https://open.spotify.com/album/3qH33VNF4bKmgjk9Y3BWk4"
       },
@@ -3287,6 +3271,22 @@
       "duration_ms": 245000,
       "name": "P.S. I Love You",
       "url": "https://open.spotify.com/track/1cdNkKJhTzAWW5yMBlvc0v"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "Romancing",
+        "url": "https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS"
+      },
+      "artists": [
+        {
+          "name": "Foster Davies",
+          "url": "https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7"
+        }
+      ],
+      "duration_ms": 175744,
+      "name": "Romancing",
+      "url": "https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -3355,22 +3355,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "In the Blink of an Eye",
-        "url": "https://open.spotify.com/album/5tkmYVK9VnNwsYXoyNyf5i"
-      },
-      "artists": [
-        {
-          "name": "Urskogen Jazz",
-          "url": "https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A"
-        }
-      ],
-      "duration_ms": 208361,
-      "name": "In the Blink of an Eye",
-      "url": "https://open.spotify.com/track/6ojZVftxBE1dGfkJHvE6Lb"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "Snowdrops",
         "url": "https://open.spotify.com/album/3PVgdMK1JW7tlRGHP1r6Zp"
       },
@@ -3383,6 +3367,22 @@
       "duration_ms": 225328,
       "name": "Snowdrops",
       "url": "https://open.spotify.com/track/0yL40qTyxArMV82ufopwdC"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "In the Blink of an Eye",
+        "url": "https://open.spotify.com/album/5tkmYVK9VnNwsYXoyNyf5i"
+      },
+      "artists": [
+        {
+          "name": "Urskogen Jazz",
+          "url": "https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A"
+        }
+      ],
+      "duration_ms": 208361,
+      "name": "In the Blink of an Eye",
+      "url": "https://open.spotify.com/track/6ojZVftxBE1dGfkJHvE6Lb"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -3467,22 +3467,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/231SdPQjS8cC12hJySISpI"
-      },
-      "artists": [
-        {
-          "name": "Billy Buss Quartet",
-          "url": "https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF"
-        }
-      ],
-      "duration_ms": 264101,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/6Tb2bIfXcBmajMseEi8IvV"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "Where Two Oceans Meet",
         "url": "https://open.spotify.com/album/3EMRqLCAtf4AviavLTrQlw"
       },
@@ -3495,6 +3479,22 @@
       "duration_ms": 193308,
       "name": "Where Two Oceans Meet",
       "url": "https://open.spotify.com/track/6zYKe47ZWgbHRdwUUr52TJ"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/231SdPQjS8cC12hJySISpI"
+      },
+      "artists": [
+        {
+          "name": "Billy Buss Quartet",
+          "url": "https://open.spotify.com/artist/5xTgx3md39lCcMRFqZU8hF"
+        }
+      ],
+      "duration_ms": 264101,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/6Tb2bIfXcBmajMseEi8IvV"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -3563,22 +3563,6 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "I Will",
-        "url": "https://open.spotify.com/album/4WRGSWTEHvrWfmIdv382O5"
-      },
-      "artists": [
-        {
-          "name": "Loft Trio",
-          "url": "https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI"
-        }
-      ],
-      "duration_ms": 168712,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/1L7N7WKoeTBDThE4eCX41B"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
         "name": "Too Young To Go Steady",
         "url": "https://open.spotify.com/album/2sba5NbOxg0eaGQGXNgjTh"
       },
@@ -3591,6 +3575,22 @@
       "duration_ms": 146134,
       "name": "Too Young To Go Steady",
       "url": "https://open.spotify.com/track/23yV324zCQ7eARFz6qZxxt"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/4WRGSWTEHvrWfmIdv382O5"
+      },
+      "artists": [
+        {
+          "name": "Loft Trio",
+          "url": "https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI"
+        }
+      ],
+      "duration_ms": 168712,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/1L7N7WKoeTBDThE4eCX41B"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -3755,18 +3755,18 @@
     {
       "added_at": "2026-06-26 08:10:24",
       "album": {
-        "name": "Anything Valuable",
-        "url": "https://open.spotify.com/album/7aDY8EF18etZAMxa1Rm2R7"
+        "name": "All The Things We Were",
+        "url": "https://open.spotify.com/album/0noiiJAIqjOk9Yp1wcS155"
       },
       "artists": [
         {
-          "name": "Jill & Henry",
-          "url": "https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi"
+          "name": "Jenny Jones",
+          "url": "https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X"
         }
       ],
-      "duration_ms": 226286,
-      "name": "Anything Valuable",
-      "url": "https://open.spotify.com/track/5a7Q73tRHa4y1qXPT1VCdC"
+      "duration_ms": 271234,
+      "name": "All The Things We Were",
+      "url": "https://open.spotify.com/track/6052pnXvRCf5U70YC0XLF6"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -3783,6 +3783,22 @@
       "duration_ms": 223839,
       "name": "Through The Raindrops",
       "url": "https://open.spotify.com/track/1w4KVyPxw91ce1Fut6e5DI"
+    },
+    {
+      "added_at": "2026-06-26 08:10:24",
+      "album": {
+        "name": "Anything Valuable",
+        "url": "https://open.spotify.com/album/7aDY8EF18etZAMxa1Rm2R7"
+      },
+      "artists": [
+        {
+          "name": "Jill & Henry",
+          "url": "https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi"
+        }
+      ],
+      "duration_ms": 226286,
+      "name": "Anything Valuable",
+      "url": "https://open.spotify.com/track/5a7Q73tRHa4y1qXPT1VCdC"
     },
     {
       "added_at": "2026-06-26 08:10:24",
@@ -3831,22 +3847,6 @@
       "duration_ms": 244504,
       "name": "Blue Serenade",
       "url": "https://open.spotify.com/track/0eGYsN0NTCkSptLDyhAazK"
-    },
-    {
-      "added_at": "2026-06-26 08:10:24",
-      "album": {
-        "name": "All The Things We Were",
-        "url": "https://open.spotify.com/album/0noiiJAIqjOk9Yp1wcS155"
-      },
-      "artists": [
-        {
-          "name": "Jenny Jones",
-          "url": "https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X"
-        }
-      ],
-      "duration_ms": 271234,
-      "name": "All The Things We Were",
-      "url": "https://open.spotify.com/track/6052pnXvRCf5U70YC0XLF6"
     },
     {
       "added_at": "2026-06-26 08:10:24",

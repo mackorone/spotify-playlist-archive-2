@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080 likes - 197 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,081 likes - 197 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 65 | [THE WORLD IS YOURS](https://open.spotify.com/track/4UaGQWKASSvNQZ2D1wRzel) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:06 |
 | 66 | [LA NOTTE](https://open.spotify.com/track/3dK7LjirF5LVopSoO45dgN) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 3:05 |
 | 67 | [ok :/](https://open.spotify.com/track/6GGHi4QowIR06QB9SHpPrO) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :/](https://open.spotify.com/album/2ky10sJO69l13mgOMxXH9T) | 2:52 |
-| 68 | [se mi pieghi non mi spezzi](https://open.spotify.com/track/5lIWKpRCBgYNgtnMAcXlvx) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO 2](https://open.spotify.com/album/09mCErmqw632szFpDPrvn0) | 2:49 |
-| 69 | [Direzione](https://open.spotify.com/track/11t5LWMbPP6uNxxw5mFzfh) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:53 |
+| 68 | [Direzione](https://open.spotify.com/track/11t5LWMbPP6uNxxw5mFzfh) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:53 |
+| 69 | [se mi pieghi non mi spezzi](https://open.spotify.com/track/5lIWKpRCBgYNgtnMAcXlvx) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO 2](https://open.spotify.com/album/09mCErmqw632szFpDPrvn0) | 2:49 |
 | 70 | [Tonight gospel \(feat\. Mecna\)](https://open.spotify.com/track/1vLaI6OG6I7DUunpuEy9ks) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:42 |
 | 71 | [ko cuore](https://open.spotify.com/track/6SuOMLn460vOrcIe01RMBC) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 4:01 |
 | 72 | [Gelatai](https://open.spotify.com/track/62rjhusM9EyTTtSk6l61wr) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 2:56 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 196 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 | 197 | [Pastello bianco](https://open.spotify.com/track/1OkJez0pACXq0PFne04HOX) | [Bruno Biondi](https://open.spotify.com/artist/4IFzOP78zDKfLxJaskBWvn) | [Compilation Spazioinediti, Vol\. 8 Nuove Proposte](https://open.spotify.com/album/34UixL4dCEdH927BrWbUIq) | 4:00 |
 
-Snapshot ID: `AcfevAAAAADYens2//zZyfi2ItPAZsK3`
+Snapshot ID: `AcfkZgAAAAAwtCTnfMbpJGxAM6Pr78Pu`

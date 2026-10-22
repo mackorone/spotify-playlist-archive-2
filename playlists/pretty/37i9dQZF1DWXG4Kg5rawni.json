@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 115897,
+  "num_followers": 115901,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -811,38 +811,6 @@
     {
       "added_at": "2026-09-08 19:56:25",
       "album": {
-        "name": "Sobre o Amor",
-        "url": "https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        }
-      ],
-      "duration_ms": 172288,
-      "name": "Prometo",
-      "url": "https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx"
-    },
-    {
-      "added_at": "2026-09-08 19:56:25",
-      "album": {
-        "name": "Deus Voc\u00ea e Eu",
-        "url": "https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU"
-      },
-      "artists": [
-        {
-          "name": "Hellen Caroline",
-          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
-        }
-      ],
-      "duration_ms": 219440,
-      "name": "Deus Voc\u00ea e Eu",
-      "url": "https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G"
-    },
-    {
-      "added_at": "2026-09-08 19:56:25",
-      "album": {
         "name": "Te Amaria Outra Vez / Amar Voc\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/0UxVlLy7ryHUWDSBoMaRPe"
       },
@@ -879,6 +847,38 @@
     {
       "added_at": "2026-09-08 19:56:25",
       "album": {
+        "name": "Deus Voc\u00ea e Eu",
+        "url": "https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU"
+      },
+      "artists": [
+        {
+          "name": "Hellen Caroline",
+          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
+        }
+      ],
+      "duration_ms": 219440,
+      "name": "Deus Voc\u00ea e Eu",
+      "url": "https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G"
+    },
+    {
+      "added_at": "2026-09-08 19:56:25",
+      "album": {
+        "name": "Sobre o Amor",
+        "url": "https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        }
+      ],
+      "duration_ms": 172288,
+      "name": "Prometo",
+      "url": "https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx"
+    },
+    {
+      "added_at": "2026-09-08 19:56:25",
+      "album": {
         "name": "25 de fevereiro",
         "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-09-08 19:56:25",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/3gjJw5PsVHPI1Z6Ty5DidA"
-      },
-      "artists": [
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        }
-      ],
-      "duration_ms": 263997,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/6ejwDt9UHxTh2Teh17BgMG"
-    },
-    {
-      "added_at": "2026-09-08 19:56:25",
-      "album": {
         "name": "N\u00e3o H\u00e1 Limites",
         "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 254676,
       "name": "N\u00e3o H\u00e1 Limites",
       "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
+    },
+    {
+      "added_at": "2026-09-08 19:56:25",
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/3gjJw5PsVHPI1Z6Ty5DidA"
+      },
+      "artists": [
+        {
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+        }
+      ],
+      "duration_ms": 263997,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/6ejwDt9UHxTh2Teh17BgMG"
     },
     {
       "added_at": "2026-09-08 19:56:25",

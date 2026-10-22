@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Niniola
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,478 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,500 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 71 | [Sexy Nana](https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Sexy Nana](https://open.spotify.com/album/0u7kWFTWJv57axLNMFxw30) | 2:36 |
 | 72 | [4am](https://open.spotify.com/track/6iyQtOBm7vk72oLleHiF2s) | [kosi.](https://open.spotify.com/artist/6q9sxVAsYdPBk669BlZZVO) | [UP TIL 5](https://open.spotify.com/album/1xCSwnmyoWjkDGaPhSS2Jd) | 2:09 |
 | 73 | [CRAZY OF ME \(feat\. MaWhoo\)](https://open.spotify.com/track/6gkJmjZtPgbCyYKEHWagz3) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [A\*POP](https://open.spotify.com/album/4pX6vyJPKoMGnkRZYhRor6) | 4:12 |
-| 74 | [Redo](https://open.spotify.com/track/4dlHUbuOCEQx5S8ty2fx9O) | [I Am Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [Redo](https://open.spotify.com/album/0F6IlHgfvkaEtg7qGXlItf) | 3:07 |
+| 74 | [Redo](https://open.spotify.com/track/4dlHUbuOCEQx5S8ty2fx9O) | [Roze](https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX) | [Redo](https://open.spotify.com/album/0F6IlHgfvkaEtg7qGXlItf) | 3:07 |
 | 75 | [MR MONEY](https://open.spotify.com/track/0efSv1lfdHXWYBNZTzb10P) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [MR MONEY](https://open.spotify.com/album/1blTR5zWB9ssbP69SRxNMI) | 2:33 |
 | 76 | [DUM](https://open.spotify.com/track/3i2t3pOBrvdX3B9j66ss2A) | [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr) | [DUM](https://open.spotify.com/album/7DGdsVLaKxm97NaRn6XX1j) | 2:08 |
 | 77 | [ACCRA GIRLS](https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [BADDIES <3 MOLIY](https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l) | 2:50 |

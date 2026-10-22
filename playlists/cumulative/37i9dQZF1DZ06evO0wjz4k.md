@@ -4,7 +4,7 @@
 
 > This is Parker McCollum\. The essential tracks, all in one playlist.
 
-83 songs - 5 hr 19 min
+84 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Montgomery County](https://open.spotify.com/track/5oMa8BhzPaTqdPJ0E9rCRm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum \(The Deluxe Edition\)](https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql) | 3:28 | 2026-03-22 |  |
 | [My Blue](https://open.spotify.com/track/18i60D5UgcVUjTPzZdQmPM) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 5:11 | 2025-06-29 |  |
 | [New York Is On Fire](https://open.spotify.com/track/5PpeFaW7pWQre11m6eg3e2) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum \(The Deluxe Edition\)](https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql) | 4:53 | 2026-05-25 | 2026-06-29 |
-| [Paper Umbrellas](https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Paper Umbrellas](https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz) | 3:29 | 2025-06-15 |  |
+| [Paper Umbrellas](https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Paper Umbrellas](https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz) | 3:29 | 2025-06-15 | 2026-10-22 |
 | [Perfectly Lonely](https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Perfectly Lonely](https://open.spotify.com/album/6G4Z9dLR84a2xBEPBP4uMH) | 4:30 | 2025-06-15 | 2026-10-18 |
 | [Permanent Headphones](https://open.spotify.com/track/1gVbNW6zPKkfhVSQu5nVDZ) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 3:28 | 2025-06-29 | 2025-08-11 |
 | [Pretty Heart](https://open.spotify.com/track/7nINhyXn6uwUkYLY5KQH0K) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 4:05 | 2025-06-15 |  |
@@ -80,6 +80,7 @@
 | [Sunny Days](https://open.spotify.com/track/2Idq7J9Y7JwYuUgxBNJmNN) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 4:12 | 2025-06-29 | 2025-11-08 |
 | [Tails I Lose](https://open.spotify.com/track/5H1WgNxf2Fb3EJWn4QgX5E) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:45 | 2025-06-15 |  |
 | [The One Before The One](https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum \(The Deluxe Edition\)](https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql) | 3:40 | 2026-03-23 |  |
+| [Things Are Looking Up \- Acoustic](https://open.spotify.com/track/0J04DFcVkECgYD4iHBV2hx) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Live From Sound City](https://open.spotify.com/album/3cF0CmRy4jMsWM7naXCYdR) | 2:43 | 2026-10-22 |  |
 | [Things I Never Told You](https://open.spotify.com/track/4fxEEvoI7uL0rQ5GzwRnZT) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:41 | 2025-06-15 |  |
 | [To Be Loved By You](https://open.spotify.com/track/2pUQX4d3Cjh3umGkVz0XyI) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:19 | 2025-06-15 |  |
 | [Tommy Jackson](https://open.spotify.com/track/4nlDfq6tduLEza742Awsbo) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Tommy Jackson](https://open.spotify.com/album/3uov1lpwET62tQjA1zl1yc) | 5:05 | 2026-10-11 |  |

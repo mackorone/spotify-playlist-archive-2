@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: JUBEE
 
-2,025 songs - 5 day 2 hr 22 min
+2,025 songs - 5 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [I Love me](https://open.spotify.com/track/0Y5tyjzA8QBQrOyAV6G0gt) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [I Love me](https://open.spotify.com/album/3OdNDDi9o21gKotKQnfa6h) | 3:13 | 2023-08-22 | 2023-09-27 |
 | [I Love me](https://open.spotify.com/track/2x7tc0BJTDDLwg1jQ9ROAB) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [I Love me](https://open.spotify.com/album/1BQ5QzcoyC8RDj3bBE9CNH) | 3:13 | 2023-08-22 | 2023-08-24 |
 | [I Wanna Rock](https://open.spotify.com/track/53VBvE7KifjnYDEZsVXkuo) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [I Wanna Rock](https://open.spotify.com/album/70De7xryq3OuYKNdYyNGPj) | 2:50 | 2025-03-04 | 2025-03-12 |
+| [i won't see you anymore](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 4:02 | 2026-10-20 |  |
 | [I'll Walk Facing You](https://open.spotify.com/track/0kUN0Va1nqjRW4PtK1nMmS) | [OKOJO](https://open.spotify.com/artist/1RTVAEXT1GPXtN6MQjiaXU) | [YAGI](https://open.spotify.com/album/5z5bzXMVXM2GzTwE13hl9s) | 3:02 | 2025-11-25 | 2025-12-03 |
 | [I'm Your…](https://open.spotify.com/track/1eSn0YdWHnZ5EMrzjvt8Pi) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [I'm Your…](https://open.spotify.com/album/6rSllpWQ2yo871H83pdOTn) | 2:12 | 2025-04-08 | 2025-05-22 |
 | [I've](https://open.spotify.com/track/57BQ3n3vnYgBnljelbldxx) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [I've](https://open.spotify.com/album/6irQ8MLqExckzBsv5UcKIF) | 3:23 | 2025-08-05 | 2025-08-13 |
@@ -839,7 +840,6 @@
 | [Tough Love](https://open.spotify.com/track/6y64BIoQhoo7DaybxPKxir) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [Tough Love](https://open.spotify.com/album/1DS0uFeCXZEauZkNdYtm8o) | 3:34 | 2026-09-15 |  |
 | [Toumeiningen](https://open.spotify.com/track/1aSSUbMAjJwOmYRhN5xD6k) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [Sora Ni Kaoru Wa Natsu No Kage](https://open.spotify.com/album/6YsVn5cWsGEU51eWuc9iRo) | 4:36 | 2025-05-27 | 2025-06-18 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2026-01-15 |
-| [Track 5](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 0:00 | 2026-10-20 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-11-26 |
 | [Transform](https://open.spotify.com/track/6M87GvTGFoy3Foo2duOZNu) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [Transform](https://open.spotify.com/album/40BiBHKivD2uvHsAnNPfDH) | 4:15 | 2025-07-22 | 2025-07-30 |
 | [Trapped in the Neon Lights](https://open.spotify.com/track/2U1ZEejCS3AM1JCxPiwK3T) | [The Mighty Project](https://open.spotify.com/artist/1Uz7BX5Tgwzc08SzJytGJg) | [The Best Die Immortalised](https://open.spotify.com/album/4G8oWo1Lb45TAWb97IGk38) | 3:46 | 2025-05-27 | 2025-06-04 |

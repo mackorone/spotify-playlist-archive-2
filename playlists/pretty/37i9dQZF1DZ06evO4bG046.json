@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 37125,
+  "num_followers": 37129,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAACNaGp+Ch5vvkS9EngOXM1y",
+  "snapshot_id": "atVdgAAAAABzmZIIyyfMkkfKYCBf8W3I",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
-        "url": "https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 944040,
-      "name": "Mamalluca",
-      "url": "https://open.spotify.com/track/6HhGrqxEJHOPdOiPLSBFIE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Jaivas",
         "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 249186,
       "name": "Un Mar de Gente",
       "url": "https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
+        "url": "https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 944040,
+      "name": "Mamalluca",
+      "url": "https://open.spotify.com/track/6HhGrqxEJHOPdOiPLSBFIE"
     },
     {
       "added_at": null,
@@ -547,38 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 309048,
-      "name": "En la Cumbre de un Cerro",
-      "url": "https://open.spotify.com/track/0QrnxnUcNNPwUwKZyIa0zS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Jaivas",
-        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "En Tus Horas",
-      "url": "https://open.spotify.com/track/6UVAam0rThCwT8mR30a5mV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trilog\u00eda el Rencuentro",
         "url": "https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH"
       },
@@ -599,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Volant\u00edn",
-        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
       },
       "artists": [
         {
@@ -608,9 +576,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Que o la Tumba Ser\u00e1s",
-      "url": "https://open.spotify.com/track/75jBptGrKXfCoaZlE6wg2R"
+      "duration_ms": 223586,
+      "name": "En Tus Horas",
+      "url": "https://open.spotify.com/track/6UVAam0rThCwT8mR30a5mV"
     },
     {
       "added_at": null,
@@ -624,15 +592,15 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 205680,
-      "name": "Canci\u00f3n para los P\u00e1jaros",
-      "url": "https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C"
+      "duration_ms": 309048,
+      "name": "En la Cumbre de un Cerro",
+      "url": "https://open.spotify.com/track/0QrnxnUcNNPwUwKZyIa0zS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
-        "url": "https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2"
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
       },
       "artists": [
         {
@@ -640,9 +608,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 415653,
-      "name": "Cerro de la Virgen",
-      "url": "https://open.spotify.com/track/0CuG0Bt2h6mrmAggYbYdAT"
+      "duration_ms": 202000,
+      "name": "Que o la Tumba Ser\u00e1s",
+      "url": "https://open.spotify.com/track/75jBptGrKXfCoaZlE6wg2R"
     },
     {
       "added_at": null,
@@ -663,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Volant\u00edn",
-        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
+        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
+        "url": "https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2"
       },
       "artists": [
         {
@@ -672,9 +640,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 394573,
-      "name": "Foto de Primera Comuni\u00f3n",
-      "url": "https://open.spotify.com/track/6dHcWANJCRmNPqMquhllp8"
+      "duration_ms": 415653,
+      "name": "Cerro de la Virgen",
+      "url": "https://open.spotify.com/track/0CuG0Bt2h6mrmAggYbYdAT"
     },
     {
       "added_at": null,
@@ -688,15 +656,15 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 179015,
-      "name": "Bebida M\u00e1gica",
-      "url": "https://open.spotify.com/track/2LBpm2M9rwdheZz6mARVfu"
+      "duration_ms": 205680,
+      "name": "Canci\u00f3n para los P\u00e1jaros",
+      "url": "https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
       },
       "artists": [
         {
@@ -704,9 +672,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 225093,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/32R26AXFfke6v6eSEive5q"
+      "duration_ms": 394573,
+      "name": "Foto de Primera Comuni\u00f3n",
+      "url": "https://open.spotify.com/track/6dHcWANJCRmNPqMquhllp8"
     },
     {
       "added_at": null,
@@ -727,6 +695,38 @@
       "duration_ms": 304933,
       "name": "La Centinela - Versi\u00f3n 1997",
       "url": "https://open.spotify.com/track/0nYOSO5oocI5qHJn8JupIa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 225093,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/32R26AXFfke6v6eSEive5q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 179015,
+      "name": "Bebida M\u00e1gica",
+      "url": "https://open.spotify.com/track/2LBpm2M9rwdheZz6mARVfu"
     },
     {
       "added_at": null,

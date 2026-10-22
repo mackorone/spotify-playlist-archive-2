@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Maui
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,132 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,135 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 27 | [De Lua](https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [De Lua](https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY) | 3:12 |
 | 28 | [Não mente pra mim](https://open.spotify.com/track/2yeomphV6ibKz3sYj1PJ5M) | [Medulla](https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [Não mente pra mim](https://open.spotify.com/album/5qsmxWdCeVCuPJtzs7NHxr) | 3:22 |
 | 29 | [Nem Pensar](https://open.spotify.com/track/6716041U8Mo0R7ELV2fEfq) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Jones](https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg) | [O Último Romântico](https://open.spotify.com/album/7vnAVhIGxgm7V2O6Fq3qTT) | 2:43 |
-| 30 | [Perigos&Macetes](https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Meio Feel](https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3) | [Muito Romântico](https://open.spotify.com/album/12huOOShCMRppercsnKCdS) | 2:28 |
+| 30 | [Defeito Meu](https://open.spotify.com/track/31WTB3bxExrO2kcxybAZUN) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Caetanoprod](https://open.spotify.com/artist/6R5xxWSl6srqCua6mUy6jy) | [R&Belo](https://open.spotify.com/album/4ZBY0O57cdLgFWkp1FsGQt) | 3:15 |
 | 31 | [Rude](https://open.spotify.com/track/739VBGTCWvOJ0zxCtWkX9W) | [Don](https://open.spotify.com/artist/3hAwxMO9sRsHbjS8w5uWAA), [Monrabeatz](https://open.spotify.com/artist/4wbHi5ZR4MGw5jRvMCB75C), [Juce Rock](https://open.spotify.com/artist/0536dOi2J2UZ7GBMx0O4Gv) | [Dublê](https://open.spotify.com/album/792fMLb4bXAmhS9pQMcEBh) | 2:38 |
 | 32 | [Duas Vezes](https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz) | [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c), [Niina](https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Sonora Sessions](https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb) | [Duas Vezes](https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3) | 2:40 |
 | 33 | [Prisioneira de Mim](https://open.spotify.com/track/6wt6zTlUopQ8yR1rTUZIrA) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Relevuras](https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h) | 3:17 |
 | 34 | [Ciúme](https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ciúme](https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy) | 3:20 |
-| 35 | [Defeito Meu](https://open.spotify.com/track/31WTB3bxExrO2kcxybAZUN) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Caetanoprod](https://open.spotify.com/artist/6R5xxWSl6srqCua6mUy6jy) | [R&Belo](https://open.spotify.com/album/4ZBY0O57cdLgFWkp1FsGQt) | 3:15 |
+| 35 | [Perigos&Macetes](https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Meio Feel](https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3) | [Muito Romântico](https://open.spotify.com/album/12huOOShCMRppercsnKCdS) | 2:28 |
 | 36 | [off](https://open.spotify.com/track/3tnnX1Y2wtBaLbc5q6tDMi) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8) | [off](https://open.spotify.com/album/3t4oSLCqgNCCU2VAE3DTn5) | 3:22 |
 | 37 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 |
 | 38 | [Coisas Simples](https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Coisas Simples](https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s) | 2:37 |

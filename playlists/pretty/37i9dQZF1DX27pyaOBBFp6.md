@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,667 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,672 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 63 | [Je Bent Nog Niet Gelukkig Met Een Mooie Vrouw](https://open.spotify.com/track/5Ov14kIrKrGbIdmwZcyT5A) | [Max Woiski Jr.](https://open.spotify.com/artist/5S2Y2OyMuLYbua54iv2QNF) | [Rijst Met Kouseband \(En Andere Poku's\)](https://open.spotify.com/album/56aQwxkpYt8PWWbOqLZuMz) | 2:04 |
 | 64 | [Ik Vraag Het Aan De Sterren](https://open.spotify.com/track/6lyKdpQyifZpfBC7TDwgrb) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:32 |
 | 65 | [Verboden Vruchten](https://open.spotify.com/track/4EAzFow27dcGBbLyuEMa1e) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 2:47 |
-| 66 | [Jij Bent Voor Mij Alleen](https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 2:51 |
-| 67 | [Vrijgezellenflat](https://open.spotify.com/track/2GHLGh39XwbBAjcdx13ojX) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Vroeger \- 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1](https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO) | 3:09 |
+| 66 | [Vrijgezellenflat](https://open.spotify.com/track/2GHLGh39XwbBAjcdx13ojX) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Vroeger \- 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1](https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO) | 3:09 |
+| 67 | [Jij Bent Voor Mij Alleen](https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 2:51 |
 | 68 | [Wil u een stekkie? In een rijtuigie\. Op een mooie Pinksterdag\. M'n opa.](https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T) | [Harry Bannink](https://open.spotify.com/artist/1p8ZTsL8Oyog1jwhp9X3Fd) | [Zingt](https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R) | 8:13 |
 | 69 | [Mama Vertel Me](https://open.spotify.com/track/2tSzuIy0Yhn3jcbdOdmGbm) | [Heintje](https://open.spotify.com/artist/2V4AS8qG0fOsXkH1AgLlB8) | [Hollands Glorie](https://open.spotify.com/album/7Hwcw0ieQVVRrJ8pYFtZjd) | 3:11 |
 | 70 | [Arrivederci Ans](https://open.spotify.com/track/7xu8NzGEawIl7MztxduoGv) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 3:11 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 81 | [Een Pikketanussie](https://open.spotify.com/track/7tSM6TsdJHWbjpm6dQtHdt) | [Johnny Jordaan](https://open.spotify.com/artist/0tlvzmFmhfItI4bdwby03e) | [Hollandse Sterren Collectie](https://open.spotify.com/album/5zPZnVIgLNyJqfSV7fCyr0) | 2:14 |
 | 82 | [Beestjes](https://open.spotify.com/track/5bNlDs2IvevjBJ3MH0FluN) | [Ronnie](https://open.spotify.com/artist/4T7ASdOjsGw9IwfeBt7ZjO), [De Ronnies](https://open.spotify.com/artist/4RSK0PChFYVDOyk9yHrhjC) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:48 |
 | 83 | [Ik Heb Me Weer Vergist](https://open.spotify.com/track/0Uyl6ZCHXgiBW1EfEPjZjt) | [Bob Smit & the Duke City Sextet](https://open.spotify.com/artist/4yFGeDevG1iIHEryWKl7iL) | [The Story of Indo Rock, Vol\. 5](https://open.spotify.com/album/7aRjoPQ3OjMqUQS10W8B1t) | 3:02 |
-| 84 | [Glaasje Op ..\. Laat Je Rijden](https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk) | [Sjakie Schram](https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i) | [De Beste Amsterdamse Hits Ooit](https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk) | 2:29 |
-| 85 | [Oh Was Ik Maar Bij Moeder Thuis Gebleven](https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC) | [Johnny Hoes](https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 3:08 |
+| 84 | [Oh Was Ik Maar Bij Moeder Thuis Gebleven](https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC) | [Johnny Hoes](https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 3:08 |
+| 85 | [Glaasje Op ..\. Laat Je Rijden](https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk) | [Sjakie Schram](https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i) | [De Beste Amsterdamse Hits Ooit](https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk) | 2:29 |
 | 86 | [Ik Ben Gelukkig Zonder Jou](https://open.spotify.com/track/2nfbogbSpAe2nsHEUXzXab) | [Conny Vandenbos](https://open.spotify.com/artist/4U9bAa04kxvEeWVVAGQiVC) | [Favorieten Expres](https://open.spotify.com/album/17bcpuAsqRKMw7Y7HXiWAL) | 2:28 |
 | 87 | [Spel Kaarten](https://open.spotify.com/track/68A1ozNluwp0GuDzSiYnDT) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Heerlijk Hollands \- Het Allerbeste van Gerard de Vries & Henk Wijngaard](https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l) | 4:23 |
 | 88 | [Wat Een Geluk](https://open.spotify.com/track/2rLSLk5ke1KlZJUAyvl5fb) | [Rudi Carrell](https://open.spotify.com/artist/52OEAGQwJplUGohcbmtAG5) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 
 > D vitaminin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,232 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,231 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 | 54 | [Like It Is](https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Like It Is](https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC) | 3:03 |
 | 55 | [Free Woman](https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:11 |
 | 56 | [Looking for Me](https://open.spotify.com/track/17bGtGqqaXOgVnhnfx5NlE) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Looking for Me](https://open.spotify.com/album/55QDKKenyNcudrsy1Svd3o) | 3:31 |
-| 57 | [SUPERBLOOM](https://open.spotify.com/track/2HvtedoEeymVWrBPyAMNwZ) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [SUPERBLOOM](https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob) | 3:33 |
-| 58 | [Swing \- Mahmut Orhan Remix](https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Swing \(Mahmut Orhan Remix\)](https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL) | 4:29 |
+| 57 | [Right Now](https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Right Now](https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P) | 3:21 |
+| 58 | [SUPERBLOOM](https://open.spotify.com/track/2HvtedoEeymVWrBPyAMNwZ) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [SUPERBLOOM](https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob) | 3:33 |
 | 59 | [I'll Wait](https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I'll Wait](https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC) | 3:35 |
-| 60 | [Right Now](https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Right Now](https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P) | 3:21 |
+| 60 | [Swing \- Mahmut Orhan Remix](https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Swing \(Mahmut Orhan Remix\)](https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL) | 4:29 |
 | 61 | [All Day And Night](https://open.spotify.com/track/33CfD8UkDEcSdAP9j4QpUY) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [All Day And Night \(Jax Jones & Martin Solveig Present Europa\)](https://open.spotify.com/album/1VQjtx21AAQnQe442bJssW) | 2:49 |
 | 62 | [Heart to Break](https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Heart to Break](https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD) | 3:45 |
 | 63 | [Hello Hello Hello](https://open.spotify.com/track/1xNknVNOolLB4oQeEtNBX2) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 2:52 |

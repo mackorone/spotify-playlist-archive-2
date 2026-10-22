@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-891 songs - 3 day 6 hr 15 min
+892 songs - 3 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,7 +545,7 @@
 | [My Hope \- Live](https://open.spotify.com/track/3holfAIyBPClGAOAPuPxop) | [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [My Hope \(Live\)](https://open.spotify.com/album/2i7SsF0emsSQP1IRqrEMnY) | 4:26 | 2026-07-24 | 2026-08-18 |
 | [My Jesus](https://open.spotify.com/track/2ryEDwlc0i1KSjFXggX6hG) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [My Jesus](https://open.spotify.com/album/6UEazzBMYexzHKaoQVMvRl) | 3:19 | 2024-09-27 | 2024-11-11 |
 | [My Jesus](https://open.spotify.com/track/0R2bqTjc4TVrfHYoNCyvhy) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [My Jesus](https://open.spotify.com/album/16DoeZYOE3g1CSUyFcM0jp) | 4:41 | 2025-06-27 | 2025-07-30 |
-| [My Life \- Live](https://open.spotify.com/track/0DYIqtWiEnFQUdYD0ozrGJ) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [My Life \(Live\)](https://open.spotify.com/album/32GdJYZW4fA4cj2jnhLYPu) | 8:13 | 2026-07-17 |  |
+| [My Life \- Live](https://open.spotify.com/track/0DYIqtWiEnFQUdYD0ozrGJ) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [My Life \(Live\)](https://open.spotify.com/album/32GdJYZW4fA4cj2jnhLYPu) | 8:13 | 2026-07-17 | 2026-10-22 |
 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 | 2023-09-15 | 2023-11-28 |
 | [My Matter](https://open.spotify.com/track/2q6DBHCrZPTuvLil1lI4F2) | [Princewill Agbazue](https://open.spotify.com/artist/2dpzpGDabUYHCOhggruWZL) | [My Matter](https://open.spotify.com/album/3zSBeEuXyDarNxnJ66aln7) | 2:45 | 2024-02-02 | 2025-06-20 |
 | [My Mind \(Mind Control\)](https://open.spotify.com/track/66Lbj721U9V87wTWvHH23X) | [Atsema](https://open.spotify.com/artist/4sAAgJdj1fCTKC8CNzZCL4), [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [My Mind \(Mind Control\)](https://open.spotify.com/album/2UAvOnIEDOiS63eFvhIjwR) | 2:40 | 2025-06-27 | 2025-07-20 |
@@ -674,6 +674,7 @@
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2023-09-15 | 2024-03-16 |
 | [Revival Is Calling](https://open.spotify.com/track/2OEAgnFxoKXHygiVELBKBW) | [Macwealth & The Seraphs](https://open.spotify.com/artist/7t4MkN7ebYzrUZGJMGY3Bb), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Revival Is Calling](https://open.spotify.com/album/7tKsDCPcpySdghtiT148TK) | 8:58 | 2026-01-30 | 2026-03-22 |
 | [Right On Time](https://open.spotify.com/track/1uF7QsPxujjCj8u65dgrl9) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Since No\. 11](https://open.spotify.com/album/6z12CVRJweLfcMg25JZxXP) | 2:47 | 2024-03-15 | 2024-07-23 |
+| [Righteous One](https://open.spotify.com/track/0Mhpqg33CpDyzCkhZjSNC8) | [Victoria Asi](https://open.spotify.com/artist/2sVPdxLNh2OmgkiNih3LeB), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Righteous One](https://open.spotify.com/album/2cWbIMnEVzMfzlz6M8a1Jv) | 5:17 | 2026-10-16 |  |
 | [Rise Again](https://open.spotify.com/track/4QslrJv6HTxAvbVuGbGAzD) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Rise Again](https://open.spotify.com/album/4Jz256xiPaijzGdNvMS7V8) | 2:33 | 2025-07-18 | 2025-09-22 |
 | [Rise Up \(Lazarus\)](https://open.spotify.com/track/04LAy5aSyniUfX6sXnjsF5) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Rise Up \(Lazarus\)](https://open.spotify.com/album/03vhlBbQj9TOuyVVSv0D3J) | 2:45 | 2024-06-14 | 2024-07-12 |
 | [Ruach Elohim \- Live](https://open.spotify.com/track/4QDlHBxytxVy2xih18S6Qy) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [Ruach Elohim \(Live\)](https://open.spotify.com/album/5YXzvcAelTlwLiOMpVnESh) | 10:37 | 2025-10-31 | 2026-05-27 |

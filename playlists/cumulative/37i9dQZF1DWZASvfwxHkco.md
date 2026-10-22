@@ -4,7 +4,7 @@
 
 > 世界中で話題のエレクトロニック・ダンスミュージックを一つのプレイリストに！Cover: Alison Wonderland, WINK
 
-837 songs - 1 day 19 hr 21 min
+838 songs - 1 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Awake Tonight](https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Awake Tonight](https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0) | 3:10 | 2026-04-09 | 2026-08-18 |
 | [Away](https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Away](https://open.spotify.com/album/32uPiN6yCNSZI6AJ5BmylD) | 3:58 | 2025-06-05 | 2025-06-13 |
 | [Baby](https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Baby](https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo) | 3:13 | 2026-05-07 |  |
+| [Baby](https://open.spotify.com/track/2JfbXVeuhArnP3ASJfIT7d) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Baby](https://open.spotify.com/album/61Sce8yicPSTcvGnBQAKgb) | 3:48 | 2026-10-19 |  |
 | [Baby again..](https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Baby again..](https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF) | 5:19 | 2023-03-16 | 2023-09-19 |
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-04-06 | 2025-06-06 |
 | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/track/493FTCCY5sMAlb10ICFAtJ) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/album/0moJ5HyyeYr64SH8o17Hvf) | 2:39 | 2025-07-17 | 2025-08-17 |
@@ -206,7 +207,7 @@
 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2023-10-05 | 2025-02-24 |
 | [Dust](https://open.spotify.com/track/63ovddHrcXezSAjE8sSBwO) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Dust](https://open.spotify.com/album/6Z0Ql9KvDQjMUOniIx0R5S) | 2:49 | 2024-04-25 | 2024-05-10 |
 | [Easy On My Heart](https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Easy On My Heart](https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab) | 2:58 | 2023-08-31 | 2023-10-17 |
-| [Eat Me Better](https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Eat Me Better](https://open.spotify.com/album/4fhbIL0tPEjPa3abGhPIlk) | 3:08 | 2026-08-30 |  |
+| [Eat Me Better](https://open.spotify.com/track/0w6h053ER8qaIsyJhEtdGu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Eat Me Better](https://open.spotify.com/album/4fhbIL0tPEjPa3abGhPIlk) | 3:08 | 2026-08-30 | 2026-10-22 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-01 | 2024-10-11 |
 | [Echo](https://open.spotify.com/track/1HJqcvrJAgiID47SEGe27X) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Echo](https://open.spotify.com/album/37CYoaYJA39qUt4zl00Dnp) | 3:39 | 2026-04-09 | 2026-07-11 |
 | [Ecstasy](https://open.spotify.com/track/7gT3poPl89krqi8qcBinyU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7) | [MEDUZA](https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc) | 2:19 | 2023-10-12 | 2023-11-03 |

@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 49 | [ESPÍRITU](https://open.spotify.com/track/3CJE62BhA4pHqwwr9UIOX7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 3:03 |
 | 50 | [Amor Propio](https://open.spotify.com/track/5WCl1F8tCPDECysU3yrwQ9) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [DIAMANTES VVS1](https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf) | 3:25 |
 
-Snapshot ID: `atQMAAAAAABRyghx50ILYxThaQOd2rvU`
+Snapshot ID: `atVdgAAAAAAr37+BPH/zH5Jepj0r9eBx`

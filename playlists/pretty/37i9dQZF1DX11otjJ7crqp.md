@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Say Now
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,450 likes - 150 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,680 likes - 150 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,9 +147,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 137 | [Watch You Dance](https://open.spotify.com/track/4lOKG77QX7DXG6x2cZ1egg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Watch You Dance](https://open.spotify.com/album/1fg3ZklsI8O7TdzAHyDRh1) | 2:27 |
 | 138 | [James Dean](https://open.spotify.com/track/5lkAV2SAqgSXN0L2VrNiSi) | [Isabel Dumaa](https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv) | [James Dean](https://open.spotify.com/album/6Wu1NQVa0dXVOctX2M96L3) | 3:01 |
 | 139 | [Nobody Wanna Dance Anymore](https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:20 |
-| 140 | [TALK](https://open.spotify.com/track/24PC2ZyPZ3L746gTjb0pYI) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [TALK](https://open.spotify.com/album/63hcIKrwjvw7thYL4AuVKX) | 2:55 |
+| 140 | [TALK](https://open.spotify.com/track/24PC2ZyPZ3L746gTjb0pYI) | [Lambb](https://open.spotify.com/artist/0j55qvFhVPcwqz7wJoKscs) | [TALK](https://open.spotify.com/album/63hcIKrwjvw7thYL4AuVKX) | 2:55 |
 | 141 | [Sherry Wine](https://open.spotify.com/track/37BMnmcnLT63VCbAdCL307) | [Whitney Whitney](https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R) | [Sherry Wine](https://open.spotify.com/album/3VAZyVBmMCL77esrLijBkL) | 3:25 |
-| 142 | [ADDICTED2U \(feat\. underscores\)](https://open.spotify.com/track/265m78JMXBWdUIft3ch7Ez) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [ADDICTED2U \(feat\. underscores\)](https://open.spotify.com/album/2sjKZOLNyQl0Glf0sev6Ie) | 3:00 |
+| 142 | [ADDICTED2U \(feat\. underscores\)](https://open.spotify.com/track/265m78JMXBWdUIft3ch7Ez) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [ADDICTED2U \(feat\. underscores\)](https://open.spotify.com/album/2sjKZOLNyQl0Glf0sev6Ie) | 2:57 |
 | 143 | [Looking for You](https://open.spotify.com/track/0DC66w1mim0UhUQF9uL6Fx) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Not Normal](https://open.spotify.com/album/5dulP5WwG87ui2VKeEQ60b) | 2:53 |
 | 144 | [Expensive & Difficult](https://open.spotify.com/track/5M2AlK2QmQEgWbtGjj0epX) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [AUDACITY](https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi) | 2:49 |
 | 145 | [Tough Love](https://open.spotify.com/track/1qeDiZrY4LBsycOVHSlYWI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Tough Love](https://open.spotify.com/album/7CiptkUx1T0sHuZgUcwxEq) | 3:15 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2162,
+  "num_followers": 2163,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atQMAAAAAADSKNNzUf4hH5CwwBo1Wnex",
+  "snapshot_id": "atVdgAAAAAAUF0jBF2nDAhgL4/dmEBE7",
   "tracks": [
     {
       "added_at": null,
@@ -167,38 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RENATA",
-        "url": "https://open.spotify.com/album/4reKG6djpYUUDTDbcLX1jz"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "FREEKIDS",
-          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 234642,
-      "name": "RENATA",
-      "url": "https://open.spotify.com/track/78rFjdqCo8SOH9WHQDUCbT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "6AM",
         "url": "https://open.spotify.com/album/5T8BE0bIWYbJo8r5lNhoC1"
       },
@@ -227,6 +195,38 @@
       "duration_ms": 147401,
       "name": "6AM",
       "url": "https://open.spotify.com/track/584QtvdD4qgocm4RMZGaXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RENATA",
+        "url": "https://open.spotify.com/album/4reKG6djpYUUDTDbcLX1jz"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 234642,
+      "name": "RENATA",
+      "url": "https://open.spotify.com/track/78rFjdqCo8SOH9WHQDUCbT"
     },
     {
       "added_at": null,
@@ -719,30 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Covers y Recuerdos",
-        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "La Chona",
-      "url": "https://open.spotify.com/track/0ZaMvWl7iYd2kWzpqQeuq6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pari Pari",
         "url": "https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr"
       },
@@ -767,6 +743,30 @@
       "duration_ms": 153984,
       "name": "Pari Pari",
       "url": "https://open.spotify.com/track/39UW1y3kBC6UOvKqc9vw1u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Covers y Recuerdos",
+        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "La Chona",
+      "url": "https://open.spotify.com/track/0ZaMvWl7iYd2kWzpqQeuq6"
     },
     {
       "added_at": null,
@@ -823,6 +823,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dicen Que Soy Belic\u00f3n",
+        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 197294,
+      "name": "Dicen Que Soy Belic\u00f3n",
+      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre Covers y Recuerdos",
         "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
       },
@@ -867,30 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dicen Que Soy Belic\u00f3n",
-        "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 197294,
-      "name": "Dicen Que Soy Belic\u00f3n",
-      "url": "https://open.spotify.com/track/0dNv0VrHIGppAHQoqkPCQw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sue\u00f1os de la Clika",
         "url": "https://open.spotify.com/album/2IxCJCJ38SMYibMNgntmAJ"
       },
@@ -919,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si No Te Hubieras Ido",
+        "url": "https://open.spotify.com/album/3bMqBBK7coxeJnoe97dHHt"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 221781,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/4wpDOXpF2cGBvOBemsmkx7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre Covers y Recuerdos",
         "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 225770,
       "name": "As\u00ed Fue",
       "url": "https://open.spotify.com/track/6TxFFqTpYaQMCWBeLTWOFF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si No Te Hubieras Ido",
-        "url": "https://open.spotify.com/album/3bMqBBK7coxeJnoe97dHHt"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 221781,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/4wpDOXpF2cGBvOBemsmkx7"
     },
     {
       "added_at": null,
@@ -1023,30 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Covers y Recuerdos",
-        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 168311,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/67g4uYZEDGZrEFMzFfeNSK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POBRE",
         "url": "https://open.spotify.com/album/7kgOdGmRc9QBOtFq0LAt27"
       },
@@ -1071,6 +1047,30 @@
       "duration_ms": 178409,
       "name": "POBRE",
       "url": "https://open.spotify.com/track/2nuBpbteTNAQVZJNKCRE69"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Covers y Recuerdos",
+        "url": "https://open.spotify.com/album/2ewaJEXfIQtBGVWqew16k5"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 168311,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/67g4uYZEDGZrEFMzFfeNSK"
     },
     {
       "added_at": null,

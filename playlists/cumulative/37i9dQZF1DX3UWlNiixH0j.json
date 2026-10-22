@@ -18799,6 +18799,24 @@
     },
     {
       "album": {
+        "name": "meet me in my head",
+        "url": "https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242341,
+      "name": "i won't see you anymore",
+      "url": "https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT"
+    },
+    {
+      "album": {
         "name": "i&i&i",
         "url": "https://open.spotify.com/album/2cfbFrBCbM1CbxbR8l2J5j"
       },
@@ -44304,24 +44322,6 @@
       "duration_ms": 258526,
       "name": "TOY",
       "url": "https://open.spotify.com/track/2NcL3BcH9PwVJsYD1s5n9c"
-    },
-    {
-      "album": {
-        "name": "meet me in my head",
-        "url": "https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M"
-      },
-      "artists": [
-        {
-          "name": "Rol3ert",
-          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
-        }
-      ],
-      "date_added": "2026-10-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT"
     },
     {
       "album": {

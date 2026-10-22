@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musikk fra Makosir, Synne Vo og Chris Abolade mange fler!! ♥️
 
-12,781 songs - 27 day 17 hr 45 min
+12,782 songs - 27 day 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6190,6 +6190,7 @@
 | [KARLO MERE SAT \- ALDRI FØLT DET SÅNN](https://open.spotify.com/track/3cDLAgsonCeiROsbrX3Zr4) | [Turab](https://open.spotify.com/artist/1MkGNTzngx2wG2S41E4LLQ) | [KARLO MERE SAT \(ALDRI FØLT DET SÅNN\)](https://open.spotify.com/album/2jo9aqPikiN5czNdr6E4yY) | 3:06 | 2025-01-02 | 2025-01-10 |
 | [KARLSSON PÅ TAKET](https://open.spotify.com/track/06zZVoBj72dCFNnXDw7SwI) | [BEK & Moberg](https://open.spotify.com/artist/0gWpQRbOQI94EAWpfYQd0X), [Joakim Lundell](https://open.spotify.com/artist/0XNvr6bnNywV946ZKaJtr0) | [KARLSSON PÅ TAKET](https://open.spotify.com/album/1qzCVokapyFjCO6xfiZspY) | 1:59 | 2026-09-24 | 2026-10-02 |
 | [Karma](https://open.spotify.com/track/0MinwE2P21fPkMPzVSP8jM) | [MISS MOLLY](https://open.spotify.com/artist/5evNbllFW2cG5We5y71zfA) | [Karma](https://open.spotify.com/album/2LereCO7XrmyUn5e2WP1q4) | 3:31 | 2024-10-24 | 2024-11-01 |
+| [Karma](https://open.spotify.com/track/4s1xndGOzjMU1sSgC8FJkz) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Legendary Love](https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv) | 3:29 | 2026-10-15 |  |
 | [Karma e en bitch \(med langt blondt hår\)](https://open.spotify.com/track/6K3z2XI6rP6EkWang9MSwa) | [Ingrid Vårvik](https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU) | [Karma e en bitch \(med langt blondt hår\)](https://open.spotify.com/album/0LJ7rlco1GL5VVHum7sBsR) | 2:33 | 2026-09-17 | 2026-09-25 |
 | [Karpe Diem](https://open.spotify.com/track/2ZWlsFcbIFNQ47TQJKAleX) | [Young Cisto](https://open.spotify.com/artist/71JrEJeFYDu3IM47yD7XDy), [Destina](https://open.spotify.com/artist/3AAW36Af8fIA6P7gCr066P) | [Karpe Diem](https://open.spotify.com/album/3ARdq8aDo3y10GnzBClweX) | 1:54 | 2025-01-30 | 2025-02-07 |
 | [KARPE4LIFE](https://open.spotify.com/track/5EMRYazBHIoeKXHZ0941gO) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [OVERTIME/OVERKILL VOL\. 7](https://open.spotify.com/album/2fzl4ljcjIfXZHXfiz3BlL) | 2:46 | 2026-04-30 | 2026-05-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/22hcpbnp4ftoj5Igb2nfGK.md) - [plain]
 
 > pretty flippin&\#x27; peak ;\)
 
-[NtotheBEAN](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 0 likes - 145 songs - 9 hr 1 min
+[NtotheBEAN](https://open.spotify.com/user/uurxc85woi82uy261thqnnt3p) - 1 like - 145 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

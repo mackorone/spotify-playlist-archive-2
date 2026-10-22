@@ -1,13 +1,61 @@
 {
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Pastel Sky. Artwork: Isu Kim.\n",
-  "num_followers": 71983,
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Mika Yusay. Artwork: Isu Kim.\n",
+  "num_followers": 71998,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKIvl7z3MzYcjazjFADy3AusFHQd",
+  "snapshot_id": "AAAAAO1kWziAiejgXmS2YekUhs98wkER",
   "tracks": [
+    {
+      "added_at": "2026-10-21 05:00:25",
+      "album": {
+        "name": "Totoo",
+        "url": "https://open.spotify.com/album/6nSZmRhGv8g8rGWgaW0iwm"
+      },
+      "artists": [
+        {
+          "name": "Jose Miguel",
+          "url": "https://open.spotify.com/artist/745dl1DyHr2dvwhFGmJ1nf"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Totoo",
+      "url": "https://open.spotify.com/track/02Y0vx7WDJ2mqHfKHQGyGA"
+    },
+    {
+      "added_at": "2026-10-21 05:00:25",
+      "album": {
+        "name": "stars",
+        "url": "https://open.spotify.com/album/1f9VaccaZEoS0mQCzqvzmi"
+      },
+      "artists": [
+        {
+          "name": "el.",
+          "url": "https://open.spotify.com/artist/4O1t3O2gxUIDfKDkfzgTQA"
+        }
+      ],
+      "duration_ms": 240746,
+      "name": "stars",
+      "url": "https://open.spotify.com/track/64IKco60dPTNZvd4dnwW1s"
+    },
+    {
+      "added_at": "2026-10-21 05:00:25",
+      "album": {
+        "name": "In Phases",
+        "url": "https://open.spotify.com/album/6amb9LnEG8nB5JGxWl8F5P"
+      },
+      "artists": [
+        {
+          "name": "Mika Yusay",
+          "url": "https://open.spotify.com/artist/530rrIDcbLButvwlbJoDBx"
+        }
+      ],
+      "duration_ms": 184866,
+      "name": "Got Me Down Bad",
+      "url": "https://open.spotify.com/track/3bbweTdiTx65Uu5k4kxFss"
+    },
     {
       "added_at": "2026-10-14 07:36:29",
       "album": {
@@ -675,22 +723,6 @@
     {
       "added_at": "2026-10-07 05:00:19",
       "album": {
-        "name": "Sana",
-        "url": "https://open.spotify.com/album/4wo4Ajr7uuyqBBI8p2f2fL"
-      },
-      "artists": [
-        {
-          "name": "Letter Day Story",
-          "url": "https://open.spotify.com/artist/2DQsTcDI6YQaIKgY1FjH1M"
-        }
-      ],
-      "duration_ms": 206805,
-      "name": "Sana",
-      "url": "https://open.spotify.com/track/0UIeyQRmzp9O7Q9IX9drEV"
-    },
-    {
-      "added_at": "2026-10-07 05:00:19",
-      "album": {
         "name": "Kay Ganda",
         "url": "https://open.spotify.com/album/6zhGvzWTbNaAJKOFjFFVH9"
       },
@@ -775,22 +807,6 @@
     {
       "added_at": "2026-10-07 05:00:19",
       "album": {
-        "name": "Tulala",
-        "url": "https://open.spotify.com/album/7Ct8aRZ7H6jiSbb7KqN9x3"
-      },
-      "artists": [
-        {
-          "name": "Kim Leo",
-          "url": "https://open.spotify.com/artist/1xrEK9wTluzytuuBW2U7Iu"
-        }
-      ],
-      "duration_ms": 281416,
-      "name": "Tulala",
-      "url": "https://open.spotify.com/track/4t6oxXMe7nMT7so5zvayBT"
-    },
-    {
-      "added_at": "2026-10-07 05:00:19",
-      "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/6tJLNtMiKLl8tSBTrNRudw"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 190837,
       "name": "5AM",
       "url": "https://open.spotify.com/track/4eyEuejVygsDJbOlDVIiwF"
-    },
-    {
-      "added_at": "2026-10-07 05:00:19",
-      "album": {
-        "name": "Biggest Critic",
-        "url": "https://open.spotify.com/album/3DHRwOgqD1G2lpzNiXrLLE"
-      },
-      "artists": [
-        {
-          "name": "Rafi",
-          "url": "https://open.spotify.com/artist/7wWWnyjBVXSwvTrXAuURtl"
-        }
-      ],
-      "duration_ms": 209250,
-      "name": "Biggest Critic",
-      "url": "https://open.spotify.com/track/2M3GCRCIOh6s1K0pagulso"
     },
     {
       "added_at": "2026-10-07 05:00:19",

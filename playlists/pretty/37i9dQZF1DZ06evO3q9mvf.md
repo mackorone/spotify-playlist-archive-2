@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q9mvf.md) - [plain]
 | 3 | [Man Next Door](https://open.spotify.com/track/5KIdc61y8co2zgfiweoUm5) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Sherwood At The Controls: Volume 1 1979 \- 1984](https://open.spotify.com/album/7l6Rrf26u7qp9iU3iMIN4s) | 3:30 |
 | 4 | [Earthbeat \(7" Version\)](https://open.spotify.com/track/0xh2mM35Bnp4lm3GL5DLrk) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 3:50 |
 | 5 | [Typical Girls](https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:55 |
-| 6 | [FM](https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs) | 3:33 |
+| 6 | [Spend, Spend, Spend](https://open.spotify.com/track/0bPIKFrGacMfW0kvqMMk67) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs) | 3:15 |
 | 7 | [Slits Tradition](https://open.spotify.com/track/1MLv9M4DLMesS2ZmThPH0B) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Revenge of the Killer Slits](https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6) | 3:20 |
 | 8 | [Walkabout](https://open.spotify.com/track/4kohoXmcTc8bg09J0XUocD) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:42 |
 | 9 | [Instant Hit](https://open.spotify.com/track/18sfTFdvZqJAtdqmVDCLNp) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 2:43 |
-| 10 | [Spend, Spend, Spend](https://open.spotify.com/track/0bPIKFrGacMfW0kvqMMk67) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs) | 3:15 |
+| 10 | [FM](https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs) | 3:33 |
 | 11 | [From The Basement](https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [From The Basement](https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs) | 1:38 |
 | 12 | [Difficult Fun](https://open.spotify.com/track/1US67bAlfUBKg1zwTgoY41) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:05 |
 | 13 | [Shoplifting](https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 1:35 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q9mvf.md) - [plain]
 | 31 | [In The Beginning](https://open.spotify.com/track/6psWuKnXsVNryfsHLAGvIV) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 6:05 |
 | 32 | [Vaseline \(Live at The Gibus Club, 1978\)](https://open.spotify.com/track/7seUtjCNUDcPQEhXry2F2N) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Live at the Gibus Club](https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9) | 2:15 |
 
-Snapshot ID: `atQMAAAAAADKomlobVbxxP9hrwnZI3Z8`
+Snapshot ID: `atVdgAAAAABloBt/NU2bGoG8HX8YrL+B`

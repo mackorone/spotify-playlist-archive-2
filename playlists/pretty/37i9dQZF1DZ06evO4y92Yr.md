@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y92Yr.md) - [plain]
 
 > This is Chappell Roan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,137 likes - 18 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,136 likes - 18 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y92Yr.md) - [plain]
 | 17 | [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 |
 | 18 | [Bad for You](https://open.spotify.com/track/68njXuc0Fj7kzR70Ad0Wav) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [School Nights](https://open.spotify.com/album/44u4QMvReXg0lhHl9xARxu) | 3:52 |
 
-Snapshot ID: `atQMAAAAAAATgupKAQbqTfKEf8vRpn3P`
+Snapshot ID: `atVdgAAAAADDydfKdNLKDljFXT20tFHv`

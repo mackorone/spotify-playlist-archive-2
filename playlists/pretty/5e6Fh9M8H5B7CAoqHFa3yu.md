@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,762 songs - 6 day 16 hr 50 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,763 songs - 6 day 16 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2770,5 +2770,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2760 | [Dubai](https://open.spotify.com/track/6UX7fFJ3AAoDN8ereWFubj) | [Mwamba Group](https://open.spotify.com/artist/4wQTmrzVZ2pUDsr2gaUXND) | [Dubai](https://open.spotify.com/album/6MawYjXAfwowgLCtJwQOF2) | 2:12 |
 | 2761 | [Sunshine Together](https://open.spotify.com/track/1rMtSIyUqCho7FSR5rlmem) | [ArtziPop](https://open.spotify.com/artist/5KApxUECyARPxuTxFbnD6i) | [Sunshine Together – Remixes](https://open.spotify.com/album/2Tz0BtvF8jQ4V5TJ6LCdf3) | 3:12 |
 | 2762 | [Dead End Road](https://open.spotify.com/track/43hAOE3V7rJ6U45EH1mCKC) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [The Sound of Static](https://open.spotify.com/album/1AhJR1phukAEoqH4PwDwKR) | 2:26 |
+| 2763 | [Mean it at all](https://open.spotify.com/track/0H4xd2FKtWYgrH7uxMBw9S) | [Maria Krauss](https://open.spotify.com/artist/2voazIy50xtxd794uJu5Fl) | [Mean it at all](https://open.spotify.com/album/7wcubevLDln9Wi0WxasZGG) | 3:43 |
 
-Snapshot ID: `AAAL1IPkFy4hA3aQR3FjG4CstIVeQnLa`
+Snapshot ID: `AAAL1ardG+UQAt7+CfYLkg/mLLQvbw/p`

@@ -4,7 +4,7 @@
 
 > A  blend of J\-pop to soundtrack your perfect matcha moment.
 
-148 songs - 9 hr 59 min
+149 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [CHE.R.RY](https://open.spotify.com/track/6PBBGlTEVfUyfnmemrnhbp) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [CAN'T BUY MY LOVE](https://open.spotify.com/album/1TCG8A2sec3PlbTeB5qrWd) | 3:29 | 2026-04-07 | 2026-08-26 |
 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 | 2025-10-26 |  |
 | [Closer](https://open.spotify.com/track/78wTGdtAfI8ymGt89CDpxB) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [OJAZ](https://open.spotify.com/album/34aw7mdLTBpdHPAKhPzFIs) | 4:09 | 2026-02-18 | 2026-04-18 |
+| [come again](https://open.spotify.com/track/477CB93mH986mrIheQD0RR) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [EXPO EXPO](https://open.spotify.com/album/5s6G3HzAqcKNJt90LeFw19) | 5:51 | 2026-08-24 |  |
 | [Eureka](https://open.spotify.com/track/0ZNbXoRUhaSMhYcL4LWDg9) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Eureka](https://open.spotify.com/album/3MEn72g7bS4CB7zd4ficcI) | 3:31 | 2025-10-26 |  |
 | [Hangover](https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Hangover](https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2) | 3:26 | 2026-04-17 |  |
 | [I REMEMBER YOU](https://open.spotify.com/track/2pnNh4K3tzSoqAy11vaXrH) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [TAKANAKA](https://open.spotify.com/album/6yFKbGAkjgnjQjfttbCAkW) | 5:27 | 2026-04-07 |  |
@@ -118,7 +119,7 @@
 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \- Bansanka](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 | 2026-04-17 |  |
 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/075HUD50Nuea3rNaABIsNZ) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 3:37 | 2025-10-26 | 2026-04-18 |
 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 | 2025-10-26 |  |
-| [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 | 2026-04-17 |  |
+| [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 | 2026-04-17 | 2026-10-22 |
 | [東京フラッシュ](https://open.spotify.com/track/04e72JtsOIIlHUQ7CvWwvX) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 4:18 | 2025-10-26 |  |
 | [森の小さなレストラン](https://open.spotify.com/track/37XYyITs3EVTmU5eNrimEd) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [森の小さなレストラン](https://open.spotify.com/album/7hm7ZNdqoUd7IggwgxhRGB) | 2:33 | 2026-01-29 |  |
 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 | 2026-01-11 |  |

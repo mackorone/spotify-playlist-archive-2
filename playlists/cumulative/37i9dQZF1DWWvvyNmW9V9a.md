@@ -4,7 +4,7 @@
 
 > every single night...
 
-2,886 songs - 6 day 6 hr 9 min
+2,887 songs - 6 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-04-08 | 2022-04-28 |
 | [Angel Baby \- Slowed](https://open.spotify.com/track/0oKCOb4l4P8B8dvGIksZE6) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [Angel Baby \(Slowed\)](https://open.spotify.com/album/2QaCQEqA7YIW9cvYzDl33w) | 4:22 | 2022-05-06 | 2022-05-10 |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-08-16 | 2024-10-19 |
+| [Angel Of My Dreams](https://open.spotify.com/track/5uU9RcqmUxm8z8coudZ8eN) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 3:17 | 2026-10-21 |  |
 | [Angel Of My Dreams \- S.A.D\. Version \- Slow\. Angelic\. Dramatic.](https://open.spotify.com/track/6NayZTCSB2d4New8oIgBx0) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams \(S.A.D\. Version \- Slow\. Angelic\. Dramatic.\)](https://open.spotify.com/album/6qsraqaELWLaPZkNDZkzYB) | 3:45 | 2024-08-09 | 2024-08-17 |
 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/1XUXrNFoi9ixlH3fn8MRXQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:55 | 2023-05-19 | 2023-06-10 |
 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 | 2022-06-08 | 2022-09-03 |

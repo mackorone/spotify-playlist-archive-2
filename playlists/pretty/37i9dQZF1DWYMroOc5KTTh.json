@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 770165,
+  "num_followers": 770209,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-10-02 00:00:02",
       "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
+    },
+    {
+      "added_at": "2026-10-02 00:00:02",
+      "album": {
         "name": "Music is Life",
         "url": "https://open.spotify.com/album/2w2CJpHGsCYFPjh6Ma6YuO"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 288000,
       "name": "Music is Life",
       "url": "https://open.spotify.com/track/4blPk8aWh2odUS0ENW2gfr"
-    },
-    {
-      "added_at": "2026-10-02 00:00:02",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z"
     },
     {
       "added_at": "2026-10-02 00:00:02",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-10-02 00:00:02",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0j0sUSMQbwoktczLWHF7sm"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/4dcmCYvb3NWBn0MQoVhg6z"
+    },
+    {
+      "added_at": "2026-10-02 00:00:02",
+      "album": {
         "name": "Seasoning",
         "url": "https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 203869,
       "name": "Seasoning (feat. 2b.Frank)",
       "url": "https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt"
-    },
-    {
-      "added_at": "2026-10-02 00:00:02",
-      "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
     },
     {
       "added_at": "2026-10-02 00:00:02",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-10-02 00:00:02",
       "album": {
+        "name": "Everything Will Be Alright",
+        "url": "https://open.spotify.com/album/3VW3rR8BFAITqgT45WX3Cv"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Mixed Emotions",
+      "url": "https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs"
+    },
+    {
+      "added_at": "2026-10-02 00:00:02",
+      "album": {
         "name": "Sound of You (ft TEED)",
         "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2026-10-02 00:00:02",
       "album": {
-        "name": "Everything Will Be Alright",
-        "url": "https://open.spotify.com/album/3VW3rR8BFAITqgT45WX3Cv"
+        "name": "Ultramoon",
+        "url": "https://open.spotify.com/album/6O8GMEXbeYI10TNpsTVvKW"
       },
       "artists": [
         {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Mixed Emotions",
-      "url": "https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs"
+      "duration_ms": 256526,
+      "name": "Ultramoon",
+      "url": "https://open.spotify.com/track/5qbjYuBa1o7uHwMhl779jV"
     },
     {
       "added_at": "2026-10-02 00:00:02",
@@ -823,22 +839,6 @@
       "duration_ms": 179962,
       "name": "Take Our Time",
       "url": "https://open.spotify.com/track/35ESi5vxKuXZu29EH1mFdI"
-    },
-    {
-      "added_at": "2026-10-02 00:00:02",
-      "album": {
-        "name": "Ultramoon",
-        "url": "https://open.spotify.com/album/6O8GMEXbeYI10TNpsTVvKW"
-      },
-      "artists": [
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        }
-      ],
-      "duration_ms": 256526,
-      "name": "Ultramoon",
-      "url": "https://open.spotify.com/track/5qbjYuBa1o7uHwMhl779jV"
     },
     {
       "added_at": "2026-10-02 00:00:02",
@@ -903,22 +903,22 @@
     {
       "added_at": "2026-10-02 00:00:02",
       "album": {
-        "name": "You Don't Want To Think About It",
-        "url": "https://open.spotify.com/album/2BzcIVU5DxiR4yvdm2iClK"
+        "name": "Pure Shores",
+        "url": "https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2"
       },
       "artists": [
         {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+          "name": "All Saints",
+          "url": "https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4"
         },
         {
-          "name": "Noa Milee",
-          "url": "https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4"
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
         }
       ],
-      "duration_ms": 142973,
-      "name": "You Don't Want To Think About It",
-      "url": "https://open.spotify.com/track/3ULfGDITqxInNepI808JDe"
+      "duration_ms": 239542,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ"
     }
   ],
   "unique_name": "Serotonin",

@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "Boots (feat. Shania Twain)",
+        "url": "https://open.spotify.com/album/4uwwxmoZWDLb5lbM8aDnGf"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193790,
+      "name": "Boots (feat. Shania Twain)",
+      "url": "https://open.spotify.com/track/01250QTCDYXoXq6ikHoc4R"
+    },
+    {
+      "album": {
         "name": "Bored",
         "url": "https://open.spotify.com/album/1LmlKG7YUCj5lB7Ren2eOE"
       },

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-829 songs - 2 day 3 hr 38 min
+831 songs - 2 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Lost and Found](https://open.spotify.com/track/3qmTYEoQo7IwEsajEfFxfn) | [Cane Rouge](https://open.spotify.com/artist/1uiVgmOdSFSlgDfbJx1rJw) | [Lost and Found](https://open.spotify.com/album/1YRH642XRDebs2vrnsxw4k) | 3:30 | 2026-07-25 |  |
 | [Lost Inside The Sound](https://open.spotify.com/track/5hvZynQUpMYVnKV0H6yM5C) | [Beyond Disdain](https://open.spotify.com/artist/2MpVNPYFczBeNjPXePyVB4), [Selene Calder](https://open.spotify.com/artist/6ol142WWS5UFXOVXQ6hRs3) | [Till Death Parts Us](https://open.spotify.com/album/6I9dVel8cyK5qwEhjq5BIb) | 4:19 | 2026-08-27 |  |
 | [Love](https://open.spotify.com/track/0ApKAgVZmOG6DdfjO9BQHR) | [David McKnight](https://open.spotify.com/artist/6ok5d7uaATSwly0SKtNZ2Z) | [Love](https://open.spotify.com/album/0zXTGKTKT4ascu8laqtbsN) | 2:43 | 2026-05-12 | 2026-05-26 |
+| [Love & Thunder](https://open.spotify.com/track/7JwU1ozmYIVZZiC0wkHlgu) | [Static Revolver](https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi) | [Love & Thunder](https://open.spotify.com/album/0CDKCOhgkwqMwx0Ku1Y7Sg) | 3:48 | 2026-10-21 |  |
 | [Love Bomb Me](https://open.spotify.com/track/7qZgGW3dEySJaU9aXgQmn9) | [Who's Amber?](https://open.spotify.com/artist/1k1JkZDYdPfGr7sMhuzReV) | [Love Bomb Me](https://open.spotify.com/album/0Ht9x8uHVCDnGVG8yYiT1a) | 4:02 | 2025-10-04 | 2025-12-17 |
 | [LOVE CRY](https://open.spotify.com/track/1jZitmjNQnvi4bIAMaa6ED) | [The Morning Sons](https://open.spotify.com/artist/5Q0x4IVSxDcFgOwgyikTwD) | [LOVE CRY](https://open.spotify.com/album/1igVBGMLk0OiqaWjhFp1uV) | 5:15 | 2026-03-01 | 2026-07-12 |
 | [Love dont live here no more](https://open.spotify.com/track/46ddaPksuVwz9I1I0MELlU) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 4:25 | 2026-01-27 | 2026-03-18 |
@@ -550,6 +551,7 @@
 | [Perro insensible](https://open.spotify.com/track/61sja73d8He0LLeEFtznED) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 3:07 | 2025-09-29 | 2025-12-17 |
 | [Pheromone Too \(Hard Mix\)](https://open.spotify.com/track/76Z8LaWHDpelBLtqeHYdxV) | [Musicismost](https://open.spotify.com/artist/1e9D47jZbnrgXSD9HlJSPK) | [Pheromone Too \(Hard Mix\)](https://open.spotify.com/album/1WyfzVrgGwWtsaXpZKo9Uq) | 3:51 | 2025-12-16 | 2026-04-21 |
 | [Phoenix Blood](https://open.spotify.com/track/5T9vB7ik3DayIDTKArLzWN) | [Beyond Forever](https://open.spotify.com/artist/4IidouvoRFPlb95I8JEPKL) | [Phoenix Blood](https://open.spotify.com/album/25H5LMWei4hNC8dZQhspZa) | 3:02 | 2025-11-01 | 2025-12-17 |
+| [Piensalo dos veces](https://open.spotify.com/track/6c1YfviezL0YtuQGNslWZi) | [Rokdëbil](https://open.spotify.com/artist/6XwejHVkpCvWg3DTD249Lf) | [Piensalo dos veces](https://open.spotify.com/album/74DWhau5rAHpE1XerTaVxW) | 4:55 | 2026-10-21 |  |
 | [Pink Mars](https://open.spotify.com/track/6ZqwVLomAVnI6sKukX2coy) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Pink Mars](https://open.spotify.com/album/7z1mPkBv180DxtOMmyWICw) | 3:44 | 2025-11-29 | 2025-12-17 |
 | [Polaroid](https://open.spotify.com/track/4GQAIUhNo73PKzoCAJGFcs) | [Artide](https://open.spotify.com/artist/7JDUHZiaiEls9VVH7hmnNF) | [Polaroid](https://open.spotify.com/album/1vQ9FBJUrpnFFRabr4Q50s) | 3:23 | 2026-05-21 | 2026-06-18 |
 | [Pongo Pygmeaus](https://open.spotify.com/track/43PVaUwpwUbo1FRsngTdTW) | [Prognoz](https://open.spotify.com/artist/48D2g5B3xl0nzi9H36ZlzB) | [Flower](https://open.spotify.com/album/3GwlbFzX1GgH0skFuDnFjG) | 6:16 | 2026-07-08 |  |

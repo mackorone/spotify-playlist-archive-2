@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: WurtS
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,546 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,568 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 9 | [夕星\-ゆうづつ\-](https://open.spotify.com/track/4zFFLQwm2zzQg8bcg9dald) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [夕星\-ゆうづつ\-](https://open.spotify.com/album/3MxAQkUqMhSm1C2aLRSlnQ) | 4:37 |
 | 10 | [エンバートーチ](https://open.spotify.com/track/3DEkdEfqKAaTt9Z5QhjhxC) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [エンバートーチ](https://open.spotify.com/album/6gOb9Jv6UpHGBK5rtRRsqY) | 3:30 |
 | 11 | [ありふれた世界の果てに \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/track/7HNGIBi7xkcN1YGyhdjPkA) | [YAO](https://open.spotify.com/artist/2hYEEgRuJ4XS4B8y7E75TO), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [ありふれた世界の果てに \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/album/6KTsZEbfsMrOl60ApHL7hK) | 3:54 |
-| 12 | [Track 5](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 0:00 |
+| 12 | [i won't see you anymore](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 4:02 |
 | 13 | [橙光](https://open.spotify.com/track/1r7Ajz34q9XAh6NU0gWD9W) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [やわらかな洞窟](https://open.spotify.com/album/3RtxtYGdXqvEh5RlZrYze7) | 4:41 |
 | 14 | [消えない理由](https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [消えない理由](https://open.spotify.com/album/69GUXMqIsG12AEYIg5Uy7R) | 4:09 |
 | 15 | [セブンティーン](https://open.spotify.com/track/1vNtCcYVxahCeDMA6M6JbL) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Canon Feel](https://open.spotify.com/album/2OqN3FimyCvZpPR1UpVshu) | 4:49 |

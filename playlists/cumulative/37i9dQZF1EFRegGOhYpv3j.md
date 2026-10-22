@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Yyn4ntHauNSEpS4cnQALP">Alysa Vanderheym</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-118 songs - 6 hr 10 min
+119 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Better Than You’re Used To](https://open.spotify.com/track/7stizS5H8h8ABU390mkhZC) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Better Than You're Used To](https://open.spotify.com/album/37GJGzAddc4qHBq4UySNLS) | 3:18 | 2024-04-03 |  |
 | [Blindsided \(Yeah, Sure, Okay\)](https://open.spotify.com/track/65eeFF3JE3YytATkV5Ga1Y) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:47 | 2024-04-03 |  |
 | [Blue Dream Baby](https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Blue Dream Baby](https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc) | 2:56 | 2024-04-03 |  |
+| [Boots \(feat\. Shania Twain\)](https://open.spotify.com/track/01250QTCDYXoXq6ikHoc4R) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Boots \(feat\. Shania Twain\)](https://open.spotify.com/album/4uwwxmoZWDLb5lbM8aDnGf) | 3:13 | 2026-10-21 |  |
 | [Bored](https://open.spotify.com/track/2In2EZDnS9jPScxdgx8axv) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Bored](https://open.spotify.com/album/1LmlKG7YUCj5lB7Ren2eOE) | 3:30 | 2024-04-03 |  |
 | [Born Again](https://open.spotify.com/track/7JcGS8KvdGXHkol58AroZ2) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:36 | 2024-10-13 |  |
 | [Breakfast in Bed \(feat\. Avenue Beat\)](https://open.spotify.com/track/2E6l2tlco2SpF2LC7pjFHN) | [Sophia Messa](https://open.spotify.com/artist/4EtJmdsecF1RlU8cOo6BBR), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Ice Cream & Cigarettes EP](https://open.spotify.com/album/1pjNf0VLIZl047irwTJT2a) | 2:21 | 2025-05-31 |  |

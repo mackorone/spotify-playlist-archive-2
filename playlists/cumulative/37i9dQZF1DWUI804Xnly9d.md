@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Bhediya
 
-666 songs - 1 day 13 hr 12 min
+667 songs - 1 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,7 +527,7 @@
 | [Saza \- City Sessions, Vol\. 2 \(Side B\)](https://open.spotify.com/track/35PtfO8Xpv2w8jqup2QctA) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO) | [City Sessions, Vol\. 2](https://open.spotify.com/album/3VrtB4dmLvMvmTsE0cAT4J) | 3:20 | 2025-09-26 | 2025-11-08 |
 | [Secrets](https://open.spotify.com/track/5HENJVFTpwo7n8RvXhex2g) | [Andrew KZ](https://open.spotify.com/artist/2mqU4ypOkvjz5TWWtWsOtR) | [Secrets](https://open.spotify.com/album/0Edq37EUIlXNqtfniAWYOa) | 1:58 | 2024-08-01 | 2024-08-31 |
 | [Sehar](https://open.spotify.com/track/1IWXDizuyzuBz7nXI6Wgdn) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Sehar](https://open.spotify.com/album/6VUXsat2DolMlpzhSmncd6) | 3:36 | 2025-07-08 | 2025-08-12 |
-| [Sehne Waale Ko](https://open.spotify.com/track/4Xnmp3WWFbHKAiRIfwlb7u) | [MYNK](https://open.spotify.com/artist/1vpBI2qjRp4GXz6s24fIsY) | [Sehne Waale Ko](https://open.spotify.com/album/1FLxMp8DGEBHuAPIjwmAb5) | 2:44 | 2026-09-25 |  |
+| [Sehne Waale Ko](https://open.spotify.com/track/4Xnmp3WWFbHKAiRIfwlb7u) | [MYNK](https://open.spotify.com/artist/1vpBI2qjRp4GXz6s24fIsY) | [Sehne Waale Ko](https://open.spotify.com/album/1FLxMp8DGEBHuAPIjwmAb5) | 2:44 | 2026-09-25 | 2026-10-22 |
 | [September](https://open.spotify.com/track/2fDy9nSilEVvD2AoWL2es7) | [Sukrit Thakur](https://open.spotify.com/artist/3VBJZ7z2qR2hPlMrtAeqLv) | [September](https://open.spotify.com/album/6zVilVx3Xo9yP5xMsoZZ8o) | 2:16 | 2025-04-16 |  |
 | [Shaam](https://open.spotify.com/track/4hckLrzyRR4iRZB6HJhVCF) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4), [Timothy Thampy](https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK) | [Shaam](https://open.spotify.com/album/5vw2CBcqLwIG5NkKzQTkxS) | 2:48 | 2026-05-28 | 2026-08-01 |
 | [Shaam O Seher](https://open.spotify.com/track/2oDcHokGFyUid59aiw36DT) | [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx), [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Shaam O Seher](https://open.spotify.com/album/2xHtltGELNqIsy4agezGGA) | 3:03 | 2024-03-05 | 2024-06-01 |
@@ -638,6 +638,7 @@
 | [Uljhe se hum](https://open.spotify.com/track/6TPYVkZRpeL2rwkvUDuYhm) | [Vishal Sinha](https://open.spotify.com/artist/0UJG2meWUtvjPFAcyrOOBN) | [Uljhe se hum](https://open.spotify.com/album/5CPpw1mdt73Fs6Dd6qegJx) | 3:40 | 2023-09-09 | 2023-10-27 |
 | [Unke bina \(Raw\)](https://open.spotify.com/track/0S2VhMptqhyylEowrvMRRx) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Hardik Sawhney](https://open.spotify.com/artist/1AeP2gkdtIPekU0HvEo3P5) | [Unke bina \(Raw\)](https://open.spotify.com/album/1zQdURnPPZXRLquGKTR5Qa) | 2:28 | 2023-05-17 | 2023-07-06 |
 | [Unke Rangon Mein](https://open.spotify.com/track/33k5PdmBBBvjFrYFnTqrzF) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Unke Rangon Mein](https://open.spotify.com/album/7k4mVu7UlNacFUSHcDZkpa) | 2:52 | 2023-11-05 | 2024-02-14 |
+| [Vaari Vaari](https://open.spotify.com/track/3MxMNXfuJWlUy8te4PGDgt) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Koustuv Ghosh](https://open.spotify.com/artist/6uYEqVn6aXYrr5ovR0nhWq), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Lust Stories 3, Vol\. 2 \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0ToRQWeE7HPClqz72sO5Tw) | 3:11 | 2026-10-21 |  |
 | [Wahem](https://open.spotify.com/track/5vMtccZkvcmGjrOuhnxc63) | [Hirdhyansh Verma](https://open.spotify.com/artist/3L41cHQWUBnVuQTtoUpBeV) | [Wahem](https://open.spotify.com/album/7qPBfIEJhj4Bgg5SI5hjrB) | 3:22 | 2025-06-05 | 2025-07-24 |
 | [Wajah](https://open.spotify.com/track/4pPRfulcjwtBXnKrHRLrgV) | [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ) | [Wajah](https://open.spotify.com/album/1rM0gyBRVfMeAGHvLuWnxy) | 2:20 | 2024-07-08 | 2024-07-19 |
 | [Waqt](https://open.spotify.com/track/3buNym71LEMqC24JqZjiwd) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:01 | 2023-06-12 | 2023-08-05 |

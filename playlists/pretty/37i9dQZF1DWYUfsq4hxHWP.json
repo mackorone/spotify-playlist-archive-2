@@ -1,13 +1,45 @@
 {
   "description": "Fresh country music by independent artists every Wednesday. Cover: Jovi Greene, Artwork: Fan\u00e9lie Muselier\n",
-  "num_followers": 128128,
+  "num_followers": 128190,
   "original_name": "Fresh Finds Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANSqLEcnOtKoPfyqqIuiDS2cz/q3",
+  "snapshot_id": "AAAAAGUaNxYks59o0hguwqxCsfxmuLgC",
   "tracks": [
+    {
+      "added_at": "2026-10-21 16:19:11",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1Q0TMw9MIeXu4n1p2CVQDg"
+      },
+      "artists": [
+        {
+          "name": "Tatum Scott",
+          "url": "https://open.spotify.com/artist/7qnInIoAbmwOwIVkOgQCwy"
+        }
+      ],
+      "duration_ms": 156529,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/7ejKQI0YEj1vfkCrOuQfLZ"
+    },
+    {
+      "added_at": "2026-10-21 16:19:11",
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/3bjFcevl6jqFgwXUNl89yl"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jane Lewis",
+          "url": "https://open.spotify.com/artist/62ih54WQXcbwFrvhffPxcq"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/6yGO5xsU9Fd0lFPIsMIrXY"
+    },
     {
       "added_at": "2026-10-14 18:36:03",
       "album": {
@@ -23,6 +55,102 @@
       "duration_ms": 198065,
       "name": "Nowhere Fast",
       "url": "https://open.spotify.com/track/2BgJcTmWxgGrZBtyrIsLTO"
+    },
+    {
+      "added_at": "2026-10-21 16:19:11",
+      "album": {
+        "name": "Ten in Tennessee",
+        "url": "https://open.spotify.com/album/30mDN1mVvl6Xj79odBxW2d"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Hart",
+          "url": "https://open.spotify.com/artist/7CtoMP5ulZz7vn2Sdj3Hiu"
+        }
+      ],
+      "duration_ms": 184097,
+      "name": "Ten in Tennessee",
+      "url": "https://open.spotify.com/track/1rEPkq3Qdq1aPrRcetBKkr"
+    },
+    {
+      "added_at": "2026-10-21 16:19:11",
+      "album": {
+        "name": "Cover Up",
+        "url": "https://open.spotify.com/album/4KBC24J3h3cCLQlDJMNfKE"
+      },
+      "artists": [
+        {
+          "name": "Graham St. Clair Band",
+          "url": "https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Cover Up",
+      "url": "https://open.spotify.com/track/36HHLyDZUX4owT6pERFL4b"
+    },
+    {
+      "added_at": "2026-10-21 16:19:11",
+      "album": {
+        "name": "Nothing Is Everything",
+        "url": "https://open.spotify.com/album/6KppcNH6afjoTfWYlKdXTY"
+      },
+      "artists": [
+        {
+          "name": "Erin Kirby",
+          "url": "https://open.spotify.com/artist/04VhqLBjrpeyOTrdH1ella"
+        }
+      ],
+      "duration_ms": 173846,
+      "name": "Nothing Is Everything",
+      "url": "https://open.spotify.com/track/0XKbTf1G24UURPclfoSEGV"
+    },
+    {
+      "added_at": "2026-10-21 16:19:11",
+      "album": {
+        "name": "Change My Mind",
+        "url": "https://open.spotify.com/album/4XVoCNuUXcLYBEBjTNCgpb"
+      },
+      "artists": [
+        {
+          "name": "Saige Davis",
+          "url": "https://open.spotify.com/artist/3acAq5TmjJOyw2o1B6zKiS"
+        }
+      ],
+      "duration_ms": 239746,
+      "name": "Change My Mind",
+      "url": "https://open.spotify.com/track/0G2tkpjCndTAVxF0Iiv6p7"
+    },
+    {
+      "added_at": "2026-10-21 16:19:11",
+      "album": {
+        "name": "What If You Stay",
+        "url": "https://open.spotify.com/album/6bNPvilCvnqRBMNZqISc3P"
+      },
+      "artists": [
+        {
+          "name": "Avery Roberson",
+          "url": "https://open.spotify.com/artist/1NFcvAjVEYtn0ExV1O17oU"
+        }
+      ],
+      "duration_ms": 201366,
+      "name": "What If You Stay",
+      "url": "https://open.spotify.com/track/2gCfvMPFAEd18n0hR6MSDa"
+    },
+    {
+      "added_at": "2026-10-21 16:19:11",
+      "album": {
+        "name": "got me good",
+        "url": "https://open.spotify.com/album/1HjcqUliMVJyCESHJ76EV8"
+      },
+      "artists": [
+        {
+          "name": "Trudy",
+          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
+        }
+      ],
+      "duration_ms": 208348,
+      "name": "belong together",
+      "url": "https://open.spotify.com/track/0HIoN5IDC2hH9WHJJYTgpx"
     },
     {
       "added_at": "2026-10-14 18:36:03",
@@ -363,366 +491,6 @@
     {
       "added_at": "2026-09-30 04:00:28",
       "album": {
-        "name": "If You Don't",
-        "url": "https://open.spotify.com/album/5IR3nyOoeUu09j3HV835zF"
-      },
-      "artists": [
-        {
-          "name": "Riley Thomas",
-          "url": "https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB"
-        }
-      ],
-      "duration_ms": 233887,
-      "name": "If You Don't",
-      "url": "https://open.spotify.com/track/3iAbXjHApZNttRPN2L9uBH"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Carolina Blue",
-        "url": "https://open.spotify.com/album/3iszOa3TzeFKshilZVXPen"
-      },
-      "artists": [
-        {
-          "name": "Faith Hopkins",
-          "url": "https://open.spotify.com/artist/326PYQYslGD5zlF1gJVx2W"
-        }
-      ],
-      "duration_ms": 206313,
-      "name": "Carolina Blue",
-      "url": "https://open.spotify.com/track/5fnl4UANFeEyJellk7jbde"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Man On The Moon",
-        "url": "https://open.spotify.com/album/3Egk8lWJrbHZw7XvMSJsMx"
-      },
-      "artists": [
-        {
-          "name": "Lewis Love",
-          "url": "https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Tried",
-        "url": "https://open.spotify.com/album/7fjAaHAyXIdKqMrjzivM5Y"
-      },
-      "artists": [
-        {
-          "name": "Brody Clementi",
-          "url": "https://open.spotify.com/artist/05l5dPwEMjmn0IcaXTkgzZ"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Hell of a Day",
-      "url": "https://open.spotify.com/track/5Vec82BwOiSKK1rlgQ5wEe"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/725L6fW7uLDMVG8XlEwuWl"
-      },
-      "artists": [
-        {
-          "name": "Abby Anderson",
-          "url": "https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB"
-        }
-      ],
-      "duration_ms": 159208,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0rRdDKkEwn17XyWgUozqPa"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Strangers Again",
-        "url": "https://open.spotify.com/album/47SJb50MXbsHyzCIM2RHUL"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Lamb",
-          "url": "https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo"
-        },
-        {
-          "name": "Taylor Goyette",
-          "url": "https://open.spotify.com/artist/5CSfpRPGc1XEGd5twIRQTb"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Strangers Again",
-      "url": "https://open.spotify.com/track/3oml2hvebr10WAOEvtVp9W"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Missin' Me Drunk",
-        "url": "https://open.spotify.com/album/2hcdDsY6Yqg1Zjoc8VdUuJ"
-      },
-      "artists": [
-        {
-          "name": "Myles Morgan",
-          "url": "https://open.spotify.com/artist/1lzPWhUDpLSVDwK02Mz0Eo"
-        }
-      ],
-      "duration_ms": 167453,
-      "name": "Missin' Me Drunk",
-      "url": "https://open.spotify.com/track/41EHM3xhw0IRjvUikUIEKq"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Love You Again",
-        "url": "https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1"
-      },
-      "artists": [
-        {
-          "name": "CARV",
-          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Wondering Why",
-      "url": "https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Daisies From Dirt",
-        "url": "https://open.spotify.com/album/16H2GgbCykzHWTgsfohnPd"
-      },
-      "artists": [
-        {
-          "name": "Melanie Dyer",
-          "url": "https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL"
-        }
-      ],
-      "duration_ms": 189716,
-      "name": "Daisies From Dirt",
-      "url": "https://open.spotify.com/track/2LwahuWcEHXxYeWQfGhpPv"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
-        "url": "https://open.spotify.com/album/1duTdDEW9NYQpRnh5rSxXf"
-      },
-      "artists": [
-        {
-          "name": "Abbie Callahan",
-          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
-      "url": "https://open.spotify.com/track/3sBGDdhsXpQ4jTTy13cqCs"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Turquoise Rings",
-        "url": "https://open.spotify.com/album/6eK09ODstBigHSQiO5Suvq"
-      },
-      "artists": [
-        {
-          "name": "Haydon Wiginton",
-          "url": "https://open.spotify.com/artist/2Zb0ZykhKlSIzAHnjHWa84"
-        }
-      ],
-      "duration_ms": 206793,
-      "name": "Turquoise Rings",
-      "url": "https://open.spotify.com/track/006AwZ74QP7JAdsbFBLBE8"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "never really over",
-        "url": "https://open.spotify.com/album/1WNHsv8g1CFFHy3XuQDcw2"
-      },
-      "artists": [
-        {
-          "name": "Homegrown Trio",
-          "url": "https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2"
-        }
-      ],
-      "duration_ms": 197646,
-      "name": "never really over",
-      "url": "https://open.spotify.com/track/5g533qut2xbw8UuROieFHr"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Wedding Gown",
-        "url": "https://open.spotify.com/album/1YVARkLeRS1uDpyuQQzooo"
-      },
-      "artists": [
-        {
-          "name": "Kayley Green",
-          "url": "https://open.spotify.com/artist/77sTeh8vSETya7x0MkRcNM"
-        }
-      ],
-      "duration_ms": 170519,
-      "name": "Wedding Gown",
-      "url": "https://open.spotify.com/track/1ibxMRugMqpUkN04VIXGyq"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Better in the Dark",
-        "url": "https://open.spotify.com/album/1VdFqHk5TWfXTaiGfJ1SSB"
-      },
-      "artists": [
-        {
-          "name": "12/OC",
-          "url": "https://open.spotify.com/artist/6BeyU5SW5d9NiTlzsG2LrU"
-        }
-      ],
-      "duration_ms": 169578,
-      "name": "Better in the Dark",
-      "url": "https://open.spotify.com/track/6tlhTL5NaRFAAKICBPyvK7"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/7IyKQfRj6QUZ8iosYPBVxU"
-      },
-      "artists": [
-        {
-          "name": "KIANA",
-          "url": "https://open.spotify.com/artist/1vYuk9KHwhwdru7gTpTqcB"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/5trDaSTaJAh91axXwUYCVv"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Too Far Gone",
-        "url": "https://open.spotify.com/album/22UD7SQOOCbqZX0GSNR8Vl"
-      },
-      "artists": [
-        {
-          "name": "Dawson Moon",
-          "url": "https://open.spotify.com/artist/33QZfgjEA7pX17CboCHUzq"
-        }
-      ],
-      "duration_ms": 245373,
-      "name": "Too Far Gone",
-      "url": "https://open.spotify.com/track/4mzxcwVwZlF5Z7OBCxdbJZ"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Row by Row",
-        "url": "https://open.spotify.com/album/2SQETgsRScrKQYoYx9j96g"
-      },
-      "artists": [
-        {
-          "name": "Bradley Hale",
-          "url": "https://open.spotify.com/artist/1TPjClIZ0S2xtgSNfqV6gF"
-        }
-      ],
-      "duration_ms": 177127,
-      "name": "Row by Row",
-      "url": "https://open.spotify.com/track/7zn5XWodNMSio1UxXyskp9"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Fine",
-        "url": "https://open.spotify.com/album/4vZ6PB7oMfnmqz1LSEM55g"
-      },
-      "artists": [
-        {
-          "name": "Ethan Burdick",
-          "url": "https://open.spotify.com/artist/0RWelsacoB4K2zhUmrb1nA"
-        }
-      ],
-      "duration_ms": 241163,
-      "name": "Fine",
-      "url": "https://open.spotify.com/track/6PIaAYsV9nT5GupsxcbdJB"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Ricochets",
-        "url": "https://open.spotify.com/album/0meNJ5oXfqGRg2EHjLLVCb"
-      },
-      "artists": [
-        {
-          "name": "Goldie Scott",
-          "url": "https://open.spotify.com/artist/2wCDjQlghsaI0wbsLowSQq"
-        },
-        {
-          "name": "Ali Angel",
-          "url": "https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Ricochets",
-      "url": "https://open.spotify.com/track/7sUTw5K1NL7C2rKWwArXV8"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "I'll Be Seeing You (Demo)",
-        "url": "https://open.spotify.com/album/7kywopRlHABP98mx4jnns7"
-      },
-      "artists": [
-        {
-          "name": "Madison Spratley",
-          "url": "https://open.spotify.com/artist/3rpZQJIz1OJsy9gBjSNS6M"
-        }
-      ],
-      "duration_ms": 198922,
-      "name": "I'll Be Seeing You - Demo",
-      "url": "https://open.spotify.com/track/0cfZpc6VGykTfkKZamBjtU"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Jukebox",
-        "url": "https://open.spotify.com/album/3yViCbyQiPVULYBGRA2TCY"
-      },
-      "artists": [
-        {
-          "name": "Brian Fuller",
-          "url": "https://open.spotify.com/artist/6ZjMXOSg14nfZFUDJ6mQRo"
-        }
-      ],
-      "duration_ms": 174841,
-      "name": "Jukebox",
-      "url": "https://open.spotify.com/track/48iNhvvn1NB7LyXEv6yWSs"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "In Case You Can\u2019t",
-        "url": "https://open.spotify.com/album/0N0B8vd129WZE8V5wBUKTi"
-      },
-      "artists": [
-        {
-          "name": "Hunt Pipkin",
-          "url": "https://open.spotify.com/artist/0y2OQCY9GJxldt99r8QuCu"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "In Case You Can\u2019t",
-      "url": "https://open.spotify.com/track/5MxGbK2wYuukH3bbzlLo9R"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
         "name": "Mess of It",
         "url": "https://open.spotify.com/album/5n3SNE7GVXbPi7rYSsR2QA"
       },
@@ -879,22 +647,6 @@
       "duration_ms": 195488,
       "name": "You Only Call When It's Raining",
       "url": "https://open.spotify.com/track/1RuWVWq5Ty0YW9tcXobuQf"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/7lvtxk8hGwixJfzv8ySuKL"
-      },
-      "artists": [
-        {
-          "name": "Tatum Scott",
-          "url": "https://open.spotify.com/artist/7qnInIoAbmwOwIVkOgQCwy"
-        }
-      ],
-      "duration_ms": 184210,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/6CeWHsbWiM9yD4Fqg4i7a9"
     },
     {
       "added_at": "2026-09-30 04:00:28",
@@ -1063,38 +815,6 @@
     {
       "added_at": "2026-09-30 04:00:28",
       "album": {
-        "name": "one more time",
-        "url": "https://open.spotify.com/album/5zq8Exy6K59F2tsgEPRkum"
-      },
-      "artists": [
-        {
-          "name": "Trudy",
-          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
-        }
-      ],
-      "duration_ms": 197741,
-      "name": "one more time",
-      "url": "https://open.spotify.com/track/0aDLGoFRRidv1qdGVdLEKo"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
-        "name": "All in My Head",
-        "url": "https://open.spotify.com/album/217FheY0sNX1r1DpRXf3UZ"
-      },
-      "artists": [
-        {
-          "name": "Saige Davis",
-          "url": "https://open.spotify.com/artist/3acAq5TmjJOyw2o1B6zKiS"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "All in My Head",
-      "url": "https://open.spotify.com/track/4a7LRkfHQaj3oIXgSbYfrh"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
         "name": "Turn On the Radio",
         "url": "https://open.spotify.com/album/3UYZve02kCD2Az7PXsRe2A"
       },
@@ -1183,22 +903,6 @@
     {
       "added_at": "2026-09-30 04:00:28",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/2aGLFLSreDsb8iU7oVrm6O"
-      },
-      "artists": [
-        {
-          "name": "Phil Kane",
-          "url": "https://open.spotify.com/artist/3b4xdR11Lg8MqoAjhP9N1o"
-        }
-      ],
-      "duration_ms": 159878,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/7FLDYb4yma6shTUs3s9MG5"
-    },
-    {
-      "added_at": "2026-09-30 04:00:28",
-      "album": {
         "name": "Always Colorado",
         "url": "https://open.spotify.com/album/6p1wftle6orAkCfnxQswtR"
       },
@@ -1227,6 +931,302 @@
       "duration_ms": 248040,
       "name": "Take My Time",
       "url": "https://open.spotify.com/track/2Nqx1u8Gq38wse9NsXklCb"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "If You Don't",
+        "url": "https://open.spotify.com/album/5IR3nyOoeUu09j3HV835zF"
+      },
+      "artists": [
+        {
+          "name": "Riley Thomas",
+          "url": "https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB"
+        }
+      ],
+      "duration_ms": 233887,
+      "name": "If You Don't",
+      "url": "https://open.spotify.com/track/3iAbXjHApZNttRPN2L9uBH"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "Carolina Blue",
+        "url": "https://open.spotify.com/album/3iszOa3TzeFKshilZVXPen"
+      },
+      "artists": [
+        {
+          "name": "Faith Hopkins",
+          "url": "https://open.spotify.com/artist/326PYQYslGD5zlF1gJVx2W"
+        }
+      ],
+      "duration_ms": 206313,
+      "name": "Carolina Blue",
+      "url": "https://open.spotify.com/track/5fnl4UANFeEyJellk7jbde"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "Man On The Moon",
+        "url": "https://open.spotify.com/album/3Egk8lWJrbHZw7XvMSJsMx"
+      },
+      "artists": [
+        {
+          "name": "Lewis Love",
+          "url": "https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "Tried",
+        "url": "https://open.spotify.com/album/7fjAaHAyXIdKqMrjzivM5Y"
+      },
+      "artists": [
+        {
+          "name": "Brody Clementi",
+          "url": "https://open.spotify.com/artist/05l5dPwEMjmn0IcaXTkgzZ"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Hell of a Day",
+      "url": "https://open.spotify.com/track/5Vec82BwOiSKK1rlgQ5wEe"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "Strangers Again",
+        "url": "https://open.spotify.com/album/47SJb50MXbsHyzCIM2RHUL"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Lamb",
+          "url": "https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo"
+        },
+        {
+          "name": "Taylor Goyette",
+          "url": "https://open.spotify.com/artist/5CSfpRPGc1XEGd5twIRQTb"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Strangers Again",
+      "url": "https://open.spotify.com/track/3oml2hvebr10WAOEvtVp9W"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "Missin' Me Drunk",
+        "url": "https://open.spotify.com/album/2hcdDsY6Yqg1Zjoc8VdUuJ"
+      },
+      "artists": [
+        {
+          "name": "Myles Morgan",
+          "url": "https://open.spotify.com/artist/1lzPWhUDpLSVDwK02Mz0Eo"
+        }
+      ],
+      "duration_ms": 167453,
+      "name": "Missin' Me Drunk",
+      "url": "https://open.spotify.com/track/41EHM3xhw0IRjvUikUIEKq"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "Love You Again",
+        "url": "https://open.spotify.com/album/0FWR4B2fQpwheyYqrcgTp1"
+      },
+      "artists": [
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/65ZZgxIc3G2WJzAZliSMui"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "Daisies From Dirt",
+        "url": "https://open.spotify.com/album/16H2GgbCykzHWTgsfohnPd"
+      },
+      "artists": [
+        {
+          "name": "Melanie Dyer",
+          "url": "https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL"
+        }
+      ],
+      "duration_ms": 189716,
+      "name": "Daisies From Dirt",
+      "url": "https://open.spotify.com/track/2LwahuWcEHXxYeWQfGhpPv"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
+        "url": "https://open.spotify.com/album/1duTdDEW9NYQpRnh5rSxXf"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
+      "url": "https://open.spotify.com/track/3sBGDdhsXpQ4jTTy13cqCs"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "Turquoise Rings",
+        "url": "https://open.spotify.com/album/6eK09ODstBigHSQiO5Suvq"
+      },
+      "artists": [
+        {
+          "name": "Haydon Wiginton",
+          "url": "https://open.spotify.com/artist/2Zb0ZykhKlSIzAHnjHWa84"
+        }
+      ],
+      "duration_ms": 206793,
+      "name": "Turquoise Rings",
+      "url": "https://open.spotify.com/track/006AwZ74QP7JAdsbFBLBE8"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "never really over",
+        "url": "https://open.spotify.com/album/1WNHsv8g1CFFHy3XuQDcw2"
+      },
+      "artists": [
+        {
+          "name": "Homegrown Trio",
+          "url": "https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2"
+        }
+      ],
+      "duration_ms": 197646,
+      "name": "never really over",
+      "url": "https://open.spotify.com/track/5g533qut2xbw8UuROieFHr"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "Better in the Dark",
+        "url": "https://open.spotify.com/album/1VdFqHk5TWfXTaiGfJ1SSB"
+      },
+      "artists": [
+        {
+          "name": "12/OC",
+          "url": "https://open.spotify.com/artist/6BeyU5SW5d9NiTlzsG2LrU"
+        }
+      ],
+      "duration_ms": 169578,
+      "name": "Better in the Dark",
+      "url": "https://open.spotify.com/track/6tlhTL5NaRFAAKICBPyvK7"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "Too Far Gone",
+        "url": "https://open.spotify.com/album/22UD7SQOOCbqZX0GSNR8Vl"
+      },
+      "artists": [
+        {
+          "name": "Dawson Moon",
+          "url": "https://open.spotify.com/artist/33QZfgjEA7pX17CboCHUzq"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "Too Far Gone",
+      "url": "https://open.spotify.com/track/4mzxcwVwZlF5Z7OBCxdbJZ"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "Row by Row",
+        "url": "https://open.spotify.com/album/2SQETgsRScrKQYoYx9j96g"
+      },
+      "artists": [
+        {
+          "name": "Bradley Hale",
+          "url": "https://open.spotify.com/artist/1TPjClIZ0S2xtgSNfqV6gF"
+        }
+      ],
+      "duration_ms": 177127,
+      "name": "Row by Row",
+      "url": "https://open.spotify.com/track/7zn5XWodNMSio1UxXyskp9"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/4vZ6PB7oMfnmqz1LSEM55g"
+      },
+      "artists": [
+        {
+          "name": "Ethan Burdick",
+          "url": "https://open.spotify.com/artist/0RWelsacoB4K2zhUmrb1nA"
+        }
+      ],
+      "duration_ms": 241163,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/6PIaAYsV9nT5GupsxcbdJB"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "Ricochets",
+        "url": "https://open.spotify.com/album/0meNJ5oXfqGRg2EHjLLVCb"
+      },
+      "artists": [
+        {
+          "name": "Goldie Scott",
+          "url": "https://open.spotify.com/artist/2wCDjQlghsaI0wbsLowSQq"
+        },
+        {
+          "name": "Ali Angel",
+          "url": "https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Ricochets",
+      "url": "https://open.spotify.com/track/7sUTw5K1NL7C2rKWwArXV8"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "Jukebox",
+        "url": "https://open.spotify.com/album/3yViCbyQiPVULYBGRA2TCY"
+      },
+      "artists": [
+        {
+          "name": "Brian Fuller",
+          "url": "https://open.spotify.com/artist/6ZjMXOSg14nfZFUDJ6mQRo"
+        }
+      ],
+      "duration_ms": 174841,
+      "name": "Jukebox",
+      "url": "https://open.spotify.com/track/48iNhvvn1NB7LyXEv6yWSs"
+    },
+    {
+      "added_at": "2026-09-30 04:00:28",
+      "album": {
+        "name": "In Case You Can\u2019t",
+        "url": "https://open.spotify.com/album/0N0B8vd129WZE8V5wBUKTi"
+      },
+      "artists": [
+        {
+          "name": "Hunt Pipkin",
+          "url": "https://open.spotify.com/artist/0y2OQCY9GJxldt99r8QuCu"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "In Case You Can\u2019t",
+      "url": "https://open.spotify.com/track/5MxGbK2wYuukH3bbzlLo9R"
     }
   ],
   "unique_name": "Fresh Finds Country",

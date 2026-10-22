@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-9,702 songs - 22 day 10 hr 19 min
+9,704 songs - 22 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [Another Night](https://open.spotify.com/track/4I7wqHKnGjyi1q8RqnSqM2) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Another Night](https://open.spotify.com/album/1Dtbe0tlNOeaJZ1JWQgIRx) | 3:39 | 2024-11-01 | 2024-11-09 |
 | [Another Round](https://open.spotify.com/track/5PtiGNsSnxbtyWk3LRyt9P) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Heavy Glory](https://open.spotify.com/album/2zh8YLgTukVMhUzLSRbNPd) | 3:04 | 2024-10-25 | 2024-11-09 |
 | [Another Time](https://open.spotify.com/track/77Ukfo8YLUQg17odJF4brC) | [Zoh Amba](https://open.spotify.com/artist/3Xfp6T1hoOKpC4Ywcz93EL) | [Another Time](https://open.spotify.com/album/0t0aZd1jbEiYUzUiKPXiNn) | 3:01 | 2026-04-10 | 2026-04-18 |
+| [Another Way To Cry](https://open.spotify.com/track/6kbuePrdGoBU8FTjguZESN) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Another Way To Cry](https://open.spotify.com/album/70hA53FbV5cN21BYFesOSu) | 3:52 | 2026-10-21 |  |
 | [Another You \(feat\. Sadie Jean\)](https://open.spotify.com/track/26bOxdCaS6ESsR2NR4xq41) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Another You \(feat\. Sadie Jean\)](https://open.spotify.com/album/2uccjUTwwCdlXgQBbh0HwV) | 2:46 | 2026-10-16 |  |
 | [ANSIEDAD](https://open.spotify.com/track/4J4eXzR2Xz1s8uk3TCv0e7) | [María Isabel](https://open.spotify.com/artist/0oSfTqDPZq2WVyFN5iouCf) | [ANSIEDAD](https://open.spotify.com/album/2T2Rgwz6LsEx4yhvBalrt3) | 2:44 | 2025-01-17 | 2025-01-25 |
 | [Antes De](https://open.spotify.com/track/21qRJRSJMtxEjEJM2PUNly) | [Raül Refree](https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP) | [Antes De](https://open.spotify.com/album/5PrXCUWWeiNR9cFYwFtYlH) | 3:44 | 2025-06-13 | 2025-06-28 |
@@ -6988,6 +6989,7 @@
 | [RAMEN PARA DOS](https://open.spotify.com/track/0vcuJjViqrFCCWUrjrZW1X) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [RAMEN PARA DOS](https://open.spotify.com/album/2InOeOytZrdWOiCeSvQFlF) | 3:51 | 2025-05-09 | 2025-05-17 |
 | [RAMPIPAMPI](https://open.spotify.com/track/1kB6V8chkTq0F8WXNDTdyz) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [RAMPIPAMPI](https://open.spotify.com/album/0JQqN53kghJMG9wwoklHtG) | 2:59 | 2025-06-13 | 2025-06-28 |
 | [Ran To Atlanta \(feat\. Future & Molly Santana\)](https://open.spotify.com/track/3DK90400cDlV5WUJPraMph) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 4:07 | 2026-05-15 | 2026-05-23 |
+| [Random Violence](https://open.spotify.com/track/0T3vTM8KUAwGMukdAhNVj2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Random Violence](https://open.spotify.com/album/3z8j4xdVVyUH12VXFWRCVK) | 5:15 | 2026-10-21 |  |
 | [Rap Game](https://open.spotify.com/track/7MtWFi9UcmQQw4cFw1DEWt) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Rap Game](https://open.spotify.com/album/5WWZSXOImWqiXuIGcNN7lH) | 2:43 | 2024-09-20 | 2024-09-28 |
 | [Rapier](https://open.spotify.com/track/5qT2Z8IKKBIvt0b7kM3VOx) | [Toundra](https://open.spotify.com/artist/3cgIU3hh7Y4pUsPgHB8aYT) | [Rapier](https://open.spotify.com/album/5KVBpGpdqig33tYcdE3a6F) | 6:52 | 2026-05-15 | 2026-05-23 |
 | [rapture](https://open.spotify.com/track/65GdMhuTY4Dlko6VJxAK9J) | [Plástica Fantástica](https://open.spotify.com/artist/75loDYCZ3sTrqv7sCQFGbZ) | [rapture](https://open.spotify.com/album/66PN15GIoEZCGCbbQ0CoLk) | 2:30 | 2025-01-17 | 2025-01-25 |

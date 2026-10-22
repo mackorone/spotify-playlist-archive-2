@@ -4,7 +4,7 @@
 
 > This is The Beatles\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 2 min
+85 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Tomorrow Never Knows \- Take 1](https://open.spotify.com/track/0u2WxM0Jw062o0XyNv1RDT) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Tomorrow Never Knows \(Take 1\)](https://open.spotify.com/album/18APowO2TyprdjVvH9NDtM) | 3:32 | 2022-10-24 | 2023-01-27 |
 | [Twist And Shout \- Remastered 2009](https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered 2009\)](https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf) | 2:35 | 2022-10-24 |  |
 | [Two Of Us \- Remastered 2009](https://open.spotify.com/track/0CaBBQsaAiRHhiLmzi7ZRp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered 2009\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:36 | 2026-04-13 |  |
-| [We Can Work It Out \- Remastered 2009](https://open.spotify.com/track/7LNiAjyg9P2GKINTtN6Yt8) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered 2009\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:16 | 2023-12-21 |  |
+| [We Can Work It Out \(2023 Mix\)](https://open.spotify.com/track/6v4jPxoVe7vlh0WxZ81qKL) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Super Deluxe\)](https://open.spotify.com/album/3ICK3lBLOuStuhttDJOtnq) | 2:16 | 2026-10-22 |  |
+| [We Can Work It Out \- Remastered 2009](https://open.spotify.com/track/7LNiAjyg9P2GKINTtN6Yt8) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered 2009\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:16 | 2023-12-21 | 2026-10-22 |
 | [We Can Work It Out \- Remastered 2015](https://open.spotify.com/track/1hTUFqJuQAMjXVGwUPWDqi) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:15 | 2022-10-25 | 2023-12-14 |
 | [When I'm Sixty Four \- Remastered 2009](https://open.spotify.com/track/1NrbnHlR2BFREcyWXHIHip) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 2:37 | 2022-10-24 | 2025-04-24 |
 | [While My Guitar Gently Weeps \- Remastered 2009](https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered 2009\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 4:45 | 2022-10-24 |  |

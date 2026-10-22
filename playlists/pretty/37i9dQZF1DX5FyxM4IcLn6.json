@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 165299,
+  "num_followers": 165294,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 191018,
-      "name": "Qu\u00e9 Pasar\u00eda...",
-      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 191018,
+      "name": "Qu\u00e9 Pasar\u00eda...",
+      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Alligator Bites Never Heal (Extended)",
-        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 153332,
       "name": "Sugar On My Tongue",
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Alligator Bites Never Heal (Extended)",
+        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Even In Arcadia",
-        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 290110,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Even In Arcadia",
+        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 290110,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Even In Arcadia",
-        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 386253,
-      "name": "Emergence",
-      "url": "https://open.spotify.com/track/2OMjHcniFxzijWX7EaBrXE"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/0T3Hw3kPj9T2E4UoaSXmfn"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Even In Arcadia",
+        "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 386253,
+      "name": "Emergence",
+      "url": "https://open.spotify.com/track/2OMjHcniFxzijWX7EaBrXE"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 176159,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "A Song To Sing",
         "url": "https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 179928,
       "name": "A Song To Sing",
       "url": "https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "No Sign of Weakness",
-        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176159,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "As Alive As You Need Me To Be",
-        "url": "https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 233562,
-      "name": "As Alive As You Need Me To Be",
-      "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Harlequin",
         "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 245435,
       "name": "Happy Mistake",
       "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "As Alive As You Need Me To Be",
+        "url": "https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 233562,
+      "name": "As Alive As You Need Me To Be",
+      "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
     },
     {
       "added_at": "2025-11-12 17:50:29",

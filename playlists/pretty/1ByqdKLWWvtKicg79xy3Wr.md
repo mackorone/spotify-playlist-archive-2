@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ByqdKLWWvtKicg79xy3Wr.md) - [plain]
 
 > House Music 🏠🎵 + everything else \| Updated Weekly\-ish
 
-[RDGO](https://open.spotify.com/user/rgonzalez196) - 124 likes - 177 songs - 10 hr 22 min
+[RDGO](https://open.spotify.com/user/rgonzalez196) - 125 likes - 177 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/30fSw0eXTPQ6U07aShNukW.md) - [plain]
 
 > 
 
-[24seven](https://open.spotify.com/user/11158327701) - 1 like - 63 songs - 3 hr 55 min
+[24seven](https://open.spotify.com/user/11158327701) - 2 likes - 63 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

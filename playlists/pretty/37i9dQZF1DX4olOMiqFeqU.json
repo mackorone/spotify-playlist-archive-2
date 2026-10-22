@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2412090,
+  "num_followers": 2411659,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Umaasa",
-        "url": "https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW"
+        "name": "Saksi Ang Langit",
+        "url": "https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK"
       },
       "artists": [
         {
-          "name": "Calein",
-          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
         }
       ],
-      "duration_ms": 335624,
-      "name": "Umaasa",
-      "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
+      "duration_ms": 259058,
+      "name": "Saksi Ang Langit",
+      "url": "https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -107,18 +107,18 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Saksi Ang Langit",
-        "url": "https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK"
+        "name": "Umaasa",
+        "url": "https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW"
       },
       "artists": [
         {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+          "name": "Calein",
+          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
         }
       ],
-      "duration_ms": 259058,
-      "name": "Saksi Ang Langit",
-      "url": "https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm"
+      "duration_ms": 335624,
+      "name": "Umaasa",
+      "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Imahe",
-        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
-      },
-      "artists": [
-        {
-          "name": "Magnus Haven",
-          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
-        }
-      ],
-      "duration_ms": 321817,
-      "name": "Imahe",
-      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "Langit Mong Bughaw",
         "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 270233,
       "name": "Bulong",
       "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Imahe",
+        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
+      },
+      "artists": [
+        {
+          "name": "Magnus Haven",
+          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+        }
+      ],
+      "duration_ms": 321817,
+      "name": "Imahe",
+      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
+        "name": "Kalimutan Ka",
+        "url": "https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R"
+      },
+      "artists": [
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Kalimutan Ka",
+      "url": "https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
         "name": "Palaisipan",
         "url": "https://open.spotify.com/album/78krpREp3Hu6cfhbTJVNW0"
       },
@@ -311,22 +327,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Kalimutan Ka",
-        "url": "https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R"
-      },
-      "artists": [
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Kalimutan Ka",
-      "url": "https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "Marilag",
         "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
       },
@@ -339,26 +339,6 @@
       "duration_ms": 157692,
       "name": "Marilag",
       "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
-        "name": "Tingin",
-        "url": "https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        },
-        {
-          "name": "Janine",
-          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
-        }
-      ],
-      "duration_ms": 222298,
-      "name": "Tingin",
-      "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -379,6 +359,26 @@
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Tingin",
+        "url": "https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        },
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
+        }
+      ],
+      "duration_ms": 222298,
+      "name": "Tingin",
+      "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
-      },
-      "artists": [
-        {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
-        }
-      ],
-      "duration_ms": 201806,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "Pa-umaga",
         "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 189019,
       "name": "Pa-umaga",
       "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        }
+      ],
+      "duration_ms": 201806,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Balisong (Transformed)",
-        "url": "https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt"
-      },
-      "artists": [
-        {
-          "name": "Rico Blanco",
-          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
-        }
-      ],
-      "duration_ms": 163571,
-      "name": "Balisong - Transformed",
-      "url": "https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR"
-    },
-    {
-      "added_at": "2026-10-02 03:23:34",
-      "album": {
         "name": "Musika",
         "url": "https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2026-10-02 03:23:34",
       "album": {
-        "name": "Episode",
-        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
+        "name": "Balisong (Transformed)",
+        "url": "https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "Rico Blanco",
+          "url": "https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Give Me Your Forever",
-      "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
+      "duration_ms": 163571,
+      "name": "Balisong - Transformed",
+      "url": "https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR"
     },
     {
       "added_at": "2026-10-02 03:23:34",
@@ -787,6 +771,22 @@
       "duration_ms": 259114,
       "name": "Titig",
       "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
+    },
+    {
+      "added_at": "2026-10-02 03:23:34",
+      "album": {
+        "name": "Episode",
+        "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Give Me Your Forever",
+      "url": "https://open.spotify.com/track/4mzP5mHkRvGxdhdGdAH7EJ"
     },
     {
       "added_at": "2026-10-02 03:23:34",

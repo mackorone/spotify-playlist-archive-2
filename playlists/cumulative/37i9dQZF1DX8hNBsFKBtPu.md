@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her\. Chappell Roan & Olivia Rodrigo på cover 🪭
 
-1,044 songs - 2 day 5 hr 15 min
+1,045 songs - 2 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [Kalder Hinanden For Baby](https://open.spotify.com/track/49z3msZeeUVeSdZDuuvcYl) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [Kalder Hinanden For Baby](https://open.spotify.com/album/7fL7dFdhZHl0diZuiLckmd) | 3:13 | 2024-08-22 | 2025-03-28 |
 | [Kan Man Ikke Bare Leve?](https://open.spotify.com/track/7az8SlStHKTcEH65ad4Jhn) | [Micky Skeel](https://open.spotify.com/artist/3ml6MvdCLzBBhK2zT9AhOl) | [Kan Man Ikke Bare Leve?](https://open.spotify.com/album/78MB3eIFb35SkohnoFrsGk) | 3:16 | 2025-03-27 | 2025-04-11 |
 | [Kanten](https://open.spotify.com/track/6hoPyaOW01F83KUbTaR1Ge) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Kanten](https://open.spotify.com/album/0vubJFLLitPbPa1n1wc3IH) | 2:32 | 2026-05-28 |  |
+| [Karma](https://open.spotify.com/track/4s1xndGOzjMU1sSgC8FJkz) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Legendary Love](https://open.spotify.com/album/74ExA1UleSA3kSC0TyNObv) | 3:29 | 2026-10-16 |  |
 | [Kaster Mig Ud I](https://open.spotify.com/track/37Z0AVOT6JIQssoNth5J0f) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Kaster Mig Ud I](https://open.spotify.com/album/74kVeuJxuJsrANODEwI8VL) | 2:48 | 2026-03-26 | 2026-08-21 |
 | [KBH](https://open.spotify.com/track/5LMvsLJm6cEAxKiUJKPdyS) | [Nik & Jay](https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr) | [KBH](https://open.spotify.com/album/3erupsnNhmfnUhtdryLaUB) | 2:55 | 2026-08-20 |  |
 | [Keep Møving](https://open.spotify.com/track/01P4zWU44Rsk4XIME4hsTd) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Keep Møving](https://open.spotify.com/album/72kPRMbCSy6mcaz88F2Vzm) | 3:22 | 2025-03-20 | 2025-03-28 |

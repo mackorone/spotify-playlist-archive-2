@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 1,
+  "num_followers": 2,
   "original_name": "idek man",
   "owner": {
     "name": "Starkoft",
     "url": "https://open.spotify.com/user/xnh6geml57106421pi4l32t6v"
   },
-  "snapshot_id": "AAAHOD4Iy7czrqJDUuxQ2Q4mN2TJQ6jA",
+  "snapshot_id": "AAAHOZxEV+ovZeDheBj8ZIUKM8osK7Tf",
   "tracks": [
     {
       "added_at": "2025-03-13 12:48:31",
@@ -1111,6 +1111,26 @@
       "duration_ms": 194744,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/2WaxEavbIServ6UOMJijd2"
+    },
+    {
+      "added_at": "2026-10-21 18:03:08",
+      "album": {
+        "name": "Big Fish (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3Cn2jrMkdeC6uOtoYWio5v"
+      },
+      "artists": [
+        {
+          "name": "Norbert Leo Butz",
+          "url": "https://open.spotify.com/artist/2LEinBhufpsqT17c5XYomF"
+        },
+        {
+          "name": "Kate Baldwin",
+          "url": "https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa"
+        }
+      ],
+      "duration_ms": 308773,
+      "name": "Daffodils",
+      "url": "https://open.spotify.com/track/575iCJ8dSMEhO9XZIxT9wk"
     }
   ],
   "unique_name": "idek man",

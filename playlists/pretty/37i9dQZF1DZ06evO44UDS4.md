@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44UDS4.md) - [plain]
 
 > This is Oliver Tree\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,502 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,517 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44UDS4.md) - [plain]
 | 19 | [Miracle Man](https://open.spotify.com/track/2PFnwW05Wh0MYkfZxSwfuf) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:05 |
 | 20 | [Cigarettes](https://open.spotify.com/track/1OvVeke9uOLsgXbVG0aDBt) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:33 |
 | 21 | [When I'm Down](https://open.spotify.com/track/556l9P7WVZVyYUBjT1YFTT) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [When I'm Down](https://open.spotify.com/album/4j5u2UH5L7qGhkodeRxBZm) | 2:44 |
-| 22 | [Flowers](https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Flowers](https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x) | 2:28 |
+| 22 | [Sideways](https://open.spotify.com/track/2DdxVSxtbNWLw2ssJe8e9n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 3:37 |
 | 23 | [I'm Gone](https://open.spotify.com/track/6Em6BtxvTsQrXFsFVzAEym) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 3:05 |
 | 24 | [Freaks & Geeks](https://open.spotify.com/track/6SXMyJ44dyZo4Vz34ikIzG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:20 |
-| 25 | [Sideways](https://open.spotify.com/track/2DdxVSxtbNWLw2ssJe8e9n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 3:37 |
+| 25 | [Flowers](https://open.spotify.com/track/08QEqWbqIrTw7i492SghLq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Flowers](https://open.spotify.com/album/6ntiN9XM2spnHlYlUoUv1x) | 2:28 |
 | 26 | [Lies Came Out My Mouth](https://open.spotify.com/track/6AAURjeIX1qMn36jFLbCru) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:30 |
-| 27 | [Forget It \(feat\. Oliver Tree\)](https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Radical Dude!](https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz) | 3:32 |
+| 27 | [My Only Friend](https://open.spotify.com/track/05n4kFKzoCjCU3Lfg8I3Ba) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 3:15 |
 | 28 | [Playing With Fire](https://open.spotify.com/track/3yG3qyAffoYLExAjhZTuJG) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:28 |
-| 29 | [My Only Friend](https://open.spotify.com/track/05n4kFKzoCjCU3Lfg8I3Ba) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 3:15 |
+| 29 | [Forget It \(feat\. Oliver Tree\)](https://open.spotify.com/track/2xo44UuPdAFzaVMSX95suy) | [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Radical Dude!](https://open.spotify.com/album/4MvN5DwEU0CPHL92VKSgkz) | 3:32 |
 | 30 | [Mind Control](https://open.spotify.com/track/70Hi6JJq98794TMe1IeIAH) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 2:00 |
 | 31 | [Fairweather Friends](https://open.spotify.com/track/05tQzyLaod9RqjabafQYKv) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 1:34 |
 | 32 | [Things We Used To Do](https://open.spotify.com/track/55DDIEeRHXfVh1qnhNMJAN) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO44UDS4.md) - [plain]
 | 49 | [All You Ever Wanted](https://open.spotify.com/track/4TLx9SRerOh8eKkNEJ8Bty) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [All You Ever Wanted](https://open.spotify.com/album/4KUpiZ42WqvNZ5gT3ZfNRm) | 1:59 |
 | 50 | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Voices \(feat\. Oliver Tree\)](https://open.spotify.com/album/3oFZmnzIemQRpB0JOLzXRe) | 3:08 |
 
-Snapshot ID: `atQMAAAAAAC0ZwodpLYDnZKmK+bkSiW6`
+Snapshot ID: `atVdgAAAAABX8vPVMVsf5Set4z1C0zM4`

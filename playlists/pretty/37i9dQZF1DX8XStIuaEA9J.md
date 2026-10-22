@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Tohji
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,935 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,921 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 35 | [Swingin’ Magic](https://open.spotify.com/track/1hRZJgqpTb8VzSALbDSUrk) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Swingin’ Magic](https://open.spotify.com/album/2vLpnOuFPSXk7PoFPAkt4n) | 2:57 |
 | 36 | [Boku no Subete wa Kimi no Mono](https://open.spotify.com/track/1oWFefjKYm6iDkSH588vyv) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [LOVE ENG!NE](https://open.spotify.com/album/4Jtnccgcjg6B2g6DO1E4lj) | 3:13 |
 | 37 | [誤訳Love](https://open.spotify.com/track/4FtnwHwGZukK5EWrepz7nu) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [OK集](https://open.spotify.com/album/3fzX4zbJ8I5gLMzb4aQq11) | 2:51 |
-| 38 | [Track 5](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 0:00 |
+| 38 | [i won't see you anymore](https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meet me in my head](https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M) | 4:02 |
 | 39 | [富士のUTAGE](https://open.spotify.com/track/2MNUdF9JJ2BW4phza8NbFu) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [富士のUTAGE](https://open.spotify.com/album/175LI2G7OcKCSfhHNAZSvY) | 2:44 |
 | 40 | [Looks Can Kill](https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Looks Can Kill](https://open.spotify.com/album/6DStYRq1Xvia2jXG2XQv6g) | 3:15 |
 | 41 | [Made My Night](https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night](https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt) | 2:06 |

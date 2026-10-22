@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,388 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,403 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 40 | [Catucada Profunda](https://open.spotify.com/track/4chepxSHy5zbkLSpTVOJ1o) | [MC Igão](https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g), [Dj Gui Marques](https://open.spotify.com/artist/0O5Okg6jlyviFAxWxHzgDM), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu) | [Catucada Profunda](https://open.spotify.com/album/1EEgxBKfry7iIg1VNN63X5) | 2:53 |
 | 41 | [Deixa de Onda \(Porra Nenhuma\)](https://open.spotify.com/track/0DlHQxrVijRqVUfuS6PKaY) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Deixa de Onda \(Porra Nenhuma\)](https://open.spotify.com/album/1fjkJADMiiZWMDusZSMNix) | 3:04 |
 | 42 | [Papum](https://open.spotify.com/track/0meYgE9n532T2GxRIQ4FFg) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Papum](https://open.spotify.com/album/3tFMDqGswZfRy3RX4Ek1bQ) | 2:19 |
-| 43 | [Finalidade Era Ficar em Casa](https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Finalidade Era Ficar em Casa](https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP) | 3:05 |
-| 44 | [Senta braba](https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Senta braba](https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN) | 2:29 |
+| 43 | [Senta braba](https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Senta braba](https://open.spotify.com/album/0ZmFvtM0137BBjg6Fd6wWN) | 2:29 |
+| 44 | [Finalidade Era Ficar em Casa](https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Finalidade Era Ficar em Casa](https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP) | 3:05 |
 | 45 | [LARISSA](https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [LARISSA](https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy) | 2:05 |
 | 46 | [Isso Que é Vida](https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Isso Que é Vida](https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm) | 2:39 |
 | 47 | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N) | 4:11 |

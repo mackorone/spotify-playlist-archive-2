@@ -2,7 +2,7 @@
 
 ### [Renee Cassar Radio](https://open.spotify.com/playlist/37i9dQZF1E4BblKgmiu0DK)
 
-> With Die Mannequin, Cherri Bomb, The Rumours and more
+> With Die Mannequin, Mia Morris, Bif Naked and more
 
 783 songs - 1 day 18 hr 27 min
 

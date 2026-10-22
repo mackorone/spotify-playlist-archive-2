@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,142 likes - 256 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,145 likes - 256 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 56 | [Set In Stone](https://open.spotify.com/track/5fmf2sDbU6cbodUM6On6wg) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 3:41 |
 | 57 | [Accelerate \(feat\. Ty Dolla $ign & 2 Chainz\)](https://open.spotify.com/track/0iSDDumvHTzv6we9Yr1HzY) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:03 |
 | 58 | [Nassau](https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:36 |
-| 59 | [Electric Glow](https://open.spotify.com/track/48eWZkmFr31aOpFyfkeE0R) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Skyler Stonestreet](https://open.spotify.com/artist/1sY8XHjk6WoA2B5YIGV1S2) | [Metamorphic II](https://open.spotify.com/album/3FDrNsoeak1G0Ua5nSAMnR) | 6:54 |
+| 59 | [Electric Glow](https://open.spotify.com/track/07vJRNoHXyxoLmHrlY22Lj) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Skyler Stonestreet](https://open.spotify.com/artist/1sY8XHjk6WoA2B5YIGV1S2) | [Metamorphic II](https://open.spotify.com/album/0YTU7EBJH1bpnpaK5lA2v9) | 6:54 |
 | 60 | [Deliver](https://open.spotify.com/track/7eop1iSITujvmKRme0DdKJ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Fifth Harmony](https://open.spotify.com/album/0kHFNaPXHGZitDEqNb88ws) | 3:26 |
 | 61 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/5tf6nRmNE3hd2lDvfco1I1) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo) | 6:25 |
 | 62 | [Got Her Own \(with Victoria Monét\)](https://open.spotify.com/track/3UBE9swDF71ARoV42g6Fcx) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 2:41 |
@@ -265,4 +265,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 255 | [Intro](https://open.spotify.com/track/2voUe1ZoydUCnrjjSBymNz) | [Monet](https://open.spotify.com/artist/258AGqI6omKexzEte9BXci), [Mellow Bora](https://open.spotify.com/artist/77EKywL0RK6rDMGuxvxZmj) | [Popo](https://open.spotify.com/album/61VeYxptr7wSy5QfxLHzR2) | 2:16 |
 | 256 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `AcfevAAAAABr2fpAuSVhaAwWCQmMIblY`
+Snapshot ID: `AcfkZgAAAADHMamFKManF4GAUkVqaDIL`

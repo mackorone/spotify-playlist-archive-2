@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Temper City
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,235,662 likes - 175 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,235,639 likes - 175 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

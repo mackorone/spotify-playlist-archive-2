@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,785 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,836 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 19 | [Tera Mera Pyar](https://open.spotify.com/track/5MXSLWGyPosYJ09LNu12SO) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 6:13 |
 | 20 | [Rock Tha Party](https://open.spotify.com/track/0NoNwbg1fnrb3DHCZ8We6q) | [Bombay Rockers](https://open.spotify.com/artist/1bLQBuSop3ekE5Qustj5nP) | [Introducing…](https://open.spotify.com/album/0A9PclEuPJL5dmc9eAso14) | 3:32 |
 | 21 | [Kabhi Yaadon Mein Aaun](https://open.spotify.com/track/1VO2GtGchLJmnJFQZZlEux) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Tere Bina](https://open.spotify.com/album/6tAeHypxJQaHd3RAkEmNaJ) | 6:07 |
-| 22 | [Channa Vey](https://open.spotify.com/track/3At4t5vZ0lDuNWLBPEk6Ck) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Channa Vey](https://open.spotify.com/album/1D3xG0AxMZbq0nVyu0PUgJ) | 4:29 |
-| 23 | [Don't Be Shy](https://open.spotify.com/track/1MbYpxr2x4f2B13OHLwQgw) | [Rouge](https://open.spotify.com/artist/68PVS6ZpjnsIIARGI0h8mi) | [Don't Be Shy](https://open.spotify.com/album/2eqktpsBOh0TMyZ0JMzryo) | 3:12 |
+| 22 | [Don't Be Shy](https://open.spotify.com/track/1MbYpxr2x4f2B13OHLwQgw) | [Rouge](https://open.spotify.com/artist/68PVS6ZpjnsIIARGI0h8mi) | [Don't Be Shy](https://open.spotify.com/album/2eqktpsBOh0TMyZ0JMzryo) | 3:12 |
+| 23 | [Channa Vey](https://open.spotify.com/track/3At4t5vZ0lDuNWLBPEk6Ck) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Channa Vey](https://open.spotify.com/album/1D3xG0AxMZbq0nVyu0PUgJ) | 4:29 |
 | 24 | [Pyaar Ke Pal](https://open.spotify.com/track/6GWchpKWsKkwR6jcl0yG6V) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Pal](https://open.spotify.com/album/43TAlCzzm5cC97LPwit4n0) | 5:59 |
 | 25 | [Is Kadar Pyar Hai Tumse](https://open.spotify.com/track/5rOTik1LSA6A1OPbRRwJdy) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Deewana](https://open.spotify.com/album/1dVyr572avgdyQPtLoEWnI) | 5:24 |
 | 26 | [Tanha Dil](https://open.spotify.com/track/4kO9vFarqUPNwlgFnVNgVh) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 4:51 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 40 | [Kabhi Nahee](https://open.spotify.com/track/3zeTPFtnlR72qRnBH3g2xd) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Amitabh Bachchan](https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR) | [Tera Chehra](https://open.spotify.com/album/5RzyMZc5rfjS1G8JzuI97a) | 3:39 |
 | 41 | [Yeh Kya Hua](https://open.spotify.com/track/6P6o9pPFIYMxxnEhsvgfJA) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Tera Mera Pyar](https://open.spotify.com/album/4M9hhlwnRqzJW7GYtIunml) | 5:03 |
 | 42 | [Tu](https://open.spotify.com/track/5LwIiYNIlFOt4lUiRitq3V) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Kismat](https://open.spotify.com/album/6NwJDSDCIDYN50RUQR6euY) | 4:26 |
-| 43 | [Aana Meri Gully](https://open.spotify.com/track/78VFEHYy9TqY3DDqiISKAM) | [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd) | [Euphoria Gully](https://open.spotify.com/album/4rffxA0reylzJCU4fAZkIy) | 4:42 |
-| 44 | [Bhool Ja](https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 3:34 |
+| 43 | [Bhool Ja](https://open.spotify.com/track/7pCE1BHlNVbvIuqUEOGAj5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tanha Dil...](https://open.spotify.com/album/2jU79jkhy5puSK6sQsDOH4) | 3:34 |
+| 44 | [Aana Meri Gully](https://open.spotify.com/track/78VFEHYy9TqY3DDqiISKAM) | [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd) | [Euphoria Gully](https://open.spotify.com/album/4rffxA0reylzJCU4fAZkIy) | 4:42 |
 | 45 | [Let the Music Play](https://open.spotify.com/track/4jkXawep434f2T2Zt7Gzm5) | [Shamur](https://open.spotify.com/artist/7z6EDRgmCrEItxgbJmTTL9) | [Shardana](https://open.spotify.com/album/52Ipw9FNpnNTJOjbuPaQBg) | 3:41 |
 | 46 | [Lover Girl](https://open.spotify.com/track/44NcO3sv7gVBH03tNRmwDR) | [Alisha Chinai](https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc) | [Made in India](https://open.spotify.com/album/6RU0wl99jN8GaFtD0BXCZ3) | 4:46 |
 | 47 | [Bijuria \- Old Version](https://open.spotify.com/track/0N5aIboDkYJ2iZuPfTk64u) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Mausam](https://open.spotify.com/album/3TgsiJzGTGn5JWY9VjGaXj) | 4:49 |
