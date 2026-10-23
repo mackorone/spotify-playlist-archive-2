@@ -1,13 +1,29 @@
 {
-  "description": "Cover: Shaw",
-  "num_followers": 446187,
+  "description": "Cover: L'morphine",
+  "num_followers": 446332,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMXNwcgseXiIcEA9RyLK6MfpCpxV",
+  "snapshot_id": "AAAAAH+3lZkuD3I0lIIGx9ZJ5JXdvPkW",
   "tracks": [
+    {
+      "added_at": "2026-10-23 00:01:29",
+      "album": {
+        "name": "KAIZEN",
+        "url": "https://open.spotify.com/album/7hOMhbsWbzTNupVFeRnoJt"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "duration_ms": 172059,
+      "name": "ALTER EGO",
+      "url": "https://open.spotify.com/track/40CuKUccAO41clJy6BWqzq"
+    },
     {
       "added_at": "2026-10-10 07:56:22",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 153041,
       "name": "PILLAVE",
       "url": "https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6"
-    },
-    {
-      "added_at": "2026-10-10 07:56:22",
-      "album": {
-        "name": "DESPERADO",
-        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "KILOWAT",
-      "url": "https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0"
     },
     {
       "added_at": "2026-10-10 07:56:22",
@@ -61,6 +61,26 @@
       "url": "https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe"
     },
     {
+      "added_at": "2026-10-23 00:01:29",
+      "album": {
+        "name": "Mazal",
+        "url": "https://open.spotify.com/album/4LelLdIAfvSD92sFCe5JAl"
+      },
+      "artists": [
+        {
+          "name": "7liwa",
+          "url": "https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3"
+        },
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "duration_ms": 173233,
+      "name": "Mazal",
+      "url": "https://open.spotify.com/track/0Ll1dO3F5zpJZfIXuPDoa3"
+    },
+    {
       "added_at": "2026-10-10 07:56:22",
       "album": {
         "name": "Zone De Confort",
@@ -75,6 +95,62 @@
       "duration_ms": 184512,
       "name": "Zone De Confort",
       "url": "https://open.spotify.com/track/37yXgJjCGtxlgdUUja8oZH"
+    },
+    {
+      "added_at": "2026-10-23 00:01:29",
+      "album": {
+        "name": "Sabor",
+        "url": "https://open.spotify.com/album/3alWcWRQJzK8fpodvbPMQU"
+      },
+      "artists": [
+        {
+          "name": "Gustavo 51",
+          "url": "https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 228769,
+      "name": "Sabor",
+      "url": "https://open.spotify.com/track/6ao9bWBTMbQbQ5LYcZs8Fh"
+    },
+    {
+      "added_at": "2026-10-10 07:56:22",
+      "album": {
+        "name": "DESPERADO",
+        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "KILOWAT",
+      "url": "https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0"
+    },
+    {
+      "added_at": "2026-10-21 10:17:22",
+      "album": {
+        "name": "Risala",
+        "url": "https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU"
+      },
+      "artists": [
+        {
+          "name": "Kira7",
+          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
+        },
+        {
+          "name": "FRIZZY",
+          "url": "https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Risala",
+      "url": "https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF"
     },
     {
       "added_at": "2026-10-10 07:56:22",
@@ -151,26 +227,6 @@
       "duration_ms": 196510,
       "name": "SAMEDI (feat. Shaw)",
       "url": "https://open.spotify.com/track/7fZb2RuXEEMnFBW3KNZt7D"
-    },
-    {
-      "added_at": "2026-10-21 10:17:22",
-      "album": {
-        "name": "Risala",
-        "url": "https://open.spotify.com/album/0fEiC5AgwQAhOrvDFW7sRU"
-      },
-      "artists": [
-        {
-          "name": "Kira7",
-          "url": "https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17"
-        },
-        {
-          "name": "FRIZZY",
-          "url": "https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Risala",
-      "url": "https://open.spotify.com/track/5iM87ni0SUEA0xcWOG8NQF"
     },
     {
       "added_at": "2026-10-10 07:56:22",
@@ -507,22 +563,6 @@
       "duration_ms": 205112,
       "name": "RWINA",
       "url": "https://open.spotify.com/track/1wNQEZIB3NGITP3hXO855l"
-    },
-    {
-      "added_at": "2026-10-10 07:56:22",
-      "album": {
-        "name": "Dorororo",
-        "url": "https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br"
-      },
-      "artists": [
-        {
-          "name": "Gustavo 51",
-          "url": "https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Dorororo",
-      "url": "https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e"
     },
     {
       "added_at": "2026-10-10 07:56:22",
@@ -879,26 +919,6 @@
       "duration_ms": 198333,
       "name": "KIYA",
       "url": "https://open.spotify.com/track/4F0yYIjWU3YFFcJHTRBxs3"
-    },
-    {
-      "added_at": "2026-10-10 07:56:22",
-      "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/3hHnbixHGceIDNZtjb6Lov"
-      },
-      "artists": [
-        {
-          "name": "Snor",
-          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
-        },
-        {
-          "name": "Madd",
-          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Storm",
-      "url": "https://open.spotify.com/track/4R85m9Za6QNz2gwXF5ixDK"
     }
   ],
   "unique_name": "ABAT\u2211RA",

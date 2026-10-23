@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Al\u00b7l\u00e8rgiques al pol\u00b7len.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ni\u00f1os.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -172,6 +172,24 @@
       "duration_ms": 256350,
       "name": "25",
       "url": "https://open.spotify.com/track/7b6dqR3SJV9guG2xflw2ir"
+    },
+    {
+      "album": {
+        "name": "c\u00f3mo conoc\u00ed a Poster Boy",
+        "url": "https://open.spotify.com/album/5rBmbb0PHxKpO5mr7FhX0M"
+      },
+      "artists": [
+        {
+          "name": "Poster Boy",
+          "url": "https://open.spotify.com/artist/2uQ5MPeAoOkb9B6dwBzjze"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206286,
+      "name": "27",
+      "url": "https://open.spotify.com/track/4NbVVxfYYRsgULc4ZSfVEh"
     },
     {
       "album": {
@@ -460,7 +478,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 171101,
       "name": "AGUA DE LOS COCOS",
       "url": "https://open.spotify.com/track/6A6hsVU78cJq6SL3PQ0Od2"
@@ -898,6 +916,24 @@
       "duration_ms": 210117,
       "name": "Amor de oficina",
       "url": "https://open.spotify.com/track/3TspMHDZMLMuzUSolTzX15"
+    },
+    {
+      "album": {
+        "name": "Mientras el Guadalquivir fluye y fluye y fluye",
+        "url": "https://open.spotify.com/album/1K33sAPS3Ss1IA0M2bjVLL"
+      },
+      "artists": [
+        {
+          "name": "Viva Belgrado",
+          "url": "https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208873,
+      "name": "Amor en Em",
+      "url": "https://open.spotify.com/track/2Q4YOglXjeGWZvHTMvV0pg"
     },
     {
       "album": {
@@ -1468,7 +1504,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 164462,
       "name": "BAJO CONTROL",
       "url": "https://open.spotify.com/track/54QO2oFUdlOWSGbKA4mQsD"
@@ -1822,6 +1858,24 @@
       "duration_ms": 187350,
       "name": "Brigitte",
       "url": "https://open.spotify.com/track/0QoBr11hbbxOcH5wntSrlL"
+    },
+    {
+      "album": {
+        "name": "En el Club",
+        "url": "https://open.spotify.com/album/47dJyjWSLLK9rks7zrtBQ9"
+      },
+      "artists": [
+        {
+          "name": "Ashleys",
+          "url": "https://open.spotify.com/artist/78rDLh5yrOapboJgm6gTi9"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162116,
+      "name": "British Museum style",
+      "url": "https://open.spotify.com/track/5yqAz2yl5EbySJzMXzboIM"
     },
     {
       "album": {
@@ -4089,6 +4143,24 @@
     },
     {
       "album": {
+        "name": "Con la misma cara",
+        "url": "https://open.spotify.com/album/1d7nyDmrSV4RG7MHAY5xIf"
+      },
+      "artists": [
+        {
+          "name": "Alison Darwin",
+          "url": "https://open.spotify.com/artist/6Yj1pX8slOOGUwzDNwMdXz"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128302,
+      "name": "El caf\u00e9 no me hace nada",
+      "url": "https://open.spotify.com/track/6WZT8D1BD4cbLQC89C09TO"
+    },
+    {
+      "album": {
         "name": "El Campe\u00f3n en tus ojos",
         "url": "https://open.spotify.com/album/0D0LLeJuxDzwCRolaazjRC"
       },
@@ -4498,6 +4570,28 @@
       "duration_ms": 154629,
       "name": "El sue\u00f1o dura una semana",
       "url": "https://open.spotify.com/track/58EkA2ErzMaMEGdc6ofJZ8"
+    },
+    {
+      "album": {
+        "name": "el uno feat el otro",
+        "url": "https://open.spotify.com/album/5C0fJHXyU9b0Nqf2iTSKgb"
+      },
+      "artists": [
+        {
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+        },
+        {
+          "name": "Ona Mafalda",
+          "url": "https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162240,
+      "name": "el uno por el otro",
+      "url": "https://open.spotify.com/track/7o7lNOwcImCdb4WUJq2ji8"
     },
     {
       "album": {
@@ -5644,6 +5738,24 @@
       "duration_ms": 267991,
       "name": "Gallo Negro Se Levanta",
       "url": "https://open.spotify.com/track/7LW1OG8ckXGU6PoxGHTsgc"
+    },
+    {
+      "album": {
+        "name": "Bravos",
+        "url": "https://open.spotify.com/album/37K3rhTIsQPwbysEt5CVjQ"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176751,
+      "name": "Ganar",
+      "url": "https://open.spotify.com/track/4W888odW6QE2LK3iI1J5ZQ"
     },
     {
       "album": {
@@ -7446,7 +7558,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 286607,
       "name": "Las Cosas Importantes",
       "url": "https://open.spotify.com/track/0fvnziBggRa9SAPCBbAM4b"
@@ -8282,7 +8394,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 188361,
       "name": "Malherido",
       "url": "https://open.spotify.com/track/3F1TDphMduaBoONLcz1HgM"
@@ -8560,7 +8672,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 176102,
       "name": "MA\u00d1ANA ES HOY",
       "url": "https://open.spotify.com/track/0czTDt9eup9NHGy7UIwUNM"
@@ -8712,6 +8824,24 @@
       "duration_ms": 131272,
       "name": "Me paso por tu zona",
       "url": "https://open.spotify.com/track/6X4cGXgpvfDPiOV4Z1NCVV"
+    },
+    {
+      "album": {
+        "name": "NADA PUEDE HACERNOS MAL",
+        "url": "https://open.spotify.com/album/6PtvhUqI1kNryFjK4QnvCW"
+      },
+      "artists": [
+        {
+          "name": "La 126",
+          "url": "https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204133,
+      "name": "Me quedo dormida",
+      "url": "https://open.spotify.com/track/71U4KEzdZoyGTWYbgul2eH"
     },
     {
       "album": {
@@ -9527,6 +9657,24 @@
     },
     {
       "album": {
+        "name": "Ni\u00f1os Bomba",
+        "url": "https://open.spotify.com/album/1xBOlR7OG6L01Y5MdzjvBW"
+      },
+      "artists": [
+        {
+          "name": "Goa",
+          "url": "https://open.spotify.com/artist/1jj0qqazY8R9qnrGAKneIh"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203573,
+      "name": "Ni\u00f1os Bomba",
+      "url": "https://open.spotify.com/track/0TwnggGArA0zKxnQB7w7i3"
+    },
+    {
+      "album": {
         "name": "Ni\u00f1os Perdidos",
         "url": "https://open.spotify.com/album/6Jm9mp28EyfixR9ZvxCmY7"
       },
@@ -9596,7 +9744,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 148838,
       "name": "No era lo que pens\u00e9",
       "url": "https://open.spotify.com/track/537RFR3UaydbyBb1aWYrF0"
@@ -11185,6 +11333,24 @@
     },
     {
       "album": {
+        "name": "Polim\u00f3rfiko",
+        "url": "https://open.spotify.com/album/4TJ2Ky6OmeoMwAmNpqqTS9"
+      },
+      "artists": [
+        {
+          "name": "Amygdala",
+          "url": "https://open.spotify.com/artist/7BGTl5Swxc7pcXnSgqzSSM"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125483,
+      "name": "Polim\u00f3rfiko",
+      "url": "https://open.spotify.com/track/3i0dT422FmRaKaK75C3cOI"
+    },
+    {
+      "album": {
         "name": "Pollo al Chilindr\u00f3n",
         "url": "https://open.spotify.com/album/7bddoYx8ebigncBF8ToMVq"
       },
@@ -11770,7 +11936,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 170679,
       "name": "Ratas",
       "url": "https://open.spotify.com/track/1lCMdBnAsQdjpip7k6TKJ7"
@@ -11788,7 +11954,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 211704,
       "name": "Rave En El Bosque",
       "url": "https://open.spotify.com/track/6U7D1tAYK1UDM0PUh3oSwa"
@@ -13002,7 +13168,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 166094,
       "name": "Submarino",
       "url": "https://open.spotify.com/track/4vvQrIi4ldNlLAOI4RsHiB"

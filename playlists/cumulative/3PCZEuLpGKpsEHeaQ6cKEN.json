@@ -3214,6 +3214,32 @@
     {
       "album": {
         "name": "Big Fun",
+        "url": "https://open.spotify.com/album/6PElehUP8KMFWxvuH4Shpo"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Yamagucci",
+          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214364,
+      "name": "Big Fun",
+      "url": "https://open.spotify.com/track/2flF4TMjmhIWKWEdSNK3U8"
+    },
+    {
+      "album": {
+        "name": "Big Fun",
         "url": "https://open.spotify.com/album/551L9RzD8tuvZvBPwRT42u"
       },
       "artists": [
@@ -9600,6 +9626,28 @@
       "duration_ms": 134493,
       "name": "Esperate",
       "url": "https://open.spotify.com/track/5zqeSacOQ7PLUdqexAMeh0"
+    },
+    {
+      "album": {
+        "name": "Esta Si, Esta No",
+        "url": "https://open.spotify.com/album/3ZbEp0iA66MCULFdqvaVLo"
+      },
+      "artists": [
+        {
+          "name": "mOat",
+          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+        },
+        {
+          "name": "The Glimmers",
+          "url": "https://open.spotify.com/artist/0nuEpaqYFyVW97ypQsg96t"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205588,
+      "name": "Esta Si, Esta No",
+      "url": "https://open.spotify.com/track/4ujXS1pZ9GWYGXwLgLcTkx"
     },
     {
       "album": {
@@ -19098,6 +19146,24 @@
       "duration_ms": 171405,
       "name": "Just Words",
       "url": "https://open.spotify.com/track/7I4yaEqhvAhz795dN0mMre"
+    },
+    {
+      "album": {
+        "name": "Kaleido",
+        "url": "https://open.spotify.com/album/3LDXFqyrPQPga2lQc3b95s"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Kaleido",
+      "url": "https://open.spotify.com/track/2j8aZuvqxPK7M5eYpgaTxK"
     },
     {
       "album": {
@@ -34864,6 +34930,32 @@
       "duration_ms": 226722,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/02dLBsiUvpNvS83F0MDmmp"
+    },
+    {
+      "album": {
+        "name": "Sunny Days",
+        "url": "https://open.spotify.com/album/3TDUxZgLN3xXbzEdkULgZp"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "Josh Cumbee",
+          "url": "https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/1TSjclSYMd5LvqNnkHSlV4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,520 songs - 2 day 17 hr 24 min
+1,522 songs - 2 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [Golden Hour](https://open.spotify.com/track/0ZPzbrko3DYrApzqTpPKnm) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Tom Bailey](https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ) | [Golden Hour](https://open.spotify.com/album/5vX0p5w5SsiC4NYGQQMcVZ) | 1:55 | 2024-10-06 | 2024-11-25 |
 | [Golden Hour \(feat\. Eirik Næss\)](https://open.spotify.com/track/4DuWtS1xpr6lftXRK5p7Iu) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Golden Hour \(feat\. Eirik Næss\)](https://open.spotify.com/album/5lPVqHC8vuok9ugGsBxBu7) | 2:35 | 2023-09-22 | 2024-07-29 |
 | [Golden Ticket \(runaway\)](https://open.spotify.com/track/0RZ5f33yE6l3L8RWIDvnyG) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [Golden Ticket \(runaway\)](https://open.spotify.com/album/3PW6pJ9KoAiLyJUBu9ZueA) | 3:11 | 2026-07-20 |  |
+| [Gone](https://open.spotify.com/track/08xXZwJx6QwbJXqSmaSMqL) | [After June](https://open.spotify.com/artist/54ca7OngsDRKrfApI0An72) | [Gone](https://open.spotify.com/album/0k0SSx18w0IoiUKiZploWW) | 2:16 | 2026-10-22 |  |
 | [Gone](https://open.spotify.com/track/1aZAMeEieUIuLyxFp9XZJU) | [Kaphy](https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5) | [Gone](https://open.spotify.com/album/17vdzxxOgxkuBCqXC5pV7M) | 2:45 | 2025-04-27 | 2025-09-08 |
 | [gone](https://open.spotify.com/track/1YSmrgebegemcRPUI9CwFd) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [gone](https://open.spotify.com/album/2B2QxjZLyvQRJwTLv00e6x) | 2:28 | 2023-09-22 | 2024-05-13 |
 | [Gonna Need Your Love](https://open.spotify.com/track/1yX7Sua3eJb38oTCcaWVDF) | [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ), [Erlando](https://open.spotify.com/artist/5cuIDrzlgb5jGwLlRWYnAc) | [Gonna Need Your Love](https://open.spotify.com/album/7jDltbWJRHUQqNUCohQLlL) | 2:11 | 2026-01-11 | 2026-08-10 |
@@ -630,6 +631,7 @@
 | [If I Imagine](https://open.spotify.com/track/4m9JsyxusOEq2YM9ywoI4k) | [Lane Boy](https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3) | [If I Imagine](https://open.spotify.com/album/3MyX5bXEJdBAmnCniqxzSa) | 2:41 | 2025-01-12 |  |
 | [If I Only Knew](https://open.spotify.com/track/0VN4l7R6O7UcPKJhwaZfNN) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [If I Only Knew](https://open.spotify.com/album/1ejZy43GaJpxtdIOVP4k3L) | 2:27 | 2024-05-17 | 2024-06-27 |
 | [If Only](https://open.spotify.com/track/2sPr7aJnY5lERvX23oXbLl) | [Namic](https://open.spotify.com/artist/0Ig4BYYedgQoFjeSvUKDEy), [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [linequat](https://open.spotify.com/artist/49PsUQX8IbmpwcTWHG9OWy), [November Lights](https://open.spotify.com/artist/1XynSPT6cyvrZhQXrZh1qH) | [If Only](https://open.spotify.com/album/4gYe4xymlicTEerh6kYcty) | 2:33 | 2025-11-23 | 2026-01-19 |
+| [If You Had My Love](https://open.spotify.com/track/45SZSlzSJ3eavNit33hF8P) | [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [If You Had My Love](https://open.spotify.com/album/3nLXmSqzk0AKlKbsWzwm5F) | 2:30 | 2026-10-22 |  |
 | [If You Had My Love](https://open.spotify.com/track/0JWSMYurMhPmlD5H8VRoTn) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL) | [If You Had My Love](https://open.spotify.com/album/4QLYrQJNjyLWOZmXtmGxUO) | 2:54 | 2023-09-22 | 2025-07-21 |
 | [Illuminate My Soul](https://open.spotify.com/track/1FCjEHEP0plsozmmJCuhsm) | [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce), [RAMOS](https://open.spotify.com/artist/6krF4O0NO2CJ95OcXA9CCu) | [Illuminate My Soul](https://open.spotify.com/album/6jdLwN0XDfGgElEDSJVkQL) | 2:44 | 2026-03-08 | 2026-07-13 |
 | [Illusion](https://open.spotify.com/track/2LieJ0JcPygJdQuX0D0BJY) | [blaank](https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Illusion](https://open.spotify.com/album/4u2e6y0k8Wi0fI7MWkzO1E) | 2:46 | 2025-06-29 | 2026-07-05 |

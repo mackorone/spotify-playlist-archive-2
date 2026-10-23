@@ -1,12 +1,12 @@
 {
   "description": "that retro kinda feeling, cover: Tiger La Flor",
-  "num_followers": 72853,
+  "num_followers": 72851,
   "original_name": "crushed velvet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOiUYHHlRfDzcyJFynHqmV9gCwIf",
+  "snapshot_id": "AAAAAKyUwPtwUP2D07xZYANW4aGfxdb/",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:50",
@@ -23,6 +23,22 @@
       "duration_ms": 182290,
       "name": "FOREVERMORE",
       "url": "https://open.spotify.com/track/04M4yfp7Khh9VrRZfv73a8"
+    },
+    {
+      "added_at": "2026-10-23 04:02:21",
+      "album": {
+        "name": "Nobody Wants This: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/3NxKJiRAZkeZTJ6JvcHK0b"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 176169,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/472WDAsJN8M23VCTVwbgYr"
     },
     {
       "added_at": "2026-02-27 05:34:06",

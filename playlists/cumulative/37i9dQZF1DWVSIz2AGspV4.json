@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Ala Rohak",
+        "url": "https://open.spotify.com/album/3KI4D9gKFfBqXJM3tTnslY"
+      },
+      "artists": [
+        {
+          "name": "Naser Albhar",
+          "url": "https://open.spotify.com/artist/4Ul7ukXkZ7GNTzJIxJ82tu"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175640,
+      "name": "Ala Rohak",
+      "url": "https://open.spotify.com/track/5LjwNQYhnqtggp3hLP12ZL"
+    },
+    {
+      "album": {
         "name": "Ala Tary Al Awatef",
         "url": "https://open.spotify.com/album/5gzN1IZvfYtbtJ1Pk7BGOF"
       },
@@ -1084,6 +1102,24 @@
       "duration_ms": 243200,
       "name": "Astahlik",
       "url": "https://open.spotify.com/track/2qCz9zvGLV479cUTzeXjNq"
+    },
+    {
+      "album": {
+        "name": "Atshor Roos 3Odwanak",
+        "url": "https://open.spotify.com/album/6xxgCtYF2mtUvjOIAi9lgq"
+      },
+      "artists": [
+        {
+          "name": "Mohamed AlSalim",
+          "url": "https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Atshor Roos 3Odwanak",
+      "url": "https://open.spotify.com/track/3gMFoSCVv4U2SmEIThJZuT"
     },
     {
       "album": {
@@ -1816,7 +1852,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 192679,
       "name": "EL Sadma",
       "url": "https://open.spotify.com/track/2XsoShrfdgAbytTboETWIY"
@@ -2094,7 +2130,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 228433,
       "name": "Enti Eshqi",
       "url": "https://open.spotify.com/track/2gwo58ZwBLQPtovCvjbpT6"
@@ -4305,6 +4341,24 @@
     },
     {
       "album": {
+        "name": "Saat Logak",
+        "url": "https://open.spotify.com/album/6j6Wvvpplcegt5LoP6SbgX"
+      },
+      "artists": [
+        {
+          "name": "Hatem Al Iraqi",
+          "url": "https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305121,
+      "name": "Saat Logak",
+      "url": "https://open.spotify.com/track/7krr2lMPmQSJVASwbn3sFA"
+    },
+    {
+      "album": {
         "name": "Faisal Abdulkareem Mini Album 2023",
         "url": "https://open.spotify.com/album/7CFVvOVCrfnfzj57WXWtFi"
       },
@@ -5952,6 +6006,24 @@
       "duration_ms": 115461,
       "name": "\u0648\u064a\u0646 \u0627\u0646\u062a\u064a",
       "url": "https://open.spotify.com/track/5alJua7mQrq94nPL5cQgxE"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0631\u0646 \u064a\u0631\u0646",
+        "url": "https://open.spotify.com/album/4ZAbtvDAnfYSOKuZNA82kL"
+      },
+      "artists": [
+        {
+          "name": "Mohamed AlSalim",
+          "url": "https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178903,
+      "name": "\u064a\u0631\u0646 \u064a\u0631\u0646",
+      "url": "https://open.spotify.com/track/3OHmjHBXKDLlpb1oNh2a11"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Jão
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Pabllo Vittar
 
-528 songs - 1 day 1 hr 24 min
+530 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Dilema](https://open.spotify.com/track/4fJWANIINf6cHT0woUuxkL) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Me Dá Uma Luz](https://open.spotify.com/album/0a5I4iN5Vrq6K5b8dUAFgQ) | 3:11 | 2026-09-25 |  |
 | [Dilema](https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Dilema](https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b) | 3:06 | 2025-07-04 | 2025-10-18 |
 | [Dilemas da vida moderna](https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro, Quem É Você?](https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk) | 2:28 | 2025-05-23 |  |
+| [DIZER QUE TE AMO](https://open.spotify.com/track/02JFVYvjhf0HvEDxUHsSUT) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [DIZER QUE TE AMO](https://open.spotify.com/album/5iuUYb299eXzLIJ6oUeXhx) | 3:20 | 2026-10-23 |  |
 | [Doce](https://open.spotify.com/track/7sCGeBklTQyhZLbflFc6xg) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY) | [LIA \(pt.1\)](https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX) | 2:16 | 2022-02-04 | 2022-03-05 |
 | [Doce Boy](https://open.spotify.com/track/56UFY8s74kaEkBSsFhSiJA) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [Doce Boy](https://open.spotify.com/album/1BGmw1hnnwRV4NJ69wD4s9) | 2:18 | 2024-05-17 | 2024-06-15 |
 | [Dominou](https://open.spotify.com/track/4H9a5FMFA5Kg9RqC8DSAY8) | [JUNIOR](https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT) | [Dominou](https://open.spotify.com/album/1RaOiXiVkDy73HCfZHW6bR) | 2:24 | 2026-09-18 | 2026-10-16 |
@@ -178,6 +179,7 @@
 | [Eu e Você](https://open.spotify.com/track/7GFL8Q0Uvt0ad8zmQudxNE) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Eu e Você](https://open.spotify.com/album/2RNhBem4gfJ1yL2qaCTQEd) | 2:22 | 2025-12-12 | 2026-05-16 |
 | [Eu Tenho o Molho](https://open.spotify.com/track/0BJ8mgcL9zVU3JvZCqxtAM) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO), [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4) | [Megalomania](https://open.spotify.com/album/6HLqdB01LNcoa5TrtgEsR6) | 2:26 | 2024-09-27 | 2024-11-09 |
 | [Eu Vou \- Ao Vivo](https://open.spotify.com/track/48kqsCqLziLiMdV3ilhiCn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [O \(IM\)POSSÍVEL \- PARTE 1 \[Ao Vivo\]](https://open.spotify.com/album/6b87opgcfElb3XS3aFO677) | 2:52 | 2022-03-11 | 2022-06-13 |
+| [EXCESSO](https://open.spotify.com/track/70ok96cL74jBakuoJma00C) | [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [EXCESSO](https://open.spotify.com/album/2GoENwukIY39JW4z8AMETu) | 3:32 | 2026-10-23 |  |
 | [Exclusiva](https://open.spotify.com/track/6ZayYFgk4cfVRgGEsDxWmY) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [EXCLUSIVA: As mais românticas da IZA](https://open.spotify.com/album/4EAZe1EZ9aJWWPHFcAWkpJ) | 3:13 | 2024-06-05 | 2024-11-09 |
 | [Explícito](https://open.spotify.com/track/0rjoEhu8GFQubGx7dg1KLS) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Hodari](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [FÚRIA](https://open.spotify.com/album/16F4OuXRl7D54HEiwErbOQ) | 2:53 | 2022-01-14 | 2022-02-05 |
 | [Fake Amor 2](https://open.spotify.com/track/78J51AcYXlVFK0J5xHOjs1) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Fake Amor 2](https://open.spotify.com/album/2MYnqMrNTUNGwvkrl5Ktqd) | 2:39 | 2022-02-04 | 2022-04-07 |
@@ -285,7 +287,7 @@
 | [MELHOR NOTÍCIA](https://open.spotify.com/track/4DqQqIMiD3YqnUwR13xLmA) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [MELHOR NOTÍCIA](https://open.spotify.com/album/0sYPdRHJeo4UYbcoRQMmYK) | 5:02 | 2026-07-03 |  |
 | [Melhor Não](https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Frio e Vento](https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z) | 3:33 | 2024-10-18 | 2025-02-01 |
 | [melhor sozinha :\-\)\-:](https://open.spotify.com/track/0gpZ8zy9OAE98nNBVIxWvi) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [melhor sozinha :\-\)\-:](https://open.spotify.com/album/2v9lUQunZBqGCZ6qUiWvuO) | 3:47 | 2022-01-14 | 2022-02-12 |
-| [Menina](https://open.spotify.com/track/1BKs3X4E6Oc0iM3BxnzyXQ) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Menina](https://open.spotify.com/album/1AhiTTbdGAym3xzYflP3fa) | 2:38 | 2026-01-26 |  |
+| [Menina](https://open.spotify.com/track/1BKs3X4E6Oc0iM3BxnzyXQ) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Menina](https://open.spotify.com/album/1AhiTTbdGAym3xzYflP3fa) | 2:38 | 2026-01-26 | 2026-10-23 |
 | [Meninos e Meninas](https://open.spotify.com/track/5B1skkpiljQOQLAmANiaDa) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 2:41 | 2022-08-05 | 2025-11-29 |
 | [Mensagem](https://open.spotify.com/track/27su4WAMySZobigAAuXdHt) | [Bea Duarte](https://open.spotify.com/artist/5LwfyJYVJBnqzbueSiWQqe) | [Mensagem](https://open.spotify.com/album/4ftEmz8W1OXaaD6WuJsC8D) | 3:31 | 2025-01-31 | 2025-04-26 |
 | [MENTA COM CHÁ](https://open.spotify.com/track/6eIH1kXMmK1jcc1H2P5YF2) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:30 | 2023-03-31 | 2023-08-16 |
@@ -337,7 +339,7 @@
 | [Não Se Vá](https://open.spotify.com/track/0XoFdDHxXJ0SqgomwiLAet) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [Não Se Vá](https://open.spotify.com/album/5ZDXO9LppxZbYNaqD1L1Rf) | 2:38 | 2022-12-19 | 2023-08-16 |
 | [Não Te Amo](https://open.spotify.com/track/4NIOFeptzAsbkOUnyBE6FY) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:00 | 2022-01-14 | 2022-02-05 |
 | [Nós](https://open.spotify.com/track/7kDQV2MzhzRGHeLrB09zMA) | [Ananda](https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj), [Helio Baiano](https://open.spotify.com/artist/5i94XzGyw2f9Jv4m8y4BrB), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Leoa do Asfalto](https://open.spotify.com/album/0UxqYcrRyinpMMf0osL6YJ) | 2:53 | 2025-05-13 | 2025-07-05 |
-| [O Amor Não Deixa \- Ao Vivo](https://open.spotify.com/track/57VipZXKv5tc9OoBA8OVIA) | [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [Metamorfose \- Ato I \(Ao Vivo\)](https://open.spotify.com/album/5UzUKRyhcxptpNQJh66yAX) | 4:15 | 2026-08-21 |  |
+| [O Amor Não Deixa \- Ao Vivo](https://open.spotify.com/track/57VipZXKv5tc9OoBA8OVIA) | [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [Metamorfose \- Ato I \(Ao Vivo\)](https://open.spotify.com/album/5UzUKRyhcxptpNQJh66yAX) | 4:15 | 2026-08-21 | 2026-10-23 |
 | [O Café Num Esfriou](https://open.spotify.com/track/09uq2ndGRRGYUTWbzhfDyL) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Pra Beber e Amar](https://open.spotify.com/album/5LfVXJXf0W8GhIVPftzlHP) | 2:31 | 2025-04-04 | 2025-12-06 |
 | [O Que Sobrou Do Amor?](https://open.spotify.com/track/1yp6gTre5ZgNcU7jhoM7uS) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [O Que Sobrou Do Amor?](https://open.spotify.com/album/2QJYzWWasjxoyCNhD4zw84) | 2:26 | 2026-01-16 |  |
 | [O Triste É Que Eu Te Amo](https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:32 | 2024-06-14 | 2024-08-20 |

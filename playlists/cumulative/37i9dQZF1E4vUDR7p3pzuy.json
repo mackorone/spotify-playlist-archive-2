@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With NUDNIK, A Shrine to Failure, JUST LIZZY and more",
+  "description": "With NUDNIK, Rue Oberkampf, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -720,7 +720,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 210162,
       "name": "Afternoon - Remix by Pia Fraus",
       "url": "https://open.spotify.com/track/6WUiNwTFt2Q98pBrNjevLl"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-25",
+      "date_removed": null,
       "duration_ms": 262000,
       "name": "Ancestral Cry",
       "url": "https://open.spotify.com/track/5wOv3JGrgCa9aPFe8iIHlK"
@@ -3412,7 +3412,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 211981,
       "name": "Castle of love II",
       "url": "https://open.spotify.com/track/5S7AVhwllnAQ3ZOgf7SnLn"
@@ -3878,7 +3878,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 197000,
       "name": "CLAW MACHINE",
       "url": "https://open.spotify.com/track/7rHOkT1T72TEQYBduComAY"
@@ -4084,7 +4084,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 300466,
       "name": "Come on Moon",
       "url": "https://open.spotify.com/track/4PsrTSuZWI93sOFsX0NMnf"
@@ -4210,7 +4210,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 194639,
       "name": "Conformity Cutter",
       "url": "https://open.spotify.com/track/4BCeAjoCxbaerQU7WnaN6b"
@@ -4874,7 +4874,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 205600,
       "name": "Cybernetic Dummy",
       "url": "https://open.spotify.com/track/1NqdEb2VNDRAbmEbfV1Sho"
@@ -4910,7 +4910,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 192500,
       "name": "d.e.v.i.l.",
       "url": "https://open.spotify.com/track/5PRxkm0gd73d329Qd5b77f"
@@ -6676,7 +6676,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 230769,
       "name": "End of the Line",
       "url": "https://open.spotify.com/track/3j6GDkd6BfaTX2JgVxrIwR"
@@ -7420,7 +7420,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 205008,
       "name": "Fascinating Me",
       "url": "https://open.spotify.com/track/2sAz58nXQoQTSwsxCdHVWg"
@@ -8222,7 +8222,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 362238,
       "name": "Full Moon Raging",
       "url": "https://open.spotify.com/track/5q4QoW7xycpvTn2rYAsWGY"
@@ -9076,7 +9076,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 237600,
       "name": "Haunted Ballroom",
       "url": "https://open.spotify.com/track/1smUjiafyUGlnbLRY1jPww"
@@ -9376,6 +9376,24 @@
       "duration_ms": 240953,
       "name": "Heroes + Legends",
       "url": "https://open.spotify.com/track/4G0ocrIIcqnYYpnCoeIsEZ"
+    },
+    {
+      "album": {
+        "name": "hi-chew",
+        "url": "https://open.spotify.com/album/0Ni3U6PtFysN8WfTCDFjPQ"
+      },
+      "artists": [
+        {
+          "name": "telekura",
+          "url": "https://open.spotify.com/artist/4RVcjmP8ppJczQZCUn25NV"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168537,
+      "name": "hi-chew",
+      "url": "https://open.spotify.com/track/2FPqLD50a3gzCeZmjyOFky"
     },
     {
       "album": {
@@ -11090,7 +11108,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 138705,
       "name": "is it enough?",
       "url": "https://open.spotify.com/track/6vMWHxbtL2u34lk510XQv3"
@@ -11786,7 +11804,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 216774,
       "name": "Keep The Light On",
       "url": "https://open.spotify.com/track/4PAMXOS9J5INQckpSZ8w4u"
@@ -12162,7 +12180,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 173792,
       "name": "LBS",
       "url": "https://open.spotify.com/track/4Ml081k9JSdOfSPfzcwyS1"
@@ -16498,7 +16516,7 @@
       ],
       "date_added": "2026-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 258249,
       "name": "Red Rock Sunshine",
       "url": "https://open.spotify.com/track/5QfmSPJ4oVCgUfST8VW5Qs"
@@ -19670,7 +19688,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 218440,
       "name": "Stuck In A Loop",
       "url": "https://open.spotify.com/track/7cB6S4xWDRpXOdqgZycZ8G"
@@ -19890,7 +19908,7 @@
       ],
       "date_added": "2026-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 261696,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/6MhcROf37o3rAqVnGpVFQK"
@@ -21180,7 +21198,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 198504,
       "name": "The low",
       "url": "https://open.spotify.com/track/6plhzudEeMjal1cTj1MqaV"
@@ -22104,7 +22122,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 192200,
       "name": "Through The Sand - LP Edition",
       "url": "https://open.spotify.com/track/2FNoeqF9xXuLHSRyKXItO7"
@@ -22526,7 +22544,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 262280,
       "name": "Towers",
       "url": "https://open.spotify.com/track/5ojTnhj24LeKKAEinAbOdS"
@@ -23844,7 +23862,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 185499,
       "name": "War Zone",
       "url": "https://open.spotify.com/track/5xSTOK4FEXiBeRji0zFx61"
@@ -24412,10 +24430,32 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"
+    },
+    {
+      "album": {
+        "name": "Where do you go to cry",
+        "url": "https://open.spotify.com/album/0cgFxZGRynS2fVNs056p0H"
+      },
+      "artists": [
+        {
+          "name": "Ryan Carlson",
+          "url": "https://open.spotify.com/artist/3Byr4ARWco4SXhf1rnaC7l"
+        },
+        {
+          "name": "La Faute",
+          "url": "https://open.spotify.com/artist/06IP0Q7iWY7mFUst8aCQbs"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "Where do you go to cry",
+      "url": "https://open.spotify.com/track/6CBkhjCkc5SKpF515dSgTr"
     },
     {
       "album": {
@@ -24654,7 +24694,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"

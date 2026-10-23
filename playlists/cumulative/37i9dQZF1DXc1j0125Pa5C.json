@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thais Macedo",
+  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Gabby Moura, Imaginasamba",
   "name": "Domingu\u00eara",
   "tracks": [
     {
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 249107,
       "name": "Deixa Acontecer / Curtindo a Vida - Ao Vivo",
       "url": "https://open.spotify.com/track/0mVXlEdoBoajBS8zXCwOtk"
@@ -2428,7 +2428,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 286757,
       "name": "Fato Consumado / Amanh\u00e3 / Ponto Final - Ao Vivo",
       "url": "https://open.spotify.com/track/5lhjF7ABlNFGi8Vyr5tyPf"
@@ -3989,6 +3989,32 @@
     },
     {
       "album": {
+        "name": "Nem Ai / N\u00e3o Tem Hora / Dividido (Ao Vivo)",
+        "url": "https://open.spotify.com/album/330hYpjkKUWStqdUYGuvJB"
+      },
+      "artists": [
+        {
+          "name": "Rodriguinho",
+          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Mr. Dan",
+          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323822,
+      "name": "Nem Ai / N\u00e3o Tem Hora / Dividido - Ao Vivo",
+      "url": "https://open.spotify.com/track/0hVBlOMWpIssxn7XoR70j0"
+    },
+    {
+      "album": {
         "name": "Volta no Tempo",
         "url": "https://open.spotify.com/album/5lds6jh3SfJQ9Mw0vwu5CO"
       },
@@ -5461,6 +5487,28 @@
     },
     {
       "album": {
+        "name": "Quem Ser\u00e1 / Para Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ROvtbOK868CvD0q9Dg2KT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        },
+        {
+          "name": "Farias",
+          "url": "https://open.spotify.com/artist/3hbT4XnYXzKxLDYZTCZn1z"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209968,
+      "name": "Quem Ser\u00e1 / Para Tudo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7CEPJFHoBYUoXy2esm8tyF"
+    },
+    {
+      "album": {
         "name": "MOLHO (Ao Vivo)",
         "url": "https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi"
       },
@@ -6656,7 +6704,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 280576,
       "name": "Tudo Pode Acontecer / Vai Me Dando Corda / A Casa Caiu - Ao Vivo",
       "url": "https://open.spotify.com/track/16lHwvxBdG8gp8iJAcxgjT"
@@ -7244,6 +7292,28 @@
       "duration_ms": 190667,
       "name": "\u00c1pice do Amor / Boomerang",
       "url": "https://open.spotify.com/track/5kDh9H9mCf7bjORSGR9dE5"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Demais / Ainda \u00e9 Cedo Pra Dizer \"Bye, Bye\" (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0ZN8MMl0SfDQRQXLkw2KYT"
+      },
+      "artists": [
+        {
+          "name": "Gabby Moura",
+          "url": "https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK"
+        },
+        {
+          "name": "Imaginasamba",
+          "url": "https://open.spotify.com/artist/1DEukDFi4pMT4Y0bfGxJTB"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294511,
+      "name": "\u00c9 Demais / Ainda \u00e9 Cedo Pra Dizer \"Bye, Bye\" - Ao Vivo",
+      "url": "https://open.spotify.com/track/0KWxDBZFwrtwwhZgYc9hvn"
     },
     {
       "album": {

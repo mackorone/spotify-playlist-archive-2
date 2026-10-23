@@ -1,12 +1,12 @@
 {
   "description": "Fusion music for the soul. ",
-  "num_followers": 86680,
+  "num_followers": 86691,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHyoi3ZYUyjwd7Zq0c72z0VEDjha",
+  "snapshot_id": "AAAAAO6HQfLUszA0loqJSmiByYveQTWo",
   "tracks": [
     {
       "added_at": "2026-09-29 11:47:09",
@@ -69,20 +69,24 @@
       "url": "https://open.spotify.com/track/5eEycxHOvLIoFWfrg3fpFz"
     },
     {
-      "added_at": "2026-09-29 11:47:09",
+      "added_at": "2026-10-22 08:18:47",
       "album": {
-        "name": "Unison (Live at the Oddbird Theatre)",
-        "url": "https://open.spotify.com/album/1erFgdErlAtz13XDglgzbh"
+        "name": "Paarvathi Pathim (From \"Bhoomi 2026\")",
+        "url": "https://open.spotify.com/album/7zoObVOTlMj0QbwMtjHRU1"
       },
       "artists": [
         {
-          "name": "Advaita",
-          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Sandeep Narayan",
+          "url": "https://open.spotify.com/artist/0VLoKkBLyu8CsffbUHZn45"
         }
       ],
-      "duration_ms": 457006,
-      "name": "Milan - Live",
-      "url": "https://open.spotify.com/track/4WLwUAMqUPm59jvu7hQauG"
+      "duration_ms": 331646,
+      "name": "Paarvathi Pathim (From \"Bhoomi 2026\")",
+      "url": "https://open.spotify.com/track/3Y7tT7bguLLtrw5jT7cWcn"
     },
     {
       "added_at": "2026-09-29 11:47:09",
@@ -923,6 +927,22 @@
     {
       "added_at": "2026-09-29 11:47:09",
       "album": {
+        "name": "Unison (Live at the Oddbird Theatre)",
+        "url": "https://open.spotify.com/album/1erFgdErlAtz13XDglgzbh"
+      },
+      "artists": [
+        {
+          "name": "Advaita",
+          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
+        }
+      ],
+      "duration_ms": 457006,
+      "name": "Milan - Live",
+      "url": "https://open.spotify.com/track/4WLwUAMqUPm59jvu7hQauG"
+    },
+    {
+      "added_at": "2026-09-29 11:47:09",
+      "album": {
         "name": "Kaadambari",
         "url": "https://open.spotify.com/album/4FGpHVQk0L8BaVZZRON3h5"
       },
@@ -979,6 +999,30 @@
     {
       "added_at": "2026-09-29 11:47:09",
       "album": {
+        "name": "Pankh",
+        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
+      },
+      "artists": [
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Ajoy Chakrabarty",
+          "url": "https://open.spotify.com/artist/2yIEYEbk5C7Sh3t9ggKJAJ"
+        }
+      ],
+      "duration_ms": 387000,
+      "name": "Mere Suron Mein",
+      "url": "https://open.spotify.com/track/5CNbIAKBV1kEdObKnqgIwX"
+    },
+    {
+      "added_at": "2026-09-29 11:47:09",
+      "album": {
         "name": "Jhoomelo (feat. Hansa Devi) [Maati S1]",
         "url": "https://open.spotify.com/album/0GJ7GMjQjOG8Ar0rv1Qvkn"
       },
@@ -1007,30 +1051,6 @@
     {
       "added_at": "2026-09-29 11:47:09",
       "album": {
-        "name": "Pankh",
-        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
-      },
-      "artists": [
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        },
-        {
-          "name": "Shantanu Moitra",
-          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
-        },
-        {
-          "name": "Ajoy Chakrabarty",
-          "url": "https://open.spotify.com/artist/2yIEYEbk5C7Sh3t9ggKJAJ"
-        }
-      ],
-      "duration_ms": 387000,
-      "name": "Mere Suron Mein",
-      "url": "https://open.spotify.com/track/5CNbIAKBV1kEdObKnqgIwX"
-    },
-    {
-      "added_at": "2026-09-29 11:47:09",
-      "album": {
         "name": "Shakkar",
         "url": "https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO"
       },
@@ -1051,22 +1071,6 @@
       "duration_ms": 295135,
       "name": "Shakkarpari",
       "url": "https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L"
-    },
-    {
-      "added_at": "2026-09-29 11:47:09",
-      "album": {
-        "name": "Kimaya",
-        "url": "https://open.spotify.com/album/5W5uidFGkEFw2GFKWUyT03"
-      },
-      "artists": [
-        {
-          "name": "Masala Coffee",
-          "url": "https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs"
-        }
-      ],
-      "duration_ms": 276030,
-      "name": "Safar",
-      "url": "https://open.spotify.com/track/17PQNiQynwG4iCGwPglRuL"
     }
   ],
   "unique_name": "Fusion Finds",

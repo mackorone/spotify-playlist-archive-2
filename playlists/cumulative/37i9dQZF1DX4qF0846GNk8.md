@@ -2,7 +2,7 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر! الغلاف: اسلام كابونجا
+> أجمد المهرجانات في مصر! الغلاف: حمو المرشدي
 
 411 songs - 1 day 1 hr 35 min
 
@@ -212,7 +212,7 @@
 | [زعلان اوي من فلان وفلان \(كان ياما كان في ناس جدعان\)](https://open.spotify.com/track/1p47AO3RGP67nscf0HkBNN) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [زعلان اوي من فلان وفلان \(كان ياما كان في ناس جدعان\)](https://open.spotify.com/album/6q2RvZW9ht7e83Uj3OlE8B) | 3:38 | 2026-03-25 | 2026-04-08 |
 | [زماني صابني عيار](https://open.spotify.com/track/0zyAjQxKKcs5UAdctKc0xR) | [Magdy El Zahar](https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [زماني صابني عيار](https://open.spotify.com/album/49BPIEHw4Maf9tDihzYwgb) | 3:09 | 2024-03-08 | 2025-01-14 |
 | [زى منا انا و مليش زاى](https://open.spotify.com/track/1Xmp87DwHLtZd1fqIEsfVC) | [Mohamed Baskout](https://open.spotify.com/artist/3eWyyPMuTzGMwB3myNIMcj), [Zizo El Mayestro](https://open.spotify.com/artist/6i9v8yiE8k3oW0vQIQjlqS) | [زى منا انا و مليش زاى](https://open.spotify.com/album/5WYxGpAvfKfx43GuiCYgon) | 3:26 | 2025-01-24 | 2025-04-08 |
-| [سكه سفر في الضيقة](https://open.spotify.com/track/4sAEPKmU81A7tM1xDjYHf3) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt), [Mustafa El Gen](https://open.spotify.com/artist/45mCRvMrIuVebDpIn9Y3pV), [Eslam El Gamal](https://open.spotify.com/artist/6t4NCZ7YxbCf7XzEnJcjTX) | [سكه سفر في الضيقة](https://open.spotify.com/album/5baJbiugWDDBNs6K9E8QkT) | 7:33 | 2026-07-06 |  |
+| [سكه سفر في الضيقة](https://open.spotify.com/track/4sAEPKmU81A7tM1xDjYHf3) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt), [Mustafa El Gen](https://open.spotify.com/artist/45mCRvMrIuVebDpIn9Y3pV), [Eslam El Gamal](https://open.spotify.com/artist/6t4NCZ7YxbCf7XzEnJcjTX) | [سكه سفر في الضيقة](https://open.spotify.com/album/5baJbiugWDDBNs6K9E8QkT) | 7:33 | 2026-07-06 | 2026-10-23 |
 | [سوابق](https://open.spotify.com/track/3fXCpzoijGnAh0qVfLpfiv) | [Elpower El3aly](https://open.spotify.com/artist/7h4vmBjL6JkQDHe5BbZ5AY) | [سوابق](https://open.spotify.com/album/4muNY4huZdpuXuyIq9uvh5) | 3:34 | 2026-04-07 | 2026-05-22 |
 | [سوري مبردش انا بستوري](https://open.spotify.com/track/6XnBt8ME4K8d9oYf7SE5Wa) | [Magdy El Zahar](https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [سوري مبردش انا بستوري](https://open.spotify.com/album/7tePcFslMQ5mMWuC5gCDUm) | 4:13 | 2024-08-12 | 2025-03-11 |
 | [سيبك من اللي خلع \- من فيلم حمص وحلاوة](https://open.spotify.com/track/7ME2ZENU0G5H7IlnPbWvOv) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [سيبك من اللي خلع \(من فيلم حمص وحلاوة\)](https://open.spotify.com/album/5VVLkrKS5EIDoy3ehMbGNX) | 2:52 | 2023-10-11 |  |

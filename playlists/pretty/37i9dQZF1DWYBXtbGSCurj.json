@@ -1,13 +1,269 @@
 {
-  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Brand\u00e3o85",
-  "num_followers": 608157,
+  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Oreozin, Meno Tody ",
+  "num_followers": 608105,
   "original_name": "Trap Ouro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGkTgjtfg6B8UF2AqNGsUxGfTkNX",
+  "snapshot_id": "AAAAAOVGouR/FcKOZTUG1gpwjYIaSbkh",
   "tracks": [
+    {
+      "added_at": "2026-10-23 03:01:27",
+      "album": {
+        "name": "T\u00e3o S\u00f3",
+        "url": "https://open.spotify.com/album/3PsAehfXoKcVvkHt6WuaKk"
+      },
+      "artists": [
+        {
+          "name": "Oreozin",
+          "url": "https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG"
+        },
+        {
+          "name": "Meno Tody",
+          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
+        },
+        {
+          "name": "VTnoBeat",
+          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "T\u00e3o S\u00f3",
+      "url": "https://open.spotify.com/track/2S0YZXFoxKmMOFGaPj9Yjg"
+    },
+    {
+      "added_at": "2026-10-23 03:01:27",
+      "album": {
+        "name": "A ESTRELA DA RUA.",
+        "url": "https://open.spotify.com/album/1iHxJSHd5qnUptRP02739v"
+      },
+      "artists": [
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Nicholas Arashiro",
+          "url": "https://open.spotify.com/artist/5Cx8TEzo0BysMcJpfbH09m"
+        }
+      ],
+      "duration_ms": 165539,
+      "name": "SUV 2027",
+      "url": "https://open.spotify.com/track/7G3u0N9kyjba68YevFhMws"
+    },
+    {
+      "added_at": "2026-10-23 03:01:27",
+      "album": {
+        "name": "NUNK MAIS QUEBRADO",
+        "url": "https://open.spotify.com/album/3vNbzCVb6bgBaOWZpFHZlv"
+      },
+      "artists": [
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        }
+      ],
+      "duration_ms": 110344,
+      "name": "OURO ROSE",
+      "url": "https://open.spotify.com/track/3z93i2wdsFVjgmzqwwSNBc"
+    },
+    {
+      "added_at": "2026-10-16 03:01:09",
+      "album": {
+        "name": "PR\u00d3LOGO (Levando O Sol Comigo)",
+        "url": "https://open.spotify.com/album/4By2pwKdLSDPNyoEbrAcX5"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "PR\u00d3LOGO (Levando O Sol Comigo)",
+      "url": "https://open.spotify.com/track/6gp2F6jcBdNllpl5yE7kn9"
+    },
+    {
+      "added_at": "2026-10-23 03:01:27",
+      "album": {
+        "name": "ALPINISTA",
+        "url": "https://open.spotify.com/album/47KHa4F6GOJlCgghVRrn0e"
+      },
+      "artists": [
+        {
+          "name": "Lil Vi",
+          "url": "https://open.spotify.com/artist/3oFi6HudKNWBVYh04VxmiB"
+        },
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "HIKENobeat",
+          "url": "https://open.spotify.com/artist/1FCS7hzZ3fzUZEuEIxD8By"
+        },
+        {
+          "name": "BadKid",
+          "url": "https://open.spotify.com/artist/6Zjrtke6FDeyCewfUkgBnP"
+        }
+      ],
+      "duration_ms": 122880,
+      "name": "ALPINISTA",
+      "url": "https://open.spotify.com/track/2U3b4vIsalNrW7RepUdwOU"
+    },
+    {
+      "added_at": "2026-10-16 03:01:09",
+      "album": {
+        "name": "ESS\u00caNCIA DE RISCO",
+        "url": "https://open.spotify.com/album/1isEZTDWqASfLOXpzAWVlA"
+      },
+      "artists": [
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 187032,
+      "name": "N\u00c3O TEMA O CONFRONTO",
+      "url": "https://open.spotify.com/track/4RzgGvJn54LSiMH0D0RKAc"
+    },
+    {
+      "added_at": "2026-10-16 03:01:09",
+      "album": {
+        "name": "Ep\u00edlogo",
+        "url": "https://open.spotify.com/album/2D98nng3FoTCTOmrDFpWSG"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Mvt",
+          "url": "https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "NAVII",
+          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
+        }
+      ],
+      "duration_ms": 185520,
+      "name": "Ep\u00edlogo",
+      "url": "https://open.spotify.com/track/1bE2WWrrWrTZxSQNL8uqSV"
+    },
+    {
+      "added_at": "2026-10-23 03:01:27",
+      "album": {
+        "name": "Obito",
+        "url": "https://open.spotify.com/album/2G4BL282ZRkCy9itXIB4lo"
+      },
+      "artists": [
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "Teo",
+          "url": "https://open.spotify.com/artist/3qDVkljMjmPNXRMTqh5DWB"
+        }
+      ],
+      "duration_ms": 158904,
+      "name": "Obito",
+      "url": "https://open.spotify.com/track/2V0kMZdFgBp0e2SYrEAH96"
+    },
+    {
+      "added_at": "2026-10-16 03:01:09",
+      "album": {
+        "name": "Longe de casa",
+        "url": "https://open.spotify.com/album/5kjHUUN8dt3u3Y5YVzIc0x"
+      },
+      "artists": [
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Longe de casa",
+      "url": "https://open.spotify.com/track/0F9k1k1J593DgsVIG0E5pF"
+    },
+    {
+      "added_at": "2026-10-23 03:01:27",
+      "album": {
+        "name": "oxiurus",
+        "url": "https://open.spotify.com/album/3WJrgAIdK93tkwZVozMlMY"
+      },
+      "artists": [
+        {
+          "name": "Ugovhb",
+          "url": "https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG"
+        },
+        {
+          "name": "Lil D Ofc",
+          "url": "https://open.spotify.com/artist/7xXEktLkGaU43whh9psQX2"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "loonyjetski",
+          "url": "https://open.spotify.com/artist/1TPQ578HtBYpfgpzNJIs93"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "oxiurus",
+      "url": "https://open.spotify.com/track/0Apmt06ai9GsL95Ir2zurs"
+    },
+    {
+      "added_at": "2026-10-23 03:01:27",
+      "album": {
+        "name": "Mundo Fashion",
+        "url": "https://open.spotify.com/album/0h2u1ikVqnFckItpMMVl58"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 241994,
+      "name": "Mundo Fashion",
+      "url": "https://open.spotify.com/track/52EfPNdYLQDbv2OHOuoUue"
+    },
     {
       "added_at": "2026-10-16 03:01:09",
       "album": {
@@ -47,30 +303,6 @@
       "duration_ms": 199793,
       "name": "ODEIO SHOW PARADO",
       "url": "https://open.spotify.com/track/2nv5UkE1FoFrqwwO1DY7PH"
-    },
-    {
-      "added_at": "2026-10-16 03:01:09",
-      "album": {
-        "name": "ESS\u00caNCIA DE RISCO",
-        "url": "https://open.spotify.com/album/1isEZTDWqASfLOXpzAWVlA"
-      },
-      "artists": [
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        },
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 187032,
-      "name": "N\u00c3O TEMA O CONFRONTO",
-      "url": "https://open.spotify.com/track/4RzgGvJn54LSiMH0D0RKAc"
     },
     {
       "added_at": "2026-10-16 03:01:09",
@@ -119,54 +351,6 @@
       "duration_ms": 129856,
       "name": "UHUM",
       "url": "https://open.spotify.com/track/0slzabiVhe9m7kFBbzsKHk"
-    },
-    {
-      "added_at": "2026-10-16 03:01:09",
-      "album": {
-        "name": "Ep\u00edlogo",
-        "url": "https://open.spotify.com/album/2D98nng3FoTCTOmrDFpWSG"
-      },
-      "artists": [
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Mvt",
-          "url": "https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "NAVII",
-          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
-        }
-      ],
-      "duration_ms": 185520,
-      "name": "Ep\u00edlogo",
-      "url": "https://open.spotify.com/track/1bE2WWrrWrTZxSQNL8uqSV"
-    },
-    {
-      "added_at": "2026-10-16 03:01:09",
-      "album": {
-        "name": "PR\u00d3LOGO (Levando O Sol Comigo)",
-        "url": "https://open.spotify.com/album/4By2pwKdLSDPNyoEbrAcX5"
-      },
-      "artists": [
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "PR\u00d3LOGO (Levando O Sol Comigo)",
-      "url": "https://open.spotify.com/track/6gp2F6jcBdNllpl5yE7kn9"
     },
     {
       "added_at": "2026-10-16 03:01:09",
@@ -271,30 +455,6 @@
       "duration_ms": 184945,
       "name": "Vai pra cima",
       "url": "https://open.spotify.com/track/7I0uU3wE32OrvYykfkIk1q"
-    },
-    {
-      "added_at": "2026-10-16 03:01:09",
-      "album": {
-        "name": "Longe de casa",
-        "url": "https://open.spotify.com/album/5kjHUUN8dt3u3Y5YVzIc0x"
-      },
-      "artists": [
-        {
-          "name": "KayG",
-          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
-        },
-        {
-          "name": "Kenji",
-          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
-        },
-        {
-          "name": "Stuani",
-          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Longe de casa",
-      "url": "https://open.spotify.com/track/0F9k1k1J593DgsVIG0E5pF"
     },
     {
       "added_at": "2026-10-16 03:01:09",
@@ -1179,30 +1339,6 @@
     {
       "added_at": "2026-10-16 03:01:09",
       "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/0gOv422ovOyM3tLNBHQITB"
-      },
-      "artists": [
-        {
-          "name": "Pluck D",
-          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
-        },
-        {
-          "name": "TEK",
-          "url": "https://open.spotify.com/artist/66mSAN9kX6aKSJ3F8wVN1d"
-        },
-        {
-          "name": "Don EleMesmo",
-          "url": "https://open.spotify.com/artist/67XY5ewOuX4ZkZq6sONHWa"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/7si2q5ENIf0Y0MMI900VUF"
-    },
-    {
-      "added_at": "2026-10-16 03:01:09",
-      "album": {
         "name": "Dedo no Gatilho",
         "url": "https://open.spotify.com/album/1n9OIA7ekfipAY4l8oR5lG"
       },
@@ -1299,34 +1435,6 @@
     {
       "added_at": "2026-10-16 03:01:09",
       "album": {
-        "name": "SELVAGERIA",
-        "url": "https://open.spotify.com/album/7dCbVm7RTCjDMHuOQ1KlhQ"
-      },
-      "artists": [
-        {
-          "name": "OG BRITTO",
-          "url": "https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF"
-        },
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "maiarealplug",
-          "url": "https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy"
-        },
-        {
-          "name": "GFM",
-          "url": "https://open.spotify.com/artist/4YDz87v1xGFjUr9Sovl0AM"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "ZONA DE PERIGO",
-      "url": "https://open.spotify.com/track/6q9KVAb0UgdBmgqJFdQrOM"
-    },
-    {
-      "added_at": "2026-10-16 03:01:09",
-      "album": {
         "name": "FOD*SE A P*RRA DO TRAP (DLC)",
         "url": "https://open.spotify.com/album/5KGP1AkuJ1IyJf5gI9W76v"
       },
@@ -1385,7 +1493,7 @@
         },
         {
           "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+          "url": "https://open.spotify.com/artist/7FGbhQp2Mk48Ik3N93dF6E"
         },
         {
           "name": "Erick Di",
@@ -1639,114 +1747,6 @@
       "duration_ms": 158896,
       "name": "CA\u00c7A DO TESOURO",
       "url": "https://open.spotify.com/track/39ndb5aaoDJh5opNildstN"
-    },
-    {
-      "added_at": "2026-10-16 03:01:09",
-      "album": {
-        "name": "Umbrella",
-        "url": "https://open.spotify.com/album/2dwGjp6JC9KinbMPD4vRl0"
-      },
-      "artists": [
-        {
-          "name": "KayG",
-          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
-        },
-        {
-          "name": "Soh Lopez",
-          "url": "https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t"
-        }
-      ],
-      "duration_ms": 210769,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/3FtRtoJHaUqrkY2FHRkEtX"
-    },
-    {
-      "added_at": "2026-10-16 03:01:09",
-      "album": {
-        "name": "PPMC",
-        "url": "https://open.spotify.com/album/1mUAAvBsv3q6pFuQu0vgfY"
-      },
-      "artists": [
-        {
-          "name": "Cashley",
-          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
-        },
-        {
-          "name": "ch2mera",
-          "url": "https://open.spotify.com/artist/2pNbO2EEKOfBpFTaCpN1yg"
-        },
-        {
-          "name": "Nicholas Arashiro",
-          "url": "https://open.spotify.com/artist/5Cx8TEzo0BysMcJpfbH09m"
-        }
-      ],
-      "duration_ms": 115443,
-      "name": "CLASSE A",
-      "url": "https://open.spotify.com/track/2zOIcxeqMRTxRjX3d9aekC"
-    },
-    {
-      "added_at": "2026-10-16 03:01:09",
-      "album": {
-        "name": "RCB - Relatos de um cora\u00e7\u00e3o bandido",
-        "url": "https://open.spotify.com/album/0CoAbZC2ryOn0W9Aa88s5f"
-      },
-      "artists": [
-        {
-          "name": "Real Fuba",
-          "url": "https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Jhamy",
-          "url": "https://open.spotify.com/artist/3L7b9GtD9wyn52pNhhK8XJ"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Cora\u00e7\u00e3o de Brinquedo",
-      "url": "https://open.spotify.com/track/5EfaRYL9JvCVGwDIfVGhMz"
-    },
-    {
-      "added_at": "2026-10-16 03:01:09",
-      "album": {
-        "name": "C\u00d3DIGO DAS RUAS",
-        "url": "https://open.spotify.com/album/3eau69rQEqsCngJseJR9Id"
-      },
-      "artists": [
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        }
-      ],
-      "duration_ms": 126713,
-      "name": "FATOS REAIS",
-      "url": "https://open.spotify.com/track/48PHddLWKRm2v8edXl5NHv"
-    },
-    {
-      "added_at": "2026-10-16 03:01:09",
-      "album": {
-        "name": "Eu sei",
-        "url": "https://open.spotify.com/album/4HrEXJl69Paze3hND6mpTB"
-      },
-      "artists": [
-        {
-          "name": "Raflow",
-          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
-        },
-        {
-          "name": "Real Fuba",
-          "url": "https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb"
-        },
-        {
-          "name": "Deluca",
-          "url": "https://open.spotify.com/artist/0Gz4hLahmvjsPYwsDdbAI7"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Eu sei",
-      "url": "https://open.spotify.com/track/43Z9DTcF8yA18g3wZou3Qc"
     }
   ],
   "unique_name": "Trap Ouro",

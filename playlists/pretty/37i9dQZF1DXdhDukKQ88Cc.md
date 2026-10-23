@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap øverst 👀  Artigeardit på cover!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,374 likes - 71 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,372 likes - 71 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

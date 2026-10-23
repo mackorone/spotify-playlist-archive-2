@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 2103,
+  "num_followers": 2104,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAABzynxFdj7+4dUd31W/pRrS",
+  "snapshot_id": "atavAAAAAABgcN73bz8ZvPvTWLZeCIK7",
   "tracks": [
     {
       "added_at": null,
@@ -515,30 +515,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saint-Sa\u00ebns: Le carnaval des animaux, Septuor & Fantaisie",
-        "url": "https://open.spotify.com/album/28HNwkqtbBQzratVgmhqb1"
+        "name": "Faur\u00e9: Complete Chamber Music for Strings",
+        "url": "https://open.spotify.com/album/0J7ufiXuDy70tuH63bTV6y"
       },
       "artists": [
         {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
-        },
-        {
           "name": "Michel Dalberto",
           "url": "https://open.spotify.com/artist/1hzIjeYlO245tJ5hS50dUJ"
         }
       ],
-      "duration_ms": 185080,
-      "name": "Saint-Sa\u00ebns: Le carnaval des animaux: XIII. Le cygne",
-      "url": "https://open.spotify.com/track/4kPOuzgsbpOEKCrCgAng4G"
+      "duration_ms": 232995,
+      "name": "Faur\u00e9: Sicilienne, Op. 78",
+      "url": "https://open.spotify.com/track/67PSa2ZYjTtS01UWrxkKAy"
     },
     {
       "added_at": null,
@@ -571,26 +567,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faur\u00e9: Complete Chamber Music for Strings",
-        "url": "https://open.spotify.com/album/0J7ufiXuDy70tuH63bTV6y"
+        "name": "Saint-Sa\u00ebns: Le carnaval des animaux, Septuor & Fantaisie",
+        "url": "https://open.spotify.com/album/28HNwkqtbBQzratVgmhqb1"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        },
+        {
           "name": "Michel Dalberto",
           "url": "https://open.spotify.com/artist/1hzIjeYlO245tJ5hS50dUJ"
         }
       ],
-      "duration_ms": 232995,
-      "name": "Faur\u00e9: Sicilienne, Op. 78",
-      "url": "https://open.spotify.com/track/67PSa2ZYjTtS01UWrxkKAy"
+      "duration_ms": 185080,
+      "name": "Saint-Sa\u00ebns: Le carnaval des animaux: XIII. Le cygne",
+      "url": "https://open.spotify.com/track/4kPOuzgsbpOEKCrCgAng4G"
     },
     {
       "added_at": null,
@@ -1116,8 +1116,8 @@
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+          "name": "Jules Massenet",
+          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
         },
         {
           "name": "Gautier Capu\u00e7on",
@@ -1132,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
         }
       ],
-      "duration_ms": 207746,
-      "name": "Faur\u00e9: 3 M\u00e9lodies, Op. 7: No. 1, Apr\u00e8s un r\u00eave (Orch. B\u00fcsser)",
-      "url": "https://open.spotify.com/track/5ibriUkbLukCioQsy9ryEX"
+      "duration_ms": 372066,
+      "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
+      "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
     },
     {
       "added_at": null,
@@ -1228,8 +1228,8 @@
       },
       "artists": [
         {
-          "name": "Jules Massenet",
-          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
         },
         {
           "name": "Gautier Capu\u00e7on",
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
         }
       ],
-      "duration_ms": 372066,
-      "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
-      "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
+      "duration_ms": 207746,
+      "name": "Faur\u00e9: 3 M\u00e9lodies, Op. 7: No. 1, Apr\u00e8s un r\u00eave (Orch. B\u00fcsser)",
+      "url": "https://open.spotify.com/track/5ibriUkbLukCioQsy9ryEX"
     },
     {
       "added_at": null,
@@ -1279,26 +1279,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Focus with Bach",
-        "url": "https://open.spotify.com/album/05LISIyECZIHTpuS2oyINW"
+        "name": "Sensations - La vie en rose",
+        "url": "https://open.spotify.com/album/3pe7hdB8lRhFolNvaV0Ubi"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Louiguy",
+          "url": "https://open.spotify.com/artist/5YBGb1FUahcLMQj9F4C6B3"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        },
+        {
+          "name": "Johanna Malangr\u00e9",
+          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
+        },
+        {
+          "name": "Orchestre national de Bretagne",
+          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
         }
       ],
-      "duration_ms": 91093,
-      "name": "Prelude and Fugue in D Major, BWV 850: I. Prelude",
-      "url": "https://open.spotify.com/track/7cFXFkxxeIDCu52cP2QBUB"
+      "duration_ms": 264013,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/4uDiP7xdjkD5fYhS6fypp8"
     },
     {
       "added_at": null,
@@ -1331,34 +1339,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sensations - La vie en rose",
-        "url": "https://open.spotify.com/album/3pe7hdB8lRhFolNvaV0Ubi"
+        "name": "Focus with Bach",
+        "url": "https://open.spotify.com/album/05LISIyECZIHTpuS2oyINW"
       },
       "artists": [
         {
-          "name": "Louiguy",
-          "url": "https://open.spotify.com/artist/5YBGb1FUahcLMQj9F4C6B3"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        },
-        {
-          "name": "Johanna Malangr\u00e9",
-          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
-        },
-        {
-          "name": "Orchestre national de Bretagne",
-          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
         }
       ],
-      "duration_ms": 264013,
-      "name": "La vie en rose",
-      "url": "https://open.spotify.com/track/4uDiP7xdjkD5fYhS6fypp8"
+      "duration_ms": 91093,
+      "name": "Prelude and Fugue in D Major, BWV 850: I. Prelude",
+      "url": "https://open.spotify.com/track/7cFXFkxxeIDCu52cP2QBUB"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

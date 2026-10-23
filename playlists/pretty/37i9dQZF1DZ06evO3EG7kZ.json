@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 52813,
+  "num_followers": 52817,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAACvjktgTcssedNqU8JUcysa",
+  "snapshot_id": "atavAAAAAACOY9R3tZhDEfFPKyzvxL8+",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 88204,
-      "name": "Rug Island, Pt. 1",
-      "url": "https://open.spotify.com/track/3EAPxpZ0i4WOtQHvCGx3hX"
+      "duration_ms": 196078,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/1DpssfN5yVYJ4NApETYbFU"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 196078,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/1DpssfN5yVYJ4NApETYbFU"
+      "duration_ms": 88204,
+      "name": "Rug Island, Pt. 1",
+      "url": "https://open.spotify.com/track/3EAPxpZ0i4WOtQHvCGx3hX"
     },
     {
       "added_at": null,
@@ -456,13 +456,13 @@
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
         },
         {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+          "name": "David Barber",
+          "url": "https://open.spotify.com/artist/1QHNRO6583iWucRIG2QB1i"
         }
       ],
-      "duration_ms": 202098,
-      "name": "Wagon Ride",
-      "url": "https://open.spotify.com/track/5A7NglEPKMeCu7y8AJmzAD"
+      "duration_ms": 157687,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/4gfxbgos8kfCZybOnMgmns"
     },
     {
       "added_at": null,

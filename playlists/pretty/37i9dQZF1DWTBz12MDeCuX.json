@@ -1,13 +1,81 @@
 {
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Domiziana, Souly",
-  "num_followers": 474654,
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Hank",
+  "num_followers": 474637,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADUpROm/IaM0X5WBQ7wLMib+fwOe",
+  "snapshot_id": "AAAAADHY7BcQigjqcyL3TpIW7wgwDajl",
   "tracks": [
+    {
+      "added_at": "2026-10-15 22:01:09",
+      "album": {
+        "name": "Teenage Dreams 2",
+        "url": "https://open.spotify.com/album/6w3I4eMCYU2YLdfdcYuvyY"
+      },
+      "artists": [
+        {
+          "name": "Caprio",
+          "url": "https://open.spotify.com/artist/5RfnL0XOwN5cyziUrELBmS"
+        }
+      ],
+      "duration_ms": 121045,
+      "name": "Teenage Dreams 2",
+      "url": "https://open.spotify.com/track/2RFKAbEQGDCElii11VArPJ"
+    },
+    {
+      "added_at": "2026-10-15 22:01:09",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/5A94ZGE648fjXkHHSfh1xv"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 151741,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"
+    },
+    {
+      "added_at": "2026-10-22 22:00:24",
+      "album": {
+        "name": "1000x",
+        "url": "https://open.spotify.com/album/4VFVMdb7ZQypfViIYtSdNb"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN"
+        }
+      ],
+      "duration_ms": 132033,
+      "name": "1000x",
+      "url": "https://open.spotify.com/track/4NxpbnqKoPH0is1U34zMK7"
+    },
+    {
+      "added_at": "2026-10-15 22:01:09",
+      "album": {
+        "name": "fliegen",
+        "url": "https://open.spotify.com/album/1GdGfvTaKumEUV2rXemugH"
+      },
+      "artists": [
+        {
+          "name": "VICKY",
+          "url": "https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va"
+        },
+        {
+          "name": "GX488",
+          "url": "https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "fliegen",
+      "url": "https://open.spotify.com/track/2NYJv15WMhGbFN7L6CQQWi"
+    },
     {
       "added_at": "2026-10-15 22:01:09",
       "album": {
@@ -51,38 +119,6 @@
     {
       "added_at": "2026-10-15 22:01:09",
       "album": {
-        "name": "Kinder mit Kippen",
-        "url": "https://open.spotify.com/album/1PmbZEOfB0DvAqUJWnLqsQ"
-      },
-      "artists": [
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        }
-      ],
-      "duration_ms": 213649,
-      "name": "Kinder mit Kippen",
-      "url": "https://open.spotify.com/track/5ZLf0LqfuH2CUe5smjNrB8"
-    },
-    {
-      "added_at": "2026-10-15 22:01:09",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/5A94ZGE648fjXkHHSfh1xv"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        }
-      ],
-      "duration_ms": 151741,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"
-    },
-    {
-      "added_at": "2026-10-15 22:01:09",
-      "album": {
         "name": "Meer",
         "url": "https://open.spotify.com/album/7pYClHMXTt7Gge4UG1CtFr"
       },
@@ -111,26 +147,6 @@
       "duration_ms": 140200,
       "name": "K\u00fcss mich - Ivo Martin x Techno Mix",
       "url": "https://open.spotify.com/track/1kEZGwMkrDH2enK3Vh9DNU"
-    },
-    {
-      "added_at": "2026-10-15 22:01:09",
-      "album": {
-        "name": "fliegen",
-        "url": "https://open.spotify.com/album/1GdGfvTaKumEUV2rXemugH"
-      },
-      "artists": [
-        {
-          "name": "VICKY",
-          "url": "https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va"
-        },
-        {
-          "name": "GX488",
-          "url": "https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "fliegen",
-      "url": "https://open.spotify.com/track/2NYJv15WMhGbFN7L6CQQWi"
     },
     {
       "added_at": "2026-10-15 22:01:09",
@@ -189,20 +205,20 @@
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
-      "added_at": "2026-10-15 22:01:09",
+      "added_at": "2026-10-22 22:00:24",
       "album": {
-        "name": "Teenage Dreams 2",
-        "url": "https://open.spotify.com/album/6w3I4eMCYU2YLdfdcYuvyY"
+        "name": "ANGST",
+        "url": "https://open.spotify.com/album/6lFlKLsVG0JBGePzox8biD"
       },
       "artists": [
         {
-          "name": "Caprio",
-          "url": "https://open.spotify.com/artist/5RfnL0XOwN5cyziUrELBmS"
+          "name": "erob\u00e9",
+          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
         }
       ],
-      "duration_ms": 121045,
-      "name": "Teenage Dreams 2",
-      "url": "https://open.spotify.com/track/2RFKAbEQGDCElii11VArPJ"
+      "duration_ms": 105737,
+      "name": "ANGST",
+      "url": "https://open.spotify.com/track/7s8bxWNdNcC4alGhWivA5k"
     },
     {
       "added_at": "2026-10-15 22:01:09",
@@ -253,6 +269,22 @@
       "url": "https://open.spotify.com/track/4rJ7Mu1pTf7XGyvX08VBmM"
     },
     {
+      "added_at": "2026-10-22 22:00:24",
+      "album": {
+        "name": "hi_wgds?",
+        "url": "https://open.spotify.com/album/00V7oISnbcpuXb1B8xcBgL"
+      },
+      "artists": [
+        {
+          "name": "emi x",
+          "url": "https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "hi_wgds?",
+      "url": "https://open.spotify.com/track/3DV0jxaP4Cjr2rUTDs0tW0"
+    },
+    {
       "added_at": "2026-10-16 09:19:57",
       "album": {
         "name": "NUR DAMIT DU WEISST 3",
@@ -267,6 +299,22 @@
       "duration_ms": 172500,
       "name": "PUSH IT",
       "url": "https://open.spotify.com/track/1ABKBRsiJ8bSToQc2yM5Rr"
+    },
+    {
+      "added_at": "2026-10-22 22:00:24",
+      "album": {
+        "name": "little black dress",
+        "url": "https://open.spotify.com/album/0g7eewUCAkmkOeMjBCBmrN"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 153306,
+      "name": "little black dress",
+      "url": "https://open.spotify.com/track/05UGMVbH06OGSgq3tExW9C"
     },
     {
       "added_at": "2026-10-15 22:01:09",
@@ -289,6 +337,22 @@
       "url": "https://open.spotify.com/track/7JvROWDnjN5KUWr5hD9XdG"
     },
     {
+      "added_at": "2026-10-22 22:00:24",
+      "album": {
+        "name": "Probl\u00e8mes",
+        "url": "https://open.spotify.com/album/4KZhPyO2tCNVQL6px7MpPC"
+      },
+      "artists": [
+        {
+          "name": "Jaq",
+          "url": "https://open.spotify.com/artist/3TCdAIcdvtyQVN5nI7VwLV"
+        }
+      ],
+      "duration_ms": 184828,
+      "name": "Probl\u00e8mes",
+      "url": "https://open.spotify.com/track/3FyxfvambVphmvdwMnGOej"
+    },
+    {
       "added_at": "2026-10-15 22:01:09",
       "album": {
         "name": "GAUNA SPORT",
@@ -303,6 +367,22 @@
       "duration_ms": 144618,
       "name": "GAUNA SPORT",
       "url": "https://open.spotify.com/track/0HqFIHt5xSHaThDQnQ18sP"
+    },
+    {
+      "added_at": "2026-10-22 22:00:24",
+      "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 180890,
+      "name": "missing person",
+      "url": "https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9"
     },
     {
       "added_at": "2026-10-15 22:01:09",
@@ -325,6 +405,22 @@
       "url": "https://open.spotify.com/track/5ocfJbyBKgnZfSJK2paPcp"
     },
     {
+      "added_at": "2026-10-22 22:00:24",
+      "album": {
+        "name": "Wir sind so sch\u00f6n verloren",
+        "url": "https://open.spotify.com/album/6e7jHChBwEjCFAeXgSTpGK"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/5P2tmoRAhJp5TpLxuE7UIK"
+    },
+    {
       "added_at": "2026-10-15 22:01:09",
       "album": {
         "name": "Kein Kind von Traurigkeit",
@@ -345,6 +441,22 @@
       "url": "https://open.spotify.com/track/1CW7JRNSMvXREclAbROBUJ"
     },
     {
+      "added_at": "2026-10-22 22:00:24",
+      "album": {
+        "name": "Wann h\u00f6rt das auf?",
+        "url": "https://open.spotify.com/album/2iDVZehd5h3O75bSQ9yijt"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "duration_ms": 143636,
+      "name": "Wann h\u00f6rt das auf?",
+      "url": "https://open.spotify.com/track/4zd6hJV71lwqZEtAlC54nq"
+    },
+    {
       "added_at": "2026-10-15 22:01:09",
       "album": {
         "name": "dynamite",
@@ -359,6 +471,22 @@
       "duration_ms": 117500,
       "name": "dynamite",
       "url": "https://open.spotify.com/track/3nVrNnbOLSdREwlGDhSmQQ"
+    },
+    {
+      "added_at": "2026-10-22 22:00:24",
+      "album": {
+        "name": "Du rufst nicht mehr an",
+        "url": "https://open.spotify.com/album/1bgl2vUSdeIvoojqI8Hta3"
+      },
+      "artists": [
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        }
+      ],
+      "duration_ms": 132396,
+      "name": "Du rufst nicht mehr an",
+      "url": "https://open.spotify.com/track/3bjdEMjw0fOOYNeUlUKB4O"
     },
     {
       "added_at": "2026-10-15 22:01:09",
@@ -1611,158 +1739,6 @@
       "duration_ms": 128756,
       "name": "Mittendrin",
       "url": "https://open.spotify.com/track/0ZZxVdXh7BOA5SFmFcZtU3"
-    },
-    {
-      "added_at": "2026-10-15 22:01:09",
-      "album": {
-        "name": "w4sted love",
-        "url": "https://open.spotify.com/album/2aUrzpUptSYY4fUPNcJmYk"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 188199,
-      "name": "w4sted love",
-      "url": "https://open.spotify.com/track/01LZoihC5sUdqq66rmkncI"
-    },
-    {
-      "added_at": "2026-10-15 22:01:09",
-      "album": {
-        "name": "serena joy",
-        "url": "https://open.spotify.com/album/2g6XbbyPIPRMa2P1ildhza"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 185838,
-      "name": "serena joy",
-      "url": "https://open.spotify.com/track/6LJYBq1h5GElQO4sKFdRA9"
-    },
-    {
-      "added_at": "2026-10-15 22:01:09",
-      "album": {
-        "name": "Yeeha",
-        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "Yeeha",
-      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
-    },
-    {
-      "added_at": "2026-10-15 22:01:09",
-      "album": {
-        "name": "Do That Again",
-        "url": "https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 219427,
-      "name": "Obsessica",
-      "url": "https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS"
-    },
-    {
-      "added_at": "2026-10-15 22:01:09",
-      "album": {
-        "name": "Wo ist der DJ",
-        "url": "https://open.spotify.com/album/1qtnakc70LU3rza4lA4hAH"
-      },
-      "artists": [
-        {
-          "name": "Paul",
-          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
-        },
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        }
-      ],
-      "duration_ms": 161269,
-      "name": "Wo ist der DJ",
-      "url": "https://open.spotify.com/track/6GagT50zogqk5qzAPT6nVw"
-    },
-    {
-      "added_at": "2026-10-15 22:01:09",
-      "album": {
-        "name": "hot girl",
-        "url": "https://open.spotify.com/album/76c3oagYjnDPwnlGlxETNe"
-      },
-      "artists": [
-        {
-          "name": "Zs\u00e1 Zs\u00e1",
-          "url": "https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ"
-        }
-      ],
-      "duration_ms": 88506,
-      "name": "hot girl",
-      "url": "https://open.spotify.com/track/52nPmTmfUBQGqjWAtzsW52"
-    },
-    {
-      "added_at": "2026-10-15 22:01:09",
-      "album": {
-        "name": "Ohne Ende",
-        "url": "https://open.spotify.com/album/20klsXrvBesOppf6XLC9i2"
-      },
-      "artists": [
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        },
-        {
-          "name": "SIRA",
-          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
-        }
-      ],
-      "duration_ms": 155553,
-      "name": "Ohne Ende",
-      "url": "https://open.spotify.com/track/0Hug5vymE3fmJcGZF1hrup"
-    },
-    {
-      "added_at": "2026-10-15 22:01:09",
-      "album": {
-        "name": "Capri Breeze",
-        "url": "https://open.spotify.com/album/6pOZTNgmdgUok6Hcl4qNQC"
-      },
-      "artists": [
-        {
-          "name": "Tara Emely",
-          "url": "https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "Capri Breeze",
-      "url": "https://open.spotify.com/track/72wvF06kJUixnGvxDB6NGK"
-    },
-    {
-      "added_at": "2026-10-15 22:01:09",
-      "album": {
-        "name": "Lamia",
-        "url": "https://open.spotify.com/album/2aFt4GLLecHtEEp0iZDSXZ"
-      },
-      "artists": [
-        {
-          "name": "Berq",
-          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
-        }
-      ],
-      "duration_ms": 184545,
-      "name": "Lamia",
-      "url": "https://open.spotify.com/track/4P6y5weDdwdXOkqD1FDLyT"
     }
   ],
   "unique_name": "me right now",

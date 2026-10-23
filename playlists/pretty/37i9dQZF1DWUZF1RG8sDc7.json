@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 168767,
+  "num_followers": 168788,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -999,18 +999,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/4qeWVAsMsFmwEDQgMfoLcq"
+        "name": "Historia Musical",
+        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "David Rendon",
+          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
         }
       ],
-      "duration_ms": 288493,
-      "name": "S\u00f3lo para Ti",
-      "url": "https://open.spotify.com/track/2xZhP2Dw5izHDfJ0MHBDjj"
+      "duration_ms": 289253,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/44Bt3ZHq9rVV2G7uDpmXsG"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Historia Musical",
-        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
+        "name": "De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/4qeWVAsMsFmwEDQgMfoLcq"
       },
       "artists": [
         {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
-        },
-        {
-          "name": "David Rendon",
-          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 289253,
-      "name": "Confundido",
-      "url": "https://open.spotify.com/track/44Bt3ZHq9rVV2G7uDpmXsG"
+      "duration_ms": 288493,
+      "name": "S\u00f3lo para Ti",
+      "url": "https://open.spotify.com/track/2xZhP2Dw5izHDfJ0MHBDjj"
     },
     {
       "added_at": "2024-03-28 01:45:52",

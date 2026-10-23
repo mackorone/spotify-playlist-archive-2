@@ -1,28 +1,32 @@
 {
-  "description": "The soulful tunes to ease you into your day. Cover: Lalah Hathaway",
-  "num_followers": 785669,
+  "description": "The soulful tunes to ease you into your day. Cover: John Legend",
+  "num_followers": 785634,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGkJxGihF4AbSQf/06nzOBIzJ8AI",
+  "snapshot_id": "AAAAAFuiaE9XxitXbJfyO3NCp/WGXaws",
   "tracks": [
     {
-      "added_at": "2026-10-02 07:36:23",
+      "added_at": "2026-10-23 03:38:06",
       "album": {
-        "name": "Made In Chicago",
-        "url": "https://open.spotify.com/album/3vbq0insUQLxjiFWTcAuce"
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/5LheOmMsCEU09vOdcp0ka9"
       },
       "artists": [
         {
-          "name": "Lalah Hathaway",
-          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 239750,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/3lfuwcgdKaN7qbmcSl5e6O"
+      "duration_ms": 207520,
+      "name": "Next Time (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/3e9FPEJfnjVamtyTFpcj2c"
     },
     {
       "added_at": "2026-10-02 07:36:23",
@@ -129,10 +133,10 @@
       "url": "https://open.spotify.com/track/5K6Of8D5Yje4pP98q1la0D"
     },
     {
-      "added_at": "2026-10-16 16:40:02",
+      "added_at": "2026-10-23 03:38:06",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz"
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/31wXDPNODAAp5v0F9Kq6zZ"
       },
       "artists": [
         {
@@ -140,9 +144,9 @@
           "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 209453,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
+      "duration_ms": 197760,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/0yXMe310dgpquMTa7OmHKk"
     },
     {
       "added_at": "2026-07-24 06:09:33",
@@ -177,20 +181,20 @@
       "url": "https://open.spotify.com/track/76QPCZs6SWpfMJy7tylWj0"
     },
     {
-      "added_at": "2026-07-24 06:09:33",
+      "added_at": "2026-10-23 03:38:06",
       "album": {
-        "name": "could it be love",
-        "url": "https://open.spotify.com/album/0JSVXcSdWayVI2iZ2M2RBB"
+        "name": "V",
+        "url": "https://open.spotify.com/album/3vTncJBJSFkalBlJE0ne2Y"
       },
       "artists": [
         {
-          "name": "threetwenty",
-          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
         }
       ],
-      "duration_ms": 278640,
-      "name": "could it be love",
-      "url": "https://open.spotify.com/track/6dlariohKh4NweeHkENvOF"
+      "duration_ms": 169111,
+      "name": "Calling My Name",
+      "url": "https://open.spotify.com/track/3nIOBncbgIIA0yXmvu33GR"
     },
     {
       "added_at": "2026-07-24 06:09:33",
@@ -425,20 +429,20 @@
       "url": "https://open.spotify.com/track/5dqVsPAL56Y8vBgYvnNTvO"
     },
     {
-      "added_at": "2026-04-18 17:35:25",
+      "added_at": "2026-10-02 07:36:23",
       "album": {
-        "name": "Twin",
-        "url": "https://open.spotify.com/album/0N9aXIs9ZcXZO5TSh4VwSo"
+        "name": "Made In Chicago",
+        "url": "https://open.spotify.com/album/3vbq0insUQLxjiFWTcAuce"
       },
       "artists": [
         {
-          "name": "Marques Anthony",
-          "url": "https://open.spotify.com/artist/2jrrL6b7otRi8NSuB3oCvi"
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
         }
       ],
-      "duration_ms": 123528,
-      "name": "Twin",
-      "url": "https://open.spotify.com/track/6BDBdGj2tMmrf5zp4MnHjp"
+      "duration_ms": 239750,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/3lfuwcgdKaN7qbmcSl5e6O"
     },
     {
       "added_at": "2026-10-16 16:40:02",
@@ -621,10 +625,30 @@
       "url": "https://open.spotify.com/track/3tzrITns22GkZATGo4GvxU"
     },
     {
-      "added_at": "2025-12-12 18:54:21",
+      "added_at": "2026-10-23 03:38:06",
       "album": {
-        "name": "separate from the noise",
-        "url": "https://open.spotify.com/album/3pteKawLGPDRRCGgFvlqPZ"
+        "name": "THE PHENOMENON",
+        "url": "https://open.spotify.com/album/5SgA10pJ2eWb47Q4eu0SNH"
+      },
+      "artists": [
+        {
+          "name": "Terrell Grice",
+          "url": "https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 243141,
+      "name": "GODSPEED!",
+      "url": "https://open.spotify.com/track/13cdpEgEmq6mFazocM0oTX"
+    },
+    {
+      "added_at": "2026-07-24 06:09:33",
+      "album": {
+        "name": "could it be love",
+        "url": "https://open.spotify.com/album/0JSVXcSdWayVI2iZ2M2RBB"
       },
       "artists": [
         {
@@ -632,29 +656,9 @@
           "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
         }
       ],
-      "duration_ms": 258400,
-      "name": "say it",
-      "url": "https://open.spotify.com/track/4mCpUSgTVm8v9ZlFgtEF2j"
-    },
-    {
-      "added_at": "2026-01-16 18:49:38",
-      "album": {
-        "name": "Fine Shyt (feat. Jacob Latimore) [Remix]",
-        "url": "https://open.spotify.com/album/0ffcKVrYdA8YpwPuk7dLLX"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "Jacob Latimore",
-          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
-        }
-      ],
-      "duration_ms": 165251,
-      "name": "Fine Shyt (feat. Jacob Latimore) [Remix]",
-      "url": "https://open.spotify.com/track/4rh6pvTVRN7w6IH3ygZJwH"
+      "duration_ms": 278640,
+      "name": "could it be love",
+      "url": "https://open.spotify.com/track/6dlariohKh4NweeHkENvOF"
     },
     {
       "added_at": "2026-02-27 08:31:51",
@@ -721,20 +725,20 @@
       "url": "https://open.spotify.com/track/154PMXgUanYQKSG5nQ3SuD"
     },
     {
-      "added_at": "2026-05-15 07:39:31",
+      "added_at": "2025-12-12 18:54:21",
       "album": {
-        "name": "THE EDGE",
-        "url": "https://open.spotify.com/album/0OeCOxmJZPbLdSZYSmHYg8"
+        "name": "separate from the noise",
+        "url": "https://open.spotify.com/album/3pteKawLGPDRRCGgFvlqPZ"
       },
       "artists": [
         {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+          "name": "threetwenty",
+          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
         }
       ],
-      "duration_ms": 88000,
-      "name": "IF YOU LET ME",
-      "url": "https://open.spotify.com/track/5x3hwzbVsbX0AAEagU2Rd7"
+      "duration_ms": 258400,
+      "name": "say it",
+      "url": "https://open.spotify.com/track/4mCpUSgTVm8v9ZlFgtEF2j"
     },
     {
       "added_at": "2025-10-24 09:36:46",
@@ -805,20 +809,20 @@
       "url": "https://open.spotify.com/track/0kANiJWDy5GV9OPbKhxHsa"
     },
     {
-      "added_at": "2026-01-09 07:03:52",
+      "added_at": "2026-05-15 07:39:31",
       "album": {
-        "name": "Dreamin'",
-        "url": "https://open.spotify.com/album/52CIWl1fISMjp94ifvKfhw"
+        "name": "THE EDGE",
+        "url": "https://open.spotify.com/album/0OeCOxmJZPbLdSZYSmHYg8"
       },
       "artists": [
         {
-          "name": "Sa-ra Creative Partners",
-          "url": "https://open.spotify.com/artist/5Tx9SammMKFG5aozuij1U1"
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
         }
       ],
-      "duration_ms": 201900,
-      "name": "Dreamin'",
-      "url": "https://open.spotify.com/track/0zDAx3r8jKvc6CSt4SzvJq"
+      "duration_ms": 88000,
+      "name": "IF YOU LET ME",
+      "url": "https://open.spotify.com/track/5x3hwzbVsbX0AAEagU2Rd7"
     },
     {
       "added_at": "2026-02-27 08:31:51",
@@ -1229,20 +1233,20 @@
       "url": "https://open.spotify.com/track/7fiTUtc8p2LhK6RdA4o3CH"
     },
     {
-      "added_at": "2025-03-14 06:23:41",
+      "added_at": "2026-10-16 16:40:02",
       "album": {
-        "name": "Just As Long As We're Together",
-        "url": "https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn"
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0ZYZgEwmt3NAS54RC8Y8Zz"
       },
       "artists": [
         {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 194992,
-      "name": "Just As Long As We're Together",
-      "url": "https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6"
+      "duration_ms": 209453,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4tkaRLzfaYQyaqvIaiyz4h"
     },
     {
       "added_at": "2025-10-03 18:49:23",
@@ -1259,6 +1263,38 @@
       "duration_ms": 174000,
       "name": "For Life",
       "url": "https://open.spotify.com/track/6i3JecAQTANf4N1ihMo5pe"
+    },
+    {
+      "added_at": "2025-03-14 06:23:41",
+      "album": {
+        "name": "Just As Long As We're Together",
+        "url": "https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 194992,
+      "name": "Just As Long As We're Together",
+      "url": "https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6"
+    },
+    {
+      "added_at": "2025-08-01 07:06:10",
+      "album": {
+        "name": "It's Me, Not You",
+        "url": "https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI"
+      },
+      "artists": [
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        }
+      ],
+      "duration_ms": 282444,
+      "name": "Same Ol\u2019 Love",
+      "url": "https://open.spotify.com/track/2UJV3mMuthhYHRa4KgeMBo"
     },
     {
       "added_at": "2026-05-08 07:01:11",
@@ -1279,22 +1315,6 @@
       "duration_ms": 186112,
       "name": "Shoulda Never (feat. USHER)",
       "url": "https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK"
-    },
-    {
-      "added_at": "2025-08-01 07:06:10",
-      "album": {
-        "name": "It's Me, Not You",
-        "url": "https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI"
-      },
-      "artists": [
-        {
-          "name": "JANE HANDCOCK",
-          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
-        }
-      ],
-      "duration_ms": 282444,
-      "name": "Same Ol\u2019 Love",
-      "url": "https://open.spotify.com/track/2UJV3mMuthhYHRa4KgeMBo"
     },
     {
       "added_at": "2025-12-12 18:54:21",
@@ -1337,22 +1357,6 @@
       "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
     },
     {
-      "added_at": "2026-02-14 03:28:47",
-      "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 291513,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
-    },
-    {
       "added_at": "2025-10-03 18:39:49",
       "album": {
         "name": "Here For It All",
@@ -1367,6 +1371,22 @@
       "duration_ms": 397965,
       "name": "Here For It All",
       "url": "https://open.spotify.com/track/0T7TwzKzwdR7aRNM4Dtftj"
+    },
+    {
+      "added_at": "2026-02-14 03:28:47",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 291513,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1385,22 +1405,6 @@
       "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
-      },
-      "artists": [
-        {
-          "name": "Qendresa",
-          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
-    },
-    {
       "added_at": "2025-08-22 04:00:21",
       "album": {
         "name": "Slow It Down",
@@ -1417,20 +1421,20 @@
       "url": "https://open.spotify.com/track/1bREWnpLbZCQcZ6oELXT9f"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/3BpR28xCNhR9uI90NgAwRR"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Qendresa",
+          "url": "https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI"
         }
       ],
-      "duration_ms": 239384,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+      "duration_ms": 200000,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
     },
     {
       "added_at": "2025-12-05 07:50:19",
@@ -1449,24 +1453,20 @@
       "url": "https://open.spotify.com/track/09S1rM23LMw9iUkl4TY042"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 207999,
-      "name": "I USED TO (feat. Baby Rose)",
-      "url": "https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ"
+      "duration_ms": 239384,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
     },
     {
       "added_at": "2025-06-20 04:00:54",
@@ -1489,6 +1489,26 @@
       "url": "https://open.spotify.com/track/6pNrdoEgWVcHvKxrsvHMKL"
     },
     {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 207999,
+      "name": "I USED TO (feat. Baby Rose)",
+      "url": "https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ"
+    },
+    {
       "added_at": "2025-03-21 05:07:45",
       "album": {
         "name": "HEART OF THE MATTER",
@@ -1503,6 +1523,22 @@
       "duration_ms": 226779,
       "name": "HEART OF THE MATTER",
       "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
+    },
+    {
+      "added_at": "2025-08-15 19:53:41",
+      "album": {
+        "name": "My World (beyond)",
+        "url": "https://open.spotify.com/album/3kvP7kuhhSGKHsZEXJMd8b"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "duration_ms": 245972,
+      "name": "My World (beyond)",
+      "url": "https://open.spotify.com/track/32ifMUB1J4IPP08kd0NI1u"
     },
     {
       "added_at": "2024-05-17 07:14:12",
@@ -1525,38 +1561,6 @@
       "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
     },
     {
-      "added_at": "2025-08-15 19:53:41",
-      "album": {
-        "name": "My World (beyond)",
-        "url": "https://open.spotify.com/album/3kvP7kuhhSGKHsZEXJMd8b"
-      },
-      "artists": [
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        }
-      ],
-      "duration_ms": 245972,
-      "name": "My World (beyond)",
-      "url": "https://open.spotify.com/track/32ifMUB1J4IPP08kd0NI1u"
-    },
-    {
-      "added_at": "2025-10-03 18:39:49",
-      "album": {
-        "name": "Just How You Are",
-        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 194247,
-      "name": "Just How You Are",
-      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
-    },
-    {
       "added_at": "2026-05-15 07:45:33",
       "album": {
         "name": "BELOVED: ACT II",
@@ -1577,6 +1581,22 @@
       "url": "https://open.spotify.com/track/2fuTi8KUEpNthEwmI5C1qa"
     },
     {
+      "added_at": "2025-10-03 18:39:49",
+      "album": {
+        "name": "Just How You Are",
+        "url": "https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 194247,
+      "name": "Just How You Are",
+      "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "That's You",
@@ -1593,22 +1613,6 @@
       "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
     },
     {
-      "added_at": "2025-11-14 12:04:27",
-      "album": {
-        "name": "Heat The Streets Some Mo'",
-        "url": "https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 167965,
-      "name": "By Now",
-      "url": "https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h"
-    },
-    {
       "added_at": "2025-04-25 07:19:25",
       "album": {
         "name": "The Crown",
@@ -1623,6 +1627,22 @@
       "duration_ms": 226274,
       "name": "I DO",
       "url": "https://open.spotify.com/track/0cJqjE0vODNJQdi10z8fNw"
+    },
+    {
+      "added_at": "2025-11-14 12:04:27",
+      "album": {
+        "name": "Heat The Streets Some Mo'",
+        "url": "https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 167965,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h"
     },
     {
       "added_at": "2025-09-26 04:57:19",
@@ -1673,22 +1693,6 @@
       "url": "https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv"
     },
     {
-      "added_at": "2024-09-13 09:22:53",
-      "album": {
-        "name": "The Love Is Gone",
-        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
-      },
-      "artists": [
-        {
-          "name": "Jamilah Barry",
-          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
-        }
-      ],
-      "duration_ms": 199732,
-      "name": "The Love Is Gone",
-      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
-    },
-    {
       "added_at": "2025-04-18 05:17:41",
       "album": {
         "name": "10",
@@ -1703,6 +1707,22 @@
       "duration_ms": 238479,
       "name": "S.I.T.L.",
       "url": "https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH"
+    },
+    {
+      "added_at": "2024-09-13 09:22:53",
+      "album": {
+        "name": "The Love Is Gone",
+        "url": "https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "duration_ms": 199732,
+      "name": "The Love Is Gone",
+      "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
     },
     {
       "added_at": "2026-04-18 17:35:25",
@@ -2587,22 +2607,6 @@
       "duration_ms": 208696,
       "name": "The Present",
       "url": "https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO"
-    },
-    {
-      "added_at": "2026-07-24 06:09:33",
-      "album": {
-        "name": "Silent Treatment",
-        "url": "https://open.spotify.com/album/0uWQFPszr6SJZ695zVp029"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Silent Treatment",
-      "url": "https://open.spotify.com/track/2EUUu4O0loy3PvwEHmdOZ2"
     }
   ],
   "unique_name": "Soul Coffee",

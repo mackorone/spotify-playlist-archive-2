@@ -2,9 +2,9 @@
 
 ### [\(AR\)](https://open.spotify.com/playlist/37i9dQZF1DXdM3ZcJzlarB)
 
-> Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸  Inda Jani
+> Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸  Jay de Lys
 
-419 songs - 1 day 14 hr 58 min
+420 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [I'm Gonna Move](https://open.spotify.com/track/5L6WspHxqJWBPKyC7pdpR4) | [Lolu Menayed](https://open.spotify.com/artist/4yVlCP7NgbqdEhc2uIfPKl) | [I'm Gonna Move EP](https://open.spotify.com/album/5etdX8zsTL0VXjQgx8dprB) | 5:58 | 2025-03-19 | 2026-01-15 |
 | [Idk y I Like It](https://open.spotify.com/track/3yp5b3oVwiFpdcAYwP9Rmj) | [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [Idk y I Like It](https://open.spotify.com/album/1ZPtTcxbcBqEX67WbPGVpQ) | 2:24 | 2024-03-08 | 2025-09-26 |
 | [If I Lose Myself](https://open.spotify.com/track/5gzo4VaJ7KXomTgSfytSUH) | [Lively](https://open.spotify.com/artist/18nz1a1XnTU1vKLqsGzgKa) | [If I Lose Myself](https://open.spotify.com/album/1g0uCrgBP9mMowv9kFyUUm) | 2:20 | 2023-11-17 | 2025-03-20 |
+| [In Europe](https://open.spotify.com/track/46u6S0BlmgQqPfSMtQoTF3) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [In Europe EP](https://open.spotify.com/album/72VIk1neR3fC7jlKpZxF5q) | 3:22 | 2026-10-23 |  |
 | [Infieles \- Remix](https://open.spotify.com/track/67wjqZ4apqGHmwHoGi3qAB) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Brigado Crew](https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j) | [Desconfiguración, Vol\. 3](https://open.spotify.com/album/2Tft9TpEiPB08wAXHx9HGS) | 7:12 | 2023-11-17 | 2024-05-25 |
 | [Inside My Mind](https://open.spotify.com/track/78KulpgWzStu4S8orrNkx3) | [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo), [FRANCO BA](https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx), [Miko Franconi](https://open.spotify.com/artist/7MyGO4fTQo7LEhdkjXHu2Z) | [Inside My Mind](https://open.spotify.com/album/6pUD9r5G0EaatkpbG2UDX4) | 3:28 | 2026-06-19 |  |
 | [Into The Light](https://open.spotify.com/track/7hfg8T8uH7GzmBrZEeOv5F) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M), [Simon Kidzoo](https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA), [Mønölitio](https://open.spotify.com/artist/7haYPaCAcKt9YlIFURNK6f) | [Into The Light](https://open.spotify.com/album/4e1mvrJXCgpv9me6J6HjYU) | 2:57 | 2026-08-28 |  |
@@ -307,7 +308,7 @@
 | [Relief](https://open.spotify.com/track/2xTUyqLZCKpXZzIZRRTRNJ) | [Ivan Fernandez \(AR\)](https://open.spotify.com/artist/590cXCksu3bwjBzmfy9amm) | [Three of a Kind \#035](https://open.spotify.com/album/4JthXsldagC8xbd9f6z67e) | 7:21 | 2025-07-18 | 2025-12-10 |
 | [Revolver](https://open.spotify.com/track/0Ra80nnt0fgglrQx7mjpSU) | [Facundo Mohrr](https://open.spotify.com/artist/5oX3Dbh7rf6ZSNnMdt9giF), [Maxi Degrassi](https://open.spotify.com/artist/2MrE6u1IaGHEFGayZkxpGD) | [The Mambo EP](https://open.spotify.com/album/1kqrRoUWXRn2OmfWxytR5F) | 8:21 | 2023-12-15 | 2025-03-20 |
 | [Rhapsody](https://open.spotify.com/track/0d28O6vqhwrQCYJ6H7dTO5) | [Kevin Di Serna](https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm) | [Rhapsody](https://open.spotify.com/album/3o67s2rF1XBkueTauBJ9jm) | 5:24 | 2020-09-04 | 2023-11-18 |
-| [Ricota](https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF), [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd) | [Ricota](https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN) | 2:25 | 2026-04-24 |  |
+| [Ricota](https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF), [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd) | [Ricota](https://open.spotify.com/album/0IBSOQFCbrtAMcfjygozLN) | 2:25 | 2026-04-24 | 2026-10-23 |
 | [Right Place, Right Time \- Nicholas Van Orton Remix](https://open.spotify.com/track/4MmRVFNwsCYmIqYo0TImAj) | [Gowzer](https://open.spotify.com/artist/2ke98avmWic1zSYheNlWj8), [Nicholas Van Orton](https://open.spotify.com/artist/0z9QG2nBkTjwy6w60xjX5u) | [Right Place, Right Time](https://open.spotify.com/album/0twzm14CGnFeRwn1tJpPvS) | 7:27 | 2025-06-27 | 2026-08-22 |
 | [Ringaro](https://open.spotify.com/track/1iBns0pRA9xhhQwru8l4HF) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE) | [Ringaro](https://open.spotify.com/album/3g6APTOvHsTLFdirpGWtez) | 4:33 | 2024-06-14 | 2025-07-11 |
 | [Risa \- Cover](https://open.spotify.com/track/0VH8DXk9BKih2AcnnEhRRT) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi), [Palu de Paloma](https://open.spotify.com/artist/1liheuPPmJMACY5ccB4YLP) | [Risa \(Cover\)](https://open.spotify.com/album/6wnJZtcYszTyzH15YTX2ul) | 2:56 | 2024-02-16 | 2025-03-20 |

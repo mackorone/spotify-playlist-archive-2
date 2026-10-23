@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 14222,
+  "num_followers": 14225,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAABqB9I2KQk2DiGkARnRWx68",
+  "snapshot_id": "atavAAAAAABQMkwmgh9YyJY1+lKi5kFF",
   "tracks": [
     {
       "added_at": null,
@@ -478,11 +478,15 @@
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Red Fingers",
+          "url": "https://open.spotify.com/artist/1tLTF6ypPIzjzarePwdcNo"
         }
       ],
-      "duration_ms": 178500,
-      "name": "la estrella que quer\u00eda brillar",
-      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
+      "duration_ms": 205517,
+      "name": "qui\u00e9n te va a querer como yo?",
+      "url": "https://open.spotify.com/track/0yCDJcPgCOZutvKb95QryP"
     },
     {
       "added_at": null,
@@ -859,6 +863,26 @@
       "duration_ms": 157506,
       "name": "u.c.m.c.d.n.",
       "url": "https://open.spotify.com/track/0c6yROB8ARIwEGJXU8w0Dn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Mi Fiesta Y Si Quiero Hago Un EP",
+        "url": "https://open.spotify.com/album/1eDAIIm6ZE4FzNSjirEtkt"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Yawners",
+          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Mi Habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/7iF9WZqCVKUHV93XykSFgZ"
     }
   ],
   "unique_name": "This Is Bratty",

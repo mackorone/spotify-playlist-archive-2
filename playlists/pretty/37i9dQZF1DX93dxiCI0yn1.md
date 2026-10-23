@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > ABEMA「RAPSTAR 2026」公式プレイリスト。審査員や番組内で活躍したアーティスト、昨年活躍したアーティストの楽曲を毎週水曜日に更新。 マイライブラリに保存して毎週チェックしよう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,172 likes - 90 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,309 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 5 | [完璧だ](https://open.spotify.com/track/6g8l6gJv0a8IKH6g8tjeQ1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Original](https://open.spotify.com/album/41lYxB0nIApx4nWMCTJBlh) | 2:30 |
 | 6 | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/track/65KzS31dr9RzGZTmNT50ds) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Reason](https://open.spotify.com/album/4T6hrUurZYYUnwA0uGSVIE) | 2:39 |
 | 7 | [Filter \(feat\. JJJ & Campanella\)](https://open.spotify.com/track/2zxCoDmHhil2orScdDJ2C3) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ) | [EVERYTHING INSIDE](https://open.spotify.com/album/01vHNbfLgPmT4vIckImSzy) | 4:12 |
-| 8 | [slow down](https://open.spotify.com/track/40PunlWpw0QVzdEwNN1Doo) | [kiji](https://open.spotify.com/artist/0YuYYyOqNTHSsmkFP6pJ7a), [JAYBAB](https://open.spotify.com/artist/0TbXfSriM9SVScrlsEXceB) | [Beautiful Sinners](https://open.spotify.com/album/2zqipA62GmmsVSN6h1Xfh8) | 3:10 |
+| 8 | [Made it Bab \(Prod.rxl\)](https://open.spotify.com/track/4jvab7zbLNNz68hetZBbhu) | [JAYBAB](https://open.spotify.com/artist/0kf41NpiGwCGp0YQXmeqBU) | [Made it Bab / How many](https://open.spotify.com/album/5erVH9exDQpObphWjt6Olc) | 2:03 |
 | 9 | [Swallow](https://open.spotify.com/track/0Z7SlXr0jp6jElysc8xwUb) | [MARONI](https://open.spotify.com/artist/2k0Qus01xR72uS8ctdFDzM) | [SWALLOW KNOWS...](https://open.spotify.com/album/7axhxJaSVd7qreCuUnSh4z) | 2:42 |
 | 10 | [一番](https://open.spotify.com/track/7wavtAX6hJO1FF0dWjceGS) | [Saggypants Shimba](https://open.spotify.com/artist/75R2U62H9bf08CifLZqTSG) | [一番](https://open.spotify.com/album/5RhpOEwGZMxqQYyWWquSt1) | 2:16 |
 | 11 | [Grind Season](https://open.spotify.com/track/5eU3Dq08X3CFqB826fMN0l) | [lyricsbyrico](https://open.spotify.com/artist/03isOmFA60Kt84pNFmCOds) | [VALIDATED](https://open.spotify.com/album/6KNTNqdbWr0h5N4eZpHGlt) | 1:35 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 33 | [Stand up](https://open.spotify.com/track/5tWhK020x2Z7vQFxsnZu1x) | [AI jacky](https://open.spotify.com/artist/6cOuEef5ejInNSGz7d2OLU), [yus](https://open.spotify.com/artist/2m8tDoogfl5j6NF5qynNsq) | [Black Jack 2](https://open.spotify.com/album/47r47BfjuXrDlNBfBNSQGa) | 3:48 |
 | 34 | [Butterfly](https://open.spotify.com/track/23A3bs2b3iVn0FHSKeStKC) | [Esosa Vee](https://open.spotify.com/artist/5kPHeikKvfVPeoJ9n1BgfN) | [Butterfly](https://open.spotify.com/album/463OdCwmN6W0MqHA4zPuar) | 2:30 |
 | 35 | [hold on \(feat\. Sad Kid Yaz\)](https://open.spotify.com/track/10MiK69xUhx7sWWRg2LP6L) | [Filix王](https://open.spotify.com/artist/2a58G4RDpD2sloCYWYkMXC), [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [hold on \(feat\. Sad Kid Yaz\)](https://open.spotify.com/album/6sb9Ir1pPOQD6Q9WnAnPdX) | 2:03 |
-| 36 | [セレブレイト](https://open.spotify.com/track/5HXKGQW6TeTsAijubKERwI) | [SEISA](https://open.spotify.com/artist/2SKIyJAgsW4mKWYRwM4xcN) | [セレブレイト](https://open.spotify.com/album/5EKDaL28kYRySZ9sNnUIpD) | 3:10 |
+| 36 | [セレブレイト](https://open.spotify.com/track/5s09VA6L81GSHp9WIubPAS) | [SEISA](https://open.spotify.com/artist/2SKIyJAgsW4mKWYRwM4xcN) | [セレブレイト](https://open.spotify.com/album/3IwnfzivuWfZcXbj1aSTeJ) | 3:10 |
 | 37 | [FLOR DE MOLTISANTI](https://open.spotify.com/track/1fyV7N5x4UuCO8h7P4UamH) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [FLOR DE MOLTISANTI](https://open.spotify.com/album/2y4jQO3X4OMhuX1Uy14Cls) | 3:48 |
 | 38 | [The Claimant](https://open.spotify.com/track/529YiEDBEQObmy5rrtwZ4m) | [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie) | [The Claimant / REVENGE](https://open.spotify.com/album/6o80a6KkyZc7E8JmYI4bjh) | 2:37 |
 | 39 | [HIROYUKI](https://open.spotify.com/track/5apejRv7TuiRhO4xf1GhTH) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [Iconic](https://open.spotify.com/album/5MlnBbSdSPGG8WFSiUUiKm) | 2:26 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 89 | [I feel love](https://open.spotify.com/track/2XvbywMofhc4vimsliMg7X) | [sh1t](https://open.spotify.com/artist/3IchFX2kpT6ARyP7hURWyo) | [MY TRUE SELF](https://open.spotify.com/album/3OM85x6vAT41sQ3EKTFY8M) | 2:19 |
 | 90 | [Urban Escape](https://open.spotify.com/track/26nQxLrmxDOLfkjVYeC0mN) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [BERLINETTA BOY NEEDS TOO MUCH MONEY](https://open.spotify.com/artist/0VSDjQze2bHTTfAVjgzIgk) | [Post Poet](https://open.spotify.com/album/4b7k0gx2k2ATNPKIxwBKvg) | 2:21 |
 
-Snapshot ID: `AAAAAGPDCQCDy+DVvi8kTYqcJHyFLh/Q`
+Snapshot ID: `AAAAAMKKt35Ry8GJiXnMFy2AJeExEhve`

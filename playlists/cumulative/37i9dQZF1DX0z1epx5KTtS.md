@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Dydy Yeman
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Team Paiya
 
-322 songs - 17 hr 13 min
+323 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Créatair \(Dokui\)](https://open.spotify.com/track/3icNhDoAQVBPtBe8NcoQnt) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Créatair](https://open.spotify.com/album/6NLn3piJhLvA01cVl6Ytk0) | 2:53 | 2025-08-07 | 2026-07-10 |
 | [Côte d'Ivoire est Zo](https://open.spotify.com/track/2FHdjSKM2QJ4S1LJIaWHH1) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Original](https://open.spotify.com/album/5I4B1XJgKp8k6HLm6RADCS) | 2:46 | 2023-11-09 | 2023-12-22 |
 | [Côte d'Ivoire est Zo](https://open.spotify.com/track/5sx7LpOTySbPCcisFczEL0) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Original](https://open.spotify.com/album/5oT182GLec59tXn1Glc3hI) | 2:46 | 2023-11-09 | 2023-11-12 |
+| [C’est pas matata](https://open.spotify.com/track/6cPLTuY7vi5spSn6IbaeCh) | [Jolina Verdigo](https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO) | [C’est pas matata](https://open.spotify.com/album/5g0yK6gAZRml1VHFI1vJoZ) | 2:38 | 2026-10-22 |  |
 | [Dadado](https://open.spotify.com/track/5vl7f5amLLp8nYv4b74XxZ) | [Bébé Baya](https://open.spotify.com/artist/5zJCChWvZvn93HvWKNPvod), [Fishkiller](https://open.spotify.com/artist/1C6LOx5DP2ylyB2KVuV4fs) | [Dadado](https://open.spotify.com/album/0dli480IYmrLBuhhKmPKoJ) | 3:22 | 2021-12-20 | 2022-05-06 |
 | [DANI AGN'](https://open.spotify.com/track/00W5q1hvkgyUKC6METOcwh) | [Roma Chiyaya](https://open.spotify.com/artist/2aHgdotevWLyzsIMyeLMX0) | [DANI AGN'](https://open.spotify.com/album/7re6sfBf6dnhpw7qff5mbY) | 2:54 | 2024-11-28 | 2025-01-24 |
 | [Danse comme nicapol](https://open.spotify.com/track/1ERTZRnikTXqFzWlvYjidK) | [Juncko](https://open.spotify.com/artist/4tKswSKzVZ0hQ35Fo5TLes) | [Danse comme nicapol](https://open.spotify.com/album/7cOvEs8WATDI5f6mrShnCy) | 2:47 | 2024-08-01 | 2025-04-10 |
@@ -244,7 +245,7 @@
 | [On peut relancer](https://open.spotify.com/track/13EDSww23FnPJVumRromVz) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [On peut relancer](https://open.spotify.com/album/5J57nwOyNgvKLa1RDPLsJQ) | 2:51 | 2024-07-11 | 2024-08-23 |
 | [Ou est Dos la](https://open.spotify.com/track/68eS9kZwmS9LM8pc1c7wa6) | [Puissance 225](https://open.spotify.com/artist/39MKS7R6rFb0JwY0Nglq7t), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Team2poy](https://open.spotify.com/artist/29PYWKj290o1Mowz6cmuht), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Ou est Dos la](https://open.spotify.com/album/2WKRypsch6ggIVQzjtVO6q) | 3:45 | 2025-08-28 |  |
 | [Ouvrez](https://open.spotify.com/track/50Y0HaKv5dXn1gvu0vqxlm) | [Landry Blessing](https://open.spotify.com/artist/0XCuDSjvlrrEBh2xfOFQfU), [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Ouvrez](https://open.spotify.com/album/27YVEALRaGaDRJCI8NIMM9) | 3:21 | 2022-06-02 | 2022-12-09 |
-| [OWE](https://open.spotify.com/track/2O7QF5MsjkVAvfKWGZfB50) | [Aveiro Djess](https://open.spotify.com/artist/4lypn4ixPqyT9o2OLDCEsf) | [OWE](https://open.spotify.com/album/5el9zyFDVjZu5H5F0YGjQh) | 2:34 | 2026-10-08 |  |
+| [OWE](https://open.spotify.com/track/2O7QF5MsjkVAvfKWGZfB50) | [Aveiro Djess](https://open.spotify.com/artist/4lypn4ixPqyT9o2OLDCEsf) | [OWE](https://open.spotify.com/album/5el9zyFDVjZu5H5F0YGjQh) | 2:34 | 2026-10-08 | 2026-10-23 |
 | [Où je mets tu piles](https://open.spotify.com/track/3zvjkJ8WF9T2odHvI6AWrT) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [Où je mets tu piles](https://open.spotify.com/album/4afn5I3WUgxOSwNUktom5H) | 2:26 | 2025-03-06 | 2025-12-12 |
 | [Papa arrive](https://open.spotify.com/track/1623sw26SCie7IvE1yUKCp) | [Apoutchou National](https://open.spotify.com/artist/7kHgJvT9eOCLwXr4xPIRnC), [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Lumière](https://open.spotify.com/album/6DbZeMqndcEBZiJT65WbbI) | 2:56 | 2023-10-19 | 2023-12-01 |
 | [PAPA HONORÉ](https://open.spotify.com/track/3RdpwOu5Rk5hZCyq9LJwnb) | [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE), [Maa Bio](https://open.spotify.com/artist/07Zs2joCc5igkrjHAeYAEb) | [PAPA HONORÉ](https://open.spotify.com/album/3oeVZbaxJgphr0mVeDId2k) | 2:49 | 2026-06-11 |  |

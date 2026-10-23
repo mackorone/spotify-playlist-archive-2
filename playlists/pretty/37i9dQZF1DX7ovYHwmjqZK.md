@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,887 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,911 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 91 | [Quinze Pras Sete na Vila](https://open.spotify.com/track/2RZqc1v4vrpDG3dUSJKhHL) | [Clube Do Balanço](https://open.spotify.com/artist/1mG5Uzuz3aAujqVdNUMTmO) | [Quinze Pras Sete na Vila](https://open.spotify.com/album/0AFxvpFwxZQUEzZnHl5OJx) | 3:44 |
 | 92 | [Eu Preciso de Você](https://open.spotify.com/track/4sn6sAoO20QWPdscEr1NPi) | [Didi Gomes](https://open.spotify.com/artist/2fTHMyHkY0Nc9lAeac5VQn), [Ayrton do Violão](https://open.spotify.com/artist/37BuIUO9zQiqB8QxPpBYHj) | [Eu Preciso de Você](https://open.spotify.com/album/1t8n7PLn8yMyuHJzkq7UcT) | 2:48 |
 | 93 | [Bossa Got The Blues](https://open.spotify.com/track/2l8rsGvh5MJL4gF0K479BA) | [Bossacucanova](https://open.spotify.com/artist/2nB77EV6Al8aHXfxa6YfrW), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Bossa Got The Blues](https://open.spotify.com/album/4p22TSGfHnoBdmkWJBjAMS) | 3:00 |
-| 94 | [Muito a Vontade](https://open.spotify.com/track/0BSWuRqJLmv4EwN75FVWib) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [100% João Donato, Vol\. 1](https://open.spotify.com/album/3UL46vZZmblSru32OvgrlA) | 2:36 |
-| 95 | [Se Acontecer](https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw) | [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Storytellers](https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic) | 5:10 |
+| 94 | [Se Acontecer](https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw) | [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Storytellers](https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic) | 5:10 |
+| 95 | [Muito a Vontade](https://open.spotify.com/track/0BSWuRqJLmv4EwN75FVWib) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [100% João Donato, Vol\. 1](https://open.spotify.com/album/3UL46vZZmblSru32OvgrlA) | 2:36 |
 | 96 | [Choro de Verão](https://open.spotify.com/track/2Ioq4XghscznKAsUJGQP1D) | [Rodrigo Lessa](https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG) | [Choro de Verão](https://open.spotify.com/album/3NT972daF4lNEXR8D8pDMA) | 4:27 |
 | 97 | [Nada é Melhor do Que Você](https://open.spotify.com/track/0TLIFxZVyJ8gU7FJHRy6Pg) | [Vitto Meirelles](https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee) | [Nada é Melhor do Que Você](https://open.spotify.com/album/4yeo6ypBhNze7MFGea6FOi) | 4:35 |
 | 98 | [Vaidoso](https://open.spotify.com/track/5k2NFQf8v2foh5Kwkk7zVg) | [Ramiro Pinheiro](https://open.spotify.com/artist/3OXQ3e6cnm6HYisXCRpPRV), [Alvar Monfort](https://open.spotify.com/artist/5tgFZn6lbPjBQ2lWuiuRxm) | [Vaidoso](https://open.spotify.com/album/2YnXefeX040GxF3fE7Y8Ly) | 3:00 |

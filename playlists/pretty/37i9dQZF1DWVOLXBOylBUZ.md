@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Køddy G.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,147 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,140 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 9 | [Zazza](https://open.spotify.com/track/7wONTHPPpcr4sylLZG4F0w) | [Alex Krack](https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m) | [Zazza](https://open.spotify.com/album/3GJuoQJCdN6UlIUOmRlWMt) | 2:18 |
 | 10 | [Otra Cosa](https://open.spotify.com/track/1CZE56TyhNwIffdDr4GyCC) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [Santiago Berrio](https://open.spotify.com/artist/3poRvxocbLlXT9rER89tAs) | [Otra Cosa](https://open.spotify.com/album/3QLasL9GBu5vdVmk8hnt1c) | 2:12 |
 | 11 | [Ropa Cara](https://open.spotify.com/track/076uJiAXPcni8CFjSfzMIV) | [Yampi](https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ropa Cara](https://open.spotify.com/album/6D81VwcWSpkivO69n7wmxB) | 3:13 |
-| 12 | [ULA U](https://open.spotify.com/track/58lUFyBGQyRbuy8SpVhRrI) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy), [QueHicisteBella](https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv) | [ULA U](https://open.spotify.com/album/7zivrAN54dgpplrgDLkSrV) | 3:02 |
+| 12 | [ula u](https://open.spotify.com/track/58lUFyBGQyRbuy8SpVhRrI) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy), [QueHicisteBella](https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv) | [ula u](https://open.spotify.com/album/7zivrAN54dgpplrgDLkSrV) | 3:02 |
 | 13 | [Ansiedad](https://open.spotify.com/track/0sj3zAkMQQNPNncP9D67Ja) | [Camiloskill](https://open.spotify.com/artist/11JWPmE5SJIzBWa7b9m0Mk) | [Ansiedad](https://open.spotify.com/album/1lE6j0L3PC8gNDnjQpQCf5) | 2:24 |
 | 14 | [COMO SE DEBE](https://open.spotify.com/track/5oFQFB3heyo28zgGHvuKL9) | [JhonAlex](https://open.spotify.com/artist/7CM7B0HfAsji2JCPipgQaI), [Noiss](https://open.spotify.com/artist/5nhjhOrmCpnfUR6GHyU9ca) | [COMO SE DEBE](https://open.spotify.com/album/6Hg8DqCUxGtmgD77xghb2W) | 2:11 |
 | 15 | [Feeling](https://open.spotify.com/track/6it8wBT8PrplRJmTmLojs6) | [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt) | [Feeling](https://open.spotify.com/album/5NGE6VHVNTLOuvgrtrYmqo) | 2:53 |

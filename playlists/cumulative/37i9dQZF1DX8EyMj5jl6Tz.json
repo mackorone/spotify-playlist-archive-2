@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 162000,
       "name": "Feeling the Love Again (Explode)",
       "url": "https://open.spotify.com/track/4SGrxDaKCNwmsDhfYEBiPd"
@@ -3546,6 +3546,24 @@
     {
       "album": {
         "name": "SexyBack",
+        "url": "https://open.spotify.com/album/0zQUcxUSWz5BQCfysdx9PT"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212542,
+      "name": "SexyBack",
+      "url": "https://open.spotify.com/track/15fIgr6HloFqykbGdAzgTH"
+    },
+    {
+      "album": {
+        "name": "SexyBack",
         "url": "https://open.spotify.com/album/2xPDZMLbA4poen2LaRfdAr"
       },
       "artists": [
@@ -3560,7 +3578,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 156923,
       "name": "SexyBack",
       "url": "https://open.spotify.com/track/0dWdBtUyXGPwfGJAXvYMtH"
@@ -4316,6 +4334,36 @@
       "duration_ms": 136000,
       "name": "The First Time",
       "url": "https://open.spotify.com/track/745bMMlcwu39Xs4Us4EW34"
+    },
+    {
+      "album": {
+        "name": "The Passenger",
+        "url": "https://open.spotify.com/album/4dBalB1Fl1iMjYUzyIJov5"
+      },
+      "artists": [
+        {
+          "name": "Bodybangers",
+          "url": "https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA"
+        },
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Chris van Dutch",
+          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
+        },
+        {
+          "name": "David Hasselhoff",
+          "url": "https://open.spotify.com/artist/0cfSfyq03Uj5lVX9jcJw1m"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170315,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/2OxOTYJrTB1pe8wW0AuthN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Lo mejor del folklore nacional 📸  Sele Vera.
 
-297 songs - 17 hr 12 min
+299 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Oración del remanso](https://open.spotify.com/track/4bQKKN5jf9uoqawS5DKBhy) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Cantándole a la patria](https://open.spotify.com/album/6wdRRyjUISuk8tZlVSGpxJ) | 5:00 | 2025-07-11 |  |
 | [Para Cantar He Nacido](https://open.spotify.com/track/447ORDEfYxu77edFodcfr6) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Para Cantar He Nacido](https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR) | 3:26 | 2021-07-23 |  |
 | [Para los Ojos Más Bellos](https://open.spotify.com/track/4w9ax8d0trOBzXX36a9rEe) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [30 Años Con el Canto](https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x) | 2:53 | 2021-07-23 |  |
+| [Parte del Cielo](https://open.spotify.com/track/12gxcvpCjxzE2UBetra3cx) | [Noelia Santander](https://open.spotify.com/artist/1oD6JTE5cD6H4776HOHRCH), [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [Parte del Cielo](https://open.spotify.com/album/64rz8OGAoNmVE9ZTsZyTgK) | 4:03 | 2026-10-23 |  |
 | [Pedro Canoero](https://open.spotify.com/track/5EGWO5XHAdLsTjsXva5wbO) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Sin Estribos \(Vol\. 4\)](https://open.spotify.com/album/4SjktbPWYfGC3m8f9uPOb8) | 1:50 | 2021-07-23 | 2025-08-15 |
 | [Perfume de Carnaval](https://open.spotify.com/track/2Apj65TU37CJWqqR45wCf4) | [Peteco Carabajal](https://open.spotify.com/artist/2v28P580xseflEKfwYtIb6), [Jacinto Piedra](https://open.spotify.com/artist/3gUs4foho2rbIjihCN0d2a) | [Santiagueños \- Transmisión Huaucke](https://open.spotify.com/album/1zbSzuc845hjgZ280XiLus) | 3:52 | 2025-08-14 |  |
 | [Perfume de Carnaval \(En Vivo Gran Rex\)](https://open.spotify.com/track/2Wdw8YYwX8k4QFUXS0GpUD) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Emiliano Brancciari](https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8) | [Perfume de Carnaval \(En Vivo Gran Rex\)](https://open.spotify.com/album/3QJ9WQhUIeyr1FNacIgmwv) | 4:16 | 2025-06-27 | 2026-08-22 |
@@ -277,6 +278,7 @@
 | [Tonada del viejo amor](https://open.spotify.com/track/65D0PzyFvb20eFe6FOzgif) | [Patricio Villarejo](https://open.spotify.com/artist/0JkIG94rcts9CuTMPIuMVl), [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Tonada del viejo amor](https://open.spotify.com/album/2fYUY5jhI1774jp8kIzgih) | 4:38 | 2024-05-03 | 2024-11-12 |
 | [Tu, siempre tu](https://open.spotify.com/track/3r79gNxuh0NEtc9656YSqN) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Tu, siempre tu](https://open.spotify.com/album/6qSuRB2CRkPJhc0NngLwUT) | 3:15 | 2025-06-13 | 2025-08-15 |
 | [Un Millón de rosas](https://open.spotify.com/track/58hBuil2mZcMTotNdyYr8m) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Un Millón de rosas](https://open.spotify.com/album/7cissQhE8wLqMq7z8z3aVU) | 3:15 | 2025-05-09 | 2025-08-15 |
+| [Vale la pena](https://open.spotify.com/track/50OsSFQ77Uw7mXS5IBgCwk) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Vale la pena](https://open.spotify.com/album/3KRj2HhWqOaVWtiJcAQEqC) | 3:56 | 2026-10-23 |  |
 | [Victoria](https://open.spotify.com/track/1KnSnwk49SV5MdTqQzLeNE) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos \(Sesiones 2020\)](https://open.spotify.com/album/3mrsqUgypqoCX1xyZzlJFk) | 3:48 | 2021-07-23 | 2022-07-25 |
 | [Viejo Pescador del Paraná \(with Teresa Parodi & Chango Spasiuk\)](https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Primavera](https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG) | 3:56 | 2021-07-23 | 2024-11-26 |
 | [Vienes y Te Vas](https://open.spotify.com/track/188wTON3SZIoUVG39rINeq) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Carnaval, Pasión del Norte](https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC) | 3:05 | 2021-07-23 |  |

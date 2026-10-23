@@ -4,7 +4,7 @@
 
 > a little rap, a little pop, a little country..\. sometimes\. brakence on the cover.
 
-881 songs - 1 day 16 hr 11 min
+882 songs - 1 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,7 +608,7 @@
 | [Pedal to Metal 2.0](https://open.spotify.com/track/1JO9geiAkd9qmfRDXmBJPT) | [Tyler Pigg](https://open.spotify.com/artist/4nJeXFj0prRJ1jWSa8x9K7), [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Pedal to Metal 2.0](https://open.spotify.com/album/4kalNj3jR7R0eIZVIJ5B3v) | 2:57 | 2025-04-14 | 2025-06-07 |
 | [Perfect](https://open.spotify.com/track/77cj905zkxzZ0BOUaMd9SM) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Perfect](https://open.spotify.com/album/6HFU5gAvlDMV22aoFeyRC8) | 3:34 | 2021-12-16 | 2022-02-26 |
 | [Peso](https://open.spotify.com/track/3tTpvK7QgjjQCKGnHt5xn3) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 2:49 | 2022-04-04 | 2022-04-09 |
-| [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 | 2025-12-09 |  |
+| [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 | 2025-12-09 | 2026-10-23 |
 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 | 2022-05-20 | 2022-07-09 |
 | [pick up the phone](https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [pick up the phone](https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9) | 4:12 | 2022-04-04 | 2022-07-07 |
 | [Pickup Lines](https://open.spotify.com/track/0q0PbcckJ29zcMkHqevGyB) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Pickup Lines](https://open.spotify.com/album/1SlVtVG8JmqGMOeXZaT9HF) | 2:59 | 2022-07-22 | 2022-10-01 |
@@ -870,6 +870,7 @@
 | [winter](https://open.spotify.com/track/6aMS0HK7fnPpT21KhV7MC7) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [winter](https://open.spotify.com/album/2RWtkN2zZCPl9VuMVBye6x) | 2:06 | 2022-01-28 | 2022-05-20 |
 | [Wish \(feat\. Trippie Redd\) \- Trippie Mix](https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 2:56 | 2025-10-05 | 2026-05-23 |
 | [Wish You Well](https://open.spotify.com/track/6nJpgyFLsXOr0nAm7NK0xC) | [BOY $COUT GATSBY](https://open.spotify.com/artist/5AZH6yzLc1YbNKdB7Db179) | [Wish You Well](https://open.spotify.com/album/4wyVBiF1059DWSRhF0P6eK) | 2:38 | 2022-07-01 | 2022-07-06 |
+| [wishing well](https://open.spotify.com/track/3wFANkoEmlut2OCldcKb2U) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [marroW](https://open.spotify.com/album/1XJET4J6WgkMkalolZojgR) | 3:29 | 2026-10-23 |  |
 | [wonder why](https://open.spotify.com/track/6R6IEZgAq8clMRlm7KjnwS) | [Aizayah Hills](https://open.spotify.com/artist/5BLTxShcXYTib23V0lRdDt) | [wonder why](https://open.spotify.com/album/5gH0RB9P5hrZyvHcHBWHRB) | 1:56 | 2022-07-22 | 2022-10-15 |
 | [woosah](https://open.spotify.com/track/2pDJMENPO7ECZJTWBx29vg) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [woosah](https://open.spotify.com/album/4l7AZRHP009foD9OjeOiQn) | 2:42 | 2023-04-05 | 2023-09-09 |
 | [Work Out](https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:55 | 2022-04-04 | 2022-07-07 |

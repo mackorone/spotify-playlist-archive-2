@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The sound of the underground. Cover: Destroy Boys",
+  "description": "The sound of the underground. Cover: Polyphia",
   "name": "The Pit",
   "tracks": [
     {
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 168323,
       "name": "Bad Faith",
       "url": "https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq"
@@ -3050,7 +3050,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 171217,
       "name": "Critic",
       "url": "https://open.spotify.com/track/6DAjDmB3BSdCXpmZqrDOCB"
@@ -3669,6 +3669,24 @@
     },
     {
       "album": {
+        "name": "Deathwish",
+        "url": "https://open.spotify.com/album/4HlWa17cRTW9uQraVvh0tc"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247185,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/0ZvGajFnTQtEAyKNjqt982"
+    },
+    {
+      "album": {
         "name": "Deceit",
         "url": "https://open.spotify.com/album/5PyKnxZedDeKOhwn6l6YLR"
       },
@@ -4206,7 +4224,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 191746,
       "name": "Do What's Right (Happy)",
       "url": "https://open.spotify.com/track/0uRZ0XwepbMqdPXohjdYj4"
@@ -4470,7 +4488,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 263921,
       "name": "dull blade disguise",
       "url": "https://open.spotify.com/track/2O8SjoHVVfVvDLLpwrXAhL"
@@ -4748,7 +4766,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 189734,
       "name": "Eve",
       "url": "https://open.spotify.com/track/4DhVBy08QEmZ6a5bDtnYCi"
@@ -5825,6 +5843,28 @@
     },
     {
       "album": {
+        "name": "Gabh Ceum Air Ais",
+        "url": "https://open.spotify.com/album/50zOncKcKar3PrGdQiuHum"
+      },
+      "artists": [
+        {
+          "name": "Gun Ghaol",
+          "url": "https://open.spotify.com/artist/1Wx6yzsgdgwB65T3uvEXux"
+        },
+        {
+          "name": "Limonead",
+          "url": "https://open.spotify.com/artist/4l6uNvCL8oInfeHAxy3KP9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195990,
+      "name": "Gabh Ceum Air Ais",
+      "url": "https://open.spotify.com/track/31dTUNmmWwdAJD94WvbzmS"
+    },
+    {
+      "album": {
         "name": "GALLOWS",
         "url": "https://open.spotify.com/album/3dnGOG8oUIbQHvTda0s8i4"
       },
@@ -6406,7 +6446,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 215124,
       "name": "GREY",
       "url": "https://open.spotify.com/track/6hRWQS48H0n7MIaOoxVe33"
@@ -8150,7 +8190,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 139326,
       "name": "Isolationist",
       "url": "https://open.spotify.com/track/1xgxvL2NWsZblYpDyMWIpt"
@@ -8751,6 +8791,24 @@
     },
     {
       "album": {
+        "name": "BE NOT AFRAID",
+        "url": "https://open.spotify.com/album/1TGVYEYICRGYuy9syckm48"
+      },
+      "artists": [
+        {
+          "name": "Polyphia",
+          "url": "https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291565,
+      "name": "LET THERE BE LIGHT",
+      "url": "https://open.spotify.com/track/1ZYeLDYEiXv23LMGKVNteM"
+    },
+    {
+      "album": {
         "name": "From Zero (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
       },
@@ -9221,6 +9279,24 @@
     },
     {
       "album": {
+        "name": "smile, you're on camera.",
+        "url": "https://open.spotify.com/album/6q9wB5O7sm8qhrMz5oEn48"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242900,
+      "name": "low",
+      "url": "https://open.spotify.com/track/1vkZv2DXLCQCj2kOY5MHrX"
+    },
+    {
+      "album": {
         "name": "\u2060Lucid Love",
         "url": "https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH"
       },
@@ -9590,7 +9666,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 205466,
       "name": "May this pain never leave",
       "url": "https://open.spotify.com/track/2nVtRRozQdPbCTOM3lKtcp"
@@ -10272,7 +10348,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 179906,
       "name": "NETWORK",
       "url": "https://open.spotify.com/track/26bUHwjwSidCORMzLXFf3F"
@@ -10395,6 +10471,24 @@
     },
     {
       "album": {
+        "name": "Night Whispers & Shining Lights",
+        "url": "https://open.spotify.com/album/3hfTkcKLG1sSLQhjKW6tq2"
+      },
+      "artists": [
+        {
+          "name": "Soilwork",
+          "url": "https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232213,
+      "name": "Night Whispers & Shining Lights",
+      "url": "https://open.spotify.com/track/38uBpv9HZwZf93FJNY3eEi"
+    },
+    {
+      "album": {
         "name": "Nightmare Tripping (Feat. Nickelback)",
         "url": "https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz"
       },
@@ -10410,7 +10504,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 321106,
       "name": "Nightmare Tripping (Feat. Nickelback)",
       "url": "https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1"
@@ -11089,6 +11183,24 @@
     },
     {
       "album": {
+        "name": "Ultraviolet Parasite",
+        "url": "https://open.spotify.com/album/5P5PeqotxOFoMkPCwJEJIu"
+      },
+      "artists": [
+        {
+          "name": "Frontierer",
+          "url": "https://open.spotify.com/artist/6AMqkTWbhukzRS5je3Q5qt"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "Picturesque",
+      "url": "https://open.spotify.com/track/3kicNK8ju0V8A1JU9Jy6LF"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/0uPCymr8ECg9OpMZvbh38W"
       },
@@ -11284,6 +11396,24 @@
       "duration_ms": 172772,
       "name": "Power In Numbers",
       "url": "https://open.spotify.com/track/58OXps27n41UlUfW8rGETg"
+    },
+    {
+      "album": {
+        "name": "Precinct 3 / Scavenger",
+        "url": "https://open.spotify.com/album/3zPrUvKsKqARv9v1UOzS1d"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196906,
+      "name": "Precinct 3",
+      "url": "https://open.spotify.com/track/7CVKE0c9CI9mGi6wlY2jka"
     },
     {
       "album": {
@@ -11810,6 +11940,24 @@
       "duration_ms": 110346,
       "name": "rehearsed",
       "url": "https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO"
+    },
+    {
+      "album": {
+        "name": "Reminders of Hell",
+        "url": "https://open.spotify.com/album/0VmUfxZguY6nIpf031LJpf"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209647,
+      "name": "Reminders of Hell",
+      "url": "https://open.spotify.com/track/6o9YZBl3nQXuBD82XTcYQa"
     },
     {
       "album": {
@@ -13719,6 +13867,24 @@
     },
     {
       "album": {
+        "name": "Sutures",
+        "url": "https://open.spotify.com/album/7IlEqetnjB1wg9bHgnBXl4"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279133,
+      "name": "Sutures",
+      "url": "https://open.spotify.com/track/1jATn2HJ7sDM3JLWRYOzIg"
+    },
+    {
+      "album": {
         "name": "Swallow",
         "url": "https://open.spotify.com/album/7hXMo6KNd71w3y7Zd4r134"
       },
@@ -14070,6 +14236,24 @@
       "duration_ms": 185681,
       "name": "THE ABATTOIR OF THOUGHT",
       "url": "https://open.spotify.com/track/1pu1KBiKLAwd7OVXbxzSI6"
+    },
+    {
+      "album": {
+        "name": "The Basement / Spilt",
+        "url": "https://open.spotify.com/album/6LQR9ywQxcxq992e9h2mU5"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213643,
+      "name": "The Basement",
+      "url": "https://open.spotify.com/track/6b1M7lKBrXFUp2kimbTmRu"
     },
     {
       "album": {
@@ -14746,7 +14930,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 221253,
       "name": "Therapy In Me",
       "url": "https://open.spotify.com/track/0cjvjLMnAbPyuHUm817t31"

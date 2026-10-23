@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,431 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,436 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 46 | [qutie](https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI) | [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [qutie](https://open.spotify.com/album/4YXb4ATKlSjbZT0lO9Z7T1) | 2:29 |
 | 47 | [Walk \(Interlude\)](https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Scenery](https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2) | 2:47 |
 | 48 | [Mercy](https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Mercy](https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl) | 3:48 |
-| 49 | [fresh](https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm) | [sukima](https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc) | [fresh](https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6) | 4:23 |
-| 50 | [yomichi](https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [yomichi](https://open.spotify.com/album/048Hs52yaVV2YrTTVHeMnj) | 2:00 |
+| 49 | [yomichi](https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [yomichi](https://open.spotify.com/album/048Hs52yaVV2YrTTVHeMnj) | 2:00 |
+| 50 | [fresh](https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm) | [sukima](https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc) | [fresh](https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6) | 4:23 |
 | 51 | [Day of the Moon](https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Day of the Moon](https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk) | 2:36 |
 | 52 | [Pockets](https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Pockets](https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl) | 3:20 |
 | 53 | [Sunrise](https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Sunrise](https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB) | 2:48 |
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 71 | [Blue Notes](https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Max Ribner](https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY) | [Blue Notes](https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf) | 3:18 |
 | 72 | [Ghost Town \- Side\-B](https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS) | [Nozomi Nobody](https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL) | [Dawn \(Side\-B\)](https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV) | 3:16 |
 | 73 | [bed \- rework](https://open.spotify.com/track/2KsL8zTHdhq9UCoQS828JR) | [横山起朗](https://open.spotify.com/artist/0vlT69d2LzCebohSPMktHr), [sorami](https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98) | [bed \(rework\)](https://open.spotify.com/album/55TlZbTAmCgXIS1aGdQgRS) | 3:55 |
-| 74 | [Night Owl Dream](https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Owl Dream](https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV) | 2:36 |
-| 75 | [Blue](https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Nightfall](https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP) | 2:49 |
-| 76 | [Husigina Ki](https://open.spotify.com/track/15KQSocfr0YVYoXwKJzOrH) | [Yassy](https://open.spotify.com/artist/0KTpJYwmBiu2Zbm6W4wiZH) | [Husigina Ki](https://open.spotify.com/album/2mdGuotPBacHnY8QqPTCbl) | 2:40 |
-| 77 | [Chamomile](https://open.spotify.com/track/6LvQFF9REVEO1aYfG07e0z) | [KOTARO SAITO](https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX) | [Chamomile](https://open.spotify.com/album/6xsSwoYLUzO1g2eVATDlbQ) | 3:16 |
-| 78 | [Nights in Ikebukuro](https://open.spotify.com/track/6Fpb2vui5MXFW3zmiL4D9O) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Eshajori](https://open.spotify.com/album/2rK9glZuJk3rtDgADQ02ZI) | 4:34 |
+| 74 | [Blue](https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Nightfall](https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP) | 2:49 |
+| 75 | [Night Owl Dream](https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Owl Dream](https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV) | 2:36 |
+| 76 | [Nights in Ikebukuro](https://open.spotify.com/track/6Fpb2vui5MXFW3zmiL4D9O) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Eshajori](https://open.spotify.com/album/2rK9glZuJk3rtDgADQ02ZI) | 4:34 |
+| 77 | [Husigina Ki](https://open.spotify.com/track/15KQSocfr0YVYoXwKJzOrH) | [Yassy](https://open.spotify.com/artist/0KTpJYwmBiu2Zbm6W4wiZH) | [Husigina Ki](https://open.spotify.com/album/2mdGuotPBacHnY8QqPTCbl) | 2:40 |
+| 78 | [Chamomile](https://open.spotify.com/track/6LvQFF9REVEO1aYfG07e0z) | [KOTARO SAITO](https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX) | [Chamomile](https://open.spotify.com/album/6xsSwoYLUzO1g2eVATDlbQ) | 3:16 |
 | 79 | [nostalgia](https://open.spotify.com/track/1Iwk3LLqidlOEx1NQcEiqT) | [chanoma](https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN) | [nostalgia](https://open.spotify.com/album/2nYqG1ZkEXoeg67nTRWmfy) | 4:07 |
 | 80 | [Catch Me](https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB), [Sherry W](https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms) | [Catharsis](https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj) | 3:51 |
 | 81 | [Continue](https://open.spotify.com/track/7sd6xFGqtVJEkPDfCxudSa) | [One\-half](https://open.spotify.com/artist/4OZyhvuFhDmRwZEiDt9EkO) | [Continue](https://open.spotify.com/album/7sQBNjrJQQSa22nTKHyPA1) | 3:52 |

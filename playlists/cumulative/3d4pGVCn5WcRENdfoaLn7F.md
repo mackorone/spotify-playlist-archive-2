@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-445 songs - 1 day 2 hr 41 min
+448 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [All I Want From You \(Distribution\)](https://open.spotify.com/track/3oD3uLVohw5dcJP5WugSYV) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [All I Want From You](https://open.spotify.com/album/2Gi2yf2kTvuRBLGlORfSWr) | 2:29 | 2026-06-15 | 2026-08-08 |
 | [All That Glitters](https://open.spotify.com/track/0nbwTQWA3TxU9WzQE7uVwp) | [Jess & The Dropouts](https://open.spotify.com/artist/7CsN7EwwsGjyisVwjiSdKD) | [All That Glitters](https://open.spotify.com/album/4rcRbeJKS242AHZCCIwqbg) | 3:23 | 2026-10-13 |  |
 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2026-05-05 | 2026-05-26 |
+| [Analog Soul](https://open.spotify.com/track/4tP8QH7QwmLBZkez2niHVd) | [David Barker](https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM) | [Analog Soul](https://open.spotify.com/album/6JiEvXmwnDAO0zIzo5pyNK) | 3:13 | 2026-10-22 |  |
 | [Anfang unsrer Zeit](https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Anfang unsrer Zeit](https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t) | 3:28 | 2026-04-16 | 2026-05-17 |
 | [Another Light Year](https://open.spotify.com/track/2LxPolkDBMrJHAhxOTCQXX) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Surrounded by Spiders](https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT) | 2:24 | 2025-10-04 | 2026-01-05 |
 | [Anthem](https://open.spotify.com/track/7yERL9lG267wju2Ufue3ac) | [No Man's Land](https://open.spotify.com/artist/4DrY8MPAU23CWiFre0klEI) | [Anthem](https://open.spotify.com/album/5wg8ZXbOlWn14e7NdFOs3D) | 3:18 | 2026-06-22 | 2026-08-08 |
@@ -260,6 +261,7 @@
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-11-21 | 2026-06-04 |
 | [No Rules](https://open.spotify.com/track/32BWKxssN2iziIF4WDZQxJ) | [S E B A S T I E N](https://open.spotify.com/artist/0m4wcDJ60vbHFh7UdkP8lz) | [No Rules](https://open.spotify.com/album/3KDyUV7Mw2Desfa0acNlog) | 3:59 | 2025-12-13 | 2026-01-05 |
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2025-11-21 | 2025-12-12 |
+| [No Win](https://open.spotify.com/track/2mdVQXwWx1ALhwfBHhilLt) | [New Delta](https://open.spotify.com/artist/26cx8jdskWxVHoySlTAA7k) | [No Win](https://open.spotify.com/album/7wCVj35diIeT3JWVsEY9rC) | 3:01 | 2026-10-22 |  |
 | [Noches sin Luna](https://open.spotify.com/track/4sITI73ZbmS3a0veXw9LVb) | [La Mercury Punk](https://open.spotify.com/artist/5Fz3D2AtzaclCUr00tsnRo) | [Noches sin Luna](https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK) | 4:19 | 2026-02-20 | 2026-03-27 |
 | [Noir](https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD) | [Summoners](https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn) | [Noir](https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2) | 3:21 | 2026-05-15 | 2026-06-14 |
 | [NORMIE FUCK](https://open.spotify.com/track/5HJyslBPhejHh1p2VlPWuC) | [Meerkat](https://open.spotify.com/artist/5LmeYGFo0QRpiiJpYdtRal) | [NORMIE FUCK](https://open.spotify.com/album/0mvePeDg6YsuHXEkJ8RqQH) | 2:25 | 2026-05-05 | 2026-05-26 |
@@ -364,6 +366,7 @@
 | [Surrender](https://open.spotify.com/track/5XOraQSzk88vT3orGMofDR) | [Fenix](https://open.spotify.com/artist/2VIZpeJoUKPcl9oU61pf8j) | [Finale](https://open.spotify.com/album/1VQU6mqrk0yC9UffcI6Rj5) | 3:54 | 2026-05-19 | 2026-06-14 |
 | [Survive You](https://open.spotify.com/track/4qPQHrdW6aaW6hpS6vUzN3) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Prelude](https://open.spotify.com/album/3tVyCMhPK73fJ9jzYTfOik) | 4:17 | 2026-02-16 | 2026-06-11 |
 | [Take It](https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [A Bridge Across the Sea](https://open.spotify.com/album/5y4kycwvx8BLd7tXfyAg6d) | 3:08 | 2026-05-12 | 2026-06-14 |
+| [Take It Off](https://open.spotify.com/track/0JK0goQyKIvGIOioaYYAcz) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Take It Off](https://open.spotify.com/album/09Ar3ZgfMG0u02BjWUsPph) | 2:59 | 2026-10-22 |  |
 | [Take Me Away](https://open.spotify.com/track/3Jzrgsy5JoxAtIMabzSmm3) | [Jess the Singing Alien](https://open.spotify.com/artist/5BWYOSAZHoy7v529BEExAq) | [Take Me Away](https://open.spotify.com/album/4KvoMVaKmmzIcBnq878TEZ) | 3:50 | 2026-01-16 | 2026-02-25 |
 | [Take the Leap](https://open.spotify.com/track/5RcPXX2rXANE6hofEiagG2) | [Belshire](https://open.spotify.com/artist/5Pu6y3ZV8Akm8RgiCmnsyC) | [Belshire](https://open.spotify.com/album/4tHlKVwt7mmLfxwktwoQ8S) | 2:56 | 2026-09-05 | 2026-10-16 |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-12-06 |

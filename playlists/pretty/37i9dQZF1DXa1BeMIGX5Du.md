@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,995 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,037 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 69 | [Raindrops](https://open.spotify.com/track/3eMf2Hy7xiFWu7e6K8ZOeS) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [It's Lovely To Have You Here: Extended Stay](https://open.spotify.com/album/2lIUVPA23AFgUKwOcwMTxc) | 4:15 |
 | 70 | [Little Less Lonely](https://open.spotify.com/track/7pR2S2bVN8RP7B5mfevdKa) | [Jenny Mitchell](https://open.spotify.com/artist/4nuqPXV9cR0OGDbYw0Zwj9) | [Forest House](https://open.spotify.com/album/4fKXOHw9FPeyEPfv3Pi3gx) | 3:51 |
 | 71 | [Gold Tongue](https://open.spotify.com/track/1WGHpZPCp5METVQJiKl27O) | [Husky Gawenda](https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W), [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Gold Tongue](https://open.spotify.com/album/4uzuL7L0YlFsIOWeqydhBB) | 6:11 |
-| 72 | [well](https://open.spotify.com/track/50bJQnG3wWB64iVe6F007S) | [lindsay](https://open.spotify.com/artist/5rar25ejTh6Z3bZ2MhiAfS) | [well](https://open.spotify.com/album/3QciLyRHKRwOGZ59HJN9Vv) | 2:40 |
+| 72 | [Well](https://open.spotify.com/track/50bJQnG3wWB64iVe6F007S) | [lindsay](https://open.spotify.com/artist/5rar25ejTh6Z3bZ2MhiAfS) | [Well](https://open.spotify.com/album/3QciLyRHKRwOGZ59HJN9Vv) | 2:40 |
 | 73 | [Marlay Park](https://open.spotify.com/track/4Uh27w3SzvO8EPOk42xe9z) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Reverie](https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8) | 3:44 |
 | 74 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 |
 | 75 | [Follow](https://open.spotify.com/track/47NgbR06AR35k3toFdfbdJ) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Follow](https://open.spotify.com/album/67nebtIbhaxi5rOqfA6mSM) | 4:26 |

@@ -4,7 +4,7 @@
 
 > roots run deep with Sam Barber
 
-506 songs - 1 day 6 hr 26 min
+507 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Cowboys Cry](https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Me Again](https://open.spotify.com/album/6F8uiNvpfUdMTpPGPRCK6o) | 3:12 | 2024-05-17 | 2024-07-11 |
 | [Cowpoke](https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t) | 3:12 | 2023-08-25 | 2024-04-19 |
 | [Cowpoke](https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI) | 3:12 | 2023-02-24 | 2024-05-25 |
+| [Cross Country Blues \(demo\)](https://open.spotify.com/track/5FaOcZMqAm2zxduqrfbR3n) | [Center Mid](https://open.spotify.com/artist/4zPGRxbsiwHe6nVHaL1hlN) | [Cross Country Blues \(demo\)](https://open.spotify.com/album/5AAVsGOxVB1EZ3jtUhffkm) | 3:30 | 2026-10-23 |  |
 | [Cry Of The Wolves](https://open.spotify.com/track/3MYbVlYRwYfm57adWtfhSY) | [Chad Jenks](https://open.spotify.com/artist/1m2b2N60MX3fGo9mJ3nKf4) | [Cry Of The Wolves](https://open.spotify.com/album/4PJirZt51JJa71EpOHe0bt) | 3:54 | 2024-01-31 |  |
 | [Cry of the Wolves](https://open.spotify.com/track/3ozcFCqokQP1H7hMgiAckf) | [Javin Ross](https://open.spotify.com/artist/7zqTJ5GwVpV4FgpT1cIKaf), [Chad Jenks](https://open.spotify.com/artist/1m2b2N60MX3fGo9mJ3nKf4) | [Cry of the Wolves](https://open.spotify.com/album/4kNaQPzvE2JmGvYCRHvBY3) | 3:55 | 2026-06-26 | 2026-06-27 |
 | [Cørnerman](https://open.spotify.com/track/0TuXbHxORpTdkD1b1r6FL2) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Cørnerman](https://open.spotify.com/album/6vqI6qSNLRQxkR0d3klzTa) | 4:47 | 2026-09-18 |  |

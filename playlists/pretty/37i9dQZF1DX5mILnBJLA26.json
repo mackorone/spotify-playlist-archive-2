@@ -1,13 +1,125 @@
 {
-  "description": "The biggest Amapiano singles making waves right now.  Cover: Sfarzo Rtee",
-  "num_followers": 1286782,
+  "description": "The biggest Amapiano singles making waves right now.  Cover: Njelic",
+  "num_followers": 1287132,
   "original_name": "AMAPIANO GROOVES",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAqd2kOyKfRdIBO1Trs2gXEd4L2c",
+  "snapshot_id": "AAAAAJq5jmJIRofCraOSB9Ii5kTah8KU",
   "tracks": [
+    {
+      "added_at": "2026-10-22 22:01:15",
+      "album": {
+        "name": "Se Senkganang (feat. DJ Sushy & Dj Cleo)",
+        "url": "https://open.spotify.com/album/4iC9rZ2VDLDnYHY7ULAKkk"
+      },
+      "artists": [
+        {
+          "name": "Enny Man Da Guitar",
+          "url": "https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        },
+        {
+          "name": "Ego Slimflow",
+          "url": "https://open.spotify.com/artist/4hADccnhJWKgtjTKues1oy"
+        },
+        {
+          "name": "Bob Mabena",
+          "url": "https://open.spotify.com/artist/64AibK7iJaFyzaWdx2t09W"
+        },
+        {
+          "name": "DJ Sushy",
+          "url": "https://open.spotify.com/artist/4bOwbCLiAflxxe0WLAD2wC"
+        },
+        {
+          "name": "DJ Cleo",
+          "url": "https://open.spotify.com/artist/25DGxfawvVBrqZNBzWQj9y"
+        }
+      ],
+      "duration_ms": 324231,
+      "name": "Se Senkganang (feat. DJ Sushy & Dj Cleo)",
+      "url": "https://open.spotify.com/track/4MACCwrsCpZMOpB3kkpg33"
+    },
+    {
+      "added_at": "2026-10-22 22:01:15",
+      "album": {
+        "name": "S\u00ffababheka",
+        "url": "https://open.spotify.com/album/2C2H2BRDQ0v7EpzAqSMkoU"
+      },
+      "artists": [
+        {
+          "name": "Seun1401",
+          "url": "https://open.spotify.com/artist/0CPfPl6Fy7ueqMoxjZjmYb"
+        },
+        {
+          "name": "LastBornDiroba",
+          "url": "https://open.spotify.com/artist/467V6Wi666JBwBY3YMHSuJ"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        }
+      ],
+      "duration_ms": 394375,
+      "name": "S\u00ffababheka",
+      "url": "https://open.spotify.com/track/3V08E7DRqRzqHueSDus4Jb"
+    },
+    {
+      "added_at": "2026-10-22 22:01:15",
+      "album": {
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/0TNCUKGvIA5INLU18AjNrR"
+      },
+      "artists": [
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Sam Deep",
+          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
+        },
+        {
+          "name": "De Mthuda",
+          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
+        }
+      ],
+      "duration_ms": 445138,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/6XVqNnSoXJXoelXfbniybg"
+    },
+    {
+      "added_at": "2026-10-15 22:02:06",
+      "album": {
+        "name": "EMPINI",
+        "url": "https://open.spotify.com/album/12pgfJuF4EtQA28BDdVWqE"
+      },
+      "artists": [
+        {
+          "name": "Sfarzo Rtee",
+          "url": "https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj"
+        },
+        {
+          "name": "Tracy",
+          "url": "https://open.spotify.com/artist/4YOZVLM9eFGOM88mtTLfze"
+        },
+        {
+          "name": "Wesley Keys",
+          "url": "https://open.spotify.com/artist/2OGYdhAxnbigwUW9Be2b6C"
+        }
+      ],
+      "duration_ms": 467544,
+      "name": "Ngibuyele Kuye",
+      "url": "https://open.spotify.com/track/2h8MD1bRjrWtRpJJo5Lumh"
+    },
     {
       "added_at": "2026-10-15 22:02:06",
       "album": {
@@ -59,30 +171,6 @@
       "duration_ms": 276139,
       "name": "H\u2019s On The Table",
       "url": "https://open.spotify.com/track/5oAunHKYK1vPSAjpQDlyNC"
-    },
-    {
-      "added_at": "2026-10-15 22:02:06",
-      "album": {
-        "name": "EMPINI",
-        "url": "https://open.spotify.com/album/12pgfJuF4EtQA28BDdVWqE"
-      },
-      "artists": [
-        {
-          "name": "Sfarzo Rtee",
-          "url": "https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj"
-        },
-        {
-          "name": "Tracy",
-          "url": "https://open.spotify.com/artist/4YOZVLM9eFGOM88mtTLfze"
-        },
-        {
-          "name": "Wesley Keys",
-          "url": "https://open.spotify.com/artist/2OGYdhAxnbigwUW9Be2b6C"
-        }
-      ],
-      "duration_ms": 467544,
-      "name": "Ngibuyele Kuye",
-      "url": "https://open.spotify.com/track/2h8MD1bRjrWtRpJJo5Lumh"
     },
     {
       "added_at": "2026-10-15 22:02:06",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: YOASOBI",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Vaundy",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -408,7 +408,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 206866,
       "name": "Aigayueni",
       "url": "https://open.spotify.com/track/6Myui5vYzIBsZvkYf1zeIc"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 172421,
       "name": "ANIMAL",
       "url": "https://open.spotify.com/track/0NI2z69OboDcZ0YkF2ozRo"
@@ -11942,7 +11942,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 247000,
       "name": "TEEN LOVE",
       "url": "https://open.spotify.com/track/3ezaDJzsxtkyyXVI4mI5NR"
@@ -12148,6 +12148,24 @@
       "duration_ms": 145453,
       "name": "The Rewind Story",
       "url": "https://open.spotify.com/track/4Y1Bihcs7b4unLD1jZB2Cl"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD -DELUXE EDiTiON-",
+        "url": "https://open.spotify.com/album/7wMb9tdP9jL30wG0MOSyE6"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221105,
+      "name": "The Rumbling",
+      "url": "https://open.spotify.com/track/37rmYz2vSbsWX8FHdhJlrl"
     },
     {
       "album": {
@@ -13200,6 +13218,28 @@
     {
       "album": {
         "name": "WATCH ME",
+        "url": "https://open.spotify.com/album/5N8qYjbTwlroORqdMLSUJK"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189629,
+      "name": "WATCH ME - feat. BIA",
+      "url": "https://open.spotify.com/track/3IWZeuKAIICpfEj7bkSB6p"
+    },
+    {
+      "album": {
+        "name": "WATCH ME",
         "url": "https://open.spotify.com/album/1YeKHWyzrHaJsFTB7XeT6C"
       },
       "artists": [
@@ -13640,7 +13680,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 171100,
       "name": "Yellow Brick Road",
       "url": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5"
@@ -13926,6 +13966,24 @@
       "duration_ms": 170986,
       "name": "\u3042\u306a\u305f\u306f\u304b\u3044\u3076\u3064",
       "url": "https://open.spotify.com/track/6rFtgBh6kYpved76LwBdcD"
+    },
+    {
+      "album": {
+        "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
+        "url": "https://open.spotify.com/album/71eZv4CCScNApcSYATHObm"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176594,
+      "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
+      "url": "https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm"
     },
     {
       "album": {
@@ -14580,6 +14638,24 @@
       "duration_ms": 212798,
       "name": "\u3057\u3087\u3046\u3082\u306a\u3044\u591c",
       "url": "https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er"
+    },
+    {
+      "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273535,
+      "name": "\u3057\u308f\u3042\u308f\u305b",
+      "url": "https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf"
     },
     {
       "album": {
@@ -16125,6 +16201,24 @@
     },
     {
       "album": {
+        "name": "\u30aa\u30ce\u30ac\u30df",
+        "url": "https://open.spotify.com/album/7lUN85inPYtrXRud9OjYNR"
+      },
+      "artists": [
+        {
+          "name": "\u30e1\u30ac\u30c6\u30e9\u30fb\u30bc\u30ed",
+          "url": "https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230875,
+      "name": "\u30aa\u30ce\u30ac\u30df",
+      "url": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe"
+    },
+    {
+      "album": {
         "name": "THE BOOK for,",
         "url": "https://open.spotify.com/album/6wBkzKouHawAr9e7lLxZLA"
       },
@@ -17349,6 +17443,24 @@
     },
     {
       "album": {
+        "name": "\u30c8\u30e0\u3068\u30b8\u30a7\u30ea\u30fc\u3068\u30d8\u30a4\u30bf\u30fc\u3068\u79c1",
+        "url": "https://open.spotify.com/album/5jGFlFGPRbQYzKUM5ux9v3"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149404,
+      "name": "\u30c8\u30e0\u3068\u30b8\u30a7\u30ea\u30fc\u3068\u30d8\u30a4\u30bf\u30fc\u3068\u79c1",
+      "url": "https://open.spotify.com/track/5h4LjodwIRu35AU0aDMoOj"
+    },
+    {
+      "album": {
         "name": "5g\u306e\u5e73\u548c",
         "url": "https://open.spotify.com/album/5cQlQCLp87osNFGo5sxBnh"
       },
@@ -18238,7 +18350,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 152750,
       "name": "\u30dd\u30c3\u30da\u30f3\u30ad\u30e5\u30fc\u30c8",
       "url": "https://open.spotify.com/track/3mhX7RepAwqeoz04q0wCYn"
@@ -20250,7 +20362,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 277045,
       "name": "\u5915\u661f-\u3086\u3046\u3065\u3064-",
       "url": "https://open.spotify.com/track/4zFFLQwm2zzQg8bcg9dald"
@@ -20358,7 +20470,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 198050,
       "name": "\u591c\u9df9 - Yodaka",
       "url": "https://open.spotify.com/track/4Qa2LME2vWWPXMLnFCGgxU"
@@ -21650,7 +21762,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 188933,
       "name": "\u672a\u5b8c\u6210\u5a5a\u59fb\u8ad6",
       "url": "https://open.spotify.com/track/1AukQSQzdaWtsH8z1wdmTO"
@@ -21968,6 +22080,24 @@
       "duration_ms": 189533,
       "name": "\u6d77\u99ac\u6210\u9577\u75db",
       "url": "https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg"
+    },
+    {
+      "album": {
+        "name": "\u6d88\u3048\u306a\u3044\u7406\u7531",
+        "url": "https://open.spotify.com/album/69GUXMqIsG12AEYIg5Uy7R"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249243,
+      "name": "\u6d88\u3048\u306a\u3044\u7406\u7531",
+      "url": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx"
     },
     {
       "album": {
@@ -23466,7 +23596,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 229328,
       "name": "\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"

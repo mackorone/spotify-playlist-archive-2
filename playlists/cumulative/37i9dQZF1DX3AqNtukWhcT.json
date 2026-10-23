@@ -3699,6 +3699,24 @@
     },
     {
       "album": {
+        "name": "Rest in Space",
+        "url": "https://open.spotify.com/album/05DOmBKnzZ6vfhjcDuxbji"
+      },
+      "artists": [
+        {
+          "name": "Pearldiver",
+          "url": "https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113572,
+      "name": "Rest in Space",
+      "url": "https://open.spotify.com/track/3dWVqjt8VgWKtHF7olUReV"
+    },
+    {
+      "album": {
         "name": "Returning It All",
         "url": "https://open.spotify.com/album/2oryCbHtb3HeSPbzg0G9D7"
       },

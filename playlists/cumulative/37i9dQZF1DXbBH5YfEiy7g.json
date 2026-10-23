@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-11",
-  "description": "Praise and Worship your way with the best South African Gospel music.  Cover: Dumi Mkokstad",
+  "description": "Praise and Worship your way with the best South African Gospel music.  Cover: Nonthando Hlope",
   "name": "South African Gospel",
   "tracks": [
     {
@@ -2378,6 +2378,28 @@
       "duration_ms": 482500,
       "name": "Mlondolozi - Live",
       "url": "https://open.spotify.com/track/6DFTcyNPTiG3iON72zGscu"
+    },
+    {
+      "album": {
+        "name": "Mmeli Wami (Live)",
+        "url": "https://open.spotify.com/album/1oLmCNK6KyiqtV4wIwwdE0"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Nothando Hlophe",
+          "url": "https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372506,
+      "name": "Mmeli Wami - Live",
+      "url": "https://open.spotify.com/track/7Aja0ZEVjg3L5kscHNkmTI"
     },
     {
       "album": {

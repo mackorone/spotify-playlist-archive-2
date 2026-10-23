@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Fy, Kidd",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Light",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -588,7 +588,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 169000,
       "name": "80s",
       "url": "https://open.spotify.com/track/2YfUDAeK634hrKfhEzbZxo"
@@ -610,6 +610,32 @@
       "duration_ms": 166184,
       "name": "900 HP",
       "url": "https://open.spotify.com/track/0hPrlXWvNoepVF8eidONY5"
+    },
+    {
+      "album": {
+        "name": "90s",
+        "url": "https://open.spotify.com/album/1LBjfUCK4isLUDxNTZp8YN"
+      },
+      "artists": [
+        {
+          "name": "HGEMONA$",
+          "url": "https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm"
+        },
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173225,
+      "name": "90s",
+      "url": "https://open.spotify.com/track/1m99qWY6dsNIVhdpJ6AqHU"
     },
     {
       "album": {
@@ -1228,6 +1254,32 @@
     {
       "album": {
         "name": "ALL IN",
+        "url": "https://open.spotify.com/album/5KRp5wu3He5AOOOXyacS4m"
+      },
+      "artists": [
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        },
+        {
+          "name": "2shots",
+          "url": "https://open.spotify.com/artist/0ZRgNmKNkngvESBVUqkICS"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/3VAkuvgyHEpfh0EzIVnOll"
+    },
+    {
+      "album": {
+        "name": "ALL IN",
         "url": "https://open.spotify.com/album/5WAlsXn4f8CiWT1cM2uAiX"
       },
       "artists": [
@@ -1626,7 +1678,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 265263,
       "name": "ARAGORN",
       "url": "https://open.spotify.com/track/1EplyD8aYp2lujM3Vjs3Mz"
@@ -2110,7 +2162,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 200333,
       "name": "AYTO ME TON SADAM",
       "url": "https://open.spotify.com/track/7aLH0PAEjMkNwEaoJV9xhm"
@@ -2140,6 +2192,24 @@
       "duration_ms": 144000,
       "name": "BABA",
       "url": "https://open.spotify.com/track/1UXaMpCNb3fCNVShUeILSC"
+    },
+    {
+      "album": {
+        "name": "Baba Yaga",
+        "url": "https://open.spotify.com/album/0biPCWdyno3WC3wURTzZZB"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150333,
+      "name": "Baba Yaga",
+      "url": "https://open.spotify.com/track/2okQ93Cd5SyqHI66rLdwDJ"
     },
     {
       "album": {
@@ -2280,7 +2350,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 161952,
       "name": "BADMAN",
       "url": "https://open.spotify.com/track/0B015hZa7aYSZCpPAa4iPy"
@@ -2526,6 +2596,32 @@
       "duration_ms": 190893,
       "name": "Banga",
       "url": "https://open.spotify.com/track/3pL7ZTyS3nKb8UZ9QnCjBp"
+    },
+    {
+      "album": {
+        "name": "KYS\u0399\u03a9\u039d 3",
+        "url": "https://open.spotify.com/album/54DtccY7gsfAgNonaXekld"
+      },
+      "artists": [
+        {
+          "name": "Billy Sio",
+          "url": "https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc"
+        },
+        {
+          "name": "duKYS",
+          "url": "https://open.spotify.com/artist/2sodpTtk7UOG4z5ZtIHg89"
+        },
+        {
+          "name": "Sardos97",
+          "url": "https://open.spotify.com/artist/119BqJ7qRURlIOb22caU5W"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146381,
+      "name": "BAPHOMET",
+      "url": "https://open.spotify.com/track/4IzTaIl9LOXdO3Y7hfH8tL"
     },
     {
       "album": {
@@ -2781,6 +2877,32 @@
     },
     {
       "album": {
+        "name": "BIRA BEKO",
+        "url": "https://open.spotify.com/album/7JdJgo3tzvF1SX303izqif"
+      },
+      "artists": [
+        {
+          "name": "Hoodie No",
+          "url": "https://open.spotify.com/artist/6tJ6x7j0z8rpLA4PXTTPeY"
+        },
+        {
+          "name": "Kiko",
+          "url": "https://open.spotify.com/artist/4HsGxGuDLdt7cpXbOAhysV"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149518,
+      "name": "BIRA BEKO",
+      "url": "https://open.spotify.com/track/5ir6i1RNEN5Q0P5LX5kgOv"
+    },
+    {
+      "album": {
         "name": "BLACK MAGIC",
         "url": "https://open.spotify.com/album/6c4fGGsgvibrkRswMaBuhu"
       },
@@ -2994,6 +3116,28 @@
       "duration_ms": 112300,
       "name": "Book of ra",
       "url": "https://open.spotify.com/track/5PuO3krQlVdYAblwsbbq4m"
+    },
+    {
+      "album": {
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/7toDz1ObKm9V1jX5jPEmsk"
+      },
+      "artists": [
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/2QooKWaZmi8hgRq4MdLIOz"
     },
     {
       "album": {
@@ -4334,7 +4478,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 159483,
       "name": "DEDDHE",
       "url": "https://open.spotify.com/track/4lfbNdBhsdoeQvDsNnp5OO"
@@ -5961,6 +6105,32 @@
     },
     {
       "album": {
+        "name": "FAVORI",
+        "url": "https://open.spotify.com/album/7GLF1wFa2GG6auIJBgXBn5"
+      },
+      "artists": [
+        {
+          "name": "FANN",
+          "url": "https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269"
+        },
+        {
+          "name": "Buzz",
+          "url": "https://open.spotify.com/artist/72psY0qma8uEbuSXL8LtT5"
+        },
+        {
+          "name": "Greco Beats",
+          "url": "https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "FAVORI",
+      "url": "https://open.spotify.com/track/3aLkrvFvyXgzL3qkNGDwvA"
+    },
+    {
+      "album": {
         "name": "FEFE",
         "url": "https://open.spotify.com/album/6xNTjKegcGNHGs24czDJcI"
       },
@@ -6064,6 +6234,32 @@
       "duration_ms": 173142,
       "name": "Fetos Ta Xristougenna",
       "url": "https://open.spotify.com/track/6mGuiiyR7mSIgTpNcrWrIt"
+    },
+    {
+      "album": {
+        "name": "FHME",
+        "url": "https://open.spotify.com/album/5da4KR85EISWPzaR7TH4lY"
+      },
+      "artists": [
+        {
+          "name": "GAB",
+          "url": "https://open.spotify.com/artist/0LuYYFDRJd3PNTh1k4nFRN"
+        },
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "M3NTRA",
+          "url": "https://open.spotify.com/artist/2PGUfaiMdCRUBN4h0hcVcn"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149467,
+      "name": "FHME",
+      "url": "https://open.spotify.com/track/6wBpOMQFIhi33fdX8KWF5Z"
     },
     {
       "album": {
@@ -6452,6 +6648,28 @@
       "duration_ms": 191489,
       "name": "FTAIW EGW",
       "url": "https://open.spotify.com/track/0R1t9FcBUuoew8ndJ8ubut"
+    },
+    {
+      "album": {
+        "name": "FTES",
+        "url": "https://open.spotify.com/album/1rGwjmU0OfJUdcxKti1Iy5"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "FEVERTOOHIGH",
+          "url": "https://open.spotify.com/artist/14jDG1IsRNgbwp44uyJV81"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195904,
+      "name": "FTES",
+      "url": "https://open.spotify.com/track/4kl42uzJjryHvWuVyptDTW"
     },
     {
       "album": {
@@ -7536,7 +7754,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 136363,
       "name": "Gucci Bag",
       "url": "https://open.spotify.com/track/2O8JAIWrhkO46ctsGbzQS3"
@@ -12824,7 +13042,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 244000,
       "name": "omw",
       "url": "https://open.spotify.com/track/4uLodgH5AnP3mgXMyZHPDO"
@@ -12930,7 +13148,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 164444,
       "name": "ONE NIGHT STANDS",
       "url": "https://open.spotify.com/track/3rmqAO5ZwdeQdtCGdoNl2C"
@@ -14640,7 +14858,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 180000,
       "name": "POTE",
       "url": "https://open.spotify.com/track/0hEtvbRFwcHe8xPEPPtdih"
@@ -15066,7 +15284,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 171214,
       "name": "PTR",
       "url": "https://open.spotify.com/track/2UCl29yD6Q92WEnAEBxFD0"
@@ -16726,6 +16944,28 @@
       "duration_ms": 147000,
       "name": "STABA",
       "url": "https://open.spotify.com/track/1zPbtDdZs62xoHsGulS64C"
+    },
+    {
+      "album": {
+        "name": "Jojo's Tapes",
+        "url": "https://open.spotify.com/album/69Qw9Px7P0wKApdd8yrBo8"
+      },
+      "artists": [
+        {
+          "name": "JOJO",
+          "url": "https://open.spotify.com/artist/7y3Vc1nVxf9MK2BXv5G3ul"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111264,
+      "name": "Star Hellas",
+      "url": "https://open.spotify.com/track/0fADVkrBJZeUvHUodFoIV8"
     },
     {
       "album": {
@@ -18741,6 +18981,32 @@
     },
     {
       "album": {
+        "name": "KYS\u0399\u03a9\u039d 3",
+        "url": "https://open.spotify.com/album/54DtccY7gsfAgNonaXekld"
+      },
+      "artists": [
+        {
+          "name": "Billy Sio",
+          "url": "https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc"
+        },
+        {
+          "name": "duKYS",
+          "url": "https://open.spotify.com/artist/2sodpTtk7UOG4z5ZtIHg89"
+        },
+        {
+          "name": "Sardos97",
+          "url": "https://open.spotify.com/artist/119BqJ7qRURlIOb22caU5W"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162175,
+      "name": "VILLA MES STO GHETTO",
+      "url": "https://open.spotify.com/track/4aQ6fqmQZJm4ATChiGzdtU"
+    },
+    {
+      "album": {
         "name": "VIP",
         "url": "https://open.spotify.com/album/5NTyi9fUg3xexp8sa5plfL"
       },
@@ -19092,7 +19358,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 130370,
       "name": "Xaderfaki",
       "url": "https://open.spotify.com/track/3eOP36Zkssv8hZOkn3G7Qe"

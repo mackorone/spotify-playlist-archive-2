@@ -5981,6 +5981,24 @@
     },
     {
       "album": {
+        "name": "Peace in My Mind",
+        "url": "https://open.spotify.com/album/5AGj9M1yvhFjWyitIeXxY4"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218720,
+      "name": "Thread of You",
+      "url": "https://open.spotify.com/track/3lfRBQW5NEZfTJIeewYTqh"
+    },
+    {
+      "album": {
         "name": "Stupid Question / Tightrope",
         "url": "https://open.spotify.com/album/4QBzVZXpXYmVdpH3RVqrBQ"
       },

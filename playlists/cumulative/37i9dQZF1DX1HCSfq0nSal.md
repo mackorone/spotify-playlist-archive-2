@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Clarent, Quevedo
 
-1,021 songs - 2 day 8 hr 16 min
+1,022 songs - 2 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -821,6 +821,7 @@
 | [SETEADORA](https://open.spotify.com/track/7DprNQSiwC4jBV7bwY761J) | [LAJA](https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb) | [SETEADORA](https://open.spotify.com/album/52NbDHSGAaS67ows7hTgaq) | 2:17 | 2025-08-11 | 2025-11-25 |
 | [SETEADORA REMIX \(with JC Reyes\)](https://open.spotify.com/track/55ZSaezLr7fNrkLL0WCpOD) | [LAJA](https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [SETEADORA REMIX \(with JC Reyes\)](https://open.spotify.com/album/0bvKMOZuhOUU0cbxfcmqEl) | 2:01 | 2026-02-03 | 2026-04-24 |
 | [SexeSexy](https://open.spotify.com/track/5YfGs3ieDe7tYnI0yOajp9) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexeSexy](https://open.spotify.com/album/4enqG7rEC8J7vwzgSgrwrN) | 3:52 | 2024-04-01 | 2024-04-12 |
+| [SEXY](https://open.spotify.com/track/4ZxgdNoF4zjxa75j46hhlc) | [YOLAMASCARA](https://open.spotify.com/artist/7b3s3AO7HK6A2MJHFvSDvd), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SEXY](https://open.spotify.com/album/6CB6mOUulAZbiPgXPcZVtE) | 2:08 | 2026-10-22 |  |
 | [Shampoo de Coco](https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Shampoo de Coco](https://open.spotify.com/album/2s85lQ8aH3Uw6Wff9nzYKZ) | 4:00 | 2024-08-30 | 2024-09-03 |
 | [SHE TELLS ME](https://open.spotify.com/track/1srH58DEczLtwZL7vp6Inr) | [3dnan](https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz), [RIFISOUL](https://open.spotify.com/artist/45bEt8NEILygekiRTbsBhz) | [SHE TELLS ME](https://open.spotify.com/album/1jIZdx4Gk1UrsnDNerYqFb) | 2:40 | 2024-04-25 | 2024-04-30 |
 | [SHIBATTO](https://open.spotify.com/track/41VnmHAkCUsCStYdDUibpp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 2:18 | 2024-11-25 | 2025-02-07 |
@@ -901,7 +902,7 @@
 | [Tokicha](https://open.spotify.com/track/5uPGtSSHtN28xUhX7W4eAp) | [J Castle](https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Tokicha](https://open.spotify.com/album/6zAlmaTBclBxZ63eeWHPSe) | 2:21 | 2025-03-03 | 2025-05-30 |
 | [Tokyo](https://open.spotify.com/track/1gYipuSzUpI6BENbGrgeid) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:22 | 2022-01-07 | 2022-02-15 |
 | [TONO DE VOZ](https://open.spotify.com/track/53ZdQQqfCwtkIBjYObbDDy) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIIKE \(DELUXE\)](https://open.spotify.com/album/27bcWf41ghwRCrfTS1OjXj) | 3:32 | 2025-03-10 | 2025-07-09 |
-| [TOO](https://open.spotify.com/track/318NR7D302xujYnNHHFv13) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [TOO](https://open.spotify.com/album/71H1IsH4tfMzUkmVARUE00) | 2:46 | 2026-10-05 |  |
+| [TOO](https://open.spotify.com/track/318NR7D302xujYnNHHFv13) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [TOO](https://open.spotify.com/album/71H1IsH4tfMzUkmVARUE00) | 2:46 | 2026-10-05 | 2026-10-23 |
 | [TOORA](https://open.spotify.com/track/2OFojHt8s5grbY3Dq5ifkp) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [TOORA](https://open.spotify.com/album/2qfQjlIupLSGNWG13Wv9gh) | 3:07 | 2025-11-24 | 2026-09-08 |
 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2022-01-07 | 2022-04-05 |
 | [Torii](https://open.spotify.com/track/0yROknHyvAJ57hZLpxNHry) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Torii](https://open.spotify.com/album/4qJ85usbGHHY9Hs2OdguKx) | 3:36 | 2024-06-03 | 2024-06-22 |

@@ -1,13 +1,221 @@
 {
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec No\u00e9 Preszow.",
-  "num_followers": 445136,
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Heroe.",
+  "num_followers": 445113,
   "original_name": "Exception Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGYNEx8SFYZ/5fraeLl8EsqMIfYs",
+  "snapshot_id": "AAAAACKWHoTd3GS+RLfSERyubmqTcIYb",
   "tracks": [
+    {
+      "added_at": "2026-10-22 22:00:30",
+      "album": {
+        "name": "pardon",
+        "url": "https://open.spotify.com/album/0Q5pn58hAeyfl8Nyypq6hv"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "duration_ms": 165285,
+      "name": "pardon",
+      "url": "https://open.spotify.com/track/7sRJsdhXJm7T6WafdIBgxx"
+    },
+    {
+      "added_at": "2026-09-17 22:01:59",
+      "album": {
+        "name": "Le Plus Beau",
+        "url": "https://open.spotify.com/album/4s8YhG1eTxmFmpHRiaig1P"
+      },
+      "artists": [
+        {
+          "name": "TeddyBear",
+          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
+        }
+      ],
+      "duration_ms": 168935,
+      "name": "Le Plus Beau",
+      "url": "https://open.spotify.com/track/1hDnVeTL6IHjuCyacA7QvV"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Te rencontrer encore",
+        "url": "https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ"
+      },
+      "artists": [
+        {
+          "name": "ESTL",
+          "url": "https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Te rencontrer encore",
+      "url": "https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09"
+    },
+    {
+      "added_at": "2026-09-17 22:01:59",
+      "album": {
+        "name": "Voir la mer",
+        "url": "https://open.spotify.com/album/0synaRkeUsZP3UbdzoeK0T"
+      },
+      "artists": [
+        {
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+        }
+      ],
+      "duration_ms": 205383,
+      "name": "Mes doutes avec toi",
+      "url": "https://open.spotify.com/track/2kfX3ueJBbaJ6ZTXAt7htf"
+    },
+    {
+      "added_at": "2026-10-22 22:00:30",
+      "album": {
+        "name": "Soleil secret",
+        "url": "https://open.spotify.com/album/46xYc1ijNz2rL8LvNfYwB7"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+        }
+      ],
+      "duration_ms": 275653,
+      "name": "Soleil secret",
+      "url": "https://open.spotify.com/track/3I4I2AZNtlEtcQAfdTTAJb"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Seules Ensemble (Mistral Gagnant)",
+        "url": "https://open.spotify.com/album/0u0o5CU46hwKwlna4NT5h6"
+      },
+      "artists": [
+        {
+          "name": "Manon Lisa",
+          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Seules Ensemble (Mistral Gagnant)",
+      "url": "https://open.spotify.com/track/5iCP3wPvrUwIZM0V2kzppV"
+    },
+    {
+      "added_at": "2026-10-22 22:00:30",
+      "album": {
+        "name": "Comme Les Grands",
+        "url": "https://open.spotify.com/album/0E1faWHqxDFfhGk5QQLSEL"
+      },
+      "artists": [
+        {
+          "name": "Sam Sauvage",
+          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
+        }
+      ],
+      "duration_ms": 173489,
+      "name": "Comme Les Grands",
+      "url": "https://open.spotify.com/track/7dUSBPzL053R3aI9iCXw68"
+    },
+    {
+      "added_at": "2026-09-24 22:01:42",
+      "album": {
+        "name": "seule dans la foule",
+        "url": "https://open.spotify.com/album/5X9dDbpm5lex928d1Ih3Ia"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "seule dans la foule",
+      "url": "https://open.spotify.com/track/3UQhUj6fiwQLRIP0vxOtkZ"
+    },
+    {
+      "added_at": "2026-10-22 22:00:30",
+      "album": {
+        "name": "Dis m'man",
+        "url": "https://open.spotify.com/album/3FOPVP28ZItnmOUwjI77ka"
+      },
+      "artists": [
+        {
+          "name": "chien noir",
+          "url": "https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP"
+        }
+      ],
+      "duration_ms": 167820,
+      "name": "Dis m'man",
+      "url": "https://open.spotify.com/track/1FOvOSEGiy0vM0PogmrWzU"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "\u00c9t\u00e9 avec toi",
+        "url": "https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        }
+      ],
+      "duration_ms": 187320,
+      "name": "\u00c9t\u00e9 avec toi",
+      "url": "https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "sous influence",
+        "url": "https://open.spotify.com/album/0AZn8rDfgVMki7b14gtJzP"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "duration_ms": 186908,
+      "name": "sous influence",
+      "url": "https://open.spotify.com/track/5Sj7ykVPBZsbviXmpcJ3NO"
+    },
+    {
+      "added_at": "2026-10-22 22:00:30",
+      "album": {
+        "name": "LA FOUDRE",
+        "url": "https://open.spotify.com/album/2VvPIsb2nd1cZuK9qnAdU5"
+      },
+      "artists": [
+        {
+          "name": "Alo\u00efse Sauvage",
+          "url": "https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib"
+    },
+    {
+      "added_at": "2026-10-22 22:00:30",
+      "album": {
+        "name": "Oreiller froid",
+        "url": "https://open.spotify.com/album/1dWWUkcGsFJJzkotmAEjLP"
+      },
+      "artists": [
+        {
+          "name": "Jean Castel",
+          "url": "https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1"
+        }
+      ],
+      "duration_ms": 145781,
+      "name": "Oreiller froid",
+      "url": "https://open.spotify.com/track/0eloccyjeMx4sOfVcNGuS4"
+    },
     {
       "added_at": "2026-10-08 22:02:12",
       "album": {
@@ -27,86 +235,6 @@
     {
       "added_at": "2026-10-15 22:01:32",
       "album": {
-        "name": "L'Humain",
-        "url": "https://open.spotify.com/album/1kAZZCiEqvD9mCZtdVcR8R"
-      },
-      "artists": [
-        {
-          "name": "TeddyBear",
-          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "L'Humain",
-      "url": "https://open.spotify.com/track/3sHa6NoDxdvS7SYApXJUrC"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Te rencontrer encore",
-        "url": "https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ"
-      },
-      "artists": [
-        {
-          "name": "ESTL",
-          "url": "https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Te rencontrer encore",
-      "url": "https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09"
-    },
-    {
-      "added_at": "2026-09-24 22:01:42",
-      "album": {
-        "name": "seule dans la foule",
-        "url": "https://open.spotify.com/album/5X9dDbpm5lex928d1Ih3Ia"
-      },
-      "artists": [
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "seule dans la foule",
-      "url": "https://open.spotify.com/track/3UQhUj6fiwQLRIP0vxOtkZ"
-    },
-    {
-      "added_at": "2026-09-17 22:01:59",
-      "album": {
-        "name": "Voir la mer",
-        "url": "https://open.spotify.com/album/0synaRkeUsZP3UbdzoeK0T"
-      },
-      "artists": [
-        {
-          "name": "Grand Corps Malade",
-          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
-        }
-      ],
-      "duration_ms": 205383,
-      "name": "Mes doutes avec toi",
-      "url": "https://open.spotify.com/track/2kfX3ueJBbaJ6ZTXAt7htf"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Seules Ensemble (Mistral Gagnant)",
-        "url": "https://open.spotify.com/album/0u0o5CU46hwKwlna4NT5h6"
-      },
-      "artists": [
-        {
-          "name": "Manon Lisa",
-          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Seules Ensemble (Mistral Gagnant)",
-      "url": "https://open.spotify.com/track/5iCP3wPvrUwIZM0V2kzppV"
-    },
-    {
-      "added_at": "2026-10-15 22:01:32",
-      "album": {
         "name": "Maman travaille trop",
         "url": "https://open.spotify.com/album/6nDXRhzA8UopxeGIeaQePJ"
       },
@@ -121,26 +249,26 @@
       "url": "https://open.spotify.com/track/0Zb5KVGsjfRkO7l9NrhEbb"
     },
     {
-      "added_at": "2026-09-10 22:00:49",
+      "added_at": "2026-10-15 22:01:32",
       "album": {
-        "name": "sous influence",
-        "url": "https://open.spotify.com/album/0AZn8rDfgVMki7b14gtJzP"
+        "name": "Partager le monde",
+        "url": "https://open.spotify.com/album/62l59GYI179OIDENsm93wr"
       },
       "artists": [
         {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+          "name": "Dinaa",
+          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
         }
       ],
-      "duration_ms": 186908,
-      "name": "sous influence",
-      "url": "https://open.spotify.com/track/5Sj7ykVPBZsbviXmpcJ3NO"
+      "duration_ms": 193840,
+      "name": "Partager le monde",
+      "url": "https://open.spotify.com/track/3PAISi9AWltKfvhnwfJf17"
     },
     {
-      "added_at": "2026-09-17 22:01:59",
+      "added_at": "2026-10-15 22:01:32",
       "album": {
-        "name": "Le Plus Beau",
-        "url": "https://open.spotify.com/album/4s8YhG1eTxmFmpHRiaig1P"
+        "name": "L'Humain",
+        "url": "https://open.spotify.com/album/1kAZZCiEqvD9mCZtdVcR8R"
       },
       "artists": [
         {
@@ -148,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
         }
       ],
-      "duration_ms": 168935,
-      "name": "Le Plus Beau",
-      "url": "https://open.spotify.com/track/1hDnVeTL6IHjuCyacA7QvV"
+      "duration_ms": 195506,
+      "name": "L'Humain",
+      "url": "https://open.spotify.com/track/3sHa6NoDxdvS7SYApXJUrC"
     },
     {
       "added_at": "2026-10-08 22:02:12",
@@ -205,38 +333,6 @@
       "url": "https://open.spotify.com/track/2sCwkZ5IRCYJDsM6EF6nx4"
     },
     {
-      "added_at": "2026-10-15 22:01:32",
-      "album": {
-        "name": "Partager le monde",
-        "url": "https://open.spotify.com/album/62l59GYI179OIDENsm93wr"
-      },
-      "artists": [
-        {
-          "name": "Dinaa",
-          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Partager le monde",
-      "url": "https://open.spotify.com/track/3PAISi9AWltKfvhnwfJf17"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "\u00c9t\u00e9 avec toi",
-        "url": "https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
-        }
-      ],
-      "duration_ms": 187320,
-      "name": "\u00c9t\u00e9 avec toi",
-      "url": "https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO"
-    },
-    {
       "added_at": "2026-09-10 22:00:49",
       "album": {
         "name": "Ce qu'on devient",
@@ -289,20 +385,36 @@
       "url": "https://open.spotify.com/track/477sMUpyAj8Am3a5VLfy8p"
     },
     {
-      "added_at": "2026-09-17 22:01:59",
+      "added_at": "2026-10-01 22:02:00",
       "album": {
-        "name": "Les rues de l'humanit\u00e9",
-        "url": "https://open.spotify.com/album/5FIqnUxFl3xipo30khaMqC"
+        "name": "souveraine : melancholia",
+        "url": "https://open.spotify.com/album/1bYvhzMLQysen43fLcZ1Xd"
       },
       "artists": [
         {
-          "name": "No\u00e9 Preszow",
-          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+          "name": "Mathilde",
+          "url": "https://open.spotify.com/artist/7ctr5cWbHXAOpQkcH5ttsO"
         }
       ],
-      "duration_ms": 280120,
-      "name": "Les rues de l'humanit\u00e9",
-      "url": "https://open.spotify.com/track/4UoZhdSs5oYqwW85pAaTkv"
+      "duration_ms": 241967,
+      "name": "souveraine : melancholia",
+      "url": "https://open.spotify.com/track/7lz70aLFPlpvm5WGekWKJT"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Les roses",
+        "url": "https://open.spotify.com/album/38jKknph0hxIEKMoaVB92i"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 277986,
+      "name": "Les roses",
+      "url": "https://open.spotify.com/track/5Ff8SOh8E69TbqLHJFHQjT"
     },
     {
       "added_at": "2026-10-08 22:02:12",
@@ -319,38 +431,6 @@
       "duration_ms": 189426,
       "name": "baisers puissants",
       "url": "https://open.spotify.com/track/0oiXMt5EJNWdw6CZjbIm3O"
-    },
-    {
-      "added_at": "2026-10-08 22:02:12",
-      "album": {
-        "name": "mon c\u0153ur",
-        "url": "https://open.spotify.com/album/5Xth6RihPf7hiP0a8pCXY6"
-      },
-      "artists": [
-        {
-          "name": "Coralie Fischer",
-          "url": "https://open.spotify.com/artist/25ci5VcVyFwZBinEPmxQFE"
-        }
-      ],
-      "duration_ms": 157290,
-      "name": "mon c\u0153ur",
-      "url": "https://open.spotify.com/track/6dvR4ZMJsNRMtOeWAFqhtB"
-    },
-    {
-      "added_at": "2026-10-01 22:02:00",
-      "album": {
-        "name": "souveraine : melancholia",
-        "url": "https://open.spotify.com/album/1bYvhzMLQysen43fLcZ1Xd"
-      },
-      "artists": [
-        {
-          "name": "Mathilde",
-          "url": "https://open.spotify.com/artist/7ctr5cWbHXAOpQkcH5ttsO"
-        }
-      ],
-      "duration_ms": 241967,
-      "name": "souveraine : melancholia",
-      "url": "https://open.spotify.com/track/7lz70aLFPlpvm5WGekWKJT"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -373,6 +453,22 @@
       "url": "https://open.spotify.com/track/0paG03UHBFUMUqAcZrlZTa"
     },
     {
+      "added_at": "2026-10-08 22:02:12",
+      "album": {
+        "name": "mon c\u0153ur",
+        "url": "https://open.spotify.com/album/5Xth6RihPf7hiP0a8pCXY6"
+      },
+      "artists": [
+        {
+          "name": "Coralie Fischer",
+          "url": "https://open.spotify.com/artist/25ci5VcVyFwZBinEPmxQFE"
+        }
+      ],
+      "duration_ms": 157290,
+      "name": "mon c\u0153ur",
+      "url": "https://open.spotify.com/track/6dvR4ZMJsNRMtOeWAFqhtB"
+    },
+    {
       "added_at": "2026-09-24 22:01:42",
       "album": {
         "name": "Murailles de Chine",
@@ -391,18 +487,18 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "failles",
-        "url": "https://open.spotify.com/album/59KVd55KRAsVfJZnll4Mvk"
+        "name": "Juste une femme (Rendez-vous Sylvestre - Saison 2)",
+        "url": "https://open.spotify.com/album/3qXijU5DRIwNx3cCXl1dfx"
       },
       "artists": [
         {
-          "name": "Heroe",
-          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+          "name": "Albin de la Simone",
+          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
         }
       ],
-      "duration_ms": 177863,
-      "name": "dans dix ans",
-      "url": "https://open.spotify.com/track/3UtLuUgIu1112NWvRb4g4G"
+      "duration_ms": 246853,
+      "name": "Juste une femme - Rendez-vous Sylvestre - Saison 2",
+      "url": "https://open.spotify.com/track/4DIXbnG6kIGmkwwPRzBOHH"
     },
     {
       "added_at": "2026-09-17 22:01:59",
@@ -419,22 +515,6 @@
       "duration_ms": 211106,
       "name": "Le monde ne tourne pas rond",
       "url": "https://open.spotify.com/track/5EuVCfMYvZR15XHPq1LtTt"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Juste une femme (Rendez-vous Sylvestre - Saison 2)",
-        "url": "https://open.spotify.com/album/3qXijU5DRIwNx3cCXl1dfx"
-      },
-      "artists": [
-        {
-          "name": "Albin de la Simone",
-          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "Juste une femme - Rendez-vous Sylvestre - Saison 2",
-      "url": "https://open.spotify.com/track/4DIXbnG6kIGmkwwPRzBOHH"
     },
     {
       "added_at": "2026-10-01 22:02:00",
@@ -667,50 +747,18 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/1t87d8lnJ9DT3YavkKyK1v"
+        "name": "peut-\u00eatre!",
+        "url": "https://open.spotify.com/album/7H0o3mZFS288K63YELh7wC"
       },
       "artists": [
         {
-          "name": "Ez\u00e9chiel Pailh\u00e8s",
-          "url": "https://open.spotify.com/artist/4rqegcqfzES4oBRh4n8TM1"
+          "name": "Nikola",
+          "url": "https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj"
         }
       ],
-      "duration_ms": 181423,
-      "name": "Assez",
-      "url": "https://open.spotify.com/track/6hA6YMthojEQ8HDhAa97cv"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Les roses",
-        "url": "https://open.spotify.com/album/38jKknph0hxIEKMoaVB92i"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
-        }
-      ],
-      "duration_ms": 277986,
-      "name": "Les roses",
-      "url": "https://open.spotify.com/track/5Ff8SOh8E69TbqLHJFHQjT"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Plein les doigts (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/5R4u4I8pRnfwSlFZI5GuCS"
-      },
-      "artists": [
-        {
-          "name": "Clio",
-          "url": "https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "Plein les doigts - R\u00e9\u00e9dition",
-      "url": "https://open.spotify.com/track/43ufIB4oms2QvkJm5soukC"
+      "duration_ms": 194039,
+      "name": "peut-\u00eatre!",
+      "url": "https://open.spotify.com/track/3xDh5B7TIgptIOr3zCzTNA"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -747,22 +795,6 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "peut-\u00eatre!",
-        "url": "https://open.spotify.com/album/7H0o3mZFS288K63YELh7wC"
-      },
-      "artists": [
-        {
-          "name": "Nikola",
-          "url": "https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj"
-        }
-      ],
-      "duration_ms": 194039,
-      "name": "peut-\u00eatre!",
-      "url": "https://open.spotify.com/track/3xDh5B7TIgptIOr3zCzTNA"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
         "name": "J'suis QLF",
         "url": "https://open.spotify.com/album/4mSPYYMKQaS2T5UENy0QbU"
       },
@@ -775,22 +807,6 @@
       "duration_ms": 253040,
       "name": "J\u2019suis QLF",
       "url": "https://open.spotify.com/track/1SD5DVz2m8QWDVZRu3E94P"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "La f\u00eate",
-        "url": "https://open.spotify.com/album/4FKUfsqYJ6eS7hgVVkja6K"
-      },
-      "artists": [
-        {
-          "name": "NATHAN",
-          "url": "https://open.spotify.com/artist/3hp2apilKCFSad2nh0I50s"
-        }
-      ],
-      "duration_ms": 148148,
-      "name": "La f\u00eate",
-      "url": "https://open.spotify.com/track/5Qw51GBTb1kkFuGO9otYdZ"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -811,22 +827,6 @@
       "duration_ms": 150012,
       "name": "\u00c7a change quoi ?",
       "url": "https://open.spotify.com/track/6QP7dckt9M2kEqNBRW3hfq"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Le oui de trop",
-        "url": "https://open.spotify.com/album/0QeRyd738esLR0TzLAOybQ"
-      },
-      "artists": [
-        {
-          "name": "Hermance",
-          "url": "https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Le oui de trop",
-      "url": "https://open.spotify.com/track/5ScGdXCeK36i7hQKGzei4D"
     }
   ],
   "unique_name": "Exception Fran\u00e7aise",

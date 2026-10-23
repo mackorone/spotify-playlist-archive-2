@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Ghostly Kisses
 
-1,058 songs - 2 day 6 hr 55 min
+1,060 songs - 2 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [evol](https://open.spotify.com/track/5mkCV8UG383wuemgDlnjox) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [evol](https://open.spotify.com/album/7H5KfdNYI0gbx9tCopNxDm) | 2:55 | 2021-06-25 | 2022-04-21 |
 | [F Me Up](https://open.spotify.com/track/2JYi2u5L41fJXWKMndNTdM) | [Swaine Delgado](https://open.spotify.com/artist/1RZtEnSRJblsLRzGNrCGof) | [Brushed](https://open.spotify.com/album/6UU7BKNaT1ycJKwYcatLny) | 3:03 | 2021-05-05 | 2021-05-26 |
 | [Face](https://open.spotify.com/track/4adUFO0GaeoZfdhdtj9RNZ) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [Face](https://open.spotify.com/album/3zzOvx0cCLS6z2M2iKj57F) | 3:22 | 2022-03-04 | 2022-04-15 |
+| [FACELESS](https://open.spotify.com/track/6gtMZS1wq2kcY3nRwsdEdT) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [FACELESS](https://open.spotify.com/album/3OgQav5tMYu9HPGZsNzx4R) | 3:04 | 2026-10-23 |  |
 | [Fade](https://open.spotify.com/track/379l1z7kKcBLeTy2FZDZIl) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Fade](https://open.spotify.com/album/67u1oJaWazSJH7Wq4lopqX) | 2:15 | 2026-02-27 | 2026-06-28 |
 | [Fade to Blue](https://open.spotify.com/track/6K2Q0NUFDTtHvAbCeqmNJo) | [STEPHAN](https://open.spotify.com/artist/5nactm2CY1y393GPVUzKOY) | [Summer Solstice](https://open.spotify.com/album/6CmoFMa1uKUr0DhUlAvwqo) | 2:08 | 2019-07-30\* | 2019-09-14 |
 | [Fairybread & Old Cartoons](https://open.spotify.com/track/2JBIRg63wxrJrGM6o09p4C) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji) | [Fairybread & Old Cartoons](https://open.spotify.com/album/0ZBaxoyYkzONrDiLtbxkVp) | 3:01 | 2024-01-12 | 2024-04-24 |
@@ -560,7 +561,7 @@
 | [Lonely](https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Long Distance](https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ) | 4:20 | 2019-08-09 | 2022-11-13 |
 | [Lonely Days](https://open.spotify.com/track/3qLqAlhe4WKDim35hYeSS9) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Lonely Days](https://open.spotify.com/album/0fotwiIbirxfzOIqBguzg4) | 4:40 | 2019-07-30\* | 2021-05-27 |
 | [Loretta](https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loretta](https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM) | 3:10 | 2021-09-17 | 2022-12-15 |
-| [Losing at Life](https://open.spotify.com/track/5eNvFQipAM17w7fVD7ZKcY) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [Losing at Life](https://open.spotify.com/album/2kLurua2JzVvVrfV3Z0daT) | 3:08 | 2026-09-25 |  |
+| [Losing at Life](https://open.spotify.com/track/5eNvFQipAM17w7fVD7ZKcY) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [Losing at Life](https://open.spotify.com/album/2kLurua2JzVvVrfV3Z0daT) | 3:08 | 2026-09-25 | 2026-10-23 |
 | [Losing You](https://open.spotify.com/track/7mjOxXnZYbGtgjyX0hqaLs) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:06 | 2019-08-01 | 2021-05-26 |
 | [lost cause](https://open.spotify.com/track/0sQc1JN9FgzSStwnnqUD1z) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [lost cause](https://open.spotify.com/album/4tTCUInR5nPJxbwyHQ5OrR) | 3:07 | 2019-08-01 | 2021-05-28 |
 | [love & doubt](https://open.spotify.com/track/7pFeq7Itvy8BM68NIu5VUZ) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [love & doubt](https://open.spotify.com/album/1EaMmtRSymGiffaNBKxIYb) | 2:55 | 2021-08-13 | 2024-04-24 |
@@ -790,7 +791,8 @@
 | [sex is good \(but have you tried\)](https://open.spotify.com/track/1Py2kWpJuFb3ga3OjWmSJM) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [sex is good \(but have you tried\)](https://open.spotify.com/album/3gjqaqdDbiveU9hALQFhwK) | 3:35 | 2021-04-30 | 2021-05-27 |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-05-24 |  |
 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 | 2021-09-10 | 2022-12-15 |
-| [Shapeshifter](https://open.spotify.com/track/45pDy6LFv6YOIeTMCPmBfv) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [Opal](https://open.spotify.com/album/5CQKgkEBcYr4NtJZzIRvcv) | 3:18 | 2026-10-16 |  |
+| [Shapeshifter](https://open.spotify.com/track/45pDy6LFv6YOIeTMCPmBfv) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [Opal](https://open.spotify.com/album/5CQKgkEBcYr4NtJZzIRvcv) | 3:18 | 2026-10-16 | 2026-10-23 |
+| [Shapeshifter](https://open.spotify.com/track/63E52izHIaZMmONzrAiXQE) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [Shapeshifter](https://open.spotify.com/album/2zHJc1o17idGVzSLfF2ueI) | 3:18 | 2026-10-23 |  |
 | [Sharpener](https://open.spotify.com/track/2aReOPqi6NjhJ8zxa0Mi2D) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sharpener](https://open.spotify.com/album/3MxrCAA1Z5FOaqdqOaiFYz) | 3:57 | 2021-06-04 | 2022-12-15 |
 | [She Likes My Style](https://open.spotify.com/track/5xlT9ftd8x7Wj7qsrBlGNg) | [Emmett Mulrooney](https://open.spotify.com/artist/5pJ2pz0jrulWmS23wiPknh) | [She Likes My Style](https://open.spotify.com/album/26PbqymykCuTWZFzsKH5re) | 3:16 | 2022-04-29 | 2022-05-04 |
 | [She Plays Bass](https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw) | 3:27 | 2019-08-29 | 2021-08-27 |

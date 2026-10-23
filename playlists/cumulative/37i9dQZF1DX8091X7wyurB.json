@@ -480,7 +480,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 398774,
       "name": "Alagbara",
       "url": "https://open.spotify.com/track/66g4fnzci8lcrbs1pYNZhR"
@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 243522,
       "name": "Chances",
       "url": "https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8"
@@ -2748,7 +2748,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 298050,
       "name": "Come Jesus Come",
       "url": "https://open.spotify.com/track/2uiIrAQPYE0zIuki6esRkg"
@@ -5353,6 +5353,28 @@
     },
     {
       "album": {
+        "name": "Glorified",
+        "url": "https://open.spotify.com/album/50NJLke2qbJYVvsaYjhTn6"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        },
+        {
+          "name": "Kaestrings",
+          "url": "https://open.spotify.com/artist/4cXRlq46eQ78HJRRIUIbDP"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1125880,
+      "name": "Glorified",
+      "url": "https://open.spotify.com/track/2CvLzpnCmSngJLwNzlcS6S"
+    },
+    {
+      "album": {
         "name": "Worthy Of Your Name (Live)",
         "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
       },
@@ -5740,7 +5762,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 392870,
       "name": "God Will Work It Out",
       "url": "https://open.spotify.com/track/5evSnRhml9lC1iYr0Oanet"
@@ -6958,7 +6980,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 410958,
       "name": "He Who Is To Come",
       "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
@@ -9715,6 +9737,24 @@
     },
     {
       "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/7jWaMT1wNb48NPNR8eFFOt"
+      },
+      "artists": [
+        {
+          "name": "Oncemore Six",
+          "url": "https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1024226,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/1CbqiEyptcXH4B6otHzdwo"
+    },
+    {
+      "album": {
         "name": "Jesus Came Down",
         "url": "https://open.spotify.com/album/2oN0LRaIJoNjowj0INq1US"
       },
@@ -9752,6 +9792,28 @@
       "duration_ms": 259024,
       "name": "JESUS I NEED YOU - live",
       "url": "https://open.spotify.com/track/2VsDpA06233gE9qalSpOqr"
+    },
+    {
+      "album": {
+        "name": "Jesus is Life (JIL)",
+        "url": "https://open.spotify.com/album/7shBQ7fCgyMPcApzz5HBu9"
+      },
+      "artists": [
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
+        },
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263810,
+      "name": "Jesus is Life (JIL)",
+      "url": "https://open.spotify.com/track/1mSEK1rRQoejMU2ckPVoXf"
     },
     {
       "album": {
@@ -11072,7 +11134,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 1005560,
       "name": "Mercy - Live",
       "url": "https://open.spotify.com/track/5j3fJAxQp4gQ53xOPRnzvA"
@@ -11382,6 +11444,28 @@
       "duration_ms": 178663,
       "name": "Mma Mma",
       "url": "https://open.spotify.com/track/4wPrrk1ugsb8u6fWRldiPm"
+    },
+    {
+      "album": {
+        "name": "Mmeli Wami (Live)",
+        "url": "https://open.spotify.com/album/1oLmCNK6KyiqtV4wIwwdE0"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Nothando Hlophe",
+          "url": "https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372506,
+      "name": "Mmeli Wami - Live",
+      "url": "https://open.spotify.com/track/7Aja0ZEVjg3L5kscHNkmTI"
     },
     {
       "album": {
@@ -13374,6 +13458,28 @@
       "duration_ms": 224001,
       "name": "Oh My Soul (Psalm 103) (with Cece Winans)",
       "url": "https://open.spotify.com/track/1MU67Dpv5XcjfMkEyFMtSv"
+    },
+    {
+      "album": {
+        "name": "Desires",
+        "url": "https://open.spotify.com/album/67973iS8JHdwcMENyMFL89"
+      },
+      "artists": [
+        {
+          "name": "James Pringle",
+          "url": "https://open.spotify.com/artist/6zkTqZtCq2WEPpDCWg7NxT"
+        },
+        {
+          "name": "Stella",
+          "url": "https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263535,
+      "name": "Oh the Blood",
+      "url": "https://open.spotify.com/track/4jllsGoYmiFXrKUv25APKn"
     },
     {
       "album": {
@@ -17104,7 +17210,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 210410,
       "name": "The Storm Is Over",
       "url": "https://open.spotify.com/track/0fX3ooA8HISS9PB63t7qcx"
@@ -17170,6 +17276,24 @@
       "duration_ms": 497625,
       "name": "Themba Lethu - Live at the Durban ICC/ 2025",
       "url": "https://open.spotify.com/track/0EAZbdLRr4ATJugP2Wg3cu"
+    },
+    {
+      "album": {
+        "name": "Then & Now African Praise Medley",
+        "url": "https://open.spotify.com/album/5ghlKAGu3dOKOsPkubwUKv"
+      },
+      "artists": [
+        {
+          "name": "Henrisoul",
+          "url": "https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 802764,
+      "name": "Then & Now African Praise Medley",
+      "url": "https://open.spotify.com/track/4zFjkyU4ZI26KSfgaoJIG1"
     },
     {
       "album": {
@@ -18928,6 +19052,28 @@
       "duration_ms": 329080,
       "name": "Who You Say I Am - Live",
       "url": "https://open.spotify.com/track/2lUgap86Pux7qAgvWzuJWs"
+    },
+    {
+      "album": {
+        "name": "With My heart (Spontaneous) [feat. Sanmi Michael]",
+        "url": "https://open.spotify.com/album/2oy6YWa74rzaaGefA5qWeE"
+      },
+      "artists": [
+        {
+          "name": "Tobi Walker",
+          "url": "https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW"
+        },
+        {
+          "name": "Sanmi Michael",
+          "url": "https://open.spotify.com/artist/1o6J4pNCDn0qzJeuPkVowk"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482266,
+      "name": "With My heart (Spontaneous) [feat. Sanmi Michael]",
+      "url": "https://open.spotify.com/track/0DtCnUad5CGWvclmEvClFJ"
     },
     {
       "album": {

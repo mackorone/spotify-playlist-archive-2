@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:3gNEIgLeknpwkNViU8WAhg\">Oceanvs Orientalis</a>' favorite tracks. Updated regularly. Curated by Oceanvs Orientalis. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 92815,
+  "num_followers": 92834,
   "original_name": "Oceanvs Orientalis' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEe/Hz3I+g/PqLdjUChVX7+tWzQ8",
+  "snapshot_id": "AAAAAPbMz0NkdfSzNYf0ggqgCmgX+ZxV",
   "tracks": [
     {
       "added_at": "2026-10-09 06:50:12",
@@ -65,6 +65,22 @@
       "url": "https://open.spotify.com/track/4ujziz3bynEJOQMPpq5kkA"
     },
     {
+      "added_at": "2026-10-22 08:12:18",
+      "album": {
+        "name": "DIRTY PRINTER",
+        "url": "https://open.spotify.com/album/7EIxRFvFMs0JW1gWEwtWdq"
+      },
+      "artists": [
+        {
+          "name": "ISA",
+          "url": "https://open.spotify.com/artist/4sYZcN9sCEHLSTRWfoqAKK"
+        }
+      ],
+      "duration_ms": 367841,
+      "name": "DIRTY PRINTER",
+      "url": "https://open.spotify.com/track/2YnVgsVvf0eg4zSkKSdWEh"
+    },
+    {
       "added_at": "2026-10-09 06:50:12",
       "album": {
         "name": "Green Pastures",
@@ -103,6 +119,34 @@
       "duration_ms": 357120,
       "name": "Water",
       "url": "https://open.spotify.com/track/3URPEusEkLVXLp2FlAqCQN"
+    },
+    {
+      "added_at": "2026-10-22 07:45:07",
+      "album": {
+        "name": "If It Kills Me",
+        "url": "https://open.spotify.com/album/3Lgdxzi8yXN4mZgbm6txwG"
+      },
+      "artists": [
+        {
+          "name": "Happier",
+          "url": "https://open.spotify.com/artist/7b6xwurAuMIAWNajdD8bQu"
+        },
+        {
+          "name": "HAPPIE",
+          "url": "https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9"
+        },
+        {
+          "name": "ulises",
+          "url": "https://open.spotify.com/artist/0YQKl0V9vgk6HeFttX1aTv"
+        },
+        {
+          "name": "PKM",
+          "url": "https://open.spotify.com/artist/5xmOuNCskJkhnlSV3Qkx3v"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "If It Kills Me",
+      "url": "https://open.spotify.com/track/6QLaFksSxR2VzgvhiNzq4k"
     },
     {
       "added_at": "2026-10-09 06:50:12",
@@ -1223,22 +1267,6 @@
     {
       "added_at": "2026-08-28 21:00:13",
       "album": {
-        "name": "Life Is A Miracle",
-        "url": "https://open.spotify.com/album/7qYvgzNzni0JD1qhomXsje"
-      },
-      "artists": [
-        {
-          "name": "Emir Kusturica & The No Smoking Orchestra",
-          "url": "https://open.spotify.com/artist/7yy1z6ahPRPKWXOp2z0CPp"
-        }
-      ],
-      "duration_ms": 88093,
-      "name": "Looking For Sabaha - 'Life Is A Miracle' Original Soundtrack",
-      "url": "https://open.spotify.com/track/4pQ1nYJx6UPpp9Cl4aYhQj"
-    },
-    {
-      "added_at": "2026-08-28 21:00:13",
-      "album": {
         "name": "Heart Pieces",
         "url": "https://open.spotify.com/album/5jMooG8upBMMsuy1ynr1dh"
       },
@@ -1823,22 +1851,6 @@
       "duration_ms": 433500,
       "name": "The Dark Sea of Awareness",
       "url": "https://open.spotify.com/track/1J5QYbZLeLPjQUIa92yMdE"
-    },
-    {
-      "added_at": "2026-08-28 21:00:13",
-      "album": {
-        "name": "Tancade",
-        "url": "https://open.spotify.com/album/3gljD9nf9Ln8RMU6P3HY9U"
-      },
-      "artists": [
-        {
-          "name": "Gaspar Claus",
-          "url": "https://open.spotify.com/artist/6KqcjBp8Xap7vzjg3IQPtk"
-        }
-      ],
-      "duration_ms": 196949,
-      "name": "Une foule",
-      "url": "https://open.spotify.com/track/7LWLVydjuu0kxBLAIfWOwy"
     }
   ],
   "unique_name": "Oceanvs Orientalis' track IDs",

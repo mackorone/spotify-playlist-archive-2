@@ -1,13 +1,29 @@
 {
-  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : TeddyBear",
-  "num_followers": 105836,
+  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : (D)Juno",
+  "num_followers": 105841,
   "original_name": "RADAR FRANCE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAka4yqXYgvh3vCAzPtTfeslUdm",
+  "snapshot_id": "AAAAAM+wS0Ia+BlzAFZsECAxmIqeZN7I",
   "tracks": [
+    {
+      "added_at": "2026-10-22 16:00:29",
+      "album": {
+        "name": "Don Junio",
+        "url": "https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV"
+      },
+      "artists": [
+        {
+          "name": " (D)Juno",
+          "url": "https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY"
+        }
+      ],
+      "duration_ms": 186772,
+      "name": "Don Junio",
+      "url": "https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy"
+    },
     {
       "added_at": "2026-10-15 22:00:15",
       "album": {
@@ -157,10 +173,10 @@
       "url": "https://open.spotify.com/track/6DSFwl1y7t1ds2zMjgxEYy"
     },
     {
-      "added_at": "2026-10-15 22:00:15",
+      "added_at": "2026-10-22 22:01:31",
       "album": {
-        "name": "Sorry I'm French",
-        "url": "https://open.spotify.com/album/3BEJ03fS6nzN8Pl5GPPKRS"
+        "name": "Comme Les Grands",
+        "url": "https://open.spotify.com/album/0E1faWHqxDFfhGk5QQLSEL"
       },
       "artists": [
         {
@@ -168,9 +184,9 @@
           "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
         }
       ],
-      "duration_ms": 158063,
-      "name": "Sorry I'm French",
-      "url": "https://open.spotify.com/track/5zp0YGDgIeSbBc8kd0su4W"
+      "duration_ms": 173489,
+      "name": "Comme Les Grands",
+      "url": "https://open.spotify.com/track/7dUSBPzL053R3aI9iCXw68"
     },
     {
       "added_at": "2026-10-15 22:00:15",
@@ -209,10 +225,10 @@
       "url": "https://open.spotify.com/track/7Fu1fTmuyFgm2V16ACSVOk"
     },
     {
-      "added_at": "2026-10-19 15:11:38",
+      "added_at": "2026-10-22 22:01:31",
       "album": {
-        "name": "BUENA ONDA",
-        "url": "https://open.spotify.com/album/0l2Rjrl8uem6Dm5J9BT8K6"
+        "name": "EXTASIAAAAA",
+        "url": "https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq"
       },
       "artists": [
         {
@@ -220,9 +236,9 @@
           "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
         }
       ],
-      "duration_ms": 196265,
-      "name": "BUENA ONDA",
-      "url": "https://open.spotify.com/track/1bg7IHZzSoBXQyPStO6i3X"
+      "duration_ms": 171776,
+      "name": "L\u00c9 TAL",
+      "url": "https://open.spotify.com/track/3jL0jnNJLEC2zUHBtILCXS"
     },
     {
       "added_at": "2026-10-15 22:00:15",
@@ -1209,20 +1225,24 @@
       "url": "https://open.spotify.com/track/4Z5VLeJ3GGcpNKt7jBxE7y"
     },
     {
-      "added_at": "2026-10-15 22:00:15",
+      "added_at": "2026-10-22 22:01:31",
       "album": {
-        "name": "No Big Deal",
-        "url": "https://open.spotify.com/album/2wUOMqXHDCLA50klefUDFU"
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr"
       },
       "artists": [
         {
           "name": "Lous and The Yakuza",
           "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        },
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 186253,
-      "name": "Good to know",
-      "url": "https://open.spotify.com/track/4ICnjvpxN0faFDplYTE5jf"
+      "duration_ms": 227000,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB"
     },
     {
       "added_at": "2026-10-15 22:00:15",

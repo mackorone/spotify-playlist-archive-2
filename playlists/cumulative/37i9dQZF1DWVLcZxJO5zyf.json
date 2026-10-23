@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: J\u00e3o",
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Pabllo Vittar",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -3131,6 +3131,28 @@
     },
     {
       "album": {
+        "name": "DIZER QUE TE AMO",
+        "url": "https://open.spotify.com/album/5iuUYb299eXzLIJ6oUeXhx"
+      },
+      "artists": [
+        {
+          "name": "David Carreira",
+          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200469,
+      "name": "DIZER QUE TE AMO",
+      "url": "https://open.spotify.com/track/02JFVYvjhf0HvEDxUHsSUT"
+    },
+    {
+      "album": {
         "name": "LIA (pt.1)",
         "url": "https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX"
       },
@@ -3574,6 +3596,28 @@
       "duration_ms": 172818,
       "name": "Eu Vou - Ao Vivo",
       "url": "https://open.spotify.com/track/48kqsCqLziLiMdV3ilhiCn"
+    },
+    {
+      "album": {
+        "name": "EXCESSO",
+        "url": "https://open.spotify.com/album/2GoENwukIY39JW4z8AMETu"
+      },
+      "artists": [
+        {
+          "name": "Gustavvo",
+          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "EXCESSO",
+      "url": "https://open.spotify.com/track/70ok96cL74jBakuoJma00C"
     },
     {
       "album": {
@@ -5834,7 +5878,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 158060,
       "name": "Menina",
       "url": "https://open.spotify.com/track/1BKs3X4E6Oc0iM3BxnzyXQ"
@@ -6922,7 +6966,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 255698,
       "name": "O Amor N\u00e3o Deixa - Ao Vivo",
       "url": "https://open.spotify.com/track/57VipZXKv5tc9OoBA8OVIA"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  luvKMI en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,153 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,147 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 7 | [YO CREO](https://open.spotify.com/track/7K2rIr7CpoHcEg8zsE6fit) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K) | [YO CREO](https://open.spotify.com/album/01uWj29V6tUg4aCtuJeGH1) | 2:28 |
 | 8 | [deliveryfood1000](https://open.spotify.com/track/7CO9KDkC67xseaQVHX0bhj) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [deliveryfood1000](https://open.spotify.com/album/56CwYTlSuxirw66u6QlTGD) | 2:14 |
 | 9 | [Strangers](https://open.spotify.com/track/1VJL1J2mvifhrw7X5DGphJ) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [Strangers](https://open.spotify.com/album/117CPMJ1uIrFxWxGISI3Tm) | 3:06 |
-| 10 | [Pilates Princess](https://open.spotify.com/track/2XcCPrtZZ3zwsoxXUA1COU) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Chans](https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG) | [Pilates Princess](https://open.spotify.com/album/4aZZn4SPgzZfDNwCYeF5O2) | 3:20 |
+| 10 | [pilates princess](https://open.spotify.com/track/2XcCPrtZZ3zwsoxXUA1COU) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [Chans](https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG) | [pilates princess](https://open.spotify.com/album/4aZZn4SPgzZfDNwCYeF5O2) | 3:20 |
 | 11 | [qué envidia me da](https://open.spotify.com/track/3ol4nWfDSJROgB83GDRTvV) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [qué envidia me da](https://open.spotify.com/album/0ARoBGh3vfy8PZ21BW2sD0) | 2:53 |
 | 12 | [Dame un besito](https://open.spotify.com/track/0aAuTTkAXh4n7Nux7GBetm) | [Querido Erick](https://open.spotify.com/artist/5LHD6YYVDxYixAaP7V5Q15) | [Caminante](https://open.spotify.com/album/4IO4wUaIK4cLXWdFtA204W) | 3:11 |
 | 13 | [Palomitas en la muela](https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [Palomitas en la muela](https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE) | 2:53 |

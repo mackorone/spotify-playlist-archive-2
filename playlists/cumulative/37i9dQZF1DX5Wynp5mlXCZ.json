@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 204521,
       "name": "CLOWN",
       "url": "https://open.spotify.com/track/4lYYNxFov9lAj5CJzi0XPL"
@@ -3785,6 +3785,24 @@
     },
     {
       "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180890,
+      "name": "missing person",
+      "url": "https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9"
+    },
+    {
+      "album": {
         "name": "Momma Song",
         "url": "https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE"
       },
@@ -5774,6 +5792,24 @@
       "duration_ms": 193350,
       "name": "Talk To Me, Zara",
       "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"
+    },
+    {
+      "album": {
+        "name": "PRESS PLAY",
+        "url": "https://open.spotify.com/album/7H0c8sfmrbAbrMjYuEvWQk"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171104,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/3bgnrHHwyYRtz3ykzAVImy"
     },
     {
       "album": {
@@ -8652,7 +8688,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 184363,
       "name": "\u041a\u0438\u043c\u043e\u0441\u044c \u0449\u0435",
       "url": "https://open.spotify.com/track/2vup3GML7B2zdblgLk3Egv"
@@ -9024,7 +9060,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 228240,
       "name": "\u041b\u044e\u0434\u0438\u043d\u0430",
       "url": "https://open.spotify.com/track/7Ai5QZHLkaQr0HJt0Z3CIH"
@@ -10654,6 +10690,24 @@
       "duration_ms": 177049,
       "name": "\u041e\u0442\u0440\u0443\u0442\u0430",
       "url": "https://open.spotify.com/track/3ihU9yoiBV3SE8qV027yXa"
+    },
+    {
+      "album": {
+        "name": "\u0414\u0438\u0441\u043a\u043e-\u0430\u043a\u0443\u043b\u0430",
+        "url": "https://open.spotify.com/album/4hPZVnzhsg12Hwbt3PyWfy"
+      },
+      "artists": [
+        {
+          "name": "KLER",
+          "url": "https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172750,
+      "name": "\u041f'\u044f\u043d\u0456\u044e \u0439 \u043f\u043b\u0430\u0447\u0443",
+      "url": "https://open.spotify.com/track/2zYibCtN414A0OQgGnExTW"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds from Asia. Cover: DYGL  (Japan)",
+  "description": "Hottest indie sounds from Asia. Cover: mpq (Indonesia)",
   "name": ".ORG",
   "tracks": [
     {
@@ -2765,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "Project Apollo",
+        "url": "https://open.spotify.com/album/1EuhwgHLu2WxD62atFR9qF"
+      },
+      "artists": [
+        {
+          "name": "brkfstblend",
+          "url": "https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261780,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4x2iQNSS8uG0UaWK9S159K"
+    },
+    {
+      "album": {
         "name": "APPLE PIE",
         "url": "https://open.spotify.com/album/5kRBx7g0FjPoZ5uO1sf5mE"
       },
@@ -3148,6 +3166,28 @@
       "duration_ms": 205932,
       "name": "away.",
       "url": "https://open.spotify.com/track/6CbW8W2qUm29j8cuqjO8qF"
+    },
+    {
+      "album": {
+        "name": "Awkward (feat. Clara Benin)",
+        "url": "https://open.spotify.com/album/6vymv9J9yfsmWf01ifmVUa"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        },
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Awkward (feat. Clara Benin)",
+      "url": "https://open.spotify.com/track/7INbWiQ3aKYACHdVbu0yzv"
     },
     {
       "album": {
@@ -4142,6 +4182,24 @@
       "duration_ms": 132231,
       "name": "Being Productive",
       "url": "https://open.spotify.com/track/5RLXH2ZJRmHZXX4BkIgTx5"
+    },
+    {
+      "album": {
+        "name": "SAYANG",
+        "url": "https://open.spotify.com/album/1g1Yn17OV41ulJOeiemUT4"
+      },
+      "artists": [
+        {
+          "name": "Maseta",
+          "url": "https://open.spotify.com/artist/7BcNm58gfM6re7QMPFqlo6"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183462,
+      "name": "Belati",
+      "url": "https://open.spotify.com/track/5BbXhV5i1TWOGPEiObqdNZ"
     },
     {
       "album": {
@@ -11849,6 +11907,24 @@
     },
     {
       "album": {
+        "name": "Dignified Losers",
+        "url": "https://open.spotify.com/album/6BHmxbVvc5hTLs0GtTLyJG"
+      },
+      "artists": [
+        {
+          "name": "mpq",
+          "url": "https://open.spotify.com/artist/50lYR3K96QJ3DyOHJr3Fom"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203632,
+      "name": "East & West",
+      "url": "https://open.spotify.com/track/5RLIY7Jnl1wqIAaeRYVdLr"
+    },
+    {
+      "album": {
         "name": "Easy Lighter",
         "url": "https://open.spotify.com/album/0kAocczsJutXrc6QWMjYH6"
       },
@@ -18672,7 +18748,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 239967,
       "name": "how do i even try?",
       "url": "https://open.spotify.com/track/118Sytgc76K30IBHz7cYIs"
@@ -19130,7 +19206,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 196500,
       "name": "I Do",
       "url": "https://open.spotify.com/track/1rV20wZJggKsSNT04bhwI3"
@@ -19940,7 +20016,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 227872,
       "name": "I Wanted It To Be You",
       "url": "https://open.spotify.com/track/64xexyVUsOlOKKc5w1JWxb"
@@ -23188,7 +23264,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 212375,
       "name": "Lagu Selepas Hujan",
       "url": "https://open.spotify.com/track/5DcsPJ5VVz8V8YoLVO2T05"
@@ -26415,6 +26491,24 @@
     },
     {
       "album": {
+        "name": "meet me in my head",
+        "url": "https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223898,
+      "name": "meaning",
+      "url": "https://open.spotify.com/track/6g6eMO4BoBBDiuTqzhJXcw"
+    },
+    {
+      "album": {
         "name": "meaning",
         "url": "https://open.spotify.com/album/1eNXkTH3nkNUcWbacD6zyW"
       },
@@ -27804,7 +27898,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 310085,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/269MiEVU1Dyc6eUQU1PuiS"
@@ -33333,6 +33427,24 @@
     },
     {
       "album": {
+        "name": "PRETTY GIRLS ROCK THE WORLD!!!",
+        "url": "https://open.spotify.com/album/4osTq2XePdIpYi4aq3hwIx"
+      },
+      "artists": [
+        {
+          "name": "SONG NING",
+          "url": "https://open.spotify.com/artist/0HSetAKLsr5qfFODMMZUvo"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147931,
+      "name": "PRETTY GIRLS ROCK THE WORLD!!!",
+      "url": "https://open.spotify.com/track/0ZHEGJ54XVo4ukE0s5DPST"
+    },
+    {
+      "album": {
         "name": "Pretty Things (Bdrmm Remix)",
         "url": "https://open.spotify.com/album/64ZeSEmLfgv41rFQ2TZrR0"
       },
@@ -34442,7 +34554,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 231000,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/0gg8kcpS6VITZGXGzYWE6A"
@@ -35643,6 +35755,24 @@
     },
     {
       "album": {
+        "name": "P\u2018I\u2019CTUS",
+        "url": "https://open.spotify.com/album/1pOY4nAT1zdEzgwklKNcoj"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "SALTARE",
+      "url": "https://open.spotify.com/track/2g6ZL3rolmHp260ai5aAwC"
+    },
+    {
+      "album": {
         "name": "SALTARE",
         "url": "https://open.spotify.com/album/2lmDFg8jSd0oNRNOnKBraV"
       },
@@ -36118,7 +36248,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 178621,
       "name": "Sea Glass",
       "url": "https://open.spotify.com/track/2u883GiP4G01Qaj1uIX0et"
@@ -38126,7 +38256,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 182118,
       "name": "Someplace Sometime Somehow",
       "url": "https://open.spotify.com/track/5XPm9MaJ9hlcfXURHANyIT"
@@ -39741,6 +39871,24 @@
     },
     {
       "album": {
+        "name": "Summer Lover",
+        "url": "https://open.spotify.com/album/6M29vMu4zuBbftfHKhz1sE"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170642,
+      "name": "Summer Lover",
+      "url": "https://open.spotify.com/track/1Gilsz4XzppcaOFkIWIdL1"
+    },
+    {
+      "album": {
         "name": "Same Old/Same New",
         "url": "https://open.spotify.com/album/2J74cXqTgYBd2aqTFmD4ji"
       },
@@ -41174,7 +41322,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 161000,
       "name": "talks don't lie",
       "url": "https://open.spotify.com/track/5KF2ZAYkQUfSjiXNyJsAU0"
@@ -42702,7 +42850,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 202080,
       "name": "This and That",
       "url": "https://open.spotify.com/track/13c64od8WGLypIJIlTivOM"
@@ -42832,7 +42980,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 200506,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2qrPeKl4TdVBlwMGaOagbG"
@@ -48405,6 +48553,24 @@
     },
     {
       "album": {
+        "name": "Mangsangrok",
+        "url": "https://open.spotify.com/album/5EVU1kPrqbogDPEqTRRZsU"
+      },
+      "artists": [
+        {
+          "name": "Wonjin",
+          "url": "https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Yuranga",
+      "url": "https://open.spotify.com/track/26oKdWzutBsJWGS3GIwXdr"
+    },
+    {
+      "album": {
         "name": "Y\u00eau Nh\u1ea5t",
         "url": "https://open.spotify.com/album/31sXIpSQbyU0OcIEHXCMBF"
       },
@@ -50492,6 +50658,24 @@
       "duration_ms": 240765,
       "name": "\u30cf\u30a4\u30a6\u30a7\u30a4",
       "url": "https://open.spotify.com/track/5wHYhnEjPyqlsHuzW6vCeK"
+    },
+    {
+      "album": {
+        "name": "Passion Tours",
+        "url": "https://open.spotify.com/album/5EQGqEvNwA29T9Y3sw8xkL"
+      },
+      "artists": [
+        {
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428573,
+      "name": "\u30cf\u30a4\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/4Eqr46LKqwPKndMDiibrH0"
     },
     {
       "album": {
@@ -53992,6 +54176,24 @@
       "duration_ms": 187904,
       "name": "\u8acb\u4f60\u96e2\u958b",
       "url": "https://open.spotify.com/track/2ObQBIEZqWlpjHOCIquJpc"
+    },
+    {
+      "album": {
+        "name": "\u8ca1\u5bcc",
+        "url": "https://open.spotify.com/album/4Fn2GsF5C20d6jLuasdnJf"
+      },
+      "artists": [
+        {
+          "name": "\u6211\u662f\u6a5f\u8eca\u5c11\u5973",
+          "url": "https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233522,
+      "name": "\u8ca1\u5bcc",
+      "url": "https://open.spotify.com/track/371wnydrO4YGQQn6Xoez05"
     },
     {
       "album": {

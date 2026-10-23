@@ -1,44 +1,28 @@
 {
-  "description": "De nieuwste Hollands & Volkspop. Cover: JANEY",
-  "num_followers": 156701,
+  "description": "De nieuwste Hollands & Volkspop. Cover: Jan Smit",
+  "num_followers": 156693,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANHXTWFKpUG5kBRP2mNYIkSy5LXZ",
+  "snapshot_id": "AAAAADJ7z9TpVx0FvRITWIhKjwTD6E7X",
   "tracks": [
     {
-      "added_at": "2026-10-15 22:00:27",
+      "added_at": "2026-10-22 22:01:37",
       "album": {
-        "name": "Klootzak",
-        "url": "https://open.spotify.com/album/0y3c0J3WfbamdJDjkOzAXa"
+        "name": "Totdat De Wereld Naar Je Lacht",
+        "url": "https://open.spotify.com/album/0JQ8R38mWUnF8X7ggahku6"
       },
       "artists": [
         {
-          "name": "JANEY",
-          "url": "https://open.spotify.com/artist/173RaTzsGfsppxsy70QxhN"
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
         }
       ],
-      "duration_ms": 140412,
-      "name": "Klootzak",
-      "url": "https://open.spotify.com/track/3uEU0UV8r09QwkofJd2hy8"
-    },
-    {
-      "added_at": "2026-10-15 22:00:27",
-      "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/4dr6QMEKIgNSUG6w4KPko1"
-      },
-      "artists": [
-        {
-          "name": "Pascal Redeker",
-          "url": "https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub"
-        }
-      ],
-      "duration_ms": 186897,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/3sKhhYulE7P91aQbse7slm"
+      "duration_ms": 166250,
+      "name": "Totdat De Wereld Naar Je Lacht",
+      "url": "https://open.spotify.com/track/60Hz4daid6le3wTmdpu2fX"
     },
     {
       "added_at": "2026-10-15 22:00:27",
@@ -59,18 +43,18 @@
     {
       "added_at": "2026-10-15 22:00:27",
       "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/3alD7DzwO5fygXFsrkz6wG"
+        "name": "Klootzak",
+        "url": "https://open.spotify.com/album/0y3c0J3WfbamdJDjkOzAXa"
       },
       "artists": [
         {
-          "name": "Britt & Tess",
-          "url": "https://open.spotify.com/artist/3fWJPydKtdyrDl81eJPKa6"
+          "name": "JANEY",
+          "url": "https://open.spotify.com/artist/173RaTzsGfsppxsy70QxhN"
         }
       ],
-      "duration_ms": 185801,
-      "name": "112",
-      "url": "https://open.spotify.com/track/2HdCbn8TsRzAq1aTQZhUav"
+      "duration_ms": 140412,
+      "name": "Klootzak",
+      "url": "https://open.spotify.com/track/3uEU0UV8r09QwkofJd2hy8"
     },
     {
       "added_at": "2026-10-15 22:00:27",
@@ -91,18 +75,82 @@
     {
       "added_at": "2026-10-15 22:00:27",
       "album": {
-        "name": "Valse Start",
-        "url": "https://open.spotify.com/album/6XrOfwMzOUBAl7y15W8tnF"
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/4dr6QMEKIgNSUG6w4KPko1"
       },
       "artists": [
         {
-          "name": "Gino Schallenberg",
-          "url": "https://open.spotify.com/artist/5c1NHu3IKuHYlW3gtVnTFp"
+          "name": "Pascal Redeker",
+          "url": "https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub"
         }
       ],
-      "duration_ms": 148814,
-      "name": "Valse Start",
-      "url": "https://open.spotify.com/track/1jemmXmlgoQOXsHyGyb5DM"
+      "duration_ms": 186897,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/3sKhhYulE7P91aQbse7slm"
+    },
+    {
+      "added_at": "2026-10-22 22:01:37",
+      "album": {
+        "name": "Ik Ga Weer Met de Vlam in de Pijp",
+        "url": "https://open.spotify.com/album/7lfkxrlgTpm4TzOItgPag9"
+      },
+      "artists": [
+        {
+          "name": "Henk Wijngaard",
+          "url": "https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Ik Ga Weer Met de Vlam in de Pijp",
+      "url": "https://open.spotify.com/track/2Ik8GTNn7pJXVRuZvmdqqR"
+    },
+    {
+      "added_at": "2026-10-15 22:00:27",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/3alD7DzwO5fygXFsrkz6wG"
+      },
+      "artists": [
+        {
+          "name": "Britt & Tess",
+          "url": "https://open.spotify.com/artist/3fWJPydKtdyrDl81eJPKa6"
+        }
+      ],
+      "duration_ms": 185801,
+      "name": "112",
+      "url": "https://open.spotify.com/track/2HdCbn8TsRzAq1aTQZhUav"
+    },
+    {
+      "added_at": "2026-10-22 22:01:37",
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/6P7lrELyFnQD7QquzPVhpx"
+      },
+      "artists": [
+        {
+          "name": "Chicco",
+          "url": "https://open.spotify.com/artist/2xH3vTSU0GizfUrgYMauZb"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/6fnXhJWf8b7SChzFCi2V7Q"
+    },
+    {
+      "added_at": "2026-10-15 22:00:27",
+      "album": {
+        "name": "Als Die Gratis Is",
+        "url": "https://open.spotify.com/album/14pxpnp7ojRHEs2HePNahe"
+      },
+      "artists": [
+        {
+          "name": "Sidney Jr",
+          "url": "https://open.spotify.com/artist/2pyu7WTYovCZ6OKb1InFM6"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Als Die Gratis Is",
+      "url": "https://open.spotify.com/track/4Ivd5ighhu4bUzPNs2VOzu"
     },
     {
       "added_at": "2026-10-15 22:00:27",
@@ -119,6 +167,22 @@
       "duration_ms": 179531,
       "name": "Lijn 10",
       "url": "https://open.spotify.com/track/2j8ALZQX5tK73UVzXLMRUs"
+    },
+    {
+      "added_at": "2026-10-15 22:00:27",
+      "album": {
+        "name": "Valse Start",
+        "url": "https://open.spotify.com/album/6XrOfwMzOUBAl7y15W8tnF"
+      },
+      "artists": [
+        {
+          "name": "Gino Schallenberg",
+          "url": "https://open.spotify.com/artist/5c1NHu3IKuHYlW3gtVnTFp"
+        }
+      ],
+      "duration_ms": 148814,
+      "name": "Valse Start",
+      "url": "https://open.spotify.com/track/1jemmXmlgoQOXsHyGyb5DM"
     },
     {
       "added_at": "2026-10-15 22:00:27",
@@ -171,6 +235,38 @@
     {
       "added_at": "2026-10-15 22:00:27",
       "album": {
+        "name": "Pak Wat Je Pakken Kan",
+        "url": "https://open.spotify.com/album/24IjUusnVdooVhOmusjoWC"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Verbrugge",
+          "url": "https://open.spotify.com/artist/2tYVaEnYnRjaR6cEeL7HXn"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "Pak Wat Je Pakken Kan",
+      "url": "https://open.spotify.com/track/5MoUUAJ6JTyGTm4sU3TzMp"
+    },
+    {
+      "added_at": "2026-10-22 22:01:37",
+      "album": {
+        "name": "Amarillo",
+        "url": "https://open.spotify.com/album/1XLgsHDoyPju3itFfsdKiH"
+      },
+      "artists": [
+        {
+          "name": "Jurgen Geers",
+          "url": "https://open.spotify.com/artist/2JN04M6UtYdHKtN4G1LBM7"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Amarillo",
+      "url": "https://open.spotify.com/track/1wrQccu69oY8PujdEeW9nM"
+    },
+    {
+      "added_at": "2026-10-15 22:00:27",
+      "album": {
         "name": "Vallen & Opstaan",
         "url": "https://open.spotify.com/album/5aJEJMgEAJEghoEl9ZTDRe"
       },
@@ -207,22 +303,6 @@
     {
       "added_at": "2026-10-15 22:00:27",
       "album": {
-        "name": "Als Die Gratis Is",
-        "url": "https://open.spotify.com/album/14pxpnp7ojRHEs2HePNahe"
-      },
-      "artists": [
-        {
-          "name": "Sidney Jr",
-          "url": "https://open.spotify.com/artist/2pyu7WTYovCZ6OKb1InFM6"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Als Die Gratis Is",
-      "url": "https://open.spotify.com/track/4Ivd5ighhu4bUzPNs2VOzu"
-    },
-    {
-      "added_at": "2026-10-15 22:00:27",
-      "album": {
         "name": "Niks Aan De Hand Dag",
         "url": "https://open.spotify.com/album/6wAoaeJQ82uXN0QBHVOZ9j"
       },
@@ -235,22 +315,6 @@
       "duration_ms": 160778,
       "name": "Niks Aan De Hand Dag",
       "url": "https://open.spotify.com/track/1e1n10ufGpD0djFh0h3T78"
-    },
-    {
-      "added_at": "2026-10-15 22:00:27",
-      "album": {
-        "name": "Pak Wat Je Pakken Kan",
-        "url": "https://open.spotify.com/album/24IjUusnVdooVhOmusjoWC"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Verbrugge",
-          "url": "https://open.spotify.com/artist/2tYVaEnYnRjaR6cEeL7HXn"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "Pak Wat Je Pakken Kan",
-      "url": "https://open.spotify.com/track/5MoUUAJ6JTyGTm4sU3TzMp"
     },
     {
       "added_at": "2026-10-15 22:00:27",
@@ -1459,26 +1523,6 @@
     {
       "added_at": "2026-10-15 22:00:27",
       "album": {
-        "name": "Fissaman's Friend",
-        "url": "https://open.spotify.com/album/01rR0r7etBk96z86dkwOXk"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "Fissaman\u2019s Friend",
-      "url": "https://open.spotify.com/track/3tvMPPSySL0hqIPRk5Exwq"
-    },
-    {
-      "added_at": "2026-10-15 22:00:27",
-      "album": {
         "name": "Ik Dans Altijd Door Het Leven",
         "url": "https://open.spotify.com/album/4qFKJNNtRtGBya3jM5sP3t"
       },
@@ -1531,34 +1575,6 @@
     {
       "added_at": "2026-10-15 22:00:27",
       "album": {
-        "name": "Cheerio Summer Mix",
-        "url": "https://open.spotify.com/album/7mkZQYGBJa1LMWFjnRrZrl"
-      },
-      "artists": [
-        {
-          "name": "DJ Larita",
-          "url": "https://open.spotify.com/artist/73BcfubAabKdfcR0WpxbAg"
-        },
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Carmell",
-          "url": "https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse"
-        },
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        }
-      ],
-      "duration_ms": 121512,
-      "name": "Cheerio Summer Mix",
-      "url": "https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn"
-    },
-    {
-      "added_at": "2026-10-15 22:00:27",
-      "album": {
         "name": "Niet Naar Huis",
         "url": "https://open.spotify.com/album/5dnGno5uQ18Y1StP7oCMWT"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 161492,
       "name": "Niet Naar Huis",
       "url": "https://open.spotify.com/track/2VHZrsSSLNvnfqUO2qt6sC"
-    },
-    {
-      "added_at": "2026-10-15 22:00:27",
-      "album": {
-        "name": "Tinto de Verano",
-        "url": "https://open.spotify.com/album/4nRx85n55feU3DcUj6rJ0p"
-      },
-      "artists": [
-        {
-          "name": "Joey Nicolay",
-          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
-        }
-      ],
-      "duration_ms": 146769,
-      "name": "Tinto de Verano",
-      "url": "https://open.spotify.com/track/6jG5fEJ1UEznTOpbV2y6ZP"
     },
     {
       "added_at": "2026-10-15 22:00:27",
@@ -1639,46 +1639,6 @@
     {
       "added_at": "2026-10-15 22:00:27",
       "album": {
-        "name": "Vuurwerk",
-        "url": "https://open.spotify.com/album/6Q3K5puUGxM4OChACZbBPf"
-      },
-      "artists": [
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
-        },
-        {
-          "name": "Sven Versteeg",
-          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Vuurwerk",
-      "url": "https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh"
-    },
-    {
-      "added_at": "2026-10-15 22:00:27",
-      "album": {
-        "name": "Vamos",
-        "url": "https://open.spotify.com/album/3VFLOwzSK9dJwJcyAkWPL1"
-      },
-      "artists": [
-        {
-          "name": "Tommy Costa",
-          "url": "https://open.spotify.com/artist/0bWS5y3DvLEICPEdHWDJQ5"
-        },
-        {
-          "name": "Lange Frans",
-          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
-        }
-      ],
-      "duration_ms": 188758,
-      "name": "Vamos",
-      "url": "https://open.spotify.com/track/7lDR3jmyiy63sKfkI21s9Q"
-    },
-    {
-      "added_at": "2026-10-15 22:00:27",
-      "album": {
         "name": "Chica Chica",
         "url": "https://open.spotify.com/album/7yor7A4dAQaGcahXYldcI5"
       },
@@ -1695,22 +1655,6 @@
     {
       "added_at": "2026-10-15 22:00:27",
       "album": {
-        "name": "Kermis",
-        "url": "https://open.spotify.com/album/2IawotGNvQvnrtyScbaDMY"
-      },
-      "artists": [
-        {
-          "name": "Tom Haver",
-          "url": "https://open.spotify.com/artist/3bpto27j3QXb2vRPFEVDTK"
-        }
-      ],
-      "duration_ms": 139144,
-      "name": "Kermis",
-      "url": "https://open.spotify.com/track/3GjAlsTyT7yUfVGM2DQxfV"
-    },
-    {
-      "added_at": "2026-10-15 22:00:27",
-      "album": {
         "name": "Samen",
         "url": "https://open.spotify.com/album/3KEpAkhgGb4DOqQF2lYvHD"
       },
@@ -1723,38 +1667,6 @@
       "duration_ms": 179655,
       "name": "Samen",
       "url": "https://open.spotify.com/track/2yb1hHKvHhzhU6tKg0Ut3D"
-    },
-    {
-      "added_at": "2026-10-15 22:00:27",
-      "album": {
-        "name": "Ouder Word",
-        "url": "https://open.spotify.com/album/2DrMMDwhWi4iyEJcG3Sr0K"
-      },
-      "artists": [
-        {
-          "name": "Kafke",
-          "url": "https://open.spotify.com/artist/0nC1zkioNJaPntz8XAeLx9"
-        }
-      ],
-      "duration_ms": 146766,
-      "name": "Ouder Word",
-      "url": "https://open.spotify.com/track/0woSSr7ZRt6sAJorMQc4j0"
-    },
-    {
-      "added_at": "2026-10-15 22:00:27",
-      "album": {
-        "name": "Misschien Is Het Tijd",
-        "url": "https://open.spotify.com/album/4SyQopHqsRexQCsxaADSRa"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 177169,
-      "name": "Misschien Is Het Tijd",
-      "url": "https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm"
     }
   ],
   "unique_name": "Liever Hollands",

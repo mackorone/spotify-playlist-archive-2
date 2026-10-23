@@ -1,12 +1,12 @@
 {
   "description": "Este Flow tiene otro Flow. Foto: AK 4:20 & Benja Valencia",
-  "num_followers": 552311,
+  "num_followers": 552293,
   "original_name": "Reggaet\u00f3n Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFY4UlhAhhyeO92IB73I6uev3qXx",
+  "snapshot_id": "AAAAABDQd8lEWg3URAtW4jWz5JA8gjIr",
   "tracks": [
     {
       "added_at": "2026-10-09 20:09:15",
@@ -185,6 +185,22 @@
       "url": "https://open.spotify.com/track/7p0wRA3KGvEGXTSlzGBemN"
     },
     {
+      "added_at": "2026-10-23 03:00:41",
+      "album": {
+        "name": "Corte Estelar",
+        "url": "https://open.spotify.com/album/7z6mFzlSyODD1NKztPGG5z"
+      },
+      "artists": [
+        {
+          "name": "benjitalkapone",
+          "url": "https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4"
+        }
+      ],
+      "duration_ms": 120835,
+      "name": "Corte Estelar",
+      "url": "https://open.spotify.com/track/2iUq7EBaMQuKvAsClyivea"
+    },
+    {
       "added_at": "2026-10-09 20:09:15",
       "album": {
         "name": "No Me Suman",
@@ -199,6 +215,26 @@
       "duration_ms": 158859,
       "name": "No Me Suman",
       "url": "https://open.spotify.com/track/23M9h0b9WvF3NC9ZgT0qB4"
+    },
+    {
+      "added_at": "2026-10-23 03:00:41",
+      "album": {
+        "name": "En Mi Alcoba",
+        "url": "https://open.spotify.com/album/2gPRFlZg3Dw8xTn9U9wlD1"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        }
+      ],
+      "duration_ms": 188131,
+      "name": "En Mi Alcoba",
+      "url": "https://open.spotify.com/track/1ZINYFPUu5k5ghVQ4p3xOM"
     },
     {
       "added_at": "2026-10-09 20:09:15",
@@ -219,6 +255,30 @@
       "duration_ms": 151250,
       "name": "Cheetah House",
       "url": "https://open.spotify.com/track/7bnftfWT4U7l0YZMmasubp"
+    },
+    {
+      "added_at": "2026-10-23 03:00:41",
+      "album": {
+        "name": "Comerte Toa",
+        "url": "https://open.spotify.com/album/5dcJcfhZSPTCj5oFcC55j5"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Corredor",
+          "url": "https://open.spotify.com/artist/1YPxccz4sOCJoVRExWRSsZ"
+        },
+        {
+          "name": "Space Records",
+          "url": "https://open.spotify.com/artist/1yMj6p5a1Qfawl5KVeRH5i"
+        }
+      ],
+      "duration_ms": 121904,
+      "name": "Comerte Toa",
+      "url": "https://open.spotify.com/track/5JfkS1WVCWpFiH0dF8xOCn"
     },
     {
       "added_at": "2026-10-09 20:09:15",
@@ -327,6 +387,22 @@
       "duration_ms": 208370,
       "name": "Pastillitas De Color",
       "url": "https://open.spotify.com/track/4UuQQZByT87tFl5k7BMBcZ"
+    },
+    {
+      "added_at": "2026-10-23 03:00:41",
+      "album": {
+        "name": "Mala Fama",
+        "url": "https://open.spotify.com/album/649ocq4LeK4j59xjuDs3D0"
+      },
+      "artists": [
+        {
+          "name": "Jossie A",
+          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/5Fo4nli9U2lzwr1hnKahrT"
     },
     {
       "added_at": "2026-10-09 20:09:15",
@@ -1003,30 +1079,6 @@
     {
       "added_at": "2026-10-09 20:09:15",
       "album": {
-        "name": "TODO KE VER",
-        "url": "https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Katteyes",
-          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
-        },
-        {
-          "name": "Mateo on the Beatz",
-          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "TODO KE VER",
-      "url": "https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy"
-    },
-    {
-      "added_at": "2026-10-09 20:09:15",
-      "album": {
         "name": "SU su SU",
         "url": "https://open.spotify.com/album/1vOC7vZNCja6RW50m297hR"
       },
@@ -1567,34 +1619,6 @@
     {
       "added_at": "2026-10-09 20:09:15",
       "album": {
-        "name": "LOS GAL\u00c1CTICOS",
-        "url": "https://open.spotify.com/album/5jhX4ZQyGLJZG40Ifrzyma"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Valdi",
-          "url": "https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK"
-        },
-        {
-          "name": "Mateo on the Beatz",
-          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
-        }
-      ],
-      "duration_ms": 195683,
-      "name": "2x1",
-      "url": "https://open.spotify.com/track/6xXLOe3aR1iN1UFj9J1Iln"
-    },
-    {
-      "added_at": "2026-10-09 20:09:15",
-      "album": {
         "name": "Que Pasar\u00eda?",
         "url": "https://open.spotify.com/album/6QpYLtwes9phqqhrbQLVkO"
       },
@@ -1615,26 +1639,6 @@
       "duration_ms": 240000,
       "name": "Que Pasar\u00eda?",
       "url": "https://open.spotify.com/track/1Qi2so8D0aguBeznAUaWGv"
-    },
-    {
-      "added_at": "2026-10-09 20:09:15",
-      "album": {
-        "name": "I'M PART",
-        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
-      },
-      "artists": [
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        },
-        {
-          "name": "Dysbit",
-          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
     },
     {
       "added_at": "2026-10-09 20:09:15",
@@ -2019,26 +2023,6 @@
       "duration_ms": 187422,
       "name": "30 Mil Pies",
       "url": "https://open.spotify.com/track/6A8ZNt71PS4PuBtxbdXV0L"
-    },
-    {
-      "added_at": "2026-10-09 20:09:15",
-      "album": {
-        "name": "En que topamo?",
-        "url": "https://open.spotify.com/album/2MKYspfeR8EM9lW7NAXgR6"
-      },
-      "artists": [
-        {
-          "name": "Jossie A",
-          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
-        },
-        {
-          "name": "l3tter",
-          "url": "https://open.spotify.com/artist/3B0n8UdEg8Eo2OMUvhrlZt"
-        }
-      ],
-      "duration_ms": 156345,
-      "name": "En que topamo?",
-      "url": "https://open.spotify.com/track/66yq3d8qMMhYzi9h53wQ5B"
     },
     {
       "added_at": "2026-10-09 20:09:15",

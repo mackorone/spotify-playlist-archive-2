@@ -4,7 +4,7 @@
 
 > 
 
-609 songs - 1 day 15 hr 20 min
+611 songs - 1 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Happy Birthday](https://open.spotify.com/track/7tS0q3y7tASvpTX2rTK1mG) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Happy Birthday](https://open.spotify.com/album/6kO3263HiKYG5gl38uN9yb) | 4:06 | 2025-03-04 | 2025-11-07 |
 | [Happy Days](https://open.spotify.com/track/5bjpTPQnLh73Tw5AoME0KL) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Happy Tears](https://open.spotify.com/album/4MHelmVR9cbC7kkbmJHJAc) | 3:47 | 2025-06-13 | 2025-09-18 |
 | [HEAD FIRST](https://open.spotify.com/track/3RvxN3fgpLakmVJTm0qNE0) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ), [Nsanshi](https://open.spotify.com/artist/2iKCXsQRyA1pq7lurLM7Id) | [CHOROPHOBIA](https://open.spotify.com/album/3Hqy5F2Bny4NmVvc40XN69) | 3:34 | 2025-09-08 | 2026-02-18 |
+| [Heartbreaker](https://open.spotify.com/track/1n7FS2Rm3ptTAOeN82ehRn) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa), [Marieme](https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD) | [Heartbreaker](https://open.spotify.com/album/2LgrHcS2vize3nhCiwzWxQ) | 4:14 | 2026-10-22 |  |
 | [Heather Park](https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Heather Park](https://open.spotify.com/album/1VKmlsq627xxebmf53jHME) | 6:01 | 2022-07-08 | 2023-02-04 |
 | [Heather Park \- salute Remix](https://open.spotify.com/track/12IXYei6KVHIXSOJIL2f8M) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Heather Park \(salute Remix\)](https://open.spotify.com/album/3sXuFwBddm8PW2y9dzpkZa) | 6:15 | 2025-01-21 | 2025-09-18 |
 | [heaven in your arms](https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [heaven in your arms](https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n) | 4:08 | 2024-11-13 | 2025-09-18 |
@@ -559,6 +560,7 @@
 | [Too Slow \(All Night\)](https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Too Slow \(All Night\)](https://open.spotify.com/album/35IN0y8EZRBW3qVEkvr8bx) | 2:51 | 2025-11-12 |  |
 | [Totem](https://open.spotify.com/track/4LgTZ7yelUcMU6B3uelSop) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Infinite Health](https://open.spotify.com/album/4MNiJe2poQied5VGfG6nBW) | 3:43 | 2024-08-30 | 2025-02-12 |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 | 2022-07-13 | 2022-09-30 |
+| [Trace me on2 u](https://open.spotify.com/track/1T649fr2klZ11hjPH5MZfC) | [Touching Ice](https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4) | [Trace me on2 u](https://open.spotify.com/album/0TKnisEIRC5QyEI2ySnlaj) | 3:01 | 2026-10-22 |  |
 | [Treetop](https://open.spotify.com/track/1ByVcp77Vftr2riEwpbyXF) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Treetop](https://open.spotify.com/album/5OT7OHLukEWenm3TntjvhS) | 4:32 | 2021-11-23 | 2022-07-13 |
 | [Troopa](https://open.spotify.com/track/0wrBjtMrRznJgK92WFsA7e) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Shimmer](https://open.spotify.com/album/5J9PhCTsvguuCAEMnxlagY) | 5:20 | 2022-10-21 | 2023-01-10 |
 | [Trouble Symphony](https://open.spotify.com/track/6hu6bSo7Vsu4iv1zKvlCxJ) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Trouble Symphony](https://open.spotify.com/album/61bRPKGMbA5rsNOZAdmLos) | 3:56 | 2024-10-09 | 2025-02-12 |

@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: عفروتو
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: ويجز
 
-504 songs - 1 day 0 hr 28 min
+506 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Msh Ha7el](https://open.spotify.com/track/225Xi790QAtTbuMfjW6fyR) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Msh Ha7el](https://open.spotify.com/album/1wGtEA66lpU9sc4vPYx3oQ) | 4:00 | 2022-05-10 | 2022-08-24 |
 | [Msh True](https://open.spotify.com/track/4e9CodHmD7W5Yh4pPo3rBH) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/7imparG5dbIP5Nt0sgb9ol) | 2:48 | 2023-12-29 | 2024-01-06 |
 | [Msh True](https://open.spotify.com/track/77HrEBy6qY1rRPrUw9OlzZ) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo](https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa) | 2:48 | 2024-01-05 | 2024-01-29 |
+| [MVP](https://open.spotify.com/track/2x4WoXZaFrGyzo5LWnkxe9) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [WW3](https://open.spotify.com/album/066dA7zgsBI76f8KHVvsfQ) | 2:57 | 2026-10-22 |  |
 | [Nane نعناع](https://open.spotify.com/track/3juSoiFBZhI9vT7l34hpNS) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Nane نعناع](https://open.spotify.com/album/41YXRUqslAGIGx9gEPlXds) | 2:44 | 2026-08-24 | 2026-09-09 |
 | [NAPALM](https://open.spotify.com/track/4EG5yjXnXCDcjBxOfKXNez) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0u5zDTS7Rj4xt7gocRJ8KO) | 2:24 | 2022-07-06 | 2022-08-24 |
 | [Narcos](https://open.spotify.com/track/3EVvQT3vvXiBHOQwbMJMEZ) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Narcos](https://open.spotify.com/album/6vXFlldjH89AZJ1uFWcAG5) | 2:52 | 2022-05-10 | 2022-11-08 |
@@ -372,6 +373,7 @@
 | [Shaklak Metday2](https://open.spotify.com/track/4O77Bi6jPFQd0cfVCI8hfu) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Shaklak Metday2](https://open.spotify.com/album/3p7p6pzKRIpYJcjQi52dus) | 2:29 | 2024-10-24 | 2025-08-03 |
 | [SHAR X KHEIR](https://open.spotify.com/track/7qWTw6jwB1a3nljQAtgIWS) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [SHAR X KHEIR](https://open.spotify.com/album/7EcOiSUdG1WiUGm6c0rQOz) | 2:13 | 2025-06-04 | 2026-05-08 |
 | [Share3 El 100](https://open.spotify.com/track/7auDtMn8PF8wvM5JIu0ndx) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Share3 El 100](https://open.spotify.com/album/0Me0fSxdj5G3vFSDtlgAZC) | 2:13 | 2023-02-23 | 2023-06-16 |
+| [Shata Matta](https://open.spotify.com/track/1QZ1wj5kETdPvmpCSy70Jo) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [AQAREB \(Deluxe Edition\)](https://open.spotify.com/album/1cL9P0veCWYrehihlmOvF0) | 3:25 | 2026-10-22 |  |
 | [SHED F TARFO](https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL) | [SHED F TARFO](https://open.spotify.com/album/6MMlotsbFacSgj8QFi1TSf) | 2:36 | 2024-04-23 | 2024-06-14 |
 | [Shhh](https://open.spotify.com/track/2urY8lQMD0G3XOMSZHhLE5) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [5 X El Wesh](https://open.spotify.com/album/00cFCDHS48GY9LlaEThN9T) | 2:59 | 2022-05-10 | 2022-06-15 |
 | [SHHHH](https://open.spotify.com/track/5jMqDJwBXQHR1V13q3YKme) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [SHHHH](https://open.spotify.com/album/6IUNaccoWcghuFLBJ8OUP6) | 1:40 | 2024-09-04 | 2024-12-07 |

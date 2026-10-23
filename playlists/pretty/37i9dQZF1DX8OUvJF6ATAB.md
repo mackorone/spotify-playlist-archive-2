@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,430 likes - 100 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,445 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 70 | [i85mixxinstrumental](https://open.spotify.com/track/1qCamZHhEUQ82dONdaCVPS) | [Material Girl](https://open.spotify.com/artist/3hS9pSM9zSNJReSXPdVeTW), [Ex Aquis](https://open.spotify.com/artist/6XABCSps56NmYPrh1D91Z3) | [i85mixx21\-22](https://open.spotify.com/album/1JS4U4rA6FbkRwZRRVL7TJ) | 5:31 |
 | 71 | [Don't Forget](https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N) | [Sharp Veins](https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2) | [Die of The Waters](https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf) | 3:06 |
 | 72 | [Understanding](https://open.spotify.com/track/2JXPq9pvPiQo2edh6ikySv) | [m.0](https://open.spotify.com/artist/1Gc6C6mp22uQYKzXAZ6bme) | [Solace](https://open.spotify.com/album/4PL0vCcUTMBli1DuLJa8ge) | 6:41 |
-| 73 | [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 |
-| 74 | [Recuerdos del Futuro](https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il) | [Ishtarka](https://open.spotify.com/artist/7uSEEZKy2idCBab9uurJlo) | [Recuerdos del Futuro](https://open.spotify.com/album/4W4z2keDvA3BSOSvabyHRU) | 3:55 |
+| 73 | [Recuerdos del Futuro](https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il) | [Ishtarka](https://open.spotify.com/artist/7uSEEZKy2idCBab9uurJlo) | [Recuerdos del Futuro](https://open.spotify.com/album/4W4z2keDvA3BSOSvabyHRU) | 3:55 |
+| 74 | [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 |
 | 75 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 |
 | 76 | [A Biochemical Cascade](https://open.spotify.com/track/4L3vsz9MxEZ5kMiT6U8Yrm) | [Yann Novak](https://open.spotify.com/artist/6OWE5QBb8V4viSlZLjJv0w) | [A Biochemical Cascade](https://open.spotify.com/album/6oeSCBHsgFScQbgtQIBcpt) | 8:34 |
 | 77 | [How A Spiral Works](https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc) | [ASUNA](https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Signals Bulletin](https://open.spotify.com/album/10FIu2uRFbl2UVZSKgaK54) | 6:25 |

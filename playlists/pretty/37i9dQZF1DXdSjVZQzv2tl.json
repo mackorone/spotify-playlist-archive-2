@@ -1,12 +1,12 @@
 {
   "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Felipe e Rodrigo",
-  "num_followers": 8052593,
+  "num_followers": 8052569,
   "original_name": "Esquenta Sertanejo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFVwFU6E66XpYOiYMcl4/sDnVRSk",
+  "snapshot_id": "AAAAAMW3KF4ohrPZp6QEgodnyekX9D+B",
   "tracks": [
     {
       "added_at": "2026-10-15 20:39:38",
@@ -115,6 +115,22 @@
     {
       "added_at": "2026-10-09 19:36:43",
       "album": {
+        "name": "Explodiuu BB - Vol.1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/27PL0Yloi9GEmEPqWU1tzX"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Higor",
+          "url": "https://open.spotify.com/artist/5VZd327ttMeMCOBfNHged8"
+        }
+      ],
+      "duration_ms": 157184,
+      "name": "Flash - Ao Vivo",
+      "url": "https://open.spotify.com/track/0gbC6996Bn22rZ6Fs1CsBS"
+    },
+    {
+      "added_at": "2026-10-09 19:36:43",
+      "album": {
         "name": "S\u00f3 Com Ela (Ao Vivo)",
         "url": "https://open.spotify.com/album/10OaDrrBULIuRBRk35NAcD"
       },
@@ -169,40 +185,24 @@
       "url": "https://open.spotify.com/track/22E5DzxkTROdxSmSz3kaIo"
     },
     {
-      "added_at": "2026-10-09 19:36:43",
+      "added_at": "2026-10-23 01:41:59",
       "album": {
-        "name": "Um Pe\u00e3o Desse",
-        "url": "https://open.spotify.com/album/43EVZuxIOSUXRtsffARn2X"
+        "name": "Ao Vivo em Goi\u00e2nia - Ep.2",
+        "url": "https://open.spotify.com/album/5cW3Mva0Gob5jJEbG157FF"
       },
       "artists": [
         {
-          "name": "CountryBeat",
-          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
         },
         {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
         }
       ],
-      "duration_ms": 127161,
-      "name": "Um Pe\u00e3o Desse",
-      "url": "https://open.spotify.com/track/1p2YiVHqQQB1ECpKiv9ZeN"
-    },
-    {
-      "added_at": "2026-10-09 19:36:43",
-      "album": {
-        "name": "Explodiuu BB - Vol.1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/27PL0Yloi9GEmEPqWU1tzX"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Higor",
-          "url": "https://open.spotify.com/artist/5VZd327ttMeMCOBfNHged8"
-        }
-      ],
-      "duration_ms": 157184,
-      "name": "Flash - Ao Vivo",
-      "url": "https://open.spotify.com/track/0gbC6996Bn22rZ6Fs1CsBS"
+      "duration_ms": 167399,
+      "name": "Nem Balancei",
+      "url": "https://open.spotify.com/track/05DdX8vwi9kiPbWr3fkeZp"
     },
     {
       "added_at": "2026-10-09 19:36:43",
@@ -219,6 +219,26 @@
       "duration_ms": 174183,
       "name": "Plano C - Ao Vivo",
       "url": "https://open.spotify.com/track/6xQwzsTwW0GFeYfADodNsc"
+    },
+    {
+      "added_at": "2026-10-23 01:41:59",
+      "album": {
+        "name": "Pared\u00e3o do Nattan (Ao Vivo Em Fortaleza)",
+        "url": "https://open.spotify.com/album/42CsFg3kxKccXG5YONxcaS"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "duration_ms": 156579,
+      "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
+      "url": "https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi"
     },
     {
       "added_at": "2026-10-09 19:36:43",
@@ -239,18 +259,38 @@
     {
       "added_at": "2026-10-09 19:36:43",
       "album": {
-        "name": "Feito \u00c0 M\u00e3o",
-        "url": "https://open.spotify.com/album/3ZqeqDoYXUEUvfdPkohMjl"
+        "name": "Voc\u00eas & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
+        "url": "https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 166666,
-      "name": "Assunto Que D\u00f3i",
-      "url": "https://open.spotify.com/track/0vKdIvvXWdvaQ2qPVchDWB"
+      "duration_ms": 160613,
+      "name": "Cadeira Cativa - Ao Vivo",
+      "url": "https://open.spotify.com/track/7gx504HCEsTgxmyPNov5Lh"
+    },
+    {
+      "added_at": "2026-10-09 19:36:43",
+      "album": {
+        "name": "Um Pe\u00e3o Desse",
+        "url": "https://open.spotify.com/album/43EVZuxIOSUXRtsffARn2X"
+      },
+      "artists": [
+        {
+          "name": "CountryBeat",
+          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 127161,
+      "name": "Um Pe\u00e3o Desse",
+      "url": "https://open.spotify.com/track/1p2YiVHqQQB1ECpKiv9ZeN"
     },
     {
       "added_at": "2026-10-09 19:36:43",
@@ -327,22 +367,6 @@
       "duration_ms": 148561,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/587Lf3LyhC8smoFnNIQtn3"
-    },
-    {
-      "added_at": "2026-10-09 19:36:43",
-      "album": {
-        "name": "Voc\u00eas & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
-        "url": "https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 160613,
-      "name": "Cadeira Cativa - Ao Vivo",
-      "url": "https://open.spotify.com/track/7gx504HCEsTgxmyPNov5Lh"
     },
     {
       "added_at": "2026-10-09 19:36:43",
@@ -471,6 +495,22 @@
       "duration_ms": 166791,
       "name": "Role Perfeito - Ao Vivo",
       "url": "https://open.spotify.com/track/0EFt56Fw8g2KzsRQ8AcNcr"
+    },
+    {
+      "added_at": "2026-10-09 19:36:43",
+      "album": {
+        "name": "Feito \u00c0 M\u00e3o",
+        "url": "https://open.spotify.com/album/3ZqeqDoYXUEUvfdPkohMjl"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Assunto Que D\u00f3i",
+      "url": "https://open.spotify.com/track/0vKdIvvXWdvaQ2qPVchDWB"
     },
     {
       "added_at": "2026-10-09 19:36:43",
@@ -751,26 +791,6 @@
     {
       "added_at": "2026-10-09 19:36:43",
       "album": {
-        "name": "Ponto Fraco (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4VPuTh6TsFFhqtbJPJgl5L"
-      },
-      "artists": [
-        {
-          "name": "Duda Bertelli",
-          "url": "https://open.spotify.com/artist/0Zuy8Df6xyPDVxstUOsHQO"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 125998,
-      "name": "Ponto Fraco - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Q6vcrKZZxLQnNjfDTDWFY"
-    },
-    {
-      "added_at": "2026-10-09 19:36:43",
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/2lmUmRXPsds8n2YU68dalX"
       },
@@ -799,6 +819,26 @@
       "duration_ms": 145491,
       "name": "OLHO MARROM - Ao Vivo em Lisboa",
       "url": "https://open.spotify.com/track/1I6TdHxz61Kf9EFje0dQvg"
+    },
+    {
+      "added_at": "2026-10-09 19:36:43",
+      "album": {
+        "name": "Ponto Fraco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4VPuTh6TsFFhqtbJPJgl5L"
+      },
+      "artists": [
+        {
+          "name": "Duda Bertelli",
+          "url": "https://open.spotify.com/artist/0Zuy8Df6xyPDVxstUOsHQO"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 125998,
+      "name": "Ponto Fraco - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Q6vcrKZZxLQnNjfDTDWFY"
     },
     {
       "added_at": "2026-10-09 19:36:43",
@@ -891,42 +931,6 @@
       "duration_ms": 126285,
       "name": "Todo Mundo Menos Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/7CIx2glE3HjBtXRrZzfowf"
-    },
-    {
-      "added_at": "2026-10-09 19:36:43",
-      "album": {
-        "name": "Feito \u00c0 M\u00e3o",
-        "url": "https://open.spotify.com/album/3ZqeqDoYXUEUvfdPkohMjl"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 146277,
-      "name": "Transa Pendente",
-      "url": "https://open.spotify.com/track/1f3IKtD2BBmy1mrVPtGYbF"
-    },
-    {
-      "added_at": "2026-10-09 19:36:43",
-      "album": {
-        "name": "ALMA - PARTE 1",
-        "url": "https://open.spotify.com/album/6MxCEhK9taTuUO6Ephm983"
-      },
-      "artists": [
-        {
-          "name": "Raffa Torres",
-          "url": "https://open.spotify.com/artist/6jncnjvxMwbLIEYDhwsGlu"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        }
-      ],
-      "duration_ms": 231057,
-      "name": "TADINHA",
-      "url": "https://open.spotify.com/track/0K7qMa0JqOIETkWmQXmQvw"
     }
   ],
   "unique_name": "Esquenta Sertanejo",

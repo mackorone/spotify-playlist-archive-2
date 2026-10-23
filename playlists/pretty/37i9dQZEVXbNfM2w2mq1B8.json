@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mmw0AAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mm2H2AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
         "name": "Voayor",
         "url": "https://open.spotify.com/album/0Kr3Hy9hooMG2I79x7UGvW"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3CMOPMTEuS7BKEPewguB5b"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
         "name": "\u041d\u0430 \u043f\u043e\u0436\u0430\u0440",
         "url": "https://open.spotify.com/album/39eWes8OoQRLSYhDp79DdC"
@@ -49,7 +49,203 @@
       "url": "https://open.spotify.com/track/0kRWgpSYzfouXapQfum4jf"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "\u041d\u0430\u043a\u0430\u0437\u0430\u043d\u0438",
+        "url": "https://open.spotify.com/album/114DIUrERZcJPT8paH4YN2"
+      },
+      "artists": [
+        {
+          "name": "Dessita",
+          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "\u041d\u0430\u043a\u0430\u0437\u0430\u043d\u0438",
+      "url": "https://open.spotify.com/track/7qhdjdPIrXccnPjzfvSWtr"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "\u041f\u0440\u0430\u0445\u043e\u0441\u043c\u0443\u043a\u0430\u0447\u043a\u0430",
+        "url": "https://open.spotify.com/album/0YlGdhKmSHh3D1Eso7rQy8"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "\u041f\u0440\u0430\u0445\u043e\u0441\u043c\u0443\u043a\u0430\u0447\u043a\u0430",
+      "url": "https://open.spotify.com/track/6c2PAUaxUBF4m4DUlR0Ls6"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "\u0418\u0433\u0440\u0430\u0447\u043a\u0430",
+        "url": "https://open.spotify.com/album/7DWfFpMpU94KPsg1j7kMo2"
+      },
+      "artists": [
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        },
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        }
+      ],
+      "duration_ms": 214482,
+      "name": "\u0418\u0433\u0440\u0430\u0447\u043a\u0430",
+      "url": "https://open.spotify.com/track/3t3WvabJwAMzeZkn2bNc4r"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "\u0412\u044a\u0440\u043a\u043e\u043b\u0430\u043a\u044a\u0442",
+        "url": "https://open.spotify.com/album/6r48njlMUEBQxdV4thWN4m"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        },
+        {
+          "name": "Dessita",
+          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
+        },
+        {
+          "name": "Mirela",
+          "url": "https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "\u0412\u044a\u0440\u043a\u043e\u043b\u0430\u043a\u044a\u0442",
+      "url": "https://open.spotify.com/track/3FsUOQOBUUigiAX4r8qNAD"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/0UQFwEDeXStw4ieM2wR7Nq"
+      },
+      "artists": [
+        {
+          "name": "Lidia",
+          "url": "https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN"
+        }
+      ],
+      "duration_ms": 190434,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/52wihuqtqPo45YtCLt3RUc"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "Notarialno zaveren",
+        "url": "https://open.spotify.com/album/6JOJoBWkGdgf1sCgtGyXjv"
+      },
+      "artists": [
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Bez chuvstva",
+      "url": "https://open.spotify.com/track/33F5ZZ9LV9gF3Vc3u8NfwD"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "BMW",
+        "url": "https://open.spotify.com/album/5me6Ch1WoMbmY2vbZg5p3P"
+      },
+      "artists": [
+        {
+          "name": "KSIOR",
+          "url": "https://open.spotify.com/artist/2NuYz10D2u4pbBUb9zVCQ6"
+        },
+        {
+          "name": "SISS",
+          "url": "https://open.spotify.com/artist/1URQKyDhNbxD42pNxdpctn"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "BMW",
+      "url": "https://open.spotify.com/track/117cR1Qm4uwOQQhp0uvD94"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "\u0411\u041e\u041c-\u0411\u041e\u041a",
+        "url": "https://open.spotify.com/album/75ALv1pn6VCh7KrmkO2PNg"
+      },
+      "artists": [
+        {
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn"
+        },
+        {
+          "name": "Tedi Aleksandrova",
+          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "\u0411\u041e\u041c-\u0411\u041e\u041a",
+      "url": "https://open.spotify.com/track/5igEXmQo4UruzPSXTAb1rn"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "\u0421\u043a\u044a\u0441\u0430\u043d\u044f\u043a",
+        "url": "https://open.spotify.com/album/709tKfziCz2ym371N7elXT"
+      },
+      "artists": [
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "\u0421\u043a\u044a\u0441\u0430\u043d\u044f\u043a",
+      "url": "https://open.spotify.com/track/75n8AlD4OLp8024wBSuqZq"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "\u041e\u0445\u0440\u0430\u043d\u0430",
+        "url": "https://open.spotify.com/album/7hWoM8gbLZqPHPyMX4Ltfi"
+      },
+      "artists": [
+        {
+          "name": "Lidia",
+          "url": "https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "\u041e\u0445\u0440\u0430\u043d\u0430",
+      "url": "https://open.spotify.com/track/6PkOUoY60U1LoXu231uz3D"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
       "album": {
         "name": "OT STAROTO",
         "url": "https://open.spotify.com/album/4ZDkJGTTGh9v4g4IvjW62V"
@@ -77,94 +273,26 @@
       "url": "https://open.spotify.com/track/1uY6bR9vlVn1ZlAlK0FoEm"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "AJ",
-        "url": "https://open.spotify.com/album/76ZRXWUswEY2Y6BB6r88yH"
+        "name": "Chuy me",
+        "url": "https://open.spotify.com/album/1OrxRpoUuXak1x8qBRFvD2"
       },
       "artists": [
         {
-          "name": "Tedi Aleksandrova",
-          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
+          "name": "Djena",
+          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
         }
       ],
-      "duration_ms": 204435,
-      "name": "AJ",
-      "url": "https://open.spotify.com/track/7ngzDY91OtjfMoixQrWJNa"
+      "duration_ms": 191666,
+      "name": "Huligan",
+      "url": "https://open.spotify.com/track/7DmFY1omu3EuBPYA31Rz3a"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "\u041d\u0430\u043a\u0430\u0437\u0430\u043d\u0438",
-        "url": "https://open.spotify.com/album/114DIUrERZcJPT8paH4YN2"
-      },
-      "artists": [
-        {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "\u041d\u0430\u043a\u0430\u0437\u0430\u043d\u0438",
-      "url": "https://open.spotify.com/track/7qhdjdPIrXccnPjzfvSWtr"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "Housewife",
-        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Housewife",
-      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "\u0411\u041e\u041c-\u0411\u041e\u041a",
-        "url": "https://open.spotify.com/album/75ALv1pn6VCh7KrmkO2PNg"
-      },
-      "artists": [
-        {
-          "name": "Konstantin",
-          "url": "https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn"
-        },
-        {
-          "name": "Tedi Aleksandrova",
-          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "\u0411\u041e\u041c-\u0411\u041e\u041a",
-      "url": "https://open.spotify.com/track/5igEXmQo4UruzPSXTAb1rn"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "\u0421\u043a\u044a\u0441\u0430\u043d\u044f\u043a",
-        "url": "https://open.spotify.com/album/709tKfziCz2ym371N7elXT"
-      },
-      "artists": [
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "\u0421\u043a\u044a\u0441\u0430\u043d\u044f\u043a",
-      "url": "https://open.spotify.com/track/75n8AlD4OLp8024wBSuqZq"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "\u041f\u0440\u0430\u0445\u043e\u0441\u043c\u0443\u043a\u0430\u0447\u043a\u0430",
-        "url": "https://open.spotify.com/album/0YlGdhKmSHh3D1Eso7rQy8"
+        "name": "\u041a\u0430\u0442\u0438\u043d\u0430\u0440\u0430",
+        "url": "https://open.spotify.com/album/4bEbNkZ4pZq1XBcx1Ho9hy"
       },
       "artists": [
         {
@@ -172,32 +300,44 @@
           "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
         }
       ],
-      "duration_ms": 198720,
-      "name": "\u041f\u0440\u0430\u0445\u043e\u0441\u043c\u0443\u043a\u0430\u0447\u043a\u0430",
-      "url": "https://open.spotify.com/track/6c2PAUaxUBF4m4DUlR0Ls6"
+      "duration_ms": 172800,
+      "name": "\u041a\u0430\u0442\u0438\u043d\u0430\u0440\u0430",
+      "url": "https://open.spotify.com/track/07semdYzIbyRJ28XhhPA7I"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "\u0418\u0433\u0440\u0430\u0447\u043a\u0430",
-        "url": "https://open.spotify.com/album/7DWfFpMpU94KPsg1j7kMo2"
+        "name": "Dobra",
+        "url": "https://open.spotify.com/album/7BlGEx5ELPOMDL3pFbIlPB"
+      },
+      "artists": [
+        {
+          "name": "MOMO RECORDS",
+          "url": "https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo"
+        }
+      ],
+      "duration_ms": 177882,
+      "name": "Dobra",
+      "url": "https://open.spotify.com/track/1RalfDqd1uLsCPSuetbVIY"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "\u0421\u0430\u043c\u0430 \u0449\u0435 \u0441\u0438 \u0433\u043e\u0432\u043e\u0440\u0438\u0448 (Remake 2026)",
+        "url": "https://open.spotify.com/album/55L4VgXxS7H3VwLJi3RHfy"
       },
       "artists": [
         {
           "name": "Djordan",
           "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        },
-        {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
         }
       ],
-      "duration_ms": 214482,
-      "name": "\u0418\u0433\u0440\u0430\u0447\u043a\u0430",
-      "url": "https://open.spotify.com/track/3t3WvabJwAMzeZkn2bNc4r"
+      "duration_ms": 214080,
+      "name": "\u0421\u0430\u043c\u0430 \u0449\u0435 \u0441\u0438 \u0433\u043e\u0432\u043e\u0440\u0438\u0448 (Remake 2026)",
+      "url": "https://open.spotify.com/track/2T18i6xJZudlyCEDyRVrjs"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
         "name": "\u0417\u0430\u0431\u0440\u0430\u043d\u0435\u043d\u0438\u0442\u0435 \u0438\u0433\u0440\u0438",
         "url": "https://open.spotify.com/album/02SmLRl8xoFXYeDKf7fyeC"
@@ -213,27 +353,7 @@
       "url": "https://open.spotify.com/track/23sidjYjCS6C2DNasaTBYv"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "BMW",
-        "url": "https://open.spotify.com/album/5me6Ch1WoMbmY2vbZg5p3P"
-      },
-      "artists": [
-        {
-          "name": "KSIOR",
-          "url": "https://open.spotify.com/artist/2NuYz10D2u4pbBUb9zVCQ6"
-        },
-        {
-          "name": "SISS",
-          "url": "https://open.spotify.com/artist/1URQKyDhNbxD42pNxdpctn"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "BMW",
-      "url": "https://open.spotify.com/track/117cR1Qm4uwOQQhp0uvD94"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
         "name": "FIRESTARTER",
         "url": "https://open.spotify.com/album/1yz28fnKHjF4Yr06M6oCep"
@@ -273,83 +393,7 @@
       "url": "https://open.spotify.com/track/6UeSC8jEhf9XmUL8EX2rni"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "\u0412\u044a\u0440\u043a\u043e\u043b\u0430\u043a\u044a\u0442",
-        "url": "https://open.spotify.com/album/6r48njlMUEBQxdV4thWN4m"
-      },
-      "artists": [
-        {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
-        },
-        {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
-        },
-        {
-          "name": "Mirela",
-          "url": "https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "\u0412\u044a\u0440\u043a\u043e\u043b\u0430\u043a\u044a\u0442",
-      "url": "https://open.spotify.com/track/3FsUOQOBUUigiAX4r8qNAD"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "\u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430",
-        "url": "https://open.spotify.com/album/755S8whjIIVPC1sdLnE08T"
-      },
-      "artists": [
-        {
-          "name": "Ivayla",
-          "url": "https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt"
-        },
-        {
-          "name": "Diona",
-          "url": "https://open.spotify.com/artist/5OyVwBuWRLl5npoif9l5sJ"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "\u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430",
-      "url": "https://open.spotify.com/track/2YL0n6M28RzmcUadbBZevV"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "Dobra",
-        "url": "https://open.spotify.com/album/7BlGEx5ELPOMDL3pFbIlPB"
-      },
-      "artists": [
-        {
-          "name": "MOMO RECORDS",
-          "url": "https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo"
-        }
-      ],
-      "duration_ms": 177882,
-      "name": "Dobra",
-      "url": "https://open.spotify.com/track/1RalfDqd1uLsCPSuetbVIY"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "\u041e\u0445\u0440\u0430\u043d\u0430",
-        "url": "https://open.spotify.com/album/7hWoM8gbLZqPHPyMX4Ltfi"
-      },
-      "artists": [
-        {
-          "name": "Lidia",
-          "url": "https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "\u041e\u0445\u0440\u0430\u043d\u0430",
-      "url": "https://open.spotify.com/track/6PkOUoY60U1LoXu231uz3D"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
         "name": "JOHN CENA",
         "url": "https://open.spotify.com/album/3wm67ADQZhnNyUGXOTwGrN"
@@ -373,39 +417,39 @@
       "url": "https://open.spotify.com/track/3XMcyRsCLVAWdIqKrSvS8Z"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "\u0421\u0430\u043c\u0430 \u0449\u0435 \u0441\u0438 \u0433\u043e\u0432\u043e\u0440\u0438\u0448 (Remake 2026)",
-        "url": "https://open.spotify.com/album/55L4VgXxS7H3VwLJi3RHfy"
+        "name": "AJ",
+        "url": "https://open.spotify.com/album/76ZRXWUswEY2Y6BB6r88yH"
       },
       "artists": [
         {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+          "name": "Tedi Aleksandrova",
+          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
         }
       ],
-      "duration_ms": 214080,
-      "name": "\u0421\u0430\u043c\u0430 \u0449\u0435 \u0441\u0438 \u0433\u043e\u0432\u043e\u0440\u0438\u0448 (Remake 2026)",
-      "url": "https://open.spotify.com/track/2T18i6xJZudlyCEDyRVrjs"
+      "duration_ms": 204435,
+      "name": "AJ",
+      "url": "https://open.spotify.com/track/7ngzDY91OtjfMoixQrWJNa"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "\u041d\u0430\u043a\u0430\u0437\u0432\u0430\u043c",
-        "url": "https://open.spotify.com/album/1V4ZihYedWTY0cUEj6B8jK"
+        "name": "\u0414\u044f\u0432\u043e\u043b \u0438 \u041a\u0440\u044a\u0441\u0442",
+        "url": "https://open.spotify.com/album/3QGQc4h5nAt0ntPdi5IaVV"
       },
       "artists": [
         {
-          "name": "Tereza",
-          "url": "https://open.spotify.com/artist/2MkgDAmkpwckUwbjWuhh6x"
+          "name": "Boni",
+          "url": "https://open.spotify.com/artist/5XJiplMBIs5bkRy3Spyrgl"
         }
       ],
-      "duration_ms": 184687,
-      "name": "\u041d\u0430\u043a\u0430\u0437\u0432\u0430\u043c",
-      "url": "https://open.spotify.com/track/5hVGgwsMo3Q67k2REgWKKD"
+      "duration_ms": 216857,
+      "name": "\u0414\u044f\u0432\u043e\u043b \u0438 \u041a\u0440\u044a\u0441\u0442",
+      "url": "https://open.spotify.com/track/70evAGw522ZMgl9Dzfbu6S"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -421,23 +465,123 @@
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "\u041a\u0430\u0442\u0438\u043d\u0430\u0440\u0430",
-        "url": "https://open.spotify.com/album/4bEbNkZ4pZq1XBcx1Ho9hy"
+        "name": "\u041d\u0430\u043a\u0430\u0437\u0432\u0430\u043c",
+        "url": "https://open.spotify.com/album/1V4ZihYedWTY0cUEj6B8jK"
+      },
+      "artists": [
+        {
+          "name": "Tereza",
+          "url": "https://open.spotify.com/artist/2MkgDAmkpwckUwbjWuhh6x"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "\u041d\u0430\u043a\u0430\u0437\u0432\u0430\u043c",
+      "url": "https://open.spotify.com/track/5hVGgwsMo3Q67k2REgWKKD"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "\u041c\u0430\u0439 \u043f\u043e\u043b\u0443\u0434\u044f\u0445",
+        "url": "https://open.spotify.com/album/5TjTfDE7PYbHbmbRw7HOI0"
       },
       "artists": [
         {
           "name": "SIMONA",
           "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
+        },
+        {
+          "name": "Ivayla",
+          "url": "https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt"
         }
       ],
-      "duration_ms": 172800,
-      "name": "\u041a\u0430\u0442\u0438\u043d\u0430\u0440\u0430",
-      "url": "https://open.spotify.com/track/07semdYzIbyRJ28XhhPA7I"
+      "duration_ms": 176923,
+      "name": "\u041c\u0430\u0439 \u043f\u043e\u043b\u0443\u0434\u044f\u0445",
+      "url": "https://open.spotify.com/track/7rpYxeb9bA0qUa4KdeIfS6"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "HA-HA",
+        "url": "https://open.spotify.com/album/51epUKH7FVTUnXVa3eSo58"
+      },
+      "artists": [
+        {
+          "name": "Dessita",
+          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
+        }
+      ],
+      "duration_ms": 185744,
+      "name": "HA-HA",
+      "url": "https://open.spotify.com/track/76v5LULysGLz5NnQnzDfmI"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "\u041a\u0435\u0448, \u043a\u0435\u0448",
+        "url": "https://open.spotify.com/album/4CSOatJNTyaSI51brM2xPc"
+      },
+      "artists": [
+        {
+          "name": "Selina",
+          "url": "https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "\u041a\u0435\u0448, \u043a\u0435\u0448",
+      "url": "https://open.spotify.com/track/2vuYIgU0KkIEAPGCPBPdh8"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "\u0422\u0440\u043e\u0445\u0430\u0440\u0438",
+        "url": "https://open.spotify.com/album/274BbOmwyj5CgTapkkjOdL"
+      },
+      "artists": [
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "\u0422\u0440\u043e\u0445\u0430\u0440\u0438",
+      "url": "https://open.spotify.com/track/1qYrzuJ2VG4VObo5OQNexY"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "Vij Kakvo",
+        "url": "https://open.spotify.com/album/6FOZ0V8nyOjTzZXmo4ri2g"
+      },
+      "artists": [
+        {
+          "name": "MALINA",
+          "url": "https://open.spotify.com/artist/2WP3SX3VogIeqpZVCh8C1k"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Vij Kakvo",
+      "url": "https://open.spotify.com/track/1BWqkdZhZbKsWg6qzFsqbp"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "\u0422\u0430\u0440\u0438\u043a\u0430\u0442",
+        "url": "https://open.spotify.com/album/2OSBqW39ap6BRHDuF3cJwS"
+      },
+      "artists": [
+        {
+          "name": "Mirela",
+          "url": "https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "\u0422\u0430\u0440\u0438\u043a\u0430\u0442",
+      "url": "https://open.spotify.com/track/2hSloAMRlwf37vFG8xeLM4"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
       "album": {
         "name": "Da ti bada korona",
         "url": "https://open.spotify.com/album/2yX7Cai8ZQl2mSJJzUjBrU"
@@ -457,183 +601,7 @@
       "url": "https://open.spotify.com/track/2IeBiKydAA3qACfbPhaxWD"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "\u0420\u043e\u043a\u043b\u044f\u0442\u0430 \u0442\u0438 \u043f\u0430\u0434\u0430",
-        "url": "https://open.spotify.com/album/21G1yBasNLkT1pjFXbMG7f"
-      },
-      "artists": [
-        {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
-        },
-        {
-          "name": "Yanitsa",
-          "url": "https://open.spotify.com/artist/3a4iT4FdFp6x0IqVTl47vR"
-        }
-      ],
-      "duration_ms": 230275,
-      "name": "\u0420\u043e\u043a\u043b\u044f\u0442\u0430 \u0442\u0438 \u043f\u0430\u0434\u0430",
-      "url": "https://open.spotify.com/track/4SAkhbT3gRgT0vMhxQnwtT"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "Vij Kakvo",
-        "url": "https://open.spotify.com/album/6FOZ0V8nyOjTzZXmo4ri2g"
-      },
-      "artists": [
-        {
-          "name": "MALINA",
-          "url": "https://open.spotify.com/artist/2WP3SX3VogIeqpZVCh8C1k"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Vij Kakvo",
-      "url": "https://open.spotify.com/track/1BWqkdZhZbKsWg6qzFsqbp"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "Notarialno zaveren",
-        "url": "https://open.spotify.com/album/6JOJoBWkGdgf1sCgtGyXjv"
-      },
-      "artists": [
-        {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Bez chuvstva",
-      "url": "https://open.spotify.com/track/33F5ZZ9LV9gF3Vc3u8NfwD"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "\u041a\u0435\u0448, \u043a\u0435\u0448",
-        "url": "https://open.spotify.com/album/4CSOatJNTyaSI51brM2xPc"
-      },
-      "artists": [
-        {
-          "name": "Selina",
-          "url": "https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "\u041a\u0435\u0448, \u043a\u0435\u0448",
-      "url": "https://open.spotify.com/track/2vuYIgU0KkIEAPGCPBPdh8"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "\u0422\u0440\u043e\u0445\u0430\u0440\u0438",
-        "url": "https://open.spotify.com/album/274BbOmwyj5CgTapkkjOdL"
-      },
-      "artists": [
-        {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "\u0422\u0440\u043e\u0445\u0430\u0440\u0438",
-      "url": "https://open.spotify.com/track/1qYrzuJ2VG4VObo5OQNexY"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "\u0422\u0430\u0440\u0438\u043a\u0430\u0442",
-        "url": "https://open.spotify.com/album/2OSBqW39ap6BRHDuF3cJwS"
-      },
-      "artists": [
-        {
-          "name": "Mirela",
-          "url": "https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "\u0422\u0430\u0440\u0438\u043a\u0430\u0442",
-      "url": "https://open.spotify.com/track/2hSloAMRlwf37vFG8xeLM4"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "Amore",
-        "url": "https://open.spotify.com/album/0UQFwEDeXStw4ieM2wR7Nq"
-      },
-      "artists": [
-        {
-          "name": "Lidia",
-          "url": "https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN"
-        }
-      ],
-      "duration_ms": 190434,
-      "name": "Amore",
-      "url": "https://open.spotify.com/track/52wihuqtqPo45YtCLt3RUc"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "\u0420\u0430\u0437\u043a\u0430\u0436\u0438 \u045d",
-        "url": "https://open.spotify.com/album/3kXgJjEq9r9ARBUxFr1nO6"
-      },
-      "artists": [
-        {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
-        }
-      ],
-      "duration_ms": 211578,
-      "name": "\u0420\u0430\u0437\u043a\u0430\u0436\u0438 \u045d",
-      "url": "https://open.spotify.com/track/21z8pee2qYV0SzbqQCb72g"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "\u0417\u0430\u043f\u0430\u043b\u0438",
-        "url": "https://open.spotify.com/album/57D0JJaFINKs47PGw02IHs"
-      },
-      "artists": [
-        {
-          "name": "Torino",
-          "url": "https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM"
-        },
-        {
-          "name": "Pashata",
-          "url": "https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF"
-        },
-        {
-          "name": "Anelia",
-          "url": "https://open.spotify.com/artist/5tUV7pEJAFzJXWbJBtTkjt"
-        }
-      ],
-      "duration_ms": 191611,
-      "name": "\u0417\u0430\u043f\u0430\u043b\u0438",
-      "url": "https://open.spotify.com/track/4xotaRvF1RlAD9AETAOhmg"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430, \u0421\u043b\u0430\u0434\u043a\u0430\u0442\u0430",
-        "url": "https://open.spotify.com/album/6u5tHklXR3bh8MPMpDPINn"
-      },
-      "artists": [
-        {
-          "name": "Tereza",
-          "url": "https://open.spotify.com/artist/2MkgDAmkpwckUwbjWuhh6x"
-        },
-        {
-          "name": "Rumen Borilov",
-          "url": "https://open.spotify.com/artist/0RU4GDjar4o0Jw6Iu9f4Yk"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430, \u0421\u043b\u0430\u0434\u043a\u0430\u0442\u0430",
-      "url": "https://open.spotify.com/track/4uibxyiAMOhxVJ17bN9lNT"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
         "name": "BATUT",
         "url": "https://open.spotify.com/album/0Phe8iwXf7qSnH7Xwyqqoc"
@@ -653,43 +621,79 @@
       "url": "https://open.spotify.com/track/0cGSVOwXOlDrPpjV2lJthP"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "Danoto kopay",
-        "url": "https://open.spotify.com/album/5VZ7ACYZjoPVerXbmtIcAt"
+        "name": "\u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430",
+        "url": "https://open.spotify.com/album/755S8whjIIVPC1sdLnE08T"
+      },
+      "artists": [
+        {
+          "name": "Ivayla",
+          "url": "https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt"
+        },
+        {
+          "name": "Diona",
+          "url": "https://open.spotify.com/artist/5OyVwBuWRLl5npoif9l5sJ"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "\u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430",
+      "url": "https://open.spotify.com/track/2YL0n6M28RzmcUadbBZevV"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "Hasta La Vista Baby",
+        "url": "https://open.spotify.com/album/5mVIlq6ApSomd23LRuXoOn"
+      },
+      "artists": [
+        {
+          "name": "Tedi Aleksandrova",
+          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
+        },
+        {
+          "name": "Silver",
+          "url": "https://open.spotify.com/artist/4XrGMiPcnaZsT4GknLHDGS"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Hasta La Vista Baby",
+      "url": "https://open.spotify.com/track/6vcgh8YJbjJc2xpxVonAUC"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "Notarialno zaveren",
+        "url": "https://open.spotify.com/album/6JOJoBWkGdgf1sCgtGyXjv"
       },
       "artists": [
         {
           "name": "Emanuela",
           "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
-        },
-        {
-          "name": "Tedi Aleksandrova",
-          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
         }
       ],
-      "duration_ms": 248215,
-      "name": "Danoto kopay",
-      "url": "https://open.spotify.com/track/1NCd6Euj3t2wiYRgPaX162"
+      "duration_ms": 222493,
+      "name": "Vinovna",
+      "url": "https://open.spotify.com/track/3rCr3GaLdvKdIaA3jJW50l"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "VASHA",
-        "url": "https://open.spotify.com/album/3ey3m8Nh0etir8m6h1l6Qr"
+        "name": "Vreme e",
+        "url": "https://open.spotify.com/album/01Xo8UbUjEmcZyB32XDgC5"
       },
       "artists": [
         {
-          "name": "Enca",
-          "url": "https://open.spotify.com/artist/6wBMW3WjTK0tQETJviyov9"
+          "name": "Boni",
+          "url": "https://open.spotify.com/artist/5XJiplMBIs5bkRy3Spyrgl"
         }
       ],
-      "duration_ms": 159081,
-      "name": "VASHA",
-      "url": "https://open.spotify.com/track/2lnSDftBnfiPRmnEjmVumR"
+      "duration_ms": 203708,
+      "name": "Vreme e",
+      "url": "https://open.spotify.com/track/3JOJCNsWThMKEeWBXWDgxI"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
         "name": "Bad Boys",
         "url": "https://open.spotify.com/album/7y1StXusceaQtsO3YCUNFe"
@@ -709,143 +713,95 @@
       "url": "https://open.spotify.com/track/5dbIBryEKXQzizXzb3MXnV"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "\u041c\u043e\u0435\u0442\u043e \u0441\u043b\u0430\u0431\u043e \u043c\u044f\u0441\u0442\u043e",
-        "url": "https://open.spotify.com/album/4wJLS5B2KmVWC6a2x6eZdg"
+        "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430, \u0421\u043b\u0430\u0434\u043a\u0430\u0442\u0430",
+        "url": "https://open.spotify.com/album/6u5tHklXR3bh8MPMpDPINn"
       },
       "artists": [
         {
-          "name": "Preslava",
-          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
-        }
-      ],
-      "duration_ms": 203624,
-      "name": "\u041c\u043e\u0435\u0442\u043e \u0441\u043b\u0430\u0431\u043e \u043c\u044f\u0441\u0442\u043e",
-      "url": "https://open.spotify.com/track/46YeHpvSWbG2pHRlMcC5Rp"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "\u041a\u0423-\u041a\u0423",
-        "url": "https://open.spotify.com/album/5tJ4cUWEqiErYLpsr0hgAC"
-      },
-      "artists": [
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "\u041a\u0423-\u041a\u0423",
-      "url": "https://open.spotify.com/track/5DhNN329T0nLSSE1mkjGmW"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "Losha",
-        "url": "https://open.spotify.com/album/46u3SKEt0gr1qfZQH5BlSF"
-      },
-      "artists": [
-        {
-          "name": "Andrea",
-          "url": "https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw"
+          "name": "Tereza",
+          "url": "https://open.spotify.com/artist/2MkgDAmkpwckUwbjWuhh6x"
         },
         {
-          "name": "Boris Dali",
-          "url": "https://open.spotify.com/artist/0YSfR255xknAvfcWPwEydx"
+          "name": "Rumen Borilov",
+          "url": "https://open.spotify.com/artist/0RU4GDjar4o0Jw6Iu9f4Yk"
         }
       ],
-      "duration_ms": 213705,
-      "name": "Edno",
-      "url": "https://open.spotify.com/track/0v2SxmB0Lu2myXHRGzMKOK"
+      "duration_ms": 197333,
+      "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430, \u0421\u043b\u0430\u0434\u043a\u0430\u0442\u0430",
+      "url": "https://open.spotify.com/track/4uibxyiAMOhxVJ17bN9lNT"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "HA-HA",
-        "url": "https://open.spotify.com/album/51epUKH7FVTUnXVa3eSo58"
+        "name": "\u0417\u0430\u0440\u044f\u0437\u0430\u043d",
+        "url": "https://open.spotify.com/album/4xiRlTZlyYNTr4elIdTkOp"
       },
       "artists": [
         {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
         }
       ],
-      "duration_ms": 185744,
-      "name": "HA-HA",
-      "url": "https://open.spotify.com/track/76v5LULysGLz5NnQnzDfmI"
+      "duration_ms": 225064,
+      "name": "\u0417\u0430\u0440\u044f\u0437\u0430\u043d",
+      "url": "https://open.spotify.com/track/3f9supfupV4i2WU5yjv41N"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "\u0414\u043e\u0431\u0440\u043e \u043c\u043e\u043c\u0447\u0435",
-        "url": "https://open.spotify.com/album/4g0MxR8h6gHyyJeNB3AuJ5"
+        "name": "Tochka za men",
+        "url": "https://open.spotify.com/album/7DB2xbWZn9cQC6w3tmD4vP"
       },
       "artists": [
         {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
+          "name": "Djulia",
+          "url": "https://open.spotify.com/artist/6KsiFFe8CENPP9DN3SRouY"
         }
       ],
-      "duration_ms": 198765,
-      "name": "\u0414\u043e\u0431\u0440\u043e \u043c\u043e\u043c\u0447\u0435",
-      "url": "https://open.spotify.com/track/1KpfzzQNYJ56vqhOXk0SEt"
+      "duration_ms": 174829,
+      "name": "Iskam ot teb",
+      "url": "https://open.spotify.com/track/2duH4aHmawCOPCayHzlLae"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "\u0426\u0435\u043b\u0443\u0432\u043a\u0430 \u0441 Tequila",
-        "url": "https://open.spotify.com/album/2gmJvWl4USCfxzk6LHz3GH"
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/1eMZPBH4JcHSDNBXeTuven"
       },
       "artists": [
         {
-          "name": "Mirela",
-          "url": "https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i"
+          "name": "KSIOR",
+          "url": "https://open.spotify.com/artist/2NuYz10D2u4pbBUb9zVCQ6"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/0L3eK2QAxN0YCRJHfFrgrp"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "\u0420\u043e\u043a\u043b\u044f\u0442\u0430 \u0442\u0438 \u043f\u0430\u0434\u0430",
+        "url": "https://open.spotify.com/album/21G1yBasNLkT1pjFXbMG7f"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
         },
         {
-          "name": "Lidia",
-          "url": "https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN"
+          "name": "Yanitsa",
+          "url": "https://open.spotify.com/artist/3a4iT4FdFp6x0IqVTl47vR"
         }
       ],
-      "duration_ms": 194000,
-      "name": "\u0426\u0435\u043b\u0443\u0432\u043a\u0430 \u0441 Tequila",
-      "url": "https://open.spotify.com/track/0DWuEaw17uIBKJVNd1ev5X"
+      "duration_ms": 230275,
+      "name": "\u0420\u043e\u043a\u043b\u044f\u0442\u0430 \u0442\u0438 \u043f\u0430\u0434\u0430",
+      "url": "https://open.spotify.com/track/4SAkhbT3gRgT0vMhxQnwtT"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "OPA OPA",
-        "url": "https://open.spotify.com/album/0ZZmC1h1GQoAQuK0DGjCod"
-      },
-      "artists": [
-        {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "OPA OPA",
-      "url": "https://open.spotify.com/track/7Lnx7UuA0rf3o8G0VtZzP5"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
-      "album": {
-        "name": "Ne te boli",
-        "url": "https://open.spotify.com/album/3FPfqeJ6ZBZSrUmHUugVRz"
-      },
-      "artists": [
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 226955,
-      "name": "Ne te boli",
-      "url": "https://open.spotify.com/track/6cAQRggud6djFvJNq2YKwO"
-    },
-    {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
         "name": "MOM4ETO & B.N.R. CLASSICS",
         "url": "https://open.spotify.com/album/3qDz35fUYM9HFgXpqCj8tD"
@@ -869,72 +825,112 @@
       "url": "https://open.spotify.com/track/1hDHWk74RPmGwgkWEHiFjU"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "\u0412\u0440\u0435\u043c\u0435\u0442\u043e \u043b\u0435\u043a\u0443\u0432\u0430",
-        "url": "https://open.spotify.com/album/4VtU0bvfeiySYWyZIsKiG0"
+        "name": "VASHA",
+        "url": "https://open.spotify.com/album/3ey3m8Nh0etir8m6h1l6Qr"
       },
       "artists": [
         {
-          "name": "Medi",
-          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+          "name": "Enca",
+          "url": "https://open.spotify.com/artist/6wBMW3WjTK0tQETJviyov9"
         }
       ],
-      "duration_ms": 217500,
-      "name": "\u0412\u0440\u0435\u043c\u0435\u0442\u043e \u043b\u0435\u043a\u0443\u0432\u0430",
-      "url": "https://open.spotify.com/track/4kuW4hHAIl9tn8LuFQbAoz"
+      "duration_ms": 159081,
+      "name": "VASHA",
+      "url": "https://open.spotify.com/track/2lnSDftBnfiPRmnEjmVumR"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "\u0425\u043e\u0442\u0435\u043b",
-        "url": "https://open.spotify.com/album/6LC1PMx50swFPqk04CiJQO"
+        "name": "\u0412\u0434\u0438\u0433\u0430 \u043c\u0443 \u0431\u0438\u0432\u0448\u0430\u0442\u0430",
+        "url": "https://open.spotify.com/album/2jz1sg31aNS943JsYNaxl6"
       },
       "artists": [
         {
-          "name": "Ivayla",
-          "url": "https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt"
-        },
-        {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+          "name": "Selina",
+          "url": "https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ"
         }
       ],
-      "duration_ms": 230123,
-      "name": "\u0425\u043e\u0442\u0435\u043b",
-      "url": "https://open.spotify.com/track/0JLwDgYbf88hOMIf3S0kqv"
+      "duration_ms": 193404,
+      "name": "\u0412\u0434\u0438\u0433\u0430 \u043c\u0443 \u0431\u0438\u0432\u0448\u0430\u0442\u0430",
+      "url": "https://open.spotify.com/track/3iiSZNHW0SScG7pvi0fIUv"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "Kasay",
-        "url": "https://open.spotify.com/album/5nS4Z3Ef0WDmhiSAWIu4ED"
+        "name": "\u0417\u043b\u043e\u0431\u0430\u0440\u0438",
+        "url": "https://open.spotify.com/album/3nBOYAjd5jb7x52nw8wxtc"
       },
       "artists": [
         {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+          "name": "Krasyo",
+          "url": "https://open.spotify.com/artist/0MpqjrVgdUO07oY6JcgTeG"
         }
       ],
-      "duration_ms": 199053,
-      "name": "Kasay",
-      "url": "https://open.spotify.com/track/4d8taEOlMp4ckG2OqxOjuW"
+      "duration_ms": 199610,
+      "name": "\u0417\u043b\u043e\u0431\u0430\u0440\u0438",
+      "url": "https://open.spotify.com/track/7G2NBshHNMyHsKknSYcLCc"
     },
     {
-      "added_at": "2026-10-21 17:54:21",
+      "added_at": "2026-10-22 16:55:25",
       "album": {
-        "name": "Papi",
-        "url": "https://open.spotify.com/album/1eMZPBH4JcHSDNBXeTuven"
+        "name": "\u0420\u0430\u0437\u043a\u0430\u0436\u0438 \u045d",
+        "url": "https://open.spotify.com/album/3kXgJjEq9r9ARBUxFr1nO6"
+      },
+      "artists": [
+        {
+          "name": "Dessita",
+          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
+        }
+      ],
+      "duration_ms": 211578,
+      "name": "\u0420\u0430\u0437\u043a\u0430\u0436\u0438 \u045d",
+      "url": "https://open.spotify.com/track/21z8pee2qYV0SzbqQCb72g"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "DJOBNO GADJE",
+        "url": "https://open.spotify.com/album/2vhl6He8gAwgdbOiylYUw2"
       },
       "artists": [
         {
           "name": "KSIOR",
           "url": "https://open.spotify.com/artist/2NuYz10D2u4pbBUb9zVCQ6"
+        },
+        {
+          "name": "SISS",
+          "url": "https://open.spotify.com/artist/1URQKyDhNbxD42pNxdpctn"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Papi",
-      "url": "https://open.spotify.com/track/0L3eK2QAxN0YCRJHfFrgrp"
+      "duration_ms": 158400,
+      "name": "DJOBNO GADJE",
+      "url": "https://open.spotify.com/track/2l3YT1dyHLUrbwUCLYqky5"
+    },
+    {
+      "added_at": "2026-10-22 16:55:25",
+      "album": {
+        "name": "Mezhdu nas",
+        "url": "https://open.spotify.com/album/2ZQKAw9j6pOXSaz8YVFtxv"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        },
+        {
+          "name": "Ani Hoang",
+          "url": "https://open.spotify.com/artist/26d0A70Fzkh2jvHSRjQULz"
+        },
+        {
+          "name": "Kristiana",
+          "url": "https://open.spotify.com/artist/2nTdiezsve9faqcdXVjW2a"
+        }
+      ],
+      "duration_ms": 285175,
+      "name": "Mezhdu nas",
+      "url": "https://open.spotify.com/track/17heWk1oi0qx7sdPsQQSWC"
     }
   ],
   "unique_name": "Top 50 - Bulgaria",

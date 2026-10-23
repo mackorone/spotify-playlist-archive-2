@@ -202,7 +202,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 144692,
       "name": "A LITTLE LESS",
       "url": "https://open.spotify.com/track/1pkDBJkJ8WOs8h27FsXVQz"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 183851,
       "name": "before you hit the water.",
       "url": "https://open.spotify.com/track/2V1sCdp5P2uLVjPiPY9GMI"
@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 159811,
       "name": "Gegenteil von Gl\u00fcck",
       "url": "https://open.spotify.com/track/6hHrfh59hQJyfxGjGtMQ0h"
@@ -3059,6 +3059,24 @@
     },
     {
       "album": {
+        "name": "Hands On Me (from the Netflix Series \"Nobody Wants This\" Season 3)",
+        "url": "https://open.spotify.com/album/2PdHMHluDWLNCyG5GUpeoT"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193538,
+      "name": "Hands On Me (from the Netflix Series \"Nobody Wants This\" Season 3)",
+      "url": "https://open.spotify.com/track/3qzc3xyTxHCvsT55a7xPGw"
+    },
+    {
+      "album": {
         "name": "Hanging Out To Dry",
         "url": "https://open.spotify.com/album/1JE6lLEIEkdpzBkWeY0Qrz"
       },
@@ -3244,6 +3262,24 @@
       "duration_ms": 141807,
       "name": "Hey Blondie (From Barbie The Album)",
       "url": "https://open.spotify.com/track/78JGdUz8IxGBaBpZo9BYKv"
+    },
+    {
+      "album": {
+        "name": "Hollywood Movie",
+        "url": "https://open.spotify.com/album/2VvUDt3a3E40TPKUnU3yBo"
+      },
+      "artists": [
+        {
+          "name": "Robinson and The Romantics",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239954,
+      "name": "Hollywood Movie",
+      "url": "https://open.spotify.com/track/661DAfQnrB6nc7K7WKUAqS"
     },
     {
       "album": {
@@ -3714,6 +3750,24 @@
       "duration_ms": 150199,
       "name": "isy",
       "url": "https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH"
+    },
+    {
+      "album": {
+        "name": "It's A New Day",
+        "url": "https://open.spotify.com/album/7D8G2Sy7jMSCga3WbZsmBy"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170009,
+      "name": "It's A New Day",
+      "url": "https://open.spotify.com/track/1sQzpB8StECTvUbAKWF8eK"
     },
     {
       "album": {
@@ -6704,7 +6758,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 187727,
       "name": "Shy Girl",
       "url": "https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N"
@@ -8160,6 +8214,24 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+    },
+    {
+      "album": {
+        "name": "Poster Child (Deluxe)",
+        "url": "https://open.spotify.com/album/3I1loqVVHFQf9qDcVl4d5P"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 14",
+      "url": "https://open.spotify.com/track/5SiRlTCiaDQ4r62m99Wij2"
     },
     {
       "album": {

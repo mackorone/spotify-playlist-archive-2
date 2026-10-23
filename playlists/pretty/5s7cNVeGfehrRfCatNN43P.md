@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Popjustice's new release playlist updated on Fridays for over a decade with one rule: best song at the top\. Here are 500\-ish songs of the week from the first ten years of New Music Friday.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,595 likes - 509 songs - 1 day 4 hr 50 min
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,594 likes - 509 songs - 1 day 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 64 | [Thinking Bout Me](https://open.spotify.com/track/2SUlt0qfsmE7lyUuSpKWcK) | [Cecily](https://open.spotify.com/artist/4wR8IGlAgXfIRFPUezlq6H) | [Thinking Bout Me](https://open.spotify.com/album/1t1LUPgT2V2ytlbNz7yNV8) | 2:56 |
 | 65 | [There For You](https://open.spotify.com/track/0f8DRqtpqQsIgns8HDq9QE) | [Eves Karydas](https://open.spotify.com/artist/7MbSdIkdgkwmVxObpCg87e) | [There For You](https://open.spotify.com/album/07jIVAPEcsktAir4A5fVdn) | 4:12 |
 | 66 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
-| 67 | [Teenage Dream Forever](https://open.spotify.com/track/53V0kTmziQW5DqaMeZKnR1) | [artsartsarts](https://open.spotify.com/artist/6iotUmIz7htFw7sP6yOOdK) | [Teenage Dream Forever](https://open.spotify.com/album/2AM5THPWttj8YLfG3dx5Vb) | 3:26 |
+| 67 | [Teenage Dream Forever \- Demo](https://open.spotify.com/track/53V0kTmziQW5DqaMeZKnR1) | [artsartsarts](https://open.spotify.com/artist/6iotUmIz7htFw7sP6yOOdK) | [Teenage Dream Forever \(Demo\)](https://open.spotify.com/album/2AM5THPWttj8YLfG3dx5Vb) | 3:26 |
 | 68 | [Tears \(feat\. Louisa Johnson\)](https://open.spotify.com/track/7py16W5fWYLFFS6BElKAjn) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Tears \(feat\. Louisa Johnson\)](https://open.spotify.com/album/5J1vKkCC6aoOGZjE7YZrHE) | 3:45 |
 | 69 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
 | 70 | [TAPED](https://open.spotify.com/track/6401OG8IAr1w6GvZaSabxQ) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [TAPED](https://open.spotify.com/album/0wJssyvoagILvsMkfr8nNL) | 3:04 |

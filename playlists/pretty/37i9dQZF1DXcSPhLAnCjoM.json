@@ -1,13 +1,29 @@
 {
-  "description": "\"\u00c9t\u00e9 avec toi\" d'Ad\u00e8le Castillon est le Grand Hit de la semaine.  ",
-  "num_followers": 1015290,
+  "description": "\"Sur la piste\" d'Eva est le Grand Hit de la semaine.  ",
+  "num_followers": 1015204,
   "original_name": "Grand Hit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK4BFz1+Sw65WsGqCBGa62lMYAwv",
+  "snapshot_id": "AAAAAArrXh6xmYtMAIT8RxtoA8ANG6PX",
   "tracks": [
+    {
+      "added_at": "2026-09-10 22:02:12",
+      "album": {
+        "name": "Sur la piste",
+        "url": "https://open.spotify.com/album/16vXhWhUZhSLmRDuljs5ui"
+      },
+      "artists": [
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+        }
+      ],
+      "duration_ms": 172725,
+      "name": "Sur la piste",
+      "url": "https://open.spotify.com/track/4bcuCoIXefyjaHK3TDe6k3"
+    },
     {
       "added_at": "2026-09-10 22:02:12",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 187320,
       "name": "\u00c9t\u00e9 avec toi",
       "url": "https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO"
-    },
-    {
-      "added_at": "2026-09-10 22:02:12",
-      "album": {
-        "name": "Le Petit P\u00eacheur",
-        "url": "https://open.spotify.com/album/1jjbImjSR9gTjqmbjTA4OB"
-      },
-      "artists": [
-        {
-          "name": "Manon Lisa",
-          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Le Petit P\u00eacheur",
-      "url": "https://open.spotify.com/track/7LBYUp2QeFNjNmfncY4DHU"
     },
     {
       "added_at": "2026-10-01 22:01:52",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-09-10 22:02:12",
       "album": {
+        "name": "Le Petit P\u00eacheur",
+        "url": "https://open.spotify.com/album/1jjbImjSR9gTjqmbjTA4OB"
+      },
+      "artists": [
+        {
+          "name": "Manon Lisa",
+          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Le Petit P\u00eacheur",
+      "url": "https://open.spotify.com/track/7LBYUp2QeFNjNmfncY4DHU"
+    },
+    {
+      "added_at": "2026-09-10 22:02:12",
+      "album": {
         "name": "Te rencontrer encore",
         "url": "https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 170000,
       "name": "Te rencontrer encore",
       "url": "https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09"
-    },
-    {
-      "added_at": "2026-09-10 22:02:12",
-      "album": {
-        "name": "Soir\u00e9e mondaine",
-        "url": "https://open.spotify.com/album/1N0b0dafqvqymgcper3K2m"
-      },
-      "artists": [
-        {
-          "name": "Oria",
-          "url": "https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Soir\u00e9e mondaine",
-      "url": "https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn"
     },
     {
       "added_at": "2026-09-10 22:02:12",
@@ -107,18 +107,18 @@
     {
       "added_at": "2026-09-10 22:02:12",
       "album": {
-        "name": "Sur la piste",
-        "url": "https://open.spotify.com/album/16vXhWhUZhSLmRDuljs5ui"
+        "name": "Soir\u00e9e mondaine",
+        "url": "https://open.spotify.com/album/1N0b0dafqvqymgcper3K2m"
       },
       "artists": [
         {
-          "name": "Eva",
-          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+          "name": "Oria",
+          "url": "https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR"
         }
       ],
-      "duration_ms": 172725,
-      "name": "Sur la piste",
-      "url": "https://open.spotify.com/track/4bcuCoIXefyjaHK3TDe6k3"
+      "duration_ms": 198000,
+      "name": "Soir\u00e9e mondaine",
+      "url": "https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn"
     },
     {
       "added_at": "2026-09-10 22:02:12",
@@ -177,6 +177,38 @@
       "url": "https://open.spotify.com/track/7vNKvKNraI2IAooZMMiBzZ"
     },
     {
+      "added_at": "2026-10-22 22:00:35",
+      "album": {
+        "name": "ADR\u00c9NALINE, LA R\u00c9\u00c9DITION",
+        "url": "https://open.spotify.com/album/1eOxvVovDuEtlCBDjdte9W"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "duration_ms": 167128,
+      "name": "\u00c9gar\u00e9",
+      "url": "https://open.spotify.com/track/0cfxcc6fEDeafzlO5yNUV4"
+    },
+    {
+      "added_at": "2026-10-01 22:01:52",
+      "album": {
+        "name": "Une seule vie",
+        "url": "https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 245606,
+      "name": "Une seule vie",
+      "url": "https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL"
+    },
+    {
       "added_at": "2026-09-10 22:02:12",
       "album": {
         "name": "Soleil",
@@ -209,22 +241,6 @@
       "url": "https://open.spotify.com/track/0IBFKh0F3jumRYg5nIwsCa"
     },
     {
-      "added_at": "2026-10-01 22:01:52",
-      "album": {
-        "name": "Une seule vie",
-        "url": "https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 245606,
-      "name": "Une seule vie",
-      "url": "https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL"
-    },
-    {
       "added_at": "2026-09-10 22:02:12",
       "album": {
         "name": "melodrama",
@@ -247,22 +263,6 @@
     {
       "added_at": "2026-09-10 22:02:12",
       "album": {
-        "name": "D'or et d'\u00e9tain",
-        "url": "https://open.spotify.com/album/6uZcxUFKGEVp2S6205r4s4"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        }
-      ],
-      "duration_ms": 196970,
-      "name": "D'or et d'\u00e9tain",
-      "url": "https://open.spotify.com/track/7CcuCgNXUWEAyKhQGwqJzf"
-    },
-    {
-      "added_at": "2026-09-10 22:02:12",
-      "album": {
         "name": "Mill\u00e9nium",
         "url": "https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot"
       },
@@ -275,6 +275,22 @@
       "duration_ms": 158544,
       "name": "Virile",
       "url": "https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb"
+    },
+    {
+      "added_at": "2026-09-10 22:02:12",
+      "album": {
+        "name": "D'or et d'\u00e9tain",
+        "url": "https://open.spotify.com/album/6uZcxUFKGEVp2S6205r4s4"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        }
+      ],
+      "duration_ms": 196970,
+      "name": "D'or et d'\u00e9tain",
+      "url": "https://open.spotify.com/track/7CcuCgNXUWEAyKhQGwqJzf"
     },
     {
       "added_at": "2026-09-17 22:02:21",
@@ -295,6 +311,22 @@
       "duration_ms": 186000,
       "name": "Jamais",
       "url": "https://open.spotify.com/track/0eldDLympvtBACN1lWAA2s"
+    },
+    {
+      "added_at": "2026-10-22 22:00:35",
+      "album": {
+        "name": "Tricheur",
+        "url": "https://open.spotify.com/album/32ZKihSHtuK9M9ZHJJdqaf"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "duration_ms": 162626,
+      "name": "Tricheur",
+      "url": "https://open.spotify.com/track/1pytJFt4mxfD4sMd6qjj6U"
     },
     {
       "added_at": "2026-09-10 22:02:12",
@@ -371,22 +403,6 @@
     {
       "added_at": "2026-09-10 22:02:12",
       "album": {
-        "name": "Coeur maladroit (Deluxe)",
-        "url": "https://open.spotify.com/album/4vMwcXo0IBEa0TsGUyw2pn"
-      },
-      "artists": [
-        {
-          "name": "Marine",
-          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
-        }
-      ],
-      "duration_ms": 176533,
-      "name": "Escroc",
-      "url": "https://open.spotify.com/track/3yYPNVUFRHwVx5Q3HINdO9"
-    },
-    {
-      "added_at": "2026-09-10 22:02:12",
-      "album": {
         "name": "Les Grands Espaces",
         "url": "https://open.spotify.com/album/4QjwSGXRmFijZvXqtXN2Wh"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 164911,
       "name": "Crash",
       "url": "https://open.spotify.com/track/02IIarJdHe8u4n0XcOEzHN"
-    },
-    {
-      "added_at": "2026-09-10 22:02:12",
-      "album": {
-        "name": "Adr\u00e9naline",
-        "url": "https://open.spotify.com/album/7uBRFkBVpOgW0Uub3qstIK"
-      },
-      "artists": [
-        {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Quand m\u00eame",
-      "url": "https://open.spotify.com/track/4V9V7lUvb6DZFCa3XwJPbc"
     },
     {
       "added_at": "2026-09-10 22:02:12",

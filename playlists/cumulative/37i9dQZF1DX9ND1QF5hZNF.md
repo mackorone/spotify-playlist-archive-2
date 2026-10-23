@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur..\. ☀️
 
-452 songs - 23 hr 9 min
+453 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Hamacadame](https://open.spotify.com/track/6LRY3cFPXnM9WXKXrKPKJr) | [Ours Samplus](https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0), [Tour De Manège](https://open.spotify.com/artist/6NgwMiz1Dwsktnn8p8yujE) | [Special Tropical](https://open.spotify.com/album/57kMxecY2JpHaDVVtq3mnH) | 2:54 | 2023-05-12 | 2023-12-02 |
 | [Haunt Me](https://open.spotify.com/track/6n4bnCklRNSw1pNh3KxrvD) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [LC Bay](https://open.spotify.com/artist/4FYn9old9wruJfXRKWWXAr), [Elsie Bay](https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE) | [Haunt Me](https://open.spotify.com/album/5DGsLixvviLZirgF4N3l9u) | 2:39 | 2026-02-06 | 2026-02-28 |
 | [Havana](https://open.spotify.com/track/2TMkbettqxII64hN78QemR) | [Sunwaves](https://open.spotify.com/artist/6KcoE2oco22TIP1YOQmgBm) | [Havana](https://open.spotify.com/album/1VPkd0jllnBLNs6GOq7474) | 2:56 | 2024-08-08 | 2025-11-15 |
-| [Haïve](https://open.spotify.com/track/5MQsyoSmKvGypaAqhYWiMC) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Haïve](https://open.spotify.com/album/3AiC8VODpkcPYaELmjvm4M) | 4:55 | 2026-09-10 |  |
+| [Haïve](https://open.spotify.com/track/5MQsyoSmKvGypaAqhYWiMC) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Haïve](https://open.spotify.com/album/3AiC8VODpkcPYaELmjvm4M) | 4:55 | 2026-09-10 | 2026-10-23 |
 | [hello](https://open.spotify.com/track/2TWUe5nUlFPlpAz1wa2xgC) | [flooww](https://open.spotify.com/artist/1sb0nFSQlTFxm99qMwVRux) | [hello](https://open.spotify.com/album/5W3f79N5K3AXzCOOlfdoCa) | 2:22 | 2024-08-29 | 2025-01-31 |
 | [Her Eyes](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by) | 3:35 | 2024-10-25 |  |
 | [Here Comes The Sun](https://open.spotify.com/track/7L3AkxTIVosuV9q251kjfC) | [TEEMID](https://open.spotify.com/artist/6zGCrS2y63IEUJfyn9Bpuc) | [Here Comes The Sun](https://open.spotify.com/album/5jJnOGvtWwesdgCChnE5Go) | 2:25 | 2023-10-05 | 2024-02-03 |
@@ -163,6 +163,7 @@
 | [Highs & Lows](https://open.spotify.com/track/2oakI4aTZTOXPjL2jy4b94) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Highs & Lows](https://open.spotify.com/album/2WltsSNLIaFLNkXwM8M2XR) | 3:04 | 2022-12-20 | 2023-05-13 |
 | [HOLD ME AGAIN](https://open.spotify.com/track/66QLKLeCligHRpQBFaCpiX) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [HOLD ME AGAIN](https://open.spotify.com/album/62bEfbGADU2KzHkvvAgqnm) | 2:28 | 2025-12-18 | 2026-03-27 |
 | [Hold You Again \(feat\. Jake Neumar\)](https://open.spotify.com/track/4XZ6NQIPZ2LwFxxuB58X4M) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Hold You Again \(feat\. Jake Neumar\)](https://open.spotify.com/album/1iGEgt9TWGSchniRI2409r) | 2:41 | 2024-12-13 | 2025-03-15 |
+| [Home Again](https://open.spotify.com/track/46dQHBYWNFtcchIzV4mucB) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [DOM](https://open.spotify.com/artist/0feQYUPVrExLO4v0S51wGP) | [Home Again](https://open.spotify.com/album/5q5xyzBtuTZeUSPpzdEaSP) | 2:10 | 2026-10-22 |  |
 | [Homesick Lover](https://open.spotify.com/track/68sOX6tNkq4xieJCkui8iK) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo), [Kassidy](https://open.spotify.com/artist/1CZqhemGUtd5MhPj3Zc2iu) | [Homesick Lover](https://open.spotify.com/album/3Muf09tw779gRWSxKhU98y) | 2:51 | 2025-04-17 | 2025-05-24 |
 | [HONEY](https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [HONEY](https://open.spotify.com/album/2PCSMP8JYKfYvBv2AZ4SaN) | 2:42 | 2026-01-30 | 2026-02-28 |
 | [how do i find you](https://open.spotify.com/track/1ipTK7lCKdr2I9ugA60HRd) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [Grace Grundy](https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD) | [how do i find you](https://open.spotify.com/album/2QXD1A0Wq8rWUzIi8AUff5) | 2:59 | 2026-06-26 | 2026-07-04 |

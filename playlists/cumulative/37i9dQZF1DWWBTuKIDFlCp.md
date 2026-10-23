@@ -4,11 +4,12 @@
 
 > The new era of Hillman begins\. Listen to the music from A Different World.
 
-50 songs - 2 hr 35 min
+51 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Different World \(from the Netflix Series\)](https://open.spotify.com/track/1WyAfSf0oMZuxB31HBlnoB) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [A Different World \(from the Netflix Series\)](https://open.spotify.com/album/6eXLezqrd8vyh3pLYD1Wzo) | 1:37 | 2026-09-24 |  |
+| [A Time More Perfect](https://open.spotify.com/track/6mn8Kyg7aCnhWIIugF7dr9) | [Devon Culture](https://open.spotify.com/artist/2mONg2kaCioOztZG7Rz5yc) | [A Time More Perfect](https://open.spotify.com/album/6SrJLXEGTSqs1GLrxjvQx0) | 3:13 | 2026-10-22 |  |
 | [All My Fault](https://open.spotify.com/track/5VO0nmOVvYpiKSvfonfUGQ) | [Alonda Rich](https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf) | [All My Fault](https://open.spotify.com/album/6BLqFgzvhLe3KCu9bdhqMX) | 2:37 | 2026-10-14 |  |
 | [Ayy Ladies \(feat\. Tyga\)](https://open.spotify.com/track/4S7YMreltxQSetnI1yLfOP) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Ayy Ladies \(feat\. Tyga\)](https://open.spotify.com/album/2MSWQp2A9An2vg3N3V4m3c) | 3:33 | 2026-09-24 |  |
 | [Before I Let Go](https://open.spotify.com/track/6COsBTLkBs5HSkqt1Fdrr1) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [The Greatest Hits: Lifelines Volume 1](https://open.spotify.com/album/7Gh4T19qT1cT1ypL5J16X6) | 5:08 | 2026-09-24 |  |

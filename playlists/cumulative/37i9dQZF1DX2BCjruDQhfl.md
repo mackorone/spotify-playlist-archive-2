@@ -4,7 +4,7 @@
 
 > Tracks voor de juiste vibe\. Cover: Ronnie Flex
 
-464 songs - 21 hr 28 min
+465 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [alles in.](https://open.spotify.com/track/6Clejmlj90tyKx6qyArk5i) | [Kim Petite](https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6) | [alles in.](https://open.spotify.com/album/1lsJZvPwaMFTuK3aMg15SK) | 2:57 | 2026-09-24 |  |
 | [Alles Over](https://open.spotify.com/track/30uHOuSV1gIkSOoD9rxtRR) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Drayson Gashi](https://open.spotify.com/artist/6qZEFrMeWSuCwtZBPRvhIR), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB) | [Kempi x Drayson Gashi](https://open.spotify.com/album/1vIOU9EgoYUYkizrPBUCMx) | 2:32 | 2025-07-17 | 2025-11-21 |
 | [Als Jij Het Weet](https://open.spotify.com/track/4X0txCyuKYVnJALD2AmFTD) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Just A Girl](https://open.spotify.com/album/17Cy5j0Oajyx6HwVGh3zh5) | 2:34 | 2026-03-19 | 2026-10-16 |
-| [Always You \(feat\. Nana Fofie\)](https://open.spotify.com/track/5pVj3RmUQkAFgAsWhZa4zd) | [EAN](https://open.spotify.com/artist/2R6fMantwd4zJz4s07Wpnm), [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Always You \(feat\. Nana Fofie\)](https://open.spotify.com/album/0DSm2orZYnmb7haccz5hsj) | 3:09 | 2026-05-15 |  |
+| [Always You \(feat\. Nana Fofie\)](https://open.spotify.com/track/5pVj3RmUQkAFgAsWhZa4zd) | [EAN](https://open.spotify.com/artist/2R6fMantwd4zJz4s07Wpnm), [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Always You \(feat\. Nana Fofie\)](https://open.spotify.com/album/0DSm2orZYnmb7haccz5hsj) | 3:09 | 2026-05-15 | 2026-10-23 |
 | [Anything](https://open.spotify.com/track/3cfAU26S3unXxHX7Pu0171) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR) | [Anything](https://open.spotify.com/album/3GsMcFluyo0t8Bt7godgzV) | 2:53 | 2025-09-18 | 2026-02-04 |
 | [As We Get High \(feat\. Omah Lay & BEAM\)](https://open.spotify.com/track/3Yh9cNUxHN0bvkWBQ2QVdK) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [As We Get High \(feat\. Omah Lay & BEAM\)](https://open.spotify.com/album/0fIi74aWkcWjHkNVRB3QZP) | 2:57 | 2026-09-04 |  |
 | [AVEC MOI](https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [AVEC MOI](https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA) | 3:02 | 2026-01-22 | 2026-01-30 |
@@ -139,6 +139,7 @@
 | [Flowers](https://open.spotify.com/track/3t7x5bRvTM57CqhPdstJHv) | [Rabiaa](https://open.spotify.com/artist/0SXrdaViozHWtGAAy8UI3s), [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk) | [Flowers](https://open.spotify.com/album/0zrL41M8eSdDtMFaROdtrT) | 3:11 | 2025-07-17 | 2025-08-29 |
 | [Flyzone](https://open.spotify.com/track/2B7BifXIzPYMrcU4cDqZ9h) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb), [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [Flyzone](https://open.spotify.com/album/15YcK4kvY3rJIJRx3oIsJE) | 2:01 | 2025-07-17 | 2025-10-03 |
 | [FOCUS](https://open.spotify.com/track/2hOSYZ9hfeTA4aonT095Vu) | [Kevcody](https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey) | [FOCUS](https://open.spotify.com/album/3fvYg8i5lO0buTg72J2rwb) | 2:49 | 2026-04-16 | 2026-10-09 |
+| [focus](https://open.spotify.com/track/4BY3s0pKkwOikMfg7muN6D) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [focus](https://open.spotify.com/album/3Cs1UiyjaRNjaxzfinDXJK) | 2:58 | 2026-10-22 |  |
 | [Focus op jou](https://open.spotify.com/track/6GZL1j8NGK0YX90x7Trz8c) | [Nathan](https://open.spotify.com/artist/4BOkPqfWOHtk5TLVyILCg3), [Jc](https://open.spotify.com/artist/2BI5TSwRkOvgTrXKTLVEwh) | [Focus op jou](https://open.spotify.com/album/1TcvZZWtVY7izANQSmKmW3) | 2:38 | 2025-07-17 | 2025-08-08 |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-09-04 | 2026-03-20 |
 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 | 2025-07-17 | 2025-12-19 |

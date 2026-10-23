@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-685 songs - 1 day 18 hr 9 min
+688 songs - 1 day 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Bruised](https://open.spotify.com/track/6UuPO0N88i85SYd7EMObNz) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu), [Jodie Reid](https://open.spotify.com/artist/08oMRYJ7LRlDPN7QXE5l9u) | [Expectations](https://open.spotify.com/album/033LD9aposOxTkMpv8eU9h) | 3:49 | 2026-10-07 |  |
 | [Buio \- Eng Version](https://open.spotify.com/track/6CGsIEzR1l5I2cKjKXtz42) | [Crosslane](https://open.spotify.com/artist/34gfe82kVOOUdmSdcghnGA) | [Buio Deluxe](https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx) | 3:42 | 2025-12-13 | 2026-01-05 |
 | [Bullet](https://open.spotify.com/track/2C7E2SbFqS2GbExpD2hopJ) | [Lowland Revelry](https://open.spotify.com/artist/0nzPea6VeRN1WvaNAGdqF9) | [REV\-L\-REE](https://open.spotify.com/album/505KlJdJOgnwFvqcRlhYPc) | 5:06 | 2025-10-31 | 2025-11-22 |
+| [Bummer](https://open.spotify.com/track/1GxYnDuvyqYgCcEpA04Eaj) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Bummer](https://open.spotify.com/album/446bKk4pXnkNFOgpXIQmcI) | 4:29 | 2026-10-22 |  |
 | [Burning both ends](https://open.spotify.com/track/7GUvC4o0t1aXFUZgAJXILD) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [Burning both ends](https://open.spotify.com/album/0kHw2k5Cs1PZZXqqeFypBg) | 3:00 | 2026-03-28 | 2026-04-20 |
 | [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 | 2026-04-15 | 2026-06-13 |
 | [c'mon automaton](https://open.spotify.com/track/5IhRVOxwJeCFxzSMqWTECf) | [paradiso PDE](https://open.spotify.com/artist/08rzidI7HeLZCssOCMhvsW) | [c'mon automaton](https://open.spotify.com/album/3ELYkRNUubpuw4Gu3xCP3g) | 3:42 | 2026-07-23 | 2026-08-25 |
@@ -211,6 +212,7 @@
 | [Fentanyl Apocalypse](https://open.spotify.com/track/5SzfE5AOykHvXDnX2vt1o4) | [Magic Dragon](https://open.spotify.com/artist/0trHAWuVufxQLIZyPujytr) | [Metropolitan Degradation](https://open.spotify.com/album/1NyV58vxmbIYmhTGrIqmTg) | 3:18 | 2026-05-23 | 2026-08-08 |
 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 | 2025-12-13 | 2026-01-05 |
 | [Flashback](https://open.spotify.com/track/3nfFEXmkLRjfVIslYXSTFu) | [Trophy Boy Poems](https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj) | [Flashback](https://open.spotify.com/album/2dsufG9Ds7vt8stxbrBkBE) | 3:31 | 2026-02-28 | 2026-05-08 |
+| [Floating](https://open.spotify.com/track/18xRCY2rI66SvQZSLxHBlL) | [English Budgies](https://open.spotify.com/artist/3iokGJkvqXeARdkndKZbuR) | [Floating](https://open.spotify.com/album/64HM2fKH4wtLimUq6bz4kI) | 2:29 | 2026-10-22 |  |
 | [FLOWER CHILD](https://open.spotify.com/track/0PYoxGNSQo2kMZWwSE8lcH) | [Krista Hartman](https://open.spotify.com/artist/0kwEEdnKa1I4oELZFRA6kN) | [Transcend](https://open.spotify.com/album/5CFY6AXx0tLDqkzbVpoUSu) | 4:22 | 2026-01-31 | 2026-02-18 |
 | [Fly Away](https://open.spotify.com/track/1BPtiYG6hIuxlT79bPrvny) | [Springs of Autumn](https://open.spotify.com/artist/253bfrIVnxW1lBfhpvWijM) | [Fourteen](https://open.spotify.com/album/4qumeJ6UqZFk1aISguQLW8) | 3:35 | 2025-11-11 | 2025-12-12 |
 | [Fog of War](https://open.spotify.com/track/1dDx0yQRx5u28M1Fa6DvW9) | [Eric Mann](https://open.spotify.com/artist/35MK4HiXsP320WPxEPPFgk) | [Fog of War](https://open.spotify.com/album/270gN7ziKWO3OAU44OjohS) | 4:06 | 2026-08-26 | 2026-10-11 |
@@ -302,6 +304,7 @@
 | [It's Just an Act](https://open.spotify.com/track/0gA0sbktF61KIXJfkE6Kpn) | [Lizard Brain Trust](https://open.spotify.com/artist/1NTh40qQFwp4j8xerCD1js) | [It's Just an Act](https://open.spotify.com/album/6bVxbVsb0xRVgH4u6HFhfu) | 2:36 | 2026-09-17 | 2026-10-17 |
 | [It's Not Much But It's Honest](https://open.spotify.com/track/7qk61UVR5b4uOZPERARakC) | [Chase Cavanaugh](https://open.spotify.com/artist/6DH1kypdObaGWIcKEefQEQ) | [It's Not Much But It's Honest](https://open.spotify.com/album/0s6g5E03GbA8a6rK2G2rfI) | 4:08 | 2026-01-22 | 2026-02-18 |
 | [Jane](https://open.spotify.com/track/4XedfQTRrrkH48buhGSbFd) | [Lunar Chain](https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW) | [Jane](https://open.spotify.com/album/3McsECnITe5RZAbrBHn36C) | 3:01 | 2026-03-28 |  |
+| [Jeckyll&Hyde](https://open.spotify.com/track/0PFaJMLO16M6mvaXmCqL7c) | [Ginny Ranger](https://open.spotify.com/artist/1d7M7OfoBCzXOyS8JlDHfo), [The Re\-A\-Rangers](https://open.spotify.com/artist/2PF7IsaFN7iPAA3FI0QLGn) | [Jeckyll&Hyde](https://open.spotify.com/album/0TOuh8yFNSjYmtNsSdkY6v) | 3:33 | 2026-10-22 |  |
 | [Jodido Petrarca](https://open.spotify.com/track/0U5h1yccrkqogGH6fMlkHK) | [Tacrolimus](https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT) | [Se Acabaron Las Versiones](https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25) | 2:40 | 2026-04-21 | 2026-06-13 |
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2025-09-27 |  |
 | [Just a Little While](https://open.spotify.com/track/1OLUiHTSO2A9dmLpuGDgFW) | [Chelekis](https://open.spotify.com/artist/4JCoKAEJ4c4So8sYRaZgUf) | [Just a Little While](https://open.spotify.com/album/7Bcl5QSiVUwyNppf3sbloL) | 4:30 | 2026-05-23 | 2026-08-08 |

@@ -4,10 +4,11 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-375 songs - 2 day 3 hr 21 min
+376 songs - 2 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Ri O \(We See You\) \- live](https://open.spotify.com/track/0azh3R8YWCEXmWdTuYcM2u) | [Gbenga Akinfenwa](https://open.spotify.com/artist/7qDKEhuN11MijgScgAXx1W) | [A Ri O \(We See You\) \[live\]](https://open.spotify.com/album/1L5uag1JZbS2eNIZKAQoGp) | 5:13 | 2026-10-23 |  |
 | [ABBA'S DELICACY, Vol\. 2 \(Banner Over Me / Lord You Reign Forever\) \- Live at Streams Of Joy, Houston](https://open.spotify.com/track/43bQOivZ4T5vgj3tgADNdB) | [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [ABBA'S DELICACY, Vol\. 2 \(Banner Over Me / Lord You Reign Forever\) \[Live at Streams Of Joy, Houston\]](https://open.spotify.com/album/3AVSFMO51VkjWaFFxfs5S0) | 6:33 | 2026-07-17 |  |
 | [Acoustic Worship Medley \(Recorded Live at ‘The Epiphany’, V1\)](https://open.spotify.com/track/1vFoYxBAvdUHykCWCiI9Mc) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW) | [Acoustic Worship Medley \(Recorded Live at ‘The Epiphany’, V1\)](https://open.spotify.com/album/4wzpW58kU9MLOUMxxWYKv2) | 7:55 | 2026-08-21 |  |
 | [Adonai \(Live\)](https://open.spotify.com/track/6EO8yo02KrqUeJ19p0DEVF) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Adonai \(Live\)](https://open.spotify.com/album/043Bn5dBFA5O0wNTGG7uGm) | 4:41 | 2024-11-15 | 2025-01-31 |
@@ -217,7 +218,7 @@
 | [My Favourite Place \- Live](https://open.spotify.com/track/0C7VdwBxawVjwQesLcH1nJ) | [Fiyin Adeniyi](https://open.spotify.com/artist/7b4BZkj7cS5gokEOCrNuN0), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [My Favourite Place \(Live\)](https://open.spotify.com/album/3j770PFutPMLVlmRsUeenZ) | 12:23 | 2026-05-08 | 2026-08-21 |
 | [My God Is Good](https://open.spotify.com/track/55dcymYOsRVYL4sQHa8Sb5) | [Halal Afrika](https://open.spotify.com/artist/5gX3emCuEZBBq99uBvA3yh), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [My God Is Good](https://open.spotify.com/album/0osF0CnAck1ZFYh9taWJtW) | 9:58 | 2025-08-08 | 2025-10-24 |
 | [My Heart \- Live from London](https://open.spotify.com/track/23z2W3zMFGYdQHjZBRFlzG) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [My Heart \(Live from London\)](https://open.spotify.com/album/37x0CE3N0FD17bAhG3BVHG) | 5:20 | 2025-02-14 | 2025-03-21 |
-| [My Hope \- Live](https://open.spotify.com/track/3holfAIyBPClGAOAPuPxop) | [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [My Hope \(Live\)](https://open.spotify.com/album/2i7SsF0emsSQP1IRqrEMnY) | 4:26 | 2026-07-24 |  |
+| [My Hope \- Live](https://open.spotify.com/track/3holfAIyBPClGAOAPuPxop) | [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [My Hope \(Live\)](https://open.spotify.com/album/2i7SsF0emsSQP1IRqrEMnY) | 4:26 | 2026-07-24 | 2026-10-23 |
 | [My Life \- Live](https://open.spotify.com/track/0DYIqtWiEnFQUdYD0ozrGJ) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [My Life \(Live\)](https://open.spotify.com/album/32GdJYZW4fA4cj2jnhLYPu) | 8:13 | 2026-07-17 |  |
 | [My Lover \(Live\)](https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [My Lover \(Live\)](https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq) | 7:15 | 2025-02-14 |  |
 | [My Lover \- Live](https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 8:24 | 2024-03-01 |  |

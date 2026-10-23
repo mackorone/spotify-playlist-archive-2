@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKs/pZTMcJaySV7uxsxChhaRWClYXK",
+  "snapshot_id": "AAAKtB0GfDu6+0HY1S//4G39X6hbBsUV",
   "tracks": [
     {
       "added_at": "2026-10-18 07:35:50",
@@ -714,6 +714,10 @@
         {
           "name": "Ethan Ice",
           "url": "https://open.spotify.com/artist/0nok7WTxJq1I27y8uSTNUW"
+        },
+        {
+          "name": "Eric Bullock",
+          "url": "https://open.spotify.com/artist/6IXoejQpSlIRw7aPW9Kbem"
         }
       ],
       "duration_ms": 386240,
@@ -81099,6 +81103,22 @@
       "duration_ms": 278737,
       "name": "Neverending",
       "url": "https://open.spotify.com/track/5t32Xg2Aqwc4MKfMCcf244"
+    },
+    {
+      "added_at": "2026-10-22 21:09:18",
+      "album": {
+        "name": "Brooklyn",
+        "url": "https://open.spotify.com/album/4QvTWqLqLYgRYxydKpFGOh"
+      },
+      "artists": [
+        {
+          "name": "Reptile Room",
+          "url": "https://open.spotify.com/artist/2GxPyV0YIHRNi0hAaqzgER"
+        }
+      ],
+      "duration_ms": 212264,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/2cLyhFnnOvK997LZsOjA9i"
     }
   ],
   "unique_name": "playlist spotify free",

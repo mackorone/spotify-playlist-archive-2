@@ -1,13 +1,33 @@
 {
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ellize",
-  "num_followers": 53533,
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Evangelia, Misha Miller",
+  "num_followers": 53534,
   "original_name": "Greek Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD6aBvIo00UIBPx688YxBdTP7bYF",
+  "snapshot_id": "AAAAAF4zZwQVsSqyeHG3ApdZo/xOSP9f",
   "tracks": [
+    {
+      "added_at": "2026-10-22 21:00:31",
+      "album": {
+        "name": "Boys These Days",
+        "url": "https://open.spotify.com/album/0ngLZnTdJDpSumKrwjayXe"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        },
+        {
+          "name": "Misha Miller",
+          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
+        }
+      ],
+      "duration_ms": 130652,
+      "name": "Boys These Days",
+      "url": "https://open.spotify.com/track/2emgfJ83PeCBhvt03OZAav"
+    },
     {
       "added_at": "2026-10-15 21:00:42",
       "album": {
@@ -23,6 +43,290 @@
       "duration_ms": 102000,
       "name": "Mystika",
       "url": "https://open.spotify.com/track/31oZ6wlwc9fJNhjxxmZE4D"
+    },
+    {
+      "added_at": "2026-10-15 21:00:42",
+      "album": {
+        "name": "To Balkoni Tou Papaz\u00f3",
+        "url": "https://open.spotify.com/album/7zZZ1k99daZPC8HHr9WJxL"
+      },
+      "artists": [
+        {
+          "name": "Papaz\u00f3",
+          "url": "https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ"
+        },
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        }
+      ],
+      "duration_ms": 138260,
+      "name": "Tou Agoriou Apenanti",
+      "url": "https://open.spotify.com/track/0yY0iAdNJDfUno1SKVN5NR"
+    },
+    {
+      "added_at": "2026-10-15 21:00:42",
+      "album": {
+        "name": "To Eidolo Sou",
+        "url": "https://open.spotify.com/album/5AjyrEls9IpJHOEfrsfTCi"
+      },
+      "artists": [
+        {
+          "name": "Katerina Stikoudi",
+          "url": "https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44"
+        }
+      ],
+      "duration_ms": 172913,
+      "name": "To Eidolo Sou",
+      "url": "https://open.spotify.com/track/3yVT1Z7AlCxCpxnM9Q70zG"
+    },
+    {
+      "added_at": "2026-10-22 21:00:31",
+      "album": {
+        "name": "FTES",
+        "url": "https://open.spotify.com/album/1rGwjmU0OfJUdcxKti1Iy5"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "FEVERTOOHIGH",
+          "url": "https://open.spotify.com/artist/14jDG1IsRNgbwp44uyJV81"
+        }
+      ],
+      "duration_ms": 195904,
+      "name": "FTES",
+      "url": "https://open.spotify.com/track/4kl42uzJjryHvWuVyptDTW"
+    },
+    {
+      "added_at": "2026-10-15 21:00:42",
+      "album": {
+        "name": "Tulum",
+        "url": "https://open.spotify.com/album/1W0hcyDzZ7qt69C6KBAlwY"
+      },
+      "artists": [
+        {
+          "name": "Playmen",
+          "url": "https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c"
+        },
+        {
+          "name": "Marasi",
+          "url": "https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J"
+        },
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "duration_ms": 140274,
+      "name": "Tulum",
+      "url": "https://open.spotify.com/track/3DsJyeULgdBuBYGqw6AIhn"
+    },
+    {
+      "added_at": "2026-10-15 21:00:42",
+      "album": {
+        "name": "Alitheia Tora",
+        "url": "https://open.spotify.com/album/4pm0OLRaeMviiqkukbDjgb"
+      },
+      "artists": [
+        {
+          "name": "Helena Paparizou",
+          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
+        }
+      ],
+      "duration_ms": 206015,
+      "name": "Alitheia Tora",
+      "url": "https://open.spotify.com/track/00A3yDONz9b3wIgpnT9a5Y"
+    },
+    {
+      "added_at": "2026-10-15 21:00:42",
+      "album": {
+        "name": "Cruel Summer 3",
+        "url": "https://open.spotify.com/album/5PLaA1KlPRZx1DUm7PhN15"
+      },
+      "artists": [
+        {
+          "name": "DJ Stephan",
+          "url": "https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "Athena Manoukian",
+          "url": "https://open.spotify.com/artist/22YSp71UhSbFP7OP5jx3r0"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "GREEK LOVE",
+      "url": "https://open.spotify.com/track/5FrtqrsOJd15eXWtKA88vD"
+    },
+    {
+      "added_at": "2026-10-15 21:00:42",
+      "album": {
+        "name": "Thisavros Mou (Remix)",
+        "url": "https://open.spotify.com/album/3pehVdsQB3l62qEaweaJpP"
+      },
+      "artists": [
+        {
+          "name": "Katerina",
+          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
+        },
+        {
+          "name": "Dim Angelo",
+          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "Thisavros Mou - Remix",
+      "url": "https://open.spotify.com/track/4UCqgUYpfJUnWEuY3ip1L2"
+    },
+    {
+      "added_at": "2026-10-15 21:00:42",
+      "album": {
+        "name": "Ainte",
+        "url": "https://open.spotify.com/album/5sbfSHKgCv3y2mP4ouU396"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 162519,
+      "name": "Ainte",
+      "url": "https://open.spotify.com/track/0edeAiiIQUy1L8jDrJD0hK"
+    },
+    {
+      "added_at": "2026-10-15 21:00:42",
+      "album": {
+        "name": "Kapou Allou",
+        "url": "https://open.spotify.com/album/5yMhsJ12NILXekDWJbfx6L"
+      },
+      "artists": [
+        {
+          "name": "Solmeister",
+          "url": "https://open.spotify.com/artist/24Dj1piBfpK6bL3WwIFq48"
+        },
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        },
+        {
+          "name": "_sunset",
+          "url": "https://open.spotify.com/artist/7wW1i3pFTsdxc7yqYAH2Vu"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Kapou Allou",
+      "url": "https://open.spotify.com/track/0ql9ryQ4mVeUkZgX1vPcU7"
+    },
+    {
+      "added_at": "2026-10-15 21:00:42",
+      "album": {
+        "name": "DOPAMINI",
+        "url": "https://open.spotify.com/album/4IynUj0Wz1jQr02UiVvYBd"
+      },
+      "artists": [
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        }
+      ],
+      "duration_ms": 150815,
+      "name": "DOPAMINI",
+      "url": "https://open.spotify.com/track/4Noe1a5qZAaspka68l0lDd"
+    },
+    {
+      "added_at": "2026-10-15 21:00:42",
+      "album": {
+        "name": "Ixogenia",
+        "url": "https://open.spotify.com/album/5koMXETaZmIZv69JLjro8v"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "duration_ms": 140777,
+      "name": "Glyko Antio",
+      "url": "https://open.spotify.com/track/1XJAyJ7p11u2He72ecoq5C"
+    },
+    {
+      "added_at": "2026-10-15 21:00:42",
+      "album": {
+        "name": "Diki Mou",
+        "url": "https://open.spotify.com/album/0VWCTu5xhJHvDNn3B6bWFP"
+      },
+      "artists": [
+        {
+          "name": "Claydee",
+          "url": "https://open.spotify.com/artist/2rcsCDLsJw6erBukvjEsrP"
+        }
+      ],
+      "duration_ms": 191778,
+      "name": "Diki Mou",
+      "url": "https://open.spotify.com/track/6Mo8KakthlJPr6UnoOCVTX"
+    },
+    {
+      "added_at": "2026-10-22 21:00:31",
+      "album": {
+        "name": "LOLA (GORO\u2019S FORBIDDEN REMIX)",
+        "url": "https://open.spotify.com/album/3tMSqREWymiBhQ1as31C4N"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        },
+        {
+          "name": "Goro",
+          "url": "https://open.spotify.com/artist/6s4C0UWAwpZFzZcz4fKasf"
+        }
+      ],
+      "duration_ms": 135692,
+      "name": "LOLA - GORO\u2019S FORBIDDEN REMIX",
+      "url": "https://open.spotify.com/track/3d5rnV9g64pTaCw6fybM5B"
+    },
+    {
+      "added_at": "2026-10-15 21:00:42",
+      "album": {
+        "name": "LOCA",
+        "url": "https://open.spotify.com/album/2wnaEz6OTA8VUzQSpR7i2E"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 191304,
+      "name": "LOCA",
+      "url": "https://open.spotify.com/track/1t6A6AZZ8RyVPWrrO6aX3b"
     },
     {
       "added_at": "2026-10-15 21:00:42",
@@ -75,66 +379,6 @@
     {
       "added_at": "2026-10-15 21:00:42",
       "album": {
-        "name": "To Balkoni Tou Papaz\u00f3",
-        "url": "https://open.spotify.com/album/7zZZ1k99daZPC8HHr9WJxL"
-      },
-      "artists": [
-        {
-          "name": "Papaz\u00f3",
-          "url": "https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ"
-        },
-        {
-          "name": "Marseaux",
-          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
-        }
-      ],
-      "duration_ms": 138260,
-      "name": "Tou Agoriou Apenanti",
-      "url": "https://open.spotify.com/track/0yY0iAdNJDfUno1SKVN5NR"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
-        "name": "To Eidolo Sou",
-        "url": "https://open.spotify.com/album/5AjyrEls9IpJHOEfrsfTCi"
-      },
-      "artists": [
-        {
-          "name": "Katerina Stikoudi",
-          "url": "https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44"
-        }
-      ],
-      "duration_ms": 172913,
-      "name": "To Eidolo Sou",
-      "url": "https://open.spotify.com/track/3yVT1Z7AlCxCpxnM9Q70zG"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
-        "name": "Tulum",
-        "url": "https://open.spotify.com/album/1W0hcyDzZ7qt69C6KBAlwY"
-      },
-      "artists": [
-        {
-          "name": "Playmen",
-          "url": "https://open.spotify.com/artist/1aRr1YCvofItUMebQWiT5c"
-        },
-        {
-          "name": "Marasi",
-          "url": "https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J"
-        },
-        {
-          "name": "Eleni Foureira",
-          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
-        }
-      ],
-      "duration_ms": 140274,
-      "name": "Tulum",
-      "url": "https://open.spotify.com/track/3DsJyeULgdBuBYGqw6AIhn"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
         "name": "TIGER LUV",
         "url": "https://open.spotify.com/album/6srP9HJXcKA4lwfa8viVPJ"
       },
@@ -171,170 +415,6 @@
     {
       "added_at": "2026-10-15 21:00:42",
       "album": {
-        "name": "Ixogenia",
-        "url": "https://open.spotify.com/album/5koMXETaZmIZv69JLjro8v"
-      },
-      "artists": [
-        {
-          "name": "APON",
-          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
-        }
-      ],
-      "duration_ms": 140777,
-      "name": "Glyko Antio",
-      "url": "https://open.spotify.com/track/1XJAyJ7p11u2He72ecoq5C"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
-        "name": "Kapou Allou",
-        "url": "https://open.spotify.com/album/5yMhsJ12NILXekDWJbfx6L"
-      },
-      "artists": [
-        {
-          "name": "Solmeister",
-          "url": "https://open.spotify.com/artist/24Dj1piBfpK6bL3WwIFq48"
-        },
-        {
-          "name": "Marseaux",
-          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
-        },
-        {
-          "name": "_sunset",
-          "url": "https://open.spotify.com/artist/7wW1i3pFTsdxc7yqYAH2Vu"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Kapou Allou",
-      "url": "https://open.spotify.com/track/0ql9ryQ4mVeUkZgX1vPcU7"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
-        "name": "Thisavros Mou (Remix)",
-        "url": "https://open.spotify.com/album/3pehVdsQB3l62qEaweaJpP"
-      },
-      "artists": [
-        {
-          "name": "Katerina",
-          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
-        },
-        {
-          "name": "Dim Angelo",
-          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
-        }
-      ],
-      "duration_ms": 181224,
-      "name": "Thisavros Mou - Remix",
-      "url": "https://open.spotify.com/track/4UCqgUYpfJUnWEuY3ip1L2"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
-        "name": "To Party",
-        "url": "https://open.spotify.com/album/5M9eiF04ujyFlMe9woCAtK"
-      },
-      "artists": [
-        {
-          "name": "Akylas",
-          "url": "https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "To Party",
-      "url": "https://open.spotify.com/track/5fsGR9J0dzeBL8brNuc1m3"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/4QH1PhEJcIs8nWD3hJLZxn"
-      },
-      "artists": [
-        {
-          "name": "Mariz",
-          "url": "https://open.spotify.com/artist/34YHmuvHC9zd9gkZ9FhJoB"
-        },
-        {
-          "name": "Evan Spikes",
-          "url": "https://open.spotify.com/artist/6p5qNRLXkVrmKVRPMaL6qP"
-        }
-      ],
-      "duration_ms": 145920,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/5Ckz17CNg3qUMWEXy3QWdC"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
-        "name": "Alitheia Tora",
-        "url": "https://open.spotify.com/album/4pm0OLRaeMviiqkukbDjgb"
-      },
-      "artists": [
-        {
-          "name": "Helena Paparizou",
-          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
-        }
-      ],
-      "duration_ms": 206015,
-      "name": "Alitheia Tora",
-      "url": "https://open.spotify.com/track/00A3yDONz9b3wIgpnT9a5Y"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
-        "name": "Cruel Summer 3",
-        "url": "https://open.spotify.com/album/5PLaA1KlPRZx1DUm7PhN15"
-      },
-      "artists": [
-        {
-          "name": "DJ Stephan",
-          "url": "https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn"
-        },
-        {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
-        },
-        {
-          "name": "Strat",
-          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
-        },
-        {
-          "name": "Athena Manoukian",
-          "url": "https://open.spotify.com/artist/22YSp71UhSbFP7OP5jx3r0"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "GREEK LOVE",
-      "url": "https://open.spotify.com/track/5FrtqrsOJd15eXWtKA88vD"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
-        "name": "DOPAMINI",
-        "url": "https://open.spotify.com/album/4IynUj0Wz1jQr02UiVvYBd"
-      },
-      "artists": [
-        {
-          "name": "LILA",
-          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        },
-        {
-          "name": "Sin Laurent",
-          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
-        }
-      ],
-      "duration_ms": 150815,
-      "name": "DOPAMINI",
-      "url": "https://open.spotify.com/track/4Noe1a5qZAaspka68l0lDd"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
         "name": "Gyrna",
         "url": "https://open.spotify.com/album/15Tqk5XWNfjSJWRZcHM2rq"
       },
@@ -351,42 +431,22 @@
     {
       "added_at": "2026-10-15 21:00:42",
       "album": {
-        "name": "Diki Mou",
-        "url": "https://open.spotify.com/album/0VWCTu5xhJHvDNn3B6bWFP"
+        "name": "Ti Thelo Ego Me Sena",
+        "url": "https://open.spotify.com/album/6huYtEFzy9x6gSEvMwdi4A"
       },
       "artists": [
         {
-          "name": "Claydee",
-          "url": "https://open.spotify.com/artist/2rcsCDLsJw6erBukvjEsrP"
-        }
-      ],
-      "duration_ms": 191778,
-      "name": "Diki Mou",
-      "url": "https://open.spotify.com/track/6Mo8KakthlJPr6UnoOCVTX"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
-        "name": "Pulp Fiction",
-        "url": "https://open.spotify.com/album/7hexRRKeti0eNJ1WuW4XSq"
-      },
-      "artists": [
-        {
-          "name": "Hawk",
-          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
         },
         {
-          "name": "Eleni Foureira",
-          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
-        },
-        {
-          "name": "Baghdad",
-          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
+          "name": "Eleana Vrachali",
+          "url": "https://open.spotify.com/artist/0L7vGwIsynB86DhC2QQmzn"
         }
       ],
-      "duration_ms": 147571,
-      "name": "Pulp Fiction",
-      "url": "https://open.spotify.com/track/0ZKnuQTMBuxQRRf7IwLjpp"
+      "duration_ms": 175747,
+      "name": "Ti Thelo Ego Me Sena",
+      "url": "https://open.spotify.com/track/7gLT8aVOkQkXQk2yTkZzhF"
     },
     {
       "added_at": "2026-10-15 21:00:42",
@@ -407,50 +467,6 @@
       "duration_ms": 158769,
       "name": "OPOU KI AN PAS",
       "url": "https://open.spotify.com/track/0MHTVZhRsPi9PcbTceEMq8"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
-        "name": "Ainte",
-        "url": "https://open.spotify.com/album/5sbfSHKgCv3y2mP4ouU396"
-      },
-      "artists": [
-        {
-          "name": "Fy",
-          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
-        },
-        {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
-        }
-      ],
-      "duration_ms": 162519,
-      "name": "Ainte",
-      "url": "https://open.spotify.com/track/0edeAiiIQUy1L8jDrJD0hK"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
-        "name": "Mazi Ki Antitheta",
-        "url": "https://open.spotify.com/album/6woQnb2da81Dfui9LRSemo"
-      },
-      "artists": [
-        {
-          "name": "Akylas",
-          "url": "https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL"
-        },
-        {
-          "name": "Christos Stylianou",
-          "url": "https://open.spotify.com/artist/1cEq675wyqjilDH9DR4N8t"
-        },
-        {
-          "name": "Lina Dimopoulou",
-          "url": "https://open.spotify.com/artist/1gRihTpVCK8jdSpAw46W3R"
-        }
-      ],
-      "duration_ms": 157934,
-      "name": "Mazi Ki Antitheta",
-      "url": "https://open.spotify.com/track/2khh4LozGAaZ6fUyqp8Ofc"
     },
     {
       "added_at": "2026-10-15 21:00:42",
@@ -499,26 +515,6 @@
       "duration_ms": 151200,
       "name": "SIMADI",
       "url": "https://open.spotify.com/track/0egPezwTy8DiyTRUHFbUDe"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
-        "name": "LOCA",
-        "url": "https://open.spotify.com/album/2wnaEz6OTA8VUzQSpR7i2E"
-      },
-      "artists": [
-        {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 191304,
-      "name": "LOCA",
-      "url": "https://open.spotify.com/track/1t6A6AZZ8RyVPWrrO6aX3b"
     },
     {
       "added_at": "2026-10-15 21:00:42",
@@ -623,6 +619,26 @@
       "duration_ms": 174857,
       "name": "Moiraia Sxesi",
       "url": "https://open.spotify.com/track/6EVzux5bgLYbYQX5ge4vIO"
+    },
+    {
+      "added_at": "2026-10-15 21:00:42",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/4QH1PhEJcIs8nWD3hJLZxn"
+      },
+      "artists": [
+        {
+          "name": "Mariz",
+          "url": "https://open.spotify.com/artist/34YHmuvHC9zd9gkZ9FhJoB"
+        },
+        {
+          "name": "Evan Spikes",
+          "url": "https://open.spotify.com/artist/6p5qNRLXkVrmKVRPMaL6qP"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/5Ckz17CNg3qUMWEXy3QWdC"
     },
     {
       "added_at": "2026-10-15 21:00:42",
@@ -923,26 +939,6 @@
       "duration_ms": 198805,
       "name": "Fotia Sti Nihta",
       "url": "https://open.spotify.com/track/6JsLcU3XFElXEhC7tPbeIl"
-    },
-    {
-      "added_at": "2026-10-15 21:00:42",
-      "album": {
-        "name": "Ti Thelo Ego Me Sena",
-        "url": "https://open.spotify.com/album/6huYtEFzy9x6gSEvMwdi4A"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Sabanis",
-          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
-        },
-        {
-          "name": "Eleana Vrachali",
-          "url": "https://open.spotify.com/artist/0L7vGwIsynB86DhC2QQmzn"
-        }
-      ],
-      "duration_ms": 175747,
-      "name": "Ti Thelo Ego Me Sena",
-      "url": "https://open.spotify.com/track/7gLT8aVOkQkXQk2yTkZzhF"
     },
     {
       "added_at": "2026-10-15 21:00:42",

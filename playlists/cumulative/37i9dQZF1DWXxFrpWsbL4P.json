@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-05-30",
-  "description": "Dans pisti haz\u0131r! Kapak: Mahmut Orhan, Francis Mercier",
+  "description": "Dans pisti haz\u0131r! Kapak: Mahmut Orhan",
   "name": "DANS 2026",
   "tracks": [
     {
@@ -58,7 +58,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 187083,
       "name": "2 This",
       "url": "https://open.spotify.com/track/2KRkXR3I8mHGeQjZYALfHK"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 153201,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/2pDtBcRYeH0JB3KFOpIEA8"
@@ -976,6 +976,36 @@
       "duration_ms": 133848,
       "name": "Girls MIA",
       "url": "https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q"
+    },
+    {
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/54ZSaYsuHumqXgcBPzM5fC"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Feri",
+          "url": "https://open.spotify.com/artist/5HUx5F96r97ha6Sjt6EsPe"
+        },
+        {
+          "name": "emir taha",
+          "url": "https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207830,
+      "name": "Gurbet (feat. Shimza)",
+      "url": "https://open.spotify.com/track/2nHIwvtRJyk8a5zTQ9JdSR"
     },
     {
       "album": {
@@ -1312,6 +1342,28 @@
       "duration_ms": 295487,
       "name": "Landlords Nightmare",
       "url": "https://open.spotify.com/track/3WkdjUhq7DCqvtanW7TjSg"
+    },
+    {
+      "album": {
+        "name": "Lonely Ghost (Cem Gemalmaz Remix)",
+        "url": "https://open.spotify.com/album/49xGgASSJ3fFe9kmRYxp10"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        },
+        {
+          "name": "Cem Gemalmaz",
+          "url": "https://open.spotify.com/artist/1Teuhfi833Ud7Jl3AnZRyZ"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303471,
+      "name": "Lonely Ghost - (Cem Gemalmaz Remix)",
+      "url": "https://open.spotify.com/track/04byAiqz0cL2p87A5cVmij"
     },
     {
       "album": {
@@ -1982,7 +2034,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 297794,
       "name": "Sinestesia",
       "url": "https://open.spotify.com/track/51fbu8h7ySKPdfikcW43PA"
@@ -2348,6 +2400,24 @@
       "duration_ms": 179678,
       "name": "Three",
       "url": "https://open.spotify.com/track/2b0xpf2dOP8qsRPAAEOHcw"
+    },
+    {
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/1vtw5lYtK9qT7xYnlPoSOL"
+      },
+      "artists": [
+        {
+          "name": "Ilkay Sencan",
+          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/7srPXvOTFpJhGsP8ZuRu0n"
     },
     {
       "album": {

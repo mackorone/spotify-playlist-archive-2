@@ -2,9 +2,9 @@
 
 ### [The Listening Post](https://open.spotify.com/playlist/37i9dQZF1DWT2471UyOhDZ)
 
-> A hand\-picked selection for an extraordinary palette\. Cover: Marika Hackman
+> A hand\-picked selection for an extraordinary palette\. Cover: Hot Chip
 
-543 songs - 1 day 10 hr 54 min
+544 songs - 1 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [One Thing At A Time](https://open.spotify.com/track/2o2s7sFRf9XByKXoV0Qw6e) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Creature of Habit](https://open.spotify.com/album/2fmY3KwKCrlwhmlb308sI2) | 4:42 | 2026-04-30 |  |
 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 | 2025-07-18 | 2026-08-10 |
 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 | 2025-01-17 | 2025-05-22 |
-| [Outside](https://open.spotify.com/track/2PvIlbYyWnYPipFniXO7sX) | [Purple Pilgrims](https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7) | [Outside](https://open.spotify.com/album/23Ext9cqxzjJIyjO168nbT) | 3:57 | 2026-10-15 |  |
+| [Outside](https://open.spotify.com/track/2PvIlbYyWnYPipFniXO7sX) | [Purple Pilgrims](https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7) | [Outside](https://open.spotify.com/album/23Ext9cqxzjJIyjO168nbT) | 3:57 | 2026-10-15 | 2026-10-23 |
 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-06 | 2025-10-24 |
 | [Passing Judgment](https://open.spotify.com/track/2br7c0YcCucYv0YhoXExad) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Passing Judgment](https://open.spotify.com/album/4Png2UTnbV4CKSnMSEcRf1) | 3:58 | 2024-06-14 | 2024-07-12 |
 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 | 2024-07-11 | 2025-10-24 |
@@ -391,6 +391,7 @@
 | [Rafters](https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Rafters](https://open.spotify.com/album/2Mycw8jnB4YUQyxejVx8Ov) | 3:07 | 2024-08-14 | 2025-05-09 |
 | [Rainbow Overpass](https://open.spotify.com/track/2GZOsGvLs2b8ssK7YJtW8O) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [Alex Orange Drink](https://open.spotify.com/artist/6MjoFNppz6Tm6qCdHrzcvx) | [Rainbow Overpass](https://open.spotify.com/album/0kTQk0M86lS5bVn8SvCHVA) | 3:01 | 2024-08-14 | 2024-11-14 |
 | [Raining On Your Pillow](https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Raining On Your Pillow](https://open.spotify.com/album/35uymqTjUrltGX52KHDns8) | 3:53 | 2024-06-14 | 2024-08-19 |
+| [Random Violence](https://open.spotify.com/track/0T3vTM8KUAwGMukdAhNVj2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Random Violence](https://open.spotify.com/album/3z8j4xdVVyUH12VXFWRCVK) | 5:15 | 2026-10-22 |  |
 | [Rapture](https://open.spotify.com/track/3osAKU8N7haVZCfmvVC9gr) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 2:28 | 2024-06-14 | 2025-03-22 |
 | [Reaching Out](https://open.spotify.com/track/2GSMDvRIBADQEl2DS8XqPs) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Reaching Out](https://open.spotify.com/album/0tYyc7yXpSEv4W7FQF0ADO) | 4:15 | 2024-06-14 | 2024-07-21 |
 | [Read The Room](https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:14 | 2024-06-14 | 2025-03-22 |

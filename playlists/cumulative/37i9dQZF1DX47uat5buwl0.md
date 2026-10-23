@@ -4,7 +4,7 @@
 
 > Banger na banger\. Cover: Def & brittneySGAT 🔥
 
-242 songs - 10 hr 50 min
+243 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [The Glen \- Levi Heron Edit](https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP) | [The Glen \(Levi Heron Edit\)](https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h) | 2:53 | 2025-07-17 | 2026-01-15 |
 | [Theetje](https://open.spotify.com/track/6kXZPkenUAtaESF0gNoY1x) | [LUUK](https://open.spotify.com/artist/6mnQ1c9XT8X5tZ3pZYzue1) | [Theetje](https://open.spotify.com/album/6ll8bW8LRTjjY3sWr8e8WR) | 2:35 | 2026-05-28 | 2026-09-05 |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2025-07-17 | 2026-01-16 |
+| [Think of You](https://open.spotify.com/track/0sPP9TW0xSgke7EKBW6Gui) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Rohan Pinnock\-Hamilton](https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY) | [Think of You](https://open.spotify.com/album/4hcegnEOFKkp8qKlgDzirk) | 3:24 | 2026-10-22 |  |
 | [This is my house](https://open.spotify.com/track/1xfcLBSl1IZ0F4ynzqoO71) | [Ninochello](https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF) | [This is my house](https://open.spotify.com/album/0zGJRSvG0TdKTDqqC7KzI3) | 2:14 | 2026-01-13 | 2026-05-08 |
 | [Tony Montana](https://open.spotify.com/track/2ROoZSN30VTNKpAR0TVva2) | [Ninochello](https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Luca Ferron](https://open.spotify.com/artist/19AdBUGKGQJk2hyMb8MKG0) | [Tony Montana](https://open.spotify.com/album/3NoVsXS2KNdSsO98EZ0Lkg) | 2:12 | 2026-09-17 | 2026-10-09 |
 | [Tot Sluit](https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [Amelie](https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu) | [Tot Sluit](https://open.spotify.com/album/3ofGWWX6sA0lzGhoIJa0Kg) | 2:22 | 2026-08-20 |  |
@@ -221,7 +222,7 @@
 | [TUSI](https://open.spotify.com/track/2k264yjeWOGuBKOs1kd80a) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [TUSI](https://open.spotify.com/album/2eghOOvia5Uwc4weq2m7qZ) | 2:24 | 2026-07-02 | 2026-09-05 |
 | [tutututututu](https://open.spotify.com/track/7zbMhwqbFLjSi7Tuh4w4sR) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [tutututututu](https://open.spotify.com/album/1tCcfIT6r9t2Q4lkjDX6mu) | 2:38 | 2026-05-04 | 2026-10-09 |
 | [Uitslover](https://open.spotify.com/track/3HUpSJBn9COpunhZJczbQw) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Uitslover](https://open.spotify.com/album/6YDru2ioziRTAmmZ4iDZS6) | 2:35 | 2026-03-04 |  |
-| [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 | 2025-07-17 |  |
+| [Ushuaia](https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Ushuaia](https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6) | 2:37 | 2025-07-17 | 2026-10-23 |
 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 | 2025-07-17 | 2026-07-03 |
 | [VAKANTIE](https://open.spotify.com/track/2hfPz8nEzVZ10Oxh6pYpCg) | [Romeijn](https://open.spotify.com/artist/1dUocViVH0TuntyDehVn6B) | [VAKANTIE](https://open.spotify.com/album/6Mr626FzsXOb4lMsiOSZSV) | 1:50 | 2025-08-04 | 2025-08-26 |
 | [Ver van huis](https://open.spotify.com/track/4d8uLLex41tB1VOLNHvb4X) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Ver van huis](https://open.spotify.com/album/2wv4ZkeI23dznWhQRmzkV2) | 2:36 | 2026-05-21 | 2026-09-05 |

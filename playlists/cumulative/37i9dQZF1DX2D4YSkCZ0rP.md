@@ -2,9 +2,9 @@
 
 ### [PRIDE France](https://open.spotify.com/playlist/37i9dQZF1DX2D4YSkCZ0rP)
 
-> La playlist des artistes LGBTQIA+\. Photo : Loa Mercury
+> La playlist des artistes LGBTQIA+\. Photo : Piche
 
-141 songs - 7 hr 24 min
+143 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [3SEX](https://open.spotify.com/track/7tbbz1bDAW8T9cmhTPZPTQ) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [3SEX](https://open.spotify.com/album/0hbpEwrp88dF2wjY4piSrb) | 4:17 | 2024-06-04 | 2025-05-27 |
 | [\_jun perseides](https://open.spotify.com/track/5PRUmgnoIQIi3tVVRBYD10) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_jun perseides](https://open.spotify.com/album/4EHRNl8rET8Ve72UQB2cLe) | 2:56 | 2024-06-04 | 2025-05-27 |
 | [A Little More](https://open.spotify.com/track/1P9OVCEoVBmR1BsV1xF2RN) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [A Little More](https://open.spotify.com/album/0od1i4Xi2xwskVvHAWCQOt) | 1:23 | 2025-05-26 | 2026-06-08 |
+| [Adrénaline](https://open.spotify.com/track/2jhUjeVIfb3gDmHIoXffSZ) | [Piche](https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn) | [Sur un malentendu](https://open.spotify.com/album/7rqNofOsgsCau3IiIEhorJ) | 2:10 | 2026-10-22 |  |
 | [Alone \(with Nicki Minaj\)](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Alone](https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz) | 3:05 | 2024-06-04 | 2025-05-27 |
 | [Alter Ego](https://open.spotify.com/track/6PlgHNFxHZixWyUPko6diK) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Alter Ego](https://open.spotify.com/album/0WpHLzIPFOTIW6l4BznPJ4) | 2:57 | 2024-06-04 | 2025-05-27 |
 | [Amour Amore](https://open.spotify.com/track/7MoYKHLO2kBdBwR8fzjvho) | [Victoria Sio](https://open.spotify.com/artist/1J7lHgGg73LSlEOGZL7XAl) | [Amour Amore](https://open.spotify.com/album/1QNFe13n2nM1pZlzDmZ1uK) | 3:01 | 2026-06-07 |  |
@@ -108,7 +109,7 @@
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2025-05-26 | 2026-06-08 |
 | [Oublier](https://open.spotify.com/track/52eDCGa3pzmwNTwjz1mofw) | [Nicky Doll](https://open.spotify.com/artist/4EuM3R5q2w7YIedgtQiMrj) | [Oublier](https://open.spotify.com/album/3NuqIkwwlGzXVlcsDPXRpi) | 2:41 | 2024-10-18 | 2025-06-28 |
 | [P.A.L.O.M.A](https://open.spotify.com/track/4Y2mnhFruV85574NOlh3RQ) | [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4), [Paloma](https://open.spotify.com/artist/0se892wuxZ6XIMUOEPewVb), [RAUMM](https://open.spotify.com/artist/3ouOqsGg5Xp5IKG8yiIzAP) | [P.A.L.O.M.A](https://open.spotify.com/album/2RcsLkNpbowk3VoiQe0QwG) | 5:07 | 2024-06-04 | 2026-06-08 |
-| [Pa](https://open.spotify.com/track/0eQjNtRungUNMAieeZOqGs) | [Piche](https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn) | [Pa](https://open.spotify.com/album/5oC5RK98jimkmbolBJC5WF) | 3:25 | 2026-09-13 |  |
+| [Pa](https://open.spotify.com/track/0eQjNtRungUNMAieeZOqGs) | [Piche](https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn) | [Pa](https://open.spotify.com/album/5oC5RK98jimkmbolBJC5WF) | 3:25 | 2026-09-13 | 2026-10-23 |
 | [Parfum Orange](https://open.spotify.com/track/4BAdYMcuEQKvfuiP51AbhM) | [Yann](https://open.spotify.com/artist/3AvpOfIrL6UyrMb5r4kIeh) | [PARFUM ORANGE](https://open.spotify.com/album/00ansPkQ19Fm4pmPgPalTz) | 4:15 | 2025-05-26 | 2026-06-08 |
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 | 2024-06-04 | 2025-05-27 |
 | [Petit Homme](https://open.spotify.com/track/7jVit1MfVSmF57FNgP1079) | [Piche](https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn) | [Petit Homme](https://open.spotify.com/album/3QOg5k2uYxgKb1IIwhiK6o) | 2:16 | 2026-06-07 | 2026-09-14 |
@@ -138,8 +139,9 @@
 | [These Walls \(feat\. Pierre de Maere\)](https://open.spotify.com/track/67LH2dzXF67Oi80yJaVYd7) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [These Walls \(feat\. Pierre de Maere\)](https://open.spotify.com/album/4FKnJE18DVG0Msk4D3NSYW) | 3:37 | 2025-05-26 | 2026-06-08 |
 | [Time To Start Again](https://open.spotify.com/track/3WMXnozHORJk2Ztxr3UWpa) | [JANIS](https://open.spotify.com/artist/6yUYZsMTveUZ8yo8wsKSLN) | [Dolls](https://open.spotify.com/album/7d2hcNTA1ACfT3bgqMvTiG) | 3:16 | 2026-06-07 | 2026-07-27 |
 | [To the Wilder](https://open.spotify.com/track/5xjkxF6sKG9ANZuicTXWVm) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [WOODKID FOR DEATH STRANDING 2: ON THE BEACH](https://open.spotify.com/album/11Bzc0HtyaDwu6bT07poOx) | 4:39 | 2026-06-07 |  |
-| [tomboy](https://open.spotify.com/track/3pPsdOe3092wtNpjnJcuDN) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [tomboy](https://open.spotify.com/album/4BTQn9tntmR8ZubxMsUWow) | 3:14 | 2026-09-13 |  |
+| [tomboy](https://open.spotify.com/track/3pPsdOe3092wtNpjnJcuDN) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [tomboy](https://open.spotify.com/album/4BTQn9tntmR8ZubxMsUWow) | 3:14 | 2026-09-13 | 2026-10-23 |
 | [Too Much](https://open.spotify.com/track/2Gf36deg60mcWyagprxnCy) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 3:03 | 2024-06-04 | 2025-05-27 |
+| [Track 5](https://open.spotify.com/track/4wR2ueWgpEzprelpKiX1ib) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [LA FOUDRE](https://open.spotify.com/album/2VvPIsb2nd1cZuK9qnAdU5) | 0:00 | 2026-10-22 |  |
 | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR) | 3:51 | 2024-10-18 | 2025-05-27 |
 | [Une seule vie](https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Une seule vie](https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ) | 4:05 | 2026-08-30 | 2026-10-03 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2024-06-04 | 2026-06-08 |

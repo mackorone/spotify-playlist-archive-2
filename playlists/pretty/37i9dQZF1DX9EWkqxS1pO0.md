@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EWkqxS1pO0.md) - [plain]
 
 ### [Keşif](https://open.spotify.com/playlist/37i9dQZF1DX9EWkqxS1pO0)
 
-> Yeni favori sanatçını keşfet ⚡ Kapak: Ezgi B
+> Yeni favori sanatçını keşfet ⚡ Kapak: Peki Momés
 
 [Spotify](https://open.spotify.com/user/spotify) - 73,225 likes - 75 songs - 3 hr 52 min
 
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EWkqxS1pO0.md) - [plain]
 | 74 | [Avcı](https://open.spotify.com/track/2kW0o6GMI6vrrMZMVrwQU8) | [Sera Savaş](https://open.spotify.com/artist/0ZJEJs5ckjTCpL7BpyAHAF) | [Avcı](https://open.spotify.com/album/1TMzza2BjUc0lEgghtaot0) | 3:11 |
 | 75 | [Kürk Mantolu Madonna](https://open.spotify.com/track/6HvwhuIEt8Kme81VxtN6X6) | [Didem Özek](https://open.spotify.com/artist/3GAYms0mkGz0XGj8ua38bo) | [Kürk Mantolu Madonna](https://open.spotify.com/album/4uyZ4dSRKsqTF6HXYg79mN) | 2:44 |
 
-Snapshot ID: `AAAAAGNovpAtmqb2YG+a22HhgdipNzCV`
+Snapshot ID: `AAAAAFWhuTXUxz4hEZ5RSByrUicHtN8e`

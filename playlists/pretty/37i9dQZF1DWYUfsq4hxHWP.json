@@ -1,6 +1,6 @@
 {
   "description": "Fresh country music by independent artists every Wednesday. Cover: Jovi Greene, Artwork: Fan\u00e9lie Muselier\n",
-  "num_followers": 128190,
+  "num_followers": 128235,
   "original_name": "Fresh Finds Country",
   "owner": {
     "name": "Spotify",
@@ -98,6 +98,10 @@
         {
           "name": "Erin Kirby",
           "url": "https://open.spotify.com/artist/04VhqLBjrpeyOTrdH1ella"
+        },
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
         }
       ],
       "duration_ms": 173846,

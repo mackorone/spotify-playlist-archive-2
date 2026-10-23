@@ -2,9 +2,9 @@
 
 ### [South African Gospel](https://open.spotify.com/playlist/37i9dQZF1DXbBH5YfEiy7g)
 
-> Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
+> Praise and Worship your way with the best South African Gospel music\.  Cover: Nonthando Hlope
 
-275 songs - 1 day 6 hr 6 min
+276 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Methodist Medley](https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG) | [Nothando Hlophe](https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9) | [A NEW DAWN](https://open.spotify.com/album/7yzhKRm8sJIL8h4AmqW6b6) | 8:55 | 2025-10-24 |  |
 | [Mkhulumsebenzi](https://open.spotify.com/track/49kdVsVi2XuVxEnPHdwxnk) | [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ), [Oasis Worship](https://open.spotify.com/artist/7ayajVitzTv40GuERpcE72) | [All About Jesus](https://open.spotify.com/album/2gkN4HGwahDA9X52GFzwrx) | 5:01 | 2024-10-04 |  |
 | [Mlondolozi \- Live](https://open.spotify.com/track/6DFTcyNPTiG3iON72zGscu) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Mlondolozi](https://open.spotify.com/album/1c3fVc8kTxsYNPTAqANfUp) | 8:02 | 2025-03-14 | 2025-04-18 |
+| [Mmeli Wami \- Live](https://open.spotify.com/track/7Aja0ZEVjg3L5kscHNkmTI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Nothando Hlophe](https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9) | [Mmeli Wami \(Live\)](https://open.spotify.com/album/1oLmCNK6KyiqtV4wIwwdE0) | 6:12 | 2026-10-23 |  |
 | [Mmrane](https://open.spotify.com/track/5iLWh0plYIPG6lDs7sGOkB) | [DrumPIPO](https://open.spotify.com/artist/5h0tAAig7dghGyu529G6jI), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu) | [Mmrane](https://open.spotify.com/album/2LBeyV0CfD9P60qPtmxz0T) | 5:01 | 2024-12-13 | 2025-03-21 |
 | [Modisa Wa Dinku](https://open.spotify.com/track/4UnXuTOxpqvP05llekAKoD) | [IPCC YOUTH](https://open.spotify.com/artist/1mdnJbkFBtyxeqCJml77st) | [Modisa Wa Dinku](https://open.spotify.com/album/4V2QcMzsM2RWwf4eQ4NtVj) | 4:41 | 2025-04-18 | 2025-05-30 |
 | [Mofahlolodi](https://open.spotify.com/track/49baq6pqA2QCxgMrgGlKCm) | [5 Fold Worship](https://open.spotify.com/artist/5g9jOwxRVYqWHwXPM5ZUZD), [Winnie Maluleka](https://open.spotify.com/artist/4JKZj0YFC3VvipXUYZH0uK) | [Christ Exalted](https://open.spotify.com/album/5UiFJTfUB9pnYLgfyFIaGa) | 7:54 | 2026-04-17 | 2026-06-12 |

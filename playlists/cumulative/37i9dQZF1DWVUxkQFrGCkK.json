@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "5432",
+        "url": "https://open.spotify.com/album/59QC5SWaqrjr6okP13LlGY"
+      },
+      "artists": [
+        {
+          "name": "Sasha GiGi",
+          "url": "https://open.spotify.com/artist/49Gce8amMAHaw4B0Jfb8i5"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148507,
+      "name": "5432",
+      "url": "https://open.spotify.com/track/21oknABY0hhrDURo6xbxdX"
+    },
+    {
+      "album": {
         "name": "5AM Jungle Jam",
         "url": "https://open.spotify.com/album/212wqDkXbjhIKwHQiHsEPD"
       },
@@ -890,6 +908,24 @@
       "duration_ms": 208000,
       "name": "AFRAID",
       "url": "https://open.spotify.com/track/6mZeGv9bMJ0etcLHCNXCno"
+    },
+    {
+      "album": {
+        "name": "After Ego",
+        "url": "https://open.spotify.com/album/4Vn6BzSWQPMqIV9HnVxOpr"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215520,
+      "name": "After Ego",
+      "url": "https://open.spotify.com/track/4nlJJRvHkoXY1c4YrTP4uT"
     },
     {
       "album": {
@@ -1570,7 +1606,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 183143,
       "name": "Alpha",
       "url": "https://open.spotify.com/track/7xrLmTrwH5wN1U9t0s2Oi9"
@@ -3175,6 +3211,28 @@
     },
     {
       "album": {
+        "name": "Big Fun",
+        "url": "https://open.spotify.com/album/4taYQXekXXHW9Ogyh0cMqR"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Yamagucci",
+          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214364,
+      "name": "Big Fun",
+      "url": "https://open.spotify.com/track/5cAokCqIrVvaRGxNwWd1Ow"
+    },
+    {
+      "album": {
         "name": "Big Mouth",
         "url": "https://open.spotify.com/album/5NxOjr8MukjRCJWZe4FCvn"
       },
@@ -4158,7 +4216,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 209092,
       "name": "Bubbling",
       "url": "https://open.spotify.com/track/6GvfH6m9biXR8bL6WW8YX7"
@@ -5136,7 +5194,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 204500,
       "name": "Clifton Groove",
       "url": "https://open.spotify.com/track/1Vdet9UAmvOXKUf7MsLRX9"
@@ -8009,6 +8067,28 @@
     },
     {
       "album": {
+        "name": "Esta Si, Esta No",
+        "url": "https://open.spotify.com/album/3ZbEp0iA66MCULFdqvaVLo"
+      },
+      "artists": [
+        {
+          "name": "mOat",
+          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+        },
+        {
+          "name": "The Glimmers",
+          "url": "https://open.spotify.com/artist/0nuEpaqYFyVW97ypQsg96t"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205588,
+      "name": "Esta Si, Esta No",
+      "url": "https://open.spotify.com/track/4ujXS1pZ9GWYGXwLgLcTkx"
+    },
+    {
+      "album": {
         "name": "Euphoric",
         "url": "https://open.spotify.com/album/0HqE4saYBSo53OjV7kunSH"
       },
@@ -8372,7 +8452,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 182105,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
@@ -8868,6 +8948,24 @@
       "duration_ms": 409133,
       "name": "Feel The Rush - Honey Dijon Remix",
       "url": "https://open.spotify.com/track/17qcqOh2XjT3pYAzDipzNx"
+    },
+    {
+      "album": {
+        "name": "feel you",
+        "url": "https://open.spotify.com/album/2Z51SST1n4372eYXX1qcnp"
+      },
+      "artists": [
+        {
+          "name": "teddy",
+          "url": "https://open.spotify.com/artist/3cXLYj4Tkl0W3aHBk3rn8C"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "feel you",
+      "url": "https://open.spotify.com/track/1rGAo1B6N4Mnrq92i2IEGI"
     },
     {
       "album": {
@@ -10712,7 +10810,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 329220,
       "name": "Guacamole",
       "url": "https://open.spotify.com/track/1dODQqLzbfB6IHNirEhfv1"
@@ -12440,7 +12538,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 245877,
       "name": "Imaginary Voyage",
       "url": "https://open.spotify.com/track/26zhoQD32eQRV84iLpD2c5"
@@ -14619,6 +14717,32 @@
     },
     {
       "album": {
+        "name": "lagged out",
+        "url": "https://open.spotify.com/album/5W5MdtP1odRTXdCsOFZbyL"
+      },
+      "artists": [
+        {
+          "name": "MXGPU",
+          "url": "https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko"
+        },
+        {
+          "name": "Moullinex",
+          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+        },
+        {
+          "name": "GPU Panic",
+          "url": "https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206472,
+      "name": "lagged out",
+      "url": "https://open.spotify.com/track/6yPyeg7ZxBtMDwxCMaij6m"
+    },
+    {
+      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
       },
@@ -14652,7 +14776,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 195832,
       "name": "langur",
       "url": "https://open.spotify.com/track/3AiaMSTpzB3YapAP1wmhYj"
@@ -15466,7 +15590,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 207272,
       "name": "Livin' It Up (feat. Aaron Pfeiffer)",
       "url": "https://open.spotify.com/track/1HHKgaNHfXePWrd6e14evK"
@@ -17838,7 +17962,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 216205,
       "name": "Monologue",
       "url": "https://open.spotify.com/track/0VW7oyXCCUKjzc0cRXB64o"
@@ -17992,6 +18116,24 @@
       "duration_ms": 239284,
       "name": "Moozikah - Radio Mix",
       "url": "https://open.spotify.com/track/1IwKOHCNE8TwanPodf3uDc"
+    },
+    {
+      "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/7kVlYmNjc8HkBVSIXfZEsi"
+      },
+      "artists": [
+        {
+          "name": "Teenage Mutants",
+          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236608,
+      "name": "More Chaos",
+      "url": "https://open.spotify.com/track/42RcAtifo6bpSUR7E2wVmX"
     },
     {
       "album": {
@@ -27523,6 +27665,32 @@
     },
     {
       "album": {
+        "name": "The Pressure",
+        "url": "https://open.spotify.com/album/70wcsYzoqYNcAr6P5joexp"
+      },
+      "artists": [
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        },
+        {
+          "name": "Airrica",
+          "url": "https://open.spotify.com/artist/57sPl5iWgq5t6AscVbMTOW"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "The Pressure",
+      "url": "https://open.spotify.com/track/4tkSvmWpeoFHJVWLKKKxsu"
+    },
+    {
+      "album": {
         "name": "The Rapture Pt.III",
         "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
       },
@@ -31754,6 +31922,24 @@
       "duration_ms": 213230,
       "name": "Zone (feat. Poppy Baskcomb) - Late Replies Remix",
       "url": "https://open.spotify.com/track/3gum9Np6MkA3Jz8KpBItbq"
+    },
+    {
+      "album": {
+        "name": "Zoolander",
+        "url": "https://open.spotify.com/album/4kyAhZXrjak2lRoRD4lJ53"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178238,
+      "name": "Zoolander",
+      "url": "https://open.spotify.com/track/0r9uFqP5srMqWEkrBfWyjD"
     },
     {
       "album": {

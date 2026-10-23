@@ -5563,6 +5563,28 @@
     },
     {
       "album": {
+        "name": "BEBE",
+        "url": "https://open.spotify.com/album/7Bo390tlgeYdmz1OLzwxjp"
+      },
+      "artists": [
+        {
+          "name": "ALAN MAX",
+          "url": "https://open.spotify.com/artist/4OVGNBPR9zKzQRLRj98AHY"
+        },
+        {
+          "name": "MIGI",
+          "url": "https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "BEBE",
+      "url": "https://open.spotify.com/track/7MRXolqknPpPrDvkXA9DcQ"
+    },
+    {
+      "album": {
         "name": "BECHO",
         "url": "https://open.spotify.com/album/7mzFSuPUp3POWTyHpOzMkK"
       },
@@ -6012,7 +6034,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 145714,
       "name": "better know",
       "url": "https://open.spotify.com/track/5fAUfZgvbKGyn5s2GWzxmi"
@@ -8048,6 +8070,28 @@
       "duration_ms": 144000,
       "name": "B\u00e5da",
       "url": "https://open.spotify.com/track/3zZLfszBUlDjj98bHU48xu"
+    },
+    {
+      "album": {
+        "name": "YAP.",
+        "url": "https://open.spotify.com/album/4evAdGwkQGMwneArSgEMUp"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157419,
+      "name": "C LAVI",
+      "url": "https://open.spotify.com/track/5B15szla5wyq3e3Bwt7e3X"
     },
     {
       "album": {
@@ -16154,7 +16198,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 140794,
       "name": "Gammal & Fri",
       "url": "https://open.spotify.com/track/3Tgzh94thbwCf6sSX5McQM"
@@ -16949,6 +16993,28 @@
     },
     {
       "album": {
+        "name": "GUD SER ALLT",
+        "url": "https://open.spotify.com/album/4oUBBcyybAZgqhgtRfDD5n"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "NBLNATION",
+          "url": "https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139065,
+      "name": "GHETTO STARZ",
+      "url": "https://open.spotify.com/track/3cbLD0qAzfnZmVWcvJoiC6"
+    },
+    {
+      "album": {
         "name": "SKAPAD AV SM\u00c4RTAN",
         "url": "https://open.spotify.com/album/5JgB4y6k3WdxG5sVKfUzbp"
       },
@@ -17298,7 +17364,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 171428,
       "name": "GOLDEN AGE",
       "url": "https://open.spotify.com/track/2LofqhPV3EXUWeeGsV17rh"
@@ -24652,7 +24718,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 144466,
       "name": "La La",
       "url": "https://open.spotify.com/track/0XhxlUaL7njBxsKNQX8yvF"
@@ -26186,7 +26252,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 128750,
       "name": "Loro Piana",
       "url": "https://open.spotify.com/track/5QrDMKqIwM6OpXXdLCELZo"
@@ -28677,6 +28743,28 @@
     },
     {
       "album": {
+        "name": "Maybach",
+        "url": "https://open.spotify.com/album/7er53pqWE7DKkdqPNcybs2"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150874,
+      "name": "Maybach",
+      "url": "https://open.spotify.com/track/5DrnmrGglROCUNkG6Wku5s"
+    },
+    {
+      "album": {
         "name": "Mayweather",
         "url": "https://open.spotify.com/album/3PtiPMqPNtJGzQimy8C8l9"
       },
@@ -30104,6 +30192,28 @@
       "duration_ms": 177777,
       "name": "MIND GAME",
       "url": "https://open.spotify.com/track/6zHzaRHBp813fxXIspneRA"
+    },
+    {
+      "album": {
+        "name": "MINIMUM",
+        "url": "https://open.spotify.com/album/1Z0iPnzpFmoxogLJs18SlE"
+      },
+      "artists": [
+        {
+          "name": "Marti",
+          "url": "https://open.spotify.com/artist/031ZXIjZuiaU6ESOFNpGkm"
+        },
+        {
+          "name": "K9",
+          "url": "https://open.spotify.com/artist/1VBKHbKfHBJgDPbfG8O1SA"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144857,
+      "name": "MINIMUM",
+      "url": "https://open.spotify.com/track/1SMPGqY4zqdrawUrnOI6mJ"
     },
     {
       "album": {
@@ -32263,6 +32373,28 @@
     },
     {
       "album": {
+        "name": "N\u00c4R VIE TV\u00c5",
+        "url": "https://open.spotify.com/album/3Te3aqblmvXwkCpx45jhap"
+      },
+      "artists": [
+        {
+          "name": "Lekaye",
+          "url": "https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM"
+        },
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "N\u00c4R VIE TV\u00c5",
+      "url": "https://open.spotify.com/track/6NRUbUoqDviUVKKJpwcnPj"
+    },
+    {
+      "album": {
         "name": "N\u00e4rvaro",
         "url": "https://open.spotify.com/album/6nnUu4Im9qLyuvDT0xp6WX"
       },
@@ -32786,6 +32918,24 @@
       "duration_ms": 155000,
       "name": "Omr\u00e5det",
       "url": "https://open.spotify.com/track/71jVx5fK7X3zwOXs6aXsCX"
+    },
+    {
+      "album": {
+        "name": "OMt",
+        "url": "https://open.spotify.com/album/303fNHy3vNGUKDksxsI131"
+      },
+      "artists": [
+        {
+          "name": "IRM\u00c3O",
+          "url": "https://open.spotify.com/artist/38FjF8j532u7xIWCw0ykGp"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152903,
+      "name": "OMt",
+      "url": "https://open.spotify.com/track/5mH62JIZHztP1fMTo6csNp"
     },
     {
       "album": {
@@ -34560,7 +34710,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 139607,
       "name": "PIXEL",
       "url": "https://open.spotify.com/track/7bKjQEcsXoMygMyAg7SOpm"
@@ -40898,7 +41048,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 154029,
       "name": "St\u00e4nger Ner",
       "url": "https://open.spotify.com/track/7ucl54Fnq1UcSidY3a15ea"
@@ -46723,6 +46873,24 @@
     },
     {
       "album": {
+        "name": "GUD SER ALLT",
+        "url": "https://open.spotify.com/album/4oUBBcyybAZgqhgtRfDD5n"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140192,
+      "name": "VINNER",
+      "url": "https://open.spotify.com/track/2XpWB1Y9wjKKdpHgGsGUAa"
+    },
+    {
+      "album": {
         "name": "Djupare \u00c4n S\u00e5",
         "url": "https://open.spotify.com/album/2Pu7iNap0044hnwX4KfSgd"
       },
@@ -47786,7 +47954,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 124838,
       "name": "WHINE (feat. Naod)",
       "url": "https://open.spotify.com/track/2PLuU9yFCmlCYNelvRQWu0"

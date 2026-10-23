@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Fontaines D.C.",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: girl in red",
   "name": "Rock The World",
   "tracks": [
     {
@@ -2615,6 +2615,24 @@
     },
     {
       "album": {
+        "name": "Project Apollo",
+        "url": "https://open.spotify.com/album/1EuhwgHLu2WxD62atFR9qF"
+      },
+      "artists": [
+        {
+          "name": "brkfstblend",
+          "url": "https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261780,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4x2iQNSS8uG0UaWK9S159K"
+    },
+    {
+      "album": {
         "name": "Apologies",
         "url": "https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY"
       },
@@ -3142,7 +3160,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 227569,
       "name": "Back to Strange",
       "url": "https://open.spotify.com/track/0Q5RwM0XUjY4Y3HJ7LumyY"
@@ -3248,6 +3266,24 @@
       "duration_ms": 188808,
       "name": "BACKSTABBER",
       "url": "https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R"
+    },
+    {
+      "album": {
+        "name": "Play Niis",
+        "url": "https://open.spotify.com/album/229GwK7pxQ81okcU4phzEC"
+      },
+      "artists": [
+        {
+          "name": "Niis",
+          "url": "https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199449,
+      "name": "Bad Aim",
+      "url": "https://open.spotify.com/track/5QvDo7Q4jUaE4O8d07h4Us"
     },
     {
       "album": {
@@ -4072,7 +4108,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 253102,
       "name": "Beneath the skin",
       "url": "https://open.spotify.com/track/20sbKO8fi959Fl30xTa61t"
@@ -4796,7 +4832,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 156000,
       "name": "Blackstar",
       "url": "https://open.spotify.com/track/3GbhZOGi7PIDNhtTlPHPk2"
@@ -5953,6 +5989,24 @@
     },
     {
       "album": {
+        "name": "FINGERS CROSSED",
+        "url": "https://open.spotify.com/album/1gywVftidhH77Fv5DjRgNC"
+      },
+      "artists": [
+        {
+          "name": "ANORAK!",
+          "url": "https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129560,
+      "name": "BRITE",
+      "url": "https://open.spotify.com/track/7EarxSAzbNmgfNwo9NrVGE"
+    },
+    {
+      "album": {
         "name": "Isn\u2019t It Now?",
         "url": "https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf"
       },
@@ -7022,6 +7076,24 @@
       "duration_ms": 129187,
       "name": "Candles",
       "url": "https://open.spotify.com/track/4uJ91RNHU2dG3WBFpVtY6P"
+    },
+    {
+      "album": {
+        "name": "Mangsangrok",
+        "url": "https://open.spotify.com/album/7sLUHZBkkJT6bnJusTrysn"
+      },
+      "artists": [
+        {
+          "name": "Wonjin",
+          "url": "https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191578,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/1msR5LKmPPvM2lNF92Y8UX"
     },
     {
       "album": {
@@ -8872,7 +8944,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 146058,
       "name": "critic",
       "url": "https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7"
@@ -13188,7 +13260,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 228650,
       "name": "Falling Leaves",
       "url": "https://open.spotify.com/track/4XKGr6TLphQxIsoeDRdBYU"
@@ -13940,7 +14012,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 237623,
       "name": "Flotando",
       "url": "https://open.spotify.com/track/0sil8cOyRbfgEacLt771GW"
@@ -15609,6 +15681,24 @@
     },
     {
       "album": {
+        "name": "The Golden Age",
+        "url": "https://open.spotify.com/album/0lKcuS206Gp5R91qDO05v1"
+      },
+      "artists": [
+        {
+          "name": "mudy on the \u6628\u6669",
+          "url": "https://open.spotify.com/artist/7m3Wr9xcBXSiUysFwOMLnx"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209662,
+      "name": "GOLD",
+      "url": "https://open.spotify.com/track/4yVwrAG2WtCWkAJs1NJhue"
+    },
+    {
+      "album": {
         "name": "\u00c1TTA",
         "url": "https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v"
       },
@@ -15858,7 +15948,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 214262,
       "name": "Gooood",
       "url": "https://open.spotify.com/track/4g8AXp1bLK1qFeAs0MiYlo"
@@ -16690,6 +16780,32 @@
       "duration_ms": 187642,
       "name": "Heartclub",
       "url": "https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR"
+    },
+    {
+      "album": {
+        "name": "Heaven / Hell",
+        "url": "https://open.spotify.com/album/2NhwgbsbjIm20Jrk8fY2K3"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        },
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        },
+        {
+          "name": "cosign",
+          "url": "https://open.spotify.com/artist/3cdbzyqUBksxenoZ407Nru"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220296,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/78YbpssJJLdWrG4zyYEKME"
     },
     {
       "album": {
@@ -19024,6 +19140,24 @@
       "duration_ms": 243187,
       "name": "I Wish That You Would",
       "url": "https://open.spotify.com/track/2vsm98u08CG2g7ZoFwmeG0"
+    },
+    {
+      "album": {
+        "name": "meet me in my head",
+        "url": "https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242341,
+      "name": "i won't see you anymore",
+      "url": "https://open.spotify.com/track/6bPW43IkOiUyToxHaNXVWT"
     },
     {
       "album": {
@@ -23850,7 +23984,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 264000,
       "name": "Lucky, Forever",
       "url": "https://open.spotify.com/track/79zGDuB16RwJPPI5Vegmqa"
@@ -25052,6 +25186,24 @@
       "duration_ms": 234390,
       "name": "Missing",
       "url": "https://open.spotify.com/track/1xZiJQuvH4AMNjUPrd6P2g"
+    },
+    {
+      "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180890,
+      "name": "missing person",
+      "url": "https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9"
     },
     {
       "album": {
@@ -28090,6 +28242,28 @@
       "duration_ms": 137391,
       "name": "One & Only",
       "url": "https://open.spotify.com/track/3lHIanYBxMNZPcRRu0WmWr"
+    },
+    {
+      "album": {
+        "name": "One Car Hits Another",
+        "url": "https://open.spotify.com/album/52M9CYJhNksfE3v5RTRxlL"
+      },
+      "artists": [
+        {
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        },
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "One Car Hits Another",
+      "url": "https://open.spotify.com/track/2eCTdjEiWw5d1BH1GCvotP"
     },
     {
       "album": {
@@ -34093,6 +34267,24 @@
     },
     {
       "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/7bi37xGQrC5LMl66UG3KvI"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200218,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/0qdpMXB0cspUizTeX9q4xJ"
+    },
+    {
+      "album": {
         "name": "Slowly Turning Blue",
         "url": "https://open.spotify.com/album/4KUu1oPJyk1JRDPrBiVDHw"
       },
@@ -36024,7 +36216,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 349794,
       "name": "summer film",
       "url": "https://open.spotify.com/track/22XNz0VJZKVgM4CpbMLD0x"
@@ -37460,7 +37652,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 210418,
       "name": "The Cannonball",
       "url": "https://open.spotify.com/track/7Im1xu7Rv5x0IPzaG8EJYF"
@@ -42189,6 +42381,24 @@
     },
     {
       "album": {
+        "name": "Who You Callin' Crazy",
+        "url": "https://open.spotify.com/album/3a3jw6AMMrGQDnuPq2Y8jQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249425,
+      "name": "Who You Callin' Crazy",
+      "url": "https://open.spotify.com/track/6ObNPmAOuQRDekdah3BZQk"
+    },
+    {
+      "album": {
         "name": "Foreign Tongues, Loose Lips",
         "url": "https://open.spotify.com/album/1OjG4rVJguph3dmrpLZ5M3"
       },
@@ -42200,7 +42410,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 249425,
       "name": "Who You Callin' Crazy",
       "url": "https://open.spotify.com/track/6RoAAej2b94deRZ23FehHW"
@@ -43693,6 +43903,24 @@
     },
     {
       "album": {
+        "name": "Mangsangrok",
+        "url": "https://open.spotify.com/album/5EVU1kPrqbogDPEqTRRZsU"
+      },
+      "artists": [
+        {
+          "name": "Wonjin",
+          "url": "https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Yuranga",
+      "url": "https://open.spotify.com/track/26oKdWzutBsJWGS3GIwXdr"
+    },
+    {
+      "album": {
         "name": "ZERO",
         "url": "https://open.spotify.com/album/193cg1tYLtDoXIMpkJ8BS3"
       },
@@ -44070,7 +44298,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 181000,
       "name": "\u30ba\u30fc\u30ad\u30c3\u30c9\uff5cZookid",
       "url": "https://open.spotify.com/track/2MMFKAKnmYQL8KwGbcuidD"

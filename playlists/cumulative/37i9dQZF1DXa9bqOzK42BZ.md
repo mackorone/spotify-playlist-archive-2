@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-359 songs - 1 day 7 hr 36 min
+360 songs - 1 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Asante Yesu](https://open.spotify.com/track/01jj2QYoTFEDitFl5L8o0D) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7GETZelqlelMjLHcCVddt3) | 4:55 | 2022-06-24 | 2024-09-06 |
 | [Asante Yesu](https://open.spotify.com/track/2rUsag6KYqJAT2FikN7Kdt) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7xdM3ySr8c2PNbdrAKeZ3P) | 4:55 | 2022-06-24 | 2024-04-19 |
 | [Atafanya](https://open.spotify.com/track/6GVCASJsB3ly7jfatlcuUg) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Atafanya](https://open.spotify.com/album/4d2RvpianFuxJcnxLykgGJ) | 3:49 | 2025-04-18 | 2025-09-12 |
-| [Atamandike](https://open.spotify.com/track/0RRUV0QGiT9moyFxb1TY4U) | [Sam Mjura](https://open.spotify.com/artist/1IcS7BLrUJTNOUAd3Yc9Ki) | [Atamandike](https://open.spotify.com/album/1rDGzSyG5cgv8Rk3W1zSrc) | 11:35 | 2026-09-11 |  |
+| [Atamandike](https://open.spotify.com/track/0RRUV0QGiT9moyFxb1TY4U) | [Sam Mjura](https://open.spotify.com/artist/1IcS7BLrUJTNOUAd3Yc9Ki) | [Atamandike](https://open.spotify.com/album/1rDGzSyG5cgv8Rk3W1zSrc) | 11:35 | 2026-09-11 | 2026-10-23 |
 | [Atayamaliza](https://open.spotify.com/track/7nLXIEKcUuA4A4x2ciBauB) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Atayamaliza](https://open.spotify.com/album/1K6dsm4gy293nDwyXNbHUK) | 3:20 | 2025-09-12 | 2025-11-07 |
 | [Awesome God](https://open.spotify.com/track/6wZVduxtSmYnioxOjIsA5s) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Awesome God](https://open.spotify.com/album/5VpaMGKUtmyKP3lx7zo0gN) | 1:39 | 2025-05-16 | 2025-07-04 |
 | [Baba](https://open.spotify.com/track/5In8cdLEDCz2HfhoWMWLkU) | [Ally Fresh](https://open.spotify.com/artist/24M2bc8mgxvQdYvMZJFDPh), [Polaris Pauline](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA) | [Baba](https://open.spotify.com/album/0vdC1LjHlwFK0MSJ8BAoiq) | 5:33 | 2025-07-18 | 2026-02-05 |
@@ -118,6 +118,7 @@
 | [Kiwango](https://open.spotify.com/track/3fH9Cf2qHXkx1SGFJIM2Sk) | [Janet Otieno](https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY) | [Kiwango](https://open.spotify.com/album/0skrQ6ABdxhUxgsmFIX71M) | 3:09 | 2026-02-04 | 2026-02-06 |
 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 | 2023-06-16 |  |
 | [Kwa Maombi](https://open.spotify.com/track/6vrlnd03PjPB5UGdHJTT14) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O) | [Kwa Maombi](https://open.spotify.com/album/6qppeKr28BhCBT464qRsF0) | 2:43 | 2024-04-12 | 2024-10-18 |
+| [Kwa Neema](https://open.spotify.com/track/75z0PDyGgrN4VCkU2xiNvV) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Kwa Neema](https://open.spotify.com/album/24kPt3nkUYWA1gIH85omNb) | 4:24 | 2026-10-23 |  |
 | [Kwa Yesu](https://open.spotify.com/track/2zgITxAOZXWxt1JLAOlYxB) | [Izzo Bizness](https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF) | [Kwa Yesu](https://open.spotify.com/album/0aCIFPSAHCi3hppVF9aTeE) | 3:20 | 2024-03-01 | 2024-07-12 |
 | [Let it Shine](https://open.spotify.com/track/0hkU8PP3x9snLlXrBWujf8) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O) | [Let it Shine](https://open.spotify.com/album/6y9Nl5cM5tfC9VyCWB2TK5) | 3:10 | 2025-05-30 | 2025-07-04 |
 | [Let's Go](https://open.spotify.com/track/0fXYt9rF4chhP317CltuvU) | [Godfrey Steven](https://open.spotify.com/artist/3RJbUlHXjdGJxZNEskbv3o) | [Let's Go](https://open.spotify.com/album/4AH3F8atAWf8DnndPao3JS) | 3:38 | 2026-10-16 |  |

@@ -1,13 +1,457 @@
 {
   "description": "Listen to the official playlist for LUPIN, now streaming on Netflix.",
-  "num_followers": 8485,
+  "num_followers": 8488,
   "original_name": "LUPIN Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJvgvyMEHoF165hCXJTGRB+jBD4q",
+  "snapshot_id": "AAAAAKD4O1KytK68jMhZe+UtIdo7+Fg5",
   "tracks": [
+    {
+      "added_at": "2026-10-22 23:00:46",
+      "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "added_at": "2026-10-22 23:00:46",
+      "album": {
+        "name": "1950s Background Music, Vol. 3 - Home & Away",
+        "url": "https://open.spotify.com/album/56rYCa9YN3Yn1vOZI5xShB"
+      },
+      "artists": [
+        {
+          "name": "Paul Hamilton",
+          "url": "https://open.spotify.com/artist/7JTSbxgGPOre3RZHNEq4NN"
+        }
+      ],
+      "duration_ms": 50080,
+      "name": "Snuff Box",
+      "url": "https://open.spotify.com/track/3A3ovswpm837mYG7VPO7WL"
+    },
+    {
+      "added_at": "2026-10-22 23:00:46",
+      "album": {
+        "name": "French Touch 2.0",
+        "url": "https://open.spotify.com/album/4cc6RZvLYL3fS1QPZ4b54k"
+      },
+      "artists": [
+        {
+          "name": "SHIFUMI",
+          "url": "https://open.spotify.com/artist/4C9YXj56rAOYePCwbYCOYj"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "Paris Is Sleeping",
+      "url": "https://open.spotify.com/track/3WeycfwlbUBQAXrcAvxRrN"
+    },
+    {
+      "added_at": "2026-10-22 23:00:46",
+      "album": {
+        "name": "Bach: St John Passion",
+        "url": "https://open.spotify.com/album/5pH8igYvcppyYTw714cJZq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Joanne Lunn",
+          "url": "https://open.spotify.com/artist/2kbvqcZOJwj0a536bZ4Rjf"
+        },
+        {
+          "name": "Katherine Fuge",
+          "url": "https://open.spotify.com/artist/0A67d1Kg9y0mNiX4zUuw9b"
+        },
+        {
+          "name": "Bernarda Fink",
+          "url": "https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0"
+        },
+        {
+          "name": "Mark Padmore",
+          "url": "https://open.spotify.com/artist/68mTMM7rhA3YDSZX1VwuLy"
+        },
+        {
+          "name": "Robert Murray",
+          "url": "https://open.spotify.com/artist/4Y73wF8nW5IydfILy2Z8uw"
+        },
+        {
+          "name": "Paul Tindall",
+          "url": "https://open.spotify.com/artist/6QvJ1x8yoZ9v9fAjJJ2U4H"
+        },
+        {
+          "name": "Hanno M\u00fcller-Brachmann",
+          "url": "https://open.spotify.com/artist/3GZbx0qRSuyVjiOqU9TZQ1"
+        },
+        {
+          "name": "Peter Harvey",
+          "url": "https://open.spotify.com/artist/1f2LjOKVya7mchLI73LjuN"
+        },
+        {
+          "name": "Julian Clarkson",
+          "url": "https://open.spotify.com/artist/4qh7HS7Vq4v0OTcZxLeINt"
+        },
+        {
+          "name": "Monteverdi Choir",
+          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "duration_ms": 564146,
+      "name": "Pt. I: Chorale. Herr, unser Herrscher (Chorus)",
+      "url": "https://open.spotify.com/track/12NzPHHOwrjeMibOD5nbS2"
+    },
+    {
+      "added_at": "2026-10-22 23:00:46",
+      "album": {
+        "name": "La grande d\u00e9sillusion",
+        "url": "https://open.spotify.com/album/2UKpK4wcpUeCLOyvHG1gyS"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Epps",
+          "url": "https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn"
+        }
+      ],
+      "duration_ms": 178514,
+      "name": "capitaine flamme",
+      "url": "https://open.spotify.com/track/1XeQm1MgOXmmfj2TxXXyEs"
+    },
+    {
+      "added_at": "2026-10-22 23:00:46",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121880,
+      "name": "Song 2",
+      "url": "https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK"
+    },
+    {
+      "added_at": "2026-10-22 23:00:46",
+      "album": {
+        "name": "Country-Folk-Rock",
+        "url": "https://open.spotify.com/album/0FxJT0hhuFGtX2yLu48Cod"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "duration_ms": 217663,
+      "name": "L'aventure c'est l'aventure - Bande originale du film \"L'aventure c'est l'aventure\"",
+      "url": "https://open.spotify.com/track/6bZYSyu6HNzPQR9Ta3QgGc"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "Eat To The Beat",
+        "url": "https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 280324,
+      "name": "Atomic",
+      "url": "https://open.spotify.com/track/5QIbR39hAEDIOkr4ggh4xc"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
+        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
+      },
+      "artists": [
+        {
+          "name": "Linda Lyndell",
+          "url": "https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ"
+        }
+      ],
+      "duration_ms": 160373,
+      "name": "What A Man",
+      "url": "https://open.spotify.com/track/7dwJqwTXDtsrX1QLqb0o96"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "Harder Than Most",
+        "url": "https://open.spotify.com/album/2J3WKXQQ0T8WGryJRJphOc"
+      },
+      "artists": [
+        {
+          "name": "The MIDI Mafia",
+          "url": "https://open.spotify.com/artist/24V7vAxwpng8m935rLmGwd"
+        },
+        {
+          "name": "Chel Strong",
+          "url": "https://open.spotify.com/artist/5IQZJajZWvblyYQpdzQjLF"
+        },
+        {
+          "name": "Maxton Waller",
+          "url": "https://open.spotify.com/artist/0MBMglsiNuGZMTGmCXrlb9"
+        }
+      ],
+      "duration_ms": 198633,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/0Xno1LwsmRIRIPU09e0Nqt"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Lonely Boy",
+      "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "Volume 1 (3 albums: Super America)",
+        "url": "https://open.spotify.com/album/3kNsOrZbloHLQZS0gKxZzS"
+      },
+      "artists": [
+        {
+          "name": "Janko Nilovic",
+          "url": "https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9"
+        }
+      ],
+      "duration_ms": 191959,
+      "name": "Drug Song",
+      "url": "https://open.spotify.com/track/2XBjubKK9kafRfGm0FOXX7"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "Rituals",
+        "url": "https://open.spotify.com/album/12MSF8u9nEjGShsgteS0Lk"
+      },
+      "artists": [
+        {
+          "name": "Other Lives",
+          "url": "https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6"
+        }
+      ],
+      "duration_ms": 279718,
+      "name": "English Summer",
+      "url": "https://open.spotify.com/track/4T5KWGGwXTxlT2hyGKDtHb"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "Aux armes et caetera",
+        "url": "https://open.spotify.com/album/437n44rXu1XPP7pR075Fek"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 187160,
+      "name": "Aux armes et caetera",
+      "url": "https://open.spotify.com/track/6Z1487JY6p3cVxs5JVXkMZ"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "Que c'est triste Venise (Remastered 2014)",
+        "url": "https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 143466,
+      "name": "Hier encore",
+      "url": "https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "I Can See Clearly Now",
+        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
+      },
+      "artists": [
+        {
+          "name": "Johnny Nash",
+          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
+        }
+      ],
+      "duration_ms": 164733,
+      "name": "I Can See Clearly Now - Edit",
+      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "Cuz I Love You",
+        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 179978,
+      "name": "Cuz I Love You",
+      "url": "https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "Gentleman cambrioleur (Remastered)",
+        "url": "https://open.spotify.com/album/0heE3Y3mMKEg3aS083r8zW"
+      },
+      "artists": [
+        {
+          "name": "Jacques Dutronc",
+          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Gentleman cambrioleur - Remastered 2004",
+      "url": "https://open.spotify.com/track/2steMN9MG8voyVYWeUvgLP"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Reach Out I'll Be There",
+      "url": "https://open.spotify.com/track/2ELbFFbETUl4NYM7mWTmwj"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 395373,
+      "name": "I Got The... - 2006 Remaster",
+      "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "Sans plus attendre",
+        "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
+      },
+      "artists": [
+        {
+          "name": "Axelle Red",
+          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Sensualit\u00e9",
+      "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "Entertaining Made Simple: Mojitos, Mariscos, and Mambo",
+        "url": "https://open.spotify.com/album/5DiYz0awS3yRmk7e0K2KTG"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        },
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "Sway (with P\u00e9rez Prado y Su Orquesta)",
+      "url": "https://open.spotify.com/track/3WI631zHHQ5PuSMkywWHGT"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "S'il suffisait d'aimer",
+        "url": "https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "On ne change pas",
+      "url": "https://open.spotify.com/track/06T13g0Hh00zWwMjtpqIKU"
+    },
+    {
+      "added_at": "2023-10-05 08:56:13",
+      "album": {
+        "name": "The Human Octopus",
+        "url": "https://open.spotify.com/album/4nFqGxTrgWmVeMZdRW3VE0"
+      },
+      "artists": [
+        {
+          "name": "Cascadeur",
+          "url": "https://open.spotify.com/artist/5yUtzFVpUdN8UtyZzDD9o9"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "Meaning - Choral Version",
+      "url": "https://open.spotify.com/track/4ajEeUByf22nxfhqCHuJD9"
+    },
     {
       "added_at": "2023-10-05 08:56:13",
       "album": {
@@ -271,142 +715,6 @@
     {
       "added_at": "2023-10-05 08:56:13",
       "album": {
-        "name": "Eat To The Beat",
-        "url": "https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 280324,
-      "name": "Atomic",
-      "url": "https://open.spotify.com/track/5QIbR39hAEDIOkr4ggh4xc"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
-        "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
-      },
-      "artists": [
-        {
-          "name": "Linda Lyndell",
-          "url": "https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ"
-        }
-      ],
-      "duration_ms": 160373,
-      "name": "What A Man",
-      "url": "https://open.spotify.com/track/7dwJqwTXDtsrX1QLqb0o96"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "Harder Than Most",
-        "url": "https://open.spotify.com/album/2J3WKXQQ0T8WGryJRJphOc"
-      },
-      "artists": [
-        {
-          "name": "The MIDI Mafia",
-          "url": "https://open.spotify.com/artist/24V7vAxwpng8m935rLmGwd"
-        },
-        {
-          "name": "Chel Strong",
-          "url": "https://open.spotify.com/artist/5IQZJajZWvblyYQpdzQjLF"
-        },
-        {
-          "name": "Maxton Waller",
-          "url": "https://open.spotify.com/artist/0MBMglsiNuGZMTGmCXrlb9"
-        }
-      ],
-      "duration_ms": 198633,
-      "name": "Legends",
-      "url": "https://open.spotify.com/track/0Xno1LwsmRIRIPU09e0Nqt"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Lonely Boy",
-      "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "Volume 1 (3 albums: Super America)",
-        "url": "https://open.spotify.com/album/3kNsOrZbloHLQZS0gKxZzS"
-      },
-      "artists": [
-        {
-          "name": "Janko Nilovic",
-          "url": "https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9"
-        }
-      ],
-      "duration_ms": 191959,
-      "name": "Drug Song",
-      "url": "https://open.spotify.com/track/2XBjubKK9kafRfGm0FOXX7"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "Rituals",
-        "url": "https://open.spotify.com/album/12MSF8u9nEjGShsgteS0Lk"
-      },
-      "artists": [
-        {
-          "name": "Other Lives",
-          "url": "https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6"
-        }
-      ],
-      "duration_ms": 279718,
-      "name": "English Summer",
-      "url": "https://open.spotify.com/track/4T5KWGGwXTxlT2hyGKDtHb"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "Aux armes et caetera",
-        "url": "https://open.spotify.com/album/437n44rXu1XPP7pR075Fek"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 187160,
-      "name": "Aux armes et caetera",
-      "url": "https://open.spotify.com/track/6Z1487JY6p3cVxs5JVXkMZ"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "Que c'est triste Venise (Remastered 2014)",
-        "url": "https://open.spotify.com/album/0wcD2yLF9h3i41ryKQpgmK"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 143466,
-      "name": "Hier encore",
-      "url": "https://open.spotify.com/track/4ciRwt5dGHKKm8Et8r1xJ0"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
         "name": "Lupin (Music from Pt. 2 of the Netflix Original Series)",
         "url": "https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa"
       },
@@ -627,70 +935,6 @@
       "duration_ms": 132160,
       "name": "Dans l'ombre d'Assane",
       "url": "https://open.spotify.com/track/2o3ASwAvqTgH0yjlBsLTDZ"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "I Can See Clearly Now",
-        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
-      },
-      "artists": [
-        {
-          "name": "Johnny Nash",
-          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
-        }
-      ],
-      "duration_ms": 164733,
-      "name": "I Can See Clearly Now - Edit",
-      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "Cuz I Love You",
-        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 179978,
-      "name": "Cuz I Love You",
-      "url": "https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Reach Out I'll Be There",
-      "url": "https://open.spotify.com/track/2ELbFFbETUl4NYM7mWTmwj"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "Gentleman cambrioleur (Remastered)",
-        "url": "https://open.spotify.com/album/0heE3Y3mMKEg3aS083r8zW"
-      },
-      "artists": [
-        {
-          "name": "Jacques Dutronc",
-          "url": "https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Gentleman cambrioleur - Remastered 2004",
-      "url": "https://open.spotify.com/track/2steMN9MG8voyVYWeUvgLP"
     },
     {
       "added_at": "2023-10-05 08:56:13",
@@ -931,90 +1175,6 @@
       "duration_ms": 232149,
       "name": "Lupin",
       "url": "https://open.spotify.com/track/4U3wYpZPW7aXyUeL2tPtZd"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "Remember My Song",
-        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 395373,
-      "name": "I Got The... - 2006 Remaster",
-      "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "Sans plus attendre",
-        "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
-      },
-      "artists": [
-        {
-          "name": "Axelle Red",
-          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Sensualit\u00e9",
-      "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "Entertaining Made Simple: Mojitos, Mariscos, and Mambo",
-        "url": "https://open.spotify.com/album/5DiYz0awS3yRmk7e0K2KTG"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        },
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "Sway (with P\u00e9rez Prado y Su Orquesta)",
-      "url": "https://open.spotify.com/track/3WI631zHHQ5PuSMkywWHGT"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "S'il suffisait d'aimer",
-        "url": "https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "On ne change pas",
-      "url": "https://open.spotify.com/track/06T13g0Hh00zWwMjtpqIKU"
-    },
-    {
-      "added_at": "2023-10-05 08:56:13",
-      "album": {
-        "name": "The Human Octopus",
-        "url": "https://open.spotify.com/album/4nFqGxTrgWmVeMZdRW3VE0"
-      },
-      "artists": [
-        {
-          "name": "Cascadeur",
-          "url": "https://open.spotify.com/artist/5yUtzFVpUdN8UtyZzDD9o9"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "Meaning - Choral Version",
-      "url": "https://open.spotify.com/track/4ajEeUByf22nxfhqCHuJD9"
     }
   ],
   "unique_name": "LUPIN Official Playlist",

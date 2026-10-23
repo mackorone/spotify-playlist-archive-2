@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🍁
 
-663 songs - 1 day 15 hr 22 min
+665 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [L'oeil de la tempête](https://open.spotify.com/track/6hqZ7Gse9RLqbLl8SItu0s) | [Jeffrey Piton](https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8) | [L'oeil de la tempête](https://open.spotify.com/album/1G3KTeszRhkqwK5oK4QVZ8) | 3:34 | 2022-05-20 | 2022-07-19 |
 | [L'oiseau\-vitre](https://open.spotify.com/track/5hdcCZUXf2kunkOwbPBujv) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 2:55 | 2021-01-15 | 2021-10-02 |
 | [L'échafaud](https://open.spotify.com/track/4rfqSbkpuX1LFT0urfeGi8) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Dans la seconde](https://open.spotify.com/album/7HnrrSMdDJHGb3rlvLEqNx) | 4:33 | 2023-09-08 | 2023-10-24 |
-| [L'été indien de ta vie](https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [L'été indien de ta vie](https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM) | 3:58 | 2021-01-03\* |  |
+| [L'été indien de ta vie](https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [L'été indien de ta vie](https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM) | 3:58 | 2021-01-03\* | 2026-10-23 |
 | [L'île à vingt\-cinq sous](https://open.spotify.com/track/3MnFHWYVWEZjkfU58VgZrz) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [L'île à vingt\-cinq sous](https://open.spotify.com/album/4CMheRrzMJZI0bp7HBaBpB) | 3:33 | 2021-01-03\* | 2022-01-08 |
 | [L'île à vingt\-cinq sous](https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:35 | 2022-01-07 |  |
 | [La cabane \- Édit radio 2019](https://open.spotify.com/track/5kjI0AyV7R5B1zpEULRmGx) | [Soul & Sister](https://open.spotify.com/artist/6FKmH1yrlnresuuvHdY2lh) | [Soul & Sister \- EP](https://open.spotify.com/album/4gMf584x1lIKpnPrs7xHOK) | 3:12 | 2021-01-15 | 2022-07-28 |
@@ -363,7 +363,7 @@
 | [Lost With You](https://open.spotify.com/track/1zqxYmUku2McZZe7tXibAt) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6ciXEklHW7OVLHlZXZXobj) | 2:55 | 2024-04-12 | 2024-04-19 |
 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 | 2021-10-03 | 2026-09-12 |
 | [Loulou](https://open.spotify.com/track/0g28Z0SKGBVZZq6NB8NsEt) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Loulou](https://open.spotify.com/album/6f0reSlDkHWcTyELvgkYzA) | 3:34 | 2021-10-17 | 2021-11-16 |
-| [Love Is a Stranger \- Spotify Singles](https://open.spotify.com/track/1BSirCglKNnJ39ag8fhiK0) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Spotify Singles](https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3) | 3:42 | 2023-12-01 |  |
+| [Love Is a Stranger \- Spotify Singles](https://open.spotify.com/track/1BSirCglKNnJ39ag8fhiK0) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Spotify Singles](https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3) | 3:42 | 2023-12-01 | 2026-10-23 |
 | [Love Protect Us, Everyone \- Instrumental](https://open.spotify.com/track/31mJCrundFdUHgwKdRuIi5) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [Love Protect Us, Everyone \(Instrumental\)](https://open.spotify.com/album/5VlXxEQ75BxOpq4mW9ag28) | 2:51 | 2026-06-12 |  |
 | [Lubie](https://open.spotify.com/track/3WoduPYTnBKYKnawyMzrJE) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Ruche de mouches](https://open.spotify.com/album/3FDeFFaEu4I8IMd5heH2h8) | 3:17 | 2021-01-03\* | 2022-07-29 |
 | [Lubie](https://open.spotify.com/track/62ZILfGIjQ9y7CUyfoR0z2) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Ruche de mouches](https://open.spotify.com/album/0PgBQ2nr9lGwY49QjAhMaa) | 3:17 | 2022-07-08 | 2022-08-02 |
@@ -399,6 +399,7 @@
 | [Mille fois par jour](https://open.spotify.com/track/45oUYmvEEzXwGpT6Zk5hQf) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers : Part 2 \- EP](https://open.spotify.com/album/6zCtp5lmfpLYmvPfSSSBim) | 3:27 | 2021-01-15 | 2022-07-29 |
 | [Mille requiems](https://open.spotify.com/track/5R8pIhrZExMhSN6L1kb4zC) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [2004\-2019 Point Picot](https://open.spotify.com/album/5sNqgXko9G1IC8lIGJ718D) | 3:06 | 2021-01-18 | 2021-11-07 |
 | [Milles fois par jour](https://open.spotify.com/track/3KNWGc3CrZFWML2P9jNE9r) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers](https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh) | 3:26 | 2022-07-08 | 2022-08-19 |
+| [minable](https://open.spotify.com/track/5Tkf1sFqEqImeV6ETYPXMV) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw), [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [minable](https://open.spotify.com/album/1IlD9cwrjnNTBOqlilNnWI) | 2:39 | 2026-10-23 |  |
 | [Mirador](https://open.spotify.com/track/28G4d150k0L97C2rEBlafm) | [Ambre ciel](https://open.spotify.com/artist/33ZTmzZfwF05EqmpxweL2v) | [Mirador](https://open.spotify.com/album/51fwq1pDme4wmvmp97VSnc) | 4:09 | 2021-01-03\* | 2022-07-29 |
 | [Miroir](https://open.spotify.com/track/5TDFaPYthBso4zax3EbpAO) | [Georgian Bay](https://open.spotify.com/artist/2E2f1LWGVylKbzx2S8YAwi) | [Courage, Vol\. 2: Moon](https://open.spotify.com/album/7gAdZXiEQqp8pDVH8jgSLN) | 3:23 | 2021-01-15 | 2021-10-02 |
 | [Moi je t'aime](https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Moi je t'aime](https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx) | 2:57 | 2024-07-05 |  |
@@ -513,6 +514,7 @@
 | [Road](https://open.spotify.com/track/3DbBNZvZ4diIcuUimNEkbQ) | [Dj Cinéma Quartier Latin](https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD) | [Road](https://open.spotify.com/album/0Sq4am2UiAqBgdCZLDlrBb) | 4:49 | 2026-07-17 | 2026-08-02 |
 | [Roi de verre](https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Verger](https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe) | 3:33 | 2026-05-08 | 2026-05-30 |
 | [Rosier\-douleur](https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 2:18 | 2021-01-15 |  |
+| [Royallll \- Acoustic](https://open.spotify.com/track/0aZERRJPtlaPwLKYBuLbbc) | [Naïma Frank](https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23), [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Royallll \(Acoustic\)](https://open.spotify.com/album/6lpII3gcYlyNiD8cXVTXk4) | 2:49 | 2026-10-23 |  |
 | [Rue de l'ours \- version du dimanche](https://open.spotify.com/track/67q2II41CAGAn3XAeE3qpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Rue de l'ours](https://open.spotify.com/album/77bSNDdVvlZALzMY2LKpsH) | 2:22 | 2021-06-13 | 2021-09-11 |
 | [Régate](https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u) | [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR), [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [Régate](https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk) | 4:44 | 2026-01-30 |  |
 | [Rénos](https://open.spotify.com/track/4aCcNZIdgxiv3Wcykgb9gU) | [Kèthe Magané](https://open.spotify.com/artist/2xRd9oXpHOXzrED7JnyEZL) | [Rénos](https://open.spotify.com/album/2KtAOHXR5FajC5tDu0iH7t) | 2:58 | 2026-07-03 | 2026-08-08 |

@@ -1,12 +1,12 @@
 {
   "description": "La casa de lxs MC's. Foto: Liricistas",
-  "num_followers": 284561,
+  "num_followers": 284502,
   "original_name": "Rap Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGlWTGjNB8/8pNBojd/lYxVD8d+X",
+  "snapshot_id": "AAAAAFWh7Tb8Gg1aGCifJxLTaXzmpByI",
   "tracks": [
     {
       "added_at": "2026-05-28 21:42:43",
@@ -23,6 +23,30 @@
       "duration_ms": 231936,
       "name": "As\u00ed Es Mi Vida",
       "url": "https://open.spotify.com/track/0OsHLraLYEhKughSsF8Ccm"
+    },
+    {
+      "added_at": "2026-10-23 03:00:45",
+      "album": {
+        "name": "NO SOY IGUAL",
+        "url": "https://open.spotify.com/album/5Ur0l4EEPrBLnNFcGHIzp4"
+      },
+      "artists": [
+        {
+          "name": "Igna",
+          "url": "https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t"
+        },
+        {
+          "name": "Jonas Sanche",
+          "url": "https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9"
+        },
+        {
+          "name": "Lexter",
+          "url": "https://open.spotify.com/artist/7IFdRlM8n1AUJvKN5Eb7xj"
+        }
+      ],
+      "duration_ms": 169514,
+      "name": "NO SOY IGUAL",
+      "url": "https://open.spotify.com/track/62mzX0BTW3raGfao9D2YMd"
     },
     {
       "added_at": "2026-05-28 21:42:43",
@@ -129,6 +153,34 @@
       "url": "https://open.spotify.com/track/42bc3CpCMNo7TTiicv3YMD"
     },
     {
+      "added_at": "2026-10-23 03:00:45",
+      "album": {
+        "name": "R2L",
+        "url": "https://open.spotify.com/album/0SKdEAERCphX1J0PgSPSmk"
+      },
+      "artists": [
+        {
+          "name": "Ceaese",
+          "url": "https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9"
+        },
+        {
+          "name": "Marlon Breeze",
+          "url": "https://open.spotify.com/artist/6WI2aStGYkbt0vslpKmDkV"
+        },
+        {
+          "name": "Jonas Sanche",
+          "url": "https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9"
+        },
+        {
+          "name": "Young Lunv",
+          "url": "https://open.spotify.com/artist/5yHATlU9jk5wsWgu6B9UqD"
+        }
+      ],
+      "duration_ms": 226706,
+      "name": "R2L",
+      "url": "https://open.spotify.com/track/3PVhP3LGbttVKmrvGG4dFp"
+    },
+    {
       "added_at": "2026-05-28 21:42:43",
       "album": {
         "name": "Canci\u00f3n de una canci\u00f3n",
@@ -153,6 +205,22 @@
       "url": "https://open.spotify.com/track/2R0p96ZTDMrxo3I8wCCIhA"
     },
     {
+      "added_at": "2026-10-23 03:00:45",
+      "album": {
+        "name": "He vuelto",
+        "url": "https://open.spotify.com/album/7cji6AZW9KAsU3Ee2WvFIv"
+      },
+      "artists": [
+        {
+          "name": "ADIONE",
+          "url": "https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "He vuelto",
+      "url": "https://open.spotify.com/track/3MRI2z93lGIJiVjG3gXW6f"
+    },
+    {
       "added_at": "2026-05-28 21:42:43",
       "album": {
         "name": "Est\u00e1s Ac\u00e1",
@@ -171,6 +239,42 @@
       "duration_ms": 146156,
       "name": "Est\u00e1s Ac\u00e1",
       "url": "https://open.spotify.com/track/5S7D4nHIgs2oYIafo95xso"
+    },
+    {
+      "added_at": "2026-10-23 03:00:45",
+      "album": {
+        "name": "Solo Busco Paz y Mi Encendedor",
+        "url": "https://open.spotify.com/album/1FY6Fyi4k1keGmghuWSPU7"
+      },
+      "artists": [
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Santiago Insane",
+          "url": "https://open.spotify.com/artist/4IOUgrJ4rTkTA3B0Mz2iOz"
+        }
+      ],
+      "duration_ms": 240581,
+      "name": "Solo Busco Paz y Mi Encendedor",
+      "url": "https://open.spotify.com/track/563V1E8bshitu7erI6qbQ6"
+    },
+    {
+      "added_at": "2026-10-23 03:00:45",
+      "album": {
+        "name": "Encrucijada",
+        "url": "https://open.spotify.com/album/6Mp785IHyO1tNr2UhStT1y"
+      },
+      "artists": [
+        {
+          "name": "Cevlade",
+          "url": "https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY"
+        }
+      ],
+      "duration_ms": 237028,
+      "name": "Encrucijada",
+      "url": "https://open.spotify.com/track/0PjFH2ZhK4qdXjSDZKcL3M"
     },
     {
       "added_at": "2026-05-28 21:42:43",
@@ -259,6 +363,26 @@
       "duration_ms": 141642,
       "name": "Factos",
       "url": "https://open.spotify.com/track/0zP3M3XykDEovf9Vd04WEb"
+    },
+    {
+      "added_at": "2026-10-23 03:00:45",
+      "album": {
+        "name": "Rap Aberrante",
+        "url": "https://open.spotify.com/album/1OUaYq77XwiYBgoPJUIlBC"
+      },
+      "artists": [
+        {
+          "name": "Nitro MC",
+          "url": "https://open.spotify.com/artist/6fIgIbebL9YH2ZdRxur04y"
+        },
+        {
+          "name": "Ricto Metriklan",
+          "url": "https://open.spotify.com/artist/4XKXJ3Ys6HUbMMmgGx4mK3"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Rap Aberrante",
+      "url": "https://open.spotify.com/track/34YRa22yIL9eIjH0n54XRo"
     },
     {
       "added_at": "2026-05-28 21:42:43",

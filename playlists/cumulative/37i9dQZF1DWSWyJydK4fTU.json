@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Back to Sydney",
+        "url": "https://open.spotify.com/album/3MSliN07uvDugkD3hpxLfy"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191981,
+      "name": "Back to Sydney",
+      "url": "https://open.spotify.com/track/2rCTy5D432JQtZvkZVgkoL"
+    },
+    {
+      "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
       },
@@ -714,7 +732,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 190000,
       "name": "BEAUTY QUEEN",
       "url": "https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih"
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 184294,
       "name": "Curious",
       "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
@@ -2679,6 +2697,24 @@
     },
     {
       "album": {
+        "name": "Gute Zeiten",
+        "url": "https://open.spotify.com/album/54TXKHyEbffRqRNqCKet7w"
+      },
+      "artists": [
+        {
+          "name": "Philipp Poisel",
+          "url": "https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121371,
+      "name": "Gute Zeiten",
+      "url": "https://open.spotify.com/track/1mcSB2wza2uisSa0ItE7my"
+    },
+    {
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/1hR2Fahege0dQiUnRBm94b"
       },
@@ -3188,7 +3224,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 162855,
       "name": "I Blame Myself",
       "url": "https://open.spotify.com/track/6M96eRsP7LP2HHLR9S7a66"

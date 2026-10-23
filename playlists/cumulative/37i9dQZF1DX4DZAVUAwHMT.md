@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Lambrini Girls
 
-1,612 songs - 3 day 19 hr 12 min
+1,613 songs - 3 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1461,6 +1461,7 @@
 | [Too Soon](https://open.spotify.com/track/2idpJZnXSvfURT7xk9iYF0) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Loud Without Noise](https://open.spotify.com/album/2dAeC1Va8oTjkXEZ2laVxO) | 3:10 | 2023-01-13 | 2023-02-10 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-23 | 2024-09-21 |
 | [Top Of The Bill](https://open.spotify.com/track/5Nk0fgUhD5DwwjCjN7erYh) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Top Of The Bill](https://open.spotify.com/album/30mkZmbGPyvicNPNjC8xyz) | 3:53 | 2024-08-01 | 2024-08-16 |
+| [Tough](https://open.spotify.com/track/5lOpq5VJX1UrXYWLu59ONv) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Tough](https://open.spotify.com/album/0VL8TAjkk762506sV3DrqD) | 2:58 | 2026-10-21 |  |
 | [tough love](https://open.spotify.com/track/6ERnRiuKn7UoPjnrPIPkj5) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [tough love](https://open.spotify.com/album/5yAFypkqbOtxBzfI4AqQe9) | 4:31 | 2025-09-11 | 2025-10-10 |
 | [Tourniquet](https://open.spotify.com/track/3PDSQK3LBgjjbatSh1YSPt) | [Bleech 9:3](https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL) | [Tourniquet](https://open.spotify.com/album/2U1NHrusYm2RjcbX1tEi56) | 4:00 | 2026-10-01 |  |
 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 | 2025-09-11 | 2025-11-28 |

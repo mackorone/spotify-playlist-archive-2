@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "Psalms, Vol. 3",
+        "url": "https://open.spotify.com/album/3sQaSdmdi5IqMIUrm3Fg9f"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262326,
+      "name": "I Will Wait - Isaiah 40",
+      "url": "https://open.spotify.com/track/21GN5nvH10Wkx8re7yaOzM"
+    },
+    {
+      "album": {
         "name": "Hymns Live",
         "url": "https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx"
       },
@@ -904,7 +922,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 228330,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/1vxLrzkZv3VICnuuJoVDBH"
@@ -988,7 +1006,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 279973,
       "name": "Lord, I Need You",
       "url": "https://open.spotify.com/track/3rb16bvaqDbJxpAQMGYUcL"
@@ -1050,6 +1068,24 @@
       "duration_ms": 352629,
       "name": "My Portion - Live",
       "url": "https://open.spotify.com/track/3mwWdYeDIXIN6tSLhU7EOf"
+    },
+    {
+      "album": {
+        "name": "Psalms, Vol. 3",
+        "url": "https://open.spotify.com/album/3sQaSdmdi5IqMIUrm3Fg9f"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299524,
+      "name": "My Soul - Psalm 62",
+      "url": "https://open.spotify.com/track/3qK9aHGdRLUVl9OQazd8bm"
     },
     {
       "album": {

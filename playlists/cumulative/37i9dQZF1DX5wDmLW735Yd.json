@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Kings Of The Rollers",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Andromedik",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -684,7 +684,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 224738,
       "name": "All Gas No Brakes",
       "url": "https://open.spotify.com/track/2vUxFrEwyl98CsSGqh4qRy"
@@ -3108,6 +3108,24 @@
       "duration_ms": 156235,
       "name": "bluetooth",
       "url": "https://open.spotify.com/track/5XY1nWnaGz5pqk8ZrhgQpw"
+    },
+    {
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/4SaJAMrbH9q0MQYptDSwlZ"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/4CfzR9uAqdoh6XEqrDaMnm"
     },
     {
       "album": {
@@ -7667,6 +7685,32 @@
     },
     {
       "album": {
+        "name": "Energy (S.P.Y Remix)",
+        "url": "https://open.spotify.com/album/5CuHwpTf80PKVG6niZc4uY"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        },
+        {
+          "name": "Stush",
+          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
+        },
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Energy - S.P.Y Remix",
+      "url": "https://open.spotify.com/track/7psLmKpYZLv2LmsiW4hsac"
+    },
+    {
+      "album": {
         "name": "Energy In My Town",
         "url": "https://open.spotify.com/album/3zcoHevhvey3aATgRSHnyc"
       },
@@ -10499,6 +10543,28 @@
     },
     {
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/6cWBATso8E9mxPKY0DmSOA"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Shanice Forster",
+          "url": "https://open.spotify.com/artist/3UDGXYMa0lSNBNAh1638Qv"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179310,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/2ezZ3yWA8muZd7OWEW0hAQ"
+    },
+    {
+      "album": {
         "name": "Goldikus (feat. Cleveland Watkiss)",
         "url": "https://open.spotify.com/album/53cGY5xFfu4DeIn4uvnSyv"
       },
@@ -10706,6 +10772,24 @@
       "duration_ms": 203534,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/7q4fVHc05vJrMFayLV9Bw6"
+    },
+    {
+      "album": {
+        "name": "GOOD VIBES",
+        "url": "https://open.spotify.com/album/1ejTpCPpEJlN1Q9K2HHxnD"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213257,
+      "name": "GOOD VIBES",
+      "url": "https://open.spotify.com/track/23W6qooLKOs5qoN2B3uvn5"
     },
     {
       "album": {
@@ -11948,7 +12032,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 206896,
       "name": "Hold On Me",
       "url": "https://open.spotify.com/track/5dBZB6rvac4JOywPJn6VWG"
@@ -12580,6 +12664,24 @@
       "duration_ms": 290742,
       "name": "I Told Ya",
       "url": "https://open.spotify.com/track/37zfEtmjhbTorE2xZwJcTM"
+    },
+    {
+      "album": {
+        "name": "I Want It",
+        "url": "https://open.spotify.com/album/3fyYwIw63xPQjjGyuaR3k7"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184827,
+      "name": "I Want It",
+      "url": "https://open.spotify.com/track/0koM2DO4r86DTCrkgDbvcn"
     },
     {
       "album": {
@@ -13656,7 +13758,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 206500,
       "name": "Keep The Fire Burning",
       "url": "https://open.spotify.com/track/3lwM2nmvPa6Pomwk8O7pIC"
@@ -16201,6 +16303,24 @@
     },
     {
       "album": {
+        "name": "Me & You",
+        "url": "https://open.spotify.com/album/0tliVmDagENBlop1qMCxaE"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Me & You",
+      "url": "https://open.spotify.com/track/0P4LyH6wJAhs2ne7NLQDyG"
+    },
+    {
+      "album": {
         "name": "Medellin",
         "url": "https://open.spotify.com/album/3NyhA71nl9UGHMUGzWUSCn"
       },
@@ -16798,6 +16918,24 @@
       "duration_ms": 227703,
       "name": "More Than Anything (feat. Emeli Sand\u00e9) - CLIPZ - Joy & Pain Remix",
       "url": "https://open.spotify.com/track/3y8D6SlRDuQ8hM8bd0y7TG"
+    },
+    {
+      "album": {
+        "name": "Moscow Drive",
+        "url": "https://open.spotify.com/album/6gdSr33oA4V6SontVi7joH"
+      },
+      "artists": [
+        {
+          "name": "Dawn Wall",
+          "url": "https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Moscow Drive",
+      "url": "https://open.spotify.com/track/3tx9k75xhKvwiatS0kytNk"
     },
     {
       "album": {
@@ -18966,7 +19104,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 193103,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/56bocXIDqq8rOXL3aZcOIG"
@@ -24254,7 +24392,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 182500,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6GfWX1XBhE4kGuakM5KQha"
@@ -24356,7 +24494,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 205517,
       "name": "Step",
       "url": "https://open.spotify.com/track/32XslnrEDWn6fVFnY879aA"
@@ -26254,7 +26392,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 283618,
       "name": "Thread The Needle",
       "url": "https://open.spotify.com/track/64GeDOGstypWAsuvnztMnL"

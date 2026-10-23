@@ -6769,6 +6769,24 @@
     },
     {
       "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/48nM78Gx7RxQHOPx0prot4"
+      },
+      "artists": [
+        {
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180456,
+      "name": "Locked In",
+      "url": "https://open.spotify.com/track/4CLnVtnk9008KqvBUnsyuE"
+    },
+    {
+      "album": {
         "name": "Look At God",
         "url": "https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK"
       },
@@ -7761,6 +7779,24 @@
     },
     {
       "album": {
+        "name": "MY TIME",
+        "url": "https://open.spotify.com/album/5dNwbBQ8QaFlbB1M0U1hJt"
+      },
+      "artists": [
+        {
+          "name": "Macjosh",
+          "url": "https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183673,
+      "name": "MY TIME",
+      "url": "https://open.spotify.com/track/6WWAm7CghPd9tUVrGrZNt3"
+    },
+    {
+      "album": {
         "name": "Yahweh",
         "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
       },
@@ -8240,7 +8276,7 @@
       ],
       "date_added": "2026-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 611560,
       "name": "NO WEAPON",
       "url": "https://open.spotify.com/track/6N6HfrP1uSQUKrRDbKr8eF"
@@ -8964,7 +9000,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 153600,
       "name": "Onyeoma",
       "url": "https://open.spotify.com/track/1IaZ1BzX2m5fV7zly8KUSP"
@@ -9968,7 +10004,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 141818,
       "name": "Soji",
       "url": "https://open.spotify.com/track/10scp515H3OQXr4aT3CoID"
@@ -10250,6 +10286,24 @@
       "duration_ms": 288218,
       "name": "Surely Goodness (feat. Phil Thompson)",
       "url": "https://open.spotify.com/track/5p8eebjG6L3AS5JxGA6fSg"
+    },
+    {
+      "album": {
+        "name": "Surrounded By Giants",
+        "url": "https://open.spotify.com/album/7xXqifpLuxSIUPv84ZAlnC"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Surrounded",
+      "url": "https://open.spotify.com/track/5MGzVKz5Tc6SSbeeiZc3sm"
     },
     {
       "album": {

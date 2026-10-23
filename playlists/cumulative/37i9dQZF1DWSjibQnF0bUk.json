@@ -2529,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "Burukutu",
+        "url": "https://open.spotify.com/album/5fmsGkc9fvR1MYajeQFwB7"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311150,
+      "name": "Burukutu",
+      "url": "https://open.spotify.com/track/4vwzDIuXLtdevmmjPtnemz"
+    },
+    {
+      "album": {
         "name": "Chop Life, Vol. 1: Mzansi Chronicles",
         "url": "https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0"
       },
@@ -5471,6 +5489,24 @@
     },
     {
       "album": {
+        "name": "Goyard",
+        "url": "https://open.spotify.com/album/1qREK38x9lTjIBeo2X1pNS"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Goyard",
+      "url": "https://open.spotify.com/track/2Ts1hFAQq5k7sJFPiqt9Ff"
+    },
+    {
+      "album": {
         "name": "Feel the Bass",
         "url": "https://open.spotify.com/album/2r9HJir77mEuhrOZIK5Zle"
       },
@@ -7144,7 +7180,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 172069,
       "name": "KELEBU",
       "url": "https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj"
@@ -7758,6 +7794,24 @@
       "duration_ms": 282920,
       "name": "Loco Loco",
       "url": "https://open.spotify.com/track/6SvFJmOalLcBYl8hJIlp79"
+    },
+    {
+      "album": {
+        "name": "Loketo",
+        "url": "https://open.spotify.com/album/7FoN3QRhA0hjIxEIXGGi5w"
+      },
+      "artists": [
+        {
+          "name": "MIK",
+          "url": "https://open.spotify.com/artist/5iZb1gFGW7uP1NDHXJ7ZTG"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187943,
+      "name": "Loketo",
+      "url": "https://open.spotify.com/track/78EitsAHPADPQzPG1WHqLh"
     },
     {
       "album": {
@@ -10536,7 +10590,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 186028,
       "name": "Rock Me Gentle",
       "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
@@ -11371,7 +11425,7 @@
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 150545,
+      "duration_ms": 159272,
       "name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
       "url": "https://open.spotify.com/track/6irCSFEZshdPKI3F9kpW2i"
     },
@@ -11436,7 +11490,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 399314,
       "name": "SNOKONOKO",
       "url": "https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny"

@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> è una giornata 🌷 𝒷𝑒𝓁𝓁𝒾𝓈𝓈𝒾𝓂𝒶 🌷 se c'è Rareș in cover di Alta Rotazione
+> le canzone di cui siamo ossessionati 🎀 Angelina Mango in cover
 
-744 songs - 1 day 14 hr 13 min
+749 songs - 1 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Amaro](https://open.spotify.com/track/15ZWSMDQMfBKVn4zurLX7k) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:33 | 2025-10-16 | 2026-06-05 |
 | [Amaro](https://open.spotify.com/track/3OewdIjWctx4TH6jswXRrc) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/6O4eR8oKckFf9eDfFS9kkc) | 3:33 | 2024-12-05 | 2025-04-25 |
 | [AMARSI PER LAVORO](https://open.spotify.com/track/0wfKG2QPt5dtkRYmSAW8MC) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [AMARSI PER LAVORO](https://open.spotify.com/album/39u0x66QsKKz6vTA470oux) | 3:01 | 2024-11-13 | 2024-12-17 |
+| [Amateur \(feat\. Salmo\)](https://open.spotify.com/track/3lTpJpJwmDwoHlErwU5xZC) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Amateur](https://open.spotify.com/album/4wTAb0EVZi1ppAnGeJ0e9t) | 4:25 | 2026-10-22 |  |
 | [AMERICA INC.](https://open.spotify.com/track/0ODFKSdXfQg92EgSVGjf9q) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [AMERICA INC.](https://open.spotify.com/album/7tvw4XY5KPXxMCt2IqxYYH) | 3:56 | 2026-07-02 |  |
 | [Amica](https://open.spotify.com/track/6FW9kxYXQM7I5N7saKUf4c) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [MA IO SONO FUOCO](https://open.spotify.com/album/5whsiw7yvWXul5t8sWYYLQ) | 3:32 | 2025-10-09 | 2025-11-04 |
 | [Amica \(con Madame\)](https://open.spotify.com/track/7i8Er4LumB8lnNHwEMO1i2) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Amica \(con Madame\)](https://open.spotify.com/album/4vhF3wnRk7dodcMLoYGzvA) | 3:52 | 2026-09-17 |  |
@@ -89,6 +90,7 @@
 | [Bene \(da sola\)](https://open.spotify.com/track/5NPY05T2iSHZpGnK5f6tmS) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [SENZA FIATO](https://open.spotify.com/album/0gZdzP3fDtPZmxZbf3iX6Z) | 2:17 | 2026-04-23 | 2026-05-15 |
 | [BERLINO](https://open.spotify.com/track/3l109GEhkVYrTvDoKuNGlu) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 2:55 | 2025-10-23 | 2026-09-04 |
 | [Bianca](https://open.spotify.com/track/5ZuCGMKhsYhzFkugdD9x5P) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Bianca](https://open.spotify.com/album/04P48FCwXo0FsLy5DKBAHg) | 3:14 | 2025-11-20 | 2026-06-12 |
+| [Binari](https://open.spotify.com/track/5W2d6zo9JUzMcnpvI2Fh9D) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [BITTE LEBEN](https://open.spotify.com/album/6EZUFvYwPnU1brjq3fpNoF) | 2:41 | 2026-10-22 |  |
 | [Black Nirvana](https://open.spotify.com/track/0kcXZMVoH1q923xLM9OKf6) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Black Nirvana](https://open.spotify.com/album/0RG1VpmgkIuAN9UvBzuvGd) | 3:04 | 2024-07-01 | 2024-11-22 |
 | [Blue](https://open.spotify.com/track/6kfLv8uKJNS5DfodQAzpco) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:52 | 2026-05-28 | 2026-07-17 |
 | [BOCCONE AMARO \(feat\. Frah Quintale\)](https://open.spotify.com/track/5bUputnF7CN24u5YypmAiy) | [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [BOCCONE AMARO \(feat\. Frah Quintale\)](https://open.spotify.com/album/3a6IKyhI2gmtVDgSerpqgJ) | 3:09 | 2025-03-27 | 2025-04-18 |
@@ -450,6 +452,7 @@
 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 | 2024-07-01 | 2024-07-19 |
 | [Non ci si ama solo in primavera](https://open.spotify.com/track/6P0Bmiv2zEEroMtD3cBrAk) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Non ci si ama solo in primavera](https://open.spotify.com/album/4O4w4WbUZvNxPZ2ijhHCdw) | 3:20 | 2026-04-30 | 2026-05-22 |
 | [Non ho bisogno di te](https://open.spotify.com/track/4DM3aalAzejRhIEy4u5Oov) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Non ho bisogno di te](https://open.spotify.com/album/4xoyTSSSLTjh0arh3L8UzE) | 2:30 | 2024-07-01 | 2024-09-24 |
+| [Non Lo Diciamo A Nessuno](https://open.spotify.com/track/6afr3pf8eGKGOSIpTVAzSB) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Amateur](https://open.spotify.com/album/4wTAb0EVZi1ppAnGeJ0e9t) | 3:53 | 2026-10-22 |  |
 | [Non Lo So \(feat\. chiello\)](https://open.spotify.com/track/5mOazYGaNJnv1zxMyNH6Rc) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:54 | 2025-02-03 | 2025-04-11 |
 | [NON MI INNAMORERÓ](https://open.spotify.com/track/0nbjyJjpjkl75GvnPAEt3L) | [Pucho](https://open.spotify.com/artist/5ton3sbMDq2uEanAdRe8Vr), [Mia](https://open.spotify.com/artist/4vMEEtxrl4ZjxQ6uBWuYPc), [Cristy](https://open.spotify.com/artist/5jYnodT8UD7JrZhKisAOA9) | [NON MI INNAMORERÓ](https://open.spotify.com/album/3iG82eJmnlpJgHVIAjTawy) | 2:17 | 2026-09-28 |  |
 | [NON SEI PIÙ TU \(feat\. Lazza\)](https://open.spotify.com/track/1mkBx5wejPP9j4TVdcUQny) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TUTTO È POSSIBILE \- ATTO II](https://open.spotify.com/album/1GQv9fO8cPaKZtIoQT7qFK) | 2:54 | 2026-10-15 |  |
@@ -479,6 +482,7 @@
 | [Oh, Maria!](https://open.spotify.com/track/76AUGMgXgac6mPBF2gvjlb) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Oh, Maria!](https://open.spotify.com/album/0FVo6YC9EPxZLuhGyumnIg) | 3:11 | 2026-04-23 | 2026-05-15 |
 | [ok buonanotte](https://open.spotify.com/track/3D3tkwn0dPmNUg0R0o8qG7) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [ok buonanotte](https://open.spotify.com/album/5XcS6TmwOrLNWXGwIhJV51) | 2:37 | 2026-10-08 |  |
 | [Oltre il bosco](https://open.spotify.com/track/5mQVuoeT3MBoV10mWWIsH6) | [Vinicio Capossela](https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM) | [Oltre il bosco](https://open.spotify.com/album/0PUNfRIUq6iCvdWdXebGXk) | 3:53 | 2026-10-08 |  |
+| [OMBRE](https://open.spotify.com/track/0RanD45tjNfmAZ516XHIIF) | [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5), [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [LA TAVOLA DELL'UMORE](https://open.spotify.com/album/1XkRqSwZDuKqaEqDgD4Pra) | 2:16 | 2026-10-22 |  |
 | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/track/4kjNUtCESsc43Akyjstr8E) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/album/1CbkJFWbNADgydCD7cOoyP) | 3:03 | 2025-07-17 | 2025-08-08 |
 | [ONDA BLU](https://open.spotify.com/track/3DgaXWyyyn6A2vWmDpo2Gw) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ONDA BLU](https://open.spotify.com/album/1OgyUFXElwsJCjzAtQPqqi) | 2:26 | 2026-06-25 | 2026-07-10 |
 | [Ora che non ho più te](https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ora che non ho più te](https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf) | 5:03 | 2024-09-25 | 2025-07-18 |
@@ -579,6 +583,7 @@
 | [ROMANTICA](https://open.spotify.com/track/0P69lzMez4EK81zNq2zx6b) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [ROMANTICA](https://open.spotify.com/album/1515R9PDJhpiwKSuO8cnrK) | 2:21 | 2025-04-03 | 2025-05-27 |
 | [ROMANTICA](https://open.spotify.com/track/3jG1o72wNvvjQn2kDoNsIu) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ROMANTICA](https://open.spotify.com/album/10y0yFd5imPOaVmDIQ2lP1) | 3:13 | 2026-05-21 |  |
 | [Romantico Ma Muori](https://open.spotify.com/track/5lTTuESHokJHpSsEvvSR64) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Romantico Ma Muori](https://open.spotify.com/album/0js12ciEGYY4tTcCLKgwwY) | 2:46 | 2024-09-12 | 2025-05-09 |
+| [ROSE NERE](https://open.spotify.com/track/3LQRj8zNgaOmzMzm4eokRF) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [ROSE NERE](https://open.spotify.com/album/4ZZTocAQMwEHi08Hcd6HCp) | 2:24 | 2026-10-22 |  |
 | [RoseRovi](https://open.spotify.com/track/0ipLTHBWpIfrbAJdTWBIdt) | [Cate Lumina](https://open.spotify.com/artist/3EAlQVh9v7qGWoImwqgrYf) | [RoseRovi](https://open.spotify.com/album/48HGfVfD57X1WDlWj3m9Yo) | 2:17 | 2026-01-29 | 2026-03-13 |
 | [Rossetto e caffè](https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Rossetto e caffè](https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM) | 3:12 | 2024-07-25 | 2025-01-31 |
 | [RÀRECHE](https://open.spotify.com/track/5jZOwQ089xk0b3UUPK9169) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [RÀRECHE](https://open.spotify.com/album/5irYFPsqPMiV6ramtSx3al) | 2:51 | 2026-07-02 |  |

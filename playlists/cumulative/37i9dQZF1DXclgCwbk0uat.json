@@ -3913,6 +3913,36 @@
     },
     {
       "album": {
+        "name": "D\u00e9jate Llevar (Remix)",
+        "url": "https://open.spotify.com/album/4O6gpYuqbMbWa7SbvzbebC"
+      },
+      "artists": [
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "simonpizarro",
+          "url": "https://open.spotify.com/artist/06km6u8PLi9auhDEUAiiuX"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "D\u00e9jate Llevar - Remix",
+      "url": "https://open.spotify.com/track/7sNKMBtIlFzCJQrxcA8qd0"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -8966,7 +8996,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
@@ -9164,6 +9194,32 @@
       "duration_ms": 166342,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/4WegEknoxkBCLuRQf6BEEB"
+    },
+    {
+      "album": {
+        "name": "No Lo Pienses Tanto",
+        "url": "https://open.spotify.com/album/3EUBsyVWQTIIu91XLmPbpN"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Nacho G Flow",
+          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "No Lo Pienses Tanto",
+      "url": "https://open.spotify.com/track/75pdqhqJlq5m2eJ5rOzhYf"
     },
     {
       "album": {
@@ -10026,7 +10082,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 225868,
       "name": "Patient Zero",
       "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
@@ -10342,7 +10398,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 197872,
       "name": "Piso 30",
       "url": "https://open.spotify.com/track/3yeXPXxBOtksaJssgHqToz"
@@ -12294,6 +12350,24 @@
       "duration_ms": 120494,
       "name": "SENDA BELLAKONA",
       "url": "https://open.spotify.com/track/6g1u7IdhcA9rZUV3Pizsj8"
+    },
+    {
+      "album": {
+        "name": "SENSACIONESS",
+        "url": "https://open.spotify.com/album/0Ia0spLxbq9NuWopYJ8g9v"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205876,
+      "name": "SENSACIONESS",
+      "url": "https://open.spotify.com/track/6eaSKkmSqIIdp9gA57jbMU"
     },
     {
       "album": {

@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Everywhere Isn't Texas",
+        "url": "https://open.spotify.com/album/5yFf6i6q4rXBJfB517gIgg"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225910,
+      "name": "Handsome",
+      "url": "https://open.spotify.com/track/1ykRQZ3Bn6wloFBSjB7DSM"
+    },
+    {
+      "album": {
         "name": "Handsome",
         "url": "https://open.spotify.com/album/75L3Tq36JRPGF4z86UhVUw"
       },
@@ -1326,7 +1344,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 225910,
       "name": "Handsome",
       "url": "https://open.spotify.com/track/3GYuarvgsLv3X7FdKjqrqD"

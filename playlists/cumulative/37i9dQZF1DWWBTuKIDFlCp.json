@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Time More Perfect",
+        "url": "https://open.spotify.com/album/6SrJLXEGTSqs1GLrxjvQx0"
+      },
+      "artists": [
+        {
+          "name": "Devon Culture",
+          "url": "https://open.spotify.com/artist/2mONg2kaCioOztZG7Rz5yc"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "A Time More Perfect",
+      "url": "https://open.spotify.com/track/6mn8Kyg7aCnhWIIugF7dr9"
+    },
+    {
+      "album": {
         "name": "All My Fault",
         "url": "https://open.spotify.com/album/6BLqFgzvhLe3KCu9bdhqMX"
       },

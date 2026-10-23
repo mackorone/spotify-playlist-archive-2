@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "It's all about the song \ud83c\udfa7 cover: Mathilda Homer",
+  "description": "It's all about the song \ud83c\udfa7 cover: M\u00e9av",
   "name": "Common Thread",
   "tracks": [
     {
@@ -762,7 +762,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 188493,
       "name": "Alone Again (feat. Ogi)",
       "url": "https://open.spotify.com/track/7vQxupuGgNYpyMwsqVUqTr"
@@ -1992,7 +1992,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 148304,
       "name": "bones",
       "url": "https://open.spotify.com/track/5cCrD2c8F9RiDRmuIYKton"
@@ -2850,6 +2850,24 @@
       "duration_ms": 190842,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/7CxcxeNMisYRbiXULp7L0L"
+    },
+    {
+      "album": {
+        "name": "Blackwood Pew",
+        "url": "https://open.spotify.com/album/3GKeiffHVc0kIEKRcrm5Mc"
+      },
+      "artists": [
+        {
+          "name": "Muireann Bradley",
+          "url": "https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/0clyc1dGoaP5A9D9gOCxO1"
     },
     {
       "album": {
@@ -6356,7 +6374,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 248164,
       "name": "Good Reason",
       "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
@@ -8433,6 +8451,24 @@
     },
     {
       "album": {
+        "name": "If I Ever See Your Face Again",
+        "url": "https://open.spotify.com/album/4ZGTIK2g7ltnJfTUH4q3Ny"
+      },
+      "artists": [
+        {
+          "name": "Morten Harket",
+          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199424,
+      "name": "If I Ever See Your Face Again",
+      "url": "https://open.spotify.com/track/3qwecb3TmYtVFpBz5C5CiT"
+    },
+    {
+      "album": {
         "name": "Roots & Reverie",
         "url": "https://open.spotify.com/album/5zeb741Rx06speQU00HDEs"
       },
@@ -8520,7 +8556,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 172349,
       "name": "If You Ever Loved Me",
       "url": "https://open.spotify.com/track/1RzL3slVvnwjo06s4rgM6x"
@@ -8846,7 +8882,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 226840,
       "name": "It Would Be",
       "url": "https://open.spotify.com/track/7FOHuxnnNpNoB0t8BhTV0I"
@@ -10967,6 +11003,24 @@
     },
     {
       "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/5mutH6AczN5onZ1binwkvO"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180890,
+      "name": "missing person",
+      "url": "https://open.spotify.com/track/5kAoEEASRwkLd2EjxfBfJ9"
+    },
+    {
+      "album": {
         "name": "Missing Piece",
         "url": "https://open.spotify.com/album/5vhX0TFBnDHJUOneZUvW4l"
       },
@@ -11198,6 +11252,24 @@
       "duration_ms": 121544,
       "name": "My Baby Loves Me For Free - demo",
       "url": "https://open.spotify.com/track/2QNhVsgY7qQ2yEu4lkhgAv"
+    },
+    {
+      "album": {
+        "name": "I'm An Island In This World",
+        "url": "https://open.spotify.com/album/2OS7hZCuBAVI6dUauKu6MF"
+      },
+      "artists": [
+        {
+          "name": "Bunny Alex",
+          "url": "https://open.spotify.com/artist/4nlWIFbOLFZqLHPi4m8JH2"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189278,
+      "name": "My Body Is Glass My Feelings Are Paper",
+      "url": "https://open.spotify.com/track/69Fom7enYbwsqDT1ysm1hI"
     },
     {
       "album": {
@@ -13063,6 +13135,24 @@
     },
     {
       "album": {
+        "name": "Sweet Sorrow",
+        "url": "https://open.spotify.com/album/5aFNN6UmXPhjE5lBRsiV2r"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9av",
+          "url": "https://open.spotify.com/artist/0nBRo87bTZegzYDnIiWkH7"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228443,
+      "name": "Probate",
+      "url": "https://open.spotify.com/track/3084upu49uQBjy279UQRSC"
+    },
+    {
+      "album": {
         "name": "Proceed With Caution",
         "url": "https://open.spotify.com/album/7I8NZ7va9KWR4rh9UfDQYi"
       },
@@ -13280,6 +13370,24 @@
       "duration_ms": 202026,
       "name": "Relationships",
       "url": "https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ"
+    },
+    {
+      "album": {
+        "name": "repeat it aloud",
+        "url": "https://open.spotify.com/album/6BDQNNWm1JbPiJsEge6d8h"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281103,
+      "name": "repeat it aloud",
+      "url": "https://open.spotify.com/track/3vtrsh2EtUDyYqYAqW1m6H"
     },
     {
       "album": {
@@ -14524,7 +14632,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 235628,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/2nf5llRG3J5ZEkeGL4JSjA"
@@ -14632,7 +14740,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 235049,
       "name": "So Long",
       "url": "https://open.spotify.com/track/5KI9tNpndVD7U83Nugjl9X"
@@ -15184,7 +15292,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 134277,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/4yvH1DVTPkWcfaDtdJzYIi"
@@ -16718,7 +16826,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 256625,
       "name": "The Shadow",
       "url": "https://open.spotify.com/track/50KEUJtIiw308RKtXisVXA"
@@ -16808,7 +16916,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 207959,
       "name": "The Swell",
       "url": "https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS"
@@ -17259,6 +17367,24 @@
     },
     {
       "album": {
+        "name": "Tom and Jerry",
+        "url": "https://open.spotify.com/album/5PflBP4GjYSCtb54nCdra0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231554,
+      "name": "Tom and Jerry",
+      "url": "https://open.spotify.com/track/071WCTT7JXeHRFjMMX5MaT"
+    },
+    {
+      "album": {
         "name": "Incurable Optimist",
         "url": "https://open.spotify.com/album/1Aq9I9rA3kOyrrLJaoY5um"
       },
@@ -17382,6 +17508,24 @@
       "duration_ms": 192866,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
+    },
+    {
+      "album": {
+        "name": "Wishbone",
+        "url": "https://open.spotify.com/album/74G6slUrSojF3P2S9WTHjW"
+      },
+      "artists": [
+        {
+          "name": "Clara Mann",
+          "url": "https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/0WdTgNaOkg6ECF2C8id4ug"
     },
     {
       "album": {
@@ -18870,6 +19014,24 @@
       "duration_ms": 246000,
       "name": "Window Pain",
       "url": "https://open.spotify.com/track/5DuAEPlztPNBpNMOyktX6M"
+    },
+    {
+      "album": {
+        "name": "windowsill",
+        "url": "https://open.spotify.com/album/53Bt6mhHpzWxLM44wyW95b"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207071,
+      "name": "windowsill",
+      "url": "https://open.spotify.com/track/2YeBTRYPC4bh9Nsr51IVii"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Get cozy met deze playlist vol herfst hits! Met muziek van Sienna Spiro , Ilse DeLange,  Noah Kahan en meer...",
-  "num_followers": 130661,
+  "num_followers": 130664,
   "original_name": "HERFST 2026",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAA+YyE0V0QDgArJIS15Nz3TwH5i/zpO",
+  "snapshot_id": "AAA+auUVz1afFRj4RgSKJlLjwUPpaFHW",
   "tracks": [
     {
       "added_at": "2026-10-16 07:23:57",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-10-16 07:23:57",
       "album": {
-        "name": "I: Keep The Fire On",
-        "url": "https://open.spotify.com/album/73PTFhVbYlekS974F7GmSG"
-      },
-      "artists": [
-        {
-          "name": "DI-RECT",
-          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
-        }
-      ],
-      "duration_ms": 383609,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/3JSNvRfLyEk2JzJgira7rP"
-    },
-    {
-      "added_at": "2026-10-16 07:23:57",
-      "album": {
         "name": "The Great Divide: The Last Of The Bugs",
         "url": "https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18"
       },
@@ -155,22 +139,6 @@
       "duration_ms": 286967,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/77fL8ATR0dpUDLI0XLmDBV"
-    },
-    {
-      "added_at": "2026-10-16 07:23:57",
-      "album": {
-        "name": "I Won't Cry",
-        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 260146,
-      "name": "I Won\u2019t Cry",
-      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
     },
     {
       "added_at": "2026-10-19 07:42:59",
@@ -207,6 +175,22 @@
     {
       "added_at": "2026-10-16 07:23:57",
       "album": {
+        "name": "I: Keep The Fire On",
+        "url": "https://open.spotify.com/album/73PTFhVbYlekS974F7GmSG"
+      },
+      "artists": [
+        {
+          "name": "DI-RECT",
+          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
+        }
+      ],
+      "duration_ms": 383609,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/3JSNvRfLyEk2JzJgira7rP"
+    },
+    {
+      "added_at": "2026-10-16 07:23:57",
+      "album": {
         "name": "I Said I Love You First",
         "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
       },
@@ -227,6 +211,22 @@
     {
       "added_at": "2026-10-16 07:23:57",
       "album": {
+        "name": "I Won't Cry",
+        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 260146,
+      "name": "I Won\u2019t Cry",
+      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
+    },
+    {
+      "added_at": "2026-10-16 07:23:57",
+      "album": {
         "name": "Unloveu",
         "url": "https://open.spotify.com/album/58745aGSmbG4rHAxveiJww"
       },
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-10-16 07:23:57",
       "album": {
-        "name": "Niets Doen",
-        "url": "https://open.spotify.com/album/2k2s5a6JlV2olXRitmux9S"
-      },
-      "artists": [
-        {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 234879,
-      "name": "Niets Doen",
-      "url": "https://open.spotify.com/track/1mEV7KSc5jqIBjRTXFU5D7"
-    },
-    {
-      "added_at": "2026-10-16 07:23:57",
-      "album": {
         "name": "Illuminate (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/33NdfsbflGrwmKRMBq16Oz"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 244700,
       "name": "Cold In California (2016 Demo)",
       "url": "https://open.spotify.com/track/4A22LWVkhCKE7DvcRCfMdJ"
+    },
+    {
+      "added_at": "2026-10-16 07:23:57",
+      "album": {
+        "name": "Niets Doen",
+        "url": "https://open.spotify.com/album/2k2s5a6JlV2olXRitmux9S"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 234879,
+      "name": "Niets Doen",
+      "url": "https://open.spotify.com/track/1mEV7KSc5jqIBjRTXFU5D7"
     },
     {
       "added_at": "2026-10-16 07:23:57",
@@ -305,20 +305,24 @@
       "url": "https://open.spotify.com/track/2V1sCdp5P2uLVjPiPY9GMI"
     },
     {
-      "added_at": "2026-10-16 07:23:57",
+      "added_at": "2026-10-16 09:06:00",
       "album": {
-        "name": "Palace for the People",
-        "url": "https://open.spotify.com/album/1qog58rW47hLVPpG63TLyS"
+        "name": "expectations (feat. Chappell Roan)",
+        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
       },
       "artists": [
         {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 279576,
-      "name": "Heya",
-      "url": "https://open.spotify.com/track/1phV9t2iyMfjXxGygcQ75k"
+      "duration_ms": 223935,
+      "name": "expectations (feat. Chappell Roan)",
+      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
       "added_at": "2026-10-16 07:23:57",
@@ -335,6 +339,22 @@
       "duration_ms": 245755,
       "name": "High Hopes 3000",
       "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
+    },
+    {
+      "added_at": "2026-10-16 07:23:57",
+      "album": {
+        "name": "Songs In The Key Of Life - The EP",
+        "url": "https://open.spotify.com/album/7gzJYO9TskFpD4NnnVOWAj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 238930,
+      "name": "My Life Story Of Love",
+      "url": "https://open.spotify.com/track/3fcek9ONujbKm7piCwDBMN"
     },
     {
       "added_at": "2026-10-16 07:23:57",
@@ -383,26 +403,6 @@
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
-    },
-    {
-      "added_at": "2026-10-16 09:06:00",
-      "album": {
-        "name": "expectations (feat. Chappell Roan)",
-        "url": "https://open.spotify.com/album/1q9LM9xC5ebSY216u31FOx"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 223935,
-      "name": "expectations (feat. Chappell Roan)",
-      "url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD"
     },
     {
       "added_at": "2026-10-16 07:23:57",
@@ -567,22 +567,6 @@
       "duration_ms": 255984,
       "name": "Draw You Out - From The Hunger Games: Sunrise on the Reaping - The Album",
       "url": "https://open.spotify.com/track/5KTcGJKm4HgLhLt8Tc7EQ5"
-    },
-    {
-      "added_at": "2026-10-16 07:23:57",
-      "album": {
-        "name": "Songs In The Key Of Life - The EP",
-        "url": "https://open.spotify.com/album/7gzJYO9TskFpD4NnnVOWAj"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 238930,
-      "name": "My Life Story Of Love",
-      "url": "https://open.spotify.com/track/3fcek9ONujbKm7piCwDBMN"
     },
     {
       "added_at": "2026-10-16 07:23:57",

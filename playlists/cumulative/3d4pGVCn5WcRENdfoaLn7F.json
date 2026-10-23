@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Analog Soul",
+        "url": "https://open.spotify.com/album/6JiEvXmwnDAO0zIzo5pyNK"
+      },
+      "artists": [
+        {
+          "name": "David Barker",
+          "url": "https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193706,
+      "name": "Analog Soul",
+      "url": "https://open.spotify.com/track/4tP8QH7QwmLBZkez2niHVd"
+    },
+    {
+      "album": {
         "name": "Anfang unsrer Zeit",
         "url": "https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t"
       },
@@ -4601,6 +4619,24 @@
     },
     {
       "album": {
+        "name": "No Win",
+        "url": "https://open.spotify.com/album/7wCVj35diIeT3JWVsEY9rC"
+      },
+      "artists": [
+        {
+          "name": "New Delta",
+          "url": "https://open.spotify.com/artist/26cx8jdskWxVHoySlTAA7k"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181034,
+      "name": "No Win",
+      "url": "https://open.spotify.com/track/2mdVQXwWx1ALhwfBHhilLt"
+    },
+    {
+      "album": {
         "name": "Noches sin Luna",
         "url": "https://open.spotify.com/album/6dZzwhTELHgpFyIvC0TMVK"
       },
@@ -6490,6 +6526,24 @@
       "duration_ms": 188403,
       "name": "Take It",
       "url": "https://open.spotify.com/track/0L1IruULPPjjwAhsgIfVx6"
+    },
+    {
+      "album": {
+        "name": "Take It Off",
+        "url": "https://open.spotify.com/album/09Ar3ZgfMG0u02BjWUsPph"
+      },
+      "artists": [
+        {
+          "name": "Right Proper",
+          "url": "https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179126,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/0JK0goQyKIvGIOioaYYAcz"
     },
     {
       "album": {

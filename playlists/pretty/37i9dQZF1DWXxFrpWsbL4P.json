@@ -1,18 +1,18 @@
 {
-  "description": "Dans pisti haz\u0131r! Kapak: Mahmut Orhan, Francis Mercier",
-  "num_followers": 188823,
+  "description": "Dans pisti haz\u0131r! Kapak: Mahmut Orhan",
+  "num_followers": 188806,
   "original_name": "DANS 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALlv5ODzfrY8LVCnczokJ7lgCtfc",
+  "snapshot_id": "AAAAAAazlTy3pR0D9LDO1L9ksBIVzJtV",
   "tracks": [
     {
-      "added_at": "2026-10-01 21:00:17",
+      "added_at": "2026-10-22 21:00:33",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/69rkRq3gEQpP4N5DmKRHS4"
+        "name": "3",
+        "url": "https://open.spotify.com/album/54ZSaYsuHumqXgcBPzM5fC"
       },
       "artists": [
         {
@@ -20,13 +20,21 @@
           "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
         },
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+          "name": "Feri",
+          "url": "https://open.spotify.com/artist/5HUx5F96r97ha6Sjt6EsPe"
+        },
+        {
+          "name": "emir taha",
+          "url": "https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
         }
       ],
-      "duration_ms": 153201,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/2pDtBcRYeH0JB3KFOpIEA8"
+      "duration_ms": 207830,
+      "name": "Gurbet (feat. Shimza)",
+      "url": "https://open.spotify.com/track/2nHIwvtRJyk8a5zTQ9JdSR"
     },
     {
       "added_at": "2026-10-01 21:00:17",
@@ -89,6 +97,146 @@
       "url": "https://open.spotify.com/track/1yR4AWFlwkHzL9EkXu2SO9"
     },
     {
+      "added_at": "2026-10-22 21:00:33",
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/1vtw5lYtK9qT7xYnlPoSOL"
+      },
+      "artists": [
+        {
+          "name": "Ilkay Sencan",
+          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/7srPXvOTFpJhGsP8ZuRu0n"
+    },
+    {
+      "added_at": "2026-10-14 05:36:00",
+      "album": {
+        "name": "Bloody Fyah EP",
+        "url": "https://open.spotify.com/album/02N6aeY4Ue9kfXkHG3JQqh"
+      },
+      "artists": [
+        {
+          "name": "Deniz Tekin (TR)",
+          "url": "https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu"
+        },
+        {
+          "name": "Tolu",
+          "url": "https://open.spotify.com/artist/3L6t4eYFFLez7y5PQY4o4e"
+        }
+      ],
+      "duration_ms": 262886,
+      "name": "Bloody Fyah",
+      "url": "https://open.spotify.com/track/1sBZRFknJOzcuqVLaVBKz1"
+    },
+    {
+      "added_at": "2026-10-14 05:36:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/18kh7xMcSaZLOF1lyh2e8O"
+      },
+      "artists": [
+        {
+          "name": "Aiwaska",
+          "url": "https://open.spotify.com/artist/3VqggSPrC7SFYDSd6DN6DN"
+        },
+        {
+          "name": "Akira Arasawa",
+          "url": "https://open.spotify.com/artist/49nd3IGruLOeLA5JGSlRRM"
+        }
+      ],
+      "duration_ms": 257280,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2d09P8kvbBgv9AjdZaDqmp"
+    },
+    {
+      "added_at": "2026-10-01 21:00:17",
+      "album": {
+        "name": "That\u2019s The Law / Secret",
+        "url": "https://open.spotify.com/album/42dCSRwur2TayTo3MB2VLz"
+      },
+      "artists": [
+        {
+          "name": "Bora Uzer",
+          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "That's The Law",
+      "url": "https://open.spotify.com/track/6ULT3vNg9a45Ag9TpLOZn6"
+    },
+    {
+      "added_at": "2026-10-01 21:00:17",
+      "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/1d0y78G3d14qb7YysY5xGT"
+      },
+      "artists": [
+        {
+          "name": "Yigit Unal",
+          "url": "https://open.spotify.com/artist/4Hv9a7a3zhheufyn7gPL2O"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/7ob6Z9Y26JIMhy0qO5rAgq"
+    },
+    {
+      "added_at": "2026-10-01 21:00:17",
+      "album": {
+        "name": "Wellbeing",
+        "url": "https://open.spotify.com/album/6qQiHN58KpuEHOzNl2yF5p"
+      },
+      "artists": [
+        {
+          "name": "Murteza",
+          "url": "https://open.spotify.com/artist/3CuN1DrJQyWlGRB2iiyD4x"
+        }
+      ],
+      "duration_ms": 353617,
+      "name": "20smth",
+      "url": "https://open.spotify.com/track/1thFpbGcSQZuTNNQTcl9g6"
+    },
+    {
+      "added_at": "2026-10-14 05:36:00",
+      "album": {
+        "name": "Deviation of Time",
+        "url": "https://open.spotify.com/album/25OHiEXIn6uiDHdFBU16mP"
+      },
+      "artists": [
+        {
+          "name": "Bahri Bekil",
+          "url": "https://open.spotify.com/artist/3VXsrd84vzoeNiVgonCBlL"
+        }
+      ],
+      "duration_ms": 292363,
+      "name": "Selarii",
+      "url": "https://open.spotify.com/track/7hjOxsnUnAZM5azHByb4PB"
+    },
+    {
+      "added_at": "2026-10-01 21:00:17",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4Ews6zTm1tDOD6WIEx29EK"
+      },
+      "artists": [
+        {
+          "name": "Ayca",
+          "url": "https://open.spotify.com/artist/6qoCDVOriaEFwgYxU7MaTQ"
+        },
+        {
+          "name": "Victim (SE)",
+          "url": "https://open.spotify.com/artist/1bRKWcR84pvSJo1k9Em2iX"
+        }
+      ],
+      "duration_ms": 321774,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1nj5KZtkhWHUFME7FlDxAK"
+    },
+    {
       "added_at": "2026-10-14 05:36:00",
       "album": {
         "name": "May\u0131n Tarlas\u0131 (Remix)",
@@ -113,20 +261,44 @@
       "url": "https://open.spotify.com/track/55Aeih8XkAIuj9chrAM6xl"
     },
     {
-      "added_at": "2026-10-01 21:00:17",
+      "added_at": "2026-10-22 21:00:33",
       "album": {
-        "name": "Wellbeing",
-        "url": "https://open.spotify.com/album/6qQiHN58KpuEHOzNl2yF5p"
+        "name": "Lonely Ghost (Cem Gemalmaz Remix)",
+        "url": "https://open.spotify.com/album/49xGgASSJ3fFe9kmRYxp10"
       },
       "artists": [
         {
-          "name": "Murteza",
-          "url": "https://open.spotify.com/artist/3CuN1DrJQyWlGRB2iiyD4x"
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        },
+        {
+          "name": "Cem Gemalmaz",
+          "url": "https://open.spotify.com/artist/1Teuhfi833Ud7Jl3AnZRyZ"
         }
       ],
-      "duration_ms": 353617,
-      "name": "20smth",
-      "url": "https://open.spotify.com/track/1thFpbGcSQZuTNNQTcl9g6"
+      "duration_ms": 303471,
+      "name": "Lonely Ghost - (Cem Gemalmaz Remix)",
+      "url": "https://open.spotify.com/track/04byAiqz0cL2p87A5cVmij"
+    },
+    {
+      "added_at": "2026-10-01 21:00:17",
+      "album": {
+        "name": "Colors Collide",
+        "url": "https://open.spotify.com/album/6LBcn5Cx8AEo0dBHy8cGRb"
+      },
+      "artists": [
+        {
+          "name": "French 79",
+          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
+        },
+        {
+          "name": "New Constellations",
+          "url": "https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9"
+        }
+      ],
+      "duration_ms": 215170,
+      "name": "Colors Collide",
+      "url": "https://open.spotify.com/track/5pj1lxRJRonuzTu8DfsbUz"
     },
     {
       "added_at": "2026-10-14 05:36:00",
@@ -185,66 +357,6 @@
       "url": "https://open.spotify.com/track/2rW8bb1jJc4w4XmJ5kwHTH"
     },
     {
-      "added_at": "2026-10-14 05:36:00",
-      "album": {
-        "name": "Bloody Fyah EP",
-        "url": "https://open.spotify.com/album/02N6aeY4Ue9kfXkHG3JQqh"
-      },
-      "artists": [
-        {
-          "name": "Deniz Tekin (TR)",
-          "url": "https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu"
-        },
-        {
-          "name": "Tolu",
-          "url": "https://open.spotify.com/artist/3L6t4eYFFLez7y5PQY4o4e"
-        }
-      ],
-      "duration_ms": 262886,
-      "name": "Bloody Fyah",
-      "url": "https://open.spotify.com/track/1sBZRFknJOzcuqVLaVBKz1"
-    },
-    {
-      "added_at": "2026-10-01 21:00:17",
-      "album": {
-        "name": "Sinestesia",
-        "url": "https://open.spotify.com/album/3bDrawok1I0kejA7IBEiff"
-      },
-      "artists": [
-        {
-          "name": "Conrado Stein",
-          "url": "https://open.spotify.com/artist/3hlX8k8X5zTTkRw5icDEe3"
-        },
-        {
-          "name": "logos",
-          "url": "https://open.spotify.com/artist/1RtYA8YugrzNGCttUbOAku"
-        }
-      ],
-      "duration_ms": 297794,
-      "name": "Sinestesia",
-      "url": "https://open.spotify.com/track/51fbu8h7ySKPdfikcW43PA"
-    },
-    {
-      "added_at": "2026-10-14 05:36:00",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/18kh7xMcSaZLOF1lyh2e8O"
-      },
-      "artists": [
-        {
-          "name": "Aiwaska",
-          "url": "https://open.spotify.com/artist/3VqggSPrC7SFYDSd6DN6DN"
-        },
-        {
-          "name": "Akira Arasawa",
-          "url": "https://open.spotify.com/artist/49nd3IGruLOeLA5JGSlRRM"
-        }
-      ],
-      "duration_ms": 257280,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/2d09P8kvbBgv9AjdZaDqmp"
-    },
-    {
       "added_at": "2026-10-01 21:00:17",
       "album": {
         "name": "Vamos",
@@ -261,54 +373,6 @@
       "url": "https://open.spotify.com/track/1AcMf1MxfRI6wcYLntuS71"
     },
     {
-      "added_at": "2026-10-14 05:36:00",
-      "album": {
-        "name": "Deviation of Time",
-        "url": "https://open.spotify.com/album/25OHiEXIn6uiDHdFBU16mP"
-      },
-      "artists": [
-        {
-          "name": "Bahri Bekil",
-          "url": "https://open.spotify.com/artist/3VXsrd84vzoeNiVgonCBlL"
-        }
-      ],
-      "duration_ms": 292363,
-      "name": "Selarii",
-      "url": "https://open.spotify.com/track/7hjOxsnUnAZM5azHByb4PB"
-    },
-    {
-      "added_at": "2026-10-01 21:00:17",
-      "album": {
-        "name": "2 This",
-        "url": "https://open.spotify.com/album/39YiPEbLFmOgliiXBJ63zi"
-      },
-      "artists": [
-        {
-          "name": "Ede",
-          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
-        },
-        {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
-        },
-        {
-          "name": "Deniz Tekin (TR)",
-          "url": "https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu"
-        },
-        {
-          "name": "Rome Fortune",
-          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
-        },
-        {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
-        }
-      ],
-      "duration_ms": 187083,
-      "name": "2 This",
-      "url": "https://open.spotify.com/track/2KRkXR3I8mHGeQjZYALfHK"
-    },
-    {
       "added_at": "2026-10-01 21:00:17",
       "album": {
         "name": "Just A Little Bit More",
@@ -323,26 +387,6 @@
       "duration_ms": 214038,
       "name": "Just A Little Bit More",
       "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
-    },
-    {
-      "added_at": "2026-10-01 21:00:17",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4Ews6zTm1tDOD6WIEx29EK"
-      },
-      "artists": [
-        {
-          "name": "Ayca",
-          "url": "https://open.spotify.com/artist/6qoCDVOriaEFwgYxU7MaTQ"
-        },
-        {
-          "name": "Victim (SE)",
-          "url": "https://open.spotify.com/artist/1bRKWcR84pvSJo1k9Em2iX"
-        }
-      ],
-      "duration_ms": 321774,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/1nj5KZtkhWHUFME7FlDxAK"
     },
     {
       "added_at": "2026-10-01 21:00:17",
@@ -379,6 +423,26 @@
       "duration_ms": 206769,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/7nxu4fQ4ediLKWl8IdMVJ2"
+    },
+    {
+      "added_at": "2026-10-01 21:00:17",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/4RplSLz7P594BQMPMCNiPm"
+      },
+      "artists": [
+        {
+          "name": "Turker",
+          "url": "https://open.spotify.com/artist/4F52JqVRektZaOmMqLrun2"
+        },
+        {
+          "name": "The Element MT",
+          "url": "https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi"
+        }
+      ],
+      "duration_ms": 192817,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5oBMw7jtvDMmQYks6kcCId"
     },
     {
       "added_at": "2026-10-01 21:00:17",
@@ -491,78 +555,6 @@
       "duration_ms": 301965,
       "name": "Active",
       "url": "https://open.spotify.com/track/1Z6UO6f7kfcOEXANuowoN4"
-    },
-    {
-      "added_at": "2026-10-01 21:00:17",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/4RplSLz7P594BQMPMCNiPm"
-      },
-      "artists": [
-        {
-          "name": "Turker",
-          "url": "https://open.spotify.com/artist/4F52JqVRektZaOmMqLrun2"
-        },
-        {
-          "name": "The Element MT",
-          "url": "https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi"
-        }
-      ],
-      "duration_ms": 192817,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5oBMw7jtvDMmQYks6kcCId"
-    },
-    {
-      "added_at": "2026-10-01 21:00:17",
-      "album": {
-        "name": "Colors Collide",
-        "url": "https://open.spotify.com/album/6LBcn5Cx8AEo0dBHy8cGRb"
-      },
-      "artists": [
-        {
-          "name": "French 79",
-          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
-        },
-        {
-          "name": "New Constellations",
-          "url": "https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9"
-        }
-      ],
-      "duration_ms": 215170,
-      "name": "Colors Collide",
-      "url": "https://open.spotify.com/track/5pj1lxRJRonuzTu8DfsbUz"
-    },
-    {
-      "added_at": "2026-10-01 21:00:17",
-      "album": {
-        "name": "That\u2019s The Law / Secret",
-        "url": "https://open.spotify.com/album/42dCSRwur2TayTo3MB2VLz"
-      },
-      "artists": [
-        {
-          "name": "Bora Uzer",
-          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "That's The Law",
-      "url": "https://open.spotify.com/track/6ULT3vNg9a45Ag9TpLOZn6"
-    },
-    {
-      "added_at": "2026-10-01 21:00:17",
-      "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/1d0y78G3d14qb7YysY5xGT"
-      },
-      "artists": [
-        {
-          "name": "Yigit Unal",
-          "url": "https://open.spotify.com/artist/4Hv9a7a3zhheufyn7gPL2O"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/7ob6Z9Y26JIMhy0qO5rAgq"
     },
     {
       "added_at": "2026-10-01 21:00:17",

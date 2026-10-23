@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: bed
+> Discover your new favourite artists from UK&IE\. Cover: Nori
 
-378 songs - 20 hr 16 min
+379 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Grow](https://open.spotify.com/track/4HItNKYDDGULMD54P5Xjhi) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Grow](https://open.spotify.com/album/7LVihq2HJ2m2QzziPQbT0o) | 2:51 | 2022-02-18 |  |
 | [Grow](https://open.spotify.com/track/7JbaRWY8fMiSjUTyzl0rjG) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Grow](https://open.spotify.com/album/5EBOKp46O9bychlZ9ORB08) | 2:51 | 2024-01-19 | 2024-04-19 |
 | [guilt2001](https://open.spotify.com/track/3ntOkO36ncqOpwg9rwIXML) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Chi\-chi](https://open.spotify.com/artist/1wrin8e9eZnSWMh39DVAgz) | [INA CRUELER](https://open.spotify.com/album/3ubVyD69OGIio1WZ61Z9a5) | 2:26 | 2023-06-08 |  |
+| [hackney\_wick](https://open.spotify.com/track/668eTlw1gXdgd4yIPftSc6) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ) | [file\_1](https://open.spotify.com/album/1YQ1FXjnLHLYSFkq4XYm10) | 1:25 | 2026-10-22 |  |
 | [Hate Thy Neighbour](https://open.spotify.com/track/7bQZH9U2SaSBIb775NoCPt) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [Hate Thy Neighbour](https://open.spotify.com/album/5NtdjOe9zMiJEz5t6tyfrR) | 2:15 | 2023-02-17 |  |
 | [Hate You, I Love You](https://open.spotify.com/track/6ZLc2SAYbyqXTH4pZOfYVL) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Hate You, I Love You](https://open.spotify.com/album/3MEz34mMadTHxqUvEF1HFH) | 2:36 | 2022-02-18 |  |
 | [Haven](https://open.spotify.com/track/6PBWbcTVS9K0IwbM8RzrxO) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Haven](https://open.spotify.com/album/2kgkjzGau4O5UHvwvKRMSp) | 3:44 | 2024-08-15 |  |

@@ -35885,6 +35885,24 @@
     },
     {
       "album": {
+        "name": "Death Certificate",
+        "url": "https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313546,
+      "name": "No Vaseline",
+      "url": "https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si"
+    },
+    {
+      "album": {
         "name": "Sincerely, Kentrell",
         "url": "https://open.spotify.com/album/0M9H12x4U2F2VtAhQRuQ6S"
       },

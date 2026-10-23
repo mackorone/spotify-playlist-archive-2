@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,324 songs - 3 day 1 hr 18 min
+1,325 songs - 3 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Back to Me](https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Back to Me](https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp) | 4:28 | 2023-01-10 | 2023-03-25 |
 | [Back To The Stars](https://open.spotify.com/track/3OKq64mBkh7YM1DNkH8kPA) | [Justin OH](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Back To The Stars](https://open.spotify.com/album/6jFaTrPsJvsWouDobDWUeF) | 3:42 | 2025-12-18 | 2026-04-08 |
 | [Back To You](https://open.spotify.com/track/7wua5sZzdBAaPU6gO46b0N) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Back To You](https://open.spotify.com/album/2PauMsiWPwaQimpIJQWg02) | 2:54 | 2026-10-07 |  |
+| [Back Where It Started](https://open.spotify.com/track/1XeZXNVen3uclo74aGu8mM) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Paige Bea](https://open.spotify.com/artist/13OFf8e9FsAgMtdhivPhTA) | [Back Where It Started](https://open.spotify.com/album/5wJ5EcR9OgSqfJxRtkciaa) | 3:22 | 2026-10-22 |  |
 | [back2u](https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [back2u](https://open.spotify.com/album/5DnveAme2jwC8QO0NDqtug) | 2:54 | 2022-05-20 | 2022-08-02 |
 | [Backseat Lovers](https://open.spotify.com/track/1ZfkZlBTFl804LoRIvAvdq) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Melodramatic](https://open.spotify.com/album/5ioDu9pPJd1Jty8OuH9if7) | 2:52 | 2023-06-28 | 2023-09-26 |
 | [Bad For Me](https://open.spotify.com/track/72GaBNHL9g2LesqytanNbC) | [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Bad For Me](https://open.spotify.com/album/0sElqM1Zj7aQ2nvhI5MkVF) | 2:48 | 2026-08-06 |  |

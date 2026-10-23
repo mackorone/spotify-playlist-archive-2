@@ -1,12 +1,12 @@
 {
   "description": "Los mejores \u00e9xitos de hoy en Colombia. Foto: Feid\n",
-  "num_followers": 932134,
+  "num_followers": 932170,
   "original_name": "\u00c9xitos Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPIshNlHdYtf348FjUlhteefBj0Q",
+  "snapshot_id": "AAAAAHVI5KjULlNnFa4NMEqQur7CL/QF",
   "tracks": [
     {
       "added_at": "2026-10-16 00:01:52",
@@ -75,6 +75,22 @@
       "duration_ms": 225834,
       "name": "BbY WOW",
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
+        "name": "ETDK 2",
+        "url": "https://open.spotify.com/album/7MwIrn9idZgaFbTmmzz2DG"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "duration_ms": 161428,
+      "name": "RIKO",
+      "url": "https://open.spotify.com/track/1foTAQHxjSXKJRQxVtUcYV"
     },
     {
       "added_at": "2026-10-16 00:01:52",
@@ -271,26 +287,6 @@
     {
       "added_at": "2026-10-16 00:01:52",
       "album": {
-        "name": "ZIZI",
-        "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "ZIZI",
-      "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
-    },
-    {
-      "added_at": "2026-10-16 00:01:52",
-      "album": {
         "name": "Las mas bonitas son p#tas",
         "url": "https://open.spotify.com/album/6ylkMDI1T3kWWSeDdD8yyO"
       },
@@ -399,6 +395,34 @@
       "duration_ms": 244000,
       "name": "CAPCANA COCOA",
       "url": "https://open.spotify.com/track/5Otq7hczby9xJIplVweLBI"
+    },
+    {
+      "added_at": "2026-10-16 00:01:52",
+      "album": {
+        "name": "Hagalo",
+        "url": "https://open.spotify.com/album/55AQ3rQ74ctxjfmLAXS8Gc"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "COLVISION COMPANY",
+          "url": "https://open.spotify.com/artist/2Tezebe9huIrSi15tUM6gE"
+        },
+        {
+          "name": "Pty Audio",
+          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
+        },
+        {
+          "name": "Frvnz_la_F",
+          "url": "https://open.spotify.com/artist/0kSMX4Vqm3seoW1nxD8efk"
+        }
+      ],
+      "duration_ms": 156330,
+      "name": "Hagalo",
+      "url": "https://open.spotify.com/track/1IfiayrBBdKt8cixUD4nOp"
     },
     {
       "added_at": "2026-10-16 00:01:52",
@@ -655,22 +679,6 @@
     {
       "added_at": "2026-10-16 00:01:52",
       "album": {
-        "name": "H\u00e1blate de M\u00ed",
-        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 188612,
-      "name": "Doma",
-      "url": "https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz"
-    },
-    {
-      "added_at": "2026-10-16 00:01:52",
-      "album": {
         "name": "La Mar\u00eda",
         "url": "https://open.spotify.com/album/60vkloFJlu3niw4vEs4TH2"
       },
@@ -849,6 +857,34 @@
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
     },
     {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
+        "name": "Bachateo",
+        "url": "https://open.spotify.com/album/7oHTX0RGfij4fEsicMKSSE"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "COLVISION COMPANY",
+          "url": "https://open.spotify.com/artist/2Tezebe9huIrSi15tUM6gE"
+        },
+        {
+          "name": "Pty Audio",
+          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
+        },
+        {
+          "name": "Frvnz_la_F",
+          "url": "https://open.spotify.com/artist/0kSMX4Vqm3seoW1nxD8efk"
+        }
+      ],
+      "duration_ms": 138976,
+      "name": "Bachateo",
+      "url": "https://open.spotify.com/track/2uxr0pjA4XuAhprkOqPyNe"
+    },
+    {
       "added_at": "2026-10-16 00:01:52",
       "album": {
         "name": "9 months & 50 hours",
@@ -899,6 +935,22 @@
       "duration_ms": 188386,
       "name": "Rio",
       "url": "https://open.spotify.com/track/4m6FwXQm2GQNMn4u9xPhm2"
+    },
+    {
+      "added_at": "2026-10-23 00:01:44",
+      "album": {
+        "name": "Pa las Baby's Y Belikeada",
+        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 187076,
+      "name": "EXCESOS",
+      "url": "https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7"
     },
     {
       "added_at": "2026-10-16 00:01:52",
@@ -959,34 +1011,6 @@
     {
       "added_at": "2026-10-16 00:01:52",
       "album": {
-        "name": "Hagalo",
-        "url": "https://open.spotify.com/album/55AQ3rQ74ctxjfmLAXS8Gc"
-      },
-      "artists": [
-        {
-          "name": "K\u00f8ddy G",
-          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
-        },
-        {
-          "name": "COLVISION COMPANY",
-          "url": "https://open.spotify.com/artist/2Tezebe9huIrSi15tUM6gE"
-        },
-        {
-          "name": "Pty Audio",
-          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
-        },
-        {
-          "name": "Frvnz_la_F",
-          "url": "https://open.spotify.com/artist/0kSMX4Vqm3seoW1nxD8efk"
-        }
-      ],
-      "duration_ms": 156330,
-      "name": "Hagalo",
-      "url": "https://open.spotify.com/track/1IfiayrBBdKt8cixUD4nOp"
-    },
-    {
-      "added_at": "2026-10-16 00:01:52",
-      "album": {
         "name": "Griselda",
         "url": "https://open.spotify.com/album/6jdgaOCik27TmKvxVniKOx"
       },
@@ -1011,22 +1035,6 @@
       "duration_ms": 152000,
       "name": "Griselda",
       "url": "https://open.spotify.com/track/3fzvYTofpMbOVEv7EC0gZX"
-    },
-    {
-      "added_at": "2026-10-16 00:01:52",
-      "album": {
-        "name": "UWAIE",
-        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "UWAIE",
-      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     }
   ],
   "unique_name": "\u00c9xitos Colombia",

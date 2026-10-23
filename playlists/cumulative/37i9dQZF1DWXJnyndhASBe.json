@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: bambi",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: 730 Huncho",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -442,7 +442,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 146250,
       "name": "1DAY IN PL",
       "url": "https://open.spotify.com/track/16YDIubLgVHRGoFDtEzZb1"
@@ -1947,6 +1947,40 @@
     },
     {
       "album": {
+        "name": "AMSTERDAM CYPHER",
+        "url": "https://open.spotify.com/album/7myN5xNGXuVKDxkDfeRFgk"
+      },
+      "artists": [
+        {
+          "name": "vkie",
+          "url": "https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v"
+        },
+        {
+          "name": "Polskii",
+          "url": "https://open.spotify.com/artist/3K9F67zinkRZv0KQ24v35c"
+        },
+        {
+          "name": "W\u0142odi",
+          "url": "https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j"
+        },
+        {
+          "name": "CielOG",
+          "url": "https://open.spotify.com/artist/2KDDRiSQUC2X5Mb9j0Y2G6"
+        },
+        {
+          "name": "Def Jam World Tour",
+          "url": "https://open.spotify.com/artist/1PFMCqDezh9wVkmmWZlv16"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221090,
+      "name": "AMSTERDAM CYPHER",
+      "url": "https://open.spotify.com/track/1XHW6uFgfSctI8R63MWs0E"
+    },
+    {
+      "album": {
         "name": "Macrodosing",
         "url": "https://open.spotify.com/album/01nWaHBDli91cOvKShpivr"
       },
@@ -1970,6 +2004,24 @@
       "duration_ms": 165672,
       "name": "Android",
       "url": "https://open.spotify.com/track/4l3lt3da6phBSVfuhm6Xnp"
+    },
+    {
+      "album": {
+        "name": "ANDRZEJ GOATa",
+        "url": "https://open.spotify.com/album/4jU3BR824SEwYUd1jo14uX"
+      },
+      "artists": [
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "ANDRZEJ GOATa",
+      "url": "https://open.spotify.com/track/7vDOtldBigRtmfWJS5EMlC"
     },
     {
       "album": {
@@ -2250,7 +2302,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 217142,
       "name": "Ballada",
       "url": "https://open.spotify.com/track/1Ll8ulnIENXJTvUjjrfk1K"
@@ -2294,6 +2346,28 @@
       "duration_ms": 122181,
       "name": "Bandycka Jazda",
       "url": "https://open.spotify.com/track/5aLGfNAfjuJoY4ExmgqrTg"
+    },
+    {
+      "album": {
+        "name": "Bandyckie Marki",
+        "url": "https://open.spotify.com/album/2eHKWNOHdHUYqgaynygj79"
+      },
+      "artists": [
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117446,
+      "name": "Bandyckie Marki",
+      "url": "https://open.spotify.com/track/1ytYGO3zVqYQiStIfeZyff"
     },
     {
       "album": {
@@ -8880,7 +8954,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 108000,
       "name": "GLOBAL",
       "url": "https://open.spotify.com/track/3x3wnyRHpnTTzyyUwzDbYm"
@@ -9048,7 +9122,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 133135,
       "name": "Grand Soir",
       "url": "https://open.spotify.com/track/0MEH9MHfX1JK9hzY4V37L5"
@@ -10967,6 +11041,48 @@
     },
     {
       "album": {
+        "name": "QNDLE 2",
+        "url": "https://open.spotify.com/album/3KYr1tEnz86xtTxYwPsZ1H"
+      },
+      "artists": [
+        {
+          "name": "QMPLE",
+          "url": "https://open.spotify.com/artist/37RK3pp9FEV8w1t9K2nVEj"
+        },
+        {
+          "name": "Bober",
+          "url": "https://open.spotify.com/artist/03rREATXGWcD2CfG3OXDZY"
+        },
+        {
+          "name": "Filipek",
+          "url": "https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ"
+        },
+        {
+          "name": "Szymi Szyms",
+          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
+        },
+        {
+          "name": "OsaKa",
+          "url": "https://open.spotify.com/artist/1alHoDKed9iaWKNqiytBaF"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174795,
+      "name": "JEST GIT",
+      "url": "https://open.spotify.com/track/0M70EBJQB1xZ34WJfzxSGl"
+    },
+    {
+      "album": {
         "name": "JEST WEEKEND DZISIAJ",
         "url": "https://open.spotify.com/album/4eNc2dL1sxTCvg3YtSilJo"
       },
@@ -12420,6 +12536,32 @@
       "duration_ms": 194651,
       "name": "KSZTA\u0141T MI\u0141O\u015aCI",
       "url": "https://open.spotify.com/track/4QGnaYACkePKzWGbatWBeJ"
+    },
+    {
+      "album": {
+        "name": "Kto ile jest wart",
+        "url": "https://open.spotify.com/album/3LLIaPymWpd7pdp3ArT9zL"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        },
+        {
+          "name": "Szamz",
+          "url": "https://open.spotify.com/artist/2rbgb3tDxDpfhaN10sQzzE"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Kto ile jest wart",
+      "url": "https://open.spotify.com/track/3NKQYiu4UQpCd45N85B1ds"
     },
     {
       "album": {
@@ -17956,7 +18098,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 180000,
       "name": "ODDO",
       "url": "https://open.spotify.com/track/4GVRGoJZTvJ9iuavv9fwjb"
@@ -19128,6 +19270,32 @@
       "duration_ms": 169846,
       "name": "Par\u0119 chwil",
       "url": "https://open.spotify.com/track/5R33IF8ikzWMkvdSW0R3uk"
+    },
+    {
+      "album": {
+        "name": "NAJLEPSZE LATA",
+        "url": "https://open.spotify.com/album/2cKgFMPOZzI8tVvFWl552g"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9",
+          "url": "https://open.spotify.com/artist/1ecSx6BZlYBQvDa8HvXzRz"
+        },
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137118,
+      "name": "PAR\u0118 GROSZY",
+      "url": "https://open.spotify.com/track/34fcYavYm33URjrZNWwmHF"
     },
     {
       "album": {
@@ -20582,7 +20750,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 186947,
       "name": "PROSTA FUCHA",
       "url": "https://open.spotify.com/track/62Y1rJLkiWmMqbKXPRBOFs"
@@ -21558,7 +21726,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 203478,
       "name": "RED FLAG",
       "url": "https://open.spotify.com/track/3xJEnh3Cor6OxkUiRY3BoT"
@@ -24283,6 +24451,28 @@
     },
     {
       "album": {
+        "name": "TECHWEAR",
+        "url": "https://open.spotify.com/album/3xSKSGXitkRed8ROGjiZdz"
+      },
+      "artists": [
+        {
+          "name": "Gedz",
+          "url": "https://open.spotify.com/artist/1MZ1TtfmzMHEYIlynXsr1a"
+        },
+        {
+          "name": "GUNZ",
+          "url": "https://open.spotify.com/artist/3UUldAQXuHWEWoa2bAxeWQ"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167478,
+      "name": "TECHWEAR",
+      "url": "https://open.spotify.com/track/2mhWPuw3Ji8Geocz2DWcl1"
+    },
+    {
+      "album": {
         "name": "TEN GO\u015a\u0106",
         "url": "https://open.spotify.com/album/3XjKj7g9tiyBa3USkYnIlc"
       },
@@ -25644,6 +25834,24 @@
       "duration_ms": 160229,
       "name": "VIP PASS",
       "url": "https://open.spotify.com/track/3FiZ2j5hBf6MbtO1THXBDg"
+    },
+    {
+      "album": {
+        "name": "VIS-A-VIS",
+        "url": "https://open.spotify.com/album/2LFMVZbXfCNRF40azOwXIG"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139125,
+      "name": "VIS-A-VIS",
+      "url": "https://open.spotify.com/track/5H14LmvnU3fuNrOj0hoELt"
     },
     {
       "album": {
@@ -27172,7 +27380,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 151168,
       "name": "Wychowany przez przest\u0119pc\u00f3w",
       "url": "https://open.spotify.com/track/4as21OP83xdK6mB1QjloUr"

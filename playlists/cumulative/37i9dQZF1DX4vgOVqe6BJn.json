@@ -442,7 +442,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 150413,
       "name": "Au max",
       "url": "https://open.spotify.com/track/0Bw8tbPRVFXjiCuRA2rkMn"
@@ -6846,6 +6846,24 @@
       "duration_ms": 198130,
       "name": "Voodoo (with J Balvin & Tainy)",
       "url": "https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW"
+    },
+    {
+      "album": {
+        "name": "Ghosts (100 Days of Morning)",
+        "url": "https://open.spotify.com/album/3F9ZnOWuIZZpf3oV1SvRTy"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230328,
+      "name": "Waist 36 Leg 32",
+      "url": "https://open.spotify.com/track/3IPLwU2d6nETANRwM5OoLb"
     },
     {
       "album": {

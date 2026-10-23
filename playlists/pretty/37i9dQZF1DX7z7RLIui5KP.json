@@ -1,12 +1,12 @@
 {
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Iyanii",
-  "num_followers": 54657,
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Otile Brown",
+  "num_followers": 54681,
   "original_name": "Made In Kenya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHlHdt0enzUR3eeSSi4+AHHUrPia",
+  "snapshot_id": "AAAAAMwMv9qMfdnoC8H3Ex0pqdBDoex7",
   "tracks": [
     {
       "added_at": "2026-10-16 00:59:18",
@@ -23,6 +23,22 @@
       "duration_ms": 199591,
       "name": "I'll Be Okay",
       "url": "https://open.spotify.com/track/2trqi3m70mimZsDDOaIFkW"
+    },
+    {
+      "added_at": "2026-10-23 03:50:15",
+      "album": {
+        "name": "Sele",
+        "url": "https://open.spotify.com/album/0UsBJozBw2Ao77AEZjAloT"
+      },
+      "artists": [
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        }
+      ],
+      "duration_ms": 202372,
+      "name": "Sele",
+      "url": "https://open.spotify.com/track/0skDN5BlwyGLNvGeoiU77e"
     },
     {
       "added_at": "2026-10-16 00:59:18",
@@ -45,6 +61,26 @@
       "url": "https://open.spotify.com/track/4pk9OFnhaYFPKJay9EqYCm"
     },
     {
+      "added_at": "2026-10-23 03:50:15",
+      "album": {
+        "name": "Kwa Neema",
+        "url": "https://open.spotify.com/album/24kPt3nkUYWA1gIH85omNb"
+      },
+      "artists": [
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        },
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        }
+      ],
+      "duration_ms": 264166,
+      "name": "Kwa Neema",
+      "url": "https://open.spotify.com/track/75z0PDyGgrN4VCkU2xiNvV"
+    },
+    {
       "added_at": "2026-10-16 00:59:18",
       "album": {
         "name": "Kijana Wa Ingo",
@@ -65,6 +101,38 @@
       "url": "https://open.spotify.com/track/0q3uRtwdeS1dEm5biasd5p"
     },
     {
+      "added_at": "2026-10-23 03:50:15",
+      "album": {
+        "name": "IDWBU",
+        "url": "https://open.spotify.com/album/3t8BWSUMPBEBFaszZkCw7E"
+      },
+      "artists": [
+        {
+          "name": "Victoria Kimani",
+          "url": "https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf"
+        }
+      ],
+      "duration_ms": 112959,
+      "name": "IDWBU",
+      "url": "https://open.spotify.com/track/6w8XS5E1ez22Q4cEddrip9"
+    },
+    {
+      "added_at": "2026-10-23 03:50:15",
+      "album": {
+        "name": "Welcome to Kanairo",
+        "url": "https://open.spotify.com/album/0Nf9aTwU6dpqhzVs0Sa3yp"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        }
+      ],
+      "duration_ms": 236320,
+      "name": "Welcome to Kanairo",
+      "url": "https://open.spotify.com/track/5JZzQIx71SDZ4YtWXVCru5"
+    },
+    {
       "added_at": "2026-10-16 00:59:18",
       "album": {
         "name": "Somebody's Daughter",
@@ -79,6 +147,22 @@
       "duration_ms": 150857,
       "name": "Somebody's Daughter",
       "url": "https://open.spotify.com/track/2Wx7nu8Bz9Aw5IvoRGXAuX"
+    },
+    {
+      "added_at": "2026-10-23 03:50:15",
+      "album": {
+        "name": "Kamata Mtu",
+        "url": "https://open.spotify.com/album/0KktEFRiSmpnB8vsNfxPbJ"
+      },
+      "artists": [
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        }
+      ],
+      "duration_ms": 197938,
+      "name": "Kamata Mtu",
+      "url": "https://open.spotify.com/track/563oYQZdx8MSThLPgWjsGd"
     },
     {
       "added_at": "2026-10-16 00:59:18",
@@ -161,6 +245,26 @@
       "url": "https://open.spotify.com/track/555suDHTjFiyCVa9KkqOVb"
     },
     {
+      "added_at": "2026-10-23 03:50:15",
+      "album": {
+        "name": "Nakupenda",
+        "url": "https://open.spotify.com/album/5GMuIJlA9h3F4w7jsvaZJ7"
+      },
+      "artists": [
+        {
+          "name": "Gilad",
+          "url": "https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ"
+        },
+        {
+          "name": "Nazizi",
+          "url": "https://open.spotify.com/artist/4qgXjB39nKC8esWw9eEmYO"
+        }
+      ],
+      "duration_ms": 164050,
+      "name": "Nakupenda",
+      "url": "https://open.spotify.com/track/0qmzlBQFZrZ0TifXy51Mvw"
+    },
+    {
       "added_at": "2026-10-16 00:59:18",
       "album": {
         "name": "Ipepete (Remix)",
@@ -219,6 +323,22 @@
       "duration_ms": 235200,
       "name": "Healer",
       "url": "https://open.spotify.com/track/2wRrrlLs4fncP1TzVjt2Gt"
+    },
+    {
+      "added_at": "2026-10-23 03:50:15",
+      "album": {
+        "name": "Burning Everything",
+        "url": "https://open.spotify.com/album/4jIUefYolictFgKjPvDKxp"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "Burning Everything",
+      "url": "https://open.spotify.com/track/3MTB2ChmFdKVzDNp9WOe73"
     },
     {
       "added_at": "2026-10-16 00:59:18",
@@ -799,22 +919,6 @@
     {
       "added_at": "2026-10-16 00:59:18",
       "album": {
-        "name": "Korazon",
-        "url": "https://open.spotify.com/album/0oPcfA4s84CKAk8ruxCIr4"
-      },
-      "artists": [
-        {
-          "name": "Modest Chabari",
-          "url": "https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Korazon",
-      "url": "https://open.spotify.com/track/3ryaMwDkG6qP1OvEOrOmqV"
-    },
-    {
-      "added_at": "2026-10-16 00:59:18",
-      "album": {
         "name": "WORK IT OUT",
         "url": "https://open.spotify.com/album/2rle90HflR5WcfzPuevbXB"
       },
@@ -871,30 +975,6 @@
     {
       "added_at": "2026-10-16 00:59:18",
       "album": {
-        "name": "Kwama Nayo",
-        "url": "https://open.spotify.com/album/0lUYAsJoeg9P5BYP32UoVD"
-      },
-      "artists": [
-        {
-          "name": "theNairobiNomad",
-          "url": "https://open.spotify.com/artist/2tWbNgLqq5FAIN29T1v3k6"
-        },
-        {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
-        },
-        {
-          "name": "Ceke",
-          "url": "https://open.spotify.com/artist/4mVKiUZ9zJwWX2p4wmNgO3"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Kwama Nayo",
-      "url": "https://open.spotify.com/track/5pWBa5TGDSrbX9TlwRdzL1"
-    },
-    {
-      "added_at": "2026-10-16 00:59:18",
-      "album": {
         "name": "Hell Of A Night",
         "url": "https://open.spotify.com/album/0Lru0GcgdZnMcU3J1MgtVV"
       },
@@ -911,22 +991,6 @@
       "duration_ms": 213061,
       "name": "Hell Of A Night",
       "url": "https://open.spotify.com/track/2T7mz68Ha96CFfYVhJ6Fiw"
-    },
-    {
-      "added_at": "2026-10-16 00:59:18",
-      "album": {
-        "name": "Top Shotta",
-        "url": "https://open.spotify.com/album/3Al5YNLwEWsuvJB5kEQ2cv"
-      },
-      "artists": [
-        {
-          "name": "Collo Blue",
-          "url": "https://open.spotify.com/artist/36JUu7ydl5Is9601ZhpLw3"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Top Shotta",
-      "url": "https://open.spotify.com/track/6Y3sJ0YFGYq793RrpmxqAn"
     },
     {
       "added_at": "2026-10-16 00:59:18",

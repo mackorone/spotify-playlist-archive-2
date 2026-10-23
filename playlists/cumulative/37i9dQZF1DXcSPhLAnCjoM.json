@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"\u00c9t\u00e9 avec toi\" d'Ad\u00e8le Castillon est le Grand Hit de la semaine.  ",
+  "description": "\"Sur la piste\" d'Eva est le Grand Hit de la semaine.  ",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 176533,
       "name": "Escroc",
       "url": "https://open.spotify.com/track/3yYPNVUFRHwVx5Q3HINdO9"
@@ -5220,7 +5220,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 193666,
       "name": "Quand m\u00eame",
       "url": "https://open.spotify.com/track/4V9V7lUvb6DZFCa3XwJPbc"
@@ -6223,6 +6223,24 @@
     },
     {
       "album": {
+        "name": "Tricheur",
+        "url": "https://open.spotify.com/album/32ZKihSHtuK9M9ZHJJdqaf"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162626,
+      "name": "Tricheur",
+      "url": "https://open.spotify.com/track/1pytJFt4mxfD4sMd6qjj6U"
+    },
+    {
+      "album": {
         "name": "Triste",
         "url": "https://open.spotify.com/album/1o6aquW9UNM6TGJZgm48be"
       },
@@ -6610,6 +6628,24 @@
       "duration_ms": 137026,
       "name": "\u00e7a pik un peu quand m\u00eame",
       "url": "https://open.spotify.com/track/5NYys16a8WwOsNHowqVBPw"
+    },
+    {
+      "album": {
+        "name": "ADR\u00c9NALINE, LA R\u00c9\u00c9DITION",
+        "url": "https://open.spotify.com/album/1eOxvVovDuEtlCBDjdte9W"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167128,
+      "name": "\u00c9gar\u00e9",
+      "url": "https://open.spotify.com/track/0cfxcc6fEDeafzlO5yNUV4"
     },
     {
       "album": {

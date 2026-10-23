@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "You say guilty, we say non stop bangers!",
+  "description": "We never stopped believin' ",
   "name": "Guilty Pleasures",
   "tracks": [
     {
@@ -764,7 +764,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 240266,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p"
@@ -1795,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "Glee: The Music, The Complete Season Four",
+        "url": "https://open.spotify.com/album/4fZXOp8No89WLudGy6brXd"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237266,
+      "name": "Creep - Cover of Radiohead",
+      "url": "https://open.spotify.com/track/7t0u2dbZoby5Y6yWXY2zYG"
+    },
+    {
+      "album": {
         "name": "Here's To The Good Times",
         "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
       },
@@ -2088,7 +2106,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
@@ -2139,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "Glee LGBTQIA+ Pride",
+        "url": "https://open.spotify.com/album/6ndWxNXkozcZLcsCAVBctE"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165493,
+      "name": "Don't Rain On My Parade - Cover of Barbra Streisand",
+      "url": "https://open.spotify.com/track/4GqQMbkpyLRbbdmZcC5RuW"
+    },
+    {
+      "album": {
         "name": "The Essential Journey",
         "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
       },
@@ -2154,6 +2190,24 @@
       "duration_ms": 248906,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
+    },
+    {
+      "album": {
+        "name": "Glee LGBTQIA+ Pride",
+        "url": "https://open.spotify.com/album/6ndWxNXkozcZLcsCAVBctE"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230200,
+      "name": "Don't Stop Believin' - Cover of Journey",
+      "url": "https://open.spotify.com/track/18k2vGf6TWpBoy8ASTuPdS"
     },
     {
       "album": {
@@ -6282,7 +6336,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 239226,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
@@ -6715,6 +6769,28 @@
     },
     {
       "album": {
+        "name": "Glee: The Music presents The Warblers",
+        "url": "https://open.spotify.com/album/03uYg5C7TeB2Zu7cCzoAso"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        },
+        {
+          "name": "Darren Criss",
+          "url": "https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184653,
+      "name": "Somewhere Only We Know (feat. Darren Criss) - Cover of Keane",
+      "url": "https://open.spotify.com/track/7qekEQyGFRim7qNhxzkaLo"
+    },
+    {
+      "album": {
         "name": "Spiceworld",
         "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
       },
@@ -7036,6 +7112,24 @@
       "duration_ms": 221693,
       "name": "Superman (It's Not Easy)",
       "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
+    },
+    {
+      "album": {
+        "name": "Glee LGBTQIA+ Pride",
+        "url": "https://open.spotify.com/album/6ndWxNXkozcZLcsCAVBctE"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208573,
+      "name": "Survivor / I Will Survive - Cover of Destiny's Child and Gloria Gaynor",
+      "url": "https://open.spotify.com/track/4icPLUSRwaYZSTqmC3HQBA"
     },
     {
       "album": {
@@ -7854,7 +7948,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 269786,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/5prTs2HAw2G4idHZyeFp8o"
@@ -7944,7 +8038,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 278960,
       "name": "Tubthumping",
       "url": "https://open.spotify.com/track/5YScXJKtefsgdskIy60N7A"

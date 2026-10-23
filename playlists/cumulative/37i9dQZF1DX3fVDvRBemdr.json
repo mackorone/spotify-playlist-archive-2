@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop. Cover: JANEY",
+  "description": "De nieuwste Hollands & Volkspop. Cover: Jan Smit",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -1145,6 +1145,24 @@
     },
     {
       "album": {
+        "name": "Amarillo",
+        "url": "https://open.spotify.com/album/1XLgsHDoyPju3itFfsdKiH"
+      },
+      "artists": [
+        {
+          "name": "Jurgen Geers",
+          "url": "https://open.spotify.com/artist/2JN04M6UtYdHKtN4G1LBM7"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Amarillo",
+      "url": "https://open.spotify.com/track/1wrQccu69oY8PujdEeW9nM"
+    },
+    {
+      "album": {
         "name": "Amor De Mis Amores (De Pijn Zit Diep In Mij)",
         "url": "https://open.spotify.com/album/3znIkOJ8gx864A0YFsLUel"
       },
@@ -2106,7 +2124,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 121512,
       "name": "Cheerio Summer Mix",
       "url": "https://open.spotify.com/track/1kpq0c9ErTJIaR3MPJz6sn"
@@ -4430,7 +4448,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 163750,
       "name": "Fissaman\u2019s Friend",
       "url": "https://open.spotify.com/track/3tvMPPSySL0hqIPRk5Exwq"
@@ -6483,6 +6501,24 @@
     },
     {
       "album": {
+        "name": "Ik Ga Weer Met de Vlam in de Pijp",
+        "url": "https://open.spotify.com/album/7lfkxrlgTpm4TzOItgPag9"
+      },
+      "artists": [
+        {
+          "name": "Henk Wijngaard",
+          "url": "https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200240,
+      "name": "Ik Ga Weer Met de Vlam in de Pijp",
+      "url": "https://open.spotify.com/track/2Ik8GTNn7pJXVRuZvmdqqR"
+    },
+    {
+      "album": {
         "name": "Ik Ga Zweven",
         "url": "https://open.spotify.com/album/1y3mqg6UtRMISCwvTAGvaW"
       },
@@ -8364,7 +8400,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 139144,
       "name": "Kermis",
       "url": "https://open.spotify.com/track/3GjAlsTyT7yUfVGM2DQxfV"
@@ -9869,6 +9905,24 @@
     },
     {
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/6P7lrELyFnQD7QquzPVhpx"
+      },
+      "artists": [
+        {
+          "name": "Chicco",
+          "url": "https://open.spotify.com/artist/2xH3vTSU0GizfUrgYMauZb"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/6fnXhJWf8b7SChzFCi2V7Q"
+    },
+    {
+      "album": {
         "name": "Mama Maria",
         "url": "https://open.spotify.com/album/42CariIauGPeywBsQAHQcm"
       },
@@ -10324,7 +10378,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 177169,
       "name": "Misschien Is Het Tijd",
       "url": "https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm"
@@ -11448,7 +11502,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 146766,
       "name": "Ouder Word",
       "url": "https://open.spotify.com/track/0woSSr7ZRt6sAJorMQc4j0"
@@ -12914,7 +12968,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 146769,
       "name": "Tinto de Verano",
       "url": "https://open.spotify.com/track/6jG5fEJ1UEznTOpbV2y6ZP"
@@ -13044,6 +13098,24 @@
       "duration_ms": 168814,
       "name": "Tot In De Late Uurtjes",
       "url": "https://open.spotify.com/track/5gJTYGqYbGk6H1rcUM7ZTb"
+    },
+    {
+      "album": {
+        "name": "Totdat De Wereld Naar Je Lacht",
+        "url": "https://open.spotify.com/album/0JQ8R38mWUnF8X7ggahku6"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "Totdat De Wereld Naar Je Lacht",
+      "url": "https://open.spotify.com/track/60Hz4daid6le3wTmdpu2fX"
     },
     {
       "album": {
@@ -13290,7 +13362,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 188758,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/7lDR3jmyiy63sKfkI21s9Q"
@@ -14132,7 +14204,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 184800,
       "name": "Vuurwerk",
       "url": "https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh"

@@ -1,28 +1,76 @@
 {
-  "description": "New pop releases from the UK & Ireland \ud83c\udf1f cover: Victor Ray",
-  "num_followers": 48550,
+  "description": "New pop releases from the UK & Ireland \ud83c\udf1f cover: Bluegirl",
+  "num_followers": 48547,
   "original_name": "New Pop UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMy8kTADs4JtSf2o5YvZbLBjti/d",
+  "snapshot_id": "AAAAAEsiLjoRp1dZi36D2zAzfCJfcqUc",
   "tracks": [
     {
-      "added_at": "2026-10-15 23:00:28",
+      "added_at": "2026-10-23 00:00:25",
       "album": {
-        "name": "I think I spoke too soon",
-        "url": "https://open.spotify.com/album/354hclDfb4GX3gIXwYknTL"
+        "name": "Look At All The Happy People",
+        "url": "https://open.spotify.com/album/1Bs77WR0J40UQHikv1cKEU"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "Bluegirl",
+          "url": "https://open.spotify.com/artist/0avm7uM7BVbFqihRZjxPGr"
         }
       ],
-      "duration_ms": 215798,
-      "name": "Pretty girls",
-      "url": "https://open.spotify.com/track/7c0oKEgUPN6nQ5dwhzzs3m"
+      "duration_ms": 206564,
+      "name": "Look At All The Happy People",
+      "url": "https://open.spotify.com/track/18o11AfvD5c8x6LjCSeCYG"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "Wrapped in Gold",
+        "url": "https://open.spotify.com/album/4Bxx9stsFbZRLfj9BgkOXC"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 199363,
+      "name": "Wrapped in Gold",
+      "url": "https://open.spotify.com/track/7aiJMqO8u6PipXYLi7MewD"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "SAVIOUR/FATHER/PRINCE",
+        "url": "https://open.spotify.com/album/3jeGEPOF8ojmq7iQhJM0PK"
+      },
+      "artists": [
+        {
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "SAVIOUR/FATHER/PRINCE",
+      "url": "https://open.spotify.com/track/7chamz6dxAWiTsZW7AWgjx"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "Record Timing",
+        "url": "https://open.spotify.com/album/6kTv0CHJSce8MoJ5HARcuN"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hill",
+          "url": "https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "Record Timing",
+      "url": "https://open.spotify.com/track/6EFzgukKGkwSscDePNRWL4"
     },
     {
       "added_at": "2026-10-15 23:00:28",
@@ -41,6 +89,54 @@
       "url": "https://open.spotify.com/track/2jXxvzuqRPCIYURiB0ydex"
     },
     {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "Home Is A Face",
+        "url": "https://open.spotify.com/album/2QDWcORvVViWZQVYbq8clA"
+      },
+      "artists": [
+        {
+          "name": "Mel Raeburn",
+          "url": "https://open.spotify.com/artist/1CWlz48famjsJ93jCyxgNj"
+        }
+      ],
+      "duration_ms": 201875,
+      "name": "Home Is A Face",
+      "url": "https://open.spotify.com/track/6FCIe99r3f0ldJWn06yZau"
+    },
+    {
+      "added_at": "2026-10-15 23:00:28",
+      "album": {
+        "name": "I think I spoke too soon",
+        "url": "https://open.spotify.com/album/354hclDfb4GX3gIXwYknTL"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215798,
+      "name": "Pretty girls",
+      "url": "https://open.spotify.com/track/7c0oKEgUPN6nQ5dwhzzs3m"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "cynical",
+        "url": "https://open.spotify.com/album/65dXS7ha70pIncfRPFgaQY"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 164417,
+      "name": "cynical",
+      "url": "https://open.spotify.com/track/07ePxdMpDAB5Pqo8wfARCx"
+    },
+    {
       "added_at": "2026-10-15 23:00:28",
       "album": {
         "name": "Hot & talking",
@@ -55,6 +151,22 @@
       "duration_ms": 191440,
       "name": "Hot & talking",
       "url": "https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "Leave Me There",
+        "url": "https://open.spotify.com/album/2T0G42DY1pSihdFjrV3lTk"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 256538,
+      "name": "Leave Me There",
+      "url": "https://open.spotify.com/track/7GFX7HY2RXoLlymkdbleRF"
     },
     {
       "added_at": "2026-10-15 23:00:28",
@@ -77,6 +189,54 @@
       "url": "https://open.spotify.com/track/109w5hk4ezymLbJVqmhQ5J"
     },
     {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "Peter Pan Syndrome",
+        "url": "https://open.spotify.com/album/6demjC0kDFAp07LWgXou0O"
+      },
+      "artists": [
+        {
+          "name": "Bea",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "duration_ms": 186316,
+      "name": "Peter Pan Syndrome",
+      "url": "https://open.spotify.com/track/4xVC1UohDxY5NrvAWyClZr"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "You Don't Hate Pop, You Just Hate Yourself",
+        "url": "https://open.spotify.com/album/7sBj5jPcULxJUicbNvfhl2"
+      },
+      "artists": [
+        {
+          "name": "Marti Perramon",
+          "url": "https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/2BjbVLuIpyL53l4LEScuUx"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "to be loved by a songwriter.",
+        "url": "https://open.spotify.com/album/7iiqFaZk83isJzgsWZA0FZ"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ine Deane",
+          "url": "https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU"
+        }
+      ],
+      "duration_ms": 183759,
+      "name": "TO BE LOVED BY A SONGWRITER.",
+      "url": "https://open.spotify.com/track/56AECkMHUUwUsCkZ95El8w"
+    },
+    {
       "added_at": "2026-10-15 23:00:28",
       "album": {
         "name": "I HATE YOU DON'T LEAVE ME !",
@@ -91,6 +251,22 @@
       "duration_ms": 236000,
       "name": "PAPER MAN !",
       "url": "https://open.spotify.com/track/6A60klhOqdxLnxzUugA5hf"
+    },
+    {
+      "added_at": "2026-10-23 00:00:25",
+      "album": {
+        "name": "Clickbait",
+        "url": "https://open.spotify.com/album/7iJLeFiumAc8c1sp0kg8QI"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "duration_ms": 187558,
+      "name": "Clickbait",
+      "url": "https://open.spotify.com/track/6g6gSXFVocKGvW2dTVDp2X"
     },
     {
       "added_at": "2026-10-15 23:00:28",
@@ -139,22 +315,6 @@
       "duration_ms": 256852,
       "name": "Separate",
       "url": "https://open.spotify.com/track/7m5NOHzHETT7OoIImxwxYh"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
-        "name": "My Ego Told Me To...Do A Fan Edition",
-        "url": "https://open.spotify.com/album/295P1PLaNPVSXrxnkaBe8R"
-      },
-      "artists": [
-        {
-          "name": "Leigh-Anne",
-          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
-        }
-      ],
-      "duration_ms": 187558,
-      "name": "Clickbait",
-      "url": "https://open.spotify.com/track/1GXTAOPCzjlF8UkyFxQm4c"
     },
     {
       "added_at": "2026-10-15 23:00:28",
@@ -301,10 +461,10 @@
       "url": "https://open.spotify.com/track/1ZbNK6bnHOhHxae8HeNuyN"
     },
     {
-      "added_at": "2026-10-15 23:00:28",
+      "added_at": "2026-10-23 00:00:25",
       "album": {
-        "name": "Funny Little Feeling",
-        "url": "https://open.spotify.com/album/7zL5EuHdLX5SZfDaU7R78s"
+        "name": "Lucy, When You Wake Up",
+        "url": "https://open.spotify.com/album/22jM2Q6r740ZFQOqJwnMs0"
       },
       "artists": [
         {
@@ -314,7 +474,7 @@
       ],
       "duration_ms": 214806,
       "name": "Lucy, When You Wake Up",
-      "url": "https://open.spotify.com/track/55pJywjwL9pwNwQs2Wrdfc"
+      "url": "https://open.spotify.com/track/6zQxRQTscqIdvvi7C5JhX5"
     },
     {
       "added_at": "2026-10-15 23:00:28",
@@ -363,6 +523,22 @@
       "duration_ms": 179466,
       "name": "You Still Love Me Anyway",
       "url": "https://open.spotify.com/track/7zV2WzbxFaYxC3Uv4LBQwF"
+    },
+    {
+      "added_at": "2026-10-15 23:00:28",
+      "album": {
+        "name": "Ireland",
+        "url": "https://open.spotify.com/album/2uzgtFzX2z8L9NnRrSUKgm"
+      },
+      "artists": [
+        {
+          "name": "su i think",
+          "url": "https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1"
+        }
+      ],
+      "duration_ms": 176165,
+      "name": "Ireland",
+      "url": "https://open.spotify.com/track/5iXvUuow4NySBMCtWiGz9m"
     },
     {
       "added_at": "2026-10-15 23:00:28",
@@ -639,22 +815,6 @@
     {
       "added_at": "2026-10-15 23:00:28",
       "album": {
-        "name": "Ireland",
-        "url": "https://open.spotify.com/album/2uzgtFzX2z8L9NnRrSUKgm"
-      },
-      "artists": [
-        {
-          "name": "su i think",
-          "url": "https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1"
-        }
-      ],
-      "duration_ms": 176165,
-      "name": "Ireland",
-      "url": "https://open.spotify.com/track/5iXvUuow4NySBMCtWiGz9m"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
         "name": "Take Away My Problems",
         "url": "https://open.spotify.com/album/1QthikCvDI8Bt7QAODFQ7h"
       },
@@ -927,38 +1087,6 @@
     {
       "added_at": "2026-10-15 23:00:28",
       "album": {
-        "name": "wish I could love you",
-        "url": "https://open.spotify.com/album/7dJroZk6nfJg0R3BLmikPy"
-      },
-      "artists": [
-        {
-          "name": "Nathan Archie",
-          "url": "https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6"
-        }
-      ],
-      "duration_ms": 224548,
-      "name": "wish I could love you",
-      "url": "https://open.spotify.com/track/1jrgAYqlj1eWSQQyVmQ8Bh"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
-        "name": "Bury The Hatchet",
-        "url": "https://open.spotify.com/album/2ZdR5F98P5zDVTgpt4ksci"
-      },
-      "artists": [
-        {
-          "name": "Will Parker",
-          "url": "https://open.spotify.com/artist/6PorgpBDSP5w9zPpgjHlGR"
-        }
-      ],
-      "duration_ms": 192701,
-      "name": "Bury The Hatchet",
-      "url": "https://open.spotify.com/track/1QPSkN0RXN9MnjudE6VHgr"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
         "name": "Nice To Know You",
         "url": "https://open.spotify.com/album/1Jna3AVd6Iy71TJgtySpBX"
       },
@@ -1023,22 +1151,6 @@
     {
       "added_at": "2026-10-15 23:00:28",
       "album": {
-        "name": "Orange Wine",
-        "url": "https://open.spotify.com/album/1Y3SirSXiKgZMnrPQubauH"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hill",
-          "url": "https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg"
-        }
-      ],
-      "duration_ms": 190934,
-      "name": "Orange Wine",
-      "url": "https://open.spotify.com/track/2v1eNKtCcOThjhGcXAgI3V"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/58bEBWRLvRZ9sUU7GweNIZ"
       },
@@ -1067,38 +1179,6 @@
       "duration_ms": 193635,
       "name": "HOLE IN MY HEART",
       "url": "https://open.spotify.com/track/2sEQW09iEvYUu8WdnBZzSd"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
-        "name": "Ghost Train",
-        "url": "https://open.spotify.com/album/1PGZVCzqQwZOzf8X5tc02G"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hu",
-          "url": "https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl"
-        }
-      ],
-      "duration_ms": 193189,
-      "name": "Ghost Train",
-      "url": "https://open.spotify.com/track/56ouZOgAkOMXprl1m42mqj"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
-        "name": "animal",
-        "url": "https://open.spotify.com/album/39JZEVlJ6VQKs2YQSsRHR1"
-      },
-      "artists": [
-        {
-          "name": "Josie Oliver",
-          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
-        }
-      ],
-      "duration_ms": 180471,
-      "name": "animal",
-      "url": "https://open.spotify.com/track/7Bc1B6UheBQpCaO5HfIdfe"
     },
     {
       "added_at": "2026-10-15 23:00:28",
@@ -1211,70 +1291,6 @@
       "duration_ms": 239377,
       "name": "Vogue",
       "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
-        "name": "Heavenly Bodies",
-        "url": "https://open.spotify.com/album/3bEdIVHkADHY128d4jRy2i"
-      },
-      "artists": [
-        {
-          "name": "Alex Amor",
-          "url": "https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "This Must Be The End",
-      "url": "https://open.spotify.com/track/0xNmUTdY25XQocT9fcMCFk"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
-        "name": "Birth",
-        "url": "https://open.spotify.com/album/4xG0MjITwgOe8b4qRnmW79"
-      },
-      "artists": [
-        {
-          "name": "Sophie Saint",
-          "url": "https://open.spotify.com/artist/5CRJ8xa1BJNgONmWsL8tva"
-        }
-      ],
-      "duration_ms": 173812,
-      "name": "All I Want Is Love",
-      "url": "https://open.spotify.com/track/4zq9oNj4HLbclc93grX0Zs"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
-        "name": "Let's Make A (Fucking) Baby",
-        "url": "https://open.spotify.com/album/16i1l4ektijapcSxpTaqxG"
-      },
-      "artists": [
-        {
-          "name": "Polly Money",
-          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
-        }
-      ],
-      "duration_ms": 184651,
-      "name": "Let's Make A (Fucking) Baby",
-      "url": "https://open.spotify.com/track/4Bpq0ra8YsD9nFuiFGZLkB"
-    },
-    {
-      "added_at": "2026-10-15 23:00:28",
-      "album": {
-        "name": "More Of You",
-        "url": "https://open.spotify.com/album/4m9FIQVMM9Ut01gmjBfDrw"
-      },
-      "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "More Of You",
-      "url": "https://open.spotify.com/track/59FNEgSTq2o442TKFHtLMx"
     }
   ],
   "unique_name": "New Pop UK",

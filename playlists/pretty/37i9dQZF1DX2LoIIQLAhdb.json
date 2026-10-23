@@ -1,12 +1,12 @@
 {
   "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : RnBoi",
-  "num_followers": 203422,
+  "num_followers": 203425,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABr4Oz16SyFvgv2SnH2cyOxd3fjL",
+  "snapshot_id": "AAAAABo2Dw5Fjd3MPVkhyAc3F6M4p7fM",
   "tracks": [
     {
       "added_at": "2026-10-15 22:00:31",
@@ -23,6 +23,54 @@
       "duration_ms": 178331,
       "name": "J'assume",
       "url": "https://open.spotify.com/track/5qRO8OcqfOc7mgTEDN12XQ"
+    },
+    {
+      "added_at": "2026-10-15 22:00:31",
+      "album": {
+        "name": "Destin\u00e9e Supremacy",
+        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 150511,
+      "name": "La p\u00e9tasse",
+      "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
+    },
+    {
+      "added_at": "2026-10-15 22:00:31",
+      "album": {
+        "name": "Juste avant l'\u00e9tincelle...",
+        "url": "https://open.spotify.com/album/4FOedktShEibkYhYC8mcc0"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Sous ta peau",
+      "url": "https://open.spotify.com/track/10nq1ICgCxWFHyxQXkGBND"
+    },
+    {
+      "added_at": "2026-10-22 22:01:47",
+      "album": {
+        "name": "Pour le meilleur",
+        "url": "https://open.spotify.com/album/3CeZ16FT4YxgA13JycmbbH"
+      },
+      "artists": [
+        {
+          "name": "Fleetzy",
+          "url": "https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d"
+        }
+      ],
+      "duration_ms": 170989,
+      "name": "Pour le meilleur",
+      "url": "https://open.spotify.com/track/1z7ZMmDlLt3XfhU4PehRDT"
     },
     {
       "added_at": "2026-10-15 22:00:31",
@@ -45,10 +93,138 @@
       "url": "https://open.spotify.com/track/6Z7tzt8vD8pVgy58IOUKoj"
     },
     {
+      "added_at": "2026-10-22 22:01:47",
+      "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/5FNjUU3YrOLgc09fqV9Dq7"
+      },
+      "artists": [
+        {
+          "name": "Vicky R",
+          "url": "https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0"
+        },
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        }
+      ],
+      "duration_ms": 164828,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/01Gccj2VR5W5eZMg9h8Bmi"
+    },
+    {
       "added_at": "2026-10-15 22:00:31",
       "album": {
-        "name": "Juste avant l'\u00e9tincelle...",
-        "url": "https://open.spotify.com/album/4FOedktShEibkYhYC8mcc0"
+        "name": "HHHH\u00b2",
+        "url": "https://open.spotify.com/album/5StEA77WBVD37guZmDD87f"
+      },
+      "artists": [
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        },
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 204253,
+      "name": "face2face (feat. Ronisia)",
+      "url": "https://open.spotify.com/track/5b5xwjnYDRatDTe3l75MON"
+    },
+    {
+      "added_at": "2026-10-22 22:01:47",
+      "album": {
+        "name": "Music Monday - Archive 001",
+        "url": "https://open.spotify.com/album/0dUqku7bCPbLMovYBFj6k4"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Yumi",
+      "url": "https://open.spotify.com/track/1ModDRltX1IIxurk9eVLX8"
+    },
+    {
+      "added_at": "2026-10-15 22:00:31",
+      "album": {
+        "name": "Studio Session",
+        "url": "https://open.spotify.com/album/2XzlS0seDpzYCgbvGhIGda"
+      },
+      "artists": [
+        {
+          "name": "Lestin",
+          "url": "https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh"
+        },
+        {
+          "name": "DAKEEZ",
+          "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Textile",
+      "url": "https://open.spotify.com/track/5QbQdRn2FqNimyxMSr9RIR"
+    },
+    {
+      "added_at": "2026-10-22 22:01:47",
+      "album": {
+        "name": "KISS ME",
+        "url": "https://open.spotify.com/album/45asXR0NIeCRKnJdt5CBVh"
+      },
+      "artists": [
+        {
+          "name": "REA",
+          "url": "https://open.spotify.com/artist/3WmCagv2mdu1DAXPi6qKnJ"
+        },
+        {
+          "name": "Lazuli",
+          "url": "https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE"
+        }
+      ],
+      "duration_ms": 157312,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/1bcaEVdwPEu8EoliRy8hOa"
+    },
+    {
+      "added_at": "2026-10-15 22:00:31",
+      "album": {
+        "name": "POSITION",
+        "url": "https://open.spotify.com/album/6zSfpaNnuyRnKwiXXo3IsD"
+      },
+      "artists": [
+        {
+          "name": "JEUDI",
+          "url": "https://open.spotify.com/artist/6HZ8c7N6ysiZJf4HkGCszd"
+        }
+      ],
+      "duration_ms": 173195,
+      "name": "POSITION",
+      "url": "https://open.spotify.com/track/03PUBNIQ75G1EoQVWyn2i2"
+    },
+    {
+      "added_at": "2026-10-15 22:00:31",
+      "album": {
+        "name": "Don Junio",
+        "url": "https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV"
+      },
+      "artists": [
+        {
+          "name": " (D)Juno",
+          "url": "https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY"
+        }
+      ],
+      "duration_ms": 186772,
+      "name": "Don Junio",
+      "url": "https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy"
+    },
+    {
+      "added_at": "2026-10-15 22:00:31",
+      "album": {
+        "name": "Zoblazo",
+        "url": "https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY"
       },
       "artists": [
         {
@@ -56,25 +232,9 @@
           "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Sous ta peau",
-      "url": "https://open.spotify.com/track/10nq1ICgCxWFHyxQXkGBND"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
-        "name": "Destin\u00e9e Supremacy",
-        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 150511,
-      "name": "La p\u00e9tasse",
-      "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
+      "duration_ms": 160474,
+      "name": "Zoblazo",
+      "url": "https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv"
     },
     {
       "added_at": "2026-10-15 22:00:31",
@@ -99,94 +259,70 @@
     {
       "added_at": "2026-10-15 22:00:31",
       "album": {
-        "name": "Studio Session",
-        "url": "https://open.spotify.com/album/2XzlS0seDpzYCgbvGhIGda"
+        "name": "AMOUR & SACRIFICE PART.II",
+        "url": "https://open.spotify.com/album/61E561Bc6h0L2NA7RRF8lA"
       },
       "artists": [
-        {
-          "name": "Lestin",
-          "url": "https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh"
-        },
         {
           "name": "DAKEEZ",
           "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Textile",
-      "url": "https://open.spotify.com/track/5QbQdRn2FqNimyxMSr9RIR"
+      "duration_ms": 188160,
+      "name": "AMOUR & SACRIFICE PART.II",
+      "url": "https://open.spotify.com/track/6ptAjfB1A5qMT3H0JX8k0o"
     },
     {
-      "added_at": "2026-10-15 22:00:31",
+      "added_at": "2026-10-22 22:01:47",
       "album": {
-        "name": "HHHH\u00b2",
-        "url": "https://open.spotify.com/album/5StEA77WBVD37guZmDD87f"
+        "name": "M\u00c9LODIE VANILLE",
+        "url": "https://open.spotify.com/album/41btD4mY2XUHjhlkuSJYiP"
       },
       "artists": [
         {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        },
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+          "name": "Zafy",
+          "url": "https://open.spotify.com/artist/1RLTDTNUfVFAR9576RmIb4"
         }
       ],
-      "duration_ms": 204253,
-      "name": "face2face (feat. Ronisia)",
-      "url": "https://open.spotify.com/track/5b5xwjnYDRatDTe3l75MON"
+      "duration_ms": 140340,
+      "name": "M\u00c9LODIE VANILLE",
+      "url": "https://open.spotify.com/track/6mv1dA2JCOnKJHD2A4CPLS"
     },
     {
       "added_at": "2026-10-15 22:00:31",
       "album": {
-        "name": "S.M.L",
-        "url": "https://open.spotify.com/album/5uuU4OMYKuAwWqMZIK1vgx"
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/44mjqsKAd1z0AFtInne50Z"
       },
       "artists": [
         {
-          "name": "Gol.d",
-          "url": "https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV"
-        }
-      ],
-      "duration_ms": 162173,
-      "name": "S.M.L",
-      "url": "https://open.spotify.com/track/0HWA7rwu3ZUZvA85PDkaMu"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
-        "name": "POSITION",
-        "url": "https://open.spotify.com/album/6zSfpaNnuyRnKwiXXo3IsD"
-      },
-      "artists": [
-        {
-          "name": "JEUDI",
-          "url": "https://open.spotify.com/artist/6HZ8c7N6ysiZJf4HkGCszd"
-        }
-      ],
-      "duration_ms": 173195,
-      "name": "POSITION",
-      "url": "https://open.spotify.com/track/03PUBNIQ75G1EoQVWyn2i2"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
-        "name": "SENTIMENTS",
-        "url": "https://open.spotify.com/album/0UFDin9BI5vzBOBUYoY4N1"
-      },
-      "artists": [
-        {
-          "name": "Still Fresh",
-          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
         },
         {
           "name": "Kany",
           "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
         }
       ],
-      "duration_ms": 139428,
-      "name": "SENTIMENTS",
-      "url": "https://open.spotify.com/track/69c047hFRsd6uFND548cfD"
+      "duration_ms": 197499,
+      "name": "Ma pr\u00e9f\u00e9r\u00e9e",
+      "url": "https://open.spotify.com/track/5QZoX688XH1CKUsgTmWcqC"
+    },
+    {
+      "added_at": "2026-10-22 22:01:47",
+      "album": {
+        "name": "Dawn 6:27",
+        "url": "https://open.spotify.com/album/1TqLEmYoztR2eGz8rOELqo"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Lior",
+          "url": "https://open.spotify.com/artist/2BOJKJosuhWbm24je66xOm"
+        }
+      ],
+      "duration_ms": 223768,
+      "name": "Ma Woman",
+      "url": "https://open.spotify.com/track/6kSTCyfjOUaLddThVzJGli"
     },
     {
       "added_at": "2026-10-15 22:00:31",
@@ -227,42 +363,6 @@
     {
       "added_at": "2026-10-15 22:00:31",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/0PfWw5LC4EA0LtkRzSlzJH"
-      },
-      "artists": [
-        {
-          "name": "Vicky R",
-          "url": "https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0"
-        },
-        {
-          "name": "Singuila",
-          "url": "https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf"
-        }
-      ],
-      "duration_ms": 164217,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/7gecqbq9bEbmrGWSUg7G7f"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
-        "name": "SEXY DINO",
-        "url": "https://open.spotify.com/album/3frexKb8x3HgamacKlIz3D"
-      },
-      "artists": [
-        {
-          "name": "Teyma",
-          "url": "https://open.spotify.com/artist/3eGGoF2Ci63jAPBFfpMG9h"
-        }
-      ],
-      "duration_ms": 176252,
-      "name": "SEXY DINO",
-      "url": "https://open.spotify.com/track/3mDTu0kKfjj72JqboYClnn"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
         "name": "L'originelle",
         "url": "https://open.spotify.com/album/4ySOy0dWzGLDswAgWD2YDa"
       },
@@ -275,138 +375,6 @@
       "duration_ms": 161777,
       "name": "L'originelle",
       "url": "https://open.spotify.com/track/6K9e2aDYfU4jKA9oKhuNWD"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
-        "name": "AMOUR & SACRIFICE PART.II",
-        "url": "https://open.spotify.com/album/61E561Bc6h0L2NA7RRF8lA"
-      },
-      "artists": [
-        {
-          "name": "DAKEEZ",
-          "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "AMOUR & SACRIFICE PART.II",
-      "url": "https://open.spotify.com/track/6ptAjfB1A5qMT3H0JX8k0o"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
-        "name": "Zoblazo",
-        "url": "https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY"
-      },
-      "artists": [
-        {
-          "name": "Ruthee",
-          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
-        }
-      ],
-      "duration_ms": 160474,
-      "name": "Zoblazo",
-      "url": "https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
-        "name": "Summer Love",
-        "url": "https://open.spotify.com/album/44mjqsKAd1z0AFtInne50Z"
-      },
-      "artists": [
-        {
-          "name": "SenSey'",
-          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
-        },
-        {
-          "name": "Kany",
-          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
-        }
-      ],
-      "duration_ms": 197499,
-      "name": "Ma pr\u00e9f\u00e9r\u00e9e",
-      "url": "https://open.spotify.com/track/5QZoX688XH1CKUsgTmWcqC"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
-        "name": "Comme moi",
-        "url": "https://open.spotify.com/album/2rG8qp61aIMs4bIi8pBHLX"
-      },
-      "artists": [
-        {
-          "name": "Denden",
-          "url": "https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY"
-        }
-      ],
-      "duration_ms": 133770,
-      "name": "Comme moi",
-      "url": "https://open.spotify.com/track/10Vh88qJ1gwjjWUdGb8kZm"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
-        "name": "TASTY MON\u20acY",
-        "url": "https://open.spotify.com/album/6Zy4KwuMk0eo6LkNn3yxoD"
-      },
-      "artists": [
-        {
-          "name": "El Mvnolo",
-          "url": "https://open.spotify.com/artist/2o4gVgLrZwTpXTZvi6KZcS"
-        }
-      ],
-      "duration_ms": 113750,
-      "name": "TASTY MON\u20acY",
-      "url": "https://open.spotify.com/track/3nmO717fhPd3RHi1um3ddt"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
-        "name": "A part moi",
-        "url": "https://open.spotify.com/album/0bMhxzmk8XyVmvNXbaluVZ"
-      },
-      "artists": [
-        {
-          "name": "Nosky",
-          "url": "https://open.spotify.com/artist/7qSkBZvkKMY7KodsIz7HQN"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "A part moi",
-      "url": "https://open.spotify.com/track/2msb4c0zY5HgAwgJdszksh"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
-        "name": "location",
-        "url": "https://open.spotify.com/album/0Kq1CqgBfILlRlxT3Xq8k6"
-      },
-      "artists": [
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "location",
-      "url": "https://open.spotify.com/track/0PDTp5dVHePKWrJ4b532tg"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
-        "name": "Don Junio",
-        "url": "https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV"
-      },
-      "artists": [
-        {
-          "name": " (D)Juno",
-          "url": "https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY"
-        }
-      ],
-      "duration_ms": 186772,
-      "name": "Don Junio",
-      "url": "https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy"
     },
     {
       "added_at": "2026-10-15 22:00:31",
@@ -431,102 +399,122 @@
     {
       "added_at": "2026-10-15 22:00:31",
       "album": {
-        "name": "PAS NORMAL",
-        "url": "https://open.spotify.com/album/1wQkGmlCTIMv1qFZVq1i1Y"
+        "name": "SENTIMENTS",
+        "url": "https://open.spotify.com/album/0UFDin9BI5vzBOBUYoY4N1"
       },
       "artists": [
         {
-          "name": "Afios",
-          "url": "https://open.spotify.com/artist/72JdiplJRSQimk2zqHnBUZ"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "PAS NORMAL",
-      "url": "https://open.spotify.com/track/2gY4kMs36D5lFtAuU5KXjT"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/1TihwEVRCTG3DusEz0Rlr4"
-      },
-      "artists": [
-        {
-          "name": "0zaru",
-          "url": "https://open.spotify.com/artist/5LMCpz8qYwAGcVSyNX0gvH"
-        }
-      ],
-      "duration_ms": 151719,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/36ntyJsQjDBDSAnjxz96MD"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
-        "name": "Il a mal",
-        "url": "https://open.spotify.com/album/3J3mrL3O3dkSZ3KesmgVM5"
-      },
-      "artists": [
-        {
-          "name": "A\u00efsh\u00e9",
-          "url": "https://open.spotify.com/artist/0d332SkvomPxlORvEKIrBo"
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
         },
         {
-          "name": "mademoiselle lou",
-          "url": "https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N"
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Il a mal",
-      "url": "https://open.spotify.com/track/3PNcjTTi99AUL2TLCeT8vQ"
+      "duration_ms": 139428,
+      "name": "SENTIMENTS",
+      "url": "https://open.spotify.com/track/69c047hFRsd6uFND548cfD"
     },
     {
       "added_at": "2026-10-15 22:00:31",
       "album": {
-        "name": "C'est la vie",
-        "url": "https://open.spotify.com/album/5MQWBz12ZbRpDyqSYncy93"
+        "name": "S.M.L",
+        "url": "https://open.spotify.com/album/5uuU4OMYKuAwWqMZIK1vgx"
       },
       "artists": [
         {
-          "name": "Ocevne",
-          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+          "name": "Gol.d",
+          "url": "https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV"
         }
       ],
-      "duration_ms": 156891,
-      "name": "C'est la vie",
-      "url": "https://open.spotify.com/track/6d8fbLWXDp0ET2KyJGVjUz"
+      "duration_ms": 162173,
+      "name": "S.M.L",
+      "url": "https://open.spotify.com/track/0HWA7rwu3ZUZvA85PDkaMu"
     },
     {
       "added_at": "2026-10-15 22:00:31",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/72lJSYxvIL2RYiNI1AiuPD"
+        "name": "location",
+        "url": "https://open.spotify.com/album/0Kq1CqgBfILlRlxT3Xq8k6"
       },
       "artists": [
         {
-          "name": "Arma Jackson",
-          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
         }
       ],
-      "duration_ms": 192820,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/35hnRf22uWKtVs6FiHrPH5"
+      "duration_ms": 159000,
+      "name": "location",
+      "url": "https://open.spotify.com/track/0PDTp5dVHePKWrJ4b532tg"
     },
     {
       "added_at": "2026-10-15 22:00:31",
       "album": {
-        "name": "ADN",
-        "url": "https://open.spotify.com/album/3oCtzwa0oflzV7hb3Cf8Hi"
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/0PfWw5LC4EA0LtkRzSlzJH"
       },
       "artists": [
         {
-          "name": "Yena Blue",
-          "url": "https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4"
+          "name": "Vicky R",
+          "url": "https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0"
+        },
+        {
+          "name": "Singuila",
+          "url": "https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Doutes",
-      "url": "https://open.spotify.com/track/1fuB5rU71L5QEr93oM4x1V"
+      "duration_ms": 164217,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/7gecqbq9bEbmrGWSUg7G7f"
+    },
+    {
+      "added_at": "2026-10-15 22:00:31",
+      "album": {
+        "name": "REINE",
+        "url": "https://open.spotify.com/album/2vM7EWw08O9vQ5vj1sSYC0"
+      },
+      "artists": [
+        {
+          "name": "Gtnn",
+          "url": "https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk"
+        }
+      ],
+      "duration_ms": 145188,
+      "name": "REINE",
+      "url": "https://open.spotify.com/track/7enUPe7HAWaeGsI2G7S3gk"
+    },
+    {
+      "added_at": "2026-10-15 22:00:31",
+      "album": {
+        "name": "Comme moi",
+        "url": "https://open.spotify.com/album/2rG8qp61aIMs4bIi8pBHLX"
+      },
+      "artists": [
+        {
+          "name": "Denden",
+          "url": "https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY"
+        }
+      ],
+      "duration_ms": 133770,
+      "name": "Comme moi",
+      "url": "https://open.spotify.com/track/10Vh88qJ1gwjjWUdGb8kZm"
+    },
+    {
+      "added_at": "2026-10-15 22:00:31",
+      "album": {
+        "name": "SEXY DINO",
+        "url": "https://open.spotify.com/album/3frexKb8x3HgamacKlIz3D"
+      },
+      "artists": [
+        {
+          "name": "Teyma",
+          "url": "https://open.spotify.com/artist/3eGGoF2Ci63jAPBFfpMG9h"
+        }
+      ],
+      "duration_ms": 176252,
+      "name": "SEXY DINO",
+      "url": "https://open.spotify.com/track/3mDTu0kKfjj72JqboYClnn"
     },
     {
       "added_at": "2026-10-15 22:00:31",
@@ -555,34 +543,18 @@
     {
       "added_at": "2026-10-15 22:00:31",
       "album": {
-        "name": "une autre",
-        "url": "https://open.spotify.com/album/4xZuwvCBeOSthum2QHFAx7"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/1TihwEVRCTG3DusEz0Rlr4"
       },
       "artists": [
         {
-          "name": "Cikey",
-          "url": "https://open.spotify.com/artist/0N97AyCm8eLH5cE59BvSUm"
+          "name": "0zaru",
+          "url": "https://open.spotify.com/artist/5LMCpz8qYwAGcVSyNX0gvH"
         }
       ],
-      "duration_ms": 169212,
-      "name": "une autre",
-      "url": "https://open.spotify.com/track/2ZcjKLZkEYseB3gQMwA06p"
-    },
-    {
-      "added_at": "2026-10-15 22:00:31",
-      "album": {
-        "name": "MAUVE",
-        "url": "https://open.spotify.com/album/6Zx1VT4h2mctVu4SWrV6eQ"
-      },
-      "artists": [
-        {
-          "name": "DYHA",
-          "url": "https://open.spotify.com/artist/4BLEPYJzLGmGV3Y4jkXBIS"
-        }
-      ],
-      "duration_ms": 129359,
-      "name": "MAUVE",
-      "url": "https://open.spotify.com/track/0E6fJwEOJBagm5FnTfHgA5"
+      "duration_ms": 151719,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/36ntyJsQjDBDSAnjxz96MD"
     },
     {
       "added_at": "2026-10-15 22:00:31",
@@ -623,6 +595,38 @@
     {
       "added_at": "2026-10-15 22:00:31",
       "album": {
+        "name": "A part moi",
+        "url": "https://open.spotify.com/album/0bMhxzmk8XyVmvNXbaluVZ"
+      },
+      "artists": [
+        {
+          "name": "Nosky",
+          "url": "https://open.spotify.com/artist/7qSkBZvkKMY7KodsIz7HQN"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "A part moi",
+      "url": "https://open.spotify.com/track/2msb4c0zY5HgAwgJdszksh"
+    },
+    {
+      "added_at": "2026-10-15 22:00:31",
+      "album": {
+        "name": "PAS NORMAL",
+        "url": "https://open.spotify.com/album/1wQkGmlCTIMv1qFZVq1i1Y"
+      },
+      "artists": [
+        {
+          "name": "Afios",
+          "url": "https://open.spotify.com/artist/72JdiplJRSQimk2zqHnBUZ"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "PAS NORMAL",
+      "url": "https://open.spotify.com/track/2gY4kMs36D5lFtAuU5KXjT"
+    },
+    {
+      "added_at": "2026-10-15 22:00:31",
+      "album": {
         "name": "STP",
         "url": "https://open.spotify.com/album/4NEeQ0IiEAvyRrZUNpje3q"
       },
@@ -639,18 +643,34 @@
     {
       "added_at": "2026-10-15 22:00:31",
       "album": {
-        "name": "REINE",
-        "url": "https://open.spotify.com/album/2vM7EWw08O9vQ5vj1sSYC0"
+        "name": "TASTY MON\u20acY",
+        "url": "https://open.spotify.com/album/6Zy4KwuMk0eo6LkNn3yxoD"
       },
       "artists": [
         {
-          "name": "Gtnn",
-          "url": "https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk"
+          "name": "El Mvnolo",
+          "url": "https://open.spotify.com/artist/2o4gVgLrZwTpXTZvi6KZcS"
         }
       ],
-      "duration_ms": 145188,
-      "name": "REINE",
-      "url": "https://open.spotify.com/track/7enUPe7HAWaeGsI2G7S3gk"
+      "duration_ms": 113750,
+      "name": "TASTY MON\u20acY",
+      "url": "https://open.spotify.com/track/3nmO717fhPd3RHi1um3ddt"
+    },
+    {
+      "added_at": "2026-10-15 22:00:31",
+      "album": {
+        "name": "une autre",
+        "url": "https://open.spotify.com/album/4xZuwvCBeOSthum2QHFAx7"
+      },
+      "artists": [
+        {
+          "name": "Cikey",
+          "url": "https://open.spotify.com/artist/0N97AyCm8eLH5cE59BvSUm"
+        }
+      ],
+      "duration_ms": 169212,
+      "name": "une autre",
+      "url": "https://open.spotify.com/track/2ZcjKLZkEYseB3gQMwA06p"
     },
     {
       "added_at": "2026-10-15 22:00:31",
@@ -671,18 +691,18 @@
     {
       "added_at": "2026-10-15 22:00:31",
       "album": {
-        "name": "M\u00e9dicament",
-        "url": "https://open.spotify.com/album/519L5BMHcjvq9MnEcp6JEp"
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/3oCtzwa0oflzV7hb3Cf8Hi"
       },
       "artists": [
         {
-          "name": "Obcess",
-          "url": "https://open.spotify.com/artist/4Q04Ql9zpWNwJaE0Yto1rr"
+          "name": "Yena Blue",
+          "url": "https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4"
         }
       ],
-      "duration_ms": 117223,
-      "name": "M\u00e9dicament",
-      "url": "https://open.spotify.com/track/7uQMKxhIedwtHt0TTHJdTn"
+      "duration_ms": 187000,
+      "name": "Doutes",
+      "url": "https://open.spotify.com/track/1fuB5rU71L5QEr93oM4x1V"
     }
   ],
   "unique_name": "R&Bae",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Himra",
+  "description": "Le meilleur du rap africain francophone. Photo : Wantch\u00e9",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 169482,
       "name": "3A",
       "url": "https://open.spotify.com/track/7bSlIk7wz2IYjgyglYWQLp"
@@ -468,6 +468,24 @@
       "duration_ms": 166250,
       "name": "ALL\u00d4-ALL\u00d4",
       "url": "https://open.spotify.com/track/4ZWUV50lCAVznwmKcnNFJQ"
+    },
+    {
+      "album": {
+        "name": "Alpha Oumar(Intro)",
+        "url": "https://open.spotify.com/album/51y0VNRlSYCY3S9fuBVEz9"
+      },
+      "artists": [
+        {
+          "name": "CTD Diamant Noir",
+          "url": "https://open.spotify.com/artist/4DZdDL5fGiw2bKTBMEX8p9"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170520,
+      "name": "Alpha Oumar(Intro)",
+      "url": "https://open.spotify.com/track/5ChcxliGjAuq8g2OJyhB8T"
     },
     {
       "album": {
@@ -848,7 +866,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 141509,
       "name": "BADDIES",
       "url": "https://open.spotify.com/track/5ydl6rWWOw1vG1YKB1Aw1c"
@@ -1836,7 +1854,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 158280,
       "name": "CEO",
       "url": "https://open.spotify.com/track/1tVQLXGoJUQL3j2X2oWaS4"
@@ -5041,6 +5059,24 @@
     },
     {
       "album": {
+        "name": "Lib\u00e9rer Pij",
+        "url": "https://open.spotify.com/album/5UY8N1UhSy9nZw3yQ0ZPk5"
+      },
+      "artists": [
+        {
+          "name": "JP N'DA",
+          "url": "https://open.spotify.com/artist/5CbbTJgFtwDyJ6nTELpZ3d"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "Lib\u00e9rer Pij",
+      "url": "https://open.spotify.com/track/4ljXuc8tNCiCeh7y6jFuvD"
+    },
+    {
+      "album": {
         "name": "Lifestyle",
         "url": "https://open.spotify.com/album/5g4ATbwYF1jQAb50qhT3dS"
       },
@@ -6617,6 +6653,24 @@
     },
     {
       "album": {
+        "name": "ON BOIT O\u00d9 ?",
+        "url": "https://open.spotify.com/album/70Lrll8DYhC1gAPjDygT4a"
+      },
+      "artists": [
+        {
+          "name": "Le Niapo",
+          "url": "https://open.spotify.com/artist/6usbXA7yWZzwHOmOaKbDoJ"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149743,
+      "name": "ON BOIT O\u00d9 ?",
+      "url": "https://open.spotify.com/track/3uJTAuNtIWQ5QgZe1YWjRo"
+    },
+    {
+      "album": {
         "name": "DACHIBA KOUMGBA TCHAIBA : DALSHIM",
         "url": "https://open.spotify.com/album/6qtytRvjDiVRsYweV2svgi"
       },
@@ -7754,6 +7808,24 @@
       "duration_ms": 171692,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/6YcPRiDag7CaH0A4x7r0dx"
+    },
+    {
+      "album": {
+        "name": "SING MY NAME",
+        "url": "https://open.spotify.com/album/5DqJKdC4FHNxIDjMwSxg6W"
+      },
+      "artists": [
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "SING MY NAME",
+      "url": "https://open.spotify.com/track/5iLwZ9RvYC301P3yExkSJH"
     },
     {
       "album": {
@@ -9062,7 +9134,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 140150,
       "name": "WALLOU",
       "url": "https://open.spotify.com/track/4E2ukl1HyOkU1pvV7IiQEK"

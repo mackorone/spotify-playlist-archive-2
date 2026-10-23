@@ -1,13 +1,93 @@
 {
   "description": "h\u00e5ll det 100.",
-  "num_followers": 332980,
+  "num_followers": 332947,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALjAiQCqfkyV8WbzHTR4usSwFoh7",
+  "snapshot_id": "AAAAABkTCQl2Vl3aAIhCkkvcB1YY8fQh",
   "tracks": [
+    {
+      "added_at": "2026-10-22 22:01:51",
+      "album": {
+        "name": "GUD SER ALLT",
+        "url": "https://open.spotify.com/album/4oUBBcyybAZgqhgtRfDD5n"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "NBLNATION",
+          "url": "https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6"
+        }
+      ],
+      "duration_ms": 139065,
+      "name": "GHETTO STARZ",
+      "url": "https://open.spotify.com/track/3cbLD0qAzfnZmVWcvJoiC6"
+    },
+    {
+      "added_at": "2026-10-22 22:01:51",
+      "album": {
+        "name": "N\u00c4R VIE TV\u00c5",
+        "url": "https://open.spotify.com/album/3Te3aqblmvXwkCpx45jhap"
+      },
+      "artists": [
+        {
+          "name": "Lekaye",
+          "url": "https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM"
+        },
+        {
+          "name": "Naod",
+          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
+        }
+      ],
+      "duration_ms": 143466,
+      "name": "N\u00c4R VIE TV\u00c5",
+      "url": "https://open.spotify.com/track/6NRUbUoqDviUVKKJpwcnPj"
+    },
+    {
+      "added_at": "2026-10-22 22:01:51",
+      "album": {
+        "name": "YAP.",
+        "url": "https://open.spotify.com/album/4evAdGwkQGMwneArSgEMUp"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        },
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 157419,
+      "name": "C LAVI",
+      "url": "https://open.spotify.com/track/5B15szla5wyq3e3Bwt7e3X"
+    },
+    {
+      "added_at": "2026-10-22 22:01:51",
+      "album": {
+        "name": "Maybach",
+        "url": "https://open.spotify.com/album/7er53pqWE7DKkdqPNcybs2"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "duration_ms": 150874,
+      "name": "Maybach",
+      "url": "https://open.spotify.com/track/5DrnmrGglROCUNkG6Wku5s"
+    },
     {
       "added_at": "2026-10-15 22:01:19",
       "album": {
@@ -45,6 +125,42 @@
       "url": "https://open.spotify.com/track/6AHIJQKWEZnKmNCcUeOv7n"
     },
     {
+      "added_at": "2026-10-22 22:01:51",
+      "album": {
+        "name": "GUD SER ALLT",
+        "url": "https://open.spotify.com/album/4oUBBcyybAZgqhgtRfDD5n"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        }
+      ],
+      "duration_ms": 140192,
+      "name": "VINNER",
+      "url": "https://open.spotify.com/track/2XpWB1Y9wjKKdpHgGsGUAa"
+    },
+    {
+      "added_at": "2026-10-22 22:01:51",
+      "album": {
+        "name": "MINIMUM",
+        "url": "https://open.spotify.com/album/1Z0iPnzpFmoxogLJs18SlE"
+      },
+      "artists": [
+        {
+          "name": "Marti",
+          "url": "https://open.spotify.com/artist/031ZXIjZuiaU6ESOFNpGkm"
+        },
+        {
+          "name": "K9",
+          "url": "https://open.spotify.com/artist/1VBKHbKfHBJgDPbfG8O1SA"
+        }
+      ],
+      "duration_ms": 144857,
+      "name": "MINIMUM",
+      "url": "https://open.spotify.com/track/1SMPGqY4zqdrawUrnOI6mJ"
+    },
+    {
       "added_at": "2026-10-15 22:01:19",
       "album": {
         "name": "LA LIGA",
@@ -75,6 +191,26 @@
       "duration_ms": 147187,
       "name": "LA LIGA",
       "url": "https://open.spotify.com/track/2echXrccqUfuCST3xF5zjX"
+    },
+    {
+      "added_at": "2026-10-22 22:01:51",
+      "album": {
+        "name": "BEBE",
+        "url": "https://open.spotify.com/album/7Bo390tlgeYdmz1OLzwxjp"
+      },
+      "artists": [
+        {
+          "name": "ALAN MAX",
+          "url": "https://open.spotify.com/artist/4OVGNBPR9zKzQRLRj98AHY"
+        },
+        {
+          "name": "MIGI",
+          "url": "https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "BEBE",
+      "url": "https://open.spotify.com/track/7MRXolqknPpPrDvkXA9DcQ"
     },
     {
       "added_at": "2026-10-15 22:01:19",
@@ -123,6 +259,22 @@
       "duration_ms": 170958,
       "name": "HITLIST",
       "url": "https://open.spotify.com/track/1GnkKbIj63kvcoGfRs3mVa"
+    },
+    {
+      "added_at": "2026-10-22 22:01:51",
+      "album": {
+        "name": "OMt",
+        "url": "https://open.spotify.com/album/303fNHy3vNGUKDksxsI131"
+      },
+      "artists": [
+        {
+          "name": "IRM\u00c3O",
+          "url": "https://open.spotify.com/artist/38FjF8j532u7xIWCw0ykGp"
+        }
+      ],
+      "duration_ms": 152903,
+      "name": "OMt",
+      "url": "https://open.spotify.com/track/5mH62JIZHztP1fMTo6csNp"
     },
     {
       "added_at": "2026-10-15 22:01:19",
@@ -1651,154 +1803,6 @@
       "duration_ms": 138285,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/0PEkgfUWADoS2GiibHSwdX"
-    },
-    {
-      "added_at": "2026-10-15 22:01:19",
-      "album": {
-        "name": "better know",
-        "url": "https://open.spotify.com/album/3wyi3DAxoWo3YAF4qIHgpH"
-      },
-      "artists": [
-        {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
-        },
-        {
-          "name": "Roy",
-          "url": "https://open.spotify.com/artist/1WghHVAzHXQM8zKUAawhWq"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "better know",
-      "url": "https://open.spotify.com/track/5fAUfZgvbKGyn5s2GWzxmi"
-    },
-    {
-      "added_at": "2026-10-15 22:01:19",
-      "album": {
-        "name": "BARETTA",
-        "url": "https://open.spotify.com/album/1oQFPbWMtwh3CfhbGSDjzT"
-      },
-      "artists": [
-        {
-          "name": "VC Barre",
-          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
-        }
-      ],
-      "duration_ms": 139607,
-      "name": "PIXEL",
-      "url": "https://open.spotify.com/track/7bKjQEcsXoMygMyAg7SOpm"
-    },
-    {
-      "added_at": "2026-10-15 22:01:19",
-      "album": {
-        "name": "La La",
-        "url": "https://open.spotify.com/album/2KahFdVyO78vTAxElxpwfL"
-      },
-      "artists": [
-        {
-          "name": "Black Moose",
-          "url": "https://open.spotify.com/artist/5ZrrJ5bj8IS5HLZxnZ4khM"
-        },
-        {
-          "name": "B.Baby",
-          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
-        }
-      ],
-      "duration_ms": 144466,
-      "name": "La La",
-      "url": "https://open.spotify.com/track/0XhxlUaL7njBxsKNQX8yvF"
-    },
-    {
-      "added_at": "2026-10-15 22:01:19",
-      "album": {
-        "name": "Mano Nella Mano",
-        "url": "https://open.spotify.com/album/6wIQMowebCmb7qWmHtStVb"
-      },
-      "artists": [
-        {
-          "name": "4Key",
-          "url": "https://open.spotify.com/artist/5qlrWvC1cnBxcVOdXDYf5z"
-        },
-        {
-          "name": "IRM\u00c3O",
-          "url": "https://open.spotify.com/artist/38FjF8j532u7xIWCw0ykGp"
-        }
-      ],
-      "duration_ms": 154029,
-      "name": "St\u00e4nger Ner",
-      "url": "https://open.spotify.com/track/7ucl54Fnq1UcSidY3a15ea"
-    },
-    {
-      "added_at": "2026-10-15 22:01:19",
-      "album": {
-        "name": "GOLDEN AGE",
-        "url": "https://open.spotify.com/album/15NHzrRtbABPAJnGrsXvp3"
-      },
-      "artists": [
-        {
-          "name": "JB",
-          "url": "https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB"
-        },
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "GOLDEN AGE",
-      "url": "https://open.spotify.com/track/2LofqhPV3EXUWeeGsV17rh"
-    },
-    {
-      "added_at": "2026-10-15 22:01:19",
-      "album": {
-        "name": "Loro Piana",
-        "url": "https://open.spotify.com/album/3yY3FrR5hlbeUxRBl5EUYn"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 128750,
-      "name": "Loro Piana",
-      "url": "https://open.spotify.com/track/5QrDMKqIwM6OpXXdLCELZo"
-    },
-    {
-      "added_at": "2026-10-15 22:01:19",
-      "album": {
-        "name": "Gammal & Fri",
-        "url": "https://open.spotify.com/album/5gomkCFOjj4tOemembWUkX"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
-        }
-      ],
-      "duration_ms": 140794,
-      "name": "Gammal & Fri",
-      "url": "https://open.spotify.com/track/3Tgzh94thbwCf6sSX5McQM"
-    },
-    {
-      "added_at": "2026-10-15 22:01:19",
-      "album": {
-        "name": "BLANDADE K\u00c4NSLOR",
-        "url": "https://open.spotify.com/album/5ihqs1Xc66QhDEQzPOwYCG"
-      },
-      "artists": [
-        {
-          "name": "Mohel\u00e1",
-          "url": "https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ"
-        },
-        {
-          "name": "Naod",
-          "url": "https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1"
-        }
-      ],
-      "duration_ms": 124838,
-      "name": "WHINE (feat. Naod)",
-      "url": "https://open.spotify.com/track/2PLuU9yFCmlCYNelvRQWu0"
     }
   ],
   "unique_name": "100",

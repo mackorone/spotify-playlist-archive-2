@@ -1,13 +1,77 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Lavern",
-  "num_followers": 31320,
+  "num_followers": 31319,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAxPTNmQZSEtMoxgomCcRS6PFPI9jnz",
+  "snapshot_id": "AAAxQSUYiqflyN3uKqRS84G9ISPrso5/",
   "tracks": [
+    {
+      "added_at": "2026-10-22 22:00:04",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/2d0ZL2C2YAUWejedK1dgBU"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 160011,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/4ldTexWwh69o6yrBaho5e2"
+    },
+    {
+      "added_at": "2026-10-22 22:00:06",
+      "album": {
+        "name": "Dance Till I Die",
+        "url": "https://open.spotify.com/album/5OW17hf7VXy8U72P4QnAHn"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+        }
+      ],
+      "duration_ms": 194014,
+      "name": "Dance Till I Die",
+      "url": "https://open.spotify.com/track/1RBhbCIkpM7XCRGRZYXTQr"
+    },
+    {
+      "added_at": "2026-10-22 22:00:11",
+      "album": {
+        "name": "My Sound",
+        "url": "https://open.spotify.com/album/3BaJeD0h9Ag7r4sqxmiRCf"
+      },
+      "artists": [
+        {
+          "name": "Overheat",
+          "url": "https://open.spotify.com/artist/0vBhYdVCoPRZuEQ7FCZ1lS"
+        },
+        {
+          "name": "MUCKANIKS",
+          "url": "https://open.spotify.com/artist/0IDqRhRjbfBwTycszcMerZ"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "My Sound",
+      "url": "https://open.spotify.com/track/0r9lJuk5bhI7qg83J1oqVt"
+    },
     {
       "added_at": "2026-10-15 22:00:03",
       "album": {
@@ -79,6 +143,22 @@
       "duration_ms": 182857,
       "name": "Te conoc\u00ed - with Nicky Jam",
       "url": "https://open.spotify.com/track/3EQjRvevOXHXG9LljcVyAP"
+    },
+    {
+      "added_at": "2026-10-22 22:00:09",
+      "album": {
+        "name": "Under Pressure",
+        "url": "https://open.spotify.com/album/38kpRV6X89eUOTzQ2Edd7r"
+      },
+      "artists": [
+        {
+          "name": "DEVERAUX",
+          "url": "https://open.spotify.com/artist/0on1v6O0IcSsztk5FR50ju"
+        }
+      ],
+      "duration_ms": 179166,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/6CJjaUnb6pMqSpfkDUqz9s"
     },
     {
       "added_at": "2026-10-15 22:00:05",

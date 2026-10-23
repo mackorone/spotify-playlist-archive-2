@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAACi7k1MRhWIyEXkJ51L9srF",
+  "snapshot_id": "atavAAAAAACjzzZ3K36evj14NHNcRVpv",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida En Rosa Tour (En Vivo Desde El Palacio de los Deportes, CDMX)",
-        "url": "https://open.spotify.com/album/0wGZEBe38WBtZpn0B0fhI8"
+        "name": "Rakata",
+        "url": "https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E"
       },
       "artists": [
         {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 265497,
-      "name": "A\u00fan As\u00ed Te Vas - En Vivo Desde El Palacio de los Deportes, CDMX",
-      "url": "https://open.spotify.com/track/0DunZVYfdXWHgl6U4b43Oe"
+      "duration_ms": 182384,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE"
     },
     {
       "added_at": null,
@@ -399,22 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rakata",
-        "url": "https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E"
+        "name": "Vida En Rosa Tour (En Vivo Desde El Palacio de los Deportes, CDMX)",
+        "url": "https://open.spotify.com/album/0wGZEBe38WBtZpn0B0fhI8"
       },
       "artists": [
         {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 182384,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE"
+      "duration_ms": 265497,
+      "name": "A\u00fan As\u00ed Te Vas - En Vivo Desde El Palacio de los Deportes, CDMX",
+      "url": "https://open.spotify.com/track/0DunZVYfdXWHgl6U4b43Oe"
     },
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigo Buscando",
-        "url": "https://open.spotify.com/album/4KMZmsGlXKUTfd1Uf1CMvP"
-      },
-      "artists": [
-        {
-          "name": "The Mills",
-          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 143996,
-      "name": "Sigo Buscando",
-      "url": "https://open.spotify.com/track/0fbj2shzxswLJ4hPnpxoFy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rockea Bien Duro",
         "url": "https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 224533,
       "name": "A\u00fan Hay Algo",
       "url": "https://open.spotify.com/track/42q8MaOL25k3ZTz3Wa8xU2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sigo Buscando",
+        "url": "https://open.spotify.com/album/4KMZmsGlXKUTfd1Uf1CMvP"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 143996,
+      "name": "Sigo Buscando",
+      "url": "https://open.spotify.com/track/0fbj2shzxswLJ4hPnpxoFy"
     },
     {
       "added_at": null,

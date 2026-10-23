@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-529 songs - 1 day 6 hr 37 min
+533 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [And Just Like That](https://open.spotify.com/track/37AwKEwkI6TF8yL7EtVwPm) | [Decaf Jones](https://open.spotify.com/artist/2vEcpslAFprvdX4wv5rpVl) | [And Just Like That](https://open.spotify.com/album/5KRVX1O2lUJ2mzf6t4EXDU) | 2:49 | 2026-10-05 |  |
 | [Angelina](https://open.spotify.com/track/0N68KyW2UKZYS71W3zwiXn) | [Strange Waves](https://open.spotify.com/artist/1oa5Kzosk1DffIXOU4Hurt) | [Angelina](https://open.spotify.com/album/5wTy809VEb9S7mA7qzw74z) | 2:45 | 2026-07-01 | 2026-08-18 |
 | [Anomaly](https://open.spotify.com/track/7drs4QP73WLeLRe00hPmlJ) | [Rainwash](https://open.spotify.com/artist/44bqJF9nEFQ1sIpjLbDr74) | [Anomaly](https://open.spotify.com/album/6TSi9Zguy9CLPSLyr2T0tx) | 3:06 | 2026-04-24 | 2026-07-02 |
+| [ANOTHER LIFE](https://open.spotify.com/track/1GW9wygil2jJKDdiYJ3PCR) | [ANIQO](https://open.spotify.com/artist/3q7baflM8Rtj29ckEnKAgB) | [ANOTHER LIFE](https://open.spotify.com/album/3AnunbIHnDq8C2fpzd9guG) | 5:42 | 2026-10-22 |  |
 | [Anxiety](https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Boxing Day \(Deluxe\)](https://open.spotify.com/album/09jVFVWEuvz7mq4GSvgi2h) | 2:56 | 2026-03-04 | 2026-04-16 |
 | [anything today](https://open.spotify.com/track/6YU0mkaUWzKEV9ORBgo5aJ) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [anything today](https://open.spotify.com/album/4ahnAkh7sNMFjmWjYvNAFG) | 3:32 | 2026-03-21 | 2026-04-21 |
 | [Anywhere But Here](https://open.spotify.com/track/4n6MX5GjbqiGRbFTm2vGjp) | [Tilde](https://open.spotify.com/artist/4Vm7RaGmSZfsTd21X0BKb1) | [Little Girl Blue](https://open.spotify.com/album/2GvIwgBTNZraojkluG97PF) | 4:58 | 2026-09-18 |  |
@@ -164,6 +165,7 @@
 | [entropy](https://open.spotify.com/track/2Jpb0JyCNvOFhkKnRwe05t) | [MØURIS](https://open.spotify.com/artist/0bqv8o4m2yr2wS0bV1YmpJ) | [entropy](https://open.spotify.com/album/0t0T9Z6hYVV2dPkjt4fTV1) | 3:53 | 2026-10-07 |  |
 | [Ermine](https://open.spotify.com/track/2WRwIkKaa22ieYZVTLsV7H) | [Faye Ophelia](https://open.spotify.com/artist/6MNLBbT6ctnLmJLuypt7pz) | [Lunar Eclipse](https://open.spotify.com/album/6WBZOSeCrdUxT2zF3ljCuC) | 4:42 | 2026-01-15 | 2026-02-20 |
 | [Ever Ender Star Infinity](https://open.spotify.com/track/5Eghp4z1hOQOz6xNdHVvGU) | [JoJo Worthington](https://open.spotify.com/artist/6ML3M2WuSobnfx8Y0wEYGd) | [Ever Ender Star Infinity](https://open.spotify.com/album/6Cjbs3NByagmkMVG0sOWh2) | 4:33 | 2026-10-05 |  |
+| [Everything's Gonna Be Alright](https://open.spotify.com/track/47XL1VF5cVwppq82wLVTrV) | [Moon Date](https://open.spotify.com/artist/7vGCqLKfI5izQkJSa4aRCh) | [Everything's Gonna Be Alright](https://open.spotify.com/album/203Yzx47gvCPrerlLxZUhb) | 4:15 | 2026-10-22 |  |
 | [Eyes Wide Shut](https://open.spotify.com/track/0NovACJ6dEiMAGkNswOFkm) | [Rainbow Conspiracy](https://open.spotify.com/artist/1vIoyFvg5aqVtR2to6HLIn), [Jay Embi](https://open.spotify.com/artist/2UEed5jP8AeBExfVyqcocT) | [Eyes Wide Shut](https://open.spotify.com/album/7DRwzzubjvtBcTmQkUsgti) | 3:56 | 2026-04-20 | 2026-07-01 |
 | [Ezra](https://open.spotify.com/track/4gRv5ebgu2zLUFejwQA03F) | [junkyardroyalty](https://open.spotify.com/artist/2QN7pIeUZFmT2fMZRSlrQL) | [Ezra](https://open.spotify.com/album/4v1NROQ5h2ivSOTjRWFote) | 2:46 | 2026-02-23 | 2026-04-16 |
 | [fade away](https://open.spotify.com/track/4KGS1bTaZoE2XPygi8kAp6) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [fade away](https://open.spotify.com/album/0zETxreVMiB64USyET4cZI) | 2:31 | 2026-05-06 | 2026-07-24 |
@@ -188,6 +190,7 @@
 | [Forgot Yourself](https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [NOISY NOISY NOISY](https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm) | 2:52 | 2026-08-03 |  |
 | [Freakuency](https://open.spotify.com/track/6L5zC9NF2GgTXtlV9lyQaN) | [eyrin](https://open.spotify.com/artist/4pj5GKqMmzVNKsJHEgmiQb) | [Freakuency](https://open.spotify.com/album/5fTRffrRAXmip1mUb0r2Aw) | 4:25 | 2026-04-22 | 2026-07-02 |
 | [Friday Night](https://open.spotify.com/track/1iLAJCSGufM6kFwQmEsAsy) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [Friday Night](https://open.spotify.com/album/4xy9aR4N9jINMWqrGDoxty) | 3:55 | 2025-11-03 | 2025-12-02 |
+| [Generation of Tomorrow](https://open.spotify.com/track/6iON9qgc8aQFz3RZhh9XWZ) | [Full Throttle](https://open.spotify.com/artist/763PYfFXFMsKSi1gfNXodo), [Cone McCaslin](https://open.spotify.com/artist/3jBXYPArFNm1EVyKkwvbcZ) | [Generation Of Tomorrow](https://open.spotify.com/album/15jgwzg3KzqmATg6XA6WfV) | 3:01 | 2026-10-22 |  |
 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-03-08 | 2026-07-01 |
 | [Getting Deeper](https://open.spotify.com/track/6voBpAEU8b7ZT6Vz5K6JW9) | [you](https://open.spotify.com/artist/0kLi0duqyWyoRkfqBv4lja) | [Getting Deeper](https://open.spotify.com/album/7euIEY0TVksPoeQxMZ9Gs3) | 3:12 | 2026-04-20 | 2026-07-01 |
 | [Ghost](https://open.spotify.com/track/1X0SFZray8E9nkhka4kvAB) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Ghost](https://open.spotify.com/album/3kaHd8JpRPfVAXvaIz4lyW) | 3:24 | 2026-09-03 |  |
@@ -218,6 +221,7 @@
 | [Heading Out](https://open.spotify.com/track/37JTgHjdSzi6RDZAjz6Blg) | [Velvet Static](https://open.spotify.com/artist/6F0VPim2a3o1M64nwGGRv2) | [Heading Out](https://open.spotify.com/album/3MHolAh5hdccEvWypHo6qy) | 4:47 | 2025-11-17 | 2026-01-17 |
 | [Heartbeats](https://open.spotify.com/track/0LVS42F6kSnhVknhBQemJM) | [7 Seconds Later](https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N) | [Embers](https://open.spotify.com/album/7jeNenCbmKhLBEjCAqnRIc) | 3:52 | 2026-08-15 |  |
 | [Heaven](https://open.spotify.com/track/29E39H3CqWkRWTbvJ2ghJ7) | [Swamp](https://open.spotify.com/artist/0nrxphAbccZ9K2OxSzoa8y) | [Heaven](https://open.spotify.com/album/64CXDkOGjHZ6NA4EcWUPjN) | 5:36 | 2026-07-01 | 2026-08-18 |
+| [Hell Has a Garden with Angels](https://open.spotify.com/track/4qM7VTi6CpgP04QhOcdObD) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 2:46 | 2026-10-22 |  |
 | [Help](https://open.spotify.com/track/2KyfeUoufiUqQiRj4HJnnp) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Help](https://open.spotify.com/album/6HBAyeWX4NzC3qZnsIBIU6) | 3:18 | 2026-03-26 | 2026-04-21 |
 | [Here to Stay](https://open.spotify.com/track/1pQmRpOXuIufHIGaylroCw) | [Edwina Van Kuyk](https://open.spotify.com/artist/268un72oahUYc2Vyt2YGB7) | [Here to Stay](https://open.spotify.com/album/4pzZL5wRL6e8tG0DASYvl6) | 3:01 | 2026-06-01 | 2026-08-18 |
 | [High and Low](https://open.spotify.com/track/7aJokZHlQxlEbNXYZiOA0p) | [Slim Loris](https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu) | [High and Low](https://open.spotify.com/album/5tGCGKKNwOF4w2vj17Cut9) | 3:20 | 2025-11-09 | 2026-01-17 |

@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122393,
+  "num_followers": 122386,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAV2h3w7hwzO7m//TXOTi+yGPFgFjKg",
+  "snapshot_id": "AAAV26TBETYHUdVT08orgapoyOpf9anz",
   "tracks": [
+    {
+      "added_at": "2026-10-22 15:05:38",
+      "album": {
+        "name": "Back Where It Started",
+        "url": "https://open.spotify.com/album/5wJ5EcR9OgSqfJxRtkciaa"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Paige Bea",
+          "url": "https://open.spotify.com/artist/13OFf8e9FsAgMtdhivPhTA"
+        }
+      ],
+      "duration_ms": 202257,
+      "name": "Back Where It Started",
+      "url": "https://open.spotify.com/track/1XeZXNVen3uclo74aGu8mM"
+    },
     {
       "added_at": "2026-10-21 14:13:54",
       "album": {

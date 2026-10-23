@@ -1631,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "Cross Country Blues (demo)",
+        "url": "https://open.spotify.com/album/5AAVsGOxVB1EZ3jtUhffkm"
+      },
+      "artists": [
+        {
+          "name": "Center Mid",
+          "url": "https://open.spotify.com/artist/4zPGRxbsiwHe6nVHaL1hlN"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Cross Country Blues (demo)",
+      "url": "https://open.spotify.com/track/5FaOcZMqAm2zxduqrfbR3n"
+    },
+    {
+      "album": {
         "name": "Cry Of The Wolves",
         "url": "https://open.spotify.com/album/4PJirZt51JJa71EpOHe0bt"
       },

@@ -400,7 +400,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 183379,
       "name": "Cullinan",
       "url": "https://open.spotify.com/track/62PDXg9UDd0q4N6hCl0fI7"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 160960,
       "name": "Nooit Thuis",
       "url": "https://open.spotify.com/track/0jGExV1jNFFC6rwWANc5UH"
@@ -1416,6 +1416,36 @@
       "duration_ms": 167187,
       "name": "Rennen op Nikes",
       "url": "https://open.spotify.com/track/5YbVM3iiKMkTEEjNceOz8I"
+    },
+    {
+      "album": {
+        "name": "Safi",
+        "url": "https://open.spotify.com/album/0Sg8Q8EKjRcD9uXPIL70yK"
+      },
+      "artists": [
+        {
+          "name": "Saaff",
+          "url": "https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        },
+        {
+          "name": "Omachh",
+          "url": "https://open.spotify.com/artist/3aOOX1imR5rxI4Gx7BiPbK"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204755,
+      "name": "Safi",
+      "url": "https://open.spotify.com/track/5rLme8r9UjeQgmgcBiMYKc"
     },
     {
       "album": {
@@ -1736,6 +1766,24 @@
       "duration_ms": 204795,
       "name": "Yolo",
       "url": "https://open.spotify.com/track/3nwPqKLNPaPmEu3KLEdzpH"
+    },
+    {
+      "album": {
+        "name": "Zak Je Toon",
+        "url": "https://open.spotify.com/album/4qiyiYgtZdz3MBTNAcivar"
+      },
+      "artists": [
+        {
+          "name": "BFLQuatro",
+          "url": "https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Zak Je Toon",
+      "url": "https://open.spotify.com/track/6fOOkOY5QtP31t5Q9kWy32"
     },
     {
       "album": {

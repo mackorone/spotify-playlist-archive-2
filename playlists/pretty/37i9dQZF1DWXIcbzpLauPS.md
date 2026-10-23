@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Showing Teeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,630 likes - 200 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,623 likes - 200 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

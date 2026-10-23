@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Ashram / Verlune",
+        "url": "https://open.spotify.com/album/6UujfG2aHuBxEF7yeBMLEw"
+      },
+      "artists": [
+        {
+          "name": "OLING",
+          "url": "https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206236,
+      "name": "Ashram",
+      "url": "https://open.spotify.com/track/5aUmEeu7qc3D6YYyPlp2wc"
+    },
+    {
+      "album": {
         "name": "Morning Glory",
         "url": "https://open.spotify.com/album/123UYRsFD3mu0hM4H8ZyIa"
       },
@@ -6533,6 +6551,32 @@
     },
     {
       "album": {
+        "name": "Gas / Ultra / Equarium",
+        "url": "https://open.spotify.com/album/1Ur1wF6EXdDnUw2mpIWTJL"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Lauren Duffus",
+          "url": "https://open.spotify.com/artist/0jYQCtRXU4qVKfMjqnn05l"
+        },
+        {
+          "name": "SOARR",
+          "url": "https://open.spotify.com/artist/03By98ETMgKabSpS8Ag8Dl"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218668,
+      "name": "Gas",
+      "url": "https://open.spotify.com/track/2XlS3xEvc3YOQi4SSBVU1K"
+    },
+    {
+      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
       },
@@ -7524,6 +7568,24 @@
       "duration_ms": 246893,
       "name": "Highlight - jigitz Remix",
       "url": "https://open.spotify.com/track/0S2M1qkve0r09dvQw4WmbE"
+    },
+    {
+      "album": {
+        "name": "Hold",
+        "url": "https://open.spotify.com/album/4lBCJMhA8TfoDb69u4xoRe"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265805,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/7ur4RYTN14JvdLZaW9k7rx"
     },
     {
       "album": {
@@ -21594,6 +21656,28 @@
       "duration_ms": 167841,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/1Q6zHALZxfArSQYmrZIHuJ"
+    },
+    {
+      "album": {
+        "name": "What's Most Likely",
+        "url": "https://open.spotify.com/album/1itGDaMJozMK355mKLYUFN"
+      },
+      "artists": [
+        {
+          "name": "SARAPATA",
+          "url": "https://open.spotify.com/artist/741NSWjklXU4lbII8PyWP8"
+        },
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254769,
+      "name": "What's Most Likely",
+      "url": "https://open.spotify.com/track/20GKVj6cdHYISukvBY7ggg"
     },
     {
       "album": {

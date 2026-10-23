@@ -1,13 +1,69 @@
 {
-  "description": "\u0634\u062c\u0651\u0639 \u0627\u0644\u0645\u0646\u062a\u064e\u062c \u0627\u0644\u0645\u062d\u0644\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u062e\u0627\u0644\u062f \u0639\u0635\u0627\u0645",
-  "num_followers": 2212,
+  "description": "\u0634\u062c\u0651\u0639 \u0627\u0644\u0645\u0646\u062a\u064e\u062c \u0627\u0644\u0645\u062d\u0644\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0645\u0631",
+  "num_followers": 2237,
   "original_name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK6mfh8Vj7i4qiHaS9MCqdw+Dfvo",
+  "snapshot_id": "AAAAABpwVMuQj5IGYhU8p87hdpLnps2i",
   "tracks": [
+    {
+      "added_at": "2026-10-22 16:50:01",
+      "album": {
+        "name": "002",
+        "url": "https://open.spotify.com/album/7MimfnfdaZc5hjILywRAbe"
+      },
+      "artists": [
+        {
+          "name": "Omaarr",
+          "url": "https://open.spotify.com/artist/40f8gJJimKAaU6IJsU5N2M"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "002",
+      "url": "https://open.spotify.com/track/1HDlLmpJrzc5WiN3yLkeeW"
+    },
+    {
+      "added_at": "2026-10-22 16:50:01",
+      "album": {
+        "name": "Ya Malekan Qadri",
+        "url": "https://open.spotify.com/album/5Q0cnzlbn0L3Zx7c1j2yiW"
+      },
+      "artists": [
+        {
+          "name": "Dallo",
+          "url": "https://open.spotify.com/artist/04xF9pcBH9WrpWbpMHmPIG"
+        },
+        {
+          "name": "Basem Darwisch",
+          "url": "https://open.spotify.com/artist/1CPWJE2yeUjdrfECiBZQyA"
+        },
+        {
+          "name": "Cairo Steps",
+          "url": "https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow"
+        }
+      ],
+      "duration_ms": 186770,
+      "name": "Ya Malekan Qadri",
+      "url": "https://open.spotify.com/track/0TwutIfEFDr1LzE952vH2i"
+    },
+    {
+      "added_at": "2026-10-22 16:50:01",
+      "album": {
+        "name": "La Bonboniera: The Sand Wave",
+        "url": "https://open.spotify.com/album/6YMkzcUsLoTCxrKuNu8M1s"
+      },
+      "artists": [
+        {
+          "name": "Karamell",
+          "url": "https://open.spotify.com/artist/0xlWY59sefpnkKzzbQhEx4"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "Electro Sinai - \u0625\u0644\u0643\u062a\u0631\u0648 \u0633\u064a\u0646\u0627",
+      "url": "https://open.spotify.com/track/2m4gHSk85xY2VMebJmcwOx"
+    },
     {
       "added_at": "2026-10-15 21:56:29",
       "album": {
@@ -57,6 +113,22 @@
       "url": "https://open.spotify.com/track/5iWOYRRyIJeLfPwFFjs0tu"
     },
     {
+      "added_at": "2026-10-22 16:50:01",
+      "album": {
+        "name": "GHADDARA (BONUS)",
+        "url": "https://open.spotify.com/album/6QwlVffjep9jqajP6fmmuE"
+      },
+      "artists": [
+        {
+          "name": "RAMY",
+          "url": "https://open.spotify.com/artist/7nLFVXAvSbhHfbBMHbr0nS"
+        }
+      ],
+      "duration_ms": 300740,
+      "name": "GHADDARA (BONUS)",
+      "url": "https://open.spotify.com/track/3jw8xvG79dnQ9mLm6OcMAU"
+    },
+    {
       "added_at": "2026-10-09 13:28:09",
       "album": {
         "name": "BAHEB GDEED",
@@ -87,6 +159,22 @@
       "duration_ms": 259772,
       "name": "Eed Fe Eed",
       "url": "https://open.spotify.com/track/0AubLhbi36WOT6jWe08rqD"
+    },
+    {
+      "added_at": "2026-10-22 16:50:01",
+      "album": {
+        "name": "\u0645\u0641\u064a\u0634 \u062d\u062f \u0645\u0631\u062a\u0627\u062d",
+        "url": "https://open.spotify.com/album/6XTeoL1VHs2pJ8vo5Slv2y"
+      },
+      "artists": [
+        {
+          "name": "Hala",
+          "url": "https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "\u0645\u0641\u064a\u0634 \u062d\u062f \u0645\u0631\u062a\u0627\u062d",
+      "url": "https://open.spotify.com/track/2ZmgBcuXIcAfGQJPbW1wAa"
     },
     {
       "added_at": "2026-10-09 13:28:09",

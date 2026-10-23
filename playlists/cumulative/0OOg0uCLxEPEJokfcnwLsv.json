@@ -1909,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Bummer",
+        "url": "https://open.spotify.com/album/446bKk4pXnkNFOgpXIQmcI"
+      },
+      "artists": [
+        {
+          "name": "the dt's",
+          "url": "https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269639,
+      "name": "Bummer",
+      "url": "https://open.spotify.com/track/1GxYnDuvyqYgCcEpA04Eaj"
+    },
+    {
+      "album": {
         "name": "Burning both ends",
         "url": "https://open.spotify.com/album/0kHw2k5Cs1PZZXqqeFypBg"
       },
@@ -3699,6 +3717,24 @@
     },
     {
       "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/64HM2fKH4wtLimUq6bz4kI"
+      },
+      "artists": [
+        {
+          "name": "English Budgies",
+          "url": "https://open.spotify.com/artist/3iokGJkvqXeARdkndKZbuR"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149860,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/18xRCY2rI66SvQZSLxHBlL"
+    },
+    {
+      "album": {
         "name": "Transcend",
         "url": "https://open.spotify.com/album/5CFY6AXx0tLDqkzbVpoUSu"
       },
@@ -5334,6 +5370,28 @@
       "duration_ms": 181593,
       "name": "Jane",
       "url": "https://open.spotify.com/track/4XedfQTRrrkH48buhGSbFd"
+    },
+    {
+      "album": {
+        "name": "Jeckyll&Hyde",
+        "url": "https://open.spotify.com/album/0TOuh8yFNSjYmtNsSdkY6v"
+      },
+      "artists": [
+        {
+          "name": "Ginny Ranger",
+          "url": "https://open.spotify.com/artist/1d7M7OfoBCzXOyS8JlDHfo"
+        },
+        {
+          "name": "The Re-A-Rangers",
+          "url": "https://open.spotify.com/artist/2PF7IsaFN7iPAA3FI0QLGn"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213761,
+      "name": "Jeckyll&Hyde",
+      "url": "https://open.spotify.com/track/0PFaJMLO16M6mvaXmCqL7c"
     },
     {
       "album": {

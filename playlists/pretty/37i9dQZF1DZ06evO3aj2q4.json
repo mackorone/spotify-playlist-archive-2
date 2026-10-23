@@ -1,12 +1,12 @@
 {
   "description": "This is Evanescence. The essential tracks, all in one playlist.",
-  "num_followers": 469064,
+  "num_followers": 469130,
   "original_name": "This Is Evanescence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAADlimkqeePqYOD0jlugJfYt",
+  "snapshot_id": "atavAAAAAACdSn9+mL0ifqXQ6hWorEUu",
   "tracks": [
     {
       "added_at": null,
@@ -172,7 +172,7 @@
       "added_at": null,
       "album": {
         "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
+        "url": "https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 234224,
-      "name": "Self Destruct",
-      "url": "https://open.spotify.com/track/7hbsjFjynjjbPnDR7DuDxR"
+      "duration_ms": 235504,
+      "name": "Who Will You Follow",
+      "url": "https://open.spotify.com/track/4h0MjzC0H39u60LNqMuR4k"
     },
     {
       "added_at": null,
@@ -236,7 +236,7 @@
       "added_at": null,
       "album": {
         "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/7EwLbCSl1p2ptb1EthQTgr"
+        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 235504,
-      "name": "Who Will You Follow",
-      "url": "https://open.spotify.com/track/4h0MjzC0H39u60LNqMuR4k"
+      "duration_ms": 234224,
+      "name": "Self Destruct",
+      "url": "https://open.spotify.com/track/7hbsjFjynjjbPnDR7DuDxR"
     },
     {
       "added_at": null,

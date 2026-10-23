@@ -1,13 +1,49 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 131634,
+  "num_followers": 131624,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJrWvH4RJjNcoA2VNDwPDMwiWn7o",
+  "snapshot_id": "AAAAAHOLyoKOpk9aCoXk4En2SIli+2ux",
   "tracks": [
+    {
+      "added_at": "2026-10-22 21:00:17",
+      "album": {
+        "name": "Jos s\u00e4 tahdot niin (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/0r9KljWL9fPuhRD1TmtYtL"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        },
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Jos s\u00e4 tahdot niin - Vain el\u00e4m\u00e4\u00e4 kausi 17",
+      "url": "https://open.spotify.com/track/4TEltpKDSVEWsUOgsGndk2"
+    },
+    {
+      "added_at": "2026-10-22 21:00:17",
+      "album": {
+        "name": "Koviksen kyyneleet",
+        "url": "https://open.spotify.com/album/1N9EcgDXoI9kEj7gMBT5rr"
+      },
+      "artists": [
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "duration_ms": 147706,
+      "name": "J\u00e4\u00e4prinsessa",
+      "url": "https://open.spotify.com/track/4nDyacdMsQcB08fi4R57xW"
+    },
     {
       "added_at": "2026-10-15 21:00:18",
       "album": {
@@ -27,22 +63,50 @@
     {
       "added_at": "2026-10-15 21:00:18",
       "album": {
-        "name": "missaa",
-        "url": "https://open.spotify.com/album/4aBAuOgqzj38ScLWgbnhDJ"
+        "name": "Maksan kaiken takas",
+        "url": "https://open.spotify.com/album/3QoODFnqeJo0SlLaLzo7Bz"
       },
       "artists": [
         {
-          "name": "Ella Herold",
-          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
-        },
-        {
-          "name": "Cledos",
-          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
         }
       ],
-      "duration_ms": 155400,
-      "name": "missaa",
-      "url": "https://open.spotify.com/track/3A3TNeDWLjPICABdh7dwjx"
+      "duration_ms": 183615,
+      "name": "Maksan kaiken takas",
+      "url": "https://open.spotify.com/track/2PTs04hECkjq3oTzFDFaok"
+    },
+    {
+      "added_at": "2026-10-22 21:00:17",
+      "album": {
+        "name": "Se kuuluu kaduille (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/4MIes6nf6Mlj5sRre1gcDx"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "duration_ms": 213675,
+      "name": "Se kuuluu kaduille (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+      "url": "https://open.spotify.com/track/4zqW9oxHZf6tAUQTenozpI"
+    },
+    {
+      "added_at": "2026-10-22 21:00:17",
+      "album": {
+        "name": "Vaihe",
+        "url": "https://open.spotify.com/album/46so9PutFHYGb4VHKS7VMO"
+      },
+      "artists": [
+        {
+          "name": "Diya",
+          "url": "https://open.spotify.com/artist/7aVx10WNIKLScTvZm7oNk5"
+        }
+      ],
+      "duration_ms": 191100,
+      "name": "Vaihe",
+      "url": "https://open.spotify.com/track/46RU6bMFpK7OTOoxbt1zNZ"
     },
     {
       "added_at": "2026-10-15 21:00:18",
@@ -67,6 +131,46 @@
     {
       "added_at": "2026-10-15 21:00:18",
       "album": {
+        "name": "missaa",
+        "url": "https://open.spotify.com/album/4aBAuOgqzj38ScLWgbnhDJ"
+      },
+      "artists": [
+        {
+          "name": "Ella Herold",
+          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
+        },
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "missaa",
+      "url": "https://open.spotify.com/track/3A3TNeDWLjPICABdh7dwjx"
+    },
+    {
+      "added_at": "2026-10-22 21:00:17",
+      "album": {
+        "name": "Ty\u00f6mies (feat. Jami Faltin)",
+        "url": "https://open.spotify.com/album/4ZBAzLWrW4AEKvWEh5oYAY"
+      },
+      "artists": [
+        {
+          "name": "TUULI",
+          "url": "https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc"
+        },
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "duration_ms": 163239,
+      "name": "Ty\u00f6mies (feat. Jami Faltin)",
+      "url": "https://open.spotify.com/track/6PwzNGH8pMFMe6gsnKsLNn"
+    },
+    {
+      "added_at": "2026-10-15 21:00:18",
+      "album": {
         "name": "Lapsuudensankari",
         "url": "https://open.spotify.com/album/3cLY8rCIQiFvmHnOqEZIGn"
       },
@@ -83,18 +187,18 @@
     {
       "added_at": "2026-10-15 21:00:18",
       "album": {
-        "name": "Maksan kaiken takas",
-        "url": "https://open.spotify.com/album/3QoODFnqeJo0SlLaLzo7Bz"
+        "name": "Menestys on paras tapa kostaa (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/2Nm4jgEUlH6FWv19qlRZEz"
       },
       "artists": [
         {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
         }
       ],
-      "duration_ms": 183615,
-      "name": "Maksan kaiken takas",
-      "url": "https://open.spotify.com/track/2PTs04hECkjq3oTzFDFaok"
+      "duration_ms": 160000,
+      "name": "Menestys on paras tapa kostaa - Vain el\u00e4m\u00e4\u00e4 kausi 17",
+      "url": "https://open.spotify.com/track/2fXDhV2MTkKTcFQmDE5Szv"
     },
     {
       "added_at": "2026-10-15 21:00:18",
@@ -215,42 +319,6 @@
       "duration_ms": 155245,
       "name": "Toises el\u00e4m\u00e4s",
       "url": "https://open.spotify.com/track/4aT1uT0Xl2MMLfRloe7yjP"
-    },
-    {
-      "added_at": "2026-10-15 21:00:18",
-      "album": {
-        "name": "Jos (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
-        "url": "https://open.spotify.com/album/5UPPfEuCgglu01okzgmuDn"
-      },
-      "artists": [
-        {
-          "name": "Jippu",
-          "url": "https://open.spotify.com/artist/0KYGvSXrGDHlExTpandhct"
-        },
-        {
-          "name": "emma & matilda",
-          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
-        }
-      ],
-      "duration_ms": 168191,
-      "name": "Jos (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
-      "url": "https://open.spotify.com/track/2e2GOyK6ZRp33ZjcS5Hipa"
-    },
-    {
-      "added_at": "2026-10-15 21:00:18",
-      "album": {
-        "name": "Menestys on paras tapa kostaa (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
-        "url": "https://open.spotify.com/album/2Nm4jgEUlH6FWv19qlRZEz"
-      },
-      "artists": [
-        {
-          "name": "Nelli Matula",
-          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Menestys on paras tapa kostaa - Vain el\u00e4m\u00e4\u00e4 kausi 17",
-      "url": "https://open.spotify.com/track/2fXDhV2MTkKTcFQmDE5Szv"
     },
     {
       "added_at": "2026-10-15 21:00:18",
@@ -1631,94 +1699,6 @@
       "duration_ms": 202752,
       "name": "Huuda! (feat. JVG) - Remix",
       "url": "https://open.spotify.com/track/4XzqJ6ntqIiZII6GUyHXz2"
-    },
-    {
-      "added_at": "2026-10-15 21:00:18",
-      "album": {
-        "name": "Noidankeh\u00e4",
-        "url": "https://open.spotify.com/album/3vcBZi4HYuHNbpFyqBZIWl"
-      },
-      "artists": [
-        {
-          "name": "SINI YASEMIN",
-          "url": "https://open.spotify.com/artist/4DpQueNEIhOottP5j70XqR"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Noidankeh\u00e4",
-      "url": "https://open.spotify.com/track/2g8SGwkHcOWOWIcLdrWAY8"
-    },
-    {
-      "added_at": "2026-10-15 21:00:18",
-      "album": {
-        "name": "Ongelma",
-        "url": "https://open.spotify.com/album/0JKvn5KPA8bI3nGsWjwYtg"
-      },
-      "artists": [
-        {
-          "name": "Karim B",
-          "url": "https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi"
-        }
-      ],
-      "duration_ms": 180238,
-      "name": "Ongelma",
-      "url": "https://open.spotify.com/track/3vTBt1CbmrCvxLLuAZ3xop"
-    },
-    {
-      "added_at": "2026-10-15 21:00:18",
-      "album": {
-        "name": "Kipee",
-        "url": "https://open.spotify.com/album/6a8xNBf6qLV2e90nykRShf"
-      },
-      "artists": [
-        {
-          "name": "Vesala",
-          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
-        },
-        {
-          "name": "Olavi Uusivirta",
-          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
-        }
-      ],
-      "duration_ms": 188519,
-      "name": "Kipee",
-      "url": "https://open.spotify.com/track/2PZLCzW6gKi1VwwdA97yph"
-    },
-    {
-      "added_at": "2026-10-15 21:00:18",
-      "album": {
-        "name": "Maailma on mun",
-        "url": "https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX"
-      },
-      "artists": [
-        {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
-        }
-      ],
-      "duration_ms": 158094,
-      "name": "Maailma on mun",
-      "url": "https://open.spotify.com/track/0v6TXFg3wJseuieozmpLTD"
-    },
-    {
-      "added_at": "2026-10-15 21:00:18",
-      "album": {
-        "name": "Tuhlaajapoika",
-        "url": "https://open.spotify.com/album/4nAarP84OVUVhGCLbUU70H"
-      },
-      "artists": [
-        {
-          "name": "ANI",
-          "url": "https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T"
-        },
-        {
-          "name": "Sara Bee",
-          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
-        }
-      ],
-      "duration_ms": 198364,
-      "name": "Tuhlaajapoika",
-      "url": "https://open.spotify.com/track/2ASg9yzBPTLR63886IOzTp"
     }
   ],
   "unique_name": "#vainsuomihitit",

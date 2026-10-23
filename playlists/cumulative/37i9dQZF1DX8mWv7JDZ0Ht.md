@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Fran Gil
+> Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Clau
 
-1,007 songs - 2 day 2 hr 34 min
+1,008 songs - 2 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Chico \(English Version\)](https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chico \(English Version\)](https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA) | 2:58 | 2024-03-08 | 2024-04-13 |
 | [CHUVA DE VERÃO](https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [TRÓPICO 96 \(Edição de Verão\)](https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ) | 3:06 | 2025-02-21 | 2026-06-19 |
 | [Chá De Camomila](https://open.spotify.com/track/1SL08ggkKbwl88V2Zg3Tsv) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Chá De Camomila](https://open.spotify.com/album/6Ke9obk68up6tK1vyOhVkM) | 3:11 | 2023-07-21 | 2023-12-09 |
+| [Cigana \- Live Forno Session](https://open.spotify.com/track/60mB0tUVE7Z5x2u3Q172ib) | [Forno Session](https://open.spotify.com/artist/0vIjx3YgE7W7AJGHkM7kNa), [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Clau \(Live Forno Session\)](https://open.spotify.com/album/2AWtUfPm4zKsMBCnYOKZvE) | 3:45 | 2026-10-23 |  |
 | [Clarice](https://open.spotify.com/track/190dGHiYz1z0g6I7TrJKMR) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm), [Maraia Takai](https://open.spotify.com/artist/1bKvSW0ik3iCkophyJbo5B) | [FESTA](https://open.spotify.com/album/6nmgQuG4dzK2Y3lV7uPZeA) | 3:20 | 2023-11-24 | 2023-12-16 |
 | [Codinome Beija\-Flor](https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Codinome Beija\-Flor](https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv) | 2:29 | 2023-06-30 | 2023-12-02 |
 | [Codinome Exagerado](https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Codinome Exagerado](https://open.spotify.com/album/0d8FtFqVUeUvxMZjJl4peh) | 3:09 | 2024-04-09 | 2024-05-09 |
@@ -201,7 +202,7 @@
 | [Coisa de Cinema](https://open.spotify.com/track/0T0Q7fJ1lH09UEvG9MdNLb) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV), [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Coisa de Cinema](https://open.spotify.com/album/37IH3KuZZiK3BI6yJXamQk) | 2:55 | 2024-10-04 | 2025-02-08 |
 | [Coisa Luz](https://open.spotify.com/track/7fOGpThy7S9B8bXkRftLXj) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Coisa Luz](https://open.spotify.com/album/5gAMEcKyLLcSDjmIYi5con) | 2:52 | 2022-05-13 | 2022-10-11 |
 | [Coisa Rara](https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Coisa Rara](https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn) | 2:45 | 2024-06-21 | 2025-05-23 |
-| [Coisas da Vida](https://open.spotify.com/track/6Ur3mHqLvFKMAvQJJaylKh) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Atemporal \- PART II](https://open.spotify.com/album/7bh7n8MOfnOfSbFcsLdTf6) | 3:12 | 2026-09-18 |  |
+| [Coisas da Vida](https://open.spotify.com/track/6Ur3mHqLvFKMAvQJJaylKh) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Atemporal \- PART II](https://open.spotify.com/album/7bh7n8MOfnOfSbFcsLdTf6) | 3:12 | 2026-09-18 | 2026-10-23 |
 | [Coisas De Você](https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE) | 3:17 | 2023-03-06 | 2024-04-27 |
 | [Coisas De Você](https://open.spotify.com/track/7ngk2XR1c7NrDwVhjcdf0X) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/2xBdXe7N6E8TkjXGxsvsO4) | 3:17 | 2023-12-08 | 2024-04-19 |
 | [Coisas Que Eu Sei](https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Releituras](https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM) | 2:58 | 2023-03-24 | 2024-04-10 |

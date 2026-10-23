@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> just trying our best 📸 Ruby Rose Turner
+> just trying our best 📸 Henry Morris
 
-2,914 songs - 6 day 2 hr 53 min
+2,915 songs - 6 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2075,6 +2075,7 @@
 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 | 2024-10-11 | 2025-04-05 |
 | [Raincheck](https://open.spotify.com/track/1DqLq5cD2XxJBDNiOtxnGM) | [Madison Bailey](https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S), [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Raincheck](https://open.spotify.com/album/2c03XLPfXgI5TlglXkGX1i) | 3:49 | 2025-06-13 | 2025-09-06 |
 | [rapunzel](https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [rapunzel](https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy) | 3:07 | 2022-01-07 | 2022-04-21 |
+| [Rather Fight](https://open.spotify.com/track/35hZag8RyddXfYsKbVg1f3) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Kiss Me Extra Hard](https://open.spotify.com/album/7dRnnMM7ji2mfCgycJ2ArD) | 2:59 | 2026-10-23 |  |
 | [Rave Angel](https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Rave Angel](https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3) | 3:19 | 2024-01-19 | 2024-07-19 |
 | [Read My Mind](https://open.spotify.com/track/6wjaAghthtTG3EEIPCI9b7) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Read My Mind](https://open.spotify.com/album/74ulDfyawnDdg7r86GQH72) | 3:25 | 2021-12-17 | 2022-01-29 |
 | [reading into it](https://open.spotify.com/track/5ApnrwxpgMOETU50C9JjzM) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY) | 3:00 | 2025-07-25 | 2025-09-20 |
@@ -2834,7 +2835,7 @@
 | [who do u love](https://open.spotify.com/track/6twNGCShHPgx5md0kQpBiC) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr) | [who do u love](https://open.spotify.com/album/1cuwPnmL2aNCVPfzesBX8y) | 2:47 | 2019-05-26\* | 2020-01-16 |
 | [who's who](https://open.spotify.com/track/4cFQOpz1CeO31VHCjWa69Y) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [who's who](https://open.spotify.com/album/08wHNq7A9BwsplhoXqEiIx) | 2:04 | 2024-09-13 | 2024-12-14 |
 | [Whole Damn Summer](https://open.spotify.com/track/3ArB9nvOdiTAYyfgjEojrg) | [Kiana](https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g) | [Whole Damn Summer](https://open.spotify.com/album/6pbrBaGrAjelkXqXUOvFUf) | 2:42 | 2024-07-05 | 2024-08-23 |
-| [Why Am I Here](https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room](https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q) | 3:17 | 2026-04-24 |  |
+| [Why Am I Here](https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room](https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q) | 3:17 | 2026-04-24 | 2026-10-23 |
 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 | 2024-01-19 | 2024-01-27 |
 | [Why Can’t I Have Two? \(2468\)](https://open.spotify.com/track/7ISQPiQJSInnKnMxBNSwFs) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Why Can’t I Have Two? \(2468\) / DILF](https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5) | 2:19 | 2023-08-04 | 2025-01-25 |
 | [Why Don't You Come On](https://open.spotify.com/track/1zOrNX2Rp00WGJzNJUfj0V) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Why Don't You Come On](https://open.spotify.com/album/4Xc4MVCAjRGtsos6uRxc5l) | 3:19 | 2019-05-26\* | 2019-08-13 |

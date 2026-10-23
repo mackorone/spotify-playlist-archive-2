@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,473 likes - 200 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,505 likes - 200 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,8 +169,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 159 | [Summertime](https://open.spotify.com/track/6UputvwZIO4RRQ0ZWI9mHq) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Andreas Svendsen](https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH) | [Impressions of Evans](https://open.spotify.com/album/2mfvi0m3cStWXw8prJ88J6) | 4:28 |
 | 160 | [April In Paris](https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [All Or Nothing At All](https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9) | 3:05 |
 | 161 | [Prisoner of Love](https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO) | [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Prisoner of Love](https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF) | 2:23 |
-| 162 | [\(They Long to Be\) Close to You](https://open.spotify.com/track/6Ohs3mAuItU9fOcmH27m6u) | [Isabella Taviani](https://open.spotify.com/artist/1nKYVcowQA1JBEOr5SKPoK), [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [\(They Long to Be\) Close to You](https://open.spotify.com/album/4iEUjWQbUSNpppXTA04K3L) | 3:30 |
-| 163 | [One Step Ahead](https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [The Window](https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG) | 2:09 |
+| 162 | [One Step Ahead](https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [The Window](https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG) | 2:09 |
+| 163 | [\(They Long to Be\) Close to You](https://open.spotify.com/track/6Ohs3mAuItU9fOcmH27m6u) | [Isabella Taviani](https://open.spotify.com/artist/1nKYVcowQA1JBEOr5SKPoK), [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [\(They Long to Be\) Close to You](https://open.spotify.com/album/4iEUjWQbUSNpppXTA04K3L) | 3:30 |
 | 164 | [I Fall In Love Too Easily](https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:24 |
 | 165 | [Come Away With Me \- Alternate Version](https://open.spotify.com/track/4Fjqhauhcq5cf0eXmf7tMD) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Alternate Version\)](https://open.spotify.com/album/2WFysyY3byRvtOsuJy9txO) | 3:27 |
 | 166 | [It's Gonna Happen Tonight](https://open.spotify.com/track/2QcUiQ9NBgHJdX9sGQVaAp) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [It's Gonna Happen Tonight](https://open.spotify.com/album/4wRIv7VL7bUq6gOvccx0DU) | 3:16 |

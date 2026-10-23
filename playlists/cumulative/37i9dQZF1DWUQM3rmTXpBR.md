@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Kazdoura
 
-257 songs - 15 hr 38 min
+259 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Al Rabta](https://open.spotify.com/track/7BnxgBDGc0f0xgFGNaYaWC) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Al Rabta](https://open.spotify.com/album/74YSFIcE0BoGp0vLfkYNis) | 5:03 | 2021-12-23 | 2022-04-16 |
 | [Al Sa'aa Al Oula](https://open.spotify.com/track/7hQSSr9kFGmM1zyQmeIkPw) | [Statues of Sinking Men](https://open.spotify.com/artist/0Yb1BJkuMs6USz8shheqxY) | [Al Sa'aa Al Oula](https://open.spotify.com/album/0Zucsn1XIbYo6OZ2wel2hB) | 4:33 | 2022-09-05 | 2023-04-24 |
 | [Al\-Furat](https://open.spotify.com/track/2OnVKpbC4WDedzVcoHjGBx) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv), [Metatext](https://open.spotify.com/artist/5GAi17x2CbRYk9666aI8AE) | [Al\-Furat](https://open.spotify.com/album/34fg5aZvCqPS5tMcGCwfGl) | 3:54 | 2023-09-19 | 2025-10-07 |
-| [Al3ab](https://open.spotify.com/track/2aLxkQKd73nJesKCeYdoXA) | [Idreesi](https://open.spotify.com/artist/0C1T4aT8Wsli5bji343Nye) | [Ma7boobi](https://open.spotify.com/album/6DAcM9B4LarUNtSsNBPokz) | 3:25 | 2025-10-06 |  |
+| [Al3ab](https://open.spotify.com/track/2aLxkQKd73nJesKCeYdoXA) | [Idreesi](https://open.spotify.com/artist/0C1T4aT8Wsli5bji343Nye) | [Ma7boobi](https://open.spotify.com/album/6DAcM9B4LarUNtSsNBPokz) | 3:25 | 2025-10-06 | 2026-10-23 |
 | [Ala Mahlak](https://open.spotify.com/track/3NlAlZb79jl3zjRP4W9VsM) | [Kazdoura](https://open.spotify.com/artist/7zm6lF98wKwyohB2zFetum) | [Ala Mahlak](https://open.spotify.com/album/2W1eijKTTh51wSK57sPSMB) | 3:58 | 2026-10-01 |  |
 | [Aladdin](https://open.spotify.com/track/2f7rLXE1t0LaKC29Ie1ebb) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Aladdin](https://open.spotify.com/album/173KkWJDT5Lo7LUPD2m57k) | 2:58 | 2022-08-14 | 2022-08-23 |
 | [Alby Madas](https://open.spotify.com/track/769lMW5dJ1ooeFzWUlBlxI) | [Weam Ismail](https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko) | [Alby Madas](https://open.spotify.com/album/1pFcWhghTl4YSWaDV4ViH3) | 4:47 | 2024-05-10 | 2025-10-07 |
@@ -124,6 +124,7 @@
 | [Leh Ya Hana ?](https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx) | [Arnabeat](https://open.spotify.com/artist/31OlJhazERjXIrCE9SQQbM) | [Leh Ya Hana ?](https://open.spotify.com/album/4uWS5ntd91UbXbekxpDdLN) | 3:54 | 2025-10-06 |  |
 | [Lessa Bahinlha](https://open.spotify.com/track/5Hto3NaFsv1or3zn3GdfY3) | [Ramy Essam](https://open.spotify.com/artist/7axpCYU6YisPgZQXYzNzis) | [Lessa Bahinlha](https://open.spotify.com/album/428C46dH0EBtXIbzpeLSGO) | 3:27 | 2022-04-15 | 2025-10-07 |
 | [Louloua](https://open.spotify.com/track/18D5vLLBehtz7zH7pJdvzL) | [Maii Waleed](https://open.spotify.com/artist/1e9RnsEdnC3LG7vHcAozc8), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks), [Maii and Zeid](https://open.spotify.com/artist/1kqQvcNxWvkzK55bwDvHGP) | [Louloua](https://open.spotify.com/album/16qzDSHZVmTOFNgJez0DqP) | 4:10 | 2024-05-17 | 2025-10-07 |
+| [Lulu Lady](https://open.spotify.com/track/6mJ74VrWJnfAKnqaC6PVmt) | [Jay Abo](https://open.spotify.com/artist/1Uad5DOAyWNd3yTUsF6mP7) | [Lulu Lady](https://open.spotify.com/album/4tK3r3WdHtyFBltKz15yYc) | 4:27 | 2026-10-22 |  |
 | [Lw](https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Lw](https://open.spotify.com/album/1zHi1zlyhdrFkM00DoDNVL) | 3:21 | 2023-04-23 |  |
 | [Lw Bs](https://open.spotify.com/track/04vLfXyzK8LKCYlx0GRLen) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Lw Bs](https://open.spotify.com/album/7nxUA2AWsiBIIP8dnvKn4i) | 3:24 | 2023-12-28 | 2025-10-07 |
 | [Ma Kan Ala Baly](https://open.spotify.com/track/1055RLG3kqVGBfOusIH8wg) | [Andrew Mounir](https://open.spotify.com/artist/5j87IbPLinOmiegvVuuDAA), [Hana Ghoneim](https://open.spotify.com/artist/6Ob3o641XhD90mvYqSU4Uk), [Ahmed Nihad](https://open.spotify.com/artist/2nRvsNbmm4kJSHmM3rel9r) | [Ma Kan Ala Baly](https://open.spotify.com/album/1tgXPdVUYVgPvb8vuXDvTZ) | 3:43 | 2022-01-20 | 2023-04-24 |
@@ -225,8 +226,9 @@
 | [Yay](https://open.spotify.com/track/5E7b7E6SQDuCHqs35YsZGi) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Yay](https://open.spotify.com/album/3L7dNXLdUIYLjpEKCsfDnj) | 2:51 | 2021-12-23 | 2022-02-18 |
 | [Yumain O Leila](https://open.spotify.com/track/08NqxhwtQzKtRdPtRSBuTR) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Malyoun](https://open.spotify.com/album/1Sxmi03WJhcGlccCwPXSDM) | 7:53 | 2023-04-23 |  |
 | [Zaman \(زمن\)](https://open.spotify.com/track/7FuKhxqlfiqEZdtcTZtmP9) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc) | [Sarab \(سراب\)](https://open.spotify.com/album/1iNbgYCR4hjyxWFvtvenei) | 5:33 | 2026-01-21 |  |
-| [Zay El Qetar](https://open.spotify.com/track/1taIkurFqmaPmw4zSR0Hkm) | [Akher Zapheer](https://open.spotify.com/artist/0x8vbV32RlTpfxsERAwena) | [Zay El Qetar](https://open.spotify.com/album/6nHndIHIHGZESiQghVRDnY) | 4:22 | 2025-10-06 |  |
+| [Zay El Qetar](https://open.spotify.com/track/1taIkurFqmaPmw4zSR0Hkm) | [Akher Zapheer](https://open.spotify.com/artist/0x8vbV32RlTpfxsERAwena) | [Zay El Qetar](https://open.spotify.com/album/6nHndIHIHGZESiQghVRDnY) | 4:22 | 2025-10-06 | 2026-10-23 |
 | [أغلاط](https://open.spotify.com/track/0nDgOVERfNUrwcLisM2S80) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [أغلاط](https://open.spotify.com/album/1FdXhZQfxKyqn1mldknNgT) | 3:02 | 2022-04-07 | 2023-04-24 |
+| [احساس جديد](https://open.spotify.com/track/2uA6IrTzirvcwHKD5INtg0) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [احساس جديد](https://open.spotify.com/album/1RdtnFxaKh4SdF7zmUdQim) | 2:52 | 2026-10-22 |  |
 | [استوى](https://open.spotify.com/track/7KXUvqS31iZQFOb21h5ewW) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [استوى](https://open.spotify.com/album/4Cpd0aeZO26OpXOsyXS76n) | 2:59 | 2023-05-02 | 2023-06-08 |
 | [انقذيني مني](https://open.spotify.com/track/1zAuToKatU8CEw01ZCcjQ5) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [انقذيني مني](https://open.spotify.com/album/2OfTZgFt2qN1Rlf52Ec45s) | 3:01 | 2022-12-17 | 2023-04-01 |
 | [بشتقلك](https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بشتقلك](https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE) | 3:14 | 2022-07-23 | 2023-04-24 |

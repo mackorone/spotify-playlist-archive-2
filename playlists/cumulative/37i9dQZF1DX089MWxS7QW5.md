@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Zion.T\)
 
-681 songs - 1 day 12 hr 24 min
+682 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [If U..](https://open.spotify.com/track/3Mat6bBmLhxscI21M3uhw1) | [JUE](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [If U..](https://open.spotify.com/album/2ZNKD7a86BQ1dVi4O3n6Hx) | 3:24 | 2024-11-22 | 2025-03-13 |
 | [If We Could Be Forever](https://open.spotify.com/track/59hhyDPpEwQur86x32MciO) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [If We Could Be Forever](https://open.spotify.com/album/7lz4RIPpPZF9nLNH41fHEO) | 2:42 | 2026-04-13 | 2026-04-22 |
 | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/track/1e7SDFFex4hsV5uZCyH6QW) | [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/album/3KILBs3bHUA8R6zbCoDgJJ) | 4:56 | 2022-05-28 | 2022-08-03 |
+| [illusion](https://open.spotify.com/track/5QMcYU0LrH632s6OKhTNQ1) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [Zenn](https://open.spotify.com/artist/7IxJ9FKazddUw1iGwDSPgz) | [illusion](https://open.spotify.com/album/0jg0cI54Qwi7OCAOhEzuA8) | 2:53 | 2026-10-22 |  |
 | [In My Place](https://open.spotify.com/track/3YpqXTPxHMazmpUf34XTr7) | [Jane B](https://open.spotify.com/artist/1zszrZ7zpOhqyjJ0Gn6de1) | [DESIRE](https://open.spotify.com/album/5dQaplWsYS1xh6LRUAq6GW) | 2:44 | 2024-08-05 | 2024-09-21 |
 | [In The Mood](https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [IN the mood](https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet) | 2:48 | 2023-10-13 | 2024-03-09 |
 | [In Yeonhui\-dong](https://open.spotify.com/track/22BHkwaBUJpx0Ks5MVa2Hu) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [In Yeonhui\-dong](https://open.spotify.com/album/3TGBSAaRm5UTWy455TzwTC) | 3:41 | 2026-10-15 |  |
@@ -574,7 +575,7 @@
 | [T.T.T \(Tell The Truth\) \(Feat\. Moon Sujin, NONE\)](https://open.spotify.com/track/63SD3RfeR1qMmYTmEBd1F4) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [NONE](https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM) | [T.T.T \(Tell The Truth\)](https://open.spotify.com/album/0yp3elCpF7Goy4DEw7dTfL) | 3:15 | 2023-03-27 | 2023-09-19 |
 | [Take care](https://open.spotify.com/track/6TWHnpRwa1oFvGVb4HkyHd) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [Take care](https://open.spotify.com/album/64ZwScQEZDND6thh8Vfuz2) | 3:00 | 2022-05-28 | 2022-07-06 |
 | [Talk 2 Me Nice](https://open.spotify.com/track/729F2Yqzq0h67aCpFzZBeY) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [S:INEMA](https://open.spotify.com/album/5eOTrxzkXgD6uMDP5kWW0j) | 3:58 | 2022-10-28 | 2023-03-28 |
-| [Tango](https://open.spotify.com/track/2jSlVIQBBQuc1FavxrGzZX) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Tango](https://open.spotify.com/album/4mDIJWv5zJqwQDO2Fstval) | 3:07 | 2026-05-07 |  |
+| [Tango](https://open.spotify.com/track/2jSlVIQBBQuc1FavxrGzZX) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Tango](https://open.spotify.com/album/4mDIJWv5zJqwQDO2Fstval) | 3:07 | 2026-05-07 | 2026-10-23 |
 | [Teach Me](https://open.spotify.com/track/42KQPEwQbifLtdMMa24DXH) | [Nieah](https://open.spotify.com/artist/3uo7KLyxuiANGmwDocxMnw) | [Teach Me](https://open.spotify.com/album/4iqOysHvvd0O6Vc0e3Epvd) | 2:53 | 2023-06-01 | 2023-10-28 |
 | [Tell Me What You Feel](https://open.spotify.com/track/1qTAsvpmYPWfM7nWHJtLDR) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [Tell Me What You Feel](https://open.spotify.com/album/3HGSpxZWkWakhOX80hvhgP) | 3:07 | 2026-04-30 | 2026-10-16 |
 | [Thank You](https://open.spotify.com/track/3EMiLWkjblEIuMu2pn5vHi) | [HyunJin](https://open.spotify.com/artist/3BahfzNxLclSnIM8F6i7rp) | [Thank You](https://open.spotify.com/album/2qUzMCOkMdkpx9Om8fC3VY) | 3:33 | 2024-12-18 | 2025-04-18 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Judika, Tiroy Sihotang",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: MALIQ & D'Essentials",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "APA? APA? APA?",
+        "url": "https://open.spotify.com/album/5tHEggUtnaZhTMFONZrXF6"
+      },
+      "artists": [
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194673,
+      "name": "APA? APA? APA?",
+      "url": "https://open.spotify.com/track/5Rmdo6L0QRLb7uy63nEDDj"
+    },
+    {
+      "album": {
         "name": "Live At Stadion Utama Gelora Bung Karno",
         "url": "https://open.spotify.com/album/2Sl6A2Vvjcz1KilzejllBq"
       },
@@ -1112,6 +1130,24 @@
       "duration_ms": 243370,
       "name": "april",
       "url": "https://open.spotify.com/track/2zoT19GQEv6XsZsINsMlc9"
+    },
+    {
+      "album": {
+        "name": "Arah Labuh",
+        "url": "https://open.spotify.com/album/6Dd9UoYpxfnfnj9tyu8Ado"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288452,
+      "name": "Arah Labuh",
+      "url": "https://open.spotify.com/track/3N5xoL3iglVayppXt1PyFu"
     },
     {
       "album": {
@@ -5238,7 +5274,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 214588,
       "name": "INGAT",
       "url": "https://open.spotify.com/track/13apLIUDnQIFeLhBrzDKrc"
@@ -7598,7 +7634,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 200487,
       "name": "Langit Merah Muda - Original Soundtrack from 'Agensi Rumah Tangga'",
       "url": "https://open.spotify.com/track/2INmDiSugzBjib2TWP7Odd"
@@ -10858,7 +10894,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 247365,
       "name": "Riuh",
       "url": "https://open.spotify.com/track/6ByJhYUimSniZZg76gUDVp"
@@ -10876,7 +10912,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 114056,
       "name": "rollerblade",
       "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
@@ -12178,7 +12214,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 212320,
       "name": "Semoga Nanti",
       "url": "https://open.spotify.com/track/0RSKTd73kcQVe0smlDO8cS"
@@ -13532,7 +13568,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 226560,
       "name": "Sumpah Percuma",
       "url": "https://open.spotify.com/track/27KVvr6QgfsToa1774HDMz"

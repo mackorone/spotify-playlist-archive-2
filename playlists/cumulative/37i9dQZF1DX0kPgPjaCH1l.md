@@ -4,7 +4,7 @@
 
 > Baba God, run am 🙏\. <br/>Cover: FOLA
 
-194 songs - 9 hr 6 min
+195 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Remember](https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 3:02 | 2025-06-20 | 2026-01-15 |
 | [Rules Of Life](https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Never Fold](https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq) | 2:50 | 2026-01-14 |  |
 | [Safer](https://open.spotify.com/track/4h5GUtukxJVkNbFsIooGXU) | [LYRXX](https://open.spotify.com/artist/6IP3yCr9AOjbbB3CdXq06G) | [Safer](https://open.spotify.com/album/75qc16uD5MaKYeW03vHHdO) | 2:27 | 2026-02-20 | 2026-02-27 |
-| [Salama](https://open.spotify.com/track/6sbALB7lMJ1HNg2XAy6kUL) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Salama](https://open.spotify.com/album/08oRda9UCVm9yvGzj7pbpA) | 4:41 | 2026-08-28 |  |
+| [Salama](https://open.spotify.com/track/6sbALB7lMJ1HNg2XAy6kUL) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Salama](https://open.spotify.com/album/08oRda9UCVm9yvGzj7pbpA) | 4:41 | 2026-08-28 | 2026-10-23 |
 | [Sanity](https://open.spotify.com/track/1GANaghGjua91HxOMAogD1) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Sanity](https://open.spotify.com/album/76pQzIESUzjYRDpxQHTbDm) | 3:28 | 2025-10-03 | 2026-02-19 |
 | [Scenes](https://open.spotify.com/track/0Pdp2f6EmVtuaDciWeg32N) | [Dapper](https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI) | [Scenes](https://open.spotify.com/album/7g9b1do5f5rJOybiCgCbBN) | 3:22 | 2026-03-13 | 2026-06-12 |
 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 | 2025-06-20 |  |
@@ -174,6 +174,7 @@
 | [SHON PE \(Count Your Money\)](https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [SHON PE \(Count Your Money\)](https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk) | 2:38 | 2026-07-31 |  |
 | [Social Misconduct](https://open.spotify.com/track/1HrhNxJSs2z6nIjApDPw6L) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [WARRIOR'S CHILD](https://open.spotify.com/album/3JREYxB2XqXeDNWYiHVSW8) | 2:24 | 2025-06-20 | 2025-11-16 |
 | [Sorry](https://open.spotify.com/track/3a9mvqQDZxhahR05qaBlmJ) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Light](https://open.spotify.com/album/6iHR6cIn5tlLFVIGOB3pH2) | 2:24 | 2025-06-20 |  |
+| [Sound of Freedom](https://open.spotify.com/track/03SVC1mmVkDlUHr82tvygI) | [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [Sound of Freedom](https://open.spotify.com/album/22W4OvvrJEhCpa8yYkVrwZ) | 2:28 | 2026-10-23 |  |
 | [SPIRIT](https://open.spotify.com/track/0zQFZFR4vONHRgXs6Dqp2P) | [Vicoka](https://open.spotify.com/artist/4IqQ3ooH5vvzRl3c3vBfwN), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [SPIRIT](https://open.spotify.com/album/626iZIxk6Pmb2DlnRo4FQY) | 3:31 | 2025-08-01 | 2026-07-25 |
 | [Stormy](https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Stormy](https://open.spotify.com/album/7ftthnJD47ILWVYENWtCFB) | 2:30 | 2026-03-27 | 2026-09-30 |
 | [Story Change](https://open.spotify.com/track/2IMi9tTS4Htr0NdOcCmZh4) | [Henry Adams](https://open.spotify.com/artist/1S6JmteKPx1hIASDTnQ4SD), [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [Lamentations 3:37](https://open.spotify.com/album/5KAgDbJvvrOE6BLOQPWREA) | 3:14 | 2026-03-20 | 2026-04-28 |

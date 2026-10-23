@@ -1,18 +1,18 @@
 {
   "description": "a little rap, a little pop, a little country... sometimes. brakence on the cover.",
-  "num_followers": 226821,
+  "num_followers": 226822,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKrZm2bn9aSlTUm3XmUQ3Rc8lVvU",
+  "snapshot_id": "AAAAAFMhlZXuAd6pZ216blbcGO1E3FU6",
   "tracks": [
     {
-      "added_at": "2026-09-26 21:26:29",
+      "added_at": "2026-10-23 04:01:04",
       "album": {
-        "name": "ready or noT",
-        "url": "https://open.spotify.com/album/65yX2K3hB9sV0sxOa5mxXK"
+        "name": "marroW",
+        "url": "https://open.spotify.com/album/1XJET4J6WgkMkalolZojgR"
       },
       "artists": [
         {
@@ -20,25 +20,9 @@
           "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
         }
       ],
-      "duration_ms": 242240,
-      "name": "ready or noT",
-      "url": "https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU"
-    },
-    {
-      "added_at": "2026-09-22 16:00:43",
-      "album": {
-        "name": "onsra",
-        "url": "https://open.spotify.com/album/2kpRZHGZg4I7ZgfiEwUhKY"
-      },
-      "artists": [
-        {
-          "name": "comehelpglo",
-          "url": "https://open.spotify.com/artist/5Z9nWuFMEQ97O7ixur2c8l"
-        }
-      ],
-      "duration_ms": 131186,
-      "name": "onsra",
-      "url": "https://open.spotify.com/track/3aYWDcq8XDdSVIORII690l"
+      "duration_ms": 209066,
+      "name": "wishing well",
+      "url": "https://open.spotify.com/track/3wFANkoEmlut2OCldcKb2U"
     },
     {
       "added_at": "2026-10-09 05:04:54",
@@ -55,6 +39,22 @@
       "duration_ms": 156106,
       "name": "IMPULSIVE",
       "url": "https://open.spotify.com/track/6HkdUz90Kmcxr0cprI10UL"
+    },
+    {
+      "added_at": "2026-09-22 16:00:43",
+      "album": {
+        "name": "onsra",
+        "url": "https://open.spotify.com/album/2kpRZHGZg4I7ZgfiEwUhKY"
+      },
+      "artists": [
+        {
+          "name": "comehelpglo",
+          "url": "https://open.spotify.com/artist/5Z9nWuFMEQ97O7ixur2c8l"
+        }
+      ],
+      "duration_ms": 131186,
+      "name": "onsra",
+      "url": "https://open.spotify.com/track/3aYWDcq8XDdSVIORII690l"
     },
     {
       "added_at": "2026-10-21 14:27:13",
@@ -155,6 +155,22 @@
       "duration_ms": 130329,
       "name": "Quebec",
       "url": "https://open.spotify.com/track/67DgVQlvQ0qilSBN1hdkKN"
+    },
+    {
+      "added_at": "2026-09-26 21:26:29",
+      "album": {
+        "name": "ready or noT",
+        "url": "https://open.spotify.com/album/65yX2K3hB9sV0sxOa5mxXK"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "ready or noT",
+      "url": "https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU"
     },
     {
       "added_at": "2026-09-26 21:26:29",
@@ -831,26 +847,6 @@
       "duration_ms": 163160,
       "name": "RAYA",
       "url": "https://open.spotify.com/track/5XvkekIwf8FnuJrRZN5uuC"
-    },
-    {
-      "added_at": "2026-01-05 22:03:13",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        },
-        {
-          "name": "Rico Ace",
-          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
-        }
-      ],
-      "duration_ms": 109759,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
     }
   ],
   "unique_name": "Varsity Bars",

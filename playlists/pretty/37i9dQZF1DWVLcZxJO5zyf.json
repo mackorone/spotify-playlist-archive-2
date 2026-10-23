@@ -1,13 +1,49 @@
 {
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: J\u00e3o",
-  "num_followers": 2242428,
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Pabllo Vittar",
+  "num_followers": 2242106,
   "original_name": "Pop Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPu/dxh3uwW8SvLwIbiHJeg5ccL3",
+  "snapshot_id": "AAAAACqkXSexpPYgZF/LDUxKcCd1T1pd",
   "tracks": [
+    {
+      "added_at": "2026-10-15 16:10:10",
+      "album": {
+        "name": "LOST IN LUST",
+        "url": "https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 177382,
+      "name": "BAD GOOD",
+      "url": "https://open.spotify.com/track/1flTKOxZXjVJbCXXwXD7Cl"
+    },
+    {
+      "added_at": "2026-10-23 03:00:26",
+      "album": {
+        "name": "DIZER QUE TE AMO",
+        "url": "https://open.spotify.com/album/5iuUYb299eXzLIJ6oUeXhx"
+      },
+      "artists": [
+        {
+          "name": "David Carreira",
+          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 200469,
+      "name": "DIZER QUE TE AMO",
+      "url": "https://open.spotify.com/track/02JFVYvjhf0HvEDxUHsSUT"
+    },
     {
       "added_at": "2026-10-15 16:10:10",
       "album": {
@@ -25,20 +61,24 @@
       "url": "https://open.spotify.com/track/2CDG739960vzk63xW376x2"
     },
     {
-      "added_at": "2026-10-15 16:10:10",
+      "added_at": "2026-10-23 03:00:26",
       "album": {
-        "name": "LOST IN LUST",
-        "url": "https://open.spotify.com/album/5T0XGpHYAdQKJycz00qYIz"
+        "name": "EXCESSO",
+        "url": "https://open.spotify.com/album/2GoENwukIY39JW4z8AMETu"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Gustavvo",
+          "url": "https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
         }
       ],
-      "duration_ms": 177382,
-      "name": "BAD GOOD",
-      "url": "https://open.spotify.com/track/1flTKOxZXjVJbCXXwXD7Cl"
+      "duration_ms": 212250,
+      "name": "EXCESSO",
+      "url": "https://open.spotify.com/track/70ok96cL74jBakuoJma00C"
     },
     {
       "added_at": "2026-10-15 16:10:10",
@@ -355,22 +395,6 @@
       "duration_ms": 221134,
       "name": "Catedral",
       "url": "https://open.spotify.com/track/3mzJgriFYY654vVhzwCepw"
-    },
-    {
-      "added_at": "2026-10-15 16:10:10",
-      "album": {
-        "name": "Metamorfose - Ato I (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5UzUKRyhcxptpNQJh66yAX"
-      },
-      "artists": [
-        {
-          "name": "Wanessa Camargo",
-          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
-        }
-      ],
-      "duration_ms": 255698,
-      "name": "O Amor N\u00e3o Deixa - Ao Vivo",
-      "url": "https://open.spotify.com/track/57VipZXKv5tc9OoBA8OVIA"
     },
     {
       "added_at": "2026-10-15 16:10:10",
@@ -783,26 +807,6 @@
       "duration_ms": 126720,
       "name": "PEIXIN",
       "url": "https://open.spotify.com/track/2goq9J8vz19zGvINVURBxT"
-    },
-    {
-      "added_at": "2026-10-15 16:10:10",
-      "album": {
-        "name": "Menina",
-        "url": "https://open.spotify.com/album/1AhiTTbdGAym3xzYflP3fa"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 158060,
-      "name": "Menina",
-      "url": "https://open.spotify.com/track/1BKs3X4E6Oc0iM3BxnzyXQ"
     },
     {
       "added_at": "2026-10-15 16:10:10",

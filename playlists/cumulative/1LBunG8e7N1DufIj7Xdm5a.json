@@ -9801,6 +9801,24 @@
     },
     {
       "album": {
+        "name": "Brooklyn",
+        "url": "https://open.spotify.com/album/4QvTWqLqLYgRYxydKpFGOh"
+      },
+      "artists": [
+        {
+          "name": "Reptile Room",
+          "url": "https://open.spotify.com/artist/2GxPyV0YIHRNi0hAaqzgER"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212264,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/2cLyhFnnOvK997LZsOjA9i"
+    },
+    {
+      "album": {
         "name": "BRUCEWAYNE",
         "url": "https://open.spotify.com/album/0oeZt3vQXhs7sDyHGGcBFc"
       },
@@ -19766,6 +19784,10 @@
         {
           "name": "Ethan Ice",
           "url": "https://open.spotify.com/artist/0nok7WTxJq1I27y8uSTNUW"
+        },
+        {
+          "name": "Eric Bullock",
+          "url": "https://open.spotify.com/artist/6IXoejQpSlIRw7aPW9Kbem"
         }
       ],
       "date_added": "2026-02-18",

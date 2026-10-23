@@ -4,7 +4,7 @@
 
 > Shawty lo que necesitas es darle flow\.  Kreamly, Cachirula y  Harry Nach en portada
 
-1,045 songs - 2 day 7 hr 34 min
+1,046 songs - 2 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -924,6 +924,7 @@
 | [Te Entiendo \- Remix](https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Te Entiendo \(Remix\)](https://open.spotify.com/album/05OMViCaav7QFZig4FJJOB) | 5:35 | 2026-05-01 |  |
 | [te kiero ver](https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [te kiero ver](https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg) | 2:27 | 2023-03-24 | 2023-06-17 |
 | [Te Menti](https://open.spotify.com/track/1QtKYyXEw9tSMIlK4RfA8B) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Te Menti](https://open.spotify.com/album/0ucVAnzaNBmu2fQIF459tl) | 3:07 | 2023-09-15 | 2024-02-10 |
+| [Te Pillé](https://open.spotify.com/track/0TMjAOcT5HXu83slPosFfd) | [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [GTA \(Gotay The Autentiko\), Vol\. 2](https://open.spotify.com/album/0Y8PV5mFjtHxj3APbYNMMS) | 3:40 | 2026-10-16 |  |
 | [TE PUSISTE RIKA](https://open.spotify.com/track/0ohbpEBIsL2e9qTGqCeIhF) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [TE PUSISTE RIKA](https://open.spotify.com/album/1Zoffenney6GiazwagbHEg) | 2:40 | 2026-02-27 | 2026-04-04 |
 | [Te Quería Ver](https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Te Quería Ver](https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF) | 2:56 | 2025-01-31 | 2026-09-12 |
 | [Te vas](https://open.spotify.com/track/6dr9iXISR0dSKtERnXkj82) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Te vas](https://open.spotify.com/album/6wiBrZD90bXucMKYx5Wmho) | 2:41 | 2026-01-09 | 2026-02-14 |

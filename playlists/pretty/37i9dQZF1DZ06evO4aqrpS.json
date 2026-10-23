@@ -1,12 +1,12 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 69472,
+  "num_followers": 69539,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAADKbyjChNcqA0511nx8WYFj",
+  "snapshot_id": "atavAAAAAACXCybERrlxpH8LN0maIW2P",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagro y Desastre",
-        "url": "https://open.spotify.com/album/4rEAyzDK664s39haBdgaqh"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 245672,
-      "name": "Milagro y Desastre",
-      "url": "https://open.spotify.com/track/1yNpqCswxbQVEK5Ft8vbC6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
       },
@@ -571,6 +555,38 @@
       "duration_ms": 181093,
       "name": "Tristeza",
       "url": "https://open.spotify.com/track/4xlQ2xYTgzuY7LMGmHxfeu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
+        "url": "https://open.spotify.com/album/52ujZlA5WJMJAxFJGSYVgi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 93923,
+      "name": "Pensarte",
+      "url": "https://open.spotify.com/track/0Mtdm3F7672KIPYURPLFog"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milagro y Desastre",
+        "url": "https://open.spotify.com/album/4rEAyzDK664s39haBdgaqh"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 245672,
+      "name": "Milagro y Desastre",
+      "url": "https://open.spotify.com/track/1yNpqCswxbQVEK5Ft8vbC6"
     },
     {
       "added_at": null,
@@ -627,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
-        "url": "https://open.spotify.com/album/52ujZlA5WJMJAxFJGSYVgi"
+        "name": "Tom's Diner",
+        "url": "https://open.spotify.com/album/1j6Q8OXy81DfRlMsjN2yt0"
       },
       "artists": [
         {
@@ -636,9 +652,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 93923,
-      "name": "Pensarte",
-      "url": "https://open.spotify.com/track/0Mtdm3F7672KIPYURPLFog"
+      "duration_ms": 220365,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/412KWpuKoDhjOylbRqQDZj"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
       "duration_ms": 175610,
       "name": "Los D\u00edas",
       "url": "https://open.spotify.com/track/4xbe3iVH32qzMo3b4zT0jT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tom's Diner",
-        "url": "https://open.spotify.com/album/1j6Q8OXy81DfRlMsjN2yt0"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 220365,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/412KWpuKoDhjOylbRqQDZj"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Sagrado",
-        "url": "https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        }
-      ],
-      "duration_ms": 123114,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/6yxrZLNJAYmhLJ1QXikSkM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Libro Abierto",
         "url": "https://open.spotify.com/album/3v0R5k1cEFL2NQRcmaBkD6"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 161739,
       "name": "D\u00edas Que No Lloro",
       "url": "https://open.spotify.com/track/4l1pNkgYLk0Qsdvku8D9nL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Sagrado",
+        "url": "https://open.spotify.com/album/2S6If8uEdoGMoIPgChe9T2"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        }
+      ],
+      "duration_ms": 123114,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/6yxrZLNJAYmhLJ1QXikSkM"
     },
     {
       "added_at": null,

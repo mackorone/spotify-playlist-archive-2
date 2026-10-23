@@ -1,13 +1,33 @@
 {
-  "description": "Net die beste Afrikaanse musiek! Omslag: Zaan Sonnekus en Kurt Darren",
-  "num_followers": 152201,
+  "description": "Net die beste Afrikaanse musiek! Omslag: Ichnus en Appel",
+  "num_followers": 152244,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHvA/P+r10GQyA8UQSnIJa3hBKW2",
+  "snapshot_id": "AAAAAM1tZrEmXTMaJxRUGAWMXD8tCKx1",
   "tracks": [
+    {
+      "added_at": "2026-10-22 22:01:31",
+      "album": {
+        "name": "Jy Sallie",
+        "url": "https://open.spotify.com/album/1ZxC9DLDKrrzH7JMgTd3Xf"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        },
+        {
+          "name": "Ichnus",
+          "url": "https://open.spotify.com/artist/5Pamvs0AxFSiSB3YkeAIXT"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Jy Sallie",
+      "url": "https://open.spotify.com/track/0wyPoe0x4gUNb8iy0J0U1N"
+    },
     {
       "added_at": "2026-09-24 22:01:36",
       "album": {
@@ -59,22 +79,6 @@
       "duration_ms": 214040,
       "name": "Koue Voete Warm Liefde",
       "url": "https://open.spotify.com/track/4zZ1KmaMfLh9jXpeJBG1w7"
-    },
-    {
-      "added_at": "2026-09-24 22:01:36",
-      "album": {
-        "name": "Roer My",
-        "url": "https://open.spotify.com/album/117LCSXnzH3cs8NqtriVVX"
-      },
-      "artists": [
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        }
-      ],
-      "duration_ms": 187912,
-      "name": "Roer My",
-      "url": "https://open.spotify.com/track/4uGhve33c5Xone3SWD2rWM"
     },
     {
       "added_at": "2026-08-27 22:01:28",
@@ -157,6 +161,22 @@
       "url": "https://open.spotify.com/track/5y9iFzYn1Nygb9sOKSLamt"
     },
     {
+      "added_at": "2026-10-22 22:01:31",
+      "album": {
+        "name": "Ek Val",
+        "url": "https://open.spotify.com/album/5Lu60ymWfVd0qinu2IZgiU"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 178290,
+      "name": "Ek Val",
+      "url": "https://open.spotify.com/track/3TRXjj5LyijhaeJOcZ3xig"
+    },
+    {
       "added_at": "2026-08-27 22:01:28",
       "album": {
         "name": "Oor Mekaar",
@@ -175,102 +195,6 @@
       "duration_ms": 256500,
       "name": "Oor Mekaar",
       "url": "https://open.spotify.com/track/0JLCeEeKYJuUiD4Nfos3BZ"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
-        "name": "Yippee-Ki-Yay",
-        "url": "https://open.spotify.com/album/3jP9jmpIdtFrayt50gd6FR"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        },
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        },
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        },
-        {
-          "name": "Bok Van Blerk",
-          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
-        }
-      ],
-      "duration_ms": 220049,
-      "name": "Yippee-Ki-Yay",
-      "url": "https://open.spotify.com/track/4kF7Z6BsBpcuQQCJTiazsP"
-    },
-    {
-      "added_at": "2026-09-10 22:02:24",
-      "album": {
-        "name": "Koelboks Koning (feat. Ricus Nel)",
-        "url": "https://open.spotify.com/album/6QFtTfhhZP1y0MSnn8v3LL"
-      },
-      "artists": [
-        {
-          "name": "Snotkop",
-          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
-        },
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        }
-      ],
-      "duration_ms": 156527,
-      "name": "Koelboks Koning (feat. Ricus Nel)",
-      "url": "https://open.spotify.com/track/19ZL0JZXhb9Yqb6YKEotxw"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
-        "name": "Dammit Ek's Lief Vir Jou",
-        "url": "https://open.spotify.com/album/3sTJfmAS3f5UMzI34cmtDo"
-      },
-      "artists": [
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 170431,
-      "name": "Dammit Ek's Lief Vir Jou",
-      "url": "https://open.spotify.com/track/58qJEaNPlE6r3YHtODkNpS"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
-        "name": "Verby Dans",
-        "url": "https://open.spotify.com/album/3L2X47ndGgPRg616JYQIQK"
-      },
-      "artists": [
-        {
-          "name": "JACOBUS",
-          "url": "https://open.spotify.com/artist/24iz20utElKngkNR7P2uBt"
-        }
-      ],
-      "duration_ms": 147357,
-      "name": "Verby Dans",
-      "url": "https://open.spotify.com/track/1tCPX7OAeLdlAE4vhEz7bP"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
-        "name": "Duikweg Vreemdeling",
-        "url": "https://open.spotify.com/album/5lnUVTwj1FxukKnHYdcWRX"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        }
-      ],
-      "duration_ms": 186176,
-      "name": "Duikweg Vreemdeling",
-      "url": "https://open.spotify.com/track/5AfbPovjjbQmBGkrT75DTS"
     },
     {
       "added_at": "2026-08-27 22:01:28",
@@ -307,6 +231,70 @@
     {
       "added_at": "2026-08-27 22:01:28",
       "album": {
+        "name": "Dammit Ek's Lief Vir Jou",
+        "url": "https://open.spotify.com/album/3sTJfmAS3f5UMzI34cmtDo"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 170431,
+      "name": "Dammit Ek's Lief Vir Jou",
+      "url": "https://open.spotify.com/track/58qJEaNPlE6r3YHtODkNpS"
+    },
+    {
+      "added_at": "2026-08-27 22:01:28",
+      "album": {
+        "name": "Duikweg Vreemdeling",
+        "url": "https://open.spotify.com/album/5lnUVTwj1FxukKnHYdcWRX"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 186176,
+      "name": "Duikweg Vreemdeling",
+      "url": "https://open.spotify.com/track/5AfbPovjjbQmBGkrT75DTS"
+    },
+    {
+      "added_at": "2026-08-27 22:01:28",
+      "album": {
+        "name": "Verby Dans",
+        "url": "https://open.spotify.com/album/3L2X47ndGgPRg616JYQIQK"
+      },
+      "artists": [
+        {
+          "name": "JACOBUS",
+          "url": "https://open.spotify.com/artist/24iz20utElKngkNR7P2uBt"
+        }
+      ],
+      "duration_ms": 147357,
+      "name": "Verby Dans",
+      "url": "https://open.spotify.com/track/1tCPX7OAeLdlAE4vhEz7bP"
+    },
+    {
+      "added_at": "2026-10-22 22:01:31",
+      "album": {
+        "name": "Lyntjies",
+        "url": "https://open.spotify.com/album/4CfHkz7nIum5wLQiK0rn5j"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Lyntjies",
+      "url": "https://open.spotify.com/track/7j1ccXk9AmuU5xtY63aKuu"
+    },
+    {
+      "added_at": "2026-08-27 22:01:28",
+      "album": {
         "name": "Eie Smaak (feat. Ricus Nel)",
         "url": "https://open.spotify.com/album/67rmStzDBNEQxm7rnHs77b"
       },
@@ -323,6 +311,34 @@
       "duration_ms": 194619,
       "name": "Eie Smaak (feat. Ricus Nel)",
       "url": "https://open.spotify.com/track/15hz44Nt7UKIxC6NcW4qLg"
+    },
+    {
+      "added_at": "2026-08-27 22:01:28",
+      "album": {
+        "name": "Yippee-Ki-Yay",
+        "url": "https://open.spotify.com/album/3jP9jmpIdtFrayt50gd6FR"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        },
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        },
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        },
+        {
+          "name": "Bok Van Blerk",
+          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
+        }
+      ],
+      "duration_ms": 220049,
+      "name": "Yippee-Ki-Yay",
+      "url": "https://open.spotify.com/track/4kF7Z6BsBpcuQQCJTiazsP"
     },
     {
       "added_at": "2026-08-27 22:01:28",
@@ -509,6 +525,26 @@
       "url": "https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn"
     },
     {
+      "added_at": "2026-10-22 22:01:31",
+      "album": {
+        "name": "Stadig",
+        "url": "https://open.spotify.com/album/7Edw5GZL5izoP3VbDyewf3"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Stadig",
+      "url": "https://open.spotify.com/track/0CYKkA90kXsGRV5xLrWX6L"
+    },
+    {
       "added_at": "2026-08-27 22:01:28",
       "album": {
         "name": "Carina",
@@ -575,22 +611,6 @@
       "duration_ms": 174152,
       "name": "Verseker Beter",
       "url": "https://open.spotify.com/track/6mr4sBTK92E4Xohl8GVeh8"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
-        "name": "Heuning",
-        "url": "https://open.spotify.com/album/6mM1yusB6FEJDpkO0VzDiF"
-      },
-      "artists": [
-        {
-          "name": "Winter Hotel",
-          "url": "https://open.spotify.com/artist/0c7Ht8PeXWlU3SzZxJHuFy"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Heuning",
-      "url": "https://open.spotify.com/track/6LhKKGotrMu24Ju93T1jhi"
     },
     {
       "added_at": "2026-08-27 22:01:28",
@@ -675,22 +695,6 @@
       "duration_ms": 221040,
       "name": "Lei My Na Die Water",
       "url": "https://open.spotify.com/track/15bXmhHbsXEYa6YKESByDH"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
-        "name": "Te Laat",
-        "url": "https://open.spotify.com/album/5x4E7mWkDMiLBF44pm7Rh1"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "Te Laat",
-      "url": "https://open.spotify.com/track/5ENiSln8SCxWQLvRltWgAJ"
     },
     {
       "added_at": "2026-08-27 22:01:28",
@@ -951,6 +955,22 @@
     {
       "added_at": "2026-08-27 22:01:28",
       "album": {
+        "name": "Heuning",
+        "url": "https://open.spotify.com/album/6mM1yusB6FEJDpkO0VzDiF"
+      },
+      "artists": [
+        {
+          "name": "Winter Hotel",
+          "url": "https://open.spotify.com/artist/0c7Ht8PeXWlU3SzZxJHuFy"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Heuning",
+      "url": "https://open.spotify.com/track/6LhKKGotrMu24Ju93T1jhi"
+    },
+    {
+      "added_at": "2026-08-27 22:01:28",
+      "album": {
         "name": "Ja. Nee. Lekker. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ntTrtwUni1E0PAlSe61rY"
       },
@@ -1127,22 +1147,6 @@
       "duration_ms": 246393,
       "name": "Rooi Vlag",
       "url": "https://open.spotify.com/track/1hmxEM9ACNWYDDbcJc4pNU"
-    },
-    {
-      "added_at": "2026-08-27 22:01:28",
-      "album": {
-        "name": "Boer Ding",
-        "url": "https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16"
-      },
-      "artists": [
-        {
-          "name": "Bobby Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
-        }
-      ],
-      "duration_ms": 212242,
-      "name": "Boer Ding",
-      "url": "https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT"
     },
     {
       "added_at": "2026-08-27 22:01:28",

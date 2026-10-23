@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro fusion music: Cruel Santino
 
-1,196 songs - 2 day 9 hr 9 min
+1,197 songs - 2 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1037,6 +1037,7 @@
 | [SUV](https://open.spotify.com/track/2PeErwVrlNWQe9rUuNH7CN) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [SUV](https://open.spotify.com/album/54RojlSYjybyjnpiwy18tE) | 2:58 | 2023-05-04 | 2023-05-12 |
 | [Suya](https://open.spotify.com/track/7tyyz6kEEoazUPEu11j4Fh) | [Gloccboy](https://open.spotify.com/artist/7IdFjpPARqjAqn2as4AUFQ), [dayo](https://open.spotify.com/artist/3cRMY8ZYaVkHbKyR0aCt5Q) | [Suya](https://open.spotify.com/album/6kjoVlKVnGyOuAolftBJks) | 2:21 | 2026-05-15 | 2026-05-29 |
 | [Swag Up](https://open.spotify.com/track/0ayOzJH8S7ikVxGe4FphUc) | [Tobi Nation](https://open.spotify.com/artist/7pzMp7mAU2KRlAjtYuKoje), [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [Swag Up](https://open.spotify.com/album/3lYTeMnf7e2QH7MCfeBMGR) | 1:56 | 2026-10-16 |  |
+| [swagsonic](https://open.spotify.com/track/7zDHXibZ29xCOGsJgMJ9C9) | [Zen Univrse](https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl) | [swagsonic](https://open.spotify.com/album/7F9SLZUJtPYfNMoTNT4XHu) | 2:02 | 2026-10-23 |  |
 | [Swear, I Tried](https://open.spotify.com/track/4RGWcopCHddLdBw6bvznOn) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6) | [Swear, I Tried](https://open.spotify.com/album/5z5GhsGANxjU9jVoCrBR8W) | 2:28 | 2024-03-25 | 2024-09-07 |
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-10 | 2024-02-09 |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-28 | 2025-04-04 |
@@ -1096,7 +1097,7 @@
 | [Touché](https://open.spotify.com/track/6AmCAKY1V1msPUiqogglVW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Moneybag](https://open.spotify.com/album/26MQEJC5dvEQL1rfShAXao) | 2:14 | 2023-10-20 | 2024-04-05 |
 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 | 2024-01-08 | 2024-05-03 |
 | [Toyin Tomato](https://open.spotify.com/track/4M4FJYE3mTKtpvUld3cXJn) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Love is War](https://open.spotify.com/album/4T7WOGmFKYhXwGYMTylhfq) | 2:48 | 2021-10-15 | 2022-02-11 |
-| [TRABAYE](https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS) | [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [OLORIN PACK](https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ) | 1:53 | 2026-04-03 |  |
+| [TRABAYE](https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS) | [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [OLORIN PACK](https://open.spotify.com/album/4sWFA2NbXUPfbvuK3rjtiQ) | 1:53 | 2026-04-03 | 2026-10-23 |
 | [Trappin'](https://open.spotify.com/track/5plaVEdji1xkIuEEKvuVEt) | [Re.decay](https://open.spotify.com/artist/0PDj0ZH3LHrGifJSeDZKWF), [Tinuke](https://open.spotify.com/artist/5AzAEBREBwVj9AOmHNG5X1), [Eze Jackson](https://open.spotify.com/artist/5tPCFmRzyUGp5ZNqSC54QM) | [Trappin'](https://open.spotify.com/album/5hryGF4CvfTG6IIeK5SLVq) | 3:00 | 2022-05-12 | 2022-05-27 |
 | [Tropicana](https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Flash](https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p) | [Palmwine Music 2](https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5) | 4:15 | 2024-03-21 | 2024-03-25 |
 | [Tropicana](https://open.spotify.com/track/1wTupR6XF1y1yduWbrBa1x) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C), [9roovy](https://open.spotify.com/artist/1vcTEePkCTv3XMyuVNSAMy) | [Tropicana](https://open.spotify.com/album/3iESACtNvFj9ow5aQOTicl) | 2:27 | 2026-03-20 | 2026-06-18 |

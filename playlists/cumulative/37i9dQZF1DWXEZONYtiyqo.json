@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Olivia Addams, Liviu Teodorescu",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Smiley",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -144,6 +144,24 @@
       "duration_ms": 222285,
       "name": "33",
       "url": "https://open.spotify.com/track/4LafNv6Vn6XQX8A4XcSmiB"
+    },
+    {
+      "album": {
+        "name": "aproape:",
+        "url": "https://open.spotify.com/album/6GJlo9o1hPnP9h8eaW4gI3"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "5 minute",
+      "url": "https://open.spotify.com/track/0drBh8gHti7T4ykJVRpbAN"
     },
     {
       "album": {
@@ -1347,6 +1365,28 @@
     },
     {
       "album": {
+        "name": "Baila Morena (Remixes)",
+        "url": "https://open.spotify.com/album/2JuMhCsGs3EJzzwiyBteyC"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        },
+        {
+          "name": "Jesko",
+          "url": "https://open.spotify.com/artist/4soYYfgAgLx5Yi1NO2ltub"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Baila Morena",
+      "url": "https://open.spotify.com/track/3g2Bow34JQwxfluQFvPcmy"
+    },
+    {
+      "album": {
         "name": "Baila Morena",
         "url": "https://open.spotify.com/album/6wGgOqelmrwrNWiXVTARKs"
       },
@@ -1362,7 +1402,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 138750,
       "name": "Baila Morena",
       "url": "https://open.spotify.com/track/7otU1dobl9qJp6R5xORoda"
@@ -1562,6 +1602,28 @@
       "duration_ms": 141714,
       "name": "Bilet doar dus",
       "url": "https://open.spotify.com/track/0eT9x6eqtQzMqzBUYr3FDu"
+    },
+    {
+      "album": {
+        "name": "Boys These Days",
+        "url": "https://open.spotify.com/album/00cEkoEvXgAz4EQniN1q8p"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        },
+        {
+          "name": "Misha Miller",
+          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130652,
+      "name": "Boys These Days",
+      "url": "https://open.spotify.com/track/12Gu3jyDY4nk5XLjxWJvQ8"
     },
     {
       "album": {
@@ -1914,6 +1976,24 @@
       "duration_ms": 138709,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/6hEnBl36TIfOCGLSktigTX"
+    },
+    {
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/3hK8y30ywegptiWf8ebAnS"
+      },
+      "artists": [
+        {
+          "name": "Fly Project",
+          "url": "https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3nk0rATAea3bUXN74anmsH"
     },
     {
       "album": {
@@ -4400,7 +4480,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 204375,
       "name": "Free",
       "url": "https://open.spotify.com/track/4rMM6OaUqgYr6eZrFC2TMN"
@@ -5300,7 +5380,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 172857,
       "name": "Inima la orizont",
       "url": "https://open.spotify.com/track/3ZQJI8BGWbLuWmuD1fhAUn"
@@ -6336,7 +6416,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 170517,
       "name": "Manic",
       "url": "https://open.spotify.com/track/2AeNxclEw1gqrZJH7ED34W"
@@ -6437,6 +6517,24 @@
     },
     {
       "album": {
+        "name": "Melancolie",
+        "url": "https://open.spotify.com/album/5YNHon1mfRWW28E2JmFn20"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149262,
+      "name": "Melancolie",
+      "url": "https://open.spotify.com/track/5NqF1AvjmoJYblLfszEyKE"
+    },
+    {
+      "album": {
         "name": "Melo",
         "url": "https://open.spotify.com/album/6Q0cZnwSS3uLtKXnEVTshj"
       },
@@ -6466,7 +6564,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 150303,
       "name": "Mi Corazon",
       "url": "https://open.spotify.com/track/0SsPZnatOsS9HvL16wdNik"
@@ -6518,6 +6616,24 @@
       "duration_ms": 165714,
       "name": "Mintea Mea",
       "url": "https://open.spotify.com/track/0COYO76iJYm8yTch9UeAsq"
+    },
+    {
+      "album": {
+        "name": "Minunata lume nou\u0103",
+        "url": "https://open.spotify.com/album/36wGT8GJToip5zbf8Hu8ZW"
+      },
+      "artists": [
+        {
+          "name": "The Motans",
+          "url": "https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235652,
+      "name": "Minunata lume nou\u0103",
+      "url": "https://open.spotify.com/track/3SaW5ose9jTzXUXlc9IlCU"
     },
     {
       "album": {
@@ -6981,6 +7097,28 @@
     },
     {
       "album": {
+        "name": "Ne cert\u0103m s\u0103 ne \u00eemp\u0103c\u0103m",
+        "url": "https://open.spotify.com/album/4QoZF7wvuvlBpNz9fZzUSF"
+      },
+      "artists": [
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        },
+        {
+          "name": "Antonia",
+          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Ne cert\u0103m s\u0103 ne \u00eemp\u0103c\u0103m",
+      "url": "https://open.spotify.com/track/3TI8tDdl9l3RgaMsqXHUlE"
+    },
+    {
+      "album": {
         "name": "Ne Suntem",
         "url": "https://open.spotify.com/album/1ffwhXU88wz4LIS8sYpuhM"
       },
@@ -7138,7 +7276,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 149599,
       "name": "No No No",
       "url": "https://open.spotify.com/track/0vZuecwzTTKc9ZiiWK0srD"
@@ -9176,7 +9314,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 207457,
       "name": "Sa Danseze Fetele",
       "url": "https://open.spotify.com/track/4L6VaGjKdKpTxaIj7IKx95"

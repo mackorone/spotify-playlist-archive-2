@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,405 likes - 54 songs - 3 hr 14 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,412 likes - 57 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 52 | [En tus ojos](https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC) | [Leandro Rebolini](https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI) | [En tus ojos](https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL) | 4:11 |
 | 53 | [Should Have Seen It Coming](https://open.spotify.com/track/2HXO6wTQQgbIJ7VHTyjTty) | [Jonny Morgan & The Moral Support](https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD) | [Should Have Seen It Coming](https://open.spotify.com/album/6jQFnuBkPMBnQxIvivFECT) | 3:17 |
 | 54 | [November Shadows](https://open.spotify.com/track/04wmlqCv6iZRQz6uEY58GR) | [Bad Valentines](https://open.spotify.com/artist/3xVdUhudpYUp6NH3Pim0sd) | [November Shadows](https://open.spotify.com/album/4GlWT1vdrc3P8a1VkrbnZw) | 3:14 |
+| 55 | [Jeckyll&Hyde](https://open.spotify.com/track/0PFaJMLO16M6mvaXmCqL7c) | [Ginny Ranger](https://open.spotify.com/artist/1d7M7OfoBCzXOyS8JlDHfo), [The Re\-A\-Rangers](https://open.spotify.com/artist/2PF7IsaFN7iPAA3FI0QLGn) | [Jeckyll&Hyde](https://open.spotify.com/album/0TOuh8yFNSjYmtNsSdkY6v) | 3:33 |
+| 56 | [Floating](https://open.spotify.com/track/18xRCY2rI66SvQZSLxHBlL) | [English Budgies](https://open.spotify.com/artist/3iokGJkvqXeARdkndKZbuR) | [Floating](https://open.spotify.com/album/64HM2fKH4wtLimUq6bz4kI) | 2:29 |
+| 57 | [Bummer](https://open.spotify.com/track/1GxYnDuvyqYgCcEpA04Eaj) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Bummer](https://open.spotify.com/album/446bKk4pXnkNFOgpXIQmcI) | 4:29 |
 
-Snapshot ID: `AAAHQGFhmIcdOdavBBelXu69ydh+S+Cz`
+Snapshot ID: `AAAHQyFPSBlgFe7zS4+9bv6skV+sxMD8`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Little Boogie & Milo J en la casa del Trap Argentino",
+  "description": "Knak & YSY Aen la casa del Trap Argentino",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -1382,7 +1382,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 142222,
       "name": "Bambas",
       "url": "https://open.spotify.com/track/4bUjZudk3eBD4N8JCfdJko"
@@ -7405,6 +7405,28 @@
     },
     {
       "album": {
+        "name": "MI PRIMER NOMBRE ES MAR\u00cdA",
+        "url": "https://open.spotify.com/album/68F2WBq1VSYP2YnISJBAwc"
+      },
+      "artists": [
+        {
+          "name": "143leti",
+          "url": "https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr"
+        },
+        {
+          "name": "Roxxee",
+          "url": "https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "MI PRIMER NOMBRE ES MAR\u00cdA",
+      "url": "https://open.spotify.com/track/4ZnZDgWUSUjTMj2z6Cvo9y"
+    },
+    {
+      "album": {
         "name": "mi \u00faltimo peso",
         "url": "https://open.spotify.com/album/3lOt9QdR7bz1P0MLBtPTgT"
       },
@@ -8092,7 +8114,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 169600,
       "name": "NO ES PA MI",
       "url": "https://open.spotify.com/track/5HDSspcJFutk8bNClvW5H3"
@@ -9472,6 +9494,28 @@
       "duration_ms": 142343,
       "name": "Presidentes Muertos",
       "url": "https://open.spotify.com/track/2W7lQJmidiaQczitjNEvzu"
+    },
+    {
+      "album": {
+        "name": "PRESI\u00d3N",
+        "url": "https://open.spotify.com/album/4lg4m9SSZb59A4LsNzdH03"
+      },
+      "artists": [
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179608,
+      "name": "PRESI\u00d3N",
+      "url": "https://open.spotify.com/track/7Kxqengo97jeMwM7v6UTTP"
     },
     {
       "album": {

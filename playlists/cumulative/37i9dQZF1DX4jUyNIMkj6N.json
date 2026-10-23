@@ -669,6 +669,28 @@
     },
     {
       "album": {
+        "name": "Aries (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2cRwJ9bSSl4fbj3PixcBYK"
+      },
+      "artists": [
+        {
+          "name": "Freja Drakenberg",
+          "url": "https://open.spotify.com/artist/2SKLZYthHIaik4nPTqcboR"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225124,
+      "name": "Aries - Acoustic Version",
+      "url": "https://open.spotify.com/track/0awaMjHvi5I8mAaeOVuq1E"
+    },
+    {
+      "album": {
         "name": "Arpeggio (Revisited)",
         "url": "https://open.spotify.com/album/1xIjkcyQwjfw9zjPoCLGTD"
       },
@@ -7266,7 +7288,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 67112,
       "name": "Viking Fair",
       "url": "https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP"
@@ -7912,7 +7934,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 323386,
       "name": "Wild Geese, Wild Love",
       "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"

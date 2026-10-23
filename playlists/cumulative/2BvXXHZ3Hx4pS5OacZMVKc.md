@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-489 songs - 1 day 1 hr 8 min
+490 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Coming Back](https://open.spotify.com/track/0Qn5NOtqOrIvnOdZ3Rsxav) | [The Uncommon](https://open.spotify.com/artist/6fV0T8hhZJgKewDsuQ2Pm1), [Kaphy](https://open.spotify.com/artist/3wigq7ogMWIk2GhsT7BJC5) | [Coming Back](https://open.spotify.com/album/6nExZI8i4u5qzL8tAseZdL) | 2:14 | 2026-02-13 |  |
 | [Commotion](https://open.spotify.com/track/669lWcKZIkSJ9VMSB03Hwg) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Of Dust and Shadows](https://open.spotify.com/album/7G7fG4yzup1ZfeIzjOWIX0) | 4:13 | 2023-09-21 |  |
 | [CONNECTION](https://open.spotify.com/track/2VyXOUGlZwEcfAHozs0xfr) | [Rxm リム](https://open.spotify.com/artist/6xQr9sbtrCuoW4qJoATNLB) | [CONNECTION](https://open.spotify.com/album/2xfoZq6jYPWnejcKBtodH6) | 1:48 | 2023-08-10 |  |
+| [Costa Brava](https://open.spotify.com/track/4sdhXLWbvWeDGC00AxhsvS) | [angelrot](https://open.spotify.com/artist/1PtxhGf5zAUnOucwf4fCIJ), [s33ya](https://open.spotify.com/artist/7CBlu91aunYYu7y9AVKnbq) | [Costa Brava](https://open.spotify.com/album/51UOjCLFRjG5cSLEjdoWLH) | 2:49 | 2026-10-22 |  |
 | [Crash](https://open.spotify.com/track/2LSbYkErNTGB5JX0FOdbsu) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Crash](https://open.spotify.com/album/7ohKZgBr10faQ2y7B1tKbs) | 3:25 | 2024-08-06 |  |
 | [Curse](https://open.spotify.com/track/2y2vXCLSpVGhXU501Nw8Ll) | [Strybo](https://open.spotify.com/artist/3IrKXf6yLQUpniQZM100Eg) | [Curse](https://open.spotify.com/album/548qfP8YqJRprr3kiDxuFx) | 1:30 | 2022-11-22 |  |
 | [Damaged](https://open.spotify.com/track/7uQ10UJqGiy2cTF8EbRhBn) | [Kronus](https://open.spotify.com/artist/6e9dyfp9Y8eiosc52OlwWj) | [Damaged](https://open.spotify.com/album/4Vefk566eZiUWTERSuQIfe) | 3:06 | 2026-03-03 |  |

@@ -2,9 +2,9 @@
 
 ### [Indie Favourites](https://open.spotify.com/playlist/37i9dQZF1DXcZ6y0ulQ9Gz)
 
-> The best indie of then and the best of now w/ This is Lorelei
+> The best indie of then and the best of now w/ Sophia Stel
 
-873 songs - 2 day 4 hr 26 min
+874 songs - 2 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,7 +547,7 @@
 | [Oh Dear](https://open.spotify.com/track/3uwJ3HLp0FtMuYmwYDHt4R) | [JEFFE](https://open.spotify.com/artist/1Hgq78NaXI41PHyKKDEExF) | [One Hundred Percent](https://open.spotify.com/album/2v24Dl7q1XdzOJp3EB6wVt) | 3:28 | 2021-02-22 | 2022-04-16 |
 | [Oh Mama](https://open.spotify.com/track/6Lg8oR8gLFlZsQHt60nobd) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Mind The Moon](https://open.spotify.com/album/6y2JMtge8HqlTcwBVpBlsG) | 3:33 | 2020-10-29\* | 2022-04-06 |
 | [Oh My God](https://open.spotify.com/track/6OhkOasd2Mume69b87jwbN) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Shabrang](https://open.spotify.com/album/54tTC9UQtLnu5Wldhlnstr) | 3:14 | 2024-01-08 | 2024-02-03 |
-| [Oh No Now My](https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Oh No Now My](https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr) | 3:08 | 2026-09-18 |  |
+| [Oh No Now My](https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Oh No Now My](https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr) | 3:08 | 2026-09-18 | 2026-10-23 |
 | [OKAY COOL](https://open.spotify.com/track/2oGDzyfzbtj09rBQPAjpys) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [OKAY COOL](https://open.spotify.com/album/4d39q2x5RC5uEIc1dLP9CT) | 2:59 | 2021-01-15 | 2022-04-14 |
 | [Olympians](https://open.spotify.com/track/1ADnKGJN6sQxkYpcgpyKbm) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 3:58 | 2021-01-15 | 2022-07-28 |
 | [On The Square](https://open.spotify.com/track/5kIiLCjBeNHFMFRWaeebOA) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [On The Square](https://open.spotify.com/album/0nhIXhlBCIsN37oxnzrSWc) | 3:29 | 2021-02-09 | 2022-04-13 |
@@ -601,6 +601,7 @@
 | [Post Humorous](https://open.spotify.com/track/4rOM11Me71Szv8BD7ILpxr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/7xm5gLnLKtWSAGDzROIF9X) | 4:39 | 2022-09-23 | 2023-02-11 |
 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 | 2025-11-28 | 2026-04-21 |
 | [Powder Blue / Cascine Park](https://open.spotify.com/track/4UQXcTBlLGRfEkO1y6lD6i) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [EP III](https://open.spotify.com/album/5JHLcrjlAvqy0D0RFUoDai) | 3:48 | 2021-01-15 | 2022-07-29 |
+| [Power](https://open.spotify.com/track/1Dj0FZ4SVfiGFGBRBF32eb) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [the greatest album of all time](https://open.spotify.com/album/6mrpcJ02ZDtAE5vvysSX3e) | 3:53 | 2026-10-23 |  |
 | [Pretty Boys \(feat\. Khruangbin\)](https://open.spotify.com/track/3grdgfHCm4mWVJliAitsE6) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [McCartney III Imagined](https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT) | 5:48 | 2021-08-01 | 2022-07-27 |
 | [Psychics in LA](https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends \(Deluxe\)](https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w) | 3:26 | 2021-05-09 | 2022-07-24 |
 | [Puddles](https://open.spotify.com/track/060OLe1AoWYRWX2n44fRft) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Nothing Much Has Changed, I Don't Feel The Same](https://open.spotify.com/album/7JRxCqZEgcgduakDOCgjg1) | 1:49 | 2021-04-12 | 2022-07-27 |

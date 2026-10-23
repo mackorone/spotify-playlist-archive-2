@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAAA9KIvf8HBDJ3onr7rH++CA",
+  "snapshot_id": "atavAAAAAACSDl+fP37BVm98sgjq/pgp",
   "tracks": [
     {
       "added_at": null,
@@ -372,21 +372,13 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        },
-        {
-          "name": "Kaki King",
-          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
-        },
-        {
-          "name": "Maeve Gilchrist",
-          "url": "https://open.spotify.com/artist/389WRgo5xrmZWgpleecYa5"
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
         }
       ],
-      "duration_ms": 307887,
-      "name": "Last Night Reprise (feat. Cautious Clay, Kaki King, Maeve Gilchrist)",
-      "url": "https://open.spotify.com/track/35IhAAciJPseghP7KlBhVU"
+      "duration_ms": 406831,
+      "name": "Saaqi (feat. Vijay Iyer)",
+      "url": "https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u"
     },
     {
       "added_at": null,
@@ -468,13 +460,21 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Vijay Iyer",
-          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Kaki King",
+          "url": "https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV"
+        },
+        {
+          "name": "Maeve Gilchrist",
+          "url": "https://open.spotify.com/artist/389WRgo5xrmZWgpleecYa5"
         }
       ],
-      "duration_ms": 406831,
-      "name": "Saaqi (feat. Vijay Iyer)",
-      "url": "https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u"
+      "duration_ms": 307887,
+      "name": "Last Night Reprise (feat. Cautious Clay, Kaki King, Maeve Gilchrist)",
+      "url": "https://open.spotify.com/track/35IhAAciJPseghP7KlBhVU"
     },
     {
       "added_at": null,

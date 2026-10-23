@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-680 songs - 1 day 14 hr 35 min
+682 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Get There When I Get There](https://open.spotify.com/track/3A8glnhkz52eDkT5e52xSm) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Left on McKinney](https://open.spotify.com/album/2ALcWB26JayXG3kCosC8F9) | 2:56 | 2024-10-03 |  |
 | [Ghost Of Me](https://open.spotify.com/track/2xmsvPkZ67YgQ4p2ABrnzT) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Ghost Of Me](https://open.spotify.com/album/4N4vgV1soaj7LbakmNfwvB) | 3:04 | 2024-11-08 |  |
 | [Ghosts](https://open.spotify.com/track/20Rjl0NnWdKHv1OwKA7gid) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Ghosts](https://open.spotify.com/album/2PWoBl1aTMVU93FZDQKF8S) | 3:47 | 2025-09-25 |  |
+| [Ghosts](https://open.spotify.com/track/0KBaCuTluuswEN4ZQs30Gn) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Ghosts](https://open.spotify.com/album/5dchb4R4CXlOSpO0Tw2NMQ) | 3:46 | 2026-10-22 |  |
 | [Give It All Up](https://open.spotify.com/track/2U2sN2mkf5GlA5bqoaQEEz) | [Monday](https://open.spotify.com/artist/2QdvFxDbJCy6w1TBx4nKGY) | [Give It All Up](https://open.spotify.com/album/7GMKjqjdfse22SzNPBBRzR) | 2:28 | 2025-09-01 |  |
 | [Give Me That Feeling](https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN) | 4:14 | 2024-04-11 |  |
 | [Give Me That Feeling](https://open.spotify.com/track/5nqcyjp4fFX7MTsxzXlMdm) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/671hZnMHapwrrMIjousq6l) | 4:14 | 2024-02-26 | 2024-04-19 |
@@ -210,6 +211,7 @@
 | [Golden Days](https://open.spotify.com/track/08FJ6a0DVTGYwJAKyhCNt2) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Rolling](https://open.spotify.com/album/5meYSRyh2OUGjPDYxHxJ3Z) | 2:51 | 2023-02-23 | 2023-04-26 |
 | [Golden Lovers](https://open.spotify.com/track/5SgWKAMXnGT8yp4wMDjtik) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Golden Lovers](https://open.spotify.com/album/4Jv2duaN6eNUpDs3sXbJct) | 3:22 | 2023-02-23 | 2024-08-10 |
 | [Good Enough](https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Good Enough](https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH) | 2:18 | 2025-04-11 |  |
+| [Good Job](https://open.spotify.com/track/0y4Ehj17UsdpWaH0fOnVwR) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Next\-Level Love \- An Introduction](https://open.spotify.com/album/4deYj2RAYJ1I8X45YobVQ0) | 2:44 | 2026-10-22 |  |
 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 | 2025-01-24 | 2026-08-21 |
 | [Goodbye Never Felt So Bad](https://open.spotify.com/track/0yLNWToE0zigyg3aqYrwdL) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Goodbye Never Felt So Bad](https://open.spotify.com/album/1oxbrgjKFu46YXY6zVZf9G) | 4:10 | 2023-08-17 | 2023-12-30 |
 | [GRAVITY](https://open.spotify.com/track/7nd3YEj7Jk3pwu85LE25Hm) | [Inge Lamboo](https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz) | [GRAVITY](https://open.spotify.com/album/0WO2RGcXBMGzHiaH9e5CqI) | 2:25 | 2026-08-20 | 2026-09-09 |
@@ -299,7 +301,7 @@
 | [It Isn’t Perfect But It Might Be \- from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack](https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [It Isn’t Perfect But It Might Be \(from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg) | 3:36 | 2025-03-13 | 2025-06-03 |
 | [It Takes Two](https://open.spotify.com/track/1nuc2zALgFmviSthCk4BZx) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [It Takes Two](https://open.spotify.com/album/3Pk1kEQQYAc88SZMZfOifu) | 2:38 | 2026-07-17 |  |
 | [It Was Gonna Be You](https://open.spotify.com/track/6VzorL4qfmkmPax6xJs3jS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [It Was Gonna Be You](https://open.spotify.com/album/3SJEEDxYhsw4HqNPb6I3Vl) | 3:29 | 2026-08-20 |  |
-| [I’ll Hold On](https://open.spotify.com/track/1M7umxsXNX4q9mCRk2SWzP) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [I'll Hold On](https://open.spotify.com/album/3KkJC1C818S60PtBYGlMAp) | 3:26 | 2023-02-23 |  |
+| [I’ll Hold On](https://open.spotify.com/track/1M7umxsXNX4q9mCRk2SWzP) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [I'll Hold On](https://open.spotify.com/album/3KkJC1C818S60PtBYGlMAp) | 3:26 | 2023-02-23 | 2026-10-23 |
 | [Jacob’s Song](https://open.spotify.com/track/6aqpe7OnVWwRY67ZxIWJDf) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Fool Bar](https://open.spotify.com/album/69084B3nfxcxUHSfJZUl9F) | 5:17 | 2023-02-23 | 2023-11-16 |
 | [Jaded](https://open.spotify.com/track/0LbZLBBZI1NfaDgb4dx0UD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:05 | 2024-03-21 | 2026-03-12 |
 | [Javelin](https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Javelin](https://open.spotify.com/album/7nd9mJWgsV8oPY35Dq57eX) | 3:45 | 2026-05-28 |  |
@@ -661,7 +663,7 @@
 | [Where the Heart Is \- Single Version](https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Where the Heart Is](https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG) | 3:37 | 2023-02-23 | 2024-04-19 |
 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2024-11-14 |  |
 | [White Noise](https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [White Noise](https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R) | 2:51 | 2025-02-18 |  |
-| [Who Gave You The Right](https://open.spotify.com/track/5t6IYCmM6KFyPLDQo2smtr) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Who Gave You The Right](https://open.spotify.com/album/3IEWVzWYms4ivv3cQ2xX8f) | 3:26 | 2023-02-23 |  |
+| [Who Gave You The Right](https://open.spotify.com/track/5t6IYCmM6KFyPLDQo2smtr) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Who Gave You The Right](https://open.spotify.com/album/3IEWVzWYms4ivv3cQ2xX8f) | 3:26 | 2023-02-23 | 2026-10-23 |
 | [Why Do You Care](https://open.spotify.com/track/3oDn64B3LsqBfcvQA5UJrh) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [RONDÉ](https://open.spotify.com/album/2sSHHrTuj2PdyjHyQJsCtj) | 3:36 | 2024-04-11 | 2026-03-06 |
 | [Why Do You Care](https://open.spotify.com/track/4miesggrLA9agA9lusKhV9) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [RONDÉ](https://open.spotify.com/album/7oQWTdzb0SHFhWp5cZZvZv) | 3:36 | 2023-04-25 | 2024-03-20 |
 | [Wild Grey Ocean](https://open.spotify.com/track/3NhEHxzfLEzvlYPK9hgmPR) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Grey Ocean](https://open.spotify.com/album/6H7rX9r5UAwdlkDtWOiW6v) | 3:54 | 2023-02-23 | 2023-04-26 |

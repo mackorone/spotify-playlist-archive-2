@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 210363,
+  "num_followers": 210372,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Loving Me Like Jesus",
+        "url": "https://open.spotify.com/album/6gvTi3AZ3njMAchWY4Rsfz"
+      },
+      "artists": [
+        {
+          "name": "Franchesca",
+          "url": "https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM"
+        },
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Loving Me Like Jesus",
+      "url": "https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Lions and Liars",
         "url": "https://open.spotify.com/album/4B7PDu1JK0rIOYsylICHyX"
       },
@@ -1639,26 +1659,6 @@
       "duration_ms": 172730,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/1MDYOI1rPyR0BfrS7E8eMv"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Loving Me Like Jesus",
-        "url": "https://open.spotify.com/album/6gvTi3AZ3njMAchWY4Rsfz"
-      },
-      "artists": [
-        {
-          "name": "Franchesca",
-          "url": "https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM"
-        },
-        {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Loving Me Like Jesus",
-      "url": "https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99"
     },
     {
       "added_at": "2026-07-29 15:15:10",

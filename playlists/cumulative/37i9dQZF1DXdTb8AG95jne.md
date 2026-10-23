@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Wonjin\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,409 songs - 3 day 13 hr 23 min
+1,410 songs - 3 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1257,6 +1257,7 @@
 | [Violet](https://open.spotify.com/track/7L84lVh5grXqZqm89UO4fa) | [DORI](https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13) | [Violet](https://open.spotify.com/album/3PXpdozwDXn1QzL8XwQas0) | 3:11 | 2026-05-11 | 2026-09-23 |
 | [Vision Getting Blurred \(SIDE A\)](https://open.spotify.com/track/3vok71DdgrvusXlNopJF8U) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [Vision Getting Blurred](https://open.spotify.com/album/5CdwG5E9AXFJmDri8h253O) | 2:25 | 2024-04-30 | 2024-05-10 |
 | [Vladimir Komarov](https://open.spotify.com/track/2dYQ7jLsXwEpcGV6P6jlkX) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Vladimir Komarov](https://open.spotify.com/album/6DkZGxB3VP39SvICC3mI6q) | 3:15 | 2024-04-30 | 2024-05-10 |
+| [Wah](https://open.spotify.com/track/3PMJELrAlnHhx7BRNGymqj) | [BABO](https://open.spotify.com/artist/3jVRXxKf6MGDq5jb7RNIoi) | [B AB O](https://open.spotify.com/album/2mTrE0MRVE2XoQYSrWaUQM) | 2:59 | 2026-10-20 |  |
 | [Waiting For Victor \(Feat\. Dawon\)](https://open.spotify.com/track/2AHyUGlV6sCwBVUjr8rKXq) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 30](https://open.spotify.com/album/5ltmNiEUm8TSyQisYLSO6H) | 3:30 | 2021-12-21 | 2022-07-29 |
 | [Wake Me Up](https://open.spotify.com/track/6lOufXvByyjAFfWoqb0Xjp) | [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [Wake Me Up](https://open.spotify.com/album/6mPccf7gkaF21w5tjWOq5j) | 3:13 | 2021-12-21 | 2022-04-05 |
 | [Walk](https://open.spotify.com/track/1DLRADcDkzhnTTAxyo5AXn) | [GongGongGoo009](https://open.spotify.com/artist/1xI51JmMVnw1XVCPeA4eiY) | [UU](https://open.spotify.com/album/0HJYPPI7xfr7qNcmmZhxp1) | 3:44 | 2022-03-31 | 2022-04-22 |

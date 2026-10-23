@@ -1,12 +1,12 @@
 {
   "description": "This is Volker Bertelmann. The essential tracks, all in one playlist.",
-  "num_followers": 854,
+  "num_followers": 855,
   "original_name": "This Is Volker Bertelmann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAABhnuNq5EV2XxqEPNYyRoOS",
+  "snapshot_id": "atavAAAAAACqb1VquLzOtheWi1SxmtnF",
   "tracks": [
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressure (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
+        "name": "Conclave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 155632,
-      "name": "Data",
-      "url": "https://open.spotify.com/track/35m6BvyDq5xz0WY42EbXdm"
+      "duration_ms": 44444,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/7tP45Qi15FCSYsok4PDDkC"
     },
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conclave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+        "name": "Pressure (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 44444,
-      "name": "First Day",
-      "url": "https://open.spotify.com/track/7tP45Qi15FCSYsok4PDDkC"
+      "duration_ms": 155632,
+      "name": "Data",
+      "url": "https://open.spotify.com/track/35m6BvyDq5xz0WY42EbXdm"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressure (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
+        "name": "Conclave (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 169091,
-      "name": "Reporting for Duty",
-      "url": "https://open.spotify.com/track/5Xy19elG6eCFOcjP3nXQtn"
+      "duration_ms": 59256,
+      "name": "The Abyss Calls Out",
+      "url": "https://open.spotify.com/track/5vqycYWZ2owUDqhzlOB1OW"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "23,000 Leben (Soundtrack des Netflix Films)",
-        "url": "https://open.spotify.com/album/3c7L7xViFe6ocskyuFEjzh"
+        "name": "Pressure (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 169021,
-      "name": "One Big Step",
-      "url": "https://open.spotify.com/track/7cOvmyDmftSkrWXocULnCP"
+      "duration_ms": 169091,
+      "name": "Reporting for Duty",
+      "url": "https://open.spotify.com/track/5Xy19elG6eCFOcjP3nXQtn"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conclave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N"
+        "name": "23,000 Leben (Soundtrack des Netflix Films)",
+        "url": "https://open.spotify.com/album/3c7L7xViFe6ocskyuFEjzh"
       },
       "artists": [
         {
@@ -420,25 +420,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 59256,
-      "name": "The Abyss Calls Out",
-      "url": "https://open.spotify.com/track/5vqycYWZ2owUDqhzlOB1OW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pressure (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 69649,
-      "name": "Entering The Meeting",
-      "url": "https://open.spotify.com/track/5Ieb0EQzY1q2aCIibjcWHR"
+      "duration_ms": 169021,
+      "name": "One Big Step",
+      "url": "https://open.spotify.com/track/7cOvmyDmftSkrWXocULnCP"
     },
     {
       "added_at": null,
@@ -459,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrift (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/35GBJFBQHC4SEkI4Y4XUjd"
+        "name": "Pressure (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
       },
       "artists": [
         {
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 325477,
-      "name": "Salvation (From \"Adrift\" Soundtrack)",
-      "url": "https://open.spotify.com/track/6t52BHKOeX3os9AxPqET1R"
+      "duration_ms": 69649,
+      "name": "Entering The Meeting",
+      "url": "https://open.spotify.com/track/5Ieb0EQzY1q2aCIibjcWHR"
     },
     {
       "added_at": null,
@@ -491,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressure (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
+        "name": "Adrift (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/35GBJFBQHC4SEkI4Y4XUjd"
       },
       "artists": [
         {
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 61424,
-      "name": "Back To Work",
-      "url": "https://open.spotify.com/track/7pQuSk4KJwc8sw9XNc7hxC"
+      "duration_ms": 325477,
+      "name": "Salvation (From \"Adrift\" Soundtrack)",
+      "url": "https://open.spotify.com/track/6t52BHKOeX3os9AxPqET1R"
     },
     {
       "added_at": null,
@@ -523,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrift (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/35GBJFBQHC4SEkI4Y4XUjd"
+        "name": "Pressure (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
       },
       "artists": [
         {
@@ -532,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 102222,
-      "name": "Sunset Monet (From \"Adrift\" Soundtrack)",
-      "url": "https://open.spotify.com/track/0K9XD6kV0t9JTbk5w5TdUX"
+      "duration_ms": 38999,
+      "name": "Why the Weather",
+      "url": "https://open.spotify.com/track/6i3ucuq6Wa2utadifWJMVT"
     },
     {
       "added_at": null,
@@ -555,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressure (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
+        "name": "Adrift (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/35GBJFBQHC4SEkI4Y4XUjd"
       },
       "artists": [
         {
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 38999,
-      "name": "Why the Weather",
-      "url": "https://open.spotify.com/track/6i3ucuq6Wa2utadifWJMVT"
+      "duration_ms": 102222,
+      "name": "Sunset Monet (From \"Adrift\" Soundtrack)",
+      "url": "https://open.spotify.com/track/0K9XD6kV0t9JTbk5w5TdUX"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
       "duration_ms": 75685,
       "name": "Opening of The Count of Monte Cristo",
       "url": "https://open.spotify.com/track/7bGRaWFITZg6bdecppZi5w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pressure (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 61424,
+      "name": "Back To Work",
+      "url": "https://open.spotify.com/track/7pQuSk4KJwc8sw9XNc7hxC"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Verity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 82786,
+      "name": "People Like Me",
+      "url": "https://open.spotify.com/track/7zJ24Cx5eXuVgwcka3eXQC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pressure (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3OJkX1hyiTh2A8mB0b3Y9K"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verity (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 82786,
-      "name": "People Like Me",
-      "url": "https://open.spotify.com/track/7zJ24Cx5eXuVgwcka3eXQC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Uprising (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3IOtkRLNMQvNKURniV5yi6"
       },
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Verity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3h7o3OEjUgp7yBZ0xZEIu2"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 142394,
+      "name": "Different From You",
+      "url": "https://open.spotify.com/track/2Dkmi6o4f12XcOufCsO4M1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical Piano - Peaceful music to fall asleep",
         "url": "https://open.spotify.com/album/7tUACpaBwLPreYrkYG5DWk"
       },
@@ -695,6 +711,22 @@
       "duration_ms": 92906,
       "name": "Sunny and George",
       "url": "https://open.spotify.com/track/7ptZ6zMSKkY4xmHGIuXJqx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A House Of Dynamite (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1hUQ6j8EMIi4LZ4WjZtnmm"
+      },
+      "artists": [
+        {
+          "name": "Volker Bertelmann",
+          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
+        }
+      ],
+      "duration_ms": 66661,
+      "name": "DEFCON 2",
+      "url": "https://open.spotify.com/track/0Bsg2HB2Wa05Y1nrzeP0AH"
     },
     {
       "added_at": null,
@@ -724,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 142394,
-      "name": "Different From You",
-      "url": "https://open.spotify.com/track/2Dkmi6o4f12XcOufCsO4M1"
+      "duration_ms": 77110,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4bOIqLNSQnQVfAaQ7kSrim"
     },
     {
       "added_at": null,
@@ -743,22 +775,6 @@
       "duration_ms": 152000,
       "name": "The Pitfall",
       "url": "https://open.spotify.com/track/4J6kUjeZgfTaadinwyuGem"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A House Of Dynamite (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/1hUQ6j8EMIi4LZ4WjZtnmm"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 66661,
-      "name": "DEFCON 2",
-      "url": "https://open.spotify.com/track/0Bsg2HB2Wa05Y1nrzeP0AH"
     },
     {
       "added_at": null,
@@ -788,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
         }
       ],
-      "duration_ms": 77110,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/4bOIqLNSQnQVfAaQ7kSrim"
+      "duration_ms": 154716,
+      "name": "Seeing Things",
+      "url": "https://open.spotify.com/track/4Tbmj9ybqrhoDkOEmX7N95"
     }
   ],
   "unique_name": "This Is Volker Bertelmann",

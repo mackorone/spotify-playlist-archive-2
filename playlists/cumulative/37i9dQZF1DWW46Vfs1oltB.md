@@ -4,7 +4,7 @@
 
 > New & Hottest K\-Hip Hop is here\. \(Cover:  Kid Milli, TRADE L\)
 
-1,967 songs - 4 day 8 hr 55 min
+1,968 songs - 4 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1826,6 +1826,7 @@
 | [WHAT](https://open.spotify.com/track/0PnKsGNKY7CFdqlM7qV7uB) | [99' Nasty Kidz](https://open.spotify.com/artist/4tg3yil6hmZM8xe5wz7rh5), [Coa White](https://open.spotify.com/artist/6cHHFikz4JtK0BmU86vnvo), [GTC](https://open.spotify.com/artist/3oOQ47mUFcBGxUU8IJImUx) | [WHAT](https://open.spotify.com/album/3zg0SQRlizoLDxYGavTIDb) | 2:27 | 2023-07-07 | 2023-11-16 |
 | [WHAT \(feat\. GTC\)](https://open.spotify.com/track/2zRgBlrhT8Xw4eyHBoIt91) | [Coa White](https://open.spotify.com/artist/6cHHFikz4JtK0BmU86vnvo), [99' Nasty Kidz](https://open.spotify.com/artist/4tg3yil6hmZM8xe5wz7rh5), [GTC](https://open.spotify.com/artist/3oOQ47mUFcBGxUU8IJImUx) | [WHAT](https://open.spotify.com/album/57jaTkoztElm18pvX6PiXl) | 2:27 | 2024-10-08 | 2025-01-02 |
 | [What A Night](https://open.spotify.com/track/2dWTTGMJHkQ9smqaf7zjJZ) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [DOMMIU](https://open.spotify.com/artist/5YiCHcAT5uxyfjXMjAVXA8), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [James An](https://open.spotify.com/artist/4BACFCf6Y0aEdjtk9gutvC), [Chaboom](https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [Yang Kyle](https://open.spotify.com/artist/4x5ZXHL71AGw8hI2pC4Y4l) | [RAP:PUBLIC FINAL](https://open.spotify.com/album/6Fe3AaeLDjpSHZy4CEJ1KU) | 5:03 | 2024-12-11 | 2025-04-25 |
+| [What If](https://open.spotify.com/track/64oQSsRzvZqguFx1iBtqE2) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [YULEUM](https://open.spotify.com/artist/7mR09TGFa7m27D7l2m9FbB) | [What If](https://open.spotify.com/album/06AOjDJIzyhFgcCUtBoVE4) | 3:16 | 2026-10-21 |  |
 | [What If You and Me \(Feat\. Han Dong Geun\)](https://open.spotify.com/track/2ATI0XQ9kWnDuvjF7ZG56Q) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [What If You and Me](https://open.spotify.com/album/5t1lqqNnC1yhoi1pMZR5LM) | 3:18 | 2021-12-21 | 2022-07-04 |
 | [What Should I do](https://open.spotify.com/track/4BZuHDcmgmRaAwPd6IO7MY) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Novel](https://open.spotify.com/album/6O08w4c7AzjXzfhQbG8zz9) | 3:42 | 2023-10-26 | 2024-03-09 |
 | [What Time Is It? \[From "PIZZA BREAK X yovng trucker \(FIRST BITE 004\)"\]](https://open.spotify.com/track/5ScYxHfWuJY5YjpjGcNpz9) | [yovng trucker](https://open.spotify.com/artist/1AyPDHfatxyPxU02gzrXbI), [EUROKO PIZZA](https://open.spotify.com/artist/4WJ1Ns4cWOOyfT5FumNLTU) | [What Time Is It? \[From "PIZZA BREAK X yovng trucker \(FIRST BITE 004\)"\]](https://open.spotify.com/album/1SucSM0IsVAbLb3cmnhOgY) | 2:51 | 2022-02-03 | 2022-04-21 |

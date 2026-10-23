@@ -1,13 +1,33 @@
 {
-  "description": "Little Boogie & Milo J en la casa del Trap Argentino",
-  "num_followers": 630602,
+  "description": "Knak & YSY Aen la casa del Trap Argentino",
+  "num_followers": 630588,
   "original_name": "Trapperz Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAkwd87vvdNW4T7RaWKoOvZ/boRs",
+  "snapshot_id": "AAAAAPDtrd+M2usS0NTmAGpR25T88E7Q",
   "tracks": [
+    {
+      "added_at": "2026-10-23 03:00:43",
+      "album": {
+        "name": "PRESI\u00d3N",
+        "url": "https://open.spotify.com/album/4lg4m9SSZb59A4LsNzdH03"
+      },
+      "artists": [
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "duration_ms": 179608,
+      "name": "PRESI\u00d3N",
+      "url": "https://open.spotify.com/track/7Kxqengo97jeMwM7v6UTTP"
+    },
     {
       "added_at": "2026-09-25 03:00:49",
       "album": {
@@ -47,6 +67,26 @@
       "duration_ms": 182950,
       "name": "Aquafina",
       "url": "https://open.spotify.com/track/2vuZfUFN38mttO3yLf6dhM"
+    },
+    {
+      "added_at": "2026-10-23 03:00:43",
+      "album": {
+        "name": "MI PRIMER NOMBRE ES MAR\u00cdA",
+        "url": "https://open.spotify.com/album/68F2WBq1VSYP2YnISJBAwc"
+      },
+      "artists": [
+        {
+          "name": "143leti",
+          "url": "https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr"
+        },
+        {
+          "name": "Roxxee",
+          "url": "https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "MI PRIMER NOMBRE ES MAR\u00cdA",
+      "url": "https://open.spotify.com/track/4ZnZDgWUSUjTMj2z6Cvo9y"
     },
     {
       "added_at": "2026-09-25 03:00:49",
@@ -331,42 +371,6 @@
       "duration_ms": 136874,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/7hN9lElFaZTeulSJq9YBCN"
-    },
-    {
-      "added_at": "2026-09-25 03:00:49",
-      "album": {
-        "name": "Bambas",
-        "url": "https://open.spotify.com/album/6owNptYHUMhD49e5E17fOy"
-      },
-      "artists": [
-        {
-          "name": "kerse",
-          "url": "https://open.spotify.com/artist/6iz6r1o9PKEXp845ZQ1Tgx"
-        },
-        {
-          "name": "WEST DUBAI",
-          "url": "https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq"
-        }
-      ],
-      "duration_ms": 142222,
-      "name": "Bambas",
-      "url": "https://open.spotify.com/track/4bUjZudk3eBD4N8JCfdJko"
-    },
-    {
-      "added_at": "2026-09-25 03:00:49",
-      "album": {
-        "name": "NO ES PA MI",
-        "url": "https://open.spotify.com/album/7dy6tgYz3uz645zsCOPsMv"
-      },
-      "artists": [
-        {
-          "name": "RYH",
-          "url": "https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "NO ES PA MI",
-      "url": "https://open.spotify.com/track/5HDSspcJFutk8bNClvW5H3"
     },
     {
       "added_at": "2026-09-25 03:00:49",

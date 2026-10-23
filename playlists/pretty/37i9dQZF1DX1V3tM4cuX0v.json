@@ -1,12 +1,12 @@
 {
   "description": "50 \u043d\u0430\u0439\u0433\u0430\u0440\u044f\u0447\u0456\u0448\u0438\u0445 \u043f\u0456\u0441\u0435\u043d\u044c \u0432 \u0423\u043a\u0440\u0430\u0457\u043d\u0456. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: NAZVA",
-  "num_followers": 145216,
+  "num_followers": 145214,
   "original_name": "Hot Hits \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJF4TnCNIjjSsakVzbjUdaPegvno",
+  "snapshot_id": "AAAAAFmmzNMeOtKr8qzrcGeDV/WTO0xw",
   "tracks": [
     {
       "added_at": "2026-10-15 21:00:29",
@@ -77,6 +77,26 @@
       "url": "https://open.spotify.com/track/2GufmBTxp2K4SyZUJ5xmev"
     },
     {
+      "added_at": "2026-10-22 21:00:34",
+      "album": {
+        "name": "\u0427\u0435\u0440\u0432\u043e\u043d\u0438\u0439 \u043c\u0430\u043a",
+        "url": "https://open.spotify.com/album/67turAkNUghJQnJBgTYfgE"
+      },
+      "artists": [
+        {
+          "name": "SKYLERR",
+          "url": "https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg"
+        },
+        {
+          "name": "kavabanga Depo kolibri",
+          "url": "https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "\u0427\u0435\u0440\u0432\u043e\u043d\u0438\u0439 \u043c\u0430\u043a",
+      "url": "https://open.spotify.com/track/3wgjTy5esSJiekFbS0LBRt"
+    },
+    {
       "added_at": "2026-10-15 21:00:29",
       "album": {
         "name": "\u041b\u0456\u0445\u0442\u0430\u0440\u0438\u043a\u0438",
@@ -91,6 +111,62 @@
       "duration_ms": 147913,
       "name": "\u041b\u0456\u0445\u0442\u0430\u0440\u0438\u043a\u0438",
       "url": "https://open.spotify.com/track/3sZGWY8klzkjRMYGx4RJ3O"
+    },
+    {
+      "added_at": "2026-10-22 21:00:34",
+      "album": {
+        "name": "\u041d\u0435 \u0441\u0430\u043c",
+        "url": "https://open.spotify.com/album/6yUENgPV8BB1SDBChUmfvx"
+      },
+      "artists": [
+        {
+          "name": "Povin'",
+          "url": "https://open.spotify.com/artist/5JmdCeZUntMWY5XxqgQcRe"
+        },
+        {
+          "name": "\u0424\u0430\u0431\u0440\u0438\u043a\u0430 \u0417\u0456\u0440\u043e\u043a",
+          "url": "https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "\u041d\u0435 \u0441\u0430\u043c",
+      "url": "https://open.spotify.com/track/2mXA07JWWCbq4pJwlCM5j7"
+    },
+    {
+      "added_at": "2026-10-15 21:00:29",
+      "album": {
+        "name": "747",
+        "url": "https://open.spotify.com/album/3J3ITSVDv3uw2gdOB2EtRR"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        }
+      ],
+      "duration_ms": 173962,
+      "name": "747",
+      "url": "https://open.spotify.com/track/0fOk5gmlKmhKEmSWpI6Cc0"
+    },
+    {
+      "added_at": "2026-10-22 21:00:34",
+      "album": {
+        "name": "\u041e\u0447\u0456",
+        "url": "https://open.spotify.com/album/3apDvnMTrS7L2CVO49Bkph"
+      },
+      "artists": [
+        {
+          "name": "Kalush Orchestra",
+          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+        },
+        {
+          "name": "melos",
+          "url": "https://open.spotify.com/artist/5S22rA3rwyENktb6V5LvA9"
+        }
+      ],
+      "duration_ms": 174399,
+      "name": "\u041e\u0447\u0456",
+      "url": "https://open.spotify.com/track/2NZPExBlpDpqSvtqSXLXaN"
     },
     {
       "added_at": "2026-10-15 21:00:29",
@@ -143,22 +219,6 @@
     {
       "added_at": "2026-10-15 21:00:29",
       "album": {
-        "name": "747",
-        "url": "https://open.spotify.com/album/3J3ITSVDv3uw2gdOB2EtRR"
-      },
-      "artists": [
-        {
-          "name": "DOROFEEVA",
-          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
-        }
-      ],
-      "duration_ms": 173962,
-      "name": "747",
-      "url": "https://open.spotify.com/track/0fOk5gmlKmhKEmSWpI6Cc0"
-    },
-    {
-      "added_at": "2026-10-15 21:00:29",
-      "album": {
         "name": "\u0424\u0430\u043d\u0430\u0442",
         "url": "https://open.spotify.com/album/3NFBIvdRRvEUr3TxfOmBNa"
       },
@@ -203,6 +263,22 @@
       "duration_ms": 187428,
       "name": "\u0422\u0440\u0438\u043c\u0430\u0454\u0448 \u043c\u0435\u043d\u0435",
       "url": "https://open.spotify.com/track/4IZvBgsortkhyBB9VNN0Qg"
+    },
+    {
+      "added_at": "2026-10-22 21:00:34",
+      "album": {
+        "name": "Housewife",
+        "url": "https://open.spotify.com/album/6JvmSyocXef7RZDZFaymNl"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Housewife",
+      "url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0"
     },
     {
       "added_at": "2026-10-15 21:00:29",
@@ -403,22 +479,6 @@
     {
       "added_at": "2026-10-15 21:00:29",
       "album": {
-        "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
-        "url": "https://open.spotify.com/album/0kBKwloGNP7QnCbHnFiXmx"
-      },
-      "artists": [
-        {
-          "name": "DOROFEEVA",
-          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
-        }
-      ],
-      "duration_ms": 154030,
-      "name": "\u042f\u043f\u043e\u043d\u0456\u044f",
-      "url": "https://open.spotify.com/track/617ECGnksDPGqkR0FKsoye"
-    },
-    {
-      "added_at": "2026-10-15 21:00:29",
-      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -531,22 +591,6 @@
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-10-15 21:00:29",
-      "album": {
-        "name": "\u0417\u0412'\u042f\u0417\u041e\u041a",
-        "url": "https://open.spotify.com/album/3u2uYEE3stbH7w5SLNcZ2j"
-      },
-      "artists": [
-        {
-          "name": "MamaRika",
-          "url": "https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "\u0417\u0412'\u042f\u0417\u041e\u041a",
-      "url": "https://open.spotify.com/track/5151tSCaX6klN5wcC3wPkf"
     },
     {
       "added_at": "2026-10-15 21:00:29",
@@ -783,22 +827,6 @@
     {
       "added_at": "2026-10-15 21:00:29",
       "album": {
-        "name": "\u0422\u044c\u043e\u0442\u044f",
-        "url": "https://open.spotify.com/album/3O2ugjYKav0TjqxL8od8wn"
-      },
-      "artists": [
-        {
-          "name": "\u0428\u0443\u0433\u0430\u0440",
-          "url": "https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "\u0422\u044c\u043e\u0442\u044f",
-      "url": "https://open.spotify.com/track/69Agz1StFDBAQwJ2xgvGbF"
-    },
-    {
-      "added_at": "2026-10-15 21:00:29",
-      "album": {
         "name": "\u041f\u0438\u0442\u0430\u043d\u044c \u043d\u0435\u043c\u0430",
         "url": "https://open.spotify.com/album/7bMLZ9QarJof8TuEUEHBx7"
       },
@@ -827,22 +855,6 @@
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
-    },
-    {
-      "added_at": "2026-10-15 21:00:29",
-      "album": {
-        "name": "\u041d\u0435\u0437\u0440\u0443\u0447\u043d\u0430",
-        "url": "https://open.spotify.com/album/2ErCJeY0qMXFYPwmnl1GA9"
-      },
-      "artists": [
-        {
-          "name": "Lida Lee",
-          "url": "https://open.spotify.com/artist/0YwrOhohoMLyIKD9OvUIuy"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "\u041d\u0435\u0437\u0440\u0443\u0447\u043d\u0430",
-      "url": "https://open.spotify.com/track/6FYUQikhRcWkkz5JSz0jpx"
     }
   ],
   "unique_name": "Hot Hits \u0423\u043a\u0440\u0430\u0457\u043d\u0430",

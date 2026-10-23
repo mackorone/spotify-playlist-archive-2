@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAQOJRv8W/rN0Koccd943z4O8vUjpH/",
+  "snapshot_id": "AAAQPEJ/u/VNklFEXGZppkvOJ7Z0BdBi",
   "tracks": [
     {
       "added_at": "2026-07-23 12:25:41",
@@ -1359,6 +1359,74 @@
       "duration_ms": 152849,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/2TX3czDFjIY3Vh6qdVSwKg"
+    },
+    {
+      "added_at": "2026-10-22 11:55:40",
+      "album": {
+        "name": "Generation Of Tomorrow",
+        "url": "https://open.spotify.com/album/15jgwzg3KzqmATg6XA6WfV"
+      },
+      "artists": [
+        {
+          "name": "Full Throttle",
+          "url": "https://open.spotify.com/artist/763PYfFXFMsKSi1gfNXodo"
+        },
+        {
+          "name": "Cone McCaslin",
+          "url": "https://open.spotify.com/artist/3jBXYPArFNm1EVyKkwvbcZ"
+        }
+      ],
+      "duration_ms": 181512,
+      "name": "Generation of Tomorrow",
+      "url": "https://open.spotify.com/track/6iON9qgc8aQFz3RZhh9XWZ"
+    },
+    {
+      "added_at": "2026-10-22 11:55:55",
+      "album": {
+        "name": "Everything's Gonna Be Alright",
+        "url": "https://open.spotify.com/album/203Yzx47gvCPrerlLxZUhb"
+      },
+      "artists": [
+        {
+          "name": "Moon Date",
+          "url": "https://open.spotify.com/artist/7vGCqLKfI5izQkJSa4aRCh"
+        }
+      ],
+      "duration_ms": 255660,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/47XL1VF5cVwppq82wLVTrV"
+    },
+    {
+      "added_at": "2026-10-22 16:30:07",
+      "album": {
+        "name": "Higher Planes",
+        "url": "https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy"
+      },
+      "artists": [
+        {
+          "name": "If by Whiskey",
+          "url": "https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5"
+        }
+      ],
+      "duration_ms": 166111,
+      "name": "Hell Has a Garden with Angels",
+      "url": "https://open.spotify.com/track/4qM7VTi6CpgP04QhOcdObD"
+    },
+    {
+      "added_at": "2026-10-22 17:18:14",
+      "album": {
+        "name": "ANOTHER LIFE",
+        "url": "https://open.spotify.com/album/3AnunbIHnDq8C2fpzd9guG"
+      },
+      "artists": [
+        {
+          "name": "ANIQO",
+          "url": "https://open.spotify.com/artist/3q7baflM8Rtj29ckEnKAgB"
+        }
+      ],
+      "duration_ms": 342973,
+      "name": "ANOTHER LIFE",
+      "url": "https://open.spotify.com/track/1GW9wygil2jJKDdiYJ3PCR"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

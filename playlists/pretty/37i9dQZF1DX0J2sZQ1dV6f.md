@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 
 > Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Esau Ortiz, ELMANU GOMEZ, Joel De La P, Luis R Conriquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,339 likes - 91 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,364 likes - 91 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 | 5 | [Italianas](https://open.spotify.com/track/29Oit21mQW7GlXh8J7ONKa) | [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Si Señor](https://open.spotify.com/album/7nkUSYTRa9dSMNezeQzu8Y) | 3:37 |
 | 6 | [So Bella](https://open.spotify.com/track/1Qyahi07wLW6g1IMIs1xR4) | [Low Clika](https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [So Bella](https://open.spotify.com/album/0tv13YomQup9PY9b7qOGNN) | 2:22 |
 | 7 | [Mala y Atrevida](https://open.spotify.com/track/0FoJZaVO8jeMml5BQJPgcU) | [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Mala y Atrevida](https://open.spotify.com/album/4Hp1xYIJ4YpuO9k8xOEvTd) | 2:19 |
-| 8 | [Campeón](https://open.spotify.com/track/3tEG859hqpyY6vQ9XViB4F) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew) | [Campeón](https://open.spotify.com/album/0EY6KRRjEGbEM9wbYUwHMX) | 2:42 |
+| 8 | [champion](https://open.spotify.com/track/3tEG859hqpyY6vQ9XViB4F) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew) | [Campeón](https://open.spotify.com/album/0EY6KRRjEGbEM9wbYUwHMX) | 2:42 |
 | 9 | [Cuernito](https://open.spotify.com/track/5RmTxl5kMLw8QRgyPZiaRd) | [Rivs](https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA), [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [Cuernito](https://open.spotify.com/album/2Fe9k9hGh0yXUeIMOI9mIc) | 2:17 |
 | 10 | [La Plebita](https://open.spotify.com/track/2gBVfSDHKcQDdAvfdCLv4j) | [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr), [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr) | [La Plebita](https://open.spotify.com/album/2hSrRgIRu6wWd4iuPPmXax) | 2:54 |
 | 11 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 |

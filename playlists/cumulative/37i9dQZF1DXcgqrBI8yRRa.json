@@ -7250,7 +7250,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 174857,
       "name": "eko",
       "url": "https://open.spotify.com/track/5oS7MonetNV6SLUyP0t5Xb"
@@ -7268,7 +7268,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 161360,
       "name": "Eko",
       "url": "https://open.spotify.com/track/3ob2Y4aTNBnyyEc5pNoKzF"
@@ -7286,7 +7286,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 151408,
       "name": "Eko",
       "url": "https://open.spotify.com/track/34THJ2Fhw8dgLBCb1fMyvG"
@@ -7304,7 +7304,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 211764,
       "name": "Eko Miami",
       "url": "https://open.spotify.com/track/6SD3mfQ1N8iyV5SGHFuB6W"
@@ -11018,7 +11018,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 211301,
       "name": "If E Happen For Lagos",
       "url": "https://open.spotify.com/track/23f5XFt8ITHfcsTSqKVzui"
@@ -11430,7 +11430,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 140160,
       "name": "ISALE EKO",
       "url": "https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG"
@@ -12712,7 +12712,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 145002,
       "name": "Lagos",
       "url": "https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw"
@@ -12730,7 +12730,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 209747,
       "name": "Lagos Anthem",
       "url": "https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM"
@@ -12748,7 +12748,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 224746,
       "name": "Lagos Boys",
       "url": "https://open.spotify.com/track/2SEfONwRBNObjJ65zeq1bU"
@@ -12766,7 +12766,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 190546,
       "name": "Lagos Love",
       "url": "https://open.spotify.com/track/3AYQsSyM8Mi8GV0OKItsBR"
@@ -12784,7 +12784,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 155695,
       "name": "Lagos Love Story",
       "url": "https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob"
@@ -12864,7 +12864,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 152347,
       "name": "LAPO Baby",
       "url": "https://open.spotify.com/track/5mYQ6yojz6H6M6g0Ip9WZy"
@@ -13498,6 +13498,24 @@
       "duration_ms": 241293,
       "name": "Location (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI"
+    },
+    {
+      "album": {
+        "name": "Loketo",
+        "url": "https://open.spotify.com/album/7FoN3QRhA0hjIxEIXGGi5w"
+      },
+      "artists": [
+        {
+          "name": "MIK",
+          "url": "https://open.spotify.com/artist/5iZb1gFGW7uP1NDHXJ7ZTG"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187943,
+      "name": "Loketo",
+      "url": "https://open.spotify.com/track/78EitsAHPADPQzPG1WHqLh"
     },
     {
       "album": {
@@ -16575,6 +16593,24 @@
     },
     {
       "album": {
+        "name": "O r\u00ed mi",
+        "url": "https://open.spotify.com/album/1O6BfPiNKoMy1iIZOHekVG"
+      },
+      "artists": [
+        {
+          "name": "Solana",
+          "url": "https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165882,
+      "name": "O r\u00ed mi",
+      "url": "https://open.spotify.com/track/3R4GEid3JLlWuujA7HlRQt"
+    },
+    {
+      "album": {
         "name": "OXYGENE",
         "url": "https://open.spotify.com/album/69OCIEKv6ONuYZsJw0v3iI"
       },
@@ -16838,7 +16874,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 216242,
       "name": "Ojuelegba",
       "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
@@ -17002,7 +17038,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 153675,
       "name": "Omo Eko",
       "url": "https://open.spotify.com/track/5G7kb3GF3V7B2vjsT2ZYh1"
@@ -17666,7 +17702,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 205388,
       "name": "Owo Ni Koko",
       "url": "https://open.spotify.com/track/18Oj2wK3OsPCCBPLdjyyWS"
@@ -21508,7 +21544,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 232866,
       "name": "Surulere",
       "url": "https://open.spotify.com/track/2nw6go66dqgS8fMOmZuUBv"
@@ -23434,6 +23470,32 @@
       "duration_ms": 316813,
       "name": "Vogue",
       "url": "https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt"
+    },
+    {
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2h6GWtoj8S8rhuomEljW7P"
+      },
+      "artists": [
+        {
+          "name": "Chisway",
+          "url": "https://open.spotify.com/artist/0TiQ4fVG0jUHalKrx9QvuZ"
+        },
+        {
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        },
+        {
+          "name": "\u65af\u4e39\u66fc\u7c07",
+          "url": "https://open.spotify.com/artist/3J9u3zuPBQqJZSjPElrVC9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191538,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/0ACStLaU25Kf5KM961Hfpz"
     },
     {
       "album": {

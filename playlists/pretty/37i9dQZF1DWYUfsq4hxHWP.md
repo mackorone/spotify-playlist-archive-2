@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Jovi Greene, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,190 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,235 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 3 | [Nowhere Fast](https://open.spotify.com/track/2BgJcTmWxgGrZBtyrIsLTO) | [Jovi Greene](https://open.spotify.com/artist/6Z8GLJyECIvbklEGdZJWug) | [Nowhere Fast](https://open.spotify.com/album/1mhbkdFPisGxyUlFj6xkvW) | 3:18 |
 | 4 | [Ten in Tennessee](https://open.spotify.com/track/1rEPkq3Qdq1aPrRcetBKkr) | [Jennifer Hart](https://open.spotify.com/artist/7CtoMP5ulZz7vn2Sdj3Hiu) | [Ten in Tennessee](https://open.spotify.com/album/30mDN1mVvl6Xj79odBxW2d) | 3:04 |
 | 5 | [Cover Up](https://open.spotify.com/track/36HHLyDZUX4owT6pERFL4b) | [Graham St\. Clair Band](https://open.spotify.com/artist/7voi3VeXYv9dzIEFGBgbkv) | [Cover Up](https://open.spotify.com/album/4KBC24J3h3cCLQlDJMNfKE) | 4:06 |
-| 6 | [Nothing Is Everything](https://open.spotify.com/track/0XKbTf1G24UURPclfoSEGV) | [Erin Kirby](https://open.spotify.com/artist/04VhqLBjrpeyOTrdH1ella) | [Nothing Is Everything](https://open.spotify.com/album/6KppcNH6afjoTfWYlKdXTY) | 2:53 |
+| 6 | [Nothing Is Everything](https://open.spotify.com/track/0XKbTf1G24UURPclfoSEGV) | [Erin Kirby](https://open.spotify.com/artist/04VhqLBjrpeyOTrdH1ella), [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Nothing Is Everything](https://open.spotify.com/album/6KppcNH6afjoTfWYlKdXTY) | 2:53 |
 | 7 | [Change My Mind](https://open.spotify.com/track/0G2tkpjCndTAVxF0Iiv6p7) | [Saige Davis](https://open.spotify.com/artist/3acAq5TmjJOyw2o1B6zKiS) | [Change My Mind](https://open.spotify.com/album/4XVoCNuUXcLYBEBjTNCgpb) | 3:59 |
 | 8 | [What If You Stay](https://open.spotify.com/track/2gCfvMPFAEd18n0hR6MSDa) | [Avery Roberson](https://open.spotify.com/artist/1NFcvAjVEYtn0ExV1O17oU) | [What If You Stay](https://open.spotify.com/album/6bNPvilCvnqRBMNZqISc3P) | 3:21 |
 | 9 | [belong together](https://open.spotify.com/track/0HIoN5IDC2hH9WHJJYTgpx) | [Trudy](https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS) | [got me good](https://open.spotify.com/album/1HjcqUliMVJyCESHJ76EV8) | 3:28 |

@@ -839,6 +839,24 @@
     },
     {
       "album": {
+        "name": "Flights (from the Netflix Series \"Nobody Wants This\" Season 3)",
+        "url": "https://open.spotify.com/album/2aJcx6xkcDQYxTurI7kRaM"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142902,
+      "name": "Flights (from the Netflix Series \"Nobody Wants This\" Season 3)",
+      "url": "https://open.spotify.com/track/1nT8wDLn00juo9I23XdN7Y"
+    },
+    {
+      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw"
       },
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 166996,
       "name": "WATCH THE NEWS",
       "url": "https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9"
@@ -3022,6 +3040,28 @@
       "duration_ms": 206670,
       "name": "\u05d0\u05dc\u05d1\u05d9",
       "url": "https://open.spotify.com/track/0uL2TjyNqgBgbXIxzqcv9y"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05dc\u05d5\u05d4\u05d9\u05d9, \u05ea\u05e9\u05de\u05d5\u05e8 \u05e2\u05dc\u05d9\u05d4",
+        "url": "https://open.spotify.com/album/6tCrcnOWt2ypaDzA73HUWL"
+      },
+      "artists": [
+        {
+          "name": "Sun Tailor",
+          "url": "https://open.spotify.com/artist/66OcrfmtH2NhgKsGdkkbAi"
+        },
+        {
+          "name": "OREL",
+          "url": "https://open.spotify.com/artist/3BpWr9OLjfkuFIDWM4U0hh"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "\u05d0\u05dc\u05d5\u05d4\u05d9\u05d9, \u05ea\u05e9\u05de\u05d5\u05e8 \u05e2\u05dc\u05d9\u05d4",
+      "url": "https://open.spotify.com/track/1EhbFzRdQzxJSWNPCI5t1I"
     },
     {
       "album": {
@@ -8290,7 +8330,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 235000,
       "name": "\u05e8\u05e2\u05d1 \u05dc\u05d0\u05d4\u05d1\u05d4",
       "url": "https://open.spotify.com/track/5liw0YB0wOzpqA7TreHda8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Discover the latest Korean classical & new age music! \(Cover: 윤한\(YOONHAN\)\) 최신 한국 클래식과 뉴에이지 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,899 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,900 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 
 > شيلات تشيل الليلة\. الغلاف: بندر بن عوير
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,737 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,751 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 24 | [Alek Akhaf](https://open.spotify.com/track/2BRQStJtGN03JujyZd2faL) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Alek Akhaf](https://open.spotify.com/album/7e0KX9hQhk5VIFo3YoTPSA) | 3:28 |
 | 25 | [يا مسافر](https://open.spotify.com/track/7mjzqkQv6P80TsBaHRZ0xj) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [يا مسافر](https://open.spotify.com/album/0BD3CSAzFIfgcjfP2FiKds) | 4:20 |
 | 26 | [ياعجيبه](https://open.spotify.com/track/4DdukpmqtT2TkRF8HLIs9X) | [فهد بن غرمان](https://open.spotify.com/artist/6BvNX7Y1XF8CetrVnPmqkm) | [ياعجيبه](https://open.spotify.com/album/6Ux1n4XiAkjX5Axu2TEo9h) | 3:09 |
-| 27 | [أعظم سلطنة](https://open.spotify.com/track/2fr4MjfTyxU9bWJFIPBJ6e) | [المفارق](https://open.spotify.com/artist/2sZ4s4VpANjMIQlmrKH1X6), [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [أعظم سلطنة](https://open.spotify.com/album/0I2F9Yr7iDoNTHmSnW7nM7) | 4:42 |
-| 28 | [يكفي ثلاث سنين](https://open.spotify.com/track/4PczBkk33jp5zy3WVNiMeT) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [يكفي ثلاث سنين](https://open.spotify.com/album/6wKaT6E6osCJ1ZUV4tW4gB) | 5:24 |
-| 29 | [يحبك قلبي](https://open.spotify.com/track/5418ozmjWY7SLsRHfviqk1) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [يحبك قلبي](https://open.spotify.com/album/3kqxJyn6LoM7rL3BUUpPbx) | 3:59 |
-| 30 | [القلب الحجر](https://open.spotify.com/track/64N8WSEPHokrKpPEDAIPAo) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [القلب الحجر](https://open.spotify.com/album/78VvLWMJLBLJXIyOa38d9e) | 4:07 |
-| 31 | [تسأليني](https://open.spotify.com/track/65uEoJrz2nHpyG4ANdzCZ0) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [تسأليني](https://open.spotify.com/album/0XslpGqxrvkSdoSh96tBjf) | 3:06 |
-| 32 | [المكان](https://open.spotify.com/track/3oH9oWDEhIadRjwGPcYCMp) | [ماجد الرسلاني](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [المكان](https://open.spotify.com/album/72DhfPlDA1DO85lw5jYLnq) | 5:39 |
+| 27 | [يحبك قلبي](https://open.spotify.com/track/5418ozmjWY7SLsRHfviqk1) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [يحبك قلبي](https://open.spotify.com/album/3kqxJyn6LoM7rL3BUUpPbx) | 3:59 |
+| 28 | [القلب الحجر](https://open.spotify.com/track/64N8WSEPHokrKpPEDAIPAo) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [القلب الحجر](https://open.spotify.com/album/78VvLWMJLBLJXIyOa38d9e) | 4:07 |
+| 29 | [تسأليني](https://open.spotify.com/track/65uEoJrz2nHpyG4ANdzCZ0) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [تسأليني](https://open.spotify.com/album/0XslpGqxrvkSdoSh96tBjf) | 3:06 |
+| 30 | [المكان](https://open.spotify.com/track/3oH9oWDEhIadRjwGPcYCMp) | [ماجد الرسلاني](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [المكان](https://open.spotify.com/album/72DhfPlDA1DO85lw5jYLnq) | 5:39 |
+| 31 | [Mani Nadman](https://open.spotify.com/track/4GTPP4zWaK1RHPyw1ZVCcB) | [Nawaf Fraih](https://open.spotify.com/artist/5yl3BFzx0O1yOA06WCWWGj) | [Mani Nadman](https://open.spotify.com/album/6mTxzgIbxfOtklZMk66JHp) | 4:35 |
+| 32 | [شكرا](https://open.spotify.com/track/7jXRO3qZU8KeUJfI5PX53c) | [Randa Ahmad](https://open.spotify.com/artist/4AzqXA3C3f5PTeY28aUS5j) | [شكرا](https://open.spotify.com/album/2J6RlbgAMmUfYefv1CMqUO) | 3:04 |
 | 33 | [طواري الشوق](https://open.spotify.com/track/27DHEesdJ58utI1NJ0vAwl) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [طواري الشوق](https://open.spotify.com/album/38XHNOo9c9Qg8SC3iryuzW) | 3:58 |
 | 34 | [حاجة جديده](https://open.spotify.com/track/5tdm3MX01qoLj5BvyzEO7i) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [حاجة جديده](https://open.spotify.com/album/3fajG53C3ssnpfQEbvzEN0) | 4:27 |
 | 35 | [عشرين عام](https://open.spotify.com/track/0hvhiytvxx4XRW7PbFdPhz) | [فرقة أبناء المزاريع الحربية](https://open.spotify.com/artist/3fs6zGBIqV7MzH4auGofUF) | [عشرين عام](https://open.spotify.com/album/4INN8wKHyaKUSo4nG0zSYU) | 5:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ8jTY8g4MU.md) - [plain]
 | 49 | [يا مجرم يا حرامي](https://open.spotify.com/track/6i6tTxSVVyEuStYIU53KKy) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [يا مجرم يا حرامي](https://open.spotify.com/album/2xnxfz3WeV8pDuXY4DTjdA) | 3:05 |
 | 50 | [تبقى ملك](https://open.spotify.com/track/5bDJShwFM1wmzEpAcalnbC) | [أسعد البطحري](https://open.spotify.com/artist/30ExYDAwbVcSREibnsoNUf) | [تبقى ملك](https://open.spotify.com/album/4kyTKLN6GqY28NWolHAskl) | 4:08 |
 
-Snapshot ID: `AAAAAApd0pa2a9IzStcgIRxhJueGnx0x`
+Snapshot ID: `AAAAAHoKVWq2eZqCUhbo81Y4Ns39SrCv`

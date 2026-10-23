@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music! Cover: Zach Bryan &amp; Lana Del Rey
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,487 likes - 148 songs - 7 hr 50 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,483 likes - 148 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

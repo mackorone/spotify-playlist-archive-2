@@ -2,7 +2,7 @@
 
 ### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
-> ur on the list bb 🪐 featuring DJ HEARTSTRING
+> ur on the list bb 🪐 featuring Ninajirachi
 
 1,388 songs - 3 day 3 hr 33 min
 

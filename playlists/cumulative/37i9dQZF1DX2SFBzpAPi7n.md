@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: can't be blue\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: KACHISAN\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,226 songs - 3 day 2 hr 35 min
+1,228 songs - 3 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Blue Voyage](https://open.spotify.com/track/6s1vHqyxFQKPqAhMwHVZyT) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Trip:Tape \#03](https://open.spotify.com/album/2nX3XXhjp9ME34rATFEWk9) | 3:09 | 2022-06-03 | 2022-07-28 |
 | [Blue Whale](https://open.spotify.com/track/3YfmmJkPj0IH58IP1FN8Z0) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [Special Single 'Blue Whale'](https://open.spotify.com/album/4J4HRHJCwGHHutsosHWA3J) | 4:06 | 2025-10-06 | 2025-11-05 |
 | [BLUE!](https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [BLUE!](https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM) | 3:16 | 2025-08-26 | 2025-10-20 |
-| [bluende](https://open.spotify.com/track/5VFfD5DVzQNGo7HOcmqCyT) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [bluende](https://open.spotify.com/album/1FcAVoJkX4jxxtP0sI7hGn) | 3:06 | 2026-10-16 |  |
+| [bluende](https://open.spotify.com/track/5VFfD5DVzQNGo7HOcmqCyT) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [bluende](https://open.spotify.com/album/1FcAVoJkX4jxxtP0sI7hGn) | 3:06 | 2026-10-16 | 2026-10-23 |
 | [BOCA](https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:09 | 2023-07-31 | 2024-11-07 |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Lose Myself］](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2022-04-12 | 2023-08-02 |
 | [Bomb Bomb](https://open.spotify.com/track/2So5dexAv9rAS7IZLOgeJD) | [KIM TAE RAE](https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ) | [Terror Man Opening \(Original Soundtrack\)](https://open.spotify.com/album/3Utvw2Z8Tk9e2vxa4Z4yMy) | 3:19 | 2026-02-02 | 2026-02-06 |
@@ -677,6 +677,7 @@
 | [My Name Is Malguem](https://open.spotify.com/track/4rIqyuLPbNRVOcHGOI0l4A) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [My Name Is Malguem \[The Seasons: Cantabile of Park Bo Gum\]](https://open.spotify.com/album/3cKJ87R9WQYbcfBKoOdPPn) | 3:08 | 2025-06-30 | 2025-07-08 |
 | [My Side](https://open.spotify.com/track/2bfRzTMJIeHnxa9JbpmHMi) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) | [No Gain No Love, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0zfrALsmg6jEnAuxphBspl) | 2:56 | 2024-11-06 | 2024-11-13 |
 | [My star](https://open.spotify.com/track/6j9lOM0mmJsS4fP7s4GTrU) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [My star](https://open.spotify.com/album/1qlznH1GRH7VBXxd1AZ9Xs) | 3:14 | 2025-10-21 | 2025-11-03 |
+| [My Youth](https://open.spotify.com/track/1lk4BA7QjRdRLIu7ZuoRz8) | [V01D](https://open.spotify.com/artist/1AXz12zUZ7GGJO4Z0693Iw) | [YOUTHQUAKE](https://open.spotify.com/album/46cZiCd8EjN4mTOHabfdBM) | 2:54 | 2026-10-22 |  |
 | [Mystery Happy](https://open.spotify.com/track/3nmOPSrQzdG81KgZXW0HGy) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Mystery Happy](https://open.spotify.com/album/0bqb26fZao4mdtE8TOolNF) | 3:55 | 2022-07-08 | 2022-07-28 |
 | [NamgungFEFERE \(feat\. Japanese Breakfast\)](https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [NamgungFEFERE](https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94) | 3:48 | 2025-07-10 | 2025-08-01 |
 | [NAN CHUN](https://open.spotify.com/track/4TBHfv2isYco3fNKjQ8oSI) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN](https://open.spotify.com/album/10vZm1P5k6mIJSlPg127eb) | 3:49 | 2024-06-05 | 2024-11-07 |
@@ -939,7 +940,7 @@
 | [Sound](https://open.spotify.com/track/3NXq3EZ1dcIN0y2gZTqZXq) | [GOMCHI](https://open.spotify.com/artist/7uA35iZSc9vZLATSFqCRua) | [TRUE STORY](https://open.spotify.com/album/4dwceGQaqejgtkZ5hbkcbG) | 4:31 | 2022-06-03 | 2022-06-26 |
 | [Sour](https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:20 | 2022-10-07 | 2024-11-07 |
 | [Sour](https://open.spotify.com/track/6Ji1Ucu9oFMkRawhEe8a16) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2jmok4chNxn00UBs3gj1xF) | 3:20 | 2022-10-07 | 2022-10-13 |
-| [space](https://open.spotify.com/track/0DHyNlgEaolgfVxPhyFDTq) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [The High Tide Club](https://open.spotify.com/album/5q0iAwNwPXjXfatRJ2sdYs) | 3:44 | 2025-03-17 |  |
+| [space](https://open.spotify.com/track/0DHyNlgEaolgfVxPhyFDTq) | [The Poles](https://open.spotify.com/artist/7isCii8IZOBPInAYFn2n5Q) | [The High Tide Club](https://open.spotify.com/album/5q0iAwNwPXjXfatRJ2sdYs) | 3:44 | 2025-03-17 | 2026-10-23 |
 | [Spark](https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:37 | 2022-06-23 | 2023-04-06 |
 | [Special](https://open.spotify.com/track/29CpLtlifHqhKy1sUAyzPJ) | [조이박스](https://open.spotify.com/artist/6GLogeV5fgDLPqEPvD0cAP) | [Welcome To The Joy World](https://open.spotify.com/album/7AqSy8vrBxk3aO8f9YbKaV) | 3:41 | 2026-06-26 | 2026-07-04 |
 | [Spring Summer Autumn Winter](https://open.spotify.com/track/57Qgh8evQBroL4BmZP4EsQ) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [the late Kim Hyun\-sik's 30th Anniversary Memorial Album "Making Memories" Part 3](https://open.spotify.com/album/1X8Q3v1vqcbKOw1ALy97xO) | 2:44 | 2022-07-08 | 2022-07-19 |
@@ -1018,6 +1019,7 @@
 | [The forgotten memories](https://open.spotify.com/track/4m1ytjci4xhxT1C0PzZHhD) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [The forgotten memories \(Hear Me: Our Summer X Shin Ye\-Young\)](https://open.spotify.com/album/4KrTuQA0afak61oe3V5ZjB) | 3:45 | 2024-11-06 | 2025-01-02 |
 | [The knight who can't die and the silk cradle](https://open.spotify.com/track/7liPa1ogr6uKLBBfuKuCJh) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [The knight who can't die and the silk cradle](https://open.spotify.com/album/2AuUWIKUhxvxoD2gS7Z2mG) | 4:08 | 2024-03-21 | 2024-05-10 |
 | [The Last Flower](https://open.spotify.com/track/2R4szKHlna6ZcCcA3jXLfv) | [AIRI KANNA](https://open.spotify.com/artist/5RKYutk9PvyLwOXqIk191K) | [The Last Flower](https://open.spotify.com/album/20Q9uuWH4JFdMfXNpH2ZMh) | 4:06 | 2023-11-10 | 2024-05-10 |
+| [The Last Monster](https://open.spotify.com/track/16Tj4m3z0UsHMtiMZo4YO8) | [KACHISAN](https://open.spotify.com/artist/20pVcZq4VeWqe3CxlWx2nH) | [Here We Are, Kachisan.](https://open.spotify.com/album/7bmkyyLwMkd3ta7dwSpwKl) | 3:11 | 2026-10-22 |  |
 | [The last stop of our pain](https://open.spotify.com/track/4kWRjkhMIGMnyWpYc8L7no) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The last stop of our pain](https://open.spotify.com/album/6ErmQRbVnpGp9MilUAQSED) | 4:12 | 2025-03-17 | 2025-12-16 |
 | [The Moment, To You](https://open.spotify.com/track/2ytFb5XXbbSX4oEgNDsceJ) | [Yoo Jungmok](https://open.spotify.com/artist/2KdO1rsQPujhuEF7eNclr9) | [The Vernal Equinox Vol.2](https://open.spotify.com/album/2dO4RUT8D9aPae0DawhmBW) | 4:07 | 2022-05-03 | 2022-05-12 |
 | [The Nation](https://open.spotify.com/track/2ZU9mOK47wo2BLXmvZ9lV4) | [PITTA](https://open.spotify.com/artist/6XM2UmNjSqY2kwSP0hoZDI) | [The Nation](https://open.spotify.com/album/1RRisKTmM1K9pKXMKNSyYF) | 3:27 | 2022-04-22 | 2022-07-08 |

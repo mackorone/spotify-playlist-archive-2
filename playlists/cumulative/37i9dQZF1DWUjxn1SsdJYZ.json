@@ -800,7 +800,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 195662,
       "name": "777",
       "url": "https://open.spotify.com/track/6rbsQKoxEUBDwHorozW1GE"
@@ -4788,6 +4788,24 @@
       "duration_ms": 150857,
       "name": "buss out",
       "url": "https://open.spotify.com/track/36ajc4IxvDGYZfSjagk9q8"
+    },
+    {
+      "album": {
+        "name": "buss out",
+        "url": "https://open.spotify.com/album/34ncOrnimLD1vL3vVY9rV4"
+      },
+      "artists": [
+        {
+          "name": "Jonny Chopps",
+          "url": "https://open.spotify.com/artist/0fd9HlnFdsNSBrIMHluGrS"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "buss out",
+      "url": "https://open.spotify.com/track/58GGyuw63QOWRrtkMlCsaa"
     },
     {
       "album": {
@@ -9756,7 +9774,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 148732,
       "name": "Figure It Out Pt. 2",
       "url": "https://open.spotify.com/track/4t0WjbUt3DuM9lYfPvPBZt"
@@ -14574,7 +14592,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 195063,
       "name": "IM YOUR ALIEN",
       "url": "https://open.spotify.com/track/7MFu1gxAYjKcxY45JrVAPZ"
@@ -17076,6 +17094,28 @@
       "duration_ms": 118709,
       "name": "Like We Wrote",
       "url": "https://open.spotify.com/track/5kH4MnZQN9Ce4gaBquKInu"
+    },
+    {
+      "album": {
+        "name": "Lil Bro",
+        "url": "https://open.spotify.com/album/3yAbMpJnbNiDBaVZDfgSc1"
+      },
+      "artists": [
+        {
+          "name": "TAKTiX",
+          "url": "https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs"
+        },
+        {
+          "name": "VV-Ace",
+          "url": "https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "Lil Bro",
+      "url": "https://open.spotify.com/track/0Ae38dlxqlEfxsb3RmT0lu"
     },
     {
       "album": {
@@ -19758,7 +19798,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 192017,
       "name": "Native Worldwide",
       "url": "https://open.spotify.com/track/1QCZBra2rD8RmLmrOlxRIm"
@@ -30157,6 +30197,32 @@
     },
     {
       "album": {
+        "name": "Futures",
+        "url": "https://open.spotify.com/album/5yZ5LSY3Xv8PdT205YIo52"
+      },
+      "artists": [
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        },
+        {
+          "name": "MC Yallah",
+          "url": "https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg"
+        },
+        {
+          "name": "Debmaster",
+          "url": "https://open.spotify.com/artist/44DI5jAUWYRStA0amIvFRl"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199739,
+      "name": "Tobuza Buzibwa",
+      "url": "https://open.spotify.com/track/592a1ZKWN1L2wWTdY9Yiiz"
+    },
+    {
+      "album": {
         "name": "Tomato Sauce",
         "url": "https://open.spotify.com/album/1M80xdHYFjyq4Cb6BZ4v7f"
       },
@@ -30596,6 +30662,24 @@
       "duration_ms": 148798,
       "name": "TRA TRA",
       "url": "https://open.spotify.com/track/7DKTwjcVcO3ZZOkws1WzOJ"
+    },
+    {
+      "album": {
+        "name": "Reckless Bloom",
+        "url": "https://open.spotify.com/album/7eEzXDxA15UpA3DEPv2oUA"
+      },
+      "artists": [
+        {
+          "name": "Urthboy",
+          "url": "https://open.spotify.com/artist/2j9Ronn6pPSxcsqnDbVGpZ"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/2NVGfu0uZEd2yVUQGXnIGx"
     },
     {
       "album": {

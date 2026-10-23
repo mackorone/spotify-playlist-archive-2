@@ -2236,7 +2236,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 176718,
       "name": "heaven/jealous",
       "url": "https://open.spotify.com/track/1esTX6gDLMuTfsCYp0AcjN"
@@ -2999,6 +2999,28 @@
     },
     {
       "album": {
+        "name": "lalalalala",
+        "url": "https://open.spotify.com/album/1wpB6e4J6uy6XRgEvrM4OB"
+      },
+      "artists": [
+        {
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
+        },
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176253,
+      "name": "lalalalala",
+      "url": "https://open.spotify.com/track/2thc5F5x0tRomE9bIQT8hd"
+    },
+    {
+      "album": {
         "name": "Late To The Party",
         "url": "https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY"
       },
@@ -3542,7 +3564,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 183529,
       "name": "Needed You",
       "url": "https://open.spotify.com/track/7qoxNcIKxTNC3TzocVd7Pi"
@@ -3796,7 +3818,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 200843,
       "name": "One More Time (feat. Popstar)",
       "url": "https://open.spotify.com/track/4PhMG4S7fjl8kSQz2JrC30"
@@ -4871,6 +4893,24 @@
     },
     {
       "album": {
+        "name": "The Basement / Spilt",
+        "url": "https://open.spotify.com/album/6LQR9ywQxcxq992e9h2mU5"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213643,
+      "name": "The Basement",
+      "url": "https://open.spotify.com/track/6b1M7lKBrXFUp2kimbTmRu"
+    },
+    {
+      "album": {
         "name": "The Beat",
         "url": "https://open.spotify.com/album/3sgObgnVBBMppg1qMoVP7i"
       },
@@ -5309,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "WONKY",
+        "url": "https://open.spotify.com/album/7wz0tB8ek3ZiW0H2mY6yEa"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175109,
+      "name": "WONKY",
+      "url": "https://open.spotify.com/track/56mDUvJ6kBQoO5XEEKVeuB"
+    },
+    {
+      "album": {
         "name": "Worms",
         "url": "https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI"
       },
@@ -5494,7 +5552,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 124363,
       "name": "Your Number",
       "url": "https://open.spotify.com/track/63iWu3MNvYmzHbd1gaIoFL"
@@ -5516,6 +5574,24 @@
       "duration_ms": 246946,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
+    },
+    {
+      "album": {
+        "name": "\u00a31000",
+        "url": "https://open.spotify.com/album/6XthXJxJZT4tDrp7wBovEm"
+      },
+      "artists": [
+        {
+          "name": "Tom Rasmussen",
+          "url": "https://open.spotify.com/artist/1FWk2wt5rW1viTKVsPd4Gf"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205800,
+      "name": "\u00a31000",
+      "url": "https://open.spotify.com/track/2SHbCNmgXJU2FrNOabQS7t"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTSCHxQyDbKJ"

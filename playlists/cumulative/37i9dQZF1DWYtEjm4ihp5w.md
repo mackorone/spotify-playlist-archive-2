@@ -2,9 +2,9 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: Shaw
+> Cover: L'morphine
 
-566 songs - 1 day 5 hr 15 min
+569 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [ALL THE MONSTERS COME OUT AT NIGHT](https://open.spotify.com/track/0FAMmPD8qMBkTylNs3WJsH) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [DIARY OF A DEAD MAN](https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8) | 3:23 | 2024-06-20 | 2024-07-13 |
 | [Allaho Akbar](https://open.spotify.com/track/2Omr2NN6IRfzxnXlGw7dSs) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Obie Trice](https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM) | [٤in \(Act 3\)](https://open.spotify.com/album/2doGuuy9HguV8Sxo4VcXEv) | 3:49 | 2022-11-17 | 2022-12-02 |
 | [ALLO A!](https://open.spotify.com/track/7GcZtYytvc65hhts3BKYlu) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [ALLO A!](https://open.spotify.com/album/0CLztZoZhcixutnjLgmOVh) | 3:31 | 2023-06-12 | 2024-01-05 |
+| [ALTER EGO](https://open.spotify.com/track/40CuKUccAO41clJy6BWqzq) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [KAIZEN](https://open.spotify.com/album/7hOMhbsWbzTNupVFeRnoJt) | 2:52 | 2026-10-23 |  |
 | [AMIRA](https://open.spotify.com/track/134X1F3lVFm1hPvggYClvm) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:48 | 2024-02-23 | 2024-08-02 |
 | [Amnésie](https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SYMPHONY IX](https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG) | 2:44 | 2025-04-26 | 2025-10-18 |
 | [Ana Ola Nti](https://open.spotify.com/track/68uOiYbz5lJeTkoaHQq6KV) | [Iguidr](https://open.spotify.com/artist/6tjt10KbSIyUZEid47Kxbg), [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [Tifinagh](https://open.spotify.com/album/5mR5F4B7Yvmg6XeLJLUh3t) | 2:39 | 2024-07-12 | 2024-09-19 |
@@ -155,7 +156,7 @@
 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 | 2023-12-07 | 2025-07-17 |
 | [Dokhana](https://open.spotify.com/track/5Yd23nlQjtvyceg2u2BnxQ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 2:52 | 2024-06-27 | 2024-07-19 |
 | [DOLORES](https://open.spotify.com/track/203HDScSrKR9GJ2yOwTD07) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT \(Vol\. 2\)](https://open.spotify.com/album/2uTTqkwq1aAU7fj99UcOoF) | 3:15 | 2026-06-04 | 2026-06-19 |
-| [Dorororo](https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [Dorororo](https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br) | 2:44 | 2025-12-19 |  |
+| [Dorororo](https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [Dorororo](https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br) | 2:44 | 2025-12-19 | 2026-10-23 |
 | [DOUBLEZUKSH](https://open.spotify.com/track/6xLpCMywgYrppaNnIq6sir) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DOUBLEZUKSH](https://open.spotify.com/album/1iMdjemLV030iRZY08YnuE) | 4:09 | 2023-01-10 | 2023-06-09 |
 | [Douwi Douwi](https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Douwi Douwi](https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K) | 3:02 | 2024-06-03 | 2025-07-18 |
 | [Dracula](https://open.spotify.com/track/1AEJ2p9KDQQZE2cJP4HF4N) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Dracula](https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR) | 3:16 | 2024-12-26 | 2024-12-30 |
@@ -329,6 +330,7 @@
 | [MARK](https://open.spotify.com/track/7xuoic8xwZtXu6iK2HAjTZ) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [MARK](https://open.spotify.com/album/3Sx4uvZhdQW38tYqIjRCVW) | 3:00 | 2022-11-14 | 2023-01-06 |
 | [MATAL3ACH](https://open.spotify.com/track/55T3HvQKuTr6N57mMoIgMc) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [MATAL3ACH](https://open.spotify.com/album/7e2fbam9ZoNFL7xvTZqOTH) | 2:55 | 2024-02-14 | 2024-12-06 |
 | [MATHASEBNICH](https://open.spotify.com/track/6S3Em8Eur7daa5QTSh06Xf) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [MATHASEBNICH](https://open.spotify.com/album/2ac90kkD7VLHM48cMQi2qT) | 2:59 | 2026-08-14 | 2026-09-21 |
+| [Mazal](https://open.spotify.com/track/0Ll1dO3F5zpJZfIXuPDoa3) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Mazal](https://open.spotify.com/album/4LelLdIAfvSD92sFCe5JAl) | 2:53 | 2026-10-23 |  |
 | [Me](https://open.spotify.com/track/2OKNdsJOqpKcIkYWYLbXEp) | [Damost](https://open.spotify.com/artist/24Bo3rD54ttCU6Z5GsiXaU) | [Tinnitus](https://open.spotify.com/album/4tUxiowliZHmoPrHWLfkjp) | 2:58 | 2025-08-23 | 2025-10-18 |
 | [Medical](https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN) | [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Medical](https://open.spotify.com/album/7718Pguh1bHXGkzMLDwIBA) | 3:44 | 2025-05-21 | 2026-02-10 |
 | [Melina](https://open.spotify.com/track/59HzCbmWvBNQrJ51eoeb0j) | [STOOR](https://open.spotify.com/artist/2wVLdXpXN7s8NvThzK2CFN), [lferda](https://open.spotify.com/artist/3V3d0V2Gj2UnVBhDxi9Rjg) | [Melina](https://open.spotify.com/album/69Zhxbvtd7WFxNRoor9MD9) | 3:21 | 2025-02-20 | 2026-03-01 |
@@ -433,6 +435,7 @@
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-11-14 | 2023-10-01 |
 | [Rwicha](https://open.spotify.com/track/05CEmWl3xGITe99ZZkgl2c) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Rwicha](https://open.spotify.com/album/1FK36KFJthvyz6tCJO7ZVP) | 2:56 | 2024-01-06 | 2024-05-26 |
 | [RWINA](https://open.spotify.com/track/1wNQEZIB3NGITP3hXO855l) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OLYMPICS](https://open.spotify.com/album/4cpZ5lDJdxU4AxY9G42dp8) | 3:25 | 2026-10-21 |  |
+| [Sabor](https://open.spotify.com/track/6ao9bWBTMbQbQ5LYcZs8Fh) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Sabor](https://open.spotify.com/album/3alWcWRQJzK8fpodvbPMQU) | 3:48 | 2026-10-23 |  |
 | [Sabrine](https://open.spotify.com/track/2pl7M15413P7S23MWadlee) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Sabrine](https://open.spotify.com/album/7F8AGhPRsETl0HApPPhFLK) | 3:01 | 2025-07-16 | 2025-09-11 |
 | [Sacrifice](https://open.spotify.com/track/3PsH5lRJuFskbE856YAze2) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sacrifice](https://open.spotify.com/album/3M1KeYIDCrT8rAQRgUnOdK) | 3:13 | 2024-10-09 | 2024-10-22 |
 | [Saddam](https://open.spotify.com/track/1V1fukMsGEAcjNhWRiXbWQ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Saddam](https://open.spotify.com/album/0fBK1u4dXrqOEglhMzHII4) | 2:29 | 2025-01-30 | 2025-02-01 |
@@ -479,7 +482,7 @@
 | [Started from the bottom](https://open.spotify.com/track/0EAA24o0ORdGsMnFPRPq9e) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 4:01 | 2022-11-14 | 2023-01-06 |
 | [STATIC](https://open.spotify.com/track/0ladW63XRPbOj3Nf9MBoI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [STATIC](https://open.spotify.com/album/5iOBsUfxDyUV1IoCPqfblm) | 2:31 | 2026-03-06 | 2026-07-03 |
 | [Stephen Curry](https://open.spotify.com/track/07ywsLQdDF0lhOc6jjkccp) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Stephen Curry](https://open.spotify.com/album/4ieY1qa75WDQfK1wib55Ww) | 3:07 | 2023-11-13 | 2023-12-16 |
-| [Storm](https://open.spotify.com/track/4R85m9Za6QNz2gwXF5ixDK) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Miracle](https://open.spotify.com/album/3hHnbixHGceIDNZtjb6Lov) | 2:45 | 2026-04-28 |  |
+| [Storm](https://open.spotify.com/track/4R85m9Za6QNz2gwXF5ixDK) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Miracle](https://open.spotify.com/album/3hHnbixHGceIDNZtjb6Lov) | 2:45 | 2026-04-28 | 2026-10-23 |
 | [Stuntman](https://open.spotify.com/track/1yfWeaWdlkbh8HqLrH0wta) | [Damost](https://open.spotify.com/artist/24Bo3rD54ttCU6Z5GsiXaU), [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [Stuntman](https://open.spotify.com/album/7AbC4QRoQiMR5i2Cykrt3R) | 2:50 | 2025-01-14 | 2025-01-28 |
 | [Stylo Dahbi](https://open.spotify.com/track/0RvgOvbCAgQIpD4jhqHxVO) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [Stylo Dahbi](https://open.spotify.com/album/3GVXKwAO4uct6zUOitRPEN) | 3:00 | 2024-05-10 | 2024-06-05 |
 | [Sucré Salé](https://open.spotify.com/track/357H2ZL3Ml7OH0MCrp4mwi) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Sucré Salé](https://open.spotify.com/album/0sTkDmqOGFrx2bI3ilkHYS) | 2:20 | 2022-11-14 | 2023-04-03 |

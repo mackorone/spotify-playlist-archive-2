@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk & kompa du moment\. Photo : Fanny J
+> Les hits zouk & kompa du moment\. Photo : Joé Dwèt Filé
 
-490 songs - 1 day 1 hr 41 min
+491 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Call me](https://open.spotify.com/track/2s37iiK7ml88l5Jk2L98Ca) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Call me](https://open.spotify.com/album/0yHbDb4pyNwuLTqvBXGgEP) | 2:37 | 2024-07-04 | 2024-09-13 |
 | [CARDIO](https://open.spotify.com/track/4jGQosmehonskWfrEEzxN4) | [Dj M'sy](https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c), [Dyrone](https://open.spotify.com/artist/01Og6jVacvaYfaVmCo6fzs) | [CARDIO](https://open.spotify.com/album/2qCx00xTA23BEgRujR9Qng) | 2:44 | 2025-09-04 | 2025-10-03 |
 | [Caresse](https://open.spotify.com/track/7t7sDVNiFNVdmULGJ8HB1A) | [Kénédy](https://open.spotify.com/artist/4UQw6LI7i8sdQQMYhwQd71) | [Caresse](https://open.spotify.com/album/1hy3yEUGl5nXixgIiQnjJu) | 3:05 | 2025-02-13 | 2025-03-28 |
-| [CARPE DIEM](https://open.spotify.com/track/4S946jhpUy8MLekuSvcYFG) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [CARPE DIEM](https://open.spotify.com/album/6Yp6mopKjQOQBPG25xdqQu) | 2:59 | 2026-05-07 |  |
+| [CARPE DIEM](https://open.spotify.com/track/4S946jhpUy8MLekuSvcYFG) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [CARPE DIEM](https://open.spotify.com/album/6Yp6mopKjQOQBPG25xdqQu) | 2:59 | 2026-05-07 | 2026-10-23 |
 | [CATALINA](https://open.spotify.com/track/5TfB7G5JrQqwcTwy7CAdb3) | [Curtis Kane](https://open.spotify.com/artist/7LGeqJcTk3qJ23m7ROwIw6) | [CATALINA](https://open.spotify.com/album/3lHnR7Wz4ur8BuUq5hEAEz) | 3:08 | 2026-10-08 |  |
 | [Ce que tu veux de nous \- Baby boo](https://open.spotify.com/track/2woFHVE5BQmaoDfNtlN6Ln) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT) | [Incomprise](https://open.spotify.com/album/48zfG8lvY9evxG8fPKkUur) | 2:59 | 2024-09-26 | 2024-10-25 |
 | [Ce Soir](https://open.spotify.com/track/5JoiT8yPlAtYMmYhF2DSLL) | [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Ce Soir](https://open.spotify.com/album/5z9ciR0ejGN614p9i9CBi7) | 3:45 | 2026-07-02 | 2026-08-14 |
@@ -327,6 +327,7 @@
 | [Pa Nowmal](https://open.spotify.com/track/3aAaM7HdWoXHjB2RHLoteu) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Pa Nowmal](https://open.spotify.com/album/6H26y2puPTgrK0xxyFB9kJ) | 3:47 | 2024-02-08 | 2024-10-25 |
 | [Pa Pale](https://open.spotify.com/track/14Q49d7zbzJsbC7wqRU7D4) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Pa Pale](https://open.spotify.com/album/6Na7VpDH9ICIOlfYBRByHH) | 3:12 | 2026-02-26 | 2026-04-24 |
 | [Padoné´m](https://open.spotify.com/track/1MK8a1kVLdzDTnmXy6goqJ) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [DJ ZOXY](https://open.spotify.com/artist/5b6w6ijGuL3InHAhilZ87E) | [Padoné´m](https://open.spotify.com/album/6VumwiygGh99yBroZW1C6R) | 3:30 | 2024-06-06 | 2024-07-12 |
+| [PAKSADOR](https://open.spotify.com/track/4f1DbfEQBypyePXHysh8Kn) | [SIKEM](https://open.spotify.com/artist/1E2l9VxEscguzMQiDG81gt), [Kan3z](https://open.spotify.com/artist/6lCQMZsujWZE0ZboceicaI) | [FLOWER ISLAND](https://open.spotify.com/album/1yqb7tsxpo5QhzGIn7biK1) | 3:24 | 2026-10-22 |  |
 | [Palolé palolé](https://open.spotify.com/track/3IrXiWel8FZ1dQ9TzCJc58) | [Jessye Belleval](https://open.spotify.com/artist/0NAAEUMgWrBJNWviQcTx1T) | [Palolé palolé](https://open.spotify.com/album/4c1RU4ZXqTBQ8iGpw0GBPq) | 3:11 | 2026-06-18 | 2026-07-24 |
 | [Pap Kite](https://open.spotify.com/track/2ZOwWrwJT2mg0BSW8M8fY8) | [Forever Music](https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje), [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK) | [Pap Kite](https://open.spotify.com/album/142yhhRXAWR2Ydt533NNGK) | 3:25 | 2026-01-29 | 2026-05-22 |
 | [Papillon](https://open.spotify.com/track/0Vl2qHHtv0TPMJ1v39DqZS) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Papillon](https://open.spotify.com/album/27ugUMe8RarYYssfLDkDt7) | 2:44 | 2026-08-13 |  |

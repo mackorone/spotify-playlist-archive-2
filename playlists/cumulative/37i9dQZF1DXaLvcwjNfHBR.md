@@ -2,7 +2,7 @@
 
 ### [Breaking Hits](https://open.spotify.com/playlist/37i9dQZF1DXaLvcwjNfHBR)
 
-> Your new favourite songs! Cover: Tate McRae
+> Your new favourite songs! Cover: Jamie Miller
 
 1,313 songs - 2 day 22 hr 28 min
 

@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: Ringo Madlingozi, Thanda Music, Phila Madlingozi
+> Proudly Southern African Afropop gems\. Cover: Empro, Mlindo The Vocalist
 
-783 songs - 2 day 7 hr 31 min
+784 songs - 2 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,7 +492,7 @@
 | [Ngizmisele](https://open.spotify.com/track/0sSFSV3NiP2i9PzSk65BPa) | [Puleng Phoofolo](https://open.spotify.com/artist/4PV6IJwluKGjXmKLhKFa0E), [Phoka Ea Boroa](https://open.spotify.com/artist/40fbBPZplM3WZsGD658nXI) | [Ngizmisele](https://open.spotify.com/album/3PQg91Te4i6mqvN3hzoZTH) | 3:45 | 2025-07-04 |  |
 | [Ngizohlala Nawe \(feat\. Princess Meloh\)](https://open.spotify.com/track/5lfeivPGO7gXCbMfxKGAlH) | [NKR](https://open.spotify.com/artist/3thrhTKemjuoEqfhGZu3i6), [Ayarhkay](https://open.spotify.com/artist/1MD4g1fBpnN0xXpQiQt8pf), [Olefied Khetha](https://open.spotify.com/artist/7encSKpRGCkRR4yF13Shr9), [Princess Meloh](https://open.spotify.com/artist/0KW7KKNYz8POQOtq6Ps6jj) | [Ngizohlala Nawe \(feat\. Princess Meloh\)](https://open.spotify.com/album/6xOYZWbIr7js9wii3B14fv) | 5:01 | 2025-07-25 |  |
 | [Ngizokthanda](https://open.spotify.com/track/4MRDfU114k3dd6jGHgEtva) | [Linda Gcwensa](https://open.spotify.com/artist/08vFZzvz5L5aP8Bk4PHeWv) | [Ngizokthanda](https://open.spotify.com/album/27db3O40tFLHEEo8bCRgiy) | 3:39 | 2022-09-29 | 2023-02-17 |
-| [Ngonyiwe](https://open.spotify.com/track/6vU4S43jZjWcHHTh0VI0nj) | [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW), [L.vow](https://open.spotify.com/artist/31unB0m4XXl0ErePJkao2T), [Ovuyonke](https://open.spotify.com/artist/1PUJY8Y2zROwux5qnaGb9O) | [Ingubo Enamehlo](https://open.spotify.com/album/7rDjJORik07hthFqur21aL) | 2:49 | 2025-08-15 |  |
+| [Ngonyiwe](https://open.spotify.com/track/6vU4S43jZjWcHHTh0VI0nj) | [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW), [L.vow](https://open.spotify.com/artist/31unB0m4XXl0ErePJkao2T), [Ovuyonke](https://open.spotify.com/artist/1PUJY8Y2zROwux5qnaGb9O) | [Ingubo Enamehlo](https://open.spotify.com/album/7rDjJORik07hthFqur21aL) | 2:49 | 2025-08-15 | 2026-10-23 |
 | [Ngthathe](https://open.spotify.com/track/3TCNa3iSMFdoFiNFebLjnD) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Ngthathe](https://open.spotify.com/album/4whjsnrucpJJUOs0UIvviT) | 4:19 | 2023-02-23 | 2023-07-08 |
 | [Nguwe](https://open.spotify.com/track/3p0svXb6H7pdUlA6mjeUTc) | [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo) | [Nguwe](https://open.spotify.com/album/3NOlureYDWIeBPt3CTuTDr) | 3:40 | 2023-03-17 | 2023-07-28 |
 | [Ngwago](https://open.spotify.com/track/34m91Dl71iUdtLVr3qmIFE) | [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k), [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs) | [Ngwago](https://open.spotify.com/album/0m3FhD85feoCHUHPVPbfn2) | 5:40 | 2021-07-06 | 2022-08-12 |
@@ -554,6 +554,7 @@
 | [Phendula](https://open.spotify.com/track/1j1nOZttWVaZG8A7WdK9Jw) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Phendula](https://open.spotify.com/album/1sR2TBRnQgPrjkMPqdQHBP) | 3:17 | 2025-06-12 | 2026-03-28 |
 | [Piki Piki](https://open.spotify.com/track/3RzB4tFNyg0fKchMDtNHCY) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Piki Piki](https://open.spotify.com/album/75OUwhwR6nfevKLXUHBwvQ) | 3:01 | 2024-10-10 |  |
 | [Please Stay](https://open.spotify.com/track/3etMtEdaEBPD4NKfCUj0HJ) | [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7), [Osaze](https://open.spotify.com/artist/6ZWL7h66dJRqstIFa3OO0E), [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Please Stay](https://open.spotify.com/album/1mky1KbxL1dRlFuvJyqA16) | 6:14 | 2023-08-17 | 2023-09-01 |
+| [Polo](https://open.spotify.com/track/63MqzVOUF0ktjRszQhNfpV) | [Empro](https://open.spotify.com/artist/7qW54SKGCLpQmny8mOL9wT), [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [Polo](https://open.spotify.com/album/2dvWyrcer1aO9SroMQPhG2) | 4:06 | 2026-10-22 |  |
 | [Pretender](https://open.spotify.com/track/20hoZcmu5L51NhHi7JAr9f) | [Mukololo](https://open.spotify.com/artist/3PjUsqUK9807lMGiWKIQoT), [Jon Delinger](https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF) | [Pretender](https://open.spotify.com/album/2ltrUjRCMRNOIyoQ1R1hTS) | 5:04 | 2025-04-14 | 2025-04-18 |
 | [priceless possession](https://open.spotify.com/track/71yGqtIoxBLkcuIxQAB8r1) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [priceless possession](https://open.spotify.com/album/0PsQKjpFjIiX5u41QNLaNQ) | 4:30 | 2025-08-15 |  |
 | [Problems](https://open.spotify.com/track/4OfvnDgvA6yP6en7jJM752) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF) | [Problems](https://open.spotify.com/album/5xQIpRYzTsw80u0oXSW4rA) | 5:25 | 2023-07-14 | 2023-08-12 |

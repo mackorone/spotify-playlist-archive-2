@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Fran Gil
+> Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Clau
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,040 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,024 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Onda](https://open.spotify.com/track/3PBuXDLHHffZ1n2l0VlPk7) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Onda](https://open.spotify.com/album/0E3wbmIuOqf26mNUZC5Xhj) | 4:29 |
+| 1 | [Cigana \- Live Forno Session](https://open.spotify.com/track/60mB0tUVE7Z5x2u3Q172ib) | [Forno Session](https://open.spotify.com/artist/0vIjx3YgE7W7AJGHkM7kNa), [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Clau \(Live Forno Session\)](https://open.spotify.com/album/2AWtUfPm4zKsMBCnYOKZvE) | 3:45 |
 | 2 | [Catedral](https://open.spotify.com/track/3mzJgriFYY654vVhzwCepw) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Memórias Póstumas](https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3) | 3:41 |
 | 3 | [Por Você \- Spotify e Jão: Cada lembrança nos trouxe até aqui \- Ao Vivo](https://open.spotify.com/track/2CDG739960vzk63xW376x2) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Por Você \- Spotify e Jão: Cada lembrança nos trouxe até aqui \(Ao Vivo\)](https://open.spotify.com/album/503Yuzx2P6ABKMhL6ZgFwa) | 3:36 |
 | 4 | [Pra Lembrar De Mim No Fone](https://open.spotify.com/track/39SHvIYTLxto33v3guCsMh) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [Pra Lembrar De Mim No Fone](https://open.spotify.com/album/3n5liuavttAKEBhVjPExHv) | 2:39 |
@@ -22,18 +22,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 12 | [escapismo](https://open.spotify.com/track/5iT4Hmll1xk9eEiGg6zrTS) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [escapismo](https://open.spotify.com/album/4GeMvdIy9pvdgujgRmjavJ) | 3:00 |
 | 13 | [TÔ DE OLHO \- Ao Vivo na Amazônia](https://open.spotify.com/track/1Q1jJn0iopNWapAVbfGjEn) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [LAGUM \- Ao Vivo na Amazônia](https://open.spotify.com/album/1GVWylWDXdH2UAjcvvpH5q) | 3:09 |
 | 14 | [baby não vá](https://open.spotify.com/track/2SzNw9aqzATNvYAU0bTBBh) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [FORÇA DA JUVENTUDE](https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo) | 2:34 |
-| 15 | [Errado pra mim](https://open.spotify.com/track/6EAqA71uEIEtt0QfvU8OAQ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Errado pra mim](https://open.spotify.com/album/3rDY9tMxjbBtGKQCHfsLEe) | 2:31 |
-| 16 | [Pra Ter Fim](https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Pra Ter Fim](https://open.spotify.com/album/4PzEiRBXgj2D5hSEW4ZaL5) | 3:24 |
-| 17 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
-| 18 | [Sinto](https://open.spotify.com/track/2og3ppm4mGvlbK5abmpoTj) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [ContraTempo](https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq) | 3:12 |
-| 19 | [Coisas da Vida](https://open.spotify.com/track/6Ur3mHqLvFKMAvQJJaylKh) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Atemporal \- PART II](https://open.spotify.com/album/7bh7n8MOfnOfSbFcsLdTf6) | 3:12 |
-| 20 | [te traindo com você](https://open.spotify.com/track/41QKpbVRRdgcTOFvL4GF92) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [te traindo com você](https://open.spotify.com/album/1iI2L8t9AV3wV46p4DI6mz) | 3:08 |
-| 21 | [Por Você \- Sozinho e Bem Acompanhado](https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Sozinho e Bem Acompanhado](https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto) | 3:26 |
+| 15 | [Onda](https://open.spotify.com/track/3PBuXDLHHffZ1n2l0VlPk7) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Onda](https://open.spotify.com/album/0E3wbmIuOqf26mNUZC5Xhj) | 4:29 |
+| 16 | [Errado pra mim](https://open.spotify.com/track/6EAqA71uEIEtt0QfvU8OAQ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Errado pra mim](https://open.spotify.com/album/3rDY9tMxjbBtGKQCHfsLEe) | 2:31 |
+| 17 | [Pra Ter Fim](https://open.spotify.com/track/5aOcYyEFQJzLxwIunTjGyA) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Pra Ter Fim](https://open.spotify.com/album/4PzEiRBXgj2D5hSEW4ZaL5) | 3:24 |
+| 18 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
+| 19 | [Sinto](https://open.spotify.com/track/2og3ppm4mGvlbK5abmpoTj) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [ContraTempo](https://open.spotify.com/album/0iUFckwT5vRbdMHzUe4ktq) | 3:12 |
+| 20 | [Por Você \- Sozinho e Bem Acompanhado](https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Sozinho e Bem Acompanhado](https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto) | 3:26 |
+| 21 | [te traindo com você](https://open.spotify.com/track/41QKpbVRRdgcTOFvL4GF92) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [te traindo com você](https://open.spotify.com/album/1iI2L8t9AV3wV46p4DI6mz) | 3:08 |
 | 22 | [Emaranhei](https://open.spotify.com/track/4cN88WMuH5CAVg6YhnBCIP) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Emaranhei](https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR) | 2:51 |
 | 23 | [Medo do Escuro](https://open.spotify.com/track/21ArLTRbiDZAEiXEPPNe4x) | [Bruna Foss](https://open.spotify.com/artist/4FrN1zhyhsLkK3Kxy5hYh6) | [ESTRANGEIRA](https://open.spotify.com/album/0vXWDMAx5nlCHomKLSvgKr) | 3:14 |
 | 24 | [Faço Parar de Chover](https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Faço Parar de Chover](https://open.spotify.com/album/29ZKPLd1xdn8JodQ5a00Cu) | 3:19 |
-| 25 | [A Menina Dança](https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A Menina Dança](https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq) | 2:57 |
-| 26 | [Varandas](https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Varandas](https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB) | 3:43 |
+| 25 | [Varandas](https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Varandas](https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB) | 3:43 |
+| 26 | [A Menina Dança](https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A Menina Dança](https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq) | 2:57 |
 | 27 | [FOME](https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [BRava](https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH) | 3:09 |
 | 28 | [Não Volta Mais \- Meu Acústico](https://open.spotify.com/track/5hb0rXOZ9iUixLwH23us2U) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Meu Acústico](https://open.spotify.com/album/0cKDtsszY0XUWKLPoFwG8T) | 3:27 |
 | 29 | [Um dia inteiro com você](https://open.spotify.com/track/0QYm9hnFT4vMhjwlO9jGmh) | [Gustavo Fraga](https://open.spotify.com/artist/265s0ODuxTpHjmxQCwCCo7) | [Um dia inteiro com você](https://open.spotify.com/album/2zFDJa2mULHRVSKenbn2Sc) | 3:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 69 | [Coisa de Alma](https://open.spotify.com/track/6x3UHY7jsjP9JrrBJjQhf1) | [EDDU](https://open.spotify.com/artist/5yB3X7Vo6OL6PERnrgkjo5), [Edu4rd](https://open.spotify.com/artist/4QgUQWIl94bx29Hl3rBMui) | [Coisa de Alma](https://open.spotify.com/album/2ve6z3W7HC4kYKI08PonwD) | 2:29 |
 | 70 | [Daqui pra sempre](https://open.spotify.com/track/4V9Q1RjlC24rM5ts80S76Q) | [Deco Martins](https://open.spotify.com/artist/1HigxvB8FHjDmEcXvSl2D1), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Daqui pra sempre](https://open.spotify.com/album/6z895LsvePQNR3ADZkiO0N) | 2:40 |
 
-Snapshot ID: `AAAAAIwFk4Jek9/x2o7MnraTqnVhouEN`
+Snapshot ID: `AAAAAJFJh62Ym/fw8n3Odk/WJRW9rkTg`

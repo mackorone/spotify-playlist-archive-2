@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 129343,
+  "num_followers": 129367,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAACL6q7NACLNcjpJPOAVeitI",
+  "snapshot_id": "atavAAAAAADSZUsf8sWmjFCf/idSBxMz",
   "tracks": [
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 141804,
-      "name": "Sun Has Set",
-      "url": "https://open.spotify.com/track/5lXmwQPyv08yBsGhsB05qi"
+      "duration_ms": 178281,
+      "name": "Estranged",
+      "url": "https://open.spotify.com/track/4M7lT4DNieS5JTs2dEKiBQ"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 178281,
-      "name": "Estranged",
-      "url": "https://open.spotify.com/track/4M7lT4DNieS5JTs2dEKiBQ"
+      "duration_ms": 141804,
+      "name": "Sun Has Set",
+      "url": "https://open.spotify.com/track/5lXmwQPyv08yBsGhsB05qi"
     },
     {
       "added_at": null,

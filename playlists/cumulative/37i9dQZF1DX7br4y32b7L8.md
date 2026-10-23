@@ -4,7 +4,7 @@
 
 > \#fyp songs voor je playlist\. Cover: Issah
 
-938 songs - 1 day 23 hr 3 min
+939 songs - 1 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Gangsterchick](https://open.spotify.com/track/1f19LvUSBYHlu2VhviCIfj) | [Driess](https://open.spotify.com/artist/1oCIudG8pNordgzuLjTMNP), [Lef](https://open.spotify.com/artist/1MUxYVrXFiMh1wmP74mfu7) | [Gangsterchick](https://open.spotify.com/album/6ToblYPKlpdygmbYe1Gxjs) | 2:52 | 2025-07-08 | 2025-12-02 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-11 | 2025-05-09 |
 | [Gedachte](https://open.spotify.com/track/1VzPkbJzhNRS06LA7yv2XS) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q), [Rhodé Kok](https://open.spotify.com/artist/47oMdNjsvbREik3zoNlbL6) | [Gedachte](https://open.spotify.com/album/3ILSWFslN31ehe3IzNqlaQ) | 2:11 | 2024-08-26 | 2024-12-04 |
+| [Geen Lovesong](https://open.spotify.com/track/2cUSsISFlJ8EOB2EtLiTrO) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [Qlassiek](https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt) | 2:23 | 2026-10-22 |  |
 | [GEEN VRIENDEN](https://open.spotify.com/track/5SjDUBlZUBbgGNC6LUyEoA) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [PRIX D'AMI](https://open.spotify.com/album/7Jxzu0TIVcjqKghPNiyUGd) | 2:09 | 2023-08-31 | 2023-11-10 |
 | [Gek Doen \(Annemijn\)](https://open.spotify.com/track/2dUuayEzxpegdZx2zdrJTF) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Gek Doen \(Annemijn\)](https://open.spotify.com/album/4beFwZAnElEtwVYVZEe9rX) | 2:00 | 2024-04-10 | 2024-11-01 |
 | [Gek Op Jou \(feat\. Koen\)](https://open.spotify.com/track/0SznGXywmezP2t8hI9NDkw) | [Yes\-R](https://open.spotify.com/artist/26W6sq5yZeIhzfO6d8g9NJ), [Koen](https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf) | [Gek Op Jou \(feat\. Koen\)](https://open.spotify.com/album/3U0ck9Ps7JzuRPN6eNFeNC) | 2:41 | 2023-07-30 | 2023-12-15 |
@@ -326,7 +327,7 @@
 | [Gyal You A Party Animal](https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You A Party Animal](https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff) | 3:34 | 2023-02-23 | 2023-03-15 |
 | [Had Ik Maar](https://open.spotify.com/track/2DDNjoAssaFfxX8XzKTyNn) | [Merijn Scholten](https://open.spotify.com/artist/46yeM7RxHuvvk41AbsT6BO) | [Had Ik Maar](https://open.spotify.com/album/01MTXusD2NHp8Od7qQ46nm) | 2:04 | 2025-10-30 | 2026-02-13 |
 | [HaHUA \(Doei Doei\)](https://open.spotify.com/track/4qWdCSPVYD4FeEPW6tS7jU) | [AUXBERGINE](https://open.spotify.com/artist/5ITnDaeBB9eLjQaDQUJwzi) | [HaHUA \(Doei Doei\)](https://open.spotify.com/album/0kMYgc76yYiikvTzgyQQfB) | 1:55 | 2024-03-07 | 2024-03-22 |
-| [Hallo Allemaal](https://open.spotify.com/track/48zi45TFshBYVE2ZfKFM20) | [Selma](https://open.spotify.com/artist/2hp01mbCUVGCjVY2RVFAvQ), [Abu Hassan](https://open.spotify.com/artist/2vORpcCcQ9OC2uiAFJuwPA) | [Hallo Allemaal](https://open.spotify.com/album/5iCU2GNjbN3WGDLICW2qTs) | 1:45 | 2026-09-09 |  |
+| [Hallo Allemaal](https://open.spotify.com/track/48zi45TFshBYVE2ZfKFM20) | [Selma](https://open.spotify.com/artist/2hp01mbCUVGCjVY2RVFAvQ), [Abu Hassan](https://open.spotify.com/artist/2vORpcCcQ9OC2uiAFJuwPA) | [Hallo Allemaal](https://open.spotify.com/album/5iCU2GNjbN3WGDLICW2qTs) | 1:45 | 2026-09-09 | 2026-10-23 |
 | [Hans Kazan](https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hans Kazan](https://open.spotify.com/album/0w9pAwPmHd4BmezXWpMWDV) | 2:40 | 2026-03-12 | 2026-09-17 |
 | [Happy Nation](https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Happy Nation](https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k) | 4:15 | 2024-02-14 | 2024-04-09 |
 | [Hardcore Will Never Die](https://open.spotify.com/track/2EMMqD9aKPLx1DJ90JHnaJ) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Koningsdag 2022](https://open.spotify.com/album/0Ag7wvNwmOYh8CugoVh6Jl) | 2:11 | 2023-07-18 | 2024-05-07 |

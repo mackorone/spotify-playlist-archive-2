@@ -1,13 +1,29 @@
 {
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: YOASOBI",
-  "num_followers": 563936,
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Vaundy",
+  "num_followers": 563969,
   "original_name": "Gacha Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwkXWoHGgyzvHYFUS20JTOP0mw4",
+  "snapshot_id": "AAAAAK6auOeyYeZyqTa73kY9/UotrsOp",
   "tracks": [
+    {
+      "added_at": "2026-10-22 16:11:35",
+      "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 229328,
+      "name": "\u8e0a\u308a\u5b50",
+      "url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7"
+    },
     {
       "added_at": "2026-10-15 17:37:29",
       "album": {
@@ -107,22 +123,6 @@
     {
       "added_at": "2026-10-08 16:50:18",
       "album": {
-        "name": "NIGHTBREAK",
-        "url": "https://open.spotify.com/album/23K2KTWjjdKAbW39a6ANBw"
-      },
-      "artists": [
-        {
-          "name": "Mori Calliope",
-          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "NIGHTBREAK",
-      "url": "https://open.spotify.com/track/55HGX37UsiJyt72Pl3sA6n"
-    },
-    {
-      "added_at": "2026-10-08 16:50:18",
-      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/0G0jXVhffbttASyJ6Ngxbz"
       },
@@ -157,20 +157,20 @@
       "url": "https://open.spotify.com/track/6ZxPofP51IZY0GOepgf0xQ"
     },
     {
-      "added_at": "2026-10-08 16:50:18",
+      "added_at": "2026-10-22 16:11:35",
       "album": {
-        "name": "\u3042\u304b\u306d\u3055\u3059\u9803",
-        "url": "https://open.spotify.com/album/6VSExRenzwJkTzpXC7SAoZ"
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 210233,
-      "name": "\u3042\u304b\u306d\u3055\u3059\u9803",
-      "url": "https://open.spotify.com/track/0C0yofbpECr2lGAiKhnVXA"
+      "duration_ms": 273535,
+      "name": "\u3057\u308f\u3042\u308f\u305b",
+      "url": "https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf"
     },
     {
       "added_at": "2026-10-08 16:50:18",
@@ -207,6 +207,38 @@
     {
       "added_at": "2026-10-08 16:50:18",
       "album": {
+        "name": "NIGHTBREAK",
+        "url": "https://open.spotify.com/album/23K2KTWjjdKAbW39a6ANBw"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "NIGHTBREAK",
+      "url": "https://open.spotify.com/track/55HGX37UsiJyt72Pl3sA6n"
+    },
+    {
+      "added_at": "2026-10-22 16:11:35",
+      "album": {
+        "name": "PLAYDEAD -DELUXE EDiTiON-",
+        "url": "https://open.spotify.com/album/7wMb9tdP9jL30wG0MOSyE6"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 221105,
+      "name": "The Rumbling",
+      "url": "https://open.spotify.com/track/37rmYz2vSbsWX8FHdhJlrl"
+    },
+    {
+      "added_at": "2026-10-08 16:50:18",
+      "album": {
         "name": "BABYMETAL",
         "url": "https://open.spotify.com/album/09PYkGcZ7yH3UnAAuHSKzN"
       },
@@ -239,18 +271,18 @@
     {
       "added_at": "2026-10-08 16:50:18",
       "album": {
-        "name": "\u7d50\u3073",
-        "url": "https://open.spotify.com/album/6EiurupQASTiD9uFEJwxqg"
+        "name": "\u3042\u304b\u306d\u3055\u3059\u9803",
+        "url": "https://open.spotify.com/album/6VSExRenzwJkTzpXC7SAoZ"
       },
       "artists": [
         {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 206998,
-      "name": "\u7d50\u3073",
-      "url": "https://open.spotify.com/track/2j0mQg77Ivev2aIksyiiqc"
+      "duration_ms": 210233,
+      "name": "\u3042\u304b\u306d\u3055\u3059\u9803",
+      "url": "https://open.spotify.com/track/0C0yofbpECr2lGAiKhnVXA"
     },
     {
       "added_at": "2026-10-08 16:50:18",
@@ -371,6 +403,22 @@
       "duration_ms": 208763,
       "name": "pupa",
       "url": "https://open.spotify.com/track/4vscWAWW13kNtdyTq724hd"
+    },
+    {
+      "added_at": "2026-10-08 16:50:18",
+      "album": {
+        "name": "\u7d50\u3073",
+        "url": "https://open.spotify.com/album/6EiurupQASTiD9uFEJwxqg"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 206998,
+      "name": "\u7d50\u3073",
+      "url": "https://open.spotify.com/track/2j0mQg77Ivev2aIksyiiqc"
     },
     {
       "added_at": "2026-10-08 16:50:18",
@@ -511,38 +559,6 @@
     {
       "added_at": "2026-10-08 16:50:18",
       "album": {
-        "name": "\u591c\u9df9 - Yodaka",
-        "url": "https://open.spotify.com/album/0xbgE5GJtzcQbYwkGNu01T"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 198050,
-      "name": "\u591c\u9df9 - Yodaka",
-      "url": "https://open.spotify.com/track/4Qa2LME2vWWPXMLnFCGgxU"
-    },
-    {
-      "added_at": "2026-10-08 16:50:18",
-      "album": {
-        "name": "\u5915\u661f-\u3086\u3046\u3065\u3064-",
-        "url": "https://open.spotify.com/album/3MxAQkUqMhSm1C2aLRSlnQ"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 277045,
-      "name": "\u5915\u661f-\u3086\u3046\u3065\u3064-",
-      "url": "https://open.spotify.com/track/4zFFLQwm2zzQg8bcg9dald"
-    },
-    {
-      "added_at": "2026-10-08 16:50:18",
-      "album": {
         "name": "Circling the Stars",
         "url": "https://open.spotify.com/album/6UjV5TTHYmh5uw6MekYI8t"
       },
@@ -555,38 +571,6 @@
       "duration_ms": 189510,
       "name": "Circling the Stars",
       "url": "https://open.spotify.com/track/2CBvMdHbnJJRVxD0z20VxC"
-    },
-    {
-      "added_at": "2026-10-08 16:50:18",
-      "album": {
-        "name": "\u306f\u3066\u306a",
-        "url": "https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 229039,
-      "name": "\u30b5\u30fc\u30d3\u30b9\u30a8\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/4x7FxtOoeIAtDU1mTggeOa"
-    },
-    {
-      "added_at": "2026-10-08 16:50:18",
-      "album": {
-        "name": "\u30dd\u30c3\u30da\u30f3\u30ad\u30e5\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/6XPZ2ZuS07LFLHgNoJS1hU"
-      },
-      "artists": [
-        {
-          "name": "\u6771\u4eac\u771f\u4e2d",
-          "url": "https://open.spotify.com/artist/1XpZKw5ml9resg2tXiAk7K"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "\u30dd\u30c3\u30da\u30f3\u30ad\u30e5\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/3mhX7RepAwqeoz04q0wCYn"
     },
     {
       "added_at": "2026-10-08 16:50:18",
@@ -667,6 +651,38 @@
       "duration_ms": 183506,
       "name": "\u52d5\u5929",
       "url": "https://open.spotify.com/track/2lN3LquWyOGx8xPSOhsqPT"
+    },
+    {
+      "added_at": "2026-10-22 16:11:35",
+      "album": {
+        "name": "\u6d88\u3048\u306a\u3044\u7406\u7531",
+        "url": "https://open.spotify.com/album/69GUXMqIsG12AEYIg5Uy7R"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 249243,
+      "name": "\u6d88\u3048\u306a\u3044\u7406\u7531",
+      "url": "https://open.spotify.com/track/1kAjMWyq8IBfh5JMhUX4Zx"
+    },
+    {
+      "added_at": "2026-10-22 16:11:35",
+      "album": {
+        "name": "\u30aa\u30ce\u30ac\u30df",
+        "url": "https://open.spotify.com/album/7lUN85inPYtrXRud9OjYNR"
+      },
+      "artists": [
+        {
+          "name": "\u30e1\u30ac\u30c6\u30e9\u30fb\u30bc\u30ed",
+          "url": "https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B"
+        }
+      ],
+      "duration_ms": 230875,
+      "name": "\u30aa\u30ce\u30ac\u30df",
+      "url": "https://open.spotify.com/track/3MZtGZ6btTkifywl6aPPUe"
     },
     {
       "added_at": "2026-10-08 16:50:18",
@@ -773,20 +789,40 @@
       "url": "https://open.spotify.com/track/0LswwmDZ6Qk26ZgVRf7aMO"
     },
     {
-      "added_at": "2026-10-08 16:50:18",
+      "added_at": "2026-10-22 16:11:35",
       "album": {
-        "name": "Yellow Brick Road",
-        "url": "https://open.spotify.com/album/2zavFs3Aryj4KIsXiln4rV"
+        "name": "\u30c8\u30e0\u3068\u30b8\u30a7\u30ea\u30fc\u3068\u30d8\u30a4\u30bf\u30fc\u3068\u79c1",
+        "url": "https://open.spotify.com/album/5jGFlFGPRbQYzKUM5ux9v3"
       },
       "artists": [
         {
-          "name": "ONE OR EIGHT",
-          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
         }
       ],
-      "duration_ms": 171100,
-      "name": "Yellow Brick Road",
-      "url": "https://open.spotify.com/track/4Duhsnc052Fq0ifYaPGuY5"
+      "duration_ms": 149404,
+      "name": "\u30c8\u30e0\u3068\u30b8\u30a7\u30ea\u30fc\u3068\u30d8\u30a4\u30bf\u30fc\u3068\u79c1",
+      "url": "https://open.spotify.com/track/5h4LjodwIRu35AU0aDMoOj"
+    },
+    {
+      "added_at": "2026-10-22 16:11:35",
+      "album": {
+        "name": "WATCH ME",
+        "url": "https://open.spotify.com/album/5N8qYjbTwlroORqdMLSUJK"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 189629,
+      "name": "WATCH ME - feat. BIA",
+      "url": "https://open.spotify.com/track/3IWZeuKAIICpfEj7bkSB6p"
     },
     {
       "added_at": "2026-10-08 16:50:18",
@@ -1109,84 +1145,20 @@
       "url": "https://open.spotify.com/track/3KaZDoUNLRzLgVIfJKTxrH"
     },
     {
-      "added_at": "2026-10-08 16:50:18",
+      "added_at": "2026-10-22 16:11:35",
       "album": {
-        "name": "ANIMAL",
-        "url": "https://open.spotify.com/album/5Qp6Th6wxnujUh394VdPAa"
+        "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
+        "url": "https://open.spotify.com/album/71eZv4CCScNApcSYATHObm"
       },
       "artists": [
         {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
         }
       ],
-      "duration_ms": 172421,
-      "name": "ANIMAL",
-      "url": "https://open.spotify.com/track/0NI2z69OboDcZ0YkF2ozRo"
-    },
-    {
-      "added_at": "2026-10-08 16:50:18",
-      "album": {
-        "name": "\u7406\u7531",
-        "url": "https://open.spotify.com/album/7srTz4jxPQvkx3C1ynLzKI"
-      },
-      "artists": [
-        {
-          "name": "DUSTCELL",
-          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "\u7406\u7531",
-      "url": "https://open.spotify.com/track/5F9VvD2KbmlysTNwUptNL9"
-    },
-    {
-      "added_at": "2026-10-08 16:50:18",
-      "album": {
-        "name": "TEEN LOVE",
-        "url": "https://open.spotify.com/album/3gAdqBBgEfCh9JbWMC3PLp"
-      },
-      "artists": [
-        {
-          "name": "harha",
-          "url": "https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "TEEN LOVE",
-      "url": "https://open.spotify.com/track/3ezaDJzsxtkyyXVI4mI5NR"
-    },
-    {
-      "added_at": "2026-10-08 16:50:18",
-      "album": {
-        "name": "Pang Pang Pang",
-        "url": "https://open.spotify.com/album/0fQWahCafW4WWZo5q05VI3"
-      },
-      "artists": [
-        {
-          "name": "Kyary Pamyu Pamyu",
-          "url": "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP"
-        }
-      ],
-      "duration_ms": 165280,
-      "name": "Pang Pang Pang",
-      "url": "https://open.spotify.com/track/17upXStU80To2HOMpCdn8t"
-    },
-    {
-      "added_at": "2026-10-08 16:50:18",
-      "album": {
-        "name": "POPS",
-        "url": "https://open.spotify.com/album/6P9uFbVs2E1DlQwBZufJ5g"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 231946,
-      "name": "\u5171\u72af",
-      "url": "https://open.spotify.com/track/5P3Nmg0jSYfrSKoYonTGan"
+      "duration_ms": 176594,
+      "name": "\u3044\u3044\u3093\u3058\u3083\u306a\u3044",
+      "url": "https://open.spotify.com/track/6hJAJZixE6D1rjreTfBxNm"
     },
     {
       "added_at": "2026-10-08 16:50:18",
@@ -1207,22 +1179,6 @@
       "duration_ms": 255238,
       "name": "DEMON'S SHOT",
       "url": "https://open.spotify.com/track/6NDdZaUIXJfto2riSCDQcQ"
-    },
-    {
-      "added_at": "2026-10-08 16:50:18",
-      "album": {
-        "name": "MERAKI",
-        "url": "https://open.spotify.com/album/02jYu8ctxk4EYep1LQheiW"
-      },
-      "artists": [
-        {
-          "name": "Dannie May",
-          "url": "https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "\u672a\u5b8c\u6210\u5a5a\u59fb\u8ad6",
-      "url": "https://open.spotify.com/track/1AukQSQzdaWtsH8z1wdmTO"
     },
     {
       "added_at": "2026-10-08 16:50:18",
@@ -1259,18 +1215,66 @@
     {
       "added_at": "2026-10-08 16:50:18",
       "album": {
-        "name": "Aigayueni",
-        "url": "https://open.spotify.com/album/1ldFuIpVaM6Gcd8jbpAPmw"
+        "name": "Pang Pang Pang",
+        "url": "https://open.spotify.com/album/0fQWahCafW4WWZo5q05VI3"
       },
       "artists": [
         {
-          "name": "Tsukuyomi",
-          "url": "https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg"
+          "name": "Kyary Pamyu Pamyu",
+          "url": "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP"
         }
       ],
-      "duration_ms": 206866,
-      "name": "Aigayueni",
-      "url": "https://open.spotify.com/track/6Myui5vYzIBsZvkYf1zeIc"
+      "duration_ms": 165280,
+      "name": "Pang Pang Pang",
+      "url": "https://open.spotify.com/track/17upXStU80To2HOMpCdn8t"
+    },
+    {
+      "added_at": "2026-10-08 16:50:18",
+      "album": {
+        "name": "\u7406\u7531",
+        "url": "https://open.spotify.com/album/7srTz4jxPQvkx3C1ynLzKI"
+      },
+      "artists": [
+        {
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "\u7406\u7531",
+      "url": "https://open.spotify.com/track/5F9VvD2KbmlysTNwUptNL9"
+    },
+    {
+      "added_at": "2026-10-08 16:50:18",
+      "album": {
+        "name": "POPS",
+        "url": "https://open.spotify.com/album/6P9uFbVs2E1DlQwBZufJ5g"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 231946,
+      "name": "\u5171\u72af",
+      "url": "https://open.spotify.com/track/5P3Nmg0jSYfrSKoYonTGan"
+    },
+    {
+      "added_at": "2026-10-08 16:50:18",
+      "album": {
+        "name": "\u306f\u3066\u306a",
+        "url": "https://open.spotify.com/album/0RzVcnkmiMuYDN0z1qsdvS"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 229039,
+      "name": "\u30b5\u30fc\u30d3\u30b9\u30a8\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/4x7FxtOoeIAtDU1mTggeOa"
     }
   ],
   "unique_name": "Gacha Pop",

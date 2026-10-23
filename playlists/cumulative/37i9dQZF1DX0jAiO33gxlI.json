@@ -3548,7 +3548,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 146666,
       "name": "Assim que uma gangstar faz 2",
       "url": "https://open.spotify.com/track/2s3w3tH6eC4syjdzIqtOHP"
@@ -9455,6 +9455,28 @@
     },
     {
       "album": {
+        "name": "DA RUA PRO RAIO",
+        "url": "https://open.spotify.com/album/64xZaQJYyWjMq2yRBk3gKG"
+      },
+      "artists": [
+        {
+          "name": "Detentos do Rap",
+          "url": "https://open.spotify.com/artist/7BUfNHoRQsXyJrIP1iIrAI"
+        },
+        {
+          "name": "Mort\u00e3o VMG",
+          "url": "https://open.spotify.com/artist/1Ijcsm5HVSUeUu14C5mzKy"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228495,
+      "name": "DA RUA PRO RAIO",
+      "url": "https://open.spotify.com/track/2MpXq0nbCiJxvpY9UBrO64"
+    },
+    {
+      "album": {
         "name": "Da Zona Norte \u00c0 Zona Sul",
         "url": "https://open.spotify.com/album/6pzhkSTLZ62UfNaQ3qW6EQ"
       },
@@ -9840,6 +9862,28 @@
       "duration_ms": 177214,
       "name": "Deixa Eu Entrar",
       "url": "https://open.spotify.com/track/3qBWX8rZ94T6NDwCkNwTCK"
+    },
+    {
+      "album": {
+        "name": "Substrato 5",
+        "url": "https://open.spotify.com/album/04LVhr3lBd2ApsVKehK8uf"
+      },
+      "artists": [
+        {
+          "name": "DJ Caique",
+          "url": "https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM"
+        },
+        {
+          "name": "Preto P",
+          "url": "https://open.spotify.com/artist/12ceO8Lc0rDPHWplCJANUF"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157245,
+      "name": "Deixa Eu Te Falar",
+      "url": "https://open.spotify.com/track/7e7cRuFwqFvOP0pMtTIq0I"
     },
     {
       "album": {
@@ -12208,6 +12252,28 @@
       "duration_ms": 140952,
       "name": "Endrick",
       "url": "https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY"
+    },
+    {
+      "album": {
+        "name": "Endrick (Remix)",
+        "url": "https://open.spotify.com/album/4bjdC93talmVwjDA4tyuhU"
+      },
+      "artists": [
+        {
+          "name": "Makalister",
+          "url": "https://open.spotify.com/artist/1RoerHIsbQo1h0V8KpznKV"
+        },
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122619,
+      "name": "Endrick (Remix)",
+      "url": "https://open.spotify.com/track/6PTm1GmTNzgHQ0ho9inKyX"
     },
     {
       "album": {
@@ -21872,7 +21938,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 214428,
       "name": "Mili Mili (Orquestra) - Ao Vivo",
       "url": "https://open.spotify.com/track/0gSmXKH2TJKGp0KAqHUajq"
@@ -23084,7 +23150,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 154444,
       "name": "na minha vez o Pel\u00e9 \u00e9 branco",
       "url": "https://open.spotify.com/track/0ssSN4FkXBk5Q0G707BV2g"
@@ -26929,6 +26995,32 @@
     },
     {
       "album": {
+        "name": "Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2bnKp12w3Ehdk6yrtNj41j"
+      },
+      "artists": [
+        {
+          "name": "Samuel Lumin",
+          "url": "https://open.spotify.com/artist/3VIGZmYUG2JADxqdGer6Hu"
+        },
+        {
+          "name": "Vertigo",
+          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
+        },
+        {
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/28v0s2zfFBIvSqDUngbNXu"
+    },
+    {
+      "album": {
         "name": "Jet Lag",
         "url": "https://open.spotify.com/album/488ZRPJek8DfgllUaaHcps"
       },
@@ -27736,7 +27828,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 162811,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/1J5C8XoIZnsz7itBiOAt48"
@@ -31111,6 +31203,24 @@
     },
     {
       "album": {
+        "name": "Hist\u00f3rias para Acordar",
+        "url": "https://open.spotify.com/album/1WkcFsKdI0631piC9ghAAY"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249088,
+      "name": "P\u00c1lavras",
+      "url": "https://open.spotify.com/track/7Mn57ZSJrq5xOMnrxLmSgX"
+    },
+    {
+      "album": {
         "name": "P\u00e1lido Ponto Azul",
         "url": "https://open.spotify.com/album/6kphMjktmEsiP1Lqxn8qZ5"
       },
@@ -32130,7 +32240,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 507750,
       "name": "Rap News: Abril",
       "url": "https://open.spotify.com/track/0jEOm6PuQqPs0ONUUQ5NAx"
@@ -33898,7 +34008,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 148965,
       "name": "SANKARAS",
       "url": "https://open.spotify.com/track/7js0fBSVoBMagLTHqrESoa"
@@ -39026,6 +39136,32 @@
       "duration_ms": 184186,
       "name": "TUDUBOM REC #1 - Minha Cota",
       "url": "https://open.spotify.com/track/3qOo1rIQ2etyhDEeHOy3Pq"
+    },
+    {
+      "album": {
+        "name": "TUDUBOM REC#2 - Tem Que Acreditar",
+        "url": "https://open.spotify.com/album/2LF1pHFl9JyCfWDxTN8JQ8"
+      },
+      "artists": [
+        {
+          "name": "Tudubom",
+          "url": "https://open.spotify.com/artist/0BFpUyhufpi7ztBUfa8bBV"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "TUDUBOM REC#2 - Tem Que Acreditar",
+      "url": "https://open.spotify.com/track/0nur8HMtjuHbVpF4PrgOrC"
     },
     {
       "album": {

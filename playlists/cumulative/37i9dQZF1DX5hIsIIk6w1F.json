@@ -316,7 +316,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 195683,
       "name": "2x1",
       "url": "https://open.spotify.com/track/6xXLOe3aR1iN1UFj9J1Iln"
@@ -4643,6 +4643,32 @@
     },
     {
       "album": {
+        "name": "Comerte Toa",
+        "url": "https://open.spotify.com/album/5dcJcfhZSPTCj5oFcC55j5"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Corredor",
+          "url": "https://open.spotify.com/artist/1YPxccz4sOCJoVRExWRSsZ"
+        },
+        {
+          "name": "Space Records",
+          "url": "https://open.spotify.com/artist/1yMj6p5a1Qfawl5KVeRH5i"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121904,
+      "name": "Comerte Toa",
+      "url": "https://open.spotify.com/track/5JfkS1WVCWpFiH0dF8xOCn"
+    },
+    {
+      "album": {
         "name": "BLACK YAYO, VOL. 2",
         "url": "https://open.spotify.com/album/37ePLUphgdL0n14PgEhgBN"
       },
@@ -5104,6 +5130,24 @@
       "duration_ms": 161719,
       "name": "Corte Alpacino",
       "url": "https://open.spotify.com/track/7f9LWgHBwe6zsE2DuV5e3N"
+    },
+    {
+      "album": {
+        "name": "Corte Estelar",
+        "url": "https://open.spotify.com/album/7z6mFzlSyODD1NKztPGG5z"
+      },
+      "artists": [
+        {
+          "name": "benjitalkapone",
+          "url": "https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120835,
+      "name": "Corte Estelar",
+      "url": "https://open.spotify.com/track/2iUq7EBaMQuKvAsClyivea"
     },
     {
       "album": {
@@ -7677,6 +7721,28 @@
     },
     {
       "album": {
+        "name": "En Mi Alcoba",
+        "url": "https://open.spotify.com/album/2gPRFlZg3Dw8xTn9U9wlD1"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188131,
+      "name": "En Mi Alcoba",
+      "url": "https://open.spotify.com/track/1ZINYFPUu5k5ghVQ4p3xOM"
+    },
+    {
+      "album": {
         "name": "En Mi Sue\u00f1o",
         "url": "https://open.spotify.com/album/6PAk7gN1RevuoJJePiv9jW"
       },
@@ -7740,7 +7806,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 156345,
       "name": "En que topamo?",
       "url": "https://open.spotify.com/track/66yq3d8qMMhYzi9h53wQ5B"
@@ -13100,6 +13166,24 @@
       "duration_ms": 376800,
       "name": "Mala - Remix",
       "url": "https://open.spotify.com/track/3NGz425CwwkO29Ku8agLdN"
+    },
+    {
+      "album": {
+        "name": "Mala Fama",
+        "url": "https://open.spotify.com/album/649ocq4LeK4j59xjuDs3D0"
+      },
+      "artists": [
+        {
+          "name": "Jossie A",
+          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144545,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/5Fo4nli9U2lzwr1hnKahrT"
     },
     {
       "album": {
@@ -22150,7 +22234,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 158480,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
@@ -24506,7 +24590,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 158350,
       "name": "TODO KE VER",
       "url": "https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy"

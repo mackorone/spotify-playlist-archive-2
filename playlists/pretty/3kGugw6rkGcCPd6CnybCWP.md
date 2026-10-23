@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,159 likes - 84 songs - 4 hr 48 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,159 likes - 88 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,5 +92,9 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 82 | [long road](https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [long road](https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP) | 3:35 |
 | 83 | [Take Me Home](https://open.spotify.com/track/08R1wbrcqxX6Bp1rZR1XYQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Take Me Home](https://open.spotify.com/album/4MT3COGlI2gH0r37eK25g3) | 3:16 |
 | 84 | [Refuge](https://open.spotify.com/track/2TX3czDFjIY3Vh6qdVSwKg) | [Jfarrari](https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc) | [Fear of Isolation](https://open.spotify.com/album/0LoLbU30mKbb1CgNMQ3Tvy) | 2:32 |
+| 85 | [Generation of Tomorrow](https://open.spotify.com/track/6iON9qgc8aQFz3RZhh9XWZ) | [Full Throttle](https://open.spotify.com/artist/763PYfFXFMsKSi1gfNXodo), [Cone McCaslin](https://open.spotify.com/artist/3jBXYPArFNm1EVyKkwvbcZ) | [Generation Of Tomorrow](https://open.spotify.com/album/15jgwzg3KzqmATg6XA6WfV) | 3:01 |
+| 86 | [Everything's Gonna Be Alright](https://open.spotify.com/track/47XL1VF5cVwppq82wLVTrV) | [Moon Date](https://open.spotify.com/artist/7vGCqLKfI5izQkJSa4aRCh) | [Everything's Gonna Be Alright](https://open.spotify.com/album/203Yzx47gvCPrerlLxZUhb) | 4:15 |
+| 87 | [Hell Has a Garden with Angels](https://open.spotify.com/track/4qM7VTi6CpgP04QhOcdObD) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 2:46 |
+| 88 | [ANOTHER LIFE](https://open.spotify.com/track/1GW9wygil2jJKDdiYJ3PCR) | [ANIQO](https://open.spotify.com/artist/3q7baflM8Rtj29ckEnKAgB) | [ANOTHER LIFE](https://open.spotify.com/album/3AnunbIHnDq8C2fpzd9guG) | 5:42 |
 
-Snapshot ID: `AAAQOJRv8W/rN0Koccd943z4O8vUjpH/`
+Snapshot ID: `AAAQPEJ/u/VNklFEXGZppkvOJ7Z0BdBi`

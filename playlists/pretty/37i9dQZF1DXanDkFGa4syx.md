@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanDkFGa4syx.md) - [plain]
 
 > ik wil terug naar toen...
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,877 likes - 200 songs - 12 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,861 likes - 200 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

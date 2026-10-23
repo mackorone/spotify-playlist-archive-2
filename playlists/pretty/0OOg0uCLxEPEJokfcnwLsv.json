@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1405,
+  "num_followers": 1412,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAHQGFhmIcdOdavBBelXu69ydh+S+Cz",
+  "snapshot_id": "AAAHQyFPSBlgFe7zS4+9bv6skV+sxMD8",
   "tracks": [
     {
       "added_at": "2026-08-18 04:07:14",
@@ -875,6 +875,58 @@
       "duration_ms": 194378,
       "name": "November Shadows",
       "url": "https://open.spotify.com/track/04wmlqCv6iZRQz6uEY58GR"
+    },
+    {
+      "added_at": "2026-10-22 22:17:34",
+      "album": {
+        "name": "Jeckyll&Hyde",
+        "url": "https://open.spotify.com/album/0TOuh8yFNSjYmtNsSdkY6v"
+      },
+      "artists": [
+        {
+          "name": "Ginny Ranger",
+          "url": "https://open.spotify.com/artist/1d7M7OfoBCzXOyS8JlDHfo"
+        },
+        {
+          "name": "The Re-A-Rangers",
+          "url": "https://open.spotify.com/artist/2PF7IsaFN7iPAA3FI0QLGn"
+        }
+      ],
+      "duration_ms": 213761,
+      "name": "Jeckyll&Hyde",
+      "url": "https://open.spotify.com/track/0PFaJMLO16M6mvaXmCqL7c"
+    },
+    {
+      "added_at": "2026-10-22 22:21:56",
+      "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/64HM2fKH4wtLimUq6bz4kI"
+      },
+      "artists": [
+        {
+          "name": "English Budgies",
+          "url": "https://open.spotify.com/artist/3iokGJkvqXeARdkndKZbuR"
+        }
+      ],
+      "duration_ms": 149860,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/18xRCY2rI66SvQZSLxHBlL"
+    },
+    {
+      "added_at": "2026-10-22 22:26:04",
+      "album": {
+        "name": "Bummer",
+        "url": "https://open.spotify.com/album/446bKk4pXnkNFOgpXIQmcI"
+      },
+      "artists": [
+        {
+          "name": "the dt's",
+          "url": "https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t"
+        }
+      ],
+      "duration_ms": 269639,
+      "name": "Bummer",
+      "url": "https://open.spotify.com/track/1GxYnDuvyqYgCcEpA04Eaj"
     }
   ],
   "unique_name": "Unsigned Rock",

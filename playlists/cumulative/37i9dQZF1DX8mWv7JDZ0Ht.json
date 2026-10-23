@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Fran Gil",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Clau",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -3663,6 +3663,28 @@
     },
     {
       "album": {
+        "name": "Clau (Live Forno Session)",
+        "url": "https://open.spotify.com/album/2AWtUfPm4zKsMBCnYOKZvE"
+      },
+      "artists": [
+        {
+          "name": "Forno Session",
+          "url": "https://open.spotify.com/artist/0vIjx3YgE7W7AJGHkM7kNa"
+        },
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225267,
+      "name": "Cigana - Live Forno Session",
+      "url": "https://open.spotify.com/track/60mB0tUVE7Z5x2u3Q172ib"
+    },
+    {
+      "album": {
         "name": "FESTA",
         "url": "https://open.spotify.com/album/6nmgQuG4dzK2Y3lV7uPZeA"
       },
@@ -3878,7 +3900,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 192050,
       "name": "Coisas da Vida",
       "url": "https://open.spotify.com/track/6Ur3mHqLvFKMAvQJJaylKh"

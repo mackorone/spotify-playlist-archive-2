@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,057 likes - 150 songs - 15 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,068 likes - 150 songs - 15 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 113 | [Za Sta Pashan Na Yam](https://open.spotify.com/track/1OARBt5sueOaX2WxGAY31Y) | [Naseer And Shahab](https://open.spotify.com/artist/5BH8REGzkVORLsxRNHWCyj) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:07 |
 | 114 | [Chup](https://open.spotify.com/track/35dDfPlOPtSet14zZRf9Qj) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 4:52 |
 | 115 | [Mitti da Pehlwan](https://open.spotify.com/track/0pk5DWubSTHJHAOAObtVlX) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:33 |
-| 116 | [Yaadein](https://open.spotify.com/track/4P0rG429MWmORxTJnwamlG) | [Karavan](https://open.spotify.com/artist/0Lhup66w8pghI27mmMDeUk), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 4:01 |
-| 117 | [Aj Latha Naeeo \(Extended Version\) \[Bonus Track\]](https://open.spotify.com/track/7r1aid07OpKUkUd5Zy2tID) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 10:04 |
+| 116 | [Aj Latha Naeeo \(Extended Version\) \[Bonus Track\]](https://open.spotify.com/track/7r1aid07OpKUkUd5Zy2tID) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 10:04 |
+| 117 | [Yaadein](https://open.spotify.com/track/4P0rG429MWmORxTJnwamlG) | [Karavan](https://open.spotify.com/artist/0Lhup66w8pghI27mmMDeUk), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 4:01 |
 | 118 | [Moomal Rano](https://open.spotify.com/track/6HbWfTKEq2dYVNV41EgBG3) | [Fakir Juman Shah](https://open.spotify.com/artist/0KiBPO4xSkckq5ZKL4QH9q), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 6:39 |
 | 119 | [Na Raindee Hai](https://open.spotify.com/track/0pftCayPrMmj0fr9nJy8Ke) | [Arieb Azhar](https://open.spotify.com/artist/0IuKvmIDo3KrY937MVh08P), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 5:27 |
 | 120 | [Descent to the Ocean Floor](https://open.spotify.com/track/24pKhfuDivcvk8ZEDAsPA0) | [Usman Riaz](https://open.spotify.com/artist/52ua72K0vOhSHquqITmoNU) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 4:10 |

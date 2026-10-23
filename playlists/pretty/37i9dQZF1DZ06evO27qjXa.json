@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Go!. The essential tracks, all in one playlist.",
-  "num_followers": 39865,
+  "num_followers": 39927,
   "original_name": "This Is Danny Go!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAABCBbvF46qfigN0iLGwl+KN",
+  "snapshot_id": "atavAAAAAAA5DY0UeSrLo7hLDL4dLtQ2",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wiggle Dance",
-        "url": "https://open.spotify.com/album/5cVUlWoP7MsItP5DoYfdyQ"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 184868,
-      "name": "The Wiggle Dance",
-      "url": "https://open.spotify.com/track/57qfCDMbmBzWHuVk3A9Iir"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burning Energy!",
         "url": "https://open.spotify.com/album/59K3YaAwxti0OT65SChvno"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 264548,
       "name": "Burning Energy!",
       "url": "https://open.spotify.com/track/4eDJcUYFwbeLMrVCCCauux"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wiggle Dance",
+        "url": "https://open.spotify.com/album/5cVUlWoP7MsItP5DoYfdyQ"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 184868,
+      "name": "The Wiggle Dance",
+      "url": "https://open.spotify.com/track/57qfCDMbmBzWHuVk3A9Iir"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire & Ice Freeze Dance",
-        "url": "https://open.spotify.com/album/5WnNucbVmWXSsKRYwDQWbs"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 216049,
-      "name": "Fire & Ice Freeze Dance",
-      "url": "https://open.spotify.com/track/3SH9M9yL2uX10ma5EcORXP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bat Wing Beat",
         "url": "https://open.spotify.com/album/48DBQhK2EEFB6cddf9DRVO"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 229028,
       "name": "The Bat Wing Beat",
       "url": "https://open.spotify.com/track/1fFZ0TRXThCKcVCJx5LLrf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire & Ice Freeze Dance",
+        "url": "https://open.spotify.com/album/5WnNucbVmWXSsKRYwDQWbs"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 216049,
+      "name": "Fire & Ice Freeze Dance",
+      "url": "https://open.spotify.com/track/3SH9M9yL2uX10ma5EcORXP"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Airplane Mode!",
-        "url": "https://open.spotify.com/album/2ReW0UXS7OOEysEAUxuzxL"
+        "name": "The Stomp Clap Dance Song",
+        "url": "https://open.spotify.com/album/1NzvQktWfTgwVCVE71VhaK"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 224557,
-      "name": "Airplane Mode!",
-      "url": "https://open.spotify.com/track/3SiijksKZyytWUhHftvctc"
+      "duration_ms": 227500,
+      "name": "The Stomp Clap Dance Song",
+      "url": "https://open.spotify.com/track/6eUC9FU6VauzxWN7sv7CgD"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Stomp Clap Dance Song",
-        "url": "https://open.spotify.com/album/1NzvQktWfTgwVCVE71VhaK"
+        "name": "Airplane Mode!",
+        "url": "https://open.spotify.com/album/2ReW0UXS7OOEysEAUxuzxL"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 227500,
-      "name": "The Stomp Clap Dance Song",
-      "url": "https://open.spotify.com/track/6eUC9FU6VauzxWN7sv7CgD"
+      "duration_ms": 224557,
+      "name": "Airplane Mode!",
+      "url": "https://open.spotify.com/track/3SiijksKZyytWUhHftvctc"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drive Drive Vehicle Dance",
-        "url": "https://open.spotify.com/album/70eYeeYN9cYHSYKoMxLzaY"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 197057,
-      "name": "Drive Drive Vehicle Dance",
-      "url": "https://open.spotify.com/track/6W1pb7YKtRIkcgSuvC7Pyb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Monkey Dance",
         "url": "https://open.spotify.com/album/5IHb5jK2ej5WRvL88hfVs9"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 142168,
       "name": "The Monkey Dance",
       "url": "https://open.spotify.com/track/2CqFULRDTD6TGRTgEpEOxI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drive Drive Vehicle Dance",
+        "url": "https://open.spotify.com/album/70eYeeYN9cYHSYKoMxLzaY"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 197057,
+      "name": "Drive Drive Vehicle Dance",
+      "url": "https://open.spotify.com/track/6W1pb7YKtRIkcgSuvC7Pyb"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Skeleton Shake",
+        "url": "https://open.spotify.com/album/2qli6dz1uCBAj1IeU3KMu5"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 217103,
+      "name": "The Skeleton Shake",
+      "url": "https://open.spotify.com/track/0c6Ljz58jgF8X4FPAN544F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Floor is Quicksand (Pyramid Adventure)",
         "url": "https://open.spotify.com/album/4I8uTjGJhiMRPgyEMGGu1n"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Stop Digging",
-        "url": "https://open.spotify.com/album/7eKVI4vDBcufHLJer1yyxy"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 245411,
-      "name": "Don't Stop Digging",
-      "url": "https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burning Energy!",
         "url": "https://open.spotify.com/album/59K3YaAwxti0OT65SChvno"
       },
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Skeleton Shake",
-        "url": "https://open.spotify.com/album/2qli6dz1uCBAj1IeU3KMu5"
+        "name": "Don't Stop Digging",
+        "url": "https://open.spotify.com/album/7eKVI4vDBcufHLJer1yyxy"
       },
       "artists": [
         {
@@ -740,25 +740,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 217103,
-      "name": "The Skeleton Shake",
-      "url": "https://open.spotify.com/track/0c6Ljz58jgF8X4FPAN544F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rabbit Turtle Rodeo",
-        "url": "https://open.spotify.com/album/3wHiRt7X5R2o2JnHXf1xAV"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 238871,
-      "name": "Rabbit Turtle Rodeo",
-      "url": "https://open.spotify.com/track/4q0MbjZR7Aagh3IEEzCsxN"
+      "duration_ms": 245411,
+      "name": "Don't Stop Digging",
+      "url": "https://open.spotify.com/track/579J2fVS6Lw3ThTRrdSmnh"
     },
     {
       "added_at": null,
@@ -779,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Cat",
-        "url": "https://open.spotify.com/album/7khTtFbmq7o0y1hrydp7VB"
+        "name": "Rabbit Turtle Rodeo",
+        "url": "https://open.spotify.com/album/3wHiRt7X5R2o2JnHXf1xAV"
       },
       "artists": [
         {
@@ -788,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
         }
       ],
-      "duration_ms": 194700,
-      "name": "Little Cat",
-      "url": "https://open.spotify.com/track/0DAtPFHyXrKNhqnHqbh5hN"
+      "duration_ms": 238871,
+      "name": "Rabbit Turtle Rodeo",
+      "url": "https://open.spotify.com/track/4q0MbjZR7Aagh3IEEzCsxN"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 286019,
       "name": "Grocery Store DASH! - Swipe and Scan",
       "url": "https://open.spotify.com/track/2ld6GcwMToKi6NpSA4urQF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Cat",
+        "url": "https://open.spotify.com/album/7khTtFbmq7o0y1hrydp7VB"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 194700,
+      "name": "Little Cat",
+      "url": "https://open.spotify.com/track/0DAtPFHyXrKNhqnHqbh5hN"
     }
   ],
   "unique_name": "This Is Danny Go!",

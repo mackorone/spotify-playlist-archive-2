@@ -21407,6 +21407,24 @@
     },
     {
       "album": {
+        "name": "swagsonic",
+        "url": "https://open.spotify.com/album/7F9SLZUJtPYfNMoTNT4XHu"
+      },
+      "artists": [
+        {
+          "name": "Zen Univrse",
+          "url": "https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122226,
+      "name": "swagsonic",
+      "url": "https://open.spotify.com/track/7zDHXibZ29xCOGsJgMJ9C9"
+    },
+    {
+      "album": {
         "name": "Swear, I Tried",
         "url": "https://open.spotify.com/album/5z5GhsGANxjU9jVoCrBR8W"
       },
@@ -22636,7 +22654,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 113776,
       "name": "TRABAYE",
       "url": "https://open.spotify.com/track/3w3oJEFGDUDHQ0tM6M5SWS"

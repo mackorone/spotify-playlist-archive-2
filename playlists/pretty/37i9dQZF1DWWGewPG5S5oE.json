@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: Shingo Suzuki",
-  "num_followers": 51315,
+  "num_followers": 51324,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "Trionfi",
+        "url": "https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ"
+      },
+      "artists": [
+        {
+          "name": "\u8349\u7530\u4e00\u99ff",
+          "url": "https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh"
+        }
+      ],
+      "duration_ms": 446882,
+      "name": "Stargazer",
+      "url": "https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/6CL2SL0en6wpiUTRBhtslD"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 246250,
       "name": "LUPIN THE 3RD '78\uff08\u30eb\u30d1\u30f3\u4e09\u4e16\u306e\u30c6\u30fc\u30de\u2019\uff17\uff18\uff09",
       "url": "https://open.spotify.com/track/3gwuI3dcmEs9oomvtDrqU5"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "Trionfi",
-        "url": "https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ"
-      },
-      "artists": [
-        {
-          "name": "\u8349\u7530\u4e00\u99ff",
-          "url": "https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh"
-        }
-      ],
-      "duration_ms": 446882,
-      "name": "Stargazer",
-      "url": "https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "Lifescape",
+        "url": "https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL"
+      },
+      "artists": [
+        {
+          "name": "Taka Nawashiro",
+          "url": "https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c"
+        }
+      ],
+      "duration_ms": 307186,
+      "name": "Kobune",
+      "url": "https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "My Samba (feat. Skaai)",
         "url": "https://open.spotify.com/album/53Y6SKRMpcTFjHDavqEyV6"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 195000,
       "name": "My Samba (feat. Skaai)",
       "url": "https://open.spotify.com/track/22vlyrI5cI6bnyCg2suFFs"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "Lifescape",
-        "url": "https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL"
-      },
-      "artists": [
-        {
-          "name": "Taka Nawashiro",
-          "url": "https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c"
-        }
-      ],
-      "duration_ms": 307186,
-      "name": "Kobune",
-      "url": "https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
-        "name": "Serenade",
-        "url": "https://open.spotify.com/album/6SZzZyniZk9pAT53fV7110"
-      },
-      "artists": [
-        {
-          "name": "epice",
-          "url": "https://open.spotify.com/artist/2f6reHCYI5amWOdl5sIPBy"
-        }
-      ],
-      "duration_ms": 604607,
-      "name": "Serenade",
-      "url": "https://open.spotify.com/track/7LDzhQDvT8HcGw1faHEBBU"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
         "name": "Danse Macabre",
         "url": "https://open.spotify.com/album/32snEbymf2b2ZwqVAYT1oG"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 263061,
       "name": "Missing My Bird - 2024 Ver.",
       "url": "https://open.spotify.com/track/1QHKFt9PK3EgZB8PYaeYhk"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
+        "name": "Serenade",
+        "url": "https://open.spotify.com/album/6SZzZyniZk9pAT53fV7110"
+      },
+      "artists": [
+        {
+          "name": "epice",
+          "url": "https://open.spotify.com/artist/2f6reHCYI5amWOdl5sIPBy"
+        }
+      ],
+      "duration_ms": 604607,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/7LDzhQDvT8HcGw1faHEBBU"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "GEMINI:zed",
+        "url": "https://open.spotify.com/album/6nn4X6TskpT7DT1JMuLvHh"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/18xs07gssFmMSrpEJCJ8MD"
+        }
+      ],
+      "duration_ms": 387428,
+      "name": "Kind of Green",
+      "url": "https://open.spotify.com/track/01uo0AI05inhNsuMDyHFs7"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "Buchi (feat.\u5225\u6240\u548c\u6d0b)",
         "url": "https://open.spotify.com/album/5L3fJdGwv2XVXsz31QndKG"
       },
@@ -2207,22 +2223,6 @@
       "duration_ms": 438436,
       "name": "Buchi - feat.\u5225\u6240\u548c\u6d0b",
       "url": "https://open.spotify.com/track/2ZyDtFxe3qAnyQzu14dGFa"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "GEMINI:zed",
-        "url": "https://open.spotify.com/album/6nn4X6TskpT7DT1JMuLvHh"
-      },
-      "artists": [
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/18xs07gssFmMSrpEJCJ8MD"
-        }
-      ],
-      "duration_ms": 387428,
-      "name": "Kind of Green",
-      "url": "https://open.spotify.com/track/01uo0AI05inhNsuMDyHFs7"
     },
     {
       "added_at": "2026-09-15 15:00:14",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2026-09-15 15:00:14",
       "album": {
+        "name": "Everflowing Time and Tide",
+        "url": "https://open.spotify.com/album/1kOZ7ZddQgnlsnfvOrGIkt"
+      },
+      "artists": [
+        {
+          "name": "\u304a\u304c\u308f\u3082\u307f\u3058",
+          "url": "https://open.spotify.com/artist/6FWtbiVsdaF2SFBLSW92ZB"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Everflowing Time and Tide",
+      "url": "https://open.spotify.com/track/52oPEOLiSwtiiYBsCf4R9w"
+    },
+    {
+      "added_at": "2026-09-15 15:00:14",
+      "album": {
         "name": "\u30b7\u30e3\u30de\u30ea\u30e2\u30b2 (feat.\u5225\u6240\u548c\u6d0b)",
         "url": "https://open.spotify.com/album/4ph6doua3CAx66BEGma7yA"
       },
@@ -2291,22 +2307,6 @@
       "duration_ms": 313649,
       "name": "\u30b7\u30e3\u30de\u30ea\u30e2\u30b2 - feat.\u5225\u6240\u548c\u6d0b",
       "url": "https://open.spotify.com/track/42911JXZa7A8c3tl7yoqfz"
-    },
-    {
-      "added_at": "2026-09-15 15:00:14",
-      "album": {
-        "name": "Everflowing Time and Tide",
-        "url": "https://open.spotify.com/album/1kOZ7ZddQgnlsnfvOrGIkt"
-      },
-      "artists": [
-        {
-          "name": "\u304a\u304c\u308f\u3082\u307f\u3058",
-          "url": "https://open.spotify.com/artist/6FWtbiVsdaF2SFBLSW92ZB"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Everflowing Time and Tide",
-      "url": "https://open.spotify.com/track/52oPEOLiSwtiiYBsCf4R9w"
     },
     {
       "added_at": "2026-09-15 15:00:14",

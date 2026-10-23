@@ -569,6 +569,28 @@
     },
     {
       "album": {
+        "name": "Lo M\u00e1s Escuchado",
+        "url": "https://open.spotify.com/album/7rKmcbtCZYqrjmSSYh4N85"
+      },
+      "artists": [
+        {
+          "name": "Los Bohemios de Sinaloa",
+          "url": "https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7"
+        },
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246256,
+      "name": "Entre Pl\u00e1ticas y Dudas",
+      "url": "https://open.spotify.com/track/4dZ0x9E1lw6hdcBZco81vQ"
+    },
+    {
+      "album": {
         "name": "Hablemos",
         "url": "https://open.spotify.com/album/6WyQHTgezEoaJjhpkmmjnD"
       },

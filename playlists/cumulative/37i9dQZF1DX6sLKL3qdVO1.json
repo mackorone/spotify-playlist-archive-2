@@ -20645,6 +20645,32 @@
     },
     {
       "album": {
+        "name": "GTA (Gotay The Autentiko), Vol. 2",
+        "url": "https://open.spotify.com/album/0Y8PV5mFjtHxj3APbYNMMS"
+      },
+      "artists": [
+        {
+          "name": "Gotay \"El Autentiko\"",
+          "url": "https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220992,
+      "name": "Te Pill\u00e9",
+      "url": "https://open.spotify.com/track/0TMjAOcT5HXu83slPosFfd"
+    },
+    {
+      "album": {
         "name": "TE PUSISTE RIKA",
         "url": "https://open.spotify.com/album/1Zoffenney6GiazwagbHEg"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-11",
-  "description": "Smooth indie jazz joints from around the globe. Cover: WILLOW",
+  "description": "Smooth indie jazz joints from around the globe. Cover: tickertape",
   "name": "Rarities",
   "tracks": [
     {
@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/2L0zHcPlJIDuWxIb4TpzPo"
+      },
+      "artists": [
+        {
+          "name": "Karate Boogaloo",
+          "url": "https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264286,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2jRuUChGxEIDoRgGsOwe16"
+    },
+    {
+      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/5sD3YHYwddNakfaWUgxDoO"
       },
@@ -1290,6 +1308,24 @@
       "duration_ms": 125867,
       "name": "Coyote, You're My Star",
       "url": "https://open.spotify.com/track/2tZ4GQajl2yetk2EA8SvMW"
+    },
+    {
+      "album": {
+        "name": "False Start",
+        "url": "https://open.spotify.com/album/33nc9qwpGnza77qfzq3Ky3"
+      },
+      "artists": [
+        {
+          "name": "tickertape",
+          "url": "https://open.spotify.com/artist/2aXOm3ef1Xel4vNYKCRWdS"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263389,
+      "name": "Crocodile Song",
+      "url": "https://open.spotify.com/track/0RIh565Ij5Q81E6fLsmGiL"
     },
     {
       "album": {
@@ -1664,7 +1700,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 357709,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/4ilcgmelP0B7j6OXVj6XyL"
@@ -1802,7 +1838,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 524026,
       "name": "Earth 3",
       "url": "https://open.spotify.com/track/2jrk19KUMcGxTeqsJAC8Nx"
@@ -1956,7 +1992,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 307500,
       "name": "Emerge (For Sarah)",
       "url": "https://open.spotify.com/track/5Xo4uNxFINswfad0bMQHrt"
@@ -2080,7 +2116,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 246853,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
@@ -2392,7 +2428,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 247800,
       "name": "Frisco Blues",
       "url": "https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV"
@@ -2454,7 +2490,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 195918,
       "name": "Ghost of Your Life",
       "url": "https://open.spotify.com/track/5RUISLZ3c6OvdQlg0fDSMb"
@@ -2476,6 +2512,24 @@
       "duration_ms": 197095,
       "name": "Girls Night",
       "url": "https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7KpggmygPobWy0ElLIDyAL"
+      },
+      "artists": [
+        {
+          "name": "Sahara Moon",
+          "url": "https://open.spotify.com/artist/5RUp8dOgNYNeLXIm3mhEiS"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264084,
+      "name": "Gold Star",
+      "url": "https://open.spotify.com/track/2lx8Sw3aZrn3EoW4Eslq5f"
     },
     {
       "album": {
@@ -2847,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "Va Va Voom",
+        "url": "https://open.spotify.com/album/2vgsOwnFTQyJRbLLnt3xEJ"
+      },
+      "artists": [
+        {
+          "name": "John Roseboro",
+          "url": "https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193250,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/5w0RPpt5MYEx931T1JzkpH"
+    },
+    {
+      "album": {
         "name": "I don't care",
         "url": "https://open.spotify.com/album/4upGioZ1LMIrDblMfEUIlu"
       },
@@ -2920,7 +2992,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 191120,
       "name": "I Look for You",
       "url": "https://open.spotify.com/track/3bfPZagJDhGPzmUJiX19VU"
@@ -3348,6 +3420,24 @@
       "duration_ms": 179504,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc"
+    },
+    {
+      "album": {
+        "name": "Kenny's Beach",
+        "url": "https://open.spotify.com/album/4tc8UTzjRMd8IVaVwr9NWC"
+      },
+      "artists": [
+        {
+          "name": "The Sweet Enoughs",
+          "url": "https://open.spotify.com/artist/04nWjOBHWrVkvyjK4PXRNy"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265853,
+      "name": "Kenny's Beach",
+      "url": "https://open.spotify.com/track/3NdWFGJ5DhNQafLvkX8KPL"
     },
     {
       "album": {
@@ -4362,7 +4452,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 211467,
       "name": "off rhythm laughter",
       "url": "https://open.spotify.com/track/0fkQhqblpnW60SS0mYUHbn"
@@ -4543,6 +4633,24 @@
     },
     {
       "album": {
+        "name": "Inside Voice / Outside Voice",
+        "url": "https://open.spotify.com/album/0Laic2hSl2CWcOxEBF7ADd"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256071,
+      "name": "Outside Voice",
+      "url": "https://open.spotify.com/track/4R8nHxIzOBHIGAGianJjUF"
+    },
+    {
+      "album": {
         "name": "Friendship EP",
         "url": "https://open.spotify.com/album/3lKPrjciOT5snjX4nLOyit"
       },
@@ -4558,6 +4666,24 @@
       "duration_ms": 212113,
       "name": "Over The Moon",
       "url": "https://open.spotify.com/track/5asQpx4UqHbWOYBNP375Qv"
+    },
+    {
+      "album": {
+        "name": "Paddlin' Pool",
+        "url": "https://open.spotify.com/album/2fVBm04aHdDgMKU1dieAIx"
+      },
+      "artists": [
+        {
+          "name": "Let Your Hair Down",
+          "url": "https://open.spotify.com/artist/2gNCOsrLPLraReGsXiBgtE"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266281,
+      "name": "Paddlin' Pool",
+      "url": "https://open.spotify.com/track/7BGtO4kc15c7VMiGIcvBvw"
     },
     {
       "album": {
@@ -5894,7 +6020,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 178666,
       "name": "Stop Calling",
       "url": "https://open.spotify.com/track/2xLEDO5wt8DunoSq2lJSKK"
@@ -6043,6 +6169,28 @@
     },
     {
       "album": {
+        "name": "the Sound of Art",
+        "url": "https://open.spotify.com/album/7Mit6sJO0PT3XtICMqtTko"
+      },
+      "artists": [
+        {
+          "name": "Ferdi",
+          "url": "https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd"
+        },
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345685,
+      "name": "Surya",
+      "url": "https://open.spotify.com/track/2IQZJUcLTe6CcTZ4Ek6YI5"
+    },
+    {
+      "album": {
         "name": "Get The Message",
         "url": "https://open.spotify.com/album/2lBblu7sNDW7voZtOL9GAd"
       },
@@ -6170,7 +6318,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 231560,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/7AvuIMRKdo5RvS6YIzXjsj"
@@ -6196,6 +6344,24 @@
       "duration_ms": 212386,
       "name": "Tenere Den",
       "url": "https://open.spotify.com/track/7ytOQ3MLqno1gpctggPRTU"
+    },
+    {
+      "album": {
+        "name": "Above the Clouds",
+        "url": "https://open.spotify.com/album/6IT3XFem0qpEue9Q6kXOP3"
+      },
+      "artists": [
+        {
+          "name": "Resavoir",
+          "url": "https://open.spotify.com/artist/4Sl3fpSDeo9cMb3ouKm0rV"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85937,
+      "name": "Terrarium",
+      "url": "https://open.spotify.com/track/6Z7GmNPdIPkl5afh2e0EwS"
     },
     {
       "album": {
@@ -6587,6 +6753,28 @@
     },
     {
       "album": {
+        "name": "Toes and Rings",
+        "url": "https://open.spotify.com/album/3ZdCtR1Dc6hyg7zgVWpeWB"
+      },
+      "artists": [
+        {
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111371,
+      "name": "Toes and Rings",
+      "url": "https://open.spotify.com/track/3RrJeC128ATz5XKCGxbn3U"
+    },
+    {
+      "album": {
         "name": "Token",
         "url": "https://open.spotify.com/album/567iBpYnPXWL9Z1J6JYZwt"
       },
@@ -6722,6 +6910,24 @@
       "duration_ms": 196756,
       "name": "Touch\u00e9",
       "url": "https://open.spotify.com/track/6KRYD0KvEaWwO8K94zqwFN"
+    },
+    {
+      "album": {
+        "name": "Frogs In A Pond",
+        "url": "https://open.spotify.com/album/2eRC4iLJJHPgq7y5QdcV5E"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/1AvaZrD67C2LSvQyvlb5en"
     },
     {
       "album": {
@@ -6918,7 +7124,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 202415,
       "name": "Verrans Corner",
       "url": "https://open.spotify.com/track/124LPhcSC3OmmCKANCoCJZ"

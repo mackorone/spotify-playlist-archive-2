@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 229733,
       "name": "Anton aus Tirol",
       "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
@@ -1133,6 +1133,32 @@
     },
     {
       "album": {
+        "name": "Cheerio",
+        "url": "https://open.spotify.com/album/00lyIIAi6WKC8dQ1XT6JUy"
+      },
+      "artists": [
+        {
+          "name": "Vincent Gross",
+          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
+        },
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        },
+        {
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139827,
+      "name": "Cheerio",
+      "url": "https://open.spotify.com/track/2kTnzBfvEaGW5mgRIGbzLq"
+    },
+    {
+      "album": {
         "name": "Chef leck Eier",
         "url": "https://open.spotify.com/album/6A2YmDPRI7QjcHyoqeWAjU"
       },
@@ -1772,7 +1798,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 121000,
       "name": "Erwischt",
       "url": "https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI"
@@ -3043,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "KALTE ZELLE POLIZEIREVIER",
+        "url": "https://open.spotify.com/album/4Sj6BLME1OVt7O0xVqUO2j"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144562,
+      "name": "KALTE ZELLE POLIZEIREVIER",
+      "url": "https://open.spotify.com/track/2m3pZTOBR6NeDUJYpB3pEH"
+    },
+    {
+      "album": {
         "name": "Karnevalsmaus",
         "url": "https://open.spotify.com/album/3P7BTUakbhneeNQd7RLA1K"
       },
@@ -3666,7 +3710,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 146891,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/2Sq3FXXgA3GV3RCPfsRqzH"
@@ -4231,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "OKF (Ortskontrollfahrt)",
+        "url": "https://open.spotify.com/album/4dJ0Asc3tgmFqVRJN6MNbL"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141093,
+      "name": "OKF (Ortskontrollfahrt)",
+      "url": "https://open.spotify.com/track/2WE1LWkosjszxgHGQ3wbpg"
+    },
+    {
+      "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
       },
@@ -4528,7 +4590,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 226133,
       "name": "Regenbogenfarben",
       "url": "https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD"
@@ -4798,6 +4860,24 @@
       "duration_ms": 164103,
       "name": "Schei\u00dfegal, ich feier - Radio Edit",
       "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
+    },
+    {
+      "album": {
+        "name": "Schere Stein Papier",
+        "url": "https://open.spotify.com/album/1mGv09ZjzDB1vov0mA8vbf"
+      },
+      "artists": [
+        {
+          "name": "Gro\u00dfstadtEngel",
+          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153538,
+      "name": "Schere Stein Papier",
+      "url": "https://open.spotify.com/track/5WdXj11Fq9nfAM8HlzhFHX"
     },
     {
       "album": {

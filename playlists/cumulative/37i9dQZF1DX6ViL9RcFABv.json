@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 168505,
       "name": "10MIN \u2206",
       "url": "https://open.spotify.com/track/0ciIldffIACGFzaQ8PuQ6t"
@@ -636,6 +636,28 @@
       "duration_ms": 199477,
       "name": "Amor",
       "url": "https://open.spotify.com/track/5C8UWDYFCKFK6sDPmcJQHm"
+    },
+    {
+      "album": {
+        "name": "Amor Acabou",
+        "url": "https://open.spotify.com/album/5NBb9gd7twMk2ZarIQLPkf"
+      },
+      "artists": [
+        {
+          "name": "Mastiksoul",
+          "url": "https://open.spotify.com/artist/3pnuQEuaodUTHoX0AEsw1h"
+        },
+        {
+          "name": "F\u00e1bia Rebord\u00e3o",
+          "url": "https://open.spotify.com/artist/69pyHop8tJeAxGZDxDYFr8"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196200,
+      "name": "Amor Acabou",
+      "url": "https://open.spotify.com/track/0Iuy7e2ZKNdqGr6QjjJHJ6"
     },
     {
       "album": {
@@ -1714,6 +1736,24 @@
       "duration_ms": 202624,
       "name": "Carro (feat. Dillaz)",
       "url": "https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n"
+    },
+    {
+      "album": {
+        "name": "Carta",
+        "url": "https://open.spotify.com/album/5cm3lOpOTXWQYbH0BWwKjx"
+      },
+      "artists": [
+        {
+          "name": "Resistencia",
+          "url": "https://open.spotify.com/artist/4irQFOvJpHzEz71jyEpJ7I"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256293,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/5XTbxQOMNC56Gtx2yGps2R"
     },
     {
       "album": {
@@ -2958,7 +2998,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 186039,
       "name": "Desarrumado",
       "url": "https://open.spotify.com/track/2Olq7Lf6gUSZ9rBSU5XiCK"
@@ -3290,6 +3330,28 @@
       "duration_ms": 197586,
       "name": "Diz-se a\u00ed ... (Dois Pares de Botas)",
       "url": "https://open.spotify.com/track/3XU0AFp8OqH4SD3BbVUANw"
+    },
+    {
+      "album": {
+        "name": "DIZER QUE TE AMO",
+        "url": "https://open.spotify.com/album/5iuUYb299eXzLIJ6oUeXhx"
+      },
+      "artists": [
+        {
+          "name": "David Carreira",
+          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200469,
+      "name": "DIZER QUE TE AMO",
+      "url": "https://open.spotify.com/track/02JFVYvjhf0HvEDxUHsSUT"
     },
     {
       "album": {
@@ -4872,7 +4934,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 189541,
       "name": "Hist\u00f3ria da Carolina",
       "url": "https://open.spotify.com/track/5C2qT4ikixhBDeholC67n1"
@@ -4966,7 +5028,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 171681,
       "name": "HOJE TEM",
       "url": "https://open.spotify.com/track/27qMXEJjDpbd1fr4SKxswN"
@@ -5390,7 +5452,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 176105,
       "name": "Juro",
       "url": "https://open.spotify.com/track/2xUF0AghSybMPCXImBIKlo"
@@ -6641,6 +6703,24 @@
     },
     {
       "album": {
+        "name": "na minha MIND",
+        "url": "https://open.spotify.com/album/1nJ8ElyfQqcSFeprZ8d569"
+      },
+      "artists": [
+        {
+          "name": "Lucas Ortet",
+          "url": "https://open.spotify.com/artist/5ijrRGEu9hPfvoY1rm57AK"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174172,
+      "name": "na minha MIND",
+      "url": "https://open.spotify.com/track/78jXijkbbJKMaGSVG58KCx"
+    },
+    {
+      "album": {
         "name": "Na Pressa Dos Dias",
         "url": "https://open.spotify.com/album/18QkxQgrmxlTafwuYCpkyX"
       },
@@ -6968,6 +7048,24 @@
       "duration_ms": 186519,
       "name": "Nokia Antigo",
       "url": "https://open.spotify.com/track/2k5F8pOYXkIGztin40v9Fb"
+    },
+    {
+      "album": {
+        "name": "Nos Desenhos Animados (Nunca Acaba Mal) [Ao Vivo No Coliseu Do Porto]",
+        "url": "https://open.spotify.com/album/0VCNfxfuXDNqpedFVG7M4J"
+      },
+      "artists": [
+        {
+          "name": "Os Azeitonas",
+          "url": "https://open.spotify.com/artist/580DM82FybhvbJYUtEjkEz"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303653,
+      "name": "Nos Desenhos Animados (Nunca Acaba Mal) - Ao Vivo No Coliseu Do Porto",
+      "url": "https://open.spotify.com/track/40mYWVg9HJpvUCnPJsYFUL"
     },
     {
       "album": {
@@ -7968,7 +8066,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 186653,
       "name": "Pele e Sal",
       "url": "https://open.spotify.com/track/4tEnMO8dMoz3OoKKNQhxed"
@@ -10234,7 +10332,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 170400,
       "name": "sou mais teu do que meu",
       "url": "https://open.spotify.com/track/34YloXMGr0Iu8lTgtvQh5S"
@@ -10282,6 +10380,24 @@
       "duration_ms": 148695,
       "name": "Sozinho",
       "url": "https://open.spotify.com/track/6FRjQPBZ4pEdKWGSCSgeh8"
+    },
+    {
+      "album": {
+        "name": "STRAVA",
+        "url": "https://open.spotify.com/album/4jtsQphofZNwTbFaA1TdL8"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188128,
+      "name": "STRAVA",
+      "url": "https://open.spotify.com/track/7gCkbZuIPAmAmRIT2lQ3Ny"
     },
     {
       "album": {
@@ -10518,6 +10634,24 @@
       "duration_ms": 225360,
       "name": "Tanto Tempo",
       "url": "https://open.spotify.com/track/003pENpxbAlWY7nMscpC05"
+    },
+    {
+      "album": {
+        "name": "Teach Me To Love",
+        "url": "https://open.spotify.com/album/5N4ehrlml00J97yZehl5Rs"
+      },
+      "artists": [
+        {
+          "name": "Gui Aly",
+          "url": "https://open.spotify.com/artist/6AZ6ilT4AYnj4bXMUhkbJa"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193166,
+      "name": "Teach Me To Love",
+      "url": "https://open.spotify.com/track/19TIW3XS0w19TgUJ1hntyj"
     },
     {
       "album": {

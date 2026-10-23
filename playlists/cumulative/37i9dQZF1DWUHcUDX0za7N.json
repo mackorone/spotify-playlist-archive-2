@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Blaqbonez",
+  "description": "Hip hop and rap music from Nigeria. Cover: 6uff",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 144974,
       "name": "Asiko",
       "url": "https://open.spotify.com/track/0G8IdYVMvwbKXDNiNihoLi"
@@ -3109,6 +3109,24 @@
     },
     {
       "album": {
+        "name": "NOMADINHO: 4TH PRIME",
+        "url": "https://open.spotify.com/album/4S0TXxId60knMPsHNHgUt3"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156610,
+      "name": "CA$H OUT",
+      "url": "https://open.spotify.com/track/0wPfrIdkJq1w6oQX3h6mdi"
+    },
+    {
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/1ultX70qZ116mlkFOCIsgM"
       },
@@ -3598,7 +3616,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 153070,
       "name": "CLEAR",
       "url": "https://open.spotify.com/track/2fdVCzqacaAJmUWglCLUK0"
@@ -6710,6 +6728,24 @@
       "duration_ms": 188005,
       "name": "Gold.",
       "url": "https://open.spotify.com/track/7yz59RbKk5saaTU57do462"
+    },
+    {
+      "album": {
+        "name": "Goyard",
+        "url": "https://open.spotify.com/album/1qREK38x9lTjIBeo2X1pNS"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Goyard",
+      "url": "https://open.spotify.com/track/2Ts1hFAQq5k7sJFPiqt9Ff"
     },
     {
       "album": {
@@ -11932,7 +11968,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 209142,
       "name": "Oku",
       "url": "https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT"
@@ -13844,7 +13880,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 151004,
       "name": "RIC FLAIR DRIP",
       "url": "https://open.spotify.com/track/0fCGLUYkP2mVb873CkCfCl"
@@ -14026,6 +14062,28 @@
       "duration_ms": 214615,
       "name": "Running",
       "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
+    },
+    {
+      "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/2DNWgX1Ki4dmTL5oNVTzKa"
+      },
+      "artists": [
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/5HzwwlPfwcqDr04WWmfseI"
     },
     {
       "album": {
@@ -14975,6 +15033,24 @@
     },
     {
       "album": {
+        "name": "Sound of Freedom",
+        "url": "https://open.spotify.com/album/22W4OvvrJEhCpa8yYkVrwZ"
+      },
+      "artists": [
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148741,
+      "name": "Sound of Freedom",
+      "url": "https://open.spotify.com/track/03SVC1mmVkDlUHr82tvygI"
+    },
+    {
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN"
       },
@@ -15386,6 +15462,24 @@
       "duration_ms": 161250,
       "name": "Sure For Me",
       "url": "https://open.spotify.com/track/0VjXPkSuALkZYj27uS3wlP"
+    },
+    {
+      "album": {
+        "name": "swagsonic",
+        "url": "https://open.spotify.com/album/7F9SLZUJtPYfNMoTNT4XHu"
+      },
+      "artists": [
+        {
+          "name": "Zen Univrse",
+          "url": "https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122226,
+      "name": "swagsonic",
+      "url": "https://open.spotify.com/track/7zDHXibZ29xCOGsJgMJ9C9"
     },
     {
       "album": {

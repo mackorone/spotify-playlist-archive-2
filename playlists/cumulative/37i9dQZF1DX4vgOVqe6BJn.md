@@ -4,7 +4,7 @@
 
 > The official soundtrack for EA SPORTS FC 27.
 
-359 songs - 19 hr 42 min
+360 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Aquamarine \(feat\. Michael Kiwanuka\)](https://open.spotify.com/track/4so0c8plnJDYDCZtZCfsHr) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cheat Codes](https://open.spotify.com/album/4TPi1tGDVXCdQOjn4NSRaB) | 3:58 | 2023-01-25 | 2024-04-19 |
 | [Arrow](https://open.spotify.com/track/3nAcQSav21VEB1alqUHnZy) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Heaven 2](https://open.spotify.com/album/5DNFT7cSHevC4ayOuLA22e) | 3:29 | 2026-09-10 |  |
 | [Assis](https://open.spotify.com/track/0ZrZloX6BuXSIfEDM5r23R) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [ANGIE](https://open.spotify.com/album/5Ilxlp4HEx8G4T1enJ2iSr) | 2:41 | 2026-09-10 |  |
-| [Au max](https://open.spotify.com/track/0Bw8tbPRVFXjiCuRA2rkMn) | [H JeuneCrack](https://open.spotify.com/artist/6Gm6S6XDUo6un4aPrRNeOj) | [MATIÈRE PREMIÈRE](https://open.spotify.com/album/1ZpRnEstsdX4VM84Jf6g2t) | 2:30 | 2026-09-10 |  |
+| [Au max](https://open.spotify.com/track/0Bw8tbPRVFXjiCuRA2rkMn) | [H JeuneCrack](https://open.spotify.com/artist/6Gm6S6XDUo6un4aPrRNeOj) | [MATIÈRE PREMIÈRE](https://open.spotify.com/album/1ZpRnEstsdX4VM84Jf6g2t) | 2:30 | 2026-09-10 | 2026-10-23 |
 | [Autopilot](https://open.spotify.com/track/2HB0CSmHzShtuZzvvo7FC2) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Autopilot](https://open.spotify.com/album/4Clo73J4CkcN63demIeZ2F) | 2:46 | 2026-09-10 |  |
 | [Avalanche](https://open.spotify.com/track/58ypfg7I2GmsgoXyqkGwTs) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Girlfriend](https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4) | 3:12 | 2026-09-10 |  |
 | [Baby Queen](https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Baby Queen](https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt) | 3:40 | 2022-11-04 | 2025-09-16 |
@@ -346,6 +346,7 @@
 | [Vertical](https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Vertical](https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3) | 2:36 | 2026-09-10 |  |
 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-09-15 | 2026-09-11 |
 | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ) | 3:18 | 2022-09-22 | 2025-09-16 |
+| [Waist 36 Leg 32](https://open.spotify.com/track/3IPLwU2d6nETANRwM5OoLb) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Ghosts \(100 Days of Morning\)](https://open.spotify.com/album/3F9ZnOWuIZZpf3oV1SvRTy) | 3:50 | 2026-10-22 |  |
 | [Walking On Water \(feat\. TEED\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. TEED\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 | 2022-09-22 | 2025-09-16 |
 | [Wanna Stay \(feat\. Dear Sunday\)](https://open.spotify.com/track/0fxPhCN2eRixZxxgzZzwiY) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [6AM](https://open.spotify.com/album/4xI6l2LtSRt7yslMslT0wz) | 2:26 | 2022-09-22 | 2025-09-16 |
 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 | 2025-09-15 | 2026-09-11 |

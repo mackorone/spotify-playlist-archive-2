@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "\u2757\ufe0fNieuwe tracks: HIGH SOCIETY, Qlas & Isab\u00e8l Usher, Saaff, 3robi & Lijpe, Zack Ink & Vic9 en meer..",
+  "description": "\u2757\ufe0fNieuwe tracks: Qlas, Kevin & Idaly, Momi, Equalz, Lange Frans & MocroManiac en meer..",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -352,6 +352,28 @@
       "duration_ms": 146374,
       "name": "2 Motten",
       "url": "https://open.spotify.com/track/5BivQbxn6KNsNk0aYVK4zx"
+    },
+    {
+      "album": {
+        "name": "20 Backshot",
+        "url": "https://open.spotify.com/album/32FUI6C5zKeboWI6Bt2hch"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155253,
+      "name": "20 Backshot",
+      "url": "https://open.spotify.com/track/5R1tJMXJ5Sq0lelx4VOgRI"
     },
     {
       "album": {
@@ -3449,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "Qlassiek",
+        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144166,
+      "name": "FaceTime Sparta",
+      "url": "https://open.spotify.com/track/0jLUdTtetXUO1FVO91UvfH"
+    },
+    {
+      "album": {
         "name": "Fake Of Echt",
         "url": "https://open.spotify.com/album/1SMvd1e9BeolbpewVdsrce"
       },
@@ -3813,6 +3853,24 @@
     },
     {
       "album": {
+        "name": "Freeze",
+        "url": "https://open.spotify.com/album/1ayXkZaFuKzhmAVDRYiddp"
+      },
+      "artists": [
+        {
+          "name": "Jordymone9",
+          "url": "https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171158,
+      "name": "Freeze",
+      "url": "https://open.spotify.com/track/0nm6OqyUU5yBdB9yDQWExx"
+    },
+    {
+      "album": {
         "name": "Frero",
         "url": "https://open.spotify.com/album/68wWdT1PdnGk3f6MEd4zqV"
       },
@@ -3985,6 +4043,28 @@
     },
     {
       "album": {
+        "name": "Gass",
+        "url": "https://open.spotify.com/album/5xGITN3knqgPZxiwfjJ7d3"
+      },
+      "artists": [
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        },
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169103,
+      "name": "Gass",
+      "url": "https://open.spotify.com/track/5ZgPegQQqZquH6KZDCk8PG"
+    },
+    {
+      "album": {
         "name": "Gebroken Harten",
         "url": "https://open.spotify.com/album/67n04L5Nqzr1AyjBa5CE1z"
       },
@@ -4096,6 +4176,24 @@
       "duration_ms": 188181,
       "name": "Geen Geld",
       "url": "https://open.spotify.com/track/4tUWZZFh6rvQ9UbNhcdOUp"
+    },
+    {
+      "album": {
+        "name": "Qlassiek",
+        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143684,
+      "name": "Geen Lovesong",
+      "url": "https://open.spotify.com/track/2cUSsISFlJ8EOB2EtLiTrO"
     },
     {
       "album": {
@@ -4572,7 +4670,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 155294,
       "name": "Gun Me",
       "url": "https://open.spotify.com/track/4Aeb37AXzOxqP25gPREyQH"
@@ -6649,6 +6747,24 @@
     },
     {
       "album": {
+        "name": "Leuven Centraal",
+        "url": "https://open.spotify.com/album/6VQfUztdwVJhQxP9BMCL8U"
+      },
+      "artists": [
+        {
+          "name": "Chardy",
+          "url": "https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218437,
+      "name": "Leuven Centraal",
+      "url": "https://open.spotify.com/track/1wKT1jTCw9J2yja5SvPT8I"
+    },
+    {
+      "album": {
         "name": "LIES",
         "url": "https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN"
       },
@@ -7082,7 +7198,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 114520,
       "name": "Macho Man",
       "url": "https://open.spotify.com/track/6dw2b4HlQgeeAuLFMgCOt0"
@@ -9398,7 +9514,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 120000,
       "name": "Prada",
       "url": "https://open.spotify.com/track/0kOM96pwJtRFJKP4WPARZD"
@@ -9748,7 +9864,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 283227,
       "name": "Rare Guy",
       "url": "https://open.spotify.com/track/5g9wyDLn6CdjxPAiUZ39s5"
@@ -10797,6 +10913,28 @@
     },
     {
       "album": {
+        "name": "Qlassiek",
+        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133584,
+      "name": "Spaarpot",
+      "url": "https://open.spotify.com/track/7oyL6g9aOxMfzpm9vzhChM"
+    },
+    {
+      "album": {
         "name": "Special1One",
         "url": "https://open.spotify.com/album/0xUWVLjErmZqbi6UjulyRn"
       },
@@ -10904,6 +11042,28 @@
       "duration_ms": 182954,
       "name": "Spoil Her",
       "url": "https://open.spotify.com/track/3KrBEhUQMVm5KSG6thdGi7"
+    },
+    {
+      "album": {
+        "name": "SRRY",
+        "url": "https://open.spotify.com/album/6F7axLlLeeN3bHaL2btEKP"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194010,
+      "name": "SRRY",
+      "url": "https://open.spotify.com/track/2lGnl3YSGwG5glYC4l7Jxv"
     },
     {
       "album": {
@@ -13256,6 +13416,24 @@
       "duration_ms": 140425,
       "name": "Zoveel gegeven",
       "url": "https://open.spotify.com/track/2GweTDbz78W7ZaX73O5ae6"
+    },
+    {
+      "album": {
+        "name": "Zure appels",
+        "url": "https://open.spotify.com/album/5fLAoxfnfzFrDEKJBg1a3Z"
+      },
+      "artists": [
+        {
+          "name": "Momi",
+          "url": "https://open.spotify.com/artist/2Vd0bXoPtbTy5T1T2aa5hY"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156597,
+      "name": "Zure appels",
+      "url": "https://open.spotify.com/track/1rZNTvolGYnTbAqKX24xiC"
     },
     {
       "album": {

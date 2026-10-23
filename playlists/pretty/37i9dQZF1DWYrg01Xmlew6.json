@@ -1,12 +1,12 @@
 {
   "description": "Solo rap da Napoli e dalla Campania. Geolier in cover.",
-  "num_followers": 227608,
+  "num_followers": 227607,
   "original_name": "Int 'o Rione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP2bZu7pfzSzMa/4dECM/fSffDG3",
+  "snapshot_id": "AAAAAI7LXb+RfSfdCv/HFFdOFlTxI+Rh",
   "tracks": [
     {
       "added_at": "2026-10-15 23:01:02",
@@ -23,6 +23,22 @@
       "duration_ms": 174891,
       "name": "LEGGENDA",
       "url": "https://open.spotify.com/track/5E67xter2YEAFW0PHzoarV"
+    },
+    {
+      "added_at": "2026-10-22 22:02:33",
+      "album": {
+        "name": "7/7",
+        "url": "https://open.spotify.com/album/1we0yt2pmpz84YEIboKAan"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "duration_ms": 155647,
+      "name": "7/7",
+      "url": "https://open.spotify.com/track/5P39MpRYjtD28Q3xPbK9E2"
     },
     {
       "added_at": "2026-10-15 23:01:02",
@@ -85,20 +101,20 @@
       "url": "https://open.spotify.com/track/4apcBZjLCRSeBfr8IInHrq"
     },
     {
-      "added_at": "2026-10-15 23:01:02",
+      "added_at": "2026-10-22 22:02:33",
       "album": {
-        "name": "AUTORIT\u00c0",
-        "url": "https://open.spotify.com/album/2CCna0QTtaOVDjFvobTZeO"
+        "name": "'O CAVALLO 'E RITORNO",
+        "url": "https://open.spotify.com/album/1fqpPjMNan0Sd1dcWGuUtb"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "BATTISTA",
+          "url": "https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN"
         }
       ],
-      "duration_ms": 183597,
-      "name": "AUTORIT\u00c0",
-      "url": "https://open.spotify.com/track/44igqinwL0GzbSEX4lovsi"
+      "duration_ms": 260967,
+      "name": "'O CAVALLO 'E RITORNO",
+      "url": "https://open.spotify.com/track/5JbtzpMcZrOzSHLfGbWFFz"
     },
     {
       "added_at": "2026-10-15 23:01:02",
@@ -127,22 +143,6 @@
     {
       "added_at": "2026-10-15 23:01:02",
       "album": {
-        "name": "BATTISTA",
-        "url": "https://open.spotify.com/album/5RXKKAHYE74klzuSYYhgtW"
-      },
-      "artists": [
-        {
-          "name": "BATTISTA",
-          "url": "https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN"
-        }
-      ],
-      "duration_ms": 157989,
-      "name": "BATTISTA",
-      "url": "https://open.spotify.com/track/6fxrkrFagp3S5IK1mxRJxZ"
-    },
-    {
-      "added_at": "2026-10-15 23:01:02",
-      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/2ITQeAS7YdCjyGch5PK3ni"
       },
@@ -167,6 +167,22 @@
     {
       "added_at": "2026-10-15 23:01:02",
       "album": {
+        "name": "AUTORIT\u00c0",
+        "url": "https://open.spotify.com/album/2CCna0QTtaOVDjFvobTZeO"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 183597,
+      "name": "AUTORIT\u00c0",
+      "url": "https://open.spotify.com/track/44igqinwL0GzbSEX4lovsi"
+    },
+    {
+      "added_at": "2026-10-15 23:01:02",
+      "album": {
         "name": "Bandito",
         "url": "https://open.spotify.com/album/7aeDTh7h77f5hsLz6f7DrP"
       },
@@ -183,6 +199,26 @@
       "duration_ms": 120468,
       "name": "Bandito",
       "url": "https://open.spotify.com/track/4TTJpJqCoG1HrXhnNENqAp"
+    },
+    {
+      "added_at": "2026-10-22 22:02:33",
+      "album": {
+        "name": "COLPA MIA",
+        "url": "https://open.spotify.com/album/2dvbD8GgNuOszMGuUZsWiY"
+      },
+      "artists": [
+        {
+          "name": "Im Envy",
+          "url": "https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7"
+        },
+        {
+          "name": "Heavy Drug",
+          "url": "https://open.spotify.com/artist/7zcuu4KUSiqjHdk5naqAtp"
+        }
+      ],
+      "duration_ms": 171763,
+      "name": "COLPA MIA",
+      "url": "https://open.spotify.com/track/1E3qz7Dq6OJa2bSYJV2lIi"
     },
     {
       "added_at": "2026-10-15 23:01:02",
@@ -235,6 +271,22 @@
       "duration_ms": 169920,
       "name": "RIONE DI DOMENICA",
       "url": "https://open.spotify.com/track/2jTBeAiQJjzR06f8xXH2FB"
+    },
+    {
+      "added_at": "2026-10-22 22:02:33",
+      "album": {
+        "name": "Mai Arreso",
+        "url": "https://open.spotify.com/album/5mEQNenzoPJ0bV4vwdercm"
+      },
+      "artists": [
+        {
+          "name": "Armouann",
+          "url": "https://open.spotify.com/artist/4CKFSinEpu2Pap0R3aw5q6"
+        }
+      ],
+      "duration_ms": 196455,
+      "name": "Mai Arreso",
+      "url": "https://open.spotify.com/track/2S6hziE31KtNczspEPI8qC"
     },
     {
       "added_at": "2026-10-15 23:01:02",
@@ -321,6 +373,22 @@
       "url": "https://open.spotify.com/track/3CYZEJWJOWuc7hJj3NhBi4"
     },
     {
+      "added_at": "2026-10-22 22:02:33",
+      "album": {
+        "name": "AMMASCIAT",
+        "url": "https://open.spotify.com/album/22316dWksqLlEat4fOr36H"
+      },
+      "artists": [
+        {
+          "name": "Oriot",
+          "url": "https://open.spotify.com/artist/06fuJ9XXJODDuLUyc1Sl16"
+        }
+      ],
+      "duration_ms": 134955,
+      "name": "AMMASCIAT",
+      "url": "https://open.spotify.com/track/3grqMfv5rs2e81PX4NOZo7"
+    },
+    {
       "added_at": "2026-10-15 23:01:02",
       "album": {
         "name": "Via dei Mille",
@@ -343,6 +411,22 @@
     {
       "added_at": "2026-10-15 23:01:02",
       "album": {
+        "name": "BATTISTA",
+        "url": "https://open.spotify.com/album/5RXKKAHYE74klzuSYYhgtW"
+      },
+      "artists": [
+        {
+          "name": "BATTISTA",
+          "url": "https://open.spotify.com/artist/3KJThiZga1k8NPhQIwQsxN"
+        }
+      ],
+      "duration_ms": 157989,
+      "name": "BATTISTA",
+      "url": "https://open.spotify.com/track/6fxrkrFagp3S5IK1mxRJxZ"
+    },
+    {
+      "added_at": "2026-10-15 23:01:02",
+      "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
       },
@@ -355,6 +439,26 @@
       "duration_ms": 148124,
       "name": "FACIL FACIL",
       "url": "https://open.spotify.com/track/25KIhhxpokm19ivM2CA09S"
+    },
+    {
+      "added_at": "2026-10-22 22:02:33",
+      "album": {
+        "name": "MAI",
+        "url": "https://open.spotify.com/album/74qIn9LLCHuHEFdEbhLsj0"
+      },
+      "artists": [
+        {
+          "name": "UNDICI",
+          "url": "https://open.spotify.com/artist/3iZD47sbWX79D67jUK8MKT"
+        },
+        {
+          "name": "Sau27",
+          "url": "https://open.spotify.com/artist/1KZF3e9QB6eO3h6Nt5pA4P"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "MAI",
+      "url": "https://open.spotify.com/track/5XvhQUdCzPFDK3QYWeqSKc"
     },
     {
       "added_at": "2026-10-15 23:01:02",
@@ -619,42 +723,6 @@
     {
       "added_at": "2026-10-15 23:01:02",
       "album": {
-        "name": "P tutt a vit",
-        "url": "https://open.spotify.com/album/52lujTZeOxzH9RlDo1z50L"
-      },
-      "artists": [
-        {
-          "name": "El Chapo Junior",
-          "url": "https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "P tutt a vit",
-      "url": "https://open.spotify.com/track/01tyjGbDTG63iQrLsOWyfP"
-    },
-    {
-      "added_at": "2026-10-15 23:01:02",
-      "album": {
-        "name": "ALDIL\u00c0",
-        "url": "https://open.spotify.com/album/2O0gLqUcB47ONYawgjIuW1"
-      },
-      "artists": [
-        {
-          "name": "Rageless",
-          "url": "https://open.spotify.com/artist/4emQ3Gb8u0vIF1sNr9gtWZ"
-        },
-        {
-          "name": "67kai",
-          "url": "https://open.spotify.com/artist/6ZAiKp5uNAjhDK9hp85SLD"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "ALDIL\u00c0",
-      "url": "https://open.spotify.com/track/5D6IYFG7wKHt4woOgzMeMP"
-    },
-    {
-      "added_at": "2026-10-15 23:01:02",
-      "album": {
         "name": "Frisk",
         "url": "https://open.spotify.com/album/6214iDqgsF83Cq7l0PCtPN"
       },
@@ -711,22 +779,6 @@
       "duration_ms": 138556,
       "name": "MUSTANG",
       "url": "https://open.spotify.com/track/0u5PoDpDJrnVs22BPYMj3b"
-    },
-    {
-      "added_at": "2026-10-15 23:01:02",
-      "album": {
-        "name": "PESO",
-        "url": "https://open.spotify.com/album/7LtsoLcEHMJMPrGMpv4owe"
-      },
-      "artists": [
-        {
-          "name": "Kunta",
-          "url": "https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX"
-        }
-      ],
-      "duration_ms": 163859,
-      "name": "PESO",
-      "url": "https://open.spotify.com/track/7KfrZDtoCNBhIPinzWhzRC"
     },
     {
       "added_at": "2026-10-15 23:01:02",
@@ -1015,22 +1067,6 @@
       "duration_ms": 142556,
       "name": "PARENTE",
       "url": "https://open.spotify.com/track/4M1YXSjzb3HHndhd9dUVSF"
-    },
-    {
-      "added_at": "2026-10-15 23:01:02",
-      "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/0aC8g1rSmbygMtmKnSD4uw"
-      },
-      "artists": [
-        {
-          "name": "Joka Diablo",
-          "url": "https://open.spotify.com/artist/2y7MutJk3oS7vIcOCwv3YZ"
-        }
-      ],
-      "duration_ms": 129012,
-      "name": "ROLEX",
-      "url": "https://open.spotify.com/track/3UMsmat6dEfLBjtL92xYof"
     },
     {
       "added_at": "2026-10-15 23:01:02",
@@ -1423,22 +1459,6 @@
       "duration_ms": 169588,
       "name": "COCO (feat. Frezza)",
       "url": "https://open.spotify.com/track/0Ii2R9SawfnxkhNtUI5d7s"
-    },
-    {
-      "added_at": "2026-10-15 23:01:02",
-      "album": {
-        "name": "Favela",
-        "url": "https://open.spotify.com/album/1Tt1QbxEytKl9ub1ypTlDp"
-      },
-      "artists": [
-        {
-          "name": "Peppe Soks",
-          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
-        }
-      ],
-      "duration_ms": 116996,
-      "name": "Favela",
-      "url": "https://open.spotify.com/track/0zBuNEWy5YufPBn0xUdCQ9"
     },
     {
       "added_at": "2026-10-15 23:01:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > tradición, modernidad y frescura\. Sonido argentino, del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,780 likes - 38 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,789 likes - 38 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 37 | [Tu Misterioso Alguien](https://open.spotify.com/track/05NIrKmFsRW2beYsVWALMy) | [Maite Guzmán y Su Estilo Campero](https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz) | [Tu Misterioso Alguien](https://open.spotify.com/album/2bGGtY1wTxX54ELhGzFP91) | 3:24 |
 | 38 | [Mil Preguntas / Que Me Falte Todo](https://open.spotify.com/track/0zTCRxm0D3UwtcgekyUPdw) | [Maite Guzmán y Su Estilo Campero](https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz) | [Mil Preguntas / Que Me Falte Todo](https://open.spotify.com/album/6JRdgBF3LP7d3mGuIQZSGq) | 4:29 |
 
-Snapshot ID: `AAAAAGRiMchoW1z5wNAl8FojiLcPKu/o`
+Snapshot ID: `AAAAAP41rwNdSWPrWvt+4yUjZILR4BlW`

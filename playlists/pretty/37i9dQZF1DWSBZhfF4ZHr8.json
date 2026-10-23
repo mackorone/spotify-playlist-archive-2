@@ -1,13 +1,29 @@
 {
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Manon Lisa.\n\n",
-  "num_followers": 287470,
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Hoshi.\n\n",
+  "num_followers": 287454,
   "original_name": "Fresh Vari\u00e9t\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK+4v/WgPkKLuPbBOaqKSYK0yB9J",
+  "snapshot_id": "AAAAAFd5FqU1BqejFxlLhw5/DFep5uEi",
   "tracks": [
+    {
+      "added_at": "2026-10-08 22:02:12",
+      "album": {
+        "name": "Bonjour docteur",
+        "url": "https://open.spotify.com/album/0IxLtcnPchUl2nIelx9L9N"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Sant\u00e9 mentale",
+      "url": "https://open.spotify.com/track/7igfJ7OJ0Y7BFs80ilvfsD"
+    },
     {
       "added_at": "2026-10-15 22:01:44",
       "album": {
@@ -59,6 +75,26 @@
     {
       "added_at": "2026-10-15 22:01:44",
       "album": {
+        "name": "\u00c7a ira",
+        "url": "https://open.spotify.com/album/6DB4qBlolf8rxYYIquGkG9"
+      },
+      "artists": [
+        {
+          "name": "Oria",
+          "url": "https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR"
+        },
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Place Massena",
+      "url": "https://open.spotify.com/track/3U4Tf0TSxaAc78VHhs4M2O"
+    },
+    {
+      "added_at": "2026-10-15 22:01:44",
+      "album": {
         "name": "Instinct",
         "url": "https://open.spotify.com/album/2VmBZ9e83yVxu4CFMpMOjq"
       },
@@ -89,40 +125,56 @@
       "url": "https://open.spotify.com/track/2ZNMr57GGEELFGV3w49qVT"
     },
     {
-      "added_at": "2026-10-15 22:01:44",
+      "added_at": "2026-10-22 22:00:28",
       "album": {
-        "name": "\u00c7a ira",
-        "url": "https://open.spotify.com/album/6DB4qBlolf8rxYYIquGkG9"
+        "name": "La chanson",
+        "url": "https://open.spotify.com/album/7G21XOJ3nkj7Ln7Tiphwzl"
       },
       "artists": [
         {
-          "name": "Oria",
-          "url": "https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR"
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
         },
         {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
         }
       ],
-      "duration_ms": 188240,
-      "name": "Place Massena",
-      "url": "https://open.spotify.com/track/3U4Tf0TSxaAc78VHhs4M2O"
+      "duration_ms": 193200,
+      "name": "La chanson",
+      "url": "https://open.spotify.com/track/1rs2i4zAgHUKhUVnTWggRr"
     },
     {
-      "added_at": "2026-10-08 22:02:12",
+      "added_at": "2026-09-10 22:00:51",
       "album": {
-        "name": "mode avion",
-        "url": "https://open.spotify.com/album/3o5Faji46zt8hquDqtlsKs"
+        "name": "Na\u00efri",
+        "url": "https://open.spotify.com/album/1KjrceHRQfpwzYU0OS3u4z"
       },
       "artists": [
         {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+          "name": "Jeanne",
+          "url": "https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ"
         }
       ],
-      "duration_ms": 170441,
-      "name": "mode avion",
-      "url": "https://open.spotify.com/track/2lB2ZierONlZoEKGzxNLsp"
+      "duration_ms": 160813,
+      "name": "Cybersensible",
+      "url": "https://open.spotify.com/track/2o5ghGw2qfZEPWMDO2YHei"
+    },
+    {
+      "added_at": "2026-09-10 22:00:51",
+      "album": {
+        "name": "AMOUR OUBLI\u00c9",
+        "url": "https://open.spotify.com/album/6w7Azk52EIbSlWSRAcETUQ"
+      },
+      "artists": [
+        {
+          "name": "LECYA",
+          "url": "https://open.spotify.com/artist/08KSZ8jpESjY7kRm1KoAQI"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "AMOUR OUBLI\u00c9",
+      "url": "https://open.spotify.com/track/1qWw2X7hZWmJeUL6LbwEqY"
     },
     {
       "added_at": "2026-09-24 22:01:41",
@@ -147,18 +199,90 @@
     {
       "added_at": "2026-10-08 22:02:12",
       "album": {
-        "name": "Bonjour docteur",
-        "url": "https://open.spotify.com/album/0IxLtcnPchUl2nIelx9L9N"
+        "name": "mode avion",
+        "url": "https://open.spotify.com/album/3o5Faji46zt8hquDqtlsKs"
       },
       "artists": [
         {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
         }
       ],
-      "duration_ms": 171773,
-      "name": "Sant\u00e9 mentale",
-      "url": "https://open.spotify.com/track/7igfJ7OJ0Y7BFs80ilvfsD"
+      "duration_ms": 170441,
+      "name": "mode avion",
+      "url": "https://open.spotify.com/track/2lB2ZierONlZoEKGzxNLsp"
+    },
+    {
+      "added_at": "2026-10-22 22:00:28",
+      "album": {
+        "name": "Algorithme",
+        "url": "https://open.spotify.com/album/1XdZZ8DRVcX5LcpbjjDXOs"
+      },
+      "artists": [
+        {
+          "name": "Lena\u00efg",
+          "url": "https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb"
+        },
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "duration_ms": 171210,
+      "name": "Algorithme",
+      "url": "https://open.spotify.com/track/1LKCXDRHsyh14z8TloNHoT"
+    },
+    {
+      "added_at": "2026-10-15 22:01:44",
+      "album": {
+        "name": "ZMIG EXPANSION",
+        "url": "https://open.spotify.com/album/1OABNen912ksJNgNqEPpVP"
+      },
+      "artists": [
+        {
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+        },
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "duration_ms": 166265,
+      "name": "SI TU M'ABANDONNES",
+      "url": "https://open.spotify.com/track/1ciFuxRGHSKvHsNJ0a3Ru2"
+    },
+    {
+      "added_at": "2026-09-24 22:01:41",
+      "album": {
+        "name": "Ta peau",
+        "url": "https://open.spotify.com/album/3tf0PA41r8TJ8fRfDgZc3K"
+      },
+      "artists": [
+        {
+          "name": "Anouk",
+          "url": "https://open.spotify.com/artist/1mIWgSsGsrxUOcWEF2ioHS"
+        }
+      ],
+      "duration_ms": 187254,
+      "name": "Ta peau",
+      "url": "https://open.spotify.com/track/1URO8RODQThxTuCjuPmwgu"
+    },
+    {
+      "added_at": "2026-10-22 22:00:28",
+      "album": {
+        "name": "M\u00eame bois",
+        "url": "https://open.spotify.com/album/2pwLtHjerpGX67oFV2GWTE"
+      },
+      "artists": [
+        {
+          "name": "Asfar Shamsi",
+          "url": "https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs"
+        }
+      ],
+      "duration_ms": 156655,
+      "name": "M\u00eame bois",
+      "url": "https://open.spotify.com/track/4EHRdbCLmRnW2jTvaoozh5"
     },
     {
       "added_at": "2026-10-15 22:01:44",
@@ -209,20 +333,52 @@
       "url": "https://open.spotify.com/track/1oiid8PZMSK5qVRuyEjYhE"
     },
     {
-      "added_at": "2026-09-10 22:00:51",
+      "added_at": "2026-10-22 22:00:28",
       "album": {
-        "name": "Na\u00efri",
-        "url": "https://open.spotify.com/album/1KjrceHRQfpwzYU0OS3u4z"
+        "name": "Lucifer",
+        "url": "https://open.spotify.com/album/5HlYojvlbKOTRxl5rhfGII"
       },
       "artists": [
         {
-          "name": "Jeanne",
-          "url": "https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ"
+          "name": "Laura Ferr\u00e9",
+          "url": "https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa"
         }
       ],
-      "duration_ms": 160813,
-      "name": "Cybersensible",
-      "url": "https://open.spotify.com/track/2o5ghGw2qfZEPWMDO2YHei"
+      "duration_ms": 163506,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/5QiwoucgVaNadWHnd8mljx"
+    },
+    {
+      "added_at": "2026-10-01 22:01:51",
+      "album": {
+        "name": "j'laisse parler",
+        "url": "https://open.spotify.com/album/3mdQ9ydvdAiUNG8a5DC00K"
+      },
+      "artists": [
+        {
+          "name": "Ambre",
+          "url": "https://open.spotify.com/artist/28YPWin68aYoxfouVteGYQ"
+        }
+      ],
+      "duration_ms": 191741,
+      "name": "j'laisse parler",
+      "url": "https://open.spotify.com/track/4KQatk8mmIIOEsXRykvOPb"
+    },
+    {
+      "added_at": "2026-09-10 22:00:51",
+      "album": {
+        "name": "Insomnie",
+        "url": "https://open.spotify.com/album/25rhWIctOA5FgMXZHAbtpc"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "duration_ms": 151856,
+      "name": "Insomnie",
+      "url": "https://open.spotify.com/track/14fGqHU130ooeNSBmCsJIC"
     },
     {
       "added_at": "2026-10-15 22:01:44",
@@ -245,90 +401,6 @@
       "url": "https://open.spotify.com/track/0e6WDe2sImXEbqA5afJUnY"
     },
     {
-      "added_at": "2026-10-15 22:01:44",
-      "album": {
-        "name": "ZMIG EXPANSION",
-        "url": "https://open.spotify.com/album/1OABNen912ksJNgNqEPpVP"
-      },
-      "artists": [
-        {
-          "name": "Danyl",
-          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
-        },
-        {
-          "name": "Solann",
-          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
-        }
-      ],
-      "duration_ms": 166265,
-      "name": "SI TU M'ABANDONNES",
-      "url": "https://open.spotify.com/track/1ciFuxRGHSKvHsNJ0a3Ru2"
-    },
-    {
-      "added_at": "2026-09-24 22:01:41",
-      "album": {
-        "name": "Ta peau",
-        "url": "https://open.spotify.com/album/3tf0PA41r8TJ8fRfDgZc3K"
-      },
-      "artists": [
-        {
-          "name": "Anouk",
-          "url": "https://open.spotify.com/artist/1mIWgSsGsrxUOcWEF2ioHS"
-        }
-      ],
-      "duration_ms": 187254,
-      "name": "Ta peau",
-      "url": "https://open.spotify.com/track/1URO8RODQThxTuCjuPmwgu"
-    },
-    {
-      "added_at": "2026-10-15 22:01:44",
-      "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/2N5HvSJsmokg6M18s7EHVX"
-      },
-      "artists": [
-        {
-          "name": "Yanns",
-          "url": "https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR"
-        }
-      ],
-      "duration_ms": 167692,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/30JdCYz6qw1he2DtxwFZP7"
-    },
-    {
-      "added_at": "2026-10-01 22:01:51",
-      "album": {
-        "name": "j'laisse parler",
-        "url": "https://open.spotify.com/album/3mdQ9ydvdAiUNG8a5DC00K"
-      },
-      "artists": [
-        {
-          "name": "Ambre",
-          "url": "https://open.spotify.com/artist/28YPWin68aYoxfouVteGYQ"
-        }
-      ],
-      "duration_ms": 191741,
-      "name": "j'laisse parler",
-      "url": "https://open.spotify.com/track/4KQatk8mmIIOEsXRykvOPb"
-    },
-    {
-      "added_at": "2026-10-15 22:01:44",
-      "album": {
-        "name": "Gendre id\u00e9al",
-        "url": "https://open.spotify.com/album/5DwrAHjoCzX6bXf1g4ESdm"
-      },
-      "artists": [
-        {
-          "name": "Carla",
-          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
-        }
-      ],
-      "duration_ms": 183584,
-      "name": "Gendre id\u00e9al",
-      "url": "https://open.spotify.com/track/6ryfKTpbjNY0A45CNmpVyY"
-    },
-    {
       "added_at": "2026-10-08 22:02:12",
       "album": {
         "name": "HIBERNATUS",
@@ -349,52 +421,36 @@
       "url": "https://open.spotify.com/track/3U7WGYXTosPECl0G3Gg8VP"
     },
     {
-      "added_at": "2026-09-10 22:00:51",
+      "added_at": "2026-10-15 22:01:44",
       "album": {
-        "name": "AMOUR OUBLI\u00c9",
-        "url": "https://open.spotify.com/album/6w7Azk52EIbSlWSRAcETUQ"
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/2N5HvSJsmokg6M18s7EHVX"
       },
       "artists": [
         {
-          "name": "LECYA",
-          "url": "https://open.spotify.com/artist/08KSZ8jpESjY7kRm1KoAQI"
+          "name": "Yanns",
+          "url": "https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR"
         }
       ],
-      "duration_ms": 126000,
-      "name": "AMOUR OUBLI\u00c9",
-      "url": "https://open.spotify.com/track/1qWw2X7hZWmJeUL6LbwEqY"
+      "duration_ms": 167692,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/30JdCYz6qw1he2DtxwFZP7"
     },
     {
-      "added_at": "2026-09-10 22:00:51",
+      "added_at": "2026-10-15 22:01:44",
       "album": {
-        "name": "Insomnie",
-        "url": "https://open.spotify.com/album/25rhWIctOA5FgMXZHAbtpc"
+        "name": "Gendre id\u00e9al",
+        "url": "https://open.spotify.com/album/5DwrAHjoCzX6bXf1g4ESdm"
       },
       "artists": [
         {
-          "name": "Joseph Kamel",
-          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
         }
       ],
-      "duration_ms": 151856,
-      "name": "Insomnie",
-      "url": "https://open.spotify.com/track/14fGqHU130ooeNSBmCsJIC"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "Tricheur",
-        "url": "https://open.spotify.com/album/32ZKihSHtuK9M9ZHJJdqaf"
-      },
-      "artists": [
-        {
-          "name": "Marine",
-          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
-        }
-      ],
-      "duration_ms": 162626,
-      "name": "Tricheur",
-      "url": "https://open.spotify.com/track/1pytJFt4mxfD4sMd6qjj6U"
+      "duration_ms": 183584,
+      "name": "Gendre id\u00e9al",
+      "url": "https://open.spotify.com/track/6ryfKTpbjNY0A45CNmpVyY"
     },
     {
       "added_at": "2026-09-24 22:01:41",
@@ -451,22 +507,6 @@
       "duration_ms": 179320,
       "name": "Bella Vita",
       "url": "https://open.spotify.com/track/6bDXDC1meVMo6NyzH7VoxB"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "Une seule vie",
-        "url": "https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 245606,
-      "name": "Une seule vie",
-      "url": "https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL"
     },
     {
       "added_at": "2026-10-08 22:02:12",
@@ -803,38 +843,6 @@
       "duration_ms": 157000,
       "name": "Comme toi",
       "url": "https://open.spotify.com/track/6oqXIzTo6OTVe7iDmCWUNr"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "Lili",
-        "url": "https://open.spotify.com/album/1tYabWtC4uPrmHSElKeLHB"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00eblle",
-          "url": "https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5"
-        }
-      ],
-      "duration_ms": 158280,
-      "name": "MALALAT\u00caTE",
-      "url": "https://open.spotify.com/track/5193I8zZrbd4bsfp9vg7ao"
-    },
-    {
-      "added_at": "2026-09-24 22:01:41",
-      "album": {
-        "name": "Aime-moi encore",
-        "url": "https://open.spotify.com/album/3tiiAcpgs6ilMsQqlTTnY2"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9man",
-          "url": "https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ"
-        }
-      ],
-      "duration_ms": 151064,
-      "name": "Aime-moi encore",
-      "url": "https://open.spotify.com/track/1vfLUtLGqPmQlAFg9jChVX"
     },
     {
       "added_at": "2026-09-10 22:00:51",

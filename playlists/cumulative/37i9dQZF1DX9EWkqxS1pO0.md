@@ -2,7 +2,7 @@
 
 ### [Keşif](https://open.spotify.com/playlist/37i9dQZF1DX9EWkqxS1pO0)
 
-> Yeni favori sanatçını keşfet ⚡ Kapak: Ezgi B
+> Yeni favori sanatçını keşfet ⚡ Kapak: Peki Momés
 
 456 songs - 23 hr 21 min
 

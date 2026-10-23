@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Ms\. Ambar
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,001 likes - 133 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,984 likes - 133 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

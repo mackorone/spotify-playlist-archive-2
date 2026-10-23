@@ -1,15 +1,15 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 225585,
+  "num_followers": 225600,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPI/cbrx8+A3k8eKeBHljlFy4K0O",
+  "snapshot_id": "AAAAABlxnxE5Ll/VNeMgtQrDq+hLsLQn",
   "tracks": [
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Bless the Telephone - Spotify Singles",
         "url": "https://open.spotify.com/album/4xBa5tQ9IJNWVoq482z3c2"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/61OLbx1bhsaYJAlkpxb2Xj"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
-      "album": {
-        "name": "Against The Dying Of The Light",
-        "url": "https://open.spotify.com/album/46XdK0AK5PmeummJN5fB6W"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 268026,
-      "name": "You & We",
-      "url": "https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c"
-    },
-    {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "I It Am",
         "url": "https://open.spotify.com/album/0N8ZyxwpcIzyjhhuOY2D8p"
@@ -61,7 +45,7 @@
       "url": "https://open.spotify.com/track/3jsvREipunn2DsqwsrHoND"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Lost Forever Over The Moon",
         "url": "https://open.spotify.com/album/2jJE6NcA3uvGaSLsf8FGZI"
@@ -81,7 +65,7 @@
       "url": "https://open.spotify.com/track/5vRe5caFk0xaJ58whrsKwB"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "New Life",
         "url": "https://open.spotify.com/album/2MN11ljtp2BpVE1j0HGDiL"
@@ -97,7 +81,7 @@
       "url": "https://open.spotify.com/track/3q7Su3NYWAaHFuyGoG95R8"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "The Fixer",
         "url": "https://open.spotify.com/album/0O6Qvr0w09HYeKoSSC3Gud"
@@ -113,23 +97,27 @@
       "url": "https://open.spotify.com/track/21GcIl9SpMma9FrUlsFHEZ"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Down the River",
-        "url": "https://open.spotify.com/album/5xXDE5uhAnIeXaYwM8Kgm6"
+        "name": "Aries (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2cRwJ9bSSl4fbj3PixcBYK"
       },
       "artists": [
         {
-          "name": "ViVii",
-          "url": "https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa"
+          "name": "Freja Drakenberg",
+          "url": "https://open.spotify.com/artist/2SKLZYthHIaik4nPTqcboR"
+        },
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 383371,
-      "name": "Down the River",
-      "url": "https://open.spotify.com/track/5RbcXgY0pHBJfgSXU55JSr"
+      "duration_ms": 225124,
+      "name": "Aries - Acoustic Version",
+      "url": "https://open.spotify.com/track/0awaMjHvi5I8mAaeOVuq1E"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "To A Girl From West Virginia",
         "url": "https://open.spotify.com/album/3KzWdmfZMzrWTbmGVBG4JO"
@@ -145,7 +133,7 @@
       "url": "https://open.spotify.com/track/7Cf56Da4lCncJNaJybFU4M"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
@@ -161,7 +149,23 @@
       "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
+        "name": "Down the River",
+        "url": "https://open.spotify.com/album/5xXDE5uhAnIeXaYwM8Kgm6"
+      },
+      "artists": [
+        {
+          "name": "ViVii",
+          "url": "https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa"
+        }
+      ],
+      "duration_ms": 383371,
+      "name": "Down the River",
+      "url": "https://open.spotify.com/track/5RbcXgY0pHBJfgSXU55JSr"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
         "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
@@ -177,23 +181,7 @@
       "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
-      "album": {
-        "name": "doing my best",
-        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "doing my best",
-      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
-    },
-    {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Red Lights",
         "url": "https://open.spotify.com/album/0ps4aJ1TD25oPafnp5LK6E"
@@ -209,7 +197,7 @@
       "url": "https://open.spotify.com/track/320z12RQPnJuz5ZhGxMY1o"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "In The Silver Wire Up The Hill",
         "url": "https://open.spotify.com/album/6zv6dXI5a3UU1hbsHAIbhx"
@@ -225,7 +213,23 @@
       "url": "https://open.spotify.com/track/0F6mh0uFBlp9ZooThw0x8L"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
+        "name": "doing my best",
+        "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "doing my best",
+      "url": "https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
@@ -241,23 +245,7 @@
       "url": "https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
-      "album": {
-        "name": "H\u00e5nd i h\u00e5nd",
-        "url": "https://open.spotify.com/album/6ecIxoN986DqqDyGR7TxjY"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 258270,
-      "name": "H\u00e5nd i h\u00e5nd",
-      "url": "https://open.spotify.com/track/66AfUjHnIjqXqyeI9IRjtZ"
-    },
-    {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Hunter",
         "url": "https://open.spotify.com/album/5oWJKqQnZp3xNZRx6ncRpR"
@@ -273,7 +261,7 @@
       "url": "https://open.spotify.com/track/55C3EVIHYnHxX8lKIR4Pjy"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "No One Calls",
         "url": "https://open.spotify.com/album/0FAMpkTEOBHFLspcPmCG6h"
@@ -289,7 +277,7 @@
       "url": "https://open.spotify.com/track/5EuUiUYPMzE6Th5JFdxiNC"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "All Shall Be Well",
         "url": "https://open.spotify.com/album/20o0u1AOqGujEoInBj5JR9"
@@ -309,23 +297,23 @@
       "url": "https://open.spotify.com/track/0yt9HKXnTIPJgx5v3o6WxR"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
-        "name": "Goodbye to the Valley Low (Side A)",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+        "name": "H\u00e5nd i h\u00e5nd",
+        "url": "https://open.spotify.com/album/6ecIxoN986DqqDyGR7TxjY"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 181130,
-      "name": "Stolen Seasons",
-      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+      "duration_ms": 258270,
+      "name": "H\u00e5nd i h\u00e5nd",
+      "url": "https://open.spotify.com/track/66AfUjHnIjqXqyeI9IRjtZ"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "GUTWORK",
         "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
@@ -341,7 +329,55 @@
       "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
+        "name": "Goodbye to the Valley Low (Side A)",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "Stolen Seasons",
+      "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
+        "name": "Agapi mou",
+        "url": "https://open.spotify.com/album/6YE8F4bzE5NK1UAUnWIWDE"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Bangfield",
+          "url": "https://open.spotify.com/artist/1xPMsPZNvSHAhw5wzYApho"
+        }
+      ],
+      "duration_ms": 213499,
+      "name": "Agapi mou",
+      "url": "https://open.spotify.com/track/5IpdjcnT6ZstuYawFxpo2U"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
+        "name": "Against The Dying Of The Light",
+        "url": "https://open.spotify.com/album/46XdK0AK5PmeummJN5fB6W"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 268026,
+      "name": "You & We",
+      "url": "https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Overboda",
         "url": "https://open.spotify.com/album/3T6sNT79Wwaiv8gLuAy3sd"
@@ -361,23 +397,7 @@
       "url": "https://open.spotify.com/track/3epOEYmGLCbfdniI7xTYvC"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
-      "album": {
-        "name": "Agapi mou",
-        "url": "https://open.spotify.com/album/6YE8F4bzE5NK1UAUnWIWDE"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Bangfield",
-          "url": "https://open.spotify.com/artist/1xPMsPZNvSHAhw5wzYApho"
-        }
-      ],
-      "duration_ms": 213499,
-      "name": "Agapi mou",
-      "url": "https://open.spotify.com/track/5IpdjcnT6ZstuYawFxpo2U"
-    },
-    {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "embraced for a second as we die",
         "url": "https://open.spotify.com/album/7t2DD9XyYaWoCGnaIWuprt"
@@ -393,23 +413,7 @@
       "url": "https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
-      "album": {
-        "name": "It Won't Change Anything",
-        "url": "https://open.spotify.com/album/48FtnMgZUyYZdNMSboDuOr"
-      },
-      "artists": [
-        {
-          "name": "Simen Mitlid",
-          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
-        }
-      ],
-      "duration_ms": 273500,
-      "name": "It Won't Change Anything",
-      "url": "https://open.spotify.com/track/6nGwy3SRY37YtQgF35Zxrc"
-    },
-    {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "blue jean",
         "url": "https://open.spotify.com/album/7LE4h29Y0CQDbrxIpAUIfR"
@@ -425,7 +429,7 @@
       "url": "https://open.spotify.com/track/5UfP6kSzcJE9kFJlBEHU2o"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "To Know A Girl",
         "url": "https://open.spotify.com/album/6KnpVvB8AeJmxnVSscHgOg"
@@ -441,7 +445,7 @@
       "url": "https://open.spotify.com/track/1Wym8u72A2GXzdJnr1LV37"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Avignon",
         "url": "https://open.spotify.com/album/315zDuhY2o78IXHT6dh0wT"
@@ -457,7 +461,7 @@
       "url": "https://open.spotify.com/track/0JA8jQG6oVRsOzdsc0iiJc"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Deliver Me From Trying",
         "url": "https://open.spotify.com/album/6EdfaGpqsJBOlnaD0KeT8r"
@@ -473,7 +477,7 @@
       "url": "https://open.spotify.com/track/7hYvMqoqHqoow0XRJ6RCNk"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
@@ -489,7 +493,7 @@
       "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Say you want me still",
         "url": "https://open.spotify.com/album/5oiBQ2m62WA1UYXBQ3Ig0v"
@@ -505,7 +509,7 @@
       "url": "https://open.spotify.com/track/2IWNsgtu04OXJjx7KkKomH"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO"
@@ -521,7 +525,7 @@
       "url": "https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Come Through",
         "url": "https://open.spotify.com/album/5wImEZqtE1LBsRGEbrzKSS"
@@ -537,7 +541,7 @@
       "url": "https://open.spotify.com/track/06nuQASic35njbk01mB2KY"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/5gYt9wiCn8FXxQhu58Rrbv"
@@ -553,7 +557,7 @@
       "url": "https://open.spotify.com/track/7eWLaTshSGOtQJ2KHoNEZZ"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Love Freely",
         "url": "https://open.spotify.com/album/1V0cNxts85DS7hmWmkRnBa"
@@ -569,7 +573,7 @@
       "url": "https://open.spotify.com/track/32dvZRmuTmsIPlAw3bCEAk"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "The Man Who Lost it All",
         "url": "https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA"
@@ -585,7 +589,7 @@
       "url": "https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "love isn't everything",
         "url": "https://open.spotify.com/album/2GHPtoxe8P9I9fbbq8eG77"
@@ -601,7 +605,7 @@
       "url": "https://open.spotify.com/track/75kGiT9k4Gor7JOBbl4QWi"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Til the music starts again",
         "url": "https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK"
@@ -625,7 +629,7 @@
       "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Goodbye to the Valley Low (Side A)",
         "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
@@ -641,7 +645,7 @@
       "url": "https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Vampire Country",
         "url": "https://open.spotify.com/album/2DZpZ3j4yZrv39kuKeNtvZ"
@@ -657,7 +661,7 @@
       "url": "https://open.spotify.com/track/7AF2UzVYXqxdJLKzKuKq1U"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Lonely Cowboy",
         "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
@@ -673,7 +677,7 @@
       "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Evergreen In Your Mind",
         "url": "https://open.spotify.com/album/2bwZckPIXlpLmPCrs83RK2"
@@ -689,7 +693,7 @@
       "url": "https://open.spotify.com/track/6oiT5eBtHPQc3FeCMTJMzU"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Revelations of Divine Love",
         "url": "https://open.spotify.com/album/1uuBA9XmI7XeNKDynK0AK2"
@@ -709,7 +713,7 @@
       "url": "https://open.spotify.com/track/5oKWegSnfRuQcmJH9C98UB"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U"
@@ -725,7 +729,7 @@
       "url": "https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "By The Morning",
         "url": "https://open.spotify.com/album/2m7ZHEwziLuTtC0nBXujYe"
@@ -741,7 +745,7 @@
       "url": "https://open.spotify.com/track/6AYzCA6Amw49cbWOMp09k8"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Never Gonna Last",
         "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
@@ -757,7 +761,7 @@
       "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "member",
         "url": "https://open.spotify.com/album/6Qss7SVxhsnDImYCXUvdNE"
@@ -773,7 +777,23 @@
       "url": "https://open.spotify.com/track/3oP9C1RYEOzRWMmnKtC8wh"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
+      "album": {
+        "name": "It Won't Change Anything",
+        "url": "https://open.spotify.com/album/48FtnMgZUyYZdNMSboDuOr"
+      },
+      "artists": [
+        {
+          "name": "Simen Mitlid",
+          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
+        }
+      ],
+      "duration_ms": 273500,
+      "name": "It Won't Change Anything",
+      "url": "https://open.spotify.com/track/6nGwy3SRY37YtQgF35Zxrc"
+    },
+    {
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Til hverdagen tar oss igjen",
         "url": "https://open.spotify.com/album/2sCBn5AwUYBHDvr0I7euw9"
@@ -789,7 +809,7 @@
       "url": "https://open.spotify.com/track/0UcIJPL1K8fYZoLvArSO3g"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "A Dangerous Thing",
         "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
@@ -805,7 +825,7 @@
       "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
@@ -821,7 +841,7 @@
       "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Bonnie",
         "url": "https://open.spotify.com/album/3XVNLt1yYmEnxqkVgwTmoP"
@@ -837,7 +857,7 @@
       "url": "https://open.spotify.com/track/4dSqTRVLTyLPEjlxqBcmde"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Cult to A Saint",
         "url": "https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf"
@@ -857,7 +877,7 @@
       "url": "https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Evigheten n\u00e6rmer seg",
         "url": "https://open.spotify.com/album/77RXk1VrQ9aDWIWcGfnipX"
@@ -873,7 +893,7 @@
       "url": "https://open.spotify.com/track/5pYxllxzdm368L57cbzGIq"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "A Chosen Family",
         "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
@@ -889,7 +909,7 @@
       "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Laminar Flow",
         "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
@@ -905,7 +925,7 @@
       "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Part Of The Story",
         "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
@@ -921,7 +941,7 @@
       "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Feels like That",
         "url": "https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq"
@@ -937,7 +957,7 @@
       "url": "https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Til hverdagen tar oss igjen",
         "url": "https://open.spotify.com/album/1QfiYSZcs3ezTBfv5KZn5U"
@@ -953,7 +973,7 @@
       "url": "https://open.spotify.com/track/7sEtrKKZjXd3OgIeMi0e3w"
     },
     {
-      "added_at": "2026-10-15 22:00:52",
+      "added_at": "2026-10-22 22:01:40",
       "album": {
         "name": "Pixie's Parasol",
         "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
@@ -967,38 +987,6 @@
       "duration_ms": 182946,
       "name": "Pixie's Parasol",
       "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
-    },
-    {
-      "added_at": "2026-10-15 22:00:52",
-      "album": {
-        "name": "Wild Geese, Wild Love / Day 2000 Awake",
-        "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
-      },
-      "artists": [
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 323386,
-      "name": "Wild Geese, Wild Love",
-      "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
-    },
-    {
-      "added_at": "2026-10-15 22:00:52",
-      "album": {
-        "name": "Viking Fair",
-        "url": "https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4"
-      },
-      "artists": [
-        {
-          "name": "forfedre",
-          "url": "https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW"
-        }
-      ],
-      "duration_ms": 67112,
-      "name": "Viking Fair",
-      "url": "https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP"
     }
   ],
   "unique_name": "Nordic Folk",

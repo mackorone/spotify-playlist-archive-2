@@ -1,13 +1,133 @@
 {
-  "description": "BFLQuatro, AangenaamBK, Impy, ENDS en meer",
-  "num_followers": 158304,
+  "description": "Romano Santino, Sepa, KLEPPER en meer",
+  "num_followers": 158296,
   "original_name": "Fresh Flows",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPQt/fQwmA0f9lPfmYQWHHB3qK31",
+  "snapshot_id": "AAAAANHWjrmhBU5i9/csGE1EQKLU55gB",
   "tracks": [
+    {
+      "added_at": "2026-10-22 22:01:02",
+      "album": {
+        "name": "Mijn verhaal",
+        "url": "https://open.spotify.com/album/5MVBrA64hk22HqV0kO1YZg"
+      },
+      "artists": [
+        {
+          "name": "Romano Santino",
+          "url": "https://open.spotify.com/artist/1FqLsYuVoYhNIhUj1gQmzU"
+        }
+      ],
+      "duration_ms": 141030,
+      "name": "Mijn verhaal",
+      "url": "https://open.spotify.com/track/0nWiRVX2yP77r36bWWVrhk"
+    },
+    {
+      "added_at": "2026-10-22 22:01:02",
+      "album": {
+        "name": "Ik Wens",
+        "url": "https://open.spotify.com/album/0cQ20FqNuDzLAIlbygBFrI"
+      },
+      "artists": [
+        {
+          "name": "Sepa",
+          "url": "https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7"
+        }
+      ],
+      "duration_ms": 152869,
+      "name": "Ik Wens",
+      "url": "https://open.spotify.com/track/5nZe9LTAPKzrSxrBkdj5W1"
+    },
+    {
+      "added_at": "2026-10-22 22:01:02",
+      "album": {
+        "name": "Ambtenaar",
+        "url": "https://open.spotify.com/album/3fljTm2csQRHjARDIIurRl"
+      },
+      "artists": [
+        {
+          "name": "KLEPPER",
+          "url": "https://open.spotify.com/artist/76iMU8XC2lppYq8q05j8I6"
+        }
+      ],
+      "duration_ms": 148453,
+      "name": "Ambtenaar",
+      "url": "https://open.spotify.com/track/2L4Wvkk9gwX6zpXtFr0jSx"
+    },
+    {
+      "added_at": "2026-10-22 22:01:02",
+      "album": {
+        "name": "Citroen",
+        "url": "https://open.spotify.com/album/2UO6dfhdgb9LdowdL4Ir6N"
+      },
+      "artists": [
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Vegen uit de pan",
+      "url": "https://open.spotify.com/track/4K9FsIjcEyTTuXSJrbC8Mp"
+    },
+    {
+      "added_at": "2026-10-22 22:01:02",
+      "album": {
+        "name": "Geen Probleem",
+        "url": "https://open.spotify.com/album/7ouD2wy3w4Jbg6g4AK2EHz"
+      },
+      "artists": [
+        {
+          "name": "TB",
+          "url": "https://open.spotify.com/artist/32dyZVtIJgvvGCLvCKD87s"
+        }
+      ],
+      "duration_ms": 131737,
+      "name": "Geen Probleem",
+      "url": "https://open.spotify.com/track/4aaBD6KF5ZoPNMf9QnHUBt"
+    },
+    {
+      "added_at": "2026-10-22 22:01:02",
+      "album": {
+        "name": "Yeah",
+        "url": "https://open.spotify.com/album/2S9sbuVWeANR81FIL9ejBe"
+      },
+      "artists": [
+        {
+          "name": "Jeriel",
+          "url": "https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu"
+        },
+        {
+          "name": "EKvnd00",
+          "url": "https://open.spotify.com/artist/3etYd9C17IDK9D3lQKeIh7"
+        },
+        {
+          "name": "Quatro",
+          "url": "https://open.spotify.com/artist/3nOzLwnYYDesoD8k70xvTO"
+        }
+      ],
+      "duration_ms": 138095,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/52lAiKndpn0e39fAeYwx0q"
+    },
+    {
+      "added_at": "2026-10-22 22:01:02",
+      "album": {
+        "name": "Afwezig",
+        "url": "https://open.spotify.com/album/0Xeg3KEi8vRRgwwKPwExgP"
+      },
+      "artists": [
+        {
+          "name": "Ibo",
+          "url": "https://open.spotify.com/artist/5OZQT6amNXVpXIeZt8jPX2"
+        }
+      ],
+      "duration_ms": 152258,
+      "name": "Afwezig",
+      "url": "https://open.spotify.com/track/6mJiX3dm52aFehmZETIQ71"
+    },
     {
       "added_at": "2026-10-15 22:00:34",
       "album": {
@@ -1148,12 +1268,12 @@
       },
       "artists": [
         {
-          "name": "Yenko Forever",
-          "url": "https://open.spotify.com/artist/5hJNMLReXLC01Gj7ApveXN"
-        },
-        {
           "name": "Nerra",
           "url": "https://open.spotify.com/artist/3pshrBCH7nXMlaUVtP4zpz"
+        },
+        {
+          "name": "Yenko Forever",
+          "url": "https://open.spotify.com/artist/5hJNMLReXLC01Gj7ApveXN"
         }
       ],
       "duration_ms": 177272,
@@ -1243,26 +1363,6 @@
       "duration_ms": 156444,
       "name": "NICKI MINAJ",
       "url": "https://open.spotify.com/track/4fnFxvgnr2IU2YuWno85Cr"
-    },
-    {
-      "added_at": "2026-10-15 22:00:34",
-      "album": {
-        "name": "Offline",
-        "url": "https://open.spotify.com/album/0rCKeKhHd2PxT7t6WskOwB"
-      },
-      "artists": [
-        {
-          "name": "ENDS",
-          "url": "https://open.spotify.com/artist/7HerIYLXNuerA6UGWPTzzu"
-        },
-        {
-          "name": "Willybeatsz",
-          "url": "https://open.spotify.com/artist/7EMecPNLqqq9nM13aOd40p"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Offline",
-      "url": "https://open.spotify.com/track/47o1tPr03M90YKFO4zCHoM"
     },
     {
       "added_at": "2026-10-15 22:00:34",
@@ -1431,26 +1531,6 @@
     {
       "added_at": "2026-10-15 22:00:34",
       "album": {
-        "name": "Feds",
-        "url": "https://open.spotify.com/album/1QBVLdaLSlCIhnGTZmspb7"
-      },
-      "artists": [
-        {
-          "name": "Manio",
-          "url": "https://open.spotify.com/artist/0WHCUAZSpyxMxMjF5qTtx8"
-        },
-        {
-          "name": "HB The Plug",
-          "url": "https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "Feds",
-      "url": "https://open.spotify.com/track/3enT5lxDQxYMXuUzi0wz8C"
-    },
-    {
-      "added_at": "2026-10-15 22:00:34",
-      "album": {
         "name": "Lightwork Freestyle Jaysize",
         "url": "https://open.spotify.com/album/29Ya5HtPhV8LLwnvzdfDgm"
       },
@@ -1467,74 +1547,6 @@
       "duration_ms": 84704,
       "name": "Shake Sum",
       "url": "https://open.spotify.com/track/0YFbdVkqvomP9VrU30IbrM"
-    },
-    {
-      "added_at": "2026-10-15 22:00:34",
-      "album": {
-        "name": "Million Ways",
-        "url": "https://open.spotify.com/album/1PlzkOFgKk5WDolYIOSygG"
-      },
-      "artists": [
-        {
-          "name": "DJK",
-          "url": "https://open.spotify.com/artist/770XrF16aAOwPaYMqMJ6bm"
-        }
-      ],
-      "duration_ms": 116869,
-      "name": "Million Ways",
-      "url": "https://open.spotify.com/track/1H22wMcjBmyZfiXFoluo0m"
-    },
-    {
-      "added_at": "2026-10-15 22:00:34",
-      "album": {
-        "name": "Matje Vies",
-        "url": "https://open.spotify.com/album/4R0aHMXwIq9w909KoyxNwQ"
-      },
-      "artists": [
-        {
-          "name": "AangenaamBK",
-          "url": "https://open.spotify.com/artist/6KOuWujrKYQYnxrY3BwoCb"
-        },
-        {
-          "name": "HB The Plug",
-          "url": "https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Matje Vies",
-      "url": "https://open.spotify.com/track/7kYOl4HY4IgpcKphzxhs49"
-    },
-    {
-      "added_at": "2026-10-15 22:00:34",
-      "album": {
-        "name": "Ren & Stimpy",
-        "url": "https://open.spotify.com/album/6CWS6wVOHWqbZA1vCi5a6z"
-      },
-      "artists": [
-        {
-          "name": "Dada 7x",
-          "url": "https://open.spotify.com/artist/3tsm4RW17sqEVfUPjIGb6K"
-        }
-      ],
-      "duration_ms": 199518,
-      "name": "Ren & Stimpy",
-      "url": "https://open.spotify.com/track/0f4ebxJoebCa0CUfSB8UJ0"
-    },
-    {
-      "added_at": "2026-10-15 22:00:34",
-      "album": {
-        "name": "DOWN",
-        "url": "https://open.spotify.com/album/07KHg4MG5lDqA3rWLxDZ2g"
-      },
-      "artists": [
-        {
-          "name": "DIM",
-          "url": "https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "DOWN",
-      "url": "https://open.spotify.com/track/22thDxnP0TZNDiFwV9Rh5q"
     }
   ],
   "unique_name": "Fresh Flows",

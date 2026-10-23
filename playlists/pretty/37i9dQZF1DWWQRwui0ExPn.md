@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,518,182 likes - 230 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,518,230 likes - 230 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 96 | [Before It's Over](https://open.spotify.com/track/3UarXXaTIWcNfDthy8iQF7) | [tatsuo](https://open.spotify.com/artist/0yW4uPjl7S5Rk0sjOzVRTb) | [Before It's Over](https://open.spotify.com/album/4BITkzZjCHP1asHUJkjt34) | 2:27 |
 | 97 | [Tender Tuesday](https://open.spotify.com/track/0pPl6bkUbBdT3IVA7mvPgB) | [Vanta Vio](https://open.spotify.com/artist/0lknkk3kUqfMHmBzf0VzNA) | [Tender Tuesday](https://open.spotify.com/album/5mHBJX0UexJOW36PKSE6oz) | 2:27 |
 | 98 | [Seasides](https://open.spotify.com/track/4c2mpOx581sVs13T9YUHUi) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Seasides](https://open.spotify.com/album/5uG0yctgGzQUfbrfdZrek6) | 2:24 |
-| 99 | [luna](https://open.spotify.com/track/2iYVFJqf0xytX4otStZztD) | [herbstreit](https://open.spotify.com/artist/2SStUCSD2CWubs48mXj2D8) | [luna](https://open.spotify.com/album/0Ulqx3t5v6zQUNANppe9C4) | 2:18 |
+| 99 | [luna](https://open.spotify.com/track/2iYVFJqf0xytX4otStZztD) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [luna](https://open.spotify.com/album/0Ulqx3t5v6zQUNANppe9C4) | 2:18 |
 | 100 | [Return](https://open.spotify.com/track/7AXJWBUcfdnBELORMr7NkU) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Return](https://open.spotify.com/album/2TvCA2nzyg5cgd3jsgXYSS) | 3:03 |
 | 101 | [just for a while](https://open.spotify.com/track/3rxfZwUImueIshn8BxQdmH) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [just for a while](https://open.spotify.com/album/0SBu5CTXXVvnm6rDjvjPil) | 2:14 |
 | 102 | [Seasons](https://open.spotify.com/track/6s3fchBlp0SVYeIyTpLcJG) | [Valgre](https://open.spotify.com/artist/4Car9HylNpk3hdArsuEQOp) | [Seasons](https://open.spotify.com/album/1wS7BVoGPn7Z1raDH2qlX2) | 2:16 |

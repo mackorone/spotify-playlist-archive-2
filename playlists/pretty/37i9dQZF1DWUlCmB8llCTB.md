@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 
 > Perreando toda la noche con iZaak y Chencho Corleone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,236 likes - 101 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 752,223 likes - 101 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 | 3 | [Va a querer volver](https://open.spotify.com/track/7vMaIFvCS8p4H8SnwJ9zcy) | [Felipelblessed](https://open.spotify.com/artist/1tpfOvCgQzYscixwwKlZbx), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk), [wildbearLB](https://open.spotify.com/artist/1m9v9j880cT79X4BNwdBRt) | [Va a querer volver](https://open.spotify.com/album/6Yr8GIfHDI95n0oHCPnPig) | 2:55 |
 | 4 | [PROVÓCATE](https://open.spotify.com/track/0dpV9WOqhZJqoFQDD9d9Eu) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [EL PEOR HOMBRE DEL MUNDO](https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb) | 3:06 |
 | 5 | [BAYAMÓN](https://open.spotify.com/track/3ZGNnNlKZNMNW9abDm0i0g) | [Capo](https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Esteban González](https://open.spotify.com/artist/1vMnVEtq5i30xyCVaHPhyz) | [BAYAMÓN](https://open.spotify.com/album/73kwI4UvPc6CfNi5zih7AY) | 2:57 |
-| 6 | [ULA U](https://open.spotify.com/track/58lUFyBGQyRbuy8SpVhRrI) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy), [QueHicisteBella](https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv) | [ULA U](https://open.spotify.com/album/7zivrAN54dgpplrgDLkSrV) | 3:02 |
+| 6 | [ula u](https://open.spotify.com/track/58lUFyBGQyRbuy8SpVhRrI) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy), [QueHicisteBella](https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv) | [ula u](https://open.spotify.com/album/7zivrAN54dgpplrgDLkSrV) | 3:02 |
 | 7 | [CX5](https://open.spotify.com/track/2T7kTr1KXWXLGDBmMNFp2n) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [CX5](https://open.spotify.com/album/462xLOTk56AXpH83q9kcXm) | 3:35 |
 | 8 | [PA QUE BAILE](https://open.spotify.com/track/3WrqWxl9Le6CsbWeu97WgE) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [PA QUE BAILE](https://open.spotify.com/album/0fTpOkBa9jlsQmAw7GjfWx) | 2:52 |
 | 9 | [Favorita del Ghetto \| CROSSOVER \#12](https://open.spotify.com/track/3y3ylOBgmuM19xR177J0eb) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036) | [Favorita del Ghetto \| CROSSOVER \#12](https://open.spotify.com/album/5h66DxQNQGntf7Z2CCeDrv) | 2:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,971 songs - 11 day 5 hr 40 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 288 likes - 4,972 songs - 11 day 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 41 | [It's You](https://open.spotify.com/track/6PTEYjeE9e1jXbBHKZeYdH) | [Umang Mehta](https://open.spotify.com/artist/1zKJLTBdEXNsdHiIAH6Th2) | [It's You](https://open.spotify.com/album/3kbxJm5NAgNQAw3a6GVXpk) | 3:55 |
 | 42 | [Echoes Of You](https://open.spotify.com/track/31acji34PHBBhRghyzOslO) | [Woytinek AI Music](https://open.spotify.com/artist/6klSDm3TJW4K2iJgXhOShO) | [Echoes Of You](https://open.spotify.com/album/2szjVkJIog1a6V01GynIrT) | 3:39 |
 | 43 | [My Fallen Hero \(Reimagined\)](https://open.spotify.com/track/5GZTcFrPPTmsO7P9V1cZDR) | [Echo Chamber One](https://open.spotify.com/artist/6iZsHDwRP0FqyRhkkvee4Z) | [My Fallen Hero \(Reimagined\)](https://open.spotify.com/album/2Z1FEcMVdojlc24iooCg1U) | 3:41 |
-| 44 | [Dharma Pig](https://open.spotify.com/track/55s3bnM68o7pRq3dzLvE9v) | [Ethan Ice](https://open.spotify.com/artist/0nok7WTxJq1I27y8uSTNUW) | [Dharma Pig](https://open.spotify.com/album/4Ds7SLLQXCfq5GzQIhBEy1) | 6:26 |
+| 44 | [Dharma Pig](https://open.spotify.com/track/55s3bnM68o7pRq3dzLvE9v) | [Ethan Ice](https://open.spotify.com/artist/0nok7WTxJq1I27y8uSTNUW), [Eric Bullock](https://open.spotify.com/artist/6IXoejQpSlIRw7aPW9Kbem) | [Dharma Pig](https://open.spotify.com/album/4Ds7SLLQXCfq5GzQIhBEy1) | 6:26 |
 | 45 | [METEOR QUEEN](https://open.spotify.com/track/2v7nQCFD48vBjRDcsIc0tD) | [METEOR QUEEN](https://open.spotify.com/artist/4KGSpkAJuhqRXCN43UoNBq) | [METEOR QUEEN](https://open.spotify.com/album/0FHPHLYuCPoK8RHJs6FsWv) | 3:59 |
 | 46 | [Such Is Life](https://open.spotify.com/track/08m9F4cUSbIBzgfFVNdK7y) | [Ethan Ice](https://open.spotify.com/artist/0nok7WTxJq1I27y8uSTNUW) | [Such Is Life](https://open.spotify.com/album/2lfetQGbjwBMeCdNjQgtih) | 5:42 |
 | 47 | [Can't Deal](https://open.spotify.com/track/3HAYqVV6pik5cE73O9m6Xm) | [Infuriate Souls](https://open.spotify.com/artist/4kGaDNHuSf9oJkmVxF370j) | [Infuriate Souls](https://open.spotify.com/album/4cNOmUdpfzp0bohouJRi6X) | 3:16 |
@@ -4979,5 +4979,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4969 | [Do not give up](https://open.spotify.com/track/53PkVboVCwrHpT8VEPlsyn) | [Stephen Dane](https://open.spotify.com/artist/2xYFifG4GUu3m2CKOlJUu3) | [Do not give up](https://open.spotify.com/album/4eKT5ELVX3j07XQbNidxNn) | 3:08 |
 | 4970 | [Blackbird Jesus](https://open.spotify.com/track/6GCQeEusHe8tNtCxDeebp7) | [MX the American](https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU) | [Blackbird Jesus](https://open.spotify.com/album/4rIYQnYsxOaKctx7cROblR) | 3:58 |
 | 4971 | [Neverending](https://open.spotify.com/track/5t32Xg2Aqwc4MKfMCcf244) | [Brother Venus](https://open.spotify.com/artist/45ZPkbeHuBIsgk4fzjmg3R) | [Neverending](https://open.spotify.com/album/0d8H1lT7wVzDmIIgRPbtdY) | 4:38 |
+| 4972 | [Brooklyn](https://open.spotify.com/track/2cLyhFnnOvK997LZsOjA9i) | [Reptile Room](https://open.spotify.com/artist/2GxPyV0YIHRNi0hAaqzgER) | [Brooklyn](https://open.spotify.com/album/4QvTWqLqLYgRYxydKpFGOh) | 3:32 |
 
-Snapshot ID: `AAAKs/pZTMcJaySV7uxsxChhaRWClYXK`
+Snapshot ID: `AAAKtB0GfDu6+0HY1S//4G39X6hbBsUV`

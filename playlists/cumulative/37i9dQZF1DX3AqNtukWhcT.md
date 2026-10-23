@@ -4,7 +4,7 @@
 
 > Soft and soothing beats for all your yoga practices.
 
-309 songs - 14 hr 52 min
+310 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Ra](https://open.spotify.com/track/46WdVsTQR8oNSCz9TQTWup) | [Phumos](https://open.spotify.com/artist/4Kbma5Q6AakN90M13bF7mh) | [Ra](https://open.spotify.com/album/5iAKOHMEOZsRCvICTyDVuE) | 2:36 | 2023-08-11 | 2025-11-26 |
 | [Refract](https://open.spotify.com/track/4SW4q0IUhjq0upc0RFWM92) | [another night](https://open.spotify.com/artist/4jnXjSSUawBRoBGYAFYyGH) | [Refract](https://open.spotify.com/album/0sI4JTK1tPNvCROe0q362J) | 2:22 | 2026-01-14 |  |
 | [Reminiscing Hearts](https://open.spotify.com/track/6YfViY3EL57dtCnLlAAneM) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Reminiscing Hearts](https://open.spotify.com/album/4vF15grtrtvIXCWVtEZm7t) | 3:03 | 2025-09-30 | 2025-11-26 |
+| [Rest in Space](https://open.spotify.com/track/3dWVqjt8VgWKtHF7olUReV) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Rest in Space](https://open.spotify.com/album/05DOmBKnzZ6vfhjcDuxbji) | 1:53 | 2026-10-21 |  |
 | [Returning It All](https://open.spotify.com/track/3vYXmN6uvbcVXwWdxG145s) | [Corrid](https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy) | [Returning It All](https://open.spotify.com/album/2oryCbHtb3HeSPbzg0G9D7) | 2:28 | 2022-09-02 | 2025-11-26 |
 | [Rhythm Of My Soul](https://open.spotify.com/track/0azwXTgSFkWTFSRnt6di9r) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Rhythm Of My Soul](https://open.spotify.com/album/6silPFIfr3SUpF5cQNn9tD) | 3:04 | 2022-09-02 | 2025-11-26 |
 | [Rhythm River](https://open.spotify.com/track/3Br4ekPWHt39VULZjDvlgt) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Indian Sunset](https://open.spotify.com/album/5og83tVSEQKGWbBBx1jz6I) | 2:54 | 2022-10-25 | 2025-11-26 |

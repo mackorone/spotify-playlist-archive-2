@@ -2567,6 +2567,28 @@
     },
     {
       "album": {
+        "name": "Glorified",
+        "url": "https://open.spotify.com/album/50NJLke2qbJYVvsaYjhTn6"
+      },
+      "artists": [
+        {
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        },
+        {
+          "name": "Kaestrings",
+          "url": "https://open.spotify.com/artist/4cXRlq46eQ78HJRRIUIbDP"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1125880,
+      "name": "Glorified",
+      "url": "https://open.spotify.com/track/2CvLzpnCmSngJLwNzlcS6S"
+    },
+    {
+      "album": {
         "name": "GLORY (It belongs to You)",
         "url": "https://open.spotify.com/album/0jvSPTpNzU1pwER0llsYMA"
       },
@@ -3550,6 +3572,24 @@
       "duration_ms": 375428,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/4aBhXsIOid0Ywk8SagSDeX"
+    },
+    {
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/0JqRmgSYbh7K7vABWF0opa"
+      },
+      "artists": [
+        {
+          "name": "THEOPHILUS SUNDAY",
+          "url": "https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1179863,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/19riP5PtckUNjgn6XKvdlf"
     },
     {
       "album": {
@@ -7511,6 +7551,24 @@
     },
     {
       "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/2djsHOWioYpq0zcNYuGxAT"
+      },
+      "artists": [
+        {
+          "name": "Tosin Lalemi",
+          "url": "https://open.spotify.com/artist/3PKyubC1Xaekd4wDqlZNxB"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 628235,
+      "name": "The Awakening",
+      "url": "https://open.spotify.com/track/7MpK3ej3ay3lmS74Ng4yET"
+    },
+    {
+      "album": {
         "name": "This God Is Too Good",
         "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
       },
@@ -8378,6 +8436,28 @@
       "duration_ms": 263978,
       "name": "Who No Know",
       "url": "https://open.spotify.com/track/3GfKdhxFM0zlRWrpPomJRs"
+    },
+    {
+      "album": {
+        "name": "With My heart (Spontaneous) [feat. Sanmi Michael]",
+        "url": "https://open.spotify.com/album/2oy6YWa74rzaaGefA5qWeE"
+      },
+      "artists": [
+        {
+          "name": "Tobi Walker",
+          "url": "https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW"
+        },
+        {
+          "name": "Sanmi Michael",
+          "url": "https://open.spotify.com/artist/1o6J4pNCDn0qzJeuPkVowk"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482266,
+      "name": "With My heart (Spontaneous) [feat. Sanmi Michael]",
+      "url": "https://open.spotify.com/track/0DtCnUad5CGWvclmEvClFJ"
     },
     {
       "album": {

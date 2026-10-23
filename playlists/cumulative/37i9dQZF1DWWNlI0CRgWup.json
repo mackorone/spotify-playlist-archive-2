@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : TeddyBear",
+  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : (D)Juno",
   "name": "RADAR FRANCE",
   "tracks": [
     {
@@ -762,7 +762,7 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 196265,
       "name": "BUENA ONDA",
       "url": "https://open.spotify.com/track/1bg7IHZzSoBXQyPStO6i3X"
@@ -1021,6 +1021,28 @@
     },
     {
       "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        },
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB"
+    },
+    {
+      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ"
       },
@@ -1090,6 +1112,24 @@
       "duration_ms": 141176,
       "name": "Comme des rats",
       "url": "https://open.spotify.com/track/30NnfTuqWG36upsxuT4QOG"
+    },
+    {
+      "album": {
+        "name": "Comme Les Grands",
+        "url": "https://open.spotify.com/album/0E1faWHqxDFfhGk5QQLSEL"
+      },
+      "artists": [
+        {
+          "name": "Sam Sauvage",
+          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173489,
+      "name": "Comme Les Grands",
+      "url": "https://open.spotify.com/track/7dUSBPzL053R3aI9iCXw68"
     },
     {
       "album": {
@@ -1642,6 +1682,24 @@
       "duration_ms": 177613,
       "name": "Docteur",
       "url": "https://open.spotify.com/track/1qCQFjFqqDR1p2uorkJZfI"
+    },
+    {
+      "album": {
+        "name": "Don Junio",
+        "url": "https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV"
+      },
+      "artists": [
+        {
+          "name": " (D)Juno",
+          "url": "https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186772,
+      "name": "Don Junio",
+      "url": "https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy"
     },
     {
       "album": {
@@ -2222,7 +2280,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 186253,
       "name": "Good to know",
       "url": "https://open.spotify.com/track/4ICnjvpxN0faFDplYTE5jf"
@@ -3664,6 +3722,24 @@
       "duration_ms": 172000,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/0sKpD4IYSjigg2bwX9BkGm"
+    },
+    {
+      "album": {
+        "name": "EXTASIAAAAA",
+        "url": "https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq"
+      },
+      "artists": [
+        {
+          "name": "Ino Casablanca",
+          "url": "https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171776,
+      "name": "L\u00c9 TAL",
+      "url": "https://open.spotify.com/track/3jL0jnNJLEC2zUHBtILCXS"
     },
     {
       "album": {
@@ -5692,7 +5768,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 158063,
       "name": "Sorry I'm French",
       "url": "https://open.spotify.com/track/5zp0YGDgIeSbBc8kd0su4W"

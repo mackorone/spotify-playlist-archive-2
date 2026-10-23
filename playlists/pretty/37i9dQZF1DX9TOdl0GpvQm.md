@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 
 > deep dark ambient and half\-remembered hypnagogic soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,832 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,891 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 | 80 | [The Black Drop](https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i) | [Mount Vernon Arts Lab](https://open.spotify.com/artist/37aUQIcdo49KgggYxVKcQY) | [Séance at Hobs Lane](https://open.spotify.com/album/50dd5Emb8udvftgSFCRwv6) | 3:13 |
 | 81 | [Decision Point](https://open.spotify.com/track/1WnTdKCaXBWVGppcN8xttt) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Endless Echo](https://open.spotify.com/album/0XAjiCwyC9ykPOn8k8Gy18) | 4:32 |
 | 82 | [Stonehenge](https://open.spotify.com/track/1Kv5H3hca3RZztmtdyxz2C) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq), [Alan Howarth](https://open.spotify.com/artist/3Ia5S5H9yoQpc9Hqy0cqAU) | [Halloween III: Complete Original Motion Picture Score](https://open.spotify.com/album/10nXp7CzkrCbAtuCO8aWtm) | 3:29 |
-| 83 | [Young Archimedes \(feat\. BBC National Orchestra Of Wales\)](https://open.spotify.com/track/2B6Dur458zHxVlkNrVlWmc) | [Will Gregory Moog Ensemble](https://open.spotify.com/artist/6DTcZj1lWLJB690Y65Aa9l), [Will Gregory](https://open.spotify.com/artist/32KmawYmxJ5tcL7Qkbegff), [BBC National Orchestra Of Wales](https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf) | [Heat Ray: The Archimedes Project](https://open.spotify.com/album/26jUvZEETVKfAZQe7XwygQ) | 3:39 |
-| 84 | [Sky Hooks](https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Sky Hooks](https://open.spotify.com/album/1cRRoju0uC7dKI0DShRofp) | 6:03 |
+| 83 | [Sky Hooks](https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Sky Hooks](https://open.spotify.com/album/1cRRoju0uC7dKI0DShRofp) | 6:03 |
+| 84 | [Young Archimedes \(feat\. BBC National Orchestra Of Wales\)](https://open.spotify.com/track/2B6Dur458zHxVlkNrVlWmc) | [Will Gregory Moog Ensemble](https://open.spotify.com/artist/6DTcZj1lWLJB690Y65Aa9l), [Will Gregory](https://open.spotify.com/artist/32KmawYmxJ5tcL7Qkbegff), [BBC National Orchestra Of Wales](https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf) | [Heat Ray: The Archimedes Project](https://open.spotify.com/album/26jUvZEETVKfAZQe7XwygQ) | 3:39 |
 | 85 | [St Henri](https://open.spotify.com/track/2Zu8GTKVR2iXR3ZJIbbky3) | [Ö](https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y), [Nömak](https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY) | [Hypernormality](https://open.spotify.com/album/5s2MU4pZMy6B3guYWxlLX5) | 5:16 |
 | 86 | [Kinky Korner Klub](https://open.spotify.com/track/3SfDfknpokP9xM4q3QKeqU) | [The Focus Group](https://open.spotify.com/artist/1rBMmvtO1VqLH4kSpe5oaU) | [The Elektrik Karousel](https://open.spotify.com/album/4JvqNOHhRlmmRedc3NK7v8) | 2:24 |
 | 87 | [Mogadon Coffee Morning](https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Other Channels](https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D) | 2:56 |

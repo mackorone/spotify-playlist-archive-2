@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the freshest K-Pop new releases (Cover: IVE) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 362927,
+  "num_followers": 363039,
   "original_name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABL54GjdNbjO5qfoLnCmCiHmIjTA",
+  "snapshot_id": "AAAAABIQwLO8SlF+2gIN/2plno0Wdn2Y",
   "tracks": [
     {
       "added_at": "2026-10-19 09:03:49",
@@ -23,6 +23,138 @@
       "duration_ms": 195559,
       "name": "Looks Can Kill",
       "url": "https://open.spotify.com/track/79kqYxIkS29va2I9AeL9ak"
+    },
+    {
+      "added_at": "2026-10-22 09:28:58",
+      "album": {
+        "name": "October Archive",
+        "url": "https://open.spotify.com/album/5JczBvoNVXytVZ5K8QYrNK"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/3D69kUD60sHbAtaWRTjqpB"
+    },
+    {
+      "added_at": "2026-10-22 09:28:58",
+      "album": {
+        "name": "B AB O",
+        "url": "https://open.spotify.com/album/2mTrE0MRVE2XoQYSrWaUQM"
+      },
+      "artists": [
+        {
+          "name": "BABO",
+          "url": "https://open.spotify.com/artist/3jVRXxKf6MGDq5jb7RNIoi"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Wah",
+      "url": "https://open.spotify.com/track/3PMJELrAlnHhx7BRNGymqj"
+    },
+    {
+      "added_at": "2026-10-22 09:28:58",
+      "album": {
+        "name": "Here We Are, Kachisan.",
+        "url": "https://open.spotify.com/album/7bmkyyLwMkd3ta7dwSpwKl"
+      },
+      "artists": [
+        {
+          "name": "KACHISAN",
+          "url": "https://open.spotify.com/artist/20pVcZq4VeWqe3CxlWx2nH"
+        }
+      ],
+      "duration_ms": 191781,
+      "name": "The Last Monster",
+      "url": "https://open.spotify.com/track/16Tj4m3z0UsHMtiMZo4YO8"
+    },
+    {
+      "added_at": "2026-10-22 09:28:58",
+      "album": {
+        "name": "FIRESTARTER",
+        "url": "https://open.spotify.com/album/1trz2cTNpf94R6DdHciSbS"
+      },
+      "artists": [
+        {
+          "name": "K/DA",
+          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        },
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        },
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        },
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "FIRESTARTER",
+      "url": "https://open.spotify.com/track/1PS9KaNbnSggKcR1TelUHA"
+    },
+    {
+      "added_at": "2026-10-22 09:28:58",
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/06AOjDJIzyhFgcCUtBoVE4"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "Nochang",
+          "url": "https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO"
+        },
+        {
+          "name": "B-Free",
+          "url": "https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T"
+        },
+        {
+          "name": "YULEUM",
+          "url": "https://open.spotify.com/artist/7mR09TGFa7m27D7l2m9FbB"
+        }
+      ],
+      "duration_ms": 196467,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/64oQSsRzvZqguFx1iBtqE2"
+    },
+    {
+      "added_at": "2026-10-22 09:28:58",
+      "album": {
+        "name": "ironic",
+        "url": "https://open.spotify.com/album/2zfu8ohR8U5F96SaRQPtQL"
+      },
+      "artists": [
+        {
+          "name": "JEHYUN (OMEGA X)",
+          "url": "https://open.spotify.com/artist/7BBTbTwxI9VuHlhqCkSjaI"
+        }
+      ],
+      "duration_ms": 184565,
+      "name": "Love and Hate",
+      "url": "https://open.spotify.com/track/7F515yJo3yCcHtF1TRW5hk"
     },
     {
       "added_at": "2026-10-21 09:20:18",

@@ -1,12 +1,12 @@
 {
   "description": "This is 3 Doors Down. The essential tracks, all in one playlist.",
-  "num_followers": 182427,
+  "num_followers": 182443,
   "original_name": "This Is 3 Doors Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAAAOPGmCoXpet3WHHkgInYTy",
+  "snapshot_id": "atavAAAAAAA++bKr4E6esRKMd7djwDpc",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acoustic Back Porch Jam",
-        "url": "https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC"
+        "name": "Time Of My Life",
+        "url": "https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 235360,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/1SBuYdJK3a3NU55nGomgAe"
+      "duration_ms": 222506,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/5Zft9zIODo7ZnImwcbaO4Z"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Of My Life",
-        "url": "https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY"
+        "name": "Acoustic Back Porch Jam",
+        "url": "https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 222506,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/5Zft9zIODo7ZnImwcbaO4Z"
+      "duration_ms": 235360,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/1SBuYdJK3a3NU55nGomgAe"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Of My Life",
-        "url": "https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4E0UH3Wr1cbOhQNUHbpUYN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Greatest Hits",
         "url": "https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 230600,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/2feU3FmmtVqQpefx0GoxrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time Of My Life",
+        "url": "https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4E0UH3Wr1cbOhQNUHbpUYN"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Of My Life",
-        "url": "https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "What's Left",
-      "url": "https://open.spotify.com/track/2Qh95cRQ32MkgN7i79B9VM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Better Life",
         "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 238400,
       "name": "Life Of My Own",
       "url": "https://open.spotify.com/track/19v5b0qbqfqIDuRO8wxsIY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time Of My Life",
+        "url": "https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "What's Left",
+      "url": "https://open.spotify.com/track/2Qh95cRQ32MkgN7i79B9VM"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR"
+        "name": "Us And The Night",
+        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
       },
       "artists": [
         {
@@ -428,25 +428,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 190146,
-      "name": "There's A Life",
-      "url": "https://open.spotify.com/track/3WdKchTlzeAgex3rYa9l9n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time Of My Life",
-        "url": "https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 226120,
-      "name": "Round And Round",
-      "url": "https://open.spotify.com/track/3qAa5EFKFYUau1kM0mcJFr"
+      "duration_ms": 225760,
+      "name": "Inside Of Me",
+      "url": "https://open.spotify.com/track/7FXXsaAduHbsNewEMImm6G"
     },
     {
       "added_at": null,
@@ -467,38 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Us And The Night",
-        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Inside Of Me",
-      "url": "https://open.spotify.com/track/7FXXsaAduHbsNewEMImm6G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3 Doors Down",
-        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 227800,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/2w2xtP7ALshpK7foQnra0q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Of My Life",
         "url": "https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY"
       },
@@ -508,15 +460,15 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 178186,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/52eLB9JCFxSoSa2m4FWlTW"
+      "duration_ms": 226120,
+      "name": "Round And Round",
+      "url": "https://open.spotify.com/track/3qAa5EFKFYUau1kM0mcJFr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Better Life",
-        "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR"
       },
       "artists": [
         {
@@ -524,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 194093,
-      "name": "Not Enough",
-      "url": "https://open.spotify.com/track/7oJxBvERnRP6u0uOm14cjN"
+      "duration_ms": 190146,
+      "name": "There's A Life",
+      "url": "https://open.spotify.com/track/3WdKchTlzeAgex3rYa9l9n"
     },
     {
       "added_at": null,
@@ -547,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR"
+        "name": "The Better Life",
+        "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
       },
       "artists": [
         {
@@ -556,9 +508,25 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 176346,
-      "name": "One Light",
-      "url": "https://open.spotify.com/track/6sIYRzeM8ke76g4zudDJF1"
+      "duration_ms": 194093,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/7oJxBvERnRP6u0uOm14cjN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time Of My Life",
+        "url": "https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/52eLB9JCFxSoSa2m4FWlTW"
     },
     {
       "added_at": null,
@@ -572,9 +540,25 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 190586,
-      "name": "Train",
-      "url": "https://open.spotify.com/track/65NzNVv3O6nxffiXXeL9ZT"
+      "duration_ms": 227800,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/2w2xtP7ALshpK7foQnra0q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "One Light",
+      "url": "https://open.spotify.com/track/6sIYRzeM8ke76g4zudDJF1"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "3 Doors Down",
+        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/65NzNVv3O6nxffiXXeL9ZT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Acoustic Back Porch Jam",
         "url": "https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 235280,
       "name": "The Real Life",
       "url": "https://open.spotify.com/track/2eTshd2WZ4m6ta9aO157iF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Away From The Sun (Deluxe)",
-        "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Long Day",
-      "url": "https://open.spotify.com/track/6OEI3LCne7w2jj0edHvSEM"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Away From The Sun (Deluxe)",
+        "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "Long Day",
+      "url": "https://open.spotify.com/track/6OEI3LCne7w2jj0edHvSEM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3 Doors Down",
         "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 256666,
       "name": "When It's Over",
       "url": "https://open.spotify.com/track/5YseXPW7e6yxH30osSScQ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Away From The Sun (Deluxe)",
-        "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Something In My Mind",
-      "url": "https://open.spotify.com/track/4acOcHQYMXidjGbWc3zlVG"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
       "duration_ms": 184840,
       "name": "Man In My Mind - Escatawpa Sessions",
       "url": "https://open.spotify.com/track/0yIKS8yoBE67mwyfMm1es4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Away From The Sun (Deluxe)",
+        "url": "https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Something In My Mind",
+      "url": "https://open.spotify.com/track/4acOcHQYMXidjGbWc3zlVG"
     },
     {
       "added_at": null,

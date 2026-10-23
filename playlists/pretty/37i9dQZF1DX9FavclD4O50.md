@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 50 | [Prayer At The Dinner Table](https://open.spotify.com/track/3PInc32Bp5hVT0rnPBxwkr) | [Kiss Facility](https://open.spotify.com/artist/5gHuonqo1YwbLPKQAl7jD5) | [Esoteric](https://open.spotify.com/album/6FisGL31ftnCtuiakeSJiZ) | 3:19 |
 | 51 | [Light Powered](https://open.spotify.com/track/2ESSEicqlsNGXhYGVlazAj) | [Deastro](https://open.spotify.com/artist/2dL2iXspP57dHMHT36cX5v) | [Ghostly Swim](https://open.spotify.com/album/6E7CrvgZCxWCmcwwXmqDu9) | 2:28 |
 
-Snapshot ID: `AAAAAD9dMPWB/WZkb4zIVIolZuFvtmOL`
+Snapshot ID: `AAAAAJjIgx8PJ91ByR+HmfiD44fN9Act`

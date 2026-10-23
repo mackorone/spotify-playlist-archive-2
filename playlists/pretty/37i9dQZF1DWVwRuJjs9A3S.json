@@ -1,44 +1,28 @@
 {
-  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Valter Nilsson",
-  "num_followers": 48623,
+  "description": "Det senaste och b\u00e4sta fr\u00e5n v\u00e4rlden av indie. Cover: Horse Vision",
+  "num_followers": 48615,
   "original_name": "Indie Highlights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALxx2sTYkWg+zwXx63YpuTipo3U4",
+  "snapshot_id": "AAAAAKb4puZ6gaf+GTunqtwZ40v7MvAB",
   "tracks": [
     {
-      "added_at": "2026-10-15 22:00:55",
+      "added_at": "2026-10-22 22:00:14",
       "album": {
-        "name": "Sten, sax, p\u00e5se sten",
-        "url": "https://open.spotify.com/album/03XVftzV3qgtzOzJfgnTGC"
+        "name": "Goblin's Head",
+        "url": "https://open.spotify.com/album/5mYTPYJcY2yuuHDejfJ8Fq"
       },
       "artists": [
         {
-          "name": "Valter Nilsson",
-          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
+          "name": "Horse Vision",
+          "url": "https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM"
         }
       ],
-      "duration_ms": 197908,
-      "name": "Sten, sax, p\u00e5se sten",
-      "url": "https://open.spotify.com/track/0CmOjLIwPdMqS5VELlU45j"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
-        "name": "You Said Jump... And I Flew",
-        "url": "https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs"
-      },
-      "artists": [
-        {
-          "name": "Carlina de Place",
-          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
-        }
-      ],
-      "duration_ms": 156209,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP"
+      "duration_ms": 173333,
+      "name": "Goblin's Head",
+      "url": "https://open.spotify.com/track/7kbU1ezWOaeREc2kgvlS3J"
     },
     {
       "added_at": "2026-10-15 22:00:55",
@@ -55,22 +39,6 @@
       "duration_ms": 247051,
       "name": "Echoes In Time",
       "url": "https://open.spotify.com/track/2YwCkmDnYrQPfSooF6SeLZ"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
-        "name": "Himmel helvete",
-        "url": "https://open.spotify.com/album/0ddsTPi7LV7rfVC01CCZc5"
-      },
-      "artists": [
-        {
-          "name": "Genom Natten",
-          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "Himmel helvete",
-      "url": "https://open.spotify.com/track/2HaAG5udHa2CJdit4MDWU3"
     },
     {
       "added_at": "2026-10-15 22:00:55",
@@ -93,6 +61,86 @@
       "url": "https://open.spotify.com/track/4d9xUor9LZdf7uHU7gbeSH"
     },
     {
+      "added_at": "2026-10-22 22:00:14",
+      "album": {
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/0kC8sNeEIpu1rsKUscUAmC"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/6Tgj0FJppACsnkFRL9Jw8V"
+    },
+    {
+      "added_at": "2026-10-15 22:00:55",
+      "album": {
+        "name": "Sten, sax, p\u00e5se sten",
+        "url": "https://open.spotify.com/album/03XVftzV3qgtzOzJfgnTGC"
+      },
+      "artists": [
+        {
+          "name": "Valter Nilsson",
+          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
+        }
+      ],
+      "duration_ms": 197908,
+      "name": "Sten, sax, p\u00e5se sten",
+      "url": "https://open.spotify.com/track/0CmOjLIwPdMqS5VELlU45j"
+    },
+    {
+      "added_at": "2026-10-22 22:00:14",
+      "album": {
+        "name": "Heaven Can Wait",
+        "url": "https://open.spotify.com/album/5Qc6CXwIwTlSjIe0EdnE3A"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Heaven Can Wait",
+      "url": "https://open.spotify.com/track/6ee7KId6UZeOyliYOCsYYt"
+    },
+    {
+      "added_at": "2026-10-15 22:00:55",
+      "album": {
+        "name": "Himmel helvete",
+        "url": "https://open.spotify.com/album/0ddsTPi7LV7rfVC01CCZc5"
+      },
+      "artists": [
+        {
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+        }
+      ],
+      "duration_ms": 209146,
+      "name": "Himmel helvete",
+      "url": "https://open.spotify.com/track/2HaAG5udHa2CJdit4MDWU3"
+    },
+    {
+      "added_at": "2026-10-15 22:00:55",
+      "album": {
+        "name": "You Said Jump... And I Flew",
+        "url": "https://open.spotify.com/album/1AOybuyxAGewUiiJc85qhs"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 156209,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/1aoUkNSAzwMaHoJL0PPkMP"
+    },
+    {
       "added_at": "2026-10-15 22:00:55",
       "album": {
         "name": "Give a Little",
@@ -107,6 +155,22 @@
       "duration_ms": 191893,
       "name": "Give a Little",
       "url": "https://open.spotify.com/track/4MjXZqLHPOHefLJ1CGgBqc"
+    },
+    {
+      "added_at": "2026-10-22 22:00:14",
+      "album": {
+        "name": "redstar",
+        "url": "https://open.spotify.com/album/0Urk10HzyKwZz3ziPj3dlf"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "duration_ms": 256651,
+      "name": "redstar",
+      "url": "https://open.spotify.com/track/7iswvp4cEuvT7C9593N0hE"
     },
     {
       "added_at": "2026-10-15 22:00:55",
@@ -2327,22 +2391,6 @@
     {
       "added_at": "2026-10-15 22:00:55",
       "album": {
-        "name": "red sky at night",
-        "url": "https://open.spotify.com/album/6nTaOFO6qZb0YbOciCEPZu"
-      },
-      "artists": [
-        {
-          "name": "Orange Oak",
-          "url": "https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy"
-        }
-      ],
-      "duration_ms": 176818,
-      "name": "red sky at night",
-      "url": "https://open.spotify.com/track/5PLGmfrSqRq7Q1dKvJ7S7M"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
         "name": "Musik f\u00f6r alla",
         "url": "https://open.spotify.com/album/5yuu4qCXp8PieAJgGAQKUz"
       },
@@ -2451,22 +2499,6 @@
       "duration_ms": 135840,
       "name": "Circles",
       "url": "https://open.spotify.com/track/2ifi3ZA9x7bVIq2rY08t7X"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
-        "name": "say goodbye love",
-        "url": "https://open.spotify.com/album/79pPNQ2FAZrM9dgFQQs570"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 222545,
-      "name": "say goodbye love",
-      "url": "https://open.spotify.com/track/1EbHmgemvipY8fC2S8rmm4"
     },
     {
       "added_at": "2026-10-15 22:00:55",
@@ -3151,22 +3183,6 @@
     {
       "added_at": "2026-10-15 22:00:55",
       "album": {
-        "name": "Florence",
-        "url": "https://open.spotify.com/album/0GAuzNrkQcaZyNezFjNDSB"
-      },
-      "artists": [
-        {
-          "name": "Ea Othilde",
-          "url": "https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99"
-        }
-      ],
-      "duration_ms": 271866,
-      "name": "Florence",
-      "url": "https://open.spotify.com/track/4vNf1qqBHno9dM6PcgVBHj"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
         "name": "Venus in the Zinnia",
         "url": "https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9"
       },
@@ -3255,22 +3271,6 @@
     {
       "added_at": "2026-10-15 22:00:55",
       "album": {
-        "name": "Muscle In",
-        "url": "https://open.spotify.com/album/6FxRfieHkLJ0mhHZixMQQT"
-      },
-      "artists": [
-        {
-          "name": "The Magnolia",
-          "url": "https://open.spotify.com/artist/6tn9l68c9srJn5o3pXx2Fb"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Muscle In",
-      "url": "https://open.spotify.com/track/3ch0DUTirH85StJjiTNqFq"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
         "name": "Lubnan (\u0644\u0628\u0646\u0627\u0646)",
         "url": "https://open.spotify.com/album/4z0HkMA3ktMlt4cGVOrMFU"
       },
@@ -3283,22 +3283,6 @@
       "duration_ms": 316066,
       "name": "Lubnan (\u0644\u0628\u0646\u0627\u0646)",
       "url": "https://open.spotify.com/track/0iON9wU5x2Isk7zefu1t99"
-    },
-    {
-      "added_at": "2026-10-15 22:00:55",
-      "album": {
-        "name": "H\u00f6gsbo Riviera",
-        "url": "https://open.spotify.com/album/2aBTX786uODU6398tiT9F9"
-      },
-      "artists": [
-        {
-          "name": "Valter Nilsson",
-          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
-        }
-      ],
-      "duration_ms": 265452,
-      "name": "H\u00e4nder",
-      "url": "https://open.spotify.com/track/4YqxiA5nPFNevQQ72Y5D9d"
     }
   ],
   "unique_name": "Indie Highlights",

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Bhediya
 
-667 songs - 1 day 13 hr 15 min
+668 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -638,7 +638,8 @@
 | [Uljhe se hum](https://open.spotify.com/track/6TPYVkZRpeL2rwkvUDuYhm) | [Vishal Sinha](https://open.spotify.com/artist/0UJG2meWUtvjPFAcyrOOBN) | [Uljhe se hum](https://open.spotify.com/album/5CPpw1mdt73Fs6Dd6qegJx) | 3:40 | 2023-09-09 | 2023-10-27 |
 | [Unke bina \(Raw\)](https://open.spotify.com/track/0S2VhMptqhyylEowrvMRRx) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Hardik Sawhney](https://open.spotify.com/artist/1AeP2gkdtIPekU0HvEo3P5) | [Unke bina \(Raw\)](https://open.spotify.com/album/1zQdURnPPZXRLquGKTR5Qa) | 2:28 | 2023-05-17 | 2023-07-06 |
 | [Unke Rangon Mein](https://open.spotify.com/track/33k5PdmBBBvjFrYFnTqrzF) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Unke Rangon Mein](https://open.spotify.com/album/7k4mVu7UlNacFUSHcDZkpa) | 2:52 | 2023-11-05 | 2024-02-14 |
-| [Vaari Vaari](https://open.spotify.com/track/3MxMNXfuJWlUy8te4PGDgt) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Koustuv Ghosh](https://open.spotify.com/artist/6uYEqVn6aXYrr5ovR0nhWq), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Lust Stories 3, Vol\. 2 \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0ToRQWeE7HPClqz72sO5Tw) | 3:11 | 2026-10-21 |  |
+| [Vaari Vaari](https://open.spotify.com/track/3MxMNXfuJWlUy8te4PGDgt) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Koustuv Ghosh](https://open.spotify.com/artist/6uYEqVn6aXYrr5ovR0nhWq), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Lust Stories 3, Vol\. 2 \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0ToRQWeE7HPClqz72sO5Tw) | 3:11 | 2026-10-21 | 2026-10-23 |
+| [Vaari Vaari \- Acoustic](https://open.spotify.com/track/2gTk797GEfLe2yJ7DAVMzD) | [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx), [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Vaari Vaari \- Acoustic](https://open.spotify.com/album/1H2dTU5WdG3rLPTfibqcRi) | 3:22 | 2026-10-22 |  |
 | [Wahem](https://open.spotify.com/track/5vMtccZkvcmGjrOuhnxc63) | [Hirdhyansh Verma](https://open.spotify.com/artist/3L41cHQWUBnVuQTtoUpBeV) | [Wahem](https://open.spotify.com/album/7qPBfIEJhj4Bgg5SI5hjrB) | 3:22 | 2025-06-05 | 2025-07-24 |
 | [Wajah](https://open.spotify.com/track/4pPRfulcjwtBXnKrHRLrgV) | [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ) | [Wajah](https://open.spotify.com/album/1rM0gyBRVfMeAGHvLuWnxy) | 2:20 | 2024-07-08 | 2024-07-19 |
 | [Waqt](https://open.spotify.com/track/3buNym71LEMqC24JqZjiwd) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:01 | 2023-06-12 | 2023-08-05 |

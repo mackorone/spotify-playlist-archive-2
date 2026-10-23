@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,717 songs - 2 day 23 hr 12 min
+1,719 songs - 2 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -934,6 +934,7 @@
 | [Life Speaks to Me](https://open.spotify.com/track/3OkgFUAW8yG3cA6WrZ7z8q) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [Life Speaks to Me](https://open.spotify.com/album/4rEJ3UxGnoqPNePj4wlNWn) | 2:33 | 2021-12-16 | 2022-07-29 |
 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3zQpGaH50HeMjxurMZVF6q) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Lifetime](https://open.spotify.com/album/4jFxIzyBN7JD5rwLT0chjg) | 3:06 | 2022-03-24 | 2022-04-15 |
 | [LIGGA](https://open.spotify.com/track/0kqIYJAaGAs8xwYgwTuAvF) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [EPA EP:n](https://open.spotify.com/album/0eUtQ9eDskBU0DfrsQ4qG8) | 1:53 | 2026-03-26 | 2026-04-02 |
+| [LIGGA](https://open.spotify.com/track/1389JqzuYmXZrIkVznM8Wi) | [KYPARN](https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw), [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [LIGGA](https://open.spotify.com/album/0Mc3CNlJHifhKQeY2DxXu0) | 2:40 | 2026-10-22 |  |
 | [LIGGA HELA TIDEN](https://open.spotify.com/track/4yhz54d8lpL46KmrqS06oN) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Banditerna](https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ) | [LIGGA HELA TIDEN](https://open.spotify.com/album/2bJl3MmDfenDs3C61mV1S4) | 2:22 | 2024-08-29 | 2024-12-20 |
 | [Ligga med dig](https://open.spotify.com/track/6fQVRu1en62c1y36Rz97jR) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Ligga med dig](https://open.spotify.com/album/2zDrJN6aJ13UIz99lrX3jg) | 1:46 | 2023-06-29 | 2023-10-20 |
 | [LIGGA MED DIG I EN BAJAMAJA](https://open.spotify.com/track/1Y43z1GXGTbKR1hqT1gb6v) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [LIGGA MED DIG I EN BAJAMAJA](https://open.spotify.com/album/5aPBBW0YE7BqP7e9N0vrqp) | 2:29 | 2023-01-05 | 2023-02-03 |
@@ -1019,6 +1020,7 @@
 | [Miste det](https://open.spotify.com/track/6HI6mIzktfclfne3N8SZ5l) | [Drittsekk](https://open.spotify.com/artist/2AWNiSdDhYAqQDpRvtfLtM), [Richie Holm](https://open.spotify.com/artist/6extXLs8CgAuChKJuMaFyt), [Kaffe Karlsson](https://open.spotify.com/artist/1PuOSwI11bE2FE9d6KehL2), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [Miste det](https://open.spotify.com/album/2IM8A4awEokOwYK1JsFbMx) | 2:22 | 2025-07-24 | 2026-02-17 |
 | [Mitt lilla fejs & jag](https://open.spotify.com/track/7rMOiHCtibUC2qBhCPHCHy) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [Mitt lilla fejs & jag](https://open.spotify.com/album/3qSR0uHyOG1mJRj5mjLYIS) | 2:32 | 2024-01-18 | 2024-02-09 |
 | [Mon frére](https://open.spotify.com/track/1TzDpGGfnd5MfoFQCnySZF) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [Mon frére](https://open.spotify.com/album/0DmddaBpwmY7nlxyGCbk7e) | 2:36 | 2021-12-16 | 2022-07-28 |
+| [MONSTER](https://open.spotify.com/track/0woarGqyt4zgxhkyMtAy5E) | [Hasselyra](https://open.spotify.com/artist/13D0gA0YkSBYe5Fksj5H4B) | [MONSTER](https://open.spotify.com/album/0bUf4k4PSfZNqztyaKJvt9) | 2:08 | 2026-10-22 |  |
 | [MONSTER](https://open.spotify.com/track/632xfk18NbSubsQHJoRsh1) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [MONSTER](https://open.spotify.com/album/4mgynCQsb6eE4Lh8c9hlqK) | 2:24 | 2023-10-26 | 2023-11-24 |
 | [Moonlight Shadow](https://open.spotify.com/track/35wC2S4HBFHe1mUJINo1Qh) | [Jack Mazzoni](https://open.spotify.com/artist/2ZhNwwAIjVKhN9iy4br78h), [Nicola Fasano](https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ) | [Moonlight Shadow](https://open.spotify.com/album/7kyQ7pshrpSEaGQz4XYW1t) | 2:36 | 2021-12-16 | 2022-05-26 |
 | [Mors Lilla Lathund](https://open.spotify.com/track/2JWGRESlqw1rzOHnkpC7zj) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [Emma Blyfors](https://open.spotify.com/artist/5V364OVjvwYxKrPKjyrxp3) | [Mors Lilla Lathund](https://open.spotify.com/album/4EO3mEA3Ja68Cg49DcG2CY) | 1:54 | 2024-04-11 | 2024-06-01 |

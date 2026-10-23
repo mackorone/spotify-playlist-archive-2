@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,119 likes - 100 songs - 12 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,124 likes - 100 songs - 12 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 99 | [Lifter of my head](https://open.spotify.com/track/4IahJFgVlxlQd7xzNEDV7Q) | [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Worship Wells](https://open.spotify.com/album/6b3NHJK7lx7CGBrhdsu0QK) | 5:50 |
 | 100 | [Righteous One](https://open.spotify.com/track/0Mhpqg33CpDyzCkhZjSNC8) | [Victoria Asi](https://open.spotify.com/artist/2sVPdxLNh2OmgkiNih3LeB), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Righteous One](https://open.spotify.com/album/2cWbIMnEVzMfzlz6M8a1Jv) | 5:17 |
 
-Snapshot ID: `AAAAAEqUkqJHgmUWPSg1m1XPVsJ3S674`
+Snapshot ID: `AAAAABVkH4muvQpHrq6iMxoRFZv3xxO2`

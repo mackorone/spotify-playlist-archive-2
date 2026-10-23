@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 
 ### [The Listening Post](https://open.spotify.com/playlist/37i9dQZF1DWT2471UyOhDZ)
 
-> A hand\-picked selection for an extraordinary palette\. Cover: Marika Hackman
+> A hand\-picked selection for an extraordinary palette\. Cover: Hot Chip
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,520 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,522 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Japan](https://open.spotify.com/track/29USgREdEXy48zHm3OnhAZ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dopamine Chamber](https://open.spotify.com/album/0JICUfSKOdGqzE9FJSrNci) | 3:14 |
-| 2 | [Outside](https://open.spotify.com/track/2PvIlbYyWnYPipFniXO7sX) | [Purple Pilgrims](https://open.spotify.com/artist/10jJPAsjoKNz6T9P1M5lJ7) | [Outside](https://open.spotify.com/album/23Ext9cqxzjJIyjO168nbT) | 3:57 |
+| 2 | [Random Violence](https://open.spotify.com/track/0T3vTM8KUAwGMukdAhNVj2) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Random Violence](https://open.spotify.com/album/3z8j4xdVVyUH12VXFWRCVK) | 5:15 |
 | 3 | [33](https://open.spotify.com/track/5rP1SqAtnoMHU655knRdlA) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [33](https://open.spotify.com/album/3j2lqvYUUnQZ0GgkoGS4JD) | 2:33 |
 | 4 | [On Video](https://open.spotify.com/track/2Flb8QXjKZKq3rWgWDmqq5) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [On Video](https://open.spotify.com/album/0e3lfMyRxV0sPgM8ItYuUA) | 3:31 |
 | 5 | [Ribbon Factory](https://open.spotify.com/track/5PRdIyuXDEGziNc2Raz63P) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [Ribbon Factory](https://open.spotify.com/album/19xC9OCK7OdpU7e81iNsvL) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 | 99 | [143](https://open.spotify.com/track/5rorEgFXzVPe2DsiAcCdCy) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [143](https://open.spotify.com/album/1Fh2mehhvPRxvzR2wYgkGI) | 4:16 |
 | 100 | [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 |
 
-Snapshot ID: `AAAAAPNKzcCE/jwIbGqM57pEstFEGo8b`
+Snapshot ID: `AAAAAAajxNo8W09CnFJvjvM9qp46txjA`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Kasia Krzy\u017caniak",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Kajetan Wolas",
   "name": "up next",
   "tracks": [
     {
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 221925,
       "name": "Blef",
       "url": "https://open.spotify.com/track/5sNFGRVLmRS85BpK5Fxm00"
@@ -2728,6 +2728,32 @@
       "duration_ms": 181153,
       "name": "chiaroscuro",
       "url": "https://open.spotify.com/track/0it9ytMrLUNz7UcHz9glAa"
+    },
+    {
+      "album": {
+        "name": "chodzi o nas",
+        "url": "https://open.spotify.com/album/7LnqXRWxS6hWDUkTOMupx8"
+      },
+      "artists": [
+        {
+          "name": "Kajetan Wolas",
+          "url": "https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj"
+        },
+        {
+          "name": "Qncicka",
+          "url": "https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ"
+        },
+        {
+          "name": "lessman",
+          "url": "https://open.spotify.com/artist/7rECpmD47z8OpXvtQg6Mve"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201038,
+      "name": "chodzi o nas",
+      "url": "https://open.spotify.com/track/0vdVLBqXoN49A1ojHoLMwn"
     },
     {
       "album": {
@@ -6536,7 +6562,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 162725,
       "name": "jak ja",
       "url": "https://open.spotify.com/track/0ofgc4ZtRYL5enK8gpZbUM"
@@ -6818,6 +6844,28 @@
       "duration_ms": 138746,
       "name": "Jestem",
       "url": "https://open.spotify.com/track/1POsHOctjuSpNU6uFTOqjq"
+    },
+    {
+      "album": {
+        "name": "Jestem Dla Ciebie",
+        "url": "https://open.spotify.com/album/73N7avhK4kNLUbSUH1uKQp"
+      },
+      "artists": [
+        {
+          "name": "Anastazja",
+          "url": "https://open.spotify.com/artist/7FUSTVgPrNPjB3I3QYPby3"
+        },
+        {
+          "name": "Dizzma",
+          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Jestem Dla Ciebie",
+      "url": "https://open.spotify.com/track/2EPTAU9o1H0YCWSzTGXUPw"
     },
     {
       "album": {
@@ -7150,7 +7198,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 220762,
       "name": "KID",
       "url": "https://open.spotify.com/track/3H2x5CeATToxbMHdgdXaSb"
@@ -8365,6 +8413,24 @@
     },
     {
       "album": {
+        "name": "luvvv<3",
+        "url": "https://open.spotify.com/album/4hGf7Tx2EYgdb4wzDI9oay"
+      },
+      "artists": [
+        {
+          "name": "ggluv",
+          "url": "https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120685,
+      "name": "luvvv<3",
+      "url": "https://open.spotify.com/track/49duYLA0Ro10jlqgoPG7s3"
+    },
+    {
+      "album": {
         "name": "It\u2019s All About The Changes",
         "url": "https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE"
       },
@@ -9108,7 +9174,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 211196,
       "name": "Miodowe lata",
       "url": "https://open.spotify.com/track/021LlPQEOIAxKtopy8xuZv"
@@ -9898,7 +9964,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 217617,
       "name": "Nadwodne miasto",
       "url": "https://open.spotify.com/track/5CWurWx4wdICZSTsXEe3OZ"
@@ -15419,6 +15485,24 @@
     },
     {
       "album": {
+        "name": "SZTUCZNE USTA",
+        "url": "https://open.spotify.com/album/3zkB0tbxkIG2av3bIDfssa"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200454,
+      "name": "SZTUCZNE USTA",
+      "url": "https://open.spotify.com/track/3TaKlH1BbZ6swEF5GECVo9"
+    },
+    {
+      "album": {
         "name": "Sztuka",
         "url": "https://open.spotify.com/album/0kqyVn6xEqnTphg7XiYsrH"
       },
@@ -16292,6 +16376,28 @@
       "duration_ms": 193846,
       "name": "To zabola\u0142o",
       "url": "https://open.spotify.com/track/3rJJtexpt4wYgbBd92jpgE"
+    },
+    {
+      "album": {
+        "name": "To zabola\u0142o",
+        "url": "https://open.spotify.com/album/3QqOU9qWuNfSgj5D8LN3mf"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        },
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225052,
+      "name": "To zabola\u0142o",
+      "url": "https://open.spotify.com/track/3kXR6IRV64WAsQPRWZndc8"
     },
     {
       "album": {

@@ -2211,6 +2211,28 @@
     },
     {
       "album": {
+        "name": "Back Where It Started",
+        "url": "https://open.spotify.com/album/5wJ5EcR9OgSqfJxRtkciaa"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Paige Bea",
+          "url": "https://open.spotify.com/artist/13OFf8e9FsAgMtdhivPhTA"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202257,
+      "name": "Back Where It Started",
+      "url": "https://open.spotify.com/track/1XeZXNVen3uclo74aGu8mM"
+    },
+    {
+      "album": {
         "name": "back2u",
         "url": "https://open.spotify.com/album/5DnveAme2jwC8QO0NDqtug"
       },

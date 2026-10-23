@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u062f\u0646\u064a\u0627 \u0633\u0645\u064a\u0631 \u063a\u0627\u0646\u0645",
+  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0641\u0631\u064a\u062f",
   "name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -1442,6 +1442,24 @@
       "duration_ms": 281066,
       "name": "Baseet",
       "url": "https://open.spotify.com/track/6wxBewgwUy7sLGhmhLtmQw"
+    },
+    {
+      "album": {
+        "name": "Bastafizzak",
+        "url": "https://open.spotify.com/album/74cTcbgZGJXH8N6KYiMRUz"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183642,
+      "name": "Bastafizzak",
+      "url": "https://open.spotify.com/track/7Jz03y7uH9eR8aw8YC9uIF"
     },
     {
       "album": {
@@ -4068,6 +4086,28 @@
       "duration_ms": 239250,
       "name": "Leh",
       "url": "https://open.spotify.com/track/0188UV5nlwUYejX3HKhphw"
+    },
+    {
+      "album": {
+        "name": "Leh Bas2al 3aleik?",
+        "url": "https://open.spotify.com/album/4vCBy4UXDTRdn9urdFD4kV"
+      },
+      "artists": [
+        {
+          "name": "ENGY",
+          "url": "https://open.spotify.com/artist/7D2kIiyYlfZFHGUgybRR1C"
+        },
+        {
+          "name": "Ahmed Diaa",
+          "url": "https://open.spotify.com/artist/4lO4iNwFLpdjj2JRTJlFyy"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158490,
+      "name": "Leh Bas2al 3aleik?",
+      "url": "https://open.spotify.com/track/6WKtOnqLIiZHuQigE0Kz42"
     },
     {
       "album": {
@@ -6983,6 +7023,28 @@
     },
     {
       "album": {
+        "name": "Zanbak / \u0630\u0646\u0628\u0643",
+        "url": "https://open.spotify.com/album/7zg7bvhK3nDtRIfEd66lqp"
+      },
+      "artists": [
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        },
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140645,
+      "name": "Zanbak / \u0630\u0646\u0628\u0643",
+      "url": "https://open.spotify.com/track/6WkMPTRGq1FsjG4jGGsulO"
+    },
+    {
+      "album": {
         "name": "ZANN",
         "url": "https://open.spotify.com/album/5X6rLBXxEMNfl4I1FieiGX"
       },
@@ -7174,7 +7236,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 275000,
       "name": "\u0625\u0628\u0646 \u0627\u0644\u0646\u0627\u0633",
       "url": "https://open.spotify.com/track/77aNmJDcRc5fq9JCRnyW8O"
@@ -7632,6 +7694,24 @@
       "duration_ms": 228750,
       "name": "\u0627\u0644\u0642\u0644\u0628 \u0645\u0627\u062a",
       "url": "https://open.spotify.com/track/7qOqrKgoWVntdBPJGF8Fxc"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0644\u0647 \u064a\u0647\u062f\u064a\u0643",
+        "url": "https://open.spotify.com/album/7m0yEMSKwdXw3pDX4XHCs0"
+      },
+      "artists": [
+        {
+          "name": "Farid",
+          "url": "https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209711,
+      "name": "\u0627\u0644\u0644\u0647 \u064a\u0647\u062f\u064a\u0643",
+      "url": "https://open.spotify.com/track/6ir0MIbsmV9avYTcFBiDHT"
     },
     {
       "album": {
@@ -8783,6 +8863,24 @@
     },
     {
       "album": {
+        "name": "\u0639\u0627\u0631\u0641\u0647 \u0627\u0643\u062a\u0631 \u062d\u0627\u062c\u0647 \u0628\u062a\u0648\u062c\u0639\u061f",
+        "url": "https://open.spotify.com/album/6OvQhP8dKzcP264IOupwiI"
+      },
+      "artists": [
+        {
+          "name": "Youssif Elashry",
+          "url": "https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157578,
+      "name": "\u0639\u0627\u0631\u0641\u0647 \u0627\u0643\u062a\u0631 \u062d\u0627\u062c\u0647 \u0628\u062a\u0648\u062c\u0639\u061f",
+      "url": "https://open.spotify.com/track/5sSglUuLP6OdZ0khWwD3vB"
+    },
+    {
+      "album": {
         "name": "\u0639\u062f\u062f \u0627\u0644\u0645\u0646\u0627\u062f\u064a\u0644",
         "url": "https://open.spotify.com/album/493sGA61arKMSeEitTTCip"
       },
@@ -9454,7 +9552,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 209052,
       "name": "\u0645\u0627 \u062a\u0631\u0627\u0639\u064a \u0642\u0644\u0628\u064a",
       "url": "https://open.spotify.com/track/1jbrFDkwHAyHsleQB7GMhW"

@@ -1727,6 +1727,28 @@
     },
     {
       "album": {
+        "name": "Costa Brava",
+        "url": "https://open.spotify.com/album/51UOjCLFRjG5cSLEjdoWLH"
+      },
+      "artists": [
+        {
+          "name": "angelrot",
+          "url": "https://open.spotify.com/artist/1PtxhGf5zAUnOucwf4fCIJ"
+        },
+        {
+          "name": "s33ya",
+          "url": "https://open.spotify.com/artist/7CBlu91aunYYu7y9AVKnbq"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169911,
+      "name": "Costa Brava",
+      "url": "https://open.spotify.com/track/4sdhXLWbvWeDGC00AxhsvS"
+    },
+    {
+      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/7ohKZgBr10faQ2y7B1tKbs"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Brand\u00e3o85",
+  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Oreozin, Meno Tody ",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -2762,6 +2762,36 @@
       "duration_ms": 129923,
       "name": "ALPINISTA",
       "url": "https://open.spotify.com/track/0cEvvcGEuUXhfaZgRj4TN5"
+    },
+    {
+      "album": {
+        "name": "ALPINISTA",
+        "url": "https://open.spotify.com/album/47KHa4F6GOJlCgghVRrn0e"
+      },
+      "artists": [
+        {
+          "name": "Lil Vi",
+          "url": "https://open.spotify.com/artist/3oFi6HudKNWBVYh04VxmiB"
+        },
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "HIKENobeat",
+          "url": "https://open.spotify.com/artist/1FCS7hzZ3fzUZEuEIxD8By"
+        },
+        {
+          "name": "BadKid",
+          "url": "https://open.spotify.com/artist/6Zjrtke6FDeyCewfUkgBnP"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122880,
+      "name": "ALPINISTA",
+      "url": "https://open.spotify.com/track/2U3b4vIsalNrW7RepUdwOU"
     },
     {
       "album": {
@@ -9510,7 +9540,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 115443,
       "name": "CLASSE A",
       "url": "https://open.spotify.com/track/2zOIcxeqMRTxRjX3d9aekC"
@@ -10678,7 +10708,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 174000,
       "name": "Cora\u00e7\u00e3o de Brinquedo",
       "url": "https://open.spotify.com/track/5EfaRYL9JvCVGwDIfVGhMz"
@@ -16966,7 +16996,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 225882,
       "name": "Eu sei",
       "url": "https://open.spotify.com/track/43Z9DTcF8yA18g3wZou3Qc"
@@ -18128,7 +18158,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 126713,
       "name": "FATOS REAIS",
       "url": "https://open.spotify.com/track/48PHddLWKRm2v8edXl5NHv"
@@ -30647,6 +30677,28 @@
     },
     {
       "album": {
+        "name": "Mundo Fashion",
+        "url": "https://open.spotify.com/album/0h2u1ikVqnFckItpMMVl58"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241994,
+      "name": "Mundo Fashion",
+      "url": "https://open.spotify.com/track/52EfPNdYLQDbv2OHOuoUue"
+    },
+    {
+      "album": {
         "name": "Mund\u00e3o Estranho",
         "url": "https://open.spotify.com/album/2iHLu26OdBFVeaOTootUIh"
       },
@@ -34221,6 +34273,28 @@
     },
     {
       "album": {
+        "name": "Obito",
+        "url": "https://open.spotify.com/album/2G4BL282ZRkCy9itXIB4lo"
+      },
+      "artists": [
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "Teo",
+          "url": "https://open.spotify.com/artist/3qDVkljMjmPNXRMTqh5DWB"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158904,
+      "name": "Obito",
+      "url": "https://open.spotify.com/track/2V0kMZdFgBp0e2SYrEAH96"
+    },
+    {
+      "album": {
         "name": "Objetivo",
         "url": "https://open.spotify.com/album/2icv9egtOTlVqg5JDGogNy"
       },
@@ -35131,6 +35205,24 @@
     },
     {
       "album": {
+        "name": "NUNK MAIS QUEBRADO",
+        "url": "https://open.spotify.com/album/3vNbzCVb6bgBaOWZpFHZlv"
+      },
+      "artists": [
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110344,
+      "name": "OURO ROSE",
+      "url": "https://open.spotify.com/track/3z93i2wdsFVjgmzqwwSNBc"
+    },
+    {
+      "album": {
         "name": "Ouro Ros\u00e9",
         "url": "https://open.spotify.com/album/6dXEiMtumxmNwb7I01SvVe"
       },
@@ -35430,6 +35522,36 @@
       "duration_ms": 188976,
       "name": "Outros Corpos",
       "url": "https://open.spotify.com/track/0ghm6bTrXuqnLDyvfsv2at"
+    },
+    {
+      "album": {
+        "name": "oxiurus",
+        "url": "https://open.spotify.com/album/3WJrgAIdK93tkwZVozMlMY"
+      },
+      "artists": [
+        {
+          "name": "Ugovhb",
+          "url": "https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG"
+        },
+        {
+          "name": "Lil D Ofc",
+          "url": "https://open.spotify.com/artist/7xXEktLkGaU43whh9psQX2"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "loonyjetski",
+          "url": "https://open.spotify.com/artist/1TPQ578HtBYpfgpzNJIs93"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "oxiurus",
+      "url": "https://open.spotify.com/track/0Apmt06ai9GsL95Ir2zurs"
     },
     {
       "album": {
@@ -40810,7 +40932,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 148965,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/7si2q5ENIf0Y0MMI900VUF"
@@ -46165,6 +46287,32 @@
     },
     {
       "album": {
+        "name": "A ESTRELA DA RUA.",
+        "url": "https://open.spotify.com/album/1iHxJSHd5qnUptRP02739v"
+      },
+      "artists": [
+        {
+          "name": "Klisman",
+          "url": "https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Nicholas Arashiro",
+          "url": "https://open.spotify.com/artist/5Cx8TEzo0BysMcJpfbH09m"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165539,
+      "name": "SUV 2027",
+      "url": "https://open.spotify.com/track/7G3u0N9kyjba68YevFhMws"
+    },
+    {
+      "album": {
         "name": "SW5G",
         "url": "https://open.spotify.com/album/4HHmZIE8bEGIE9JgUWt17m"
       },
@@ -49625,6 +49773,32 @@
     },
     {
       "album": {
+        "name": "T\u00e3o S\u00f3",
+        "url": "https://open.spotify.com/album/3PsAehfXoKcVvkHt6WuaKk"
+      },
+      "artists": [
+        {
+          "name": "Oreozin",
+          "url": "https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG"
+        },
+        {
+          "name": "Meno Tody",
+          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
+        },
+        {
+          "name": "VTnoBeat",
+          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "T\u00e3o S\u00f3",
+      "url": "https://open.spotify.com/track/2S0YZXFoxKmMOFGaPj9Yjg"
+    },
+    {
+      "album": {
         "name": "T\u00f4 de Nave",
         "url": "https://open.spotify.com/album/2DDiIuwuXd6mzgJWNxbhDw"
       },
@@ -50004,7 +50178,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 210769,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/3FtRtoJHaUqrkY2FHRkEtX"
@@ -51493,7 +51667,7 @@
         },
         {
           "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+          "url": "https://open.spotify.com/artist/7FGbhQp2Mk48Ik3N93dF6E"
         },
         {
           "name": "Erick Di",
@@ -52974,7 +53148,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 139130,
       "name": "ZONA DE PERIGO",
       "url": "https://open.spotify.com/track/6q9KVAb0UgdBmgqJFdQrOM"

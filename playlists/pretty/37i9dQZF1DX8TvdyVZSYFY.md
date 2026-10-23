@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,088,227 likes - 300 songs - 17 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,088,197 likes - 300 songs - 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -258,9 +258,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 248 | [Still Falling For You \- Live](https://open.spotify.com/track/148ogHFRdVmKcYJV04pdIK) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Acoustic Hits](https://open.spotify.com/album/1LWrSkK04xdY2L4sVuJZZx) | 4:03 |
 | 249 | [Let Her Go \- Acoustic](https://open.spotify.com/track/7CzVAhQeZfTLqNnzdAiqrH) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF) | 4:26 |
 | 250 | [Shotgun \- Acoustic Version](https://open.spotify.com/track/6kH01KoU0eNgOmiUWvHGVk) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Shotgun \(Acoustic Version\)](https://open.spotify.com/album/07UqxHoaAeemManpiWR8HU) | 3:24 |
-| 251 | [My My My! \- Acoustic](https://open.spotify.com/track/4SQG8VU2qmbvgb53ptyjz9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [My My My! \(Acoustic\)](https://open.spotify.com/album/2lXAwRwgMTwcXS3NNekp6Q) | 3:43 |
-| 252 | [Heaven \- MTV Unplugged Version](https://open.spotify.com/track/38juUluQHYJdEnYuHazKXE) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/17ixV4uTZRqattFeU4h8th) | 4:30 |
-| 253 | [Shallow](https://open.spotify.com/track/2CBReP4Ox7OnBzhJsb2VNk) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Madysyn](https://open.spotify.com/artist/6fg51LVMgKxGjpIR9ihl9k) | [Shallow](https://open.spotify.com/album/7lKcUee1PLUqxlKcDNZQbM) | 3:02 |
+| 251 | [Heaven \- MTV Unplugged Version](https://open.spotify.com/track/38juUluQHYJdEnYuHazKXE) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/17ixV4uTZRqattFeU4h8th) | 4:30 |
+| 252 | [Shallow](https://open.spotify.com/track/2CBReP4Ox7OnBzhJsb2VNk) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Madysyn](https://open.spotify.com/artist/6fg51LVMgKxGjpIR9ihl9k) | [Shallow](https://open.spotify.com/album/7lKcUee1PLUqxlKcDNZQbM) | 3:02 |
+| 253 | [My My My! \- Acoustic](https://open.spotify.com/track/4SQG8VU2qmbvgb53ptyjz9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [My My My! \(Acoustic\)](https://open.spotify.com/album/2lXAwRwgMTwcXS3NNekp6Q) | 3:43 |
 | 254 | [Issues \- Acoustic](https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1) | 2:55 |
 | 255 | [Rather Be](https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1) | 4:07 |
 | 256 | [Mr\. Jones \- Live At Chelsea Studios, New York/1997](https://open.spotify.com/track/0pjOjoHMJrerHhiXNRs3GK) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Across A Wire \- Live From New York](https://open.spotify.com/album/1M1UcMfqgBkjy9FmWe4u5S) | 5:17 |

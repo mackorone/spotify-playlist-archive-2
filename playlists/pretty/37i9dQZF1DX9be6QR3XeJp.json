@@ -1,13 +1,29 @@
 {
-  "description": "Discover your new favourite artists from UK&IE. Cover: bed",
-  "num_followers": 116413,
+  "description": "Discover your new favourite artists from UK&IE. Cover: Nori",
+  "num_followers": 116409,
   "original_name": "RADAR UK & Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFQxCpJy/eHUdtRNV08bKuvnlN8x",
+  "snapshot_id": "AAAAAASFxMVHeUOOon3J5VXEPwYhn/gx",
   "tracks": [
+    {
+      "added_at": "2026-10-22 23:00:42",
+      "album": {
+        "name": "file_1",
+        "url": "https://open.spotify.com/album/1YQ1FXjnLHLYSFkq4XYm10"
+      },
+      "artists": [
+        {
+          "name": "Nori",
+          "url": "https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ"
+        }
+      ],
+      "duration_ms": 85334,
+      "name": "hackney_wick",
+      "url": "https://open.spotify.com/track/668eTlw1gXdgd4yIPftSc6"
+    },
     {
       "added_at": "2026-10-15 23:00:08",
       "album": {

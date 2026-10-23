@@ -1,13 +1,29 @@
 {
-  "description": "\u00e8 una giornata \ud83c\udf37 \ud835\udcb7\ud835\udc52\ud835\udcc1\ud835\udcc1\ud835\udcbe\ud835\udcc8\ud835\udcc8\ud835\udcbe\ud835\udcc2\ud835\udcb6 \ud83c\udf37 se c'\u00e8 Rare\u0219 in cover di Alta Rotazione ",
-  "num_followers": 644706,
+  "description": "le canzone di cui siamo ossessionati \ud83c\udf80 Angelina Mango in cover ",
+  "num_followers": 644702,
   "original_name": "Alta Rotazione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANiiESPfw4f9bwAPdXSK9QJ9gG9Z",
+  "snapshot_id": "AAAAAC+H23oFiyaGOwg/ThAfoPa4kxQZ",
   "tracks": [
+    {
+      "added_at": "2026-10-15 22:02:53",
+      "album": {
+        "name": "Vita da adulti",
+        "url": "https://open.spotify.com/album/4SED6aKzCAhtVIyswgG4ia"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "duration_ms": 213790,
+      "name": "Vita da adulti",
+      "url": "https://open.spotify.com/track/14c2UO4kudqpUxvDIbP8Ro"
+    },
     {
       "added_at": "2026-10-15 22:02:53",
       "album": {
@@ -163,22 +179,6 @@
       "duration_ms": 200134,
       "name": "Sorry Scusa Lo Siento",
       "url": "https://open.spotify.com/track/6Y1SibRCnVlbaa7dS8slzr"
-    },
-    {
-      "added_at": "2026-10-15 22:02:53",
-      "album": {
-        "name": "Vita da adulti",
-        "url": "https://open.spotify.com/album/4SED6aKzCAhtVIyswgG4ia"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        }
-      ],
-      "duration_ms": 213790,
-      "name": "Vita da adulti",
-      "url": "https://open.spotify.com/track/14c2UO4kudqpUxvDIbP8Ro"
     },
     {
       "added_at": "2026-10-15 22:02:53",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/549DrPfwUQuZB3q53WQh1z"
     },
     {
+      "added_at": "2026-10-22 22:02:37",
+      "album": {
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/4wTAb0EVZi1ppAnGeJ0e9t"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 233018,
+      "name": "Non Lo Diciamo A Nessuno",
+      "url": "https://open.spotify.com/track/6afr3pf8eGKGOSIpTVAzSB"
+    },
+    {
       "added_at": "2026-10-15 22:02:53",
       "album": {
         "name": "SENZ'ALLEGRIA",
@@ -411,6 +427,22 @@
       "duration_ms": 157405,
       "name": "ok buonanotte",
       "url": "https://open.spotify.com/track/3D3tkwn0dPmNUg0R0o8qG7"
+    },
+    {
+      "added_at": "2026-10-22 22:02:37",
+      "album": {
+        "name": "ROSE NERE",
+        "url": "https://open.spotify.com/album/4ZZTocAQMwEHi08Hcd6HCp"
+      },
+      "artists": [
+        {
+          "name": "Mida",
+          "url": "https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe"
+        }
+      ],
+      "duration_ms": 144939,
+      "name": "ROSE NERE",
+      "url": "https://open.spotify.com/track/3LQRj8zNgaOmzMzm4eokRF"
     },
     {
       "added_at": "2026-10-15 22:02:53",
@@ -485,6 +517,22 @@
       "url": "https://open.spotify.com/track/3JjyzXQ07ODREBhJknQgLS"
     },
     {
+      "added_at": "2026-10-22 22:02:37",
+      "album": {
+        "name": "BITTE LEBEN",
+        "url": "https://open.spotify.com/album/6EZUFvYwPnU1brjq3fpNoF"
+      },
+      "artists": [
+        {
+          "name": "Francamente",
+          "url": "https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts"
+        }
+      ],
+      "duration_ms": 161934,
+      "name": "Binari",
+      "url": "https://open.spotify.com/track/5W2d6zo9JUzMcnpvI2Fh9D"
+    },
+    {
       "added_at": "2026-10-15 22:02:53",
       "album": {
         "name": "STRADE",
@@ -555,6 +603,26 @@
       "duration_ms": 200316,
       "name": "VACCI PIANO (feat. Rkomi)",
       "url": "https://open.spotify.com/track/4vF4VnzL47EVsZZEVsEfbF"
+    },
+    {
+      "added_at": "2026-10-22 22:02:37",
+      "album": {
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/4wTAb0EVZi1ppAnGeJ0e9t"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 265017,
+      "name": "Amateur (feat. Salmo)",
+      "url": "https://open.spotify.com/track/3lTpJpJwmDwoHlErwU5xZC"
     },
     {
       "added_at": "2026-10-15 22:02:53",
@@ -631,6 +699,34 @@
       "duration_ms": 218478,
       "name": "Guardia del corpo",
       "url": "https://open.spotify.com/track/6IuVQGqZd5aGEnc9frfLBV"
+    },
+    {
+      "added_at": "2026-10-22 22:02:37",
+      "album": {
+        "name": "LA TAVOLA DELL'UMORE",
+        "url": "https://open.spotify.com/album/1XkRqSwZDuKqaEqDgD4Pra"
+      },
+      "artists": [
+        {
+          "name": "Chris Nolan",
+          "url": "https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh"
+        },
+        {
+          "name": "Carl Brave",
+          "url": "https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK"
+        },
+        {
+          "name": "Sarah Toscano",
+          "url": "https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5"
+        },
+        {
+          "name": "Giuse The Lizia",
+          "url": "https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK"
+        }
+      ],
+      "duration_ms": 136262,
+      "name": "OMBRE",
+      "url": "https://open.spotify.com/track/0RanD45tjNfmAZ516XHIIF"
     },
     {
       "added_at": "2026-10-15 22:02:53",
@@ -1323,22 +1419,6 @@
     {
       "added_at": "2026-10-15 22:02:53",
       "album": {
-        "name": "R\u00c0RECHE",
-        "url": "https://open.spotify.com/album/5irYFPsqPMiV6ramtSx3al"
-      },
-      "artists": [
-        {
-          "name": "LA NI\u00d1A",
-          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
-        }
-      ],
-      "duration_ms": 171360,
-      "name": "R\u00c0RECHE",
-      "url": "https://open.spotify.com/track/5jZOwQ089xk0b3UUPK9169"
-    },
-    {
-      "added_at": "2026-10-15 22:02:53",
-      "album": {
         "name": "SOLITO CINEMA",
         "url": "https://open.spotify.com/album/7o2Ac7nDPNLO0tOsdZ73JD"
       },
@@ -1431,6 +1511,22 @@
       "duration_ms": 144100,
       "name": "ADRENALINA",
       "url": "https://open.spotify.com/track/2pULqfE2k1DHr24dtJwMRh"
+    },
+    {
+      "added_at": "2026-10-15 22:02:53",
+      "album": {
+        "name": "R\u00c0RECHE",
+        "url": "https://open.spotify.com/album/5irYFPsqPMiV6ramtSx3al"
+      },
+      "artists": [
+        {
+          "name": "LA NI\u00d1A",
+          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "R\u00c0RECHE",
+      "url": "https://open.spotify.com/track/5jZOwQ089xk0b3UUPK9169"
     }
   ],
   "unique_name": "Alta Rotazione",

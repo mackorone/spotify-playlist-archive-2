@@ -4,7 +4,7 @@
 
 > 
 
-331 songs - 13 hr 7 min
+332 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [GET ME RIGHT!](https://open.spotify.com/track/6bltVRVfVJIdQJCxSp8APq) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH! \(B SIDE\)](https://open.spotify.com/album/3bifaBpAcdGzq6x5JirWw4) | 2:17 | 2026-01-19 |  |
 | [ghost!](https://open.spotify.com/track/0sB9wdHqFrKgFVF5SqmqDb) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [ghost!](https://open.spotify.com/album/58Pwlfu6uT8TyUgvHVgDHd) | 1:33 | 2025-04-11 | 2025-04-17 |
 | [gilf](https://open.spotify.com/track/6P8pDVDQA8zcigpqvYPllq) | [ak47liltwan](https://open.spotify.com/artist/3a1LOUpH70OL0iqO8Rl1sS) | [gilf](https://open.spotify.com/album/388NZVLBlwArCqyDlppxDD) | 1:17 | 2026-03-23 |  |
+| [girlfailure.](https://open.spotify.com/track/6WthGfIgHzDD1h0Kxf9FiM) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [girlfailure.](https://open.spotify.com/album/0XBVpQ0AIAKfpzR3qQiA5x) | 1:32 | 2026-10-22 |  |
 | [GLOCKIES](https://open.spotify.com/track/0UvyBiIU6E761Ozhpsf7i5) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [GLOCKIES](https://open.spotify.com/album/1KoRjUJ7IPy9irh9voezHb) | 1:07 | 2025-04-10 |  |
 | [GLOW UP!](https://open.spotify.com/track/4LfVQJZTiBjbknDiXu2PMj) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH! \(B SIDE\)](https://open.spotify.com/album/3bifaBpAcdGzq6x5JirWw4) | 1:59 | 2026-01-23 |  |
 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 | 2024-12-31 |  |

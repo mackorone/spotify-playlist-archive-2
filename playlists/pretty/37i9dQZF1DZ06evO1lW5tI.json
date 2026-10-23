@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 267503,
+  "num_followers": 267541,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAAAGkP4l40zP7tHwqbTWxH/V",
+  "snapshot_id": "atavAAAAAABsQnd/uX4HmaAef1n1OVJF",
   "tracks": [
     {
       "added_at": null,
@@ -679,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modern Love",
-        "url": "https://open.spotify.com/album/5oYObkUoxoZa52Z5FdzjPT"
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
       "artists": [
+        {
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
+        },
         {
           "name": "Khruangbin",
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 308913,
-      "name": "Right",
-      "url": "https://open.spotify.com/track/3ezJklJWZRm6pWI3DQjW9e"
+      "duration_ms": 179530,
+      "name": "Alakarra",
+      "url": "https://open.spotify.com/track/3wFnI6aZoYhCH6T3UlFknY"
     },
     {
       "added_at": null,
@@ -711,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ali",
-        "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
+        "name": "Modern Love",
+        "url": "https://open.spotify.com/album/5oYObkUoxoZa52Z5FdzjPT"
       },
       "artists": [
-        {
-          "name": "Vieux Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
-        },
         {
           "name": "Khruangbin",
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 179530,
-      "name": "Alakarra",
-      "url": "https://open.spotify.com/track/3wFnI6aZoYhCH6T3UlFknY"
+      "duration_ms": 308913,
+      "name": "Right",
+      "url": "https://open.spotify.com/track/3ezJklJWZRm6pWI3DQjW9e"
     },
     {
       "added_at": null,

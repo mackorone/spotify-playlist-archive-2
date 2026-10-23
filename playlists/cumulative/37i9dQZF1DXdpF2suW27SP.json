@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Dezinho entra na zona. ",
+  "description": "Agir, HeartLess, quintasz entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -412,7 +412,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 156125,
       "name": "2K26 FREESTYLE",
       "url": "https://open.spotify.com/track/17A2TJEk8mowqttdicptSc"
@@ -943,6 +943,32 @@
     },
     {
       "album": {
+        "name": "A1",
+        "url": "https://open.spotify.com/album/281dDFAaUe3yPFJBOG6LWR"
+      },
+      "artists": [
+        {
+          "name": "Agir",
+          "url": "https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC"
+        },
+        {
+          "name": "quintasz",
+          "url": "https://open.spotify.com/artist/5rL8nsDdA5x4gJpZS40uvc"
+        },
+        {
+          "name": "HeartLess",
+          "url": "https://open.spotify.com/artist/72bZdVlE9OFvEJcWj7q23r"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "A1",
+      "url": "https://open.spotify.com/track/3WC1UhD205KXhQR5BoLRMW"
+    },
+    {
+      "album": {
         "name": "Aben\u00e7oada",
         "url": "https://open.spotify.com/album/7hN8YE4OReQ9ehbcTPJJrf"
       },
@@ -1154,7 +1180,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 176666,
       "name": "AFTERHOURS",
       "url": "https://open.spotify.com/track/1liMuad86a8bz9IqisJGWJ"
@@ -4866,7 +4892,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 219175,
       "name": "coca cola",
       "url": "https://open.spotify.com/track/0kyuMrg9R6hXjgE1sNcDKT"
@@ -9934,6 +9960,28 @@
       "duration_ms": 222257,
       "name": "Isaltino",
       "url": "https://open.spotify.com/track/50iakLZIlmMPjJlye2Fc84"
+    },
+    {
+      "album": {
+        "name": "IT'S OK",
+        "url": "https://open.spotify.com/album/3wmwypxAmGyhCCBKu34wGb"
+      },
+      "artists": [
+        {
+          "name": "LZ",
+          "url": "https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud"
+        },
+        {
+          "name": "XROOTZ",
+          "url": "https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "IT'S OK",
+      "url": "https://open.spotify.com/track/06aYa89R6oTYq0OKdAdQop"
     },
     {
       "album": {
@@ -15810,6 +15858,28 @@
       "duration_ms": 136440,
       "name": "PAUL WALKER",
       "url": "https://open.spotify.com/track/2dCLZ30zQNwL7SL2jaDJoh"
+    },
+    {
+      "album": {
+        "name": "Pausa na Flash",
+        "url": "https://open.spotify.com/album/2YRAZAz3TlhOUIN0VB12xi"
+      },
+      "artists": [
+        {
+          "name": "Dbraz",
+          "url": "https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl"
+        },
+        {
+          "name": "MOR3NO",
+          "url": "https://open.spotify.com/artist/6AMhf6PcVHkmKuCP4zrfVr"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146565,
+      "name": "Pausa na Flash",
+      "url": "https://open.spotify.com/track/59dDlGQMPvLshXvVPDEl0J"
     },
     {
       "album": {

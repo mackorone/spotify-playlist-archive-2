@@ -1,12 +1,12 @@
 {
   "description": "This is Siouxsie and the Banshees. The essential tracks, all in one playlist.",
-  "num_followers": 52059,
+  "num_followers": 52070,
   "original_name": "This Is Siouxsie and the Banshees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAADFTA9xtDJqhpTmUpAklXfS",
+  "snapshot_id": "atavAAAAAACpBnmvOmgGoRBSHS0sr7Qr",
   "tracks": [
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Join Hands",
-        "url": "https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj"
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 277173,
-      "name": "Placebo Effect",
-      "url": "https://open.spotify.com/track/3KRbrv6dHumhyyYTu97OqG"
+      "duration_ms": 244360,
+      "name": "Swimming Horses",
+      "url": "https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hyaena (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
+        "name": "Join Hands",
+        "url": "https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Swimming Horses",
-      "url": "https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj"
+      "duration_ms": 277173,
+      "name": "Placebo Effect",
+      "url": "https://open.spotify.com/track/3KRbrv6dHumhyyYTu97OqG"
     },
     {
       "added_at": null,

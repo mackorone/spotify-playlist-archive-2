@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118656,
+  "num_followers": 118669,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAADMTOlLvkgokl923L+2pFkA",
+  "snapshot_id": "atavAAAAAACgt9chZnXZZnNNSMPvfgjn",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 226208,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Otra Cara",
         "url": "https://open.spotify.com/album/3PXMIloVcTFvoOKsFrloNt"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 158048,
       "name": "El Instructivo",
       "url": "https://open.spotify.com/track/6vtfKCxBf7GrcyvlU2Dl0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 226208,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
     },
     {
       "added_at": null,
@@ -591,6 +591,26 @@
       "duration_ms": 170004,
       "name": "El Bolas",
       "url": "https://open.spotify.com/track/5gP4fy4hP3TSyh6nuE25wB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deli",
+        "url": "https://open.spotify.com/album/4leFgTpQRveiOxDJ2y99RE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "La F\u00f3rmula",
+          "url": "https://open.spotify.com/artist/3Cdm0n7u3cH5vVioNaByZ0"
+        }
+      ],
+      "duration_ms": 185427,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/16WSMvxhuxH9mYA5E5YXl8"
     },
     {
       "added_at": null,
@@ -667,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149696,
-      "name": "La Pasadita - En vivo",
-      "url": "https://open.spotify.com/track/2l9grS1b0xzLCKTWdWqeeO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
       },
@@ -695,6 +699,22 @@
       "duration_ms": 185973,
       "name": "El Mas Poderoso - En Vivo",
       "url": "https://open.spotify.com/track/2Dgl2lWN7geG4QxG81XtKp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 149696,
+      "name": "La Pasadita - En vivo",
+      "url": "https://open.spotify.com/track/2l9grS1b0xzLCKTWdWqeeO"
     },
     {
       "added_at": null,
@@ -735,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 167168,
-      "name": "Los Consejos - En vivo",
-      "url": "https://open.spotify.com/track/579bSgsArdvofFwKRQgimo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
       },
@@ -767,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deli",
-        "url": "https://open.spotify.com/album/4leFgTpQRveiOxDJ2y99RE"
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
       },
       "artists": [
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "La F\u00f3rmula",
-          "url": "https://open.spotify.com/artist/3Cdm0n7u3cH5vVioNaByZ0"
         }
       ],
-      "duration_ms": 185427,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/16WSMvxhuxH9mYA5E5YXl8"
+      "duration_ms": 167168,
+      "name": "Los Consejos - En vivo",
+      "url": "https://open.spotify.com/track/579bSgsArdvofFwKRQgimo"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 179171,
+      "name": "Que las Cuartitos No Falten",
+      "url": "https://open.spotify.com/track/6cOCAVRpC5ATUOStqdhhtP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Nueva Versi\u00f3n",
         "url": "https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 163034,
       "name": "Mi Nueva Versi\u00f3n",
       "url": "https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 179171,
-      "name": "Que las Cuartitos No Falten",
-      "url": "https://open.spotify.com/track/6cOCAVRpC5ATUOStqdhhtP"
     },
     {
       "added_at": null,

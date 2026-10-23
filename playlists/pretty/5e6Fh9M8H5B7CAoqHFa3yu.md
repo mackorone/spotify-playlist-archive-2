@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,763 songs - 6 day 16 hr 53 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 358 likes - 2,774 songs - 6 day 17 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2771,5 +2771,16 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2761 | [Sunshine Together](https://open.spotify.com/track/1rMtSIyUqCho7FSR5rlmem) | [ArtziPop](https://open.spotify.com/artist/5KApxUECyARPxuTxFbnD6i) | [Sunshine Together – Remixes](https://open.spotify.com/album/2Tz0BtvF8jQ4V5TJ6LCdf3) | 3:12 |
 | 2762 | [Dead End Road](https://open.spotify.com/track/43hAOE3V7rJ6U45EH1mCKC) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [The Sound of Static](https://open.spotify.com/album/1AhJR1phukAEoqH4PwDwKR) | 2:26 |
 | 2763 | [Mean it at all](https://open.spotify.com/track/0H4xd2FKtWYgrH7uxMBw9S) | [Maria Krauss](https://open.spotify.com/artist/2voazIy50xtxd794uJu5Fl) | [Mean it at all](https://open.spotify.com/album/7wcubevLDln9Wi0WxasZGG) | 3:43 |
+| 2764 | [Sa Danza](https://open.spotify.com/track/7JT81V0wgUOjnlWTwja61k) | [Sassari Orchestra](https://open.spotify.com/artist/4LptTv753wvqCwoS6cu2Ra), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [BALLOS SARDOS](https://open.spotify.com/album/0XgcACPHAfBFdbzGR5h9WJ) | 3:19 |
+| 2765 | [Ballu Brincu](https://open.spotify.com/track/5h1NeztvLdDdh1aDLOPoXC) | [Sassari Orchestra](https://open.spotify.com/artist/4LptTv753wvqCwoS6cu2Ra), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [BALLOS SARDOS](https://open.spotify.com/album/0XgcACPHAfBFdbzGR5h9WJ) | 2:12 |
+| 2766 | [Ankara \- Radio Edit](https://open.spotify.com/track/4YJjIxcoXtvwr5Wc3pdnZF) | [CARUSO](https://open.spotify.com/artist/4gPWSjh9OJolHoeTQ995Tw), [VALENZIANO](https://open.spotify.com/artist/6ZRVg1mv3nhx6METtSYaVj), [Andrea Belli](https://open.spotify.com/artist/65buRrCpNVkMbkKspjt5iR), [Dave Roy Bland](https://open.spotify.com/artist/1X3vecxOTZqDpEVb4Y4nVd) | [Ankara](https://open.spotify.com/album/36KPAfmWluoE35ZuF8jMHe) | 2:16 |
+| 2767 | [Massive Sound](https://open.spotify.com/track/5DxkmOsK0QCGVsTPdFI055) | [Irie\-D](https://open.spotify.com/artist/4y4BXLuSuP0ZqMuL6xCcTs), [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [Massive Sound](https://open.spotify.com/album/5LnDRylubtBAm2fFDBwEY6) | 5:30 |
+| 2768 | [Massive Dub](https://open.spotify.com/track/1UJa7GoCs4EYlwiIDGDY5g) | [Irie\-D](https://open.spotify.com/artist/4y4BXLuSuP0ZqMuL6xCcTs), [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [Massive Sound](https://open.spotify.com/album/5LnDRylubtBAm2fFDBwEY6) | 4:56 |
+| 2769 | [Beware Dub](https://open.spotify.com/track/498ufAvFU8s9zaujpsthDp) | [Mudskipper](https://open.spotify.com/artist/2TXQiR3SMtZ2lB7YPnmDBU) | [South\-Eastern Style](https://open.spotify.com/album/1vbtriJJGzzqqeqYLiW9w2) | 4:03 |
+| 2770 | [Ambrosial Dub](https://open.spotify.com/track/3h1tKtycPT0j7NKOpr08vn) | [Mudskipper](https://open.spotify.com/artist/2TXQiR3SMtZ2lB7YPnmDBU) | [South\-Eastern Style](https://open.spotify.com/album/1vbtriJJGzzqqeqYLiW9w2) | 4:41 |
+| 2771 | [Pillars Dub](https://open.spotify.com/track/5xd9FNyrUALvloE0e9ERCy) | [Mudskipper](https://open.spotify.com/artist/2TXQiR3SMtZ2lB7YPnmDBU) | [South\-Eastern Style](https://open.spotify.com/album/1vbtriJJGzzqqeqYLiW9w2) | 3:52 |
+| 2772 | [Stand It Dub](https://open.spotify.com/track/0QCNNZhVnsImhL4TLOJOFD) | [Mudskipper](https://open.spotify.com/artist/2TXQiR3SMtZ2lB7YPnmDBU) | [South\-Eastern Style](https://open.spotify.com/album/1vbtriJJGzzqqeqYLiW9w2) | 4:17 |
+| 2773 | [Where There's Dub](https://open.spotify.com/track/0ewPnGnnlrmhDj8EZm30Bt) | [Mudskipper](https://open.spotify.com/artist/2TXQiR3SMtZ2lB7YPnmDBU) | [South\-Eastern Style](https://open.spotify.com/album/1vbtriJJGzzqqeqYLiW9w2) | 4:04 |
+| 2774 | [Wasted Dub](https://open.spotify.com/track/5fQo5vL8mz1cwLxUQal59u) | [Mudskipper](https://open.spotify.com/artist/2TXQiR3SMtZ2lB7YPnmDBU) | [South\-Eastern Style](https://open.spotify.com/album/1vbtriJJGzzqqeqYLiW9w2) | 4:42 |
 
-Snapshot ID: `AAAL1ardG+UQAt7+CfYLkg/mLLQvbw/p`
+Snapshot ID: `AAAL2nQtB6TATpku1KMDQnGup7Mj88ML`

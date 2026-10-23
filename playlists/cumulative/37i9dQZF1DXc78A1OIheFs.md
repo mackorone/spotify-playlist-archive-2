@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: L.A.B.
 
-377 songs - 21 hr 41 min
+378 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,9 +378,10 @@
 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-24 | 2025-11-27 |
 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 | 2025-04-17 |  |
 | [What You Say \(feat\. Kīngi Tūheitia\)](https://open.spotify.com/track/6ie4rjbWBUcDw9bQvIRdKd) | [Tipene](https://open.spotify.com/artist/3T6KAAR4Vbo1hO2KlZP1oy), [Kīngi Tūheitia](https://open.spotify.com/artist/6j1w9erGeg3MK98bLQEpB5) | [What You Say](https://open.spotify.com/album/1t1b5uhjReloiYq3YX7NvL) | 4:20 | 2024-05-20 | 2024-11-08 |
-| [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k) | [A.R.T](https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU) | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf) | 2:36 | 2024-05-20 |  |
+| [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k) | [A.R.T](https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU) | [When He Was Mine \(Pele Fo'i Mai\)](https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf) | 2:36 | 2024-05-20 | 2026-10-23 |
 | [Wild For Change](https://open.spotify.com/track/1x7MgVfK7MP3aZkAuae3t8) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Wild For Change](https://open.spotify.com/album/0Y85muQmXgj15Os6GkC9Th) | 3:52 | 2024-05-20 | 2024-08-16 |
 | [Wildfire](https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Wildfire](https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp) | 2:36 | 2024-05-20 | 2026-10-08 |
+| [Windmill](https://open.spotify.com/track/45Cwr92B6qUPVBH5cF8WxV) | [Dillon Jo](https://open.spotify.com/artist/5oFVHwRLoW3v9VIoA7O6uQ) | [Guard Dog](https://open.spotify.com/album/2CsoqrF3WY5KO6WgyiAcXm) | 4:03 | 2026-10-22 |  |
 | [With You](https://open.spotify.com/track/2uAn59bUH20FLJzHXnl5zi) | [Juicy Jamz](https://open.spotify.com/artist/5YwLWCeArN7CECv7CLfz9f) | [With You](https://open.spotify.com/album/7KynKKoRnC19KaLuQVKt4U) | 3:34 | 2024-08-30 | 2024-11-08 |
 | [Wobble Out \(feat\. Kings\)](https://open.spotify.com/track/5KEBuUXw6U7NQOpdmDPphP) | [Penny Black](https://open.spotify.com/artist/1cBG4EwfCyJnZCsKxvIZ4h), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Wobble Out \(feat\. Kings\)](https://open.spotify.com/album/4NSj7L3io09LE0klyVzzAS) | 3:00 | 2024-08-15 | 2024-11-17 |
 | [You Already Know](https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [You Already Know](https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh) | 3:06 | 2025-08-14 |  |

@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-922 songs - 2 day 16 hr 58 min
+923 songs - 2 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,7 @@
 | [Ma'a Ibnat](https://open.spotify.com/track/2PQePG0V7qY5svFvwKoFvF) | [Ouiness](https://open.spotify.com/artist/3OatvQHeTWSnkuKDvvfVnd) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 2:52 | 2021-10-06 | 2022-01-14 |
 | [Macumba de Marea](https://open.spotify.com/track/34NHlhFXYug6lChbveHIVU) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/2ecxzRChLnsvsmrF3DXp4Z) | 5:11 | 2022-04-26 | 2022-07-29 |
 | [Magica Nueva](https://open.spotify.com/track/6BMnWybJGa1ECarOi99Xvo) | [Junglelyd](https://open.spotify.com/artist/4iZlSQSRIZ5HYEwwcfbR0c) | [Paracaídas](https://open.spotify.com/album/6EPBq63T1DMFseKbMJ4qwm) | 3:19 | 2021-10-06 | 2022-04-21 |
-| [Magnolia Tree](https://open.spotify.com/track/3rQWK48enFpN2cAWtrU813) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der) | [Magnolia Tree](https://open.spotify.com/album/0s8skAYOKtD2M7r6X9LptB) | 2:48 | 2025-07-11 |  |
+| [Magnolia Tree](https://open.spotify.com/track/3rQWK48enFpN2cAWtrU813) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der) | [Magnolia Tree](https://open.spotify.com/album/0s8skAYOKtD2M7r6X9LptB) | 2:48 | 2025-07-11 | 2026-10-23 |
 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 | 2024-03-05 | 2026-04-04 |
 | [Mais além \(Beyond\)](https://open.spotify.com/track/6ruAYarEGAhBlKXeip5nYN) | [Zuco 103](https://open.spotify.com/artist/7m5FwndSbCRd5vJvgviUCA) | [Mais além \(Beyond\)](https://open.spotify.com/album/0ZZS2TrYk46doyRvE1qzvb) | 3:28 | 2025-06-03 | 2025-10-03 |
 | [Make It Right](https://open.spotify.com/track/0KjwYVDuTHrfN36XSWEQc5) | [Johnny!](https://open.spotify.com/artist/0qdofS3PCyg0WmhycmvnYk) | [Make It Right](https://open.spotify.com/album/1d99bHzvTbXCiTyqyuWMK8) | 4:00 | 2021-10-06 | 2022-07-18 |
@@ -828,6 +828,7 @@
 | [Totem \- David Walters Remix](https://open.spotify.com/track/2sMtCMxY9ocTQybHW7KxLg) | [Anthony Joseph](https://open.spotify.com/artist/622cbugSJevUkEanSBCab9), [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [Totem \(David Walters Remix\)](https://open.spotify.com/album/3uPQR7dKbS3SsAbqqumoqz) | 6:32 | 2022-01-14 | 2022-07-29 |
 | [Touch Me \- Radio Edit](https://open.spotify.com/track/3cmPdhXpjIoMwmuezMwwDZ) | [Tomos](https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y) | [Touch Me \(Radio Edit\)](https://open.spotify.com/album/4nUqQb9VTY3Dqe3wBlpFZ9) | 3:34 | 2025-07-03 | 2026-04-27 |
 | [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 | 2022-03-30 | 2026-03-14 |
+| [Track 5](https://open.spotify.com/track/0qKSgrlW1MuQEEdQ6oZ3f6) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Made In Senegal](https://open.spotify.com/album/7IbmxU46JigXBR3utnRosM) | 0:00 | 2026-10-22 |  |
 | [Tripping Up](https://open.spotify.com/track/6yTgIPx8OsFOQnwr1Baj9o) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8) | [Indigo \- EP](https://open.spotify.com/album/2IgjsbxHF0dC4jjT5Cl5Jd) | 4:47 | 2021-10-06 | 2022-07-24 |
 | [Tropical Man](https://open.spotify.com/track/7lkqxAoVA5OGYFQ19IGUfK) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Tropical Man](https://open.spotify.com/album/1vCmWn5jPAyvENTVPzUUXW) | 3:46 | 2024-05-10 | 2025-10-24 |
 | [Tropics](https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tropics](https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG) | 2:29 | 2024-08-23 |  |

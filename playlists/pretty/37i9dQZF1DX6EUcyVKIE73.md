@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,575 likes - 50 songs - 14 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,581 likes - 50 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 29 | [Raga Mishra Manjh Khamaj: Chhitak Junaiya \(Pasar Ke Geet: Laoni Taal\)](https://open.spotify.com/track/3m4Ub5L17o2UFRgiSfN8n7) | [Ruchira Panda](https://open.spotify.com/artist/2O3knTvssjiydio8UdUhCB), [Pandit Sanjay Mukherjee](https://open.spotify.com/artist/4szBpuRsVWmMUyLtl8IKxn), [Anirban Chakrabarty](https://open.spotify.com/artist/4Ysx44eu4Kxj0YZ9hUgId7) | [Music of the Pastoral, Vol\. 1](https://open.spotify.com/album/4VGFKpb3uxTl71ZWw4QbBZ) | 12:09 |
 | 30 | [Raga Asavari Todi](https://open.spotify.com/track/6L8tXG8hFllYNNjnyrbuOF) | [Pandit Bhimsen Joshi](https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk) | [Sangeet Sartaj Vol\. 1 & 2](https://open.spotify.com/album/2HSvyuPBF5HSdz4zxS5SGO) | 32:27 |
 | 31 | [Dev Dev Sat Sang \- Khayal Vilambit \- Jhap Taal / Maanat Nahin \- Raag Sawani \- Khayal Drut \- Teentaal](https://open.spotify.com/track/3SpPbiI3GoyIDBYxvnByPz) | [Suresh Talwalkar](https://open.spotify.com/artist/61TBwoNacct3xrgHpQrP1r), [Anant Kunte](https://open.spotify.com/artist/2hCXIITSyyqPwgkaVNHN7D), [Pt\. Babanrao Manjrekar](https://open.spotify.com/artist/4zLwSdQIRKPFLWZ4H65agg), [Padma Talwalkar](https://open.spotify.com/artist/064zRRPqgyHoIO6KKSKC4e) | [Padma Talwalkar](https://open.spotify.com/album/1kVSQdnFN0LhpguKaUGJ6T) | 27:13 |
-| 32 | [Rag Marwa, Part 2](https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:13 |
-| 33 | [Raga Sampurna Malkaus](https://open.spotify.com/track/7mvf24bJZ4cw4dM4uxAWgd) | [Kishori Amonkar](https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45) | [Maestro's Choice: Kishori Amonkar](https://open.spotify.com/album/6cKWaE4V3zAnDOzE4wwemT) | 28:30 |
+| 32 | [Raga Sampurna Malkaus](https://open.spotify.com/track/7mvf24bJZ4cw4dM4uxAWgd) | [Kishori Amonkar](https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45) | [Maestro's Choice: Kishori Amonkar](https://open.spotify.com/album/6cKWaE4V3zAnDOzE4wwemT) | 28:30 |
+| 33 | [Rag Marwa, Part 2](https://open.spotify.com/track/6827uN6sw0pHEQe9R2Jzcm) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:13 |
 | 34 | [Bhavani Dayani Raag Mishra Bhairavi Sadra](https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh) | [Jyoti Debnath](https://open.spotify.com/artist/4rcwtJdLLfRtwc4TLvvcWk) | [Bhavani Dayani Raag Mishra Bhairavi Sadra](https://open.spotify.com/album/40GaEcinaieQsIXisQygW7) | 5:35 |
 | 35 | [Raga Kalavati \- Khayal](https://open.spotify.com/track/5jc5Dn3oIigJIOHKFGBRde) | [Parveen Sultana](https://open.spotify.com/artist/6icHDJ25LIt9b8hyW6Zm6e) | [Le Chant \- Khayal](https://open.spotify.com/album/4u4qaZ6CcnBKfpsmEdfugX) | 14:56 |
 | 36 | [Jhama Jham \- Thumri](https://open.spotify.com/track/2pxyb3CvMfCyvYZcnojMZW) | [Girija Devi, Kishan Maharaj, Ramesh Mishra](https://open.spotify.com/artist/2x2lBeqwikK3oXYxtyDlmF) | [The Best Of Girija Deva](https://open.spotify.com/album/1oe93SNJ9tdqrTpkrkz5dH) | 9:02 |

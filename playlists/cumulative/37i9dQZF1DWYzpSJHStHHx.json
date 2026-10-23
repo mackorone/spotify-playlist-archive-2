@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Benefit",
+        "url": "https://open.spotify.com/album/4MsY2UUXL5RnXLI9DNlaG8"
+      },
+      "artists": [
+        {
+          "name": "The Moving Stills",
+          "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201284,
+      "name": "Benefit",
+      "url": "https://open.spotify.com/track/3mGHXcMY8iOBJja0C52Cax"
+    },
+    {
+      "album": {
         "name": "Better Than I Know Myself",
         "url": "https://open.spotify.com/album/6UB2H0P4aSqExfV7GWvtKO"
       },
@@ -2642,7 +2660,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 186521,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf"
@@ -3024,6 +3042,24 @@
       "duration_ms": 213173,
       "name": "In the Morning I'll Be Better",
       "url": "https://open.spotify.com/track/6d5faX65tSGFKcXsOJQRFi"
+    },
+    {
+      "album": {
+        "name": "Doing Good",
+        "url": "https://open.spotify.com/album/47bj5IysbX9SewgzeSZ3RC"
+      },
+      "artists": [
+        {
+          "name": "Stimpies",
+          "url": "https://open.spotify.com/artist/5nAezeFdtBCXFbNF4Jwue4"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276828,
+      "name": "Into Blue",
+      "url": "https://open.spotify.com/track/1sB8eliFxjagy1e9eV22gS"
     },
     {
       "album": {
@@ -3553,6 +3589,28 @@
     },
     {
       "album": {
+        "name": "Luchando / Llanto en la Selva",
+        "url": "https://open.spotify.com/album/1u4QvkOuCWSJGCb1RdFUP5"
+      },
+      "artists": [
+        {
+          "name": "LA LOM",
+          "url": "https://open.spotify.com/artist/01sY3iLJZtSBa0BIbcpddJ"
+        },
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183824,
+      "name": "Luchando",
+      "url": "https://open.spotify.com/track/64OGB9wGOV7d6z0ico2PfE"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/0ChQSvv5Af1BJhm8tQ7Aeu"
       },
@@ -3906,7 +3964,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 217413,
       "name": "Naga Damai",
       "url": "https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf"
@@ -3942,7 +4000,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 236666,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN"
@@ -5260,7 +5318,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 221842,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy"
@@ -6491,6 +6549,24 @@
     },
     {
       "album": {
+        "name": "too late",
+        "url": "https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ"
+      },
+      "artists": [
+        {
+          "name": "Juney Boy",
+          "url": "https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190157,
+      "name": "too late",
+      "url": "https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu"
+    },
+    {
+      "album": {
         "name": "Tomorrow Is Alright",
         "url": "https://open.spotify.com/album/7K4eMOq0MLq6aQz7Zjkjkh"
       },
@@ -6812,7 +6888,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 129893,
       "name": "We Gotta Groove - 2025 Mix",
       "url": "https://open.spotify.com/track/7xwuRnHSNZMF9cTyQ9Empv"
@@ -6978,6 +7054,24 @@
       "duration_ms": 158085,
       "name": "What's Next",
       "url": "https://open.spotify.com/track/204AwF6xWxX2OakSgEyICI"
+    },
+    {
+      "album": {
+        "name": "When We First Met",
+        "url": "https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112984,
+      "name": "When We First Met",
+      "url": "https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t"
     },
     {
       "album": {

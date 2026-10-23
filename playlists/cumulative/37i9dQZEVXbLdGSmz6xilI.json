@@ -6406,7 +6406,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 218512,
       "name": "C\u00f3 Em",
       "url": "https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa"
@@ -8206,7 +8206,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 284288,
       "name": "D\u1ea1o N\u00e0y",
       "url": "https://open.spotify.com/track/6vq9mSv7KaZj193QEAAkAt"
@@ -12692,7 +12692,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 271704,
       "name": "id 072019",
       "url": "https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr"
@@ -14134,7 +14134,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 232647,
       "name": "Kh\u00f4ng Y\u00eau Em Th\u00ec Y\u00eau Ai?",
       "url": "https://open.spotify.com/track/0e6fZkLArSmDIHnZcIua7t"
@@ -17944,7 +17944,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 328240,
       "name": "m\u1ed9t \u0111\u1eddi",
       "url": "https://open.spotify.com/track/4gaxEUZE4z9pJAVTSFwgQI"
@@ -18646,7 +18646,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 295818,
       "name": "Ng\u00e2n H\u00e0ng N\u1ed7i Nh\u1edb",
       "url": "https://open.spotify.com/track/635E47CCnfNqNGvygqQemO"
@@ -20066,7 +20066,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 254304,
       "name": "N\u1eafng c\u00f3 mang em v\u1ec1",
       "url": "https://open.spotify.com/track/6nInHlewtrNKguNKlXt0Ur"
@@ -20362,7 +20362,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 263752,
       "name": "n\u1ebfu l\u00fac \u0111\u00f3",
       "url": "https://open.spotify.com/track/5ouxRyInSdRBQubu3KTd97"
@@ -23858,7 +23858,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
@@ -27219,6 +27219,24 @@
     },
     {
       "album": {
+        "name": "Trong \u0110\u00f4i M\u1eaft Thi\u1ebfu N\u1eef",
+        "url": "https://open.spotify.com/album/6UMJ6mMYktUBnJgNXw2Sr6"
+      },
+      "artists": [
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271503,
+      "name": "Trong \u0110\u00f4i M\u1eaft Thi\u1ebfu N\u1eef",
+      "url": "https://open.spotify.com/track/251z7MoHRghXdptalUMcL1"
+    },
+    {
+      "album": {
         "name": "Rap Vi\u1ec7t M\u00f9a 3 (2023) - T\u1eadp 15",
         "url": "https://open.spotify.com/album/1lnPHL09vpRyA9ktF7UJbl"
       },
@@ -27515,6 +27533,40 @@
     },
     {
       "album": {
+        "name": "TINH H\u00c0 \"SAY HI\", T\u1eacP 13",
+        "url": "https://open.spotify.com/album/1wX1PknudbT6yW4jhljSMS"
+      },
+      "artists": [
+        {
+          "name": "TINH H\u00c0 \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/2dLayz7AThHVFmsIbsvTKh"
+        },
+        {
+          "name": "Quang H\u00f9ng MasterD",
+          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
+        },
+        {
+          "name": "Xu\u00e2n \u0110\u1ecbnh K.Y",
+          "url": "https://open.spotify.com/artist/7G5AEkY5idIoHytk72GGyf"
+        },
+        {
+          "name": "WEAN",
+          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
+        },
+        {
+          "name": "S\u01a1n.K",
+          "url": "https://open.spotify.com/artist/4APAeuMjgVjYGMWVDehJrc"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308368,
+      "name": "TR\u1ec4 GI\u1edc C\u01a0M (feat. Quang H\u00f9ng MasterD, Xu\u00e2n \u0110\u1ecbnh K.Y, WEAN & S\u01a1n.K)",
+      "url": "https://open.spotify.com/track/29sooRGEz16oXmJh9SbKaB"
+    },
+    {
+      "album": {
         "name": "Tr\u1ed1n T\u00ecm",
         "url": "https://open.spotify.com/album/1OWSGECq2oKMojwFp0EFvJ"
       },
@@ -27632,6 +27684,24 @@
       "duration_ms": 179172,
       "name": "Typa Girl",
       "url": "https://open.spotify.com/track/0L8LOav65XwLjCLS11gNPD"
+    },
+    {
+      "album": {
+        "name": "T\u00e2m S\u1ef1 Tu\u1ed5i 30",
+        "url": "https://open.spotify.com/album/6JcdVRW2f1pkeGQ10qIuGs"
+      },
+      "artists": [
+        {
+          "name": "Tr\u1ecbnh Th\u0103ng B\u00ecnh",
+          "url": "https://open.spotify.com/artist/4co1OIKlUOsNNVJFSZzO9N"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265156,
+      "name": "T\u00e2m S\u1ef1 Tu\u1ed5i 30",
+      "url": "https://open.spotify.com/track/5H7c7TWQaFz7qQs3UCmtHZ"
     },
     {
       "album": {
@@ -28506,7 +28576,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 174545,
       "name": "T\u1eebng Quen",
       "url": "https://open.spotify.com/track/4qYfRfSxsmhJ1WMaywtLyI"
@@ -29012,7 +29082,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
@@ -29254,7 +29324,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 210067,
       "name": "V\u1ebft M\u01b0a",
       "url": "https://open.spotify.com/track/5cn5oHiXJTLiuthgbgfkMh"
@@ -30766,7 +30836,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 253524,
       "name": "Y\u00eau M\u1ed9t Ng\u01b0\u1eddi C\u00f3 L\u1ebd",
       "url": "https://open.spotify.com/track/2o4dDfLK6NVI7TjBm5VoMv"

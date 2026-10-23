@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> sophia stel\-lar ⚓ <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still"> plus \~new Lorem substack edition here\~</a>
+> brat star <a href="https://loremandfriends.substack.com/p/even\-if\-you\-cant\-read\-you\-can\-still"> plus \~new Lorem substack edition here\~</a>
 
-4,044 songs - 9 day 5 hr 57 min
+4,048 songs - 9 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1941,6 +1941,7 @@
 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-05-03 | 2021-08-14 |
 | [Kickback](https://open.spotify.com/track/5MZQIjtghyFc4sMVUzD7MD) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 2:51 | 2019-10-04 | 2020-04-09 |
 | [Kid Muscle](https://open.spotify.com/track/7t0XbjgX6diwEjOHW2LxwC) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Kid Muscle](https://open.spotify.com/album/7d47jgsqR9eeNMkN2hljXz) | 5:11 | 2024-08-07 | 2024-12-04 |
+| [Kids](https://open.spotify.com/track/6cMMZ2pdP4PkYsVJqX2WUh) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/2YfJVXAYfqaaP2u3vdSQNf) | 4:29 | 2026-10-23 |  |
 | [Kids](https://open.spotify.com/track/0IFOOOi6001JpVTBbkbLNC) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/5LF0FgPNp2ImHWV8P6ZkCx) | 3:41 | 2022-06-10 | 2022-07-30 |
 | [Kids Driving The Elevator](https://open.spotify.com/track/2pzPC40SA14bElnW9tqgoI) | [Micah Preite](https://open.spotify.com/artist/2jx7boBXTsMt8NvBRH4gYg) | [Kids Driving The Elevator](https://open.spotify.com/album/11q7OSad2MdkC3eh2kEZlO) | 3:01 | 2023-07-19 | 2023-08-16 |
 | [Kill For You](https://open.spotify.com/track/0BuW1JbaKtMpAxLyjpHf9n) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:44 | 2023-04-28 | 2023-08-26 |
@@ -3176,6 +3177,7 @@
 | [Something in the way you move](https://open.spotify.com/track/6i4QWDj0FaZq0DNlzDOEBc) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Something in the way you move](https://open.spotify.com/album/4KiagNACvTlWB1tu0sONBK) | 4:59 | 2025-05-16 | 2025-08-16 |
 | [Sometimes \- From "Fire Island"](https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Sometimes \(From "Fire Island"\)](https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE) | 3:03 | 2022-06-03 | 2022-06-16 |
 | [Sometimes I believe in God \(Sometimes I believe in Me\)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [?](https://open.spotify.com/album/11H2P7CKIyHenh01nk0y3H) | 3:40 | 2026-03-09 | 2026-07-25 |
+| [Sometimes I Get Emotional](https://open.spotify.com/track/7uAD2mlombVXT7JsZ3yexr) | [After Louise](https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W) | [Sometimes I Get Emotional](https://open.spotify.com/album/5kNMRxLIn7Z3Sr2cGTaL9W) | 3:22 | 2026-10-23 |  |
 | [Sometimes I rush](https://open.spotify.com/track/4gSItxVqOlJXeD2Oi2X9GJ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Sometimes I rush](https://open.spotify.com/album/3LtB97AUyz7oC3mYTVLo4B) | 1:30 | 2026-10-02 |  |
 | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm) | 3:03 | 2020-07-31 | 2020-08-21 |
 | [Somewhere in Between](https://open.spotify.com/track/2eZqr5eoqJjV3RtQhzMEmz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Somewhere in Between](https://open.spotify.com/album/40qgvmv0umdBKkDBMdhlb2) | 3:23 | 2025-07-22 | 2026-02-07 |
@@ -3238,6 +3240,7 @@
 | [Standing Still](https://open.spotify.com/track/6a0e5Fb8cwz8pklTJOFGju) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [This Way](https://open.spotify.com/album/3ij42TJGaDLltR6VlCMUOa) | 4:30 | 2024-01-03 | 2024-01-11 |
 | [Stanley](https://open.spotify.com/track/3nPzk1O9QoPggqgdHwwOly) | [Camille Schmidt](https://open.spotify.com/artist/0XGV1FXgyGB0yg6lPcfQg1) | [Stanley](https://open.spotify.com/album/5ckcYa3gP4RFF9dbeKipPV) | 2:53 | 2024-12-13 | 2025-03-04 |
 | [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 | 2026-03-13 |  |
+| [star](https://open.spotify.com/track/6amVMTh1Lr08QA27a7FtCx) | [Leyla Ebrahimi](https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR) | [star](https://open.spotify.com/album/4yJ6xcyg1Rv7htmNxwSdX8) | 3:56 | 2026-10-23 |  |
 | [Star](https://open.spotify.com/track/5yhXwNpMauiItH4zsJJveb) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Star](https://open.spotify.com/album/6ALceKygaMi66f4hNfSOUq) | 2:06 | 2025-12-05 | 2026-04-18 |
 | [Star of the Show](https://open.spotify.com/track/2XLSbmaMw6ytIVdW45X8yc) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [Star of the Show](https://open.spotify.com/album/1gyqe8tfMkeTDmtR8PTlHd) | 4:16 | 2022-05-12 | 2022-07-30 |
 | [Star v](https://open.spotify.com/track/3Wo5cXSG9DdFkbYruZgBmh) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Something is a shell .](https://open.spotify.com/album/2QlGlvLUEon9SaUGNj78cy) | 3:47 | 2026-04-17 | 2026-07-25 |
@@ -3873,6 +3876,7 @@
 | [White Claw Addict](https://open.spotify.com/track/3B4SgphwnsLtf1umaZVa0k) | [Brat Star](https://open.spotify.com/artist/75paBOTrEufCOCKV1n4Cn8) | [White Claw Addict](https://open.spotify.com/album/2VzRYpxNzoqq534enPB2RH) | 3:07 | 2026-10-05 |  |
 | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ) | 3:54 | 2026-02-18 | 2026-07-18 |
 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 | 2023-04-21 | 2023-06-24 |
+| [White Flag](https://open.spotify.com/track/2WyUJEFZ6vQzTwSdKzqLrx) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [White Flag](https://open.spotify.com/album/0JTiE7YYOnhVPXPbUBZpHm) | 3:05 | 2026-10-23 |  |
 | [White Flag](https://open.spotify.com/track/08IFMDAxF7Se7X8RNyoQWF) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:01 | 2019-08-08 | 2019-11-14 |
 | [White Hills](https://open.spotify.com/track/7A0ScBo7cH0NUDXvPC96Wx) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [No Guard](https://open.spotify.com/album/66A23KP9zUKltum5fEcHFw) | 2:02 | 2020-07-03 | 2020-07-31 |
 | [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 | 2026-02-06 | 2026-06-12 |

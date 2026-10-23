@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: KETTAMA, Prospa
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,761 likes - 110 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,777 likes - 110 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 14 | [Uncasually](https://open.spotify.com/track/23XvXxNvhca5O77qJoVmew) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Distance in Static](https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M) | 4:21 |
 | 15 | [I Could Be Madonna](https://open.spotify.com/track/1sVVbdDuMGG8BMGqcwVRS6) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [I Could Be Madonna](https://open.spotify.com/album/25rXWsmagwP3BHX2wC7vn3) | 3:15 |
 | 16 | [Lucky\[Hymn\]](https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Lucky\[Hymn\]](https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz) | 3:48 |
-| 17 | [Talking Walls](https://open.spotify.com/track/3ACp5zZfBI62yfR3aMGMBF) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Cantoalegre](https://open.spotify.com/artist/4UKb01orqntSwUPAWNv668) | [DIGITiSE](https://open.spotify.com/album/5scldZE0Xai2ry7Dvlrwcf) | 6:31 |
+| 17 | [Talking Walls \(feat\. Cantoalegre\)](https://open.spotify.com/track/3ACp5zZfBI62yfR3aMGMBF) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [Cantoalegre](https://open.spotify.com/artist/4UKb01orqntSwUPAWNv668) | [DIGITiSE](https://open.spotify.com/album/5scldZE0Xai2ry7Dvlrwcf) | 6:31 |
 | 18 | [Rollercoaster](https://open.spotify.com/track/5Alk9qfDLzHZlsWimnJble) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [Dart](https://open.spotify.com/artist/6osq4qbA2enSjbGxYviPgj) | [Rollercoaster](https://open.spotify.com/album/6xEbjbvcJzDK7qXy1hsbCX) | 3:09 |
 | 19 | [Cash4Gold](https://open.spotify.com/track/1Fr6RsdLxupOXUVno8KWmW) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Cash4Gold / Close2Mine](https://open.spotify.com/album/5cdjwCb7EPCiLG9RtfnjBX) | 3:12 |
 | 20 | [Level Up](https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Level Up](https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3) | 2:36 |

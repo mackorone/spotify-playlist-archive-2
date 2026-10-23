@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 98269,
+  "num_followers": 98286,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -1619,18 +1619,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Thr!!!er",
-        "url": "https://open.spotify.com/album/3ywERU9rVKEpCQE50fQOgM"
+        "name": "Lockjaw",
+        "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
       },
       "artists": [
         {
-          "name": "!!!",
-          "url": "https://open.spotify.com/artist/1mmehjf7eHA10uHMisZGJg"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
         }
       ],
-      "duration_ms": 243626,
-      "name": "One Girl / One Boy",
-      "url": "https://open.spotify.com/track/7y8aVfDkqt6qirGNivvs0M"
+      "duration_ms": 254037,
+      "name": "This Song Is Not About A Girl",
+      "url": "https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU"
     }
   ],
   "unique_name": "Best of Indie 2013",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "BFLQuatro, AangenaamBK, Impy, ENDS en meer",
+  "description": "Romano Santino, Sepa, KLEPPER en meer",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -903,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Afwezig",
+        "url": "https://open.spotify.com/album/0Xeg3KEi8vRRgwwKPwExgP"
+      },
+      "artists": [
+        {
+          "name": "Ibo",
+          "url": "https://open.spotify.com/artist/5OZQT6amNXVpXIeZt8jPX2"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152258,
+      "name": "Afwezig",
+      "url": "https://open.spotify.com/track/6mJiX3dm52aFehmZETIQ71"
+    },
+    {
+      "album": {
         "name": "Akra",
         "url": "https://open.spotify.com/album/0ysCYpGqXFgs51zBWn8cCb"
       },
@@ -1120,6 +1138,24 @@
       "duration_ms": 189374,
       "name": "Ambassade",
       "url": "https://open.spotify.com/track/3YoaeRrMo9u4jDWcBDyUJu"
+    },
+    {
+      "album": {
+        "name": "Ambtenaar",
+        "url": "https://open.spotify.com/album/3fljTm2csQRHjARDIIurRl"
+      },
+      "artists": [
+        {
+          "name": "KLEPPER",
+          "url": "https://open.spotify.com/artist/76iMU8XC2lppYq8q05j8I6"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148453,
+      "name": "Ambtenaar",
+      "url": "https://open.spotify.com/track/2L4Wvkk9gwX6zpXtFr0jSx"
     },
     {
       "album": {
@@ -4228,7 +4264,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 96000,
       "name": "DOWN",
       "url": "https://open.spotify.com/track/22thDxnP0TZNDiFwV9Rh5q"
@@ -4820,7 +4856,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 122553,
       "name": "Feds",
       "url": "https://open.spotify.com/track/3enT5lxDQxYMXuUzi0wz8C"
@@ -5324,6 +5360,24 @@
       "duration_ms": 211200,
       "name": "geen ho, maar pro",
       "url": "https://open.spotify.com/track/61uMOhXgvpTi2yd6pTasaI"
+    },
+    {
+      "album": {
+        "name": "Geen Probleem",
+        "url": "https://open.spotify.com/album/7ouD2wy3w4Jbg6g4AK2EHz"
+      },
+      "artists": [
+        {
+          "name": "TB",
+          "url": "https://open.spotify.com/artist/32dyZVtIJgvvGCLvCKD87s"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131737,
+      "name": "Geen Probleem",
+      "url": "https://open.spotify.com/track/4aaBD6KF5ZoPNMf9QnHUBt"
     },
     {
       "album": {
@@ -6934,6 +6988,24 @@
       "duration_ms": 127058,
       "name": "Ik Voel Je Ook",
       "url": "https://open.spotify.com/track/1V4Y9TOXW4KOd23iAYoq9X"
+    },
+    {
+      "album": {
+        "name": "Ik Wens",
+        "url": "https://open.spotify.com/album/0cQ20FqNuDzLAIlbygBFrI"
+      },
+      "artists": [
+        {
+          "name": "Sepa",
+          "url": "https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152869,
+      "name": "Ik Wens",
+      "url": "https://open.spotify.com/track/5nZe9LTAPKzrSxrBkdj5W1"
     },
     {
       "album": {
@@ -9384,7 +9456,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 145000,
       "name": "Matje Vies",
       "url": "https://open.spotify.com/track/7kYOl4HY4IgpcKphzxhs49"
@@ -9759,6 +9831,24 @@
     },
     {
       "album": {
+        "name": "Mijn verhaal",
+        "url": "https://open.spotify.com/album/5MVBrA64hk22HqV0kO1YZg"
+      },
+      "artists": [
+        {
+          "name": "Romano Santino",
+          "url": "https://open.spotify.com/artist/1FqLsYuVoYhNIhUj1gQmzU"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141030,
+      "name": "Mijn verhaal",
+      "url": "https://open.spotify.com/track/0nWiRVX2yP77r36bWWVrhk"
+    },
+    {
+      "album": {
         "name": "Millie",
         "url": "https://open.spotify.com/album/1gqGYqkrgJPXF2PY7mqBWy"
       },
@@ -9788,7 +9878,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 116869,
       "name": "Million Ways",
       "url": "https://open.spotify.com/track/1H22wMcjBmyZfiXFoluo0m"
@@ -11286,7 +11376,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 115200,
       "name": "Offline",
       "url": "https://open.spotify.com/track/47o1tPr03M90YKFO4zCHoM"
@@ -12714,7 +12804,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 199518,
       "name": "Ren & Stimpy",
       "url": "https://open.spotify.com/track/0f4ebxJoebCa0CUfSB8UJ0"
@@ -15055,6 +15145,24 @@
     },
     {
       "album": {
+        "name": "Citroen",
+        "url": "https://open.spotify.com/album/2UO6dfhdgb9LdowdL4Ir6N"
+      },
+      "artists": [
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "Vegen uit de pan",
+      "url": "https://open.spotify.com/track/4K9FsIjcEyTTuXSJrbC8Mp"
+    },
+    {
+      "album": {
         "name": "VELDSPELERS CYPHER",
         "url": "https://open.spotify.com/album/3InMwukUHEmE7YMZcrZTwo"
       },
@@ -15954,12 +16062,12 @@
       },
       "artists": [
         {
-          "name": "Yenko Forever",
-          "url": "https://open.spotify.com/artist/5hJNMLReXLC01Gj7ApveXN"
-        },
-        {
           "name": "Nerra",
           "url": "https://open.spotify.com/artist/3pshrBCH7nXMlaUVtP4zpz"
+        },
+        {
+          "name": "Yenko Forever",
+          "url": "https://open.spotify.com/artist/5hJNMLReXLC01Gj7ApveXN"
         }
       ],
       "date_added": "2026-09-03",
@@ -16356,6 +16464,32 @@
       "duration_ms": 120000,
       "name": "Yade Lauren",
       "url": "https://open.spotify.com/track/69ht6FNdOsRVTqKh0O0Iia"
+    },
+    {
+      "album": {
+        "name": "Yeah",
+        "url": "https://open.spotify.com/album/2S9sbuVWeANR81FIL9ejBe"
+      },
+      "artists": [
+        {
+          "name": "Jeriel",
+          "url": "https://open.spotify.com/artist/5aOFQglcIwmAAMFZPytAWu"
+        },
+        {
+          "name": "EKvnd00",
+          "url": "https://open.spotify.com/artist/3etYd9C17IDK9D3lQKeIh7"
+        },
+        {
+          "name": "Quatro",
+          "url": "https://open.spotify.com/artist/3nOzLwnYYDesoD8k70xvTO"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138095,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/52lAiKndpn0e39fAeYwx0q"
     },
     {
       "album": {

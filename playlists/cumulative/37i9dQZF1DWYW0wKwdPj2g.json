@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Ri O (We See You) [live]",
+        "url": "https://open.spotify.com/album/1L5uag1JZbS2eNIZKAQoGp"
+      },
+      "artists": [
+        {
+          "name": "Gbenga Akinfenwa",
+          "url": "https://open.spotify.com/artist/7qDKEhuN11MijgScgAXx1W"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313584,
+      "name": "A Ri O (We See You) - live",
+      "url": "https://open.spotify.com/track/0azh3R8YWCEXmWdTuYcM2u"
+    },
+    {
+      "album": {
         "name": "ABBA'S DELICACY, Vol. 2 (Banner Over Me / Lord You Reign Forever) [Live at Streams Of Joy, Houston]",
         "url": "https://open.spotify.com/album/3AVSFMO51VkjWaFFxfs5S0"
       },
@@ -4138,7 +4156,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 266773,
       "name": "My Hope - Live",
       "url": "https://open.spotify.com/track/3holfAIyBPClGAOAPuPxop"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,619 likes - 150 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,594 likes - 150 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 125 | [Growin' Down](https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic) | [Illiterate Light](https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J) | [Growin' Down](https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9) | 4:16 |
 | 126 | [Bummer Year](https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI) | [Good Looks](https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG) | [Bummer Year](https://open.spotify.com/album/6u5FIJFHHZmjLwHhpHvskG) | 4:31 |
 | 127 | [Shores](https://open.spotify.com/track/7mCBglQEL4tFTjwrrLm5BJ) | [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [FODDER](https://open.spotify.com/album/1EddVMg0glN4iWtW9261ll) | 4:08 |
-| 128 | [Coast is Waiting](https://open.spotify.com/track/3AiLVjiTCo3cgDXbe7hhmn) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Coast is Waiting](https://open.spotify.com/album/4xX4BwmeS60sarX6Xl1uA3) | 3:39 |
-| 129 | [Slice of Life](https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [Slice of Life](https://open.spotify.com/album/0oAdL3ENxGGow7Fy0mWdoz) | 4:43 |
+| 128 | [Slice of Life](https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [Slice of Life](https://open.spotify.com/album/0oAdL3ENxGGow7Fy0mWdoz) | 4:43 |
+| 129 | [Coast is Waiting](https://open.spotify.com/track/3AiLVjiTCo3cgDXbe7hhmn) | [Mo Lowda & the Humble](https://open.spotify.com/artist/3P3iJ6AlAdlb4tYAu00Fhk) | [Coast is Waiting](https://open.spotify.com/album/4xX4BwmeS60sarX6Xl1uA3) | 3:39 |
 | 130 | [Everything Is Simple](https://open.spotify.com/track/1p0zRpMuzAx8AUlhB150G8) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [The Jacket](https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a) | 4:19 |
 | 131 | [mud](https://open.spotify.com/track/5irN1VPsOqBPpmyHu8Mh9X) | [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4), [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [deer](https://open.spotify.com/album/5hxy6Yf0wLnB106AqTbOC7) | 2:06 |
 | 132 | [Any Dreams?](https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Where I Should End](https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v) | 5:18 |

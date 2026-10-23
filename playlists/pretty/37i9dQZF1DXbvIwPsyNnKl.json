@@ -1,13 +1,53 @@
 {
-  "description": "The best of Pinoy hip-hop. KALYE Natin 'To. Cover: groundZERO Records",
-  "num_followers": 1534151,
+  "description": "The best of Pinoy hip-hop. KALYE Natin 'To. Cover: Bugoy Na Koykoy",
+  "num_followers": 1534431,
   "original_name": "KALYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHlciK7a9DiB8dcSfbXK+FAzMaNp",
+  "snapshot_id": "AAAAAMR8JwaHbTni3hcpR96tCqhiolSV",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:00:48",
+      "album": {
+        "name": "No Criminal Record",
+        "url": "https://open.spotify.com/album/4ioLEMxdlCq1VZuchIf3fC"
+      },
+      "artists": [
+        {
+          "name": "Bugoy Na Koykoy",
+          "url": "https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E"
+        },
+        {
+          "name": "CK YG",
+          "url": "https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2"
+        },
+        {
+          "name": "Realest Cram",
+          "url": "https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5"
+        }
+      ],
+      "duration_ms": 194434,
+      "name": "I'm Him",
+      "url": "https://open.spotify.com/track/7DEuvCZAlqXOSFKMeXhlSF"
+    },
+    {
+      "added_at": "2026-10-23 04:00:48",
+      "album": {
+        "name": "Dito Ka Muna",
+        "url": "https://open.spotify.com/album/5Hz2ZCaoj3kHjxqgBWHTMa"
+      },
+      "artists": [
+        {
+          "name": "GRA the Great",
+          "url": "https://open.spotify.com/artist/3w5kgMZkmUD997k44uHz9N"
+        }
+      ],
+      "duration_ms": 157705,
+      "name": "Dito Ka Muna",
+      "url": "https://open.spotify.com/track/12xTyqfe8N1lFDGSXV766I"
+    },
     {
       "added_at": "2026-10-16 04:02:20",
       "album": {
@@ -29,6 +69,26 @@
       "url": "https://open.spotify.com/track/3chBLXLQgj1KB2h1KgQxmF"
     },
     {
+      "added_at": "2026-10-23 04:00:48",
+      "album": {
+        "name": "PRADA",
+        "url": "https://open.spotify.com/album/5nuFcpZrWrxc2lrK9ahRi0"
+      },
+      "artists": [
+        {
+          "name": "SCOOP DOGG",
+          "url": "https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2"
+        },
+        {
+          "name": "Daarth",
+          "url": "https://open.spotify.com/artist/1tAln3eaP4KDXezHvfy1a3"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "PRADA",
+      "url": "https://open.spotify.com/track/0TgoyRMN9P4kscOnFOSEoz"
+    },
+    {
       "added_at": "2026-10-16 04:02:20",
       "album": {
         "name": "Blow My Mind",
@@ -47,6 +107,26 @@
       "duration_ms": 247422,
       "name": "Blow My Mind",
       "url": "https://open.spotify.com/track/6bznn1zsUOWLka1k0XqNPc"
+    },
+    {
+      "added_at": "2026-10-23 04:00:48",
+      "album": {
+        "name": "Tamaraw",
+        "url": "https://open.spotify.com/album/0BwOuDcaWoFShvwMi5yBh9"
+      },
+      "artists": [
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        },
+        {
+          "name": "kkram",
+          "url": "https://open.spotify.com/artist/0AVcIuXoUEDUHG3Gz4ApAq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tamaraw",
+      "url": "https://open.spotify.com/track/5SP5KThPVkwB4QHxQW0g04"
     },
     {
       "added_at": "2026-10-16 04:02:20",
@@ -79,26 +159,6 @@
     {
       "added_at": "2026-10-16 04:02:20",
       "album": {
-        "name": "Like Me",
-        "url": "https://open.spotify.com/album/51kqkjf6xokkGVmYjJGDzV"
-      },
-      "artists": [
-        {
-          "name": "GEE EXCLSV",
-          "url": "https://open.spotify.com/artist/6rjqsmPAKDp4RbgpsoLjGB"
-        },
-        {
-          "name": "Because",
-          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Like Me",
-      "url": "https://open.spotify.com/track/4AW139rw1JSea3ixZlZcnK"
-    },
-    {
-      "added_at": "2026-10-16 04:02:20",
-      "album": {
         "name": "Weng Weng",
         "url": "https://open.spotify.com/album/6OtupUNjShdvKageqJHimo"
       },
@@ -115,6 +175,26 @@
       "duration_ms": 219200,
       "name": "Weng Weng",
       "url": "https://open.spotify.com/track/6740F9FsmpoNCjbOchwM8o"
+    },
+    {
+      "added_at": "2026-10-16 04:02:20",
+      "album": {
+        "name": "Like Me",
+        "url": "https://open.spotify.com/album/51kqkjf6xokkGVmYjJGDzV"
+      },
+      "artists": [
+        {
+          "name": "GEE EXCLSV",
+          "url": "https://open.spotify.com/artist/6rjqsmPAKDp4RbgpsoLjGB"
+        },
+        {
+          "name": "Because",
+          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/4AW139rw1JSea3ixZlZcnK"
     },
     {
       "added_at": "2026-10-16 04:02:20",
@@ -871,22 +951,6 @@
     {
       "added_at": "2026-10-16 04:02:20",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/37QgURYpAO5OrHte70dtQW"
-      },
-      "artists": [
-        {
-          "name": "Alisson Shore",
-          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/2RlMqLQHI2TcHxZ0fjJmZR"
-    },
-    {
-      "added_at": "2026-10-16 04:02:20",
-      "album": {
         "name": "LOGGIN' IN",
         "url": "https://open.spotify.com/album/1fXglekheFymLEwp3qWidi"
       },
@@ -979,126 +1043,6 @@
       "duration_ms": 182400,
       "name": "Millionz",
       "url": "https://open.spotify.com/track/35nnC1CkiFCnfhCuEIfJQx"
-    },
-    {
-      "added_at": "2026-10-16 04:02:20",
-      "album": {
-        "name": "BIG CHEKE / AYE GG",
-        "url": "https://open.spotify.com/album/4v58kTD3CLDeUV9hLye3FK"
-      },
-      "artists": [
-        {
-          "name": "CHEKE.",
-          "url": "https://open.spotify.com/artist/4uZiskzbV8hQ9UsrUN2dNH"
-        },
-        {
-          "name": "Costa Cashman",
-          "url": "https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI"
-        },
-        {
-          "name": "THUGSTA",
-          "url": "https://open.spotify.com/artist/5EmXpuTNIJc6YTD2su7L4x"
-        },
-        {
-          "name": "Fern.",
-          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
-        },
-        {
-          "name": "Matt White",
-          "url": "https://open.spotify.com/artist/5wwh2J5HHs38gBfeOUgK93"
-        },
-        {
-          "name": "2ICEY",
-          "url": "https://open.spotify.com/artist/7emlGVjzcaBw6ndzROgua5"
-        },
-        {
-          "name": "riv",
-          "url": "https://open.spotify.com/artist/3wn0W7LBB2D2t8ZKScTeJ6"
-        },
-        {
-          "name": "Gaspari",
-          "url": "https://open.spotify.com/artist/32pwg5wo0jdAWgDIAiKKzi"
-        },
-        {
-          "name": "BABY FREEZE",
-          "url": "https://open.spotify.com/artist/4BQ84eYGgqG80ToE0F5rBQ"
-        },
-        {
-          "name": "GEE EXCLSV",
-          "url": "https://open.spotify.com/artist/6rjqsmPAKDp4RbgpsoLjGB"
-        },
-        {
-          "name": "ken$hin",
-          "url": "https://open.spotify.com/artist/5WwcK2mavKhvtPN9zEDb7J"
-        },
-        {
-          "name": "Iggy Napoles",
-          "url": "https://open.spotify.com/artist/5W3GwQT1NcWLptNoNmGCEQ"
-        },
-        {
-          "name": "Bankyu",
-          "url": "https://open.spotify.com/artist/6IvROQtaYPleoVZOlxMqwG"
-        },
-        {
-          "name": "dot.jaime",
-          "url": "https://open.spotify.com/artist/0ULME3YyOHybyb8oQCo7Kc"
-        },
-        {
-          "name": "Because",
-          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
-        },
-        {
-          "name": "3o3 Shordie",
-          "url": "https://open.spotify.com/artist/6PFGzN5vUJ5IDPUkFTKGaF"
-        }
-      ],
-      "duration_ms": 489896,
-      "name": "BIG CHEKE.",
-      "url": "https://open.spotify.com/track/1lCcWP57MTetSZ8tjcl92v"
-    },
-    {
-      "added_at": "2026-10-16 04:02:20",
-      "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/7jSdq8t1yUHAiFrkBcSayv"
-      },
-      "artists": [
-        {
-          "name": "Yamz",
-          "url": "https://open.spotify.com/artist/3jLIY3e3mOvZEEmCnqJkP0"
-        },
-        {
-          "name": "Costa Cashman",
-          "url": "https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI"
-        },
-        {
-          "name": "Jemmadeit",
-          "url": "https://open.spotify.com/artist/1T86dWfmzo6wLmdou1O7lI"
-        }
-      ],
-      "duration_ms": 141219,
-      "name": "Confident",
-      "url": "https://open.spotify.com/track/6zIJ4DgpsKstQb8OQB3r6m"
-    },
-    {
-      "added_at": "2026-10-16 04:02:20",
-      "album": {
-        "name": "Gengenem",
-        "url": "https://open.spotify.com/album/671ehqtmk3lYSuIvHrEr9I"
-      },
-      "artists": [
-        {
-          "name": "Baloy",
-          "url": "https://open.spotify.com/artist/0D9tgRwGb4kDzuwDC2cElu"
-        },
-        {
-          "name": "Uncle Dags",
-          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
-        }
-      ],
-      "duration_ms": 153391,
-      "name": "Gengenem",
-      "url": "https://open.spotify.com/track/5nilrLYllrEPGYC9dISyiL"
     }
   ],
   "unique_name": "KALYE",

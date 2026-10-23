@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Pablo Mercedes, Autoimmune, Bad Scullianz and more",
+  "description": "With Bad Scullianz, Autoimmune, The Inklings and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -904,7 +904,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2026-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 191225,
       "name": "Attrition",
       "url": "https://open.spotify.com/track/4RMccHZii59g4LsuXKdiCd"
@@ -1904,13 +1904,13 @@
       },
       "artists": [
         {
-          "name": "The Flash Gordons",
-          "url": "https://open.spotify.com/artist/5OW6NBbWFhhAQlbpRhS5zw"
+          "name": "Dukkeskrekk",
+          "url": "https://open.spotify.com/artist/4Q6kbJIcvlGmaIj7FL4e0l"
         }
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 242796,
       "name": "Borte nu",
       "url": "https://open.spotify.com/track/7qJHIWro691ebJIws46iiC"
@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2026-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 201996,
       "name": "Complaining",
       "url": "https://open.spotify.com/track/3GHf6JZCs41fBZXTrbWQzO"
@@ -3174,7 +3174,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 416568,
       "name": "Cryin' Shame",
       "url": "https://open.spotify.com/track/2PV4SFnrTo6nyZ7A7oT3wg"
@@ -4094,7 +4094,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 285400,
       "name": "Do What You Do",
       "url": "https://open.spotify.com/track/7pKmzz47bY2aINTsJWhix4"
@@ -4332,7 +4332,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 238324,
       "name": "Downsizer",
       "url": "https://open.spotify.com/track/3y2QHqpm89ZFwSbLL6cCJ9"
@@ -4386,7 +4386,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 291969,
       "name": "Dragonfighter",
       "url": "https://open.spotify.com/track/71KjAeng0I37N9wvdvbkbp"
@@ -5622,7 +5622,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 301250,
       "name": "Fall from Grace",
       "url": "https://open.spotify.com/track/5M2SJg1XfBiMh7OBEbx1kr"
@@ -6282,7 +6282,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 277500,
       "name": "Free Country",
       "url": "https://open.spotify.com/track/5R0LTj36xTIQiC1bfsRKUc"
@@ -6300,7 +6300,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 287093,
       "name": "Freedom Train",
       "url": "https://open.spotify.com/track/0IVL6MQf06qVBawKCN6l39"
@@ -6390,7 +6390,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 139000,
       "name": "Fucka Det Opp",
       "url": "https://open.spotify.com/track/5iEGcUqLqIcAURV1rnqWIe"
@@ -7055,6 +7055,24 @@
     },
     {
       "album": {
+        "name": "He's Back (The Man Behind The Mask)",
+        "url": "https://open.spotify.com/album/2wKZd4srtD4nhnfA4kHMRy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e4rvel",
+          "url": "https://open.spotify.com/artist/0cRrj2b89lPadBQvkSoK42"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210929,
+      "name": "He's Back (The Man Behind The Mask)",
+      "url": "https://open.spotify.com/track/5AnRQkfvrh3YPIeADpNvOb"
+    },
+    {
+      "album": {
         "name": "Head \u00d6\u00f6d",
         "url": "https://open.spotify.com/album/4wmJD1d61IgV9eaFQBke6f"
       },
@@ -7300,7 +7318,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 126226,
       "name": "Hey Now Honey - 2023 Remaster",
       "url": "https://open.spotify.com/track/1pD0KTRkta1feOk3tuDnNL"
@@ -9010,7 +9028,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 155846,
       "name": "Kick the Shit",
       "url": "https://open.spotify.com/track/3kvludAdfWJNKxacq95b5u"
@@ -9902,7 +9920,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 183442,
       "name": "Lonely Heart",
       "url": "https://open.spotify.com/track/5UuGtAYFTPxOJYMH8pH3e3"
@@ -10764,7 +10782,7 @@
       ],
       "date_added": "2026-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 151500,
       "name": "Mercury (In Retrograde)",
       "url": "https://open.spotify.com/track/7j6MPoDgVUSwvzNLJkdLf7"
@@ -11706,6 +11724,24 @@
       "duration_ms": 185624,
       "name": "New Zealand Code Red Blues",
       "url": "https://open.spotify.com/track/6zsv6QmRXCFv4BPmZOteEZ"
+    },
+    {
+      "album": {
+        "name": "RAILWORLD",
+        "url": "https://open.spotify.com/album/14SA6Ih2aRdf0XpYozcZvC"
+      },
+      "artists": [
+        {
+          "name": "2 MUCH PRESSURE",
+          "url": "https://open.spotify.com/artist/0nkxXTv7KX6NPNsFcZRT28"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Next Call - Remaster",
+      "url": "https://open.spotify.com/track/1rjwo7JDkVbsVCTLti6WJX"
     },
     {
       "album": {
@@ -12850,7 +12886,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-16",
+      "date_removed": null,
       "duration_ms": 338747,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
@@ -13824,7 +13860,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 230357,
       "name": "Red",
       "url": "https://open.spotify.com/track/3wIZA8RgVwy8MCZ8FbbmjL"
@@ -13860,7 +13896,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 196182,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/6CCPTehzi55JkEiVRP6CcJ"
@@ -14862,7 +14898,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 148166,
       "name": "Silence please",
       "url": "https://open.spotify.com/track/7eKKokzLXlqjC7n1e4wbQw"
@@ -15114,7 +15150,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 251281,
       "name": "Sn\u00f8r i Helvete",
       "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
@@ -15690,7 +15726,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-14",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Stikk Av",
       "url": "https://open.spotify.com/track/7lhF3iYxfrHxxWrsdLnNxE"
@@ -17425,6 +17461,32 @@
     },
     {
       "album": {
+        "name": "The Sky Is Falling",
+        "url": "https://open.spotify.com/album/1xzAfphuQfA9JPlitj7tFR"
+      },
+      "artists": [
+        {
+          "name": "Ethan D Henry",
+          "url": "https://open.spotify.com/artist/6EhfFqDuSEAUaKrZAsGIrn"
+        },
+        {
+          "name": "Turt1e",
+          "url": "https://open.spotify.com/artist/6cgIwUR82SXOHtwXlrVPwH"
+        },
+        {
+          "name": "King Topaz",
+          "url": "https://open.spotify.com/artist/6g9wbTXe9n5RtcmdtMbV8I"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253181,
+      "name": "The Sky Is Falling",
+      "url": "https://open.spotify.com/track/6Q8MT1t7g7ILNxBjiv9SM5"
+    },
+    {
+      "album": {
         "name": "The Soul Project",
         "url": "https://open.spotify.com/album/0z6eY7Uvn7cSzVIBl8LSLs"
       },
@@ -19072,7 +19134,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 286750,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/4f2s8tjc9RB3yDkLnyWdbG"
@@ -19866,7 +19928,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 223196,
       "name": "Wild Wild Woman",
       "url": "https://open.spotify.com/track/0rNHd0MyOfSCSQ79zF2oYQ"
@@ -19960,7 +20022,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 217636,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/5W0E5BbJJ3xhSsMQfOZSXA"

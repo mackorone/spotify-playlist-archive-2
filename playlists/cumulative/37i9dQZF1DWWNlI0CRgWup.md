@@ -2,9 +2,9 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : TeddyBear
+> Découvrez les nouveautés des artistes RADAR France\. Photo : \(D\)Juno
 
-367 songs - 18 hr 26 min
+371 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Boy](https://open.spotify.com/track/6aiO1XYF4px8guDCAYgaZt) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Boy](https://open.spotify.com/album/22vAa6RGm52KqtfRjLeEyd) | 2:18 | 2026-09-17 |  |
 | [BRAINDEAD \(Okay!\)](https://open.spotify.com/track/7nDUi9KJQcxOXQl4g7lW7a) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [POPSTAR SPEEDRUN](https://open.spotify.com/album/1EwKqpFKt6xXSWLKSGVgFB) | 2:18 | 2026-10-01 |  |
 | [BROSKI](https://open.spotify.com/track/0T4JU58bCGdWTc6TbuWaEx) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [BROSKI](https://open.spotify.com/album/21NuNN3KNRoe87rAZzy9du) | 2:17 | 2026-09-24 | 2026-10-16 |
-| [BUENA ONDA](https://open.spotify.com/track/1bg7IHZzSoBXQyPStO6i3X) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [BUENA ONDA](https://open.spotify.com/album/0l2Rjrl8uem6Dm5J9BT8K6) | 3:16 | 2026-10-19 |  |
+| [BUENA ONDA](https://open.spotify.com/track/1bg7IHZzSoBXQyPStO6i3X) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [BUENA ONDA](https://open.spotify.com/album/0l2Rjrl8uem6Dm5J9BT8K6) | 3:16 | 2026-10-19 | 2026-10-23 |
 | [Bécane](https://open.spotify.com/track/424utU9OlUcB7j2LRU9l6f) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ELOWI](https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2) | 3:03 | 2024-01-18 | 2025-06-20 |
 | [Bécane](https://open.spotify.com/track/5Ed32bcBySpGCF7g6EG8eh) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane](https://open.spotify.com/album/3al3eFT8EIR0KRdUemEic7) | 3:06 | 2023-10-04 | 2023-10-14 |
 | [C'est bon](https://open.spotify.com/track/3zZ5tnEx6WM1sfK7uY0Uz4) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [C'est bon](https://open.spotify.com/album/7CVTNOW5W0ztZzjLcQb2Dq) | 2:41 | 2022-06-17 | 2023-01-25 |
@@ -64,10 +64,12 @@
 | [Celui qui part](https://open.spotify.com/track/3iJQzmcPnLrTC7WOQ2kYUt) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Celui qui part](https://open.spotify.com/album/2I7XAd8CHqNXmuIf6jUnMe) | 2:34 | 2023-09-08 | 2026-09-18 |
 | [Cendrier](https://open.spotify.com/track/4YEU26a5jxNdgMZZyKcqbv) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Cendrier](https://open.spotify.com/album/7eoZifUGGHBHRgIP0U0mqu) | 3:24 | 2024-01-18 | 2024-03-12 |
 | [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 | 2025-06-19 | 2026-09-18 |
+| [Close My Eyes](https://open.spotify.com/track/50qzeDYiR81c44KAMRAzUB) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Close My Eyes](https://open.spotify.com/album/3ykpf81agcbmBUWKrW2PRr) | 3:47 | 2026-10-22 |  |
 | [Cochoni](https://open.spotify.com/track/6HRN90IKTOLTxf7NW2Wi9U) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Queen](https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ) | 1:54 | 2025-11-12 | 2026-09-18 |
 | [come into my arms](https://open.spotify.com/track/7BsF2M59SaoOQI9HOWk8bU) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls : le salon](https://open.spotify.com/album/16yfLwmzCO9eVfLh8veI43) | 2:11 | 2024-03-11 |  |
 | [come into my arms](https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [come into my arms](https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr) | 2:12 | 2022-07-07 | 2022-11-25 |
 | [Comme des rats](https://open.spotify.com/track/30NnfTuqWG36upsxuT4QOG) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Vitrine](https://open.spotify.com/album/7oBVdq9PC6arh2qpLuYleb) | 2:21 | 2026-09-17 |  |
+| [Comme Les Grands](https://open.spotify.com/track/7dUSBPzL053R3aI9iCXw68) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Comme Les Grands](https://open.spotify.com/album/0E1faWHqxDFfhGk5QQLSEL) | 2:53 | 2026-10-22 |  |
 | [Comme moi \(feat\. Tiakola\)](https://open.spotify.com/track/2ave3RUa35dqPnxyxtcRml) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Comme moi \(feat\. Tiakola\)](https://open.spotify.com/album/6lRjPcc3B5H7mrVEzqEPwZ) | 2:54 | 2021-12-02 | 2022-02-04 |
 | [Compile](https://open.spotify.com/track/37OxMgatnDqpBlhh1WCS8k) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs](https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy) | 3:19 | 2022-01-14 | 2022-02-04 |
 | [CONSTELLATION](https://open.spotify.com/track/0TlNpeLPekPJuXYDiBQC74) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [CONSTELLATION](https://open.spotify.com/album/7me2S8k9wFjhXpSXACTCeh) | 2:55 | 2025-06-19 | 2026-09-18 |
@@ -98,6 +100,7 @@
 | [Discothèque](https://open.spotify.com/track/4GUN6kkkCz42FuoVubGjMq) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs](https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy) | 2:57 | 2024-01-18 | 2024-03-12 |
 | [Docteur](https://open.spotify.com/track/0WoXJsM5EKwhYURKx3p1p2) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [La fin de la nuit](https://open.spotify.com/album/61B9Jgp1u9U46CUNIFOJfb) | 2:57 | 2022-09-29 | 2024-04-11 |
 | [Docteur](https://open.spotify.com/track/1qCQFjFqqDR1p2uorkJZfI) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Docteur](https://open.spotify.com/album/7APXfTmDk0JVFyEIjZmZsS) | 2:57 | 2022-03-01 | 2022-06-11 |
+| [Don Junio](https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy) | [ \(D\)Juno](https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY) | [Don Junio](https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV) | 3:06 | 2026-10-22 |  |
 | [Douleur je fuis](https://open.spotify.com/track/60K93iDbax8CD5jwOtNegB) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:00 | 2024-01-18 | 2024-04-11 |
 | [Douter](https://open.spotify.com/track/5fpLrRSDJ42NhWy47dOG6K) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Douter](https://open.spotify.com/album/4pyppyNOXJ5iKmT9g9vnTI) | 2:47 | 2026-09-17 | 2026-10-02 |
 | [Déjà\-vu](https://open.spotify.com/track/1d21teYPebHp8P0ZalkS65) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Déjà\-vu](https://open.spotify.com/album/4AbQZtSEzo7gdk5puwWkww) | 3:22 | 2025-06-19 |  |
@@ -129,7 +132,7 @@
 | [GARE DU NORD](https://open.spotify.com/track/2KjPE7Km3e8ILfin60DEFF) | [Yvnnis](https://open.spotify.com/artist/2Av0IgTSSDYLJNajJrQwyb) | [L'AFRO OU LES TRESSES](https://open.spotify.com/album/5GaFutbilpzWUYP0kkoVPP) | 3:11 | 2024-01-24 | 2025-06-20 |
 | [GARÇON](https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [GARÇON](https://open.spotify.com/album/0pgPGBjDayWlzT8eAjjcKG) | 2:24 | 2023-01-24 | 2024-04-11 |
 | [GOLDIE](https://open.spotify.com/track/6WHOjMA8qv0MEA9URdJBTX) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [GOLDIE](https://open.spotify.com/album/6twBCMNENpz0zdwb4XxPDr) | 2:24 | 2024-04-10 | 2025-06-20 |
-| [Good to know](https://open.spotify.com/track/4ICnjvpxN0faFDplYTE5jf) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [No Big Deal](https://open.spotify.com/album/2wUOMqXHDCLA50klefUDFU) | 3:06 | 2025-06-19 |  |
+| [Good to know](https://open.spotify.com/track/4ICnjvpxN0faFDplYTE5jf) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [No Big Deal](https://open.spotify.com/album/2wUOMqXHDCLA50klefUDFU) | 3:06 | 2025-06-19 | 2026-10-23 |
 | [Gourou](https://open.spotify.com/track/3lzKpkbcxDLkUobJuOrdlA) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Gourou](https://open.spotify.com/album/786aOyfpeWI7LIjevSNJEK) | 3:30 | 2026-09-17 | 2026-10-09 |
 | [Génération](https://open.spotify.com/track/1EhRHRVBDLPkhgKfAmltWy) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [Génération](https://open.spotify.com/album/7udnk26I0QpteVaRr1srhh) | 2:52 | 2023-03-10 | 2024-03-12 |
 | [h4rdr0ck3r](https://open.spotify.com/track/3fwdPRanZOzbYtsbiyhh9t) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [h4rdr0ck3r](https://open.spotify.com/album/43ZC0qFxjsQlbyS0IDgMnE) | 2:40 | 2025-11-12 | 2026-09-18 |
@@ -209,6 +212,7 @@
 | [LOCKED UP \(feat\. Tiakola\)](https://open.spotify.com/track/3ppZbNYEH85vpavJHgsQT9) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LOCKED UP \(feat\. Tiakola\)](https://open.spotify.com/album/0lrjEC7YUZYPP9ZN4HyrwI) | 2:55 | 2026-09-17 |  |
 | [Los Angeles](https://open.spotify.com/track/6bS1rp9GfTxDLy4oAiyHle) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Los Angeles](https://open.spotify.com/album/5zQKqBsuShCcKgCMe6gHnW) | 2:54 | 2026-09-17 | 2026-09-25 |
 | [LOVE](https://open.spotify.com/track/0sKpD4IYSjigg2bwX9BkGm) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [LOVE](https://open.spotify.com/album/0JkfhvuPHVyIUAzUa6cxvh) | 2:52 | 2026-09-17 |  |
+| [LÉ TAL](https://open.spotify.com/track/3jL0jnNJLEC2zUHBtILCXS) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [EXTASIAAAAA](https://open.spotify.com/album/3UgEqtgcM9rzK7wMmnwmTq) | 2:51 | 2026-10-22 |  |
 | [LÉTAL](https://open.spotify.com/track/7dOi1Ewgw5nTOCE2NsB26c) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL), [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4) | [LÉTAL](https://open.spotify.com/album/2H12z9QcXd3MiahYo3WsNj) | 2:45 | 2026-09-17 | 2026-10-02 |
 | [L’heure bleue](https://open.spotify.com/track/04ic5De5mCJS8iqVlrRrpQ) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Histoire d’un masque](https://open.spotify.com/album/5ejWWUcecAbiW4abPX6DOh) | 2:16 | 2025-06-19 | 2026-09-18 |
 | [Ma chérie](https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Ma chérie](https://open.spotify.com/album/12SKaGibhGHQ091b1Iqgdz) | 3:01 | 2024-04-10 | 2025-06-20 |
@@ -318,7 +322,7 @@
 | [Soirée mondaine](https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Soirée mondaine](https://open.spotify.com/album/1N0b0dafqvqymgcper3K2m) | 3:18 | 2026-04-10 | 2026-09-18 |
 | [SOLEIL](https://open.spotify.com/track/6AoOzPhqx5LbtYfKBlBrEG) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [SOLEIL](https://open.spotify.com/album/7eeVBOgugUXCazaOnkvQ7D) | 2:48 | 2026-08-10 | 2026-09-18 |
 | [Solo](https://open.spotify.com/track/3bfW2D6xj3mspwxwi3ieyl) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:15 | 2023-01-24 | 2023-09-09 |
-| [Sorry I'm French](https://open.spotify.com/track/5zp0YGDgIeSbBc8kd0su4W) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Sorry I'm French](https://open.spotify.com/album/3BEJ03fS6nzN8Pl5GPPKRS) | 2:38 | 2026-09-17 |  |
+| [Sorry I'm French](https://open.spotify.com/track/5zp0YGDgIeSbBc8kd0su4W) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Sorry I'm French](https://open.spotify.com/album/3BEJ03fS6nzN8Pl5GPPKRS) | 2:38 | 2026-09-17 | 2026-10-23 |
 | [Sous l'eau \(Douce France\)](https://open.spotify.com/track/30KKTkwoJiTKuSFnXZ6yYN) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Sous l'eau \(Douce France\)](https://open.spotify.com/album/2BE7fxY5IJQ1rPPX2ihGqX) | 2:42 | 2022-06-10 | 2022-06-22 |
 | [Suffisamment](https://open.spotify.com/track/2G0jAoWT4mtcvsOyXaWzSt) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Suffisamment](https://open.spotify.com/album/5bYohHTjPB1Na7wcv5YRG3) | 3:46 | 2022-10-28 | 2022-11-25 |
 | [Suffisamment](https://open.spotify.com/track/7jIsa1OvMZSWWmOxqekPCx) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Suffisamment](https://open.spotify.com/album/1xwjEIbQEqd9gFnUlm0SUb) | 3:46 | 2022-09-29 | 2022-11-09 |

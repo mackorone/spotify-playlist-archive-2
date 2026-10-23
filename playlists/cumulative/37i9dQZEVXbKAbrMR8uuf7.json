@@ -3632,6 +3632,36 @@
     {
       "album": {
         "name": "Bachateo",
+        "url": "https://open.spotify.com/album/7oHTX0RGfij4fEsicMKSSE"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "COLVISION COMPANY",
+          "url": "https://open.spotify.com/artist/2Tezebe9huIrSi15tUM6gE"
+        },
+        {
+          "name": "Pty Audio",
+          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
+        },
+        {
+          "name": "Frvnz_la_F",
+          "url": "https://open.spotify.com/artist/0kSMX4Vqm3seoW1nxD8efk"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138976,
+      "name": "Bachateo",
+      "url": "https://open.spotify.com/track/2uxr0pjA4XuAhprkOqPyNe"
+    },
+    {
+      "album": {
+        "name": "Bachateo",
         "url": "https://open.spotify.com/album/668X4yFxDAjWq2KU1KE7DY"
       },
       "artists": [
@@ -3654,7 +3684,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 138976,
       "name": "Bachateo",
       "url": "https://open.spotify.com/track/6cgkodNEYEeUNxNFAr2oTZ"
@@ -10117,6 +10147,36 @@
     },
     {
       "album": {
+        "name": "De Vainilla",
+        "url": "https://open.spotify.com/album/3KWxW2cRsIJm2W0QEAM7h6"
+      },
+      "artists": [
+        {
+          "name": "D\u00b4Flow Aka La Maldad",
+          "url": "https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "El Guacala",
+          "url": "https://open.spotify.com/artist/64nHp16f03mSKSX29uEjJR"
+        },
+        {
+          "name": "Alegria LR",
+          "url": "https://open.spotify.com/artist/2QSelbldG2gyyqgC25n7qA"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96377,
+      "name": "De Vainilla",
+      "url": "https://open.spotify.com/track/1f0VQuvcwSdGaS7TsoYZll"
+    },
+    {
+      "album": {
         "name": "Deblokia",
         "url": "https://open.spotify.com/album/1I6wDlRdQAzl0KBdbbzdeK"
       },
@@ -11264,7 +11324,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 246428,
       "name": "Dichavate",
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
@@ -12904,7 +12964,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 186122,
       "name": "El Caribe",
       "url": "https://open.spotify.com/track/79ZzzqjxczfxAY0YeNKwb7"
@@ -17570,10 +17630,40 @@
       ],
       "date_added": "2026-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 156330,
       "name": "Hagalo",
       "url": "https://open.spotify.com/track/1IfiayrBBdKt8cixUD4nOp"
+    },
+    {
+      "album": {
+        "name": "Hagalo",
+        "url": "https://open.spotify.com/album/3EcFwfuRvl0ukKYwkaFRxc"
+      },
+      "artists": [
+        {
+          "name": "K\u00f8ddy G",
+          "url": "https://open.spotify.com/artist/4N1uqOIvymj2CbBSH33cks"
+        },
+        {
+          "name": "Frvnz_la_F",
+          "url": "https://open.spotify.com/artist/0kSMX4Vqm3seoW1nxD8efk"
+        },
+        {
+          "name": "Pty Audio",
+          "url": "https://open.spotify.com/artist/6DkH4Ke70caDBhPODwoL7p"
+        },
+        {
+          "name": "COLVISION COMPANY",
+          "url": "https://open.spotify.com/artist/2Tezebe9huIrSi15tUM6gE"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156330,
+      "name": "Hagalo",
+      "url": "https://open.spotify.com/track/2uSSMgA8oCq7LkvvJWczSV"
     },
     {
       "album": {
@@ -18966,7 +19056,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
@@ -22624,7 +22714,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 199200,
       "name": "Las Mu\u00f1equitas",
       "url": "https://open.spotify.com/track/3yidFe42tke37g3KP7wzZr"
@@ -26700,7 +26790,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 202332,
       "name": "Menor",
       "url": "https://open.spotify.com/track/41VHFt4usQQWI44LwDp9DU"
@@ -29350,7 +29440,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-21",
+      "date_removed": null,
       "duration_ms": 225654,
       "name": "NO ME QUIERO CASAR",
       "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
@@ -45842,7 +45932,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 235336,
       "name": "VeLD\u00c1",
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"
@@ -46630,7 +46720,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 145000,
       "name": "Vuelvo Mejor",
       "url": "https://open.spotify.com/track/3lgHOIr0k17CzfDXF9SVMi"
@@ -47652,7 +47742,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 262058,
       "name": "Ya Me Enter\u00e9 - Live",
       "url": "https://open.spotify.com/track/6fIseBtp274Jl2s6pjugWG"

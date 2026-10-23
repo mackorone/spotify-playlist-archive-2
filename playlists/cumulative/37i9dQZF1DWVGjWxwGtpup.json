@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : Maluma x Shakira",
+  "description": "Tous les hits latino du moment sont ici. Photo : Karol G",
   "name": "Caliente",
   "tracks": [
     {
@@ -5777,6 +5777,28 @@
     },
     {
       "album": {
+        "name": "Libert\u00e0",
+        "url": "https://open.spotify.com/album/0U8momRL8ZGYNj8omX9RHq"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar",
+          "url": "https://open.spotify.com/artist/29QLxgXz1rdMvaVK2aWFlU"
+        },
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181361,
+      "name": "Libert\u00e0",
+      "url": "https://open.spotify.com/track/5ctO2KScHJtDrhX4MhGiw6"
+    },
+    {
+      "album": {
         "name": "Limoncello",
         "url": "https://open.spotify.com/album/5VjzavgFeic7nFuBAzpKY9"
       },
@@ -6384,7 +6406,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 186611,
       "name": "Me Mata",
       "url": "https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY"
@@ -7060,6 +7082,24 @@
       "duration_ms": 194000,
       "name": "No Son Horas",
       "url": "https://open.spotify.com/track/4KbZnnwOk8rK6XGftJXyTI"
+    },
+    {
+      "album": {
+        "name": "NO TE SORPRENDAS",
+        "url": "https://open.spotify.com/album/5MI7vJNdtIoDFS52V5zEK2"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "NO TE SORPRENDAS",
+      "url": "https://open.spotify.com/track/6k509TjWi3LWWjjchbxBXM"
     },
     {
       "album": {
@@ -9258,7 +9298,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 184547,
       "name": "si te pillara",
       "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
@@ -9721,6 +9761,24 @@
     },
     {
       "album": {
+        "name": "Te Imagino",
+        "url": "https://open.spotify.com/album/5wlpcIXWRQQ2IrpvKkGSzN"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251639,
+      "name": "Te Imagino",
+      "url": "https://open.spotify.com/track/2zMwhxsn38rjCCnIwpaoh4"
+    },
+    {
+      "album": {
         "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
         "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
       },
@@ -9876,7 +9934,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 140816,
       "name": "Tonto",
       "url": "https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5"

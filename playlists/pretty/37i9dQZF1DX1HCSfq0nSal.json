@@ -1,12 +1,12 @@
 {
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Clarent, Quevedo",
-  "num_followers": 1487527,
+  "num_followers": 1487482,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFqpAJtgXE98YUEs/FPRlLXXF6dI",
+  "snapshot_id": "AAAAAHhNGmvFmxat+5aCavvo/Kj/84cO",
   "tracks": [
     {
       "added_at": "2026-10-08 22:03:17",
@@ -203,6 +203,26 @@
       "duration_ms": 362908,
       "name": "YO QUIERO - REMIX",
       "url": "https://open.spotify.com/track/3t6lnxmOfBc57QRoqvOLdo"
+    },
+    {
+      "added_at": "2026-10-22 09:02:49",
+      "album": {
+        "name": "SEXY",
+        "url": "https://open.spotify.com/album/6CB6mOUulAZbiPgXPcZVtE"
+      },
+      "artists": [
+        {
+          "name": "YOLAMASCARA",
+          "url": "https://open.spotify.com/artist/7b3s3AO7HK6A2MJHFvSDvd"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 128695,
+      "name": "SEXY",
+      "url": "https://open.spotify.com/track/4ZxgdNoF4zjxa75j46hhlc"
     },
     {
       "added_at": "2026-10-08 22:03:17",
@@ -799,22 +819,6 @@
       "duration_ms": 195109,
       "name": "NO ME GUILLO v2",
       "url": "https://open.spotify.com/track/0vHJupzsREkNskbkuSiwF1"
-    },
-    {
-      "added_at": "2026-10-08 22:03:17",
-      "album": {
-        "name": "TOO",
-        "url": "https://open.spotify.com/album/71H1IsH4tfMzUkmVARUE00"
-      },
-      "artists": [
-        {
-          "name": "La Pantera",
-          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
-        }
-      ],
-      "duration_ms": 166625,
-      "name": "TOO",
-      "url": "https://open.spotify.com/track/318NR7D302xujYnNHHFv13"
     }
   ],
   "unique_name": "PEGAO",

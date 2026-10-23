@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: ARJN, KDS, FIFTY4, Shreya Ghoshal",
-  "num_followers": 744620,
+  "num_followers": 744866,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFsPO2oxMEZTwac2yA/EVIs8truE",
+  "snapshot_id": "AAAAAJMOZ4dfJGEOVnmbpfv3cgi3z3pW",
   "tracks": [
     {
       "added_at": "2026-07-07 04:33:21",
@@ -509,6 +509,34 @@
       "url": "https://open.spotify.com/track/6iKA99V8G2YxHBKbQU9dDv"
     },
     {
+      "added_at": "2026-10-22 06:27:13",
+      "album": {
+        "name": "Periyavane (From \"Khalifa\")",
+        "url": "https://open.spotify.com/album/1M3607kRnf39jA9l6rQdh2"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
+        },
+        {
+          "name": "Sanjith Salam",
+          "url": "https://open.spotify.com/artist/7njOpcuFMrJjnsPh64w6dW"
+        },
+        {
+          "name": "Muthu",
+          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
+        }
+      ],
+      "duration_ms": 296808,
+      "name": "Periyavane (From \"Khalifa\")",
+      "url": "https://open.spotify.com/track/6QRUPsa1pxND9tBF82fsb7"
+    },
+    {
       "added_at": "2026-02-09 06:30:29",
       "album": {
         "name": "CHEMBARATHI",
@@ -767,30 +795,6 @@
       "duration_ms": 284210,
       "name": "Kunjikkavil Meghame (From \"Aashaan\")",
       "url": "https://open.spotify.com/track/1QjXwGvMfjlFdGCnBSfTcD"
-    },
-    {
-      "added_at": "2025-05-26 06:55:48",
-      "album": {
-        "name": "Hope Song (From \"Sarkeet\")",
-        "url": "https://open.spotify.com/album/3tVFNHqPaP67LmLbxL5eXc"
-      },
-      "artists": [
-        {
-          "name": "Govind Vasantha",
-          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Anwar Ali",
-          "url": "https://open.spotify.com/artist/6ccDjsU6h03TcrKOvBeiu2"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Hope Song - From \"Sarkeet\"",
-      "url": "https://open.spotify.com/track/3y7140pwsQ8wmxGj2hQhLG"
     },
     {
       "added_at": "2026-01-20 09:45:10",

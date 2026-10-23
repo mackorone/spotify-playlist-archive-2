@@ -1,13 +1,45 @@
 {
-  "description": "Hottest indie sounds from Asia. Cover: DYGL  (Japan)",
-  "num_followers": 150168,
+  "description": "Hottest indie sounds from Asia. Cover: mpq (Indonesia)",
+  "num_followers": 150177,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEFfL0WbdfJ3+8jsG5Q0q5c9GH+5",
+  "snapshot_id": "AAAAAO9BVB7tSYOBQm6zmtGq6JJmgLf/",
   "tracks": [
+    {
+      "added_at": "2026-10-22 16:00:36",
+      "album": {
+        "name": "Dignified Losers",
+        "url": "https://open.spotify.com/album/6BHmxbVvc5hTLs0GtTLyJG"
+      },
+      "artists": [
+        {
+          "name": "mpq",
+          "url": "https://open.spotify.com/artist/50lYR3K96QJ3DyOHJr3Fom"
+        }
+      ],
+      "duration_ms": 203632,
+      "name": "East & West",
+      "url": "https://open.spotify.com/track/5RLIY7Jnl1wqIAaeRYVdLr"
+    },
+    {
+      "added_at": "2026-10-22 16:00:36",
+      "album": {
+        "name": "Mangsangrok",
+        "url": "https://open.spotify.com/album/5EVU1kPrqbogDPEqTRRZsU"
+      },
+      "artists": [
+        {
+          "name": "Wonjin",
+          "url": "https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "Yuranga",
+      "url": "https://open.spotify.com/track/26oKdWzutBsJWGS3GIwXdr"
+    },
     {
       "added_at": "2026-10-15 23:16:47",
       "album": {
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/3u3lVdfq47YR5AHGNFO0LE"
     },
     {
+      "added_at": "2026-10-22 16:00:36",
+      "album": {
+        "name": "Summer Lover",
+        "url": "https://open.spotify.com/album/6M29vMu4zuBbftfHKhz1sE"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "duration_ms": 170642,
+      "name": "Summer Lover",
+      "url": "https://open.spotify.com/track/1Gilsz4XzppcaOFkIWIdL1"
+    },
+    {
       "added_at": "2026-10-15 23:16:47",
       "album": {
         "name": "LIBEROSIS",
@@ -55,6 +103,42 @@
       "duration_ms": 234000,
       "name": "ERIDANIA",
       "url": "https://open.spotify.com/track/15uJ0pBTEmmdHcnlQz4dAh"
+    },
+    {
+      "added_at": "2026-10-22 16:00:36",
+      "album": {
+        "name": "P\u2018I\u2019CTUS",
+        "url": "https://open.spotify.com/album/1pOY4nAT1zdEzgwklKNcoj"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "SALTARE",
+      "url": "https://open.spotify.com/track/2g6ZL3rolmHp260ai5aAwC"
+    },
+    {
+      "added_at": "2026-10-22 16:00:36",
+      "album": {
+        "name": "Awkward (feat. Clara Benin)",
+        "url": "https://open.spotify.com/album/6vymv9J9yfsmWf01ifmVUa"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        },
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Awkward (feat. Clara Benin)",
+      "url": "https://open.spotify.com/track/7INbWiQ3aKYACHdVbu0yzv"
     },
     {
       "added_at": "2026-10-11 05:44:34",
@@ -109,6 +193,22 @@
       "url": "https://open.spotify.com/track/4YPQaGKgOWTc16ImN17DA5"
     },
     {
+      "added_at": "2026-10-22 16:00:36",
+      "album": {
+        "name": "Passion Tours",
+        "url": "https://open.spotify.com/album/5EQGqEvNwA29T9Y3sw8xkL"
+      },
+      "artists": [
+        {
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
+        }
+      ],
+      "duration_ms": 428573,
+      "name": "\u30cf\u30a4\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/4Eqr46LKqwPKndMDiibrH0"
+    },
+    {
       "added_at": "2026-10-15 23:16:47",
       "album": {
         "name": "bow wow",
@@ -129,6 +229,22 @@
       "url": "https://open.spotify.com/track/3xYJXzaB3dTT9g6UqQD1bo"
     },
     {
+      "added_at": "2026-10-22 16:00:36",
+      "album": {
+        "name": "PRETTY GIRLS ROCK THE WORLD!!!",
+        "url": "https://open.spotify.com/album/4osTq2XePdIpYi4aq3hwIx"
+      },
+      "artists": [
+        {
+          "name": "SONG NING",
+          "url": "https://open.spotify.com/artist/0HSetAKLsr5qfFODMMZUvo"
+        }
+      ],
+      "duration_ms": 147931,
+      "name": "PRETTY GIRLS ROCK THE WORLD!!!",
+      "url": "https://open.spotify.com/track/0ZHEGJ54XVo4ukE0s5DPST"
+    },
+    {
       "added_at": "2026-10-11 05:44:34",
       "album": {
         "name": "Burgers42",
@@ -143,6 +259,22 @@
       "duration_ms": 222000,
       "name": "Burgers42",
       "url": "https://open.spotify.com/track/5Hy3KlVoV1CYZsLEb4C8Q1"
+    },
+    {
+      "added_at": "2026-10-22 16:00:36",
+      "album": {
+        "name": "meet me in my head",
+        "url": "https://open.spotify.com/album/7tgjti5eg3r6gOrwHbG89M"
+      },
+      "artists": [
+        {
+          "name": "Rol3ert",
+          "url": "https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E"
+        }
+      ],
+      "duration_ms": 223898,
+      "name": "meaning",
+      "url": "https://open.spotify.com/track/6g6eMO4BoBBDiuTqzhJXcw"
     },
     {
       "added_at": "2026-10-15 23:16:47",
@@ -161,6 +293,22 @@
       "url": "https://open.spotify.com/track/4pJ8E9B46Gv5jttNofT9JP"
     },
     {
+      "added_at": "2026-10-22 16:00:36",
+      "album": {
+        "name": "Project Apollo",
+        "url": "https://open.spotify.com/album/1EuhwgHLu2WxD62atFR9qF"
+      },
+      "artists": [
+        {
+          "name": "brkfstblend",
+          "url": "https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ"
+        }
+      ],
+      "duration_ms": 261780,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/4x2iQNSS8uG0UaWK9S159K"
+    },
+    {
       "added_at": "2026-10-11 05:44:34",
       "album": {
         "name": "Mirror Chamber",
@@ -175,6 +323,22 @@
       "duration_ms": 302222,
       "name": "Post-man",
       "url": "https://open.spotify.com/track/4Xxsc2pcYCULmsJUUIVm1q"
+    },
+    {
+      "added_at": "2026-10-22 16:00:36",
+      "album": {
+        "name": "\u8ca1\u5bcc",
+        "url": "https://open.spotify.com/album/4Fn2GsF5C20d6jLuasdnJf"
+      },
+      "artists": [
+        {
+          "name": "\u6211\u662f\u6a5f\u8eca\u5c11\u5973",
+          "url": "https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl"
+        }
+      ],
+      "duration_ms": 233522,
+      "name": "\u8ca1\u5bcc",
+      "url": "https://open.spotify.com/track/371wnydrO4YGQQn6Xoez05"
     },
     {
       "added_at": "2026-10-15 23:16:47",
@@ -207,6 +371,22 @@
       "duration_ms": 191000,
       "name": "loser",
       "url": "https://open.spotify.com/track/0Jlu1QY7Q3X84dHAzjYt2Y"
+    },
+    {
+      "added_at": "2026-10-22 16:00:36",
+      "album": {
+        "name": "SAYANG",
+        "url": "https://open.spotify.com/album/1g1Yn17OV41ulJOeiemUT4"
+      },
+      "artists": [
+        {
+          "name": "Maseta",
+          "url": "https://open.spotify.com/artist/7BcNm58gfM6re7QMPFqlo6"
+        }
+      ],
+      "duration_ms": 183462,
+      "name": "Belati",
+      "url": "https://open.spotify.com/track/5BbXhV5i1TWOGPEiObqdNZ"
     },
     {
       "added_at": "2026-10-15 23:16:47",
@@ -851,22 +1031,6 @@
     {
       "added_at": "2026-10-11 05:44:34",
       "album": {
-        "name": "Lagu Selepas Hujan",
-        "url": "https://open.spotify.com/album/0EsljPrKAfTGZDQnWFzqL0"
-      },
-      "artists": [
-        {
-          "name": "Dongker",
-          "url": "https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm"
-        }
-      ],
-      "duration_ms": 212375,
-      "name": "Lagu Selepas Hujan",
-      "url": "https://open.spotify.com/track/5DcsPJ5VVz8V8YoLVO2T05"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
         "name": "Self Equalizer",
         "url": "https://open.spotify.com/album/0FP1GzJwcS1PILqBM4f5Wx"
       },
@@ -999,22 +1163,6 @@
     {
       "added_at": "2026-10-11 05:44:34",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/06usUjQtkcajbNazw0xHkz"
-      },
-      "artists": [
-        {
-          "name": "kasper",
-          "url": "https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/1rV20wZJggKsSNT04bhwI3"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
         "name": "before",
         "url": "https://open.spotify.com/album/5bxRIvb0FRhSB9SWZH6VEG"
       },
@@ -1111,22 +1259,6 @@
     {
       "added_at": "2026-10-11 05:44:34",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/3D3QivHKQ0cE1uZ4GMjW91"
-      },
-      "artists": [
-        {
-          "name": "Guernica Club",
-          "url": "https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/0gg8kcpS6VITZGXGzYWE6A"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
         "name": "GPT",
         "url": "https://open.spotify.com/album/19g6dvBQhyPvhQyDrRSf6i"
       },
@@ -1171,22 +1303,6 @@
       "duration_ms": 174545,
       "name": "GET IT",
       "url": "https://open.spotify.com/track/1XozgDs3cR64UKYcUS78CW"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
-        "name": "This and That",
-        "url": "https://open.spotify.com/album/2GHpkTjWIlzkHSOE8HnzIZ"
-      },
-      "artists": [
-        {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "This and That",
-      "url": "https://open.spotify.com/track/13c64od8WGLypIJIlTivOM"
     },
     {
       "added_at": "2026-10-11 05:44:34",
@@ -1439,22 +1555,6 @@
     {
       "added_at": "2026-10-11 05:44:34",
       "album": {
-        "name": "how do i even try?",
-        "url": "https://open.spotify.com/album/3ACvwQ4p1n732G5EpZhNOv"
-      },
-      "artists": [
-        {
-          "name": "Drizzly",
-          "url": "https://open.spotify.com/artist/0syfivLWCWPjoQqummbiwU"
-        }
-      ],
-      "duration_ms": 239967,
-      "name": "how do i even try?",
-      "url": "https://open.spotify.com/track/118Sytgc76K30IBHz7cYIs"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
         "name": "The Center of the Universe",
         "url": "https://open.spotify.com/album/1GdrXGEvM3JsqIAUwuTkZH"
       },
@@ -1499,38 +1599,6 @@
       "duration_ms": 208111,
       "name": "I CAN SEE EVERYTHING",
       "url": "https://open.spotify.com/track/7hg0DCXLW6A6jOZzxr8tvz"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
-        "name": "talks don't lie",
-        "url": "https://open.spotify.com/album/1fnjFp1J2nECRpnmoX1H5y"
-      },
-      "artists": [
-        {
-          "name": "quiet morning",
-          "url": "https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "talks don't lie",
-      "url": "https://open.spotify.com/track/5KF2ZAYkQUfSjiXNyJsAU0"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3phWkXWHf65cK8vFh3jqMe"
-      },
-      "artists": [
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 310085,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/269MiEVU1Dyc6eUQU1PuiS"
     },
     {
       "added_at": "2026-10-11 05:44:34",
@@ -1599,58 +1667,6 @@
     {
       "added_at": "2026-10-11 05:44:34",
       "album": {
-        "name": "Those Eyes",
-        "url": "https://open.spotify.com/album/6cAakRlil7XrsCfg3118bx"
-      },
-      "artists": [
-        {
-          "name": "NYK",
-          "url": "https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx"
-        },
-        {
-          "name": "SONG NING",
-          "url": "https://open.spotify.com/artist/0HSetAKLsr5qfFODMMZUvo"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "Those Eyes",
-      "url": "https://open.spotify.com/track/2qrPeKl4TdVBlwMGaOagbG"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
-        "name": "I Wanted It To Be You",
-        "url": "https://open.spotify.com/album/1xum5jbirEejVhAxcntyw5"
-      },
-      "artists": [
-        {
-          "name": "Shye",
-          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
-        }
-      ],
-      "duration_ms": 227872,
-      "name": "I Wanted It To Be You",
-      "url": "https://open.spotify.com/track/64xexyVUsOlOKKc5w1JWxb"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
-        "name": "Someplace Sometime Somehow",
-        "url": "https://open.spotify.com/album/3dNOkKRc9HdtAfHfeVKhQ0"
-      },
-      "artists": [
-        {
-          "name": "mpq",
-          "url": "https://open.spotify.com/artist/50lYR3K96QJ3DyOHJr3Fom"
-        }
-      ],
-      "duration_ms": 182118,
-      "name": "Someplace Sometime Somehow",
-      "url": "https://open.spotify.com/track/5XPm9MaJ9hlcfXURHANyIT"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
         "name": "0 Ng\u1edd",
         "url": "https://open.spotify.com/album/7zhnx9rH8ShNiNchhqTNI9"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 243501,
       "name": "Peppa\u2019s summer",
       "url": "https://open.spotify.com/track/4F6aflDvbZOpUciaWrWAIo"
-    },
-    {
-      "added_at": "2026-10-11 05:44:34",
-      "album": {
-        "name": "Sea Glass",
-        "url": "https://open.spotify.com/album/6OYARdj7NKR0B3d9edwCXO"
-      },
-      "artists": [
-        {
-          "name": "Sagong",
-          "url": "https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy"
-        }
-      ],
-      "duration_ms": 178621,
-      "name": "Sea Glass",
-      "url": "https://open.spotify.com/track/2u883GiP4G01Qaj1uIX0et"
     }
   ],
   "unique_name": ".ORG",

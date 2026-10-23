@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,511 likes - 150 songs - 15 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,520 likes - 150 songs - 15 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 117 | [Blues in G Flat](https://open.spotify.com/track/0Ue2r9lo6Af2Ix8V1OJWy4) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D), [Dave Cliff](https://open.spotify.com/artist/766o096cn0XlOgdB9IB5Cy), [Niels\-Henning Ørsted Pedersen](https://open.spotify.com/artist/673nUEedXxOIdNlPvxXLiM), [Alan Levitt](https://open.spotify.com/artist/5Akzw2vZjeRvDamf6c4FJW) | [The Unissued Copenhagen Studio Session](https://open.spotify.com/album/2x0fbyQOBccjXwUZPVTvWc) | 7:26 |
 | 118 | [New Days](https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim) | [Benny Reid](https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe) | [Escaping Shadows](https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW) | 5:29 |
 | 119 | [Kalypso](https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [The Sirens](https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK) | 8:24 |
-| 120 | [Nigeria](https://open.spotify.com/track/0p9mkM9GtASH9tF73Qo5H3) | [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Marc Miralta](https://open.spotify.com/artist/5k9fBcpEq6FWQH87BSLIpy) | [Where Are You?](https://open.spotify.com/album/5UIu8Ra41XV49VoscOnMjT) | 5:15 |
-| 121 | [The Mac Man](https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t) | [Archie Shepp](https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh) | [On This Night](https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3) | 7:27 |
+| 120 | [The Mac Man](https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t) | [Archie Shepp](https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh) | [On This Night](https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3) | 7:27 |
+| 121 | [Nigeria](https://open.spotify.com/track/0p9mkM9GtASH9tF73Qo5H3) | [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Marc Miralta](https://open.spotify.com/artist/5k9fBcpEq6FWQH87BSLIpy) | [Where Are You?](https://open.spotify.com/album/5UIu8Ra41XV49VoscOnMjT) | 5:15 |
 | 122 | [J.E.V.](https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg) | [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Arild Andersen](https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m), [Edward Vesala](https://open.spotify.com/artist/1L8P0focMerZcfKibETMRr) | [Triptykon](https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb) | 7:27 |
 | 123 | [Back East](https://open.spotify.com/track/5BxatdeERzU9irLOFkkHG5) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Back East](https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE) | 6:40 |
 | 124 | [The Forest](https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Moving In](https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D) | 7:43 |

@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-886 songs - 2 day 1 hr 45 min
+887 songs - 2 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Feeling Whitney](https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:17 | 2021-06-19 | 2021-07-04 |
 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 | 2021-10-03 | 2022-04-17 |
 | [Feels Right](https://open.spotify.com/track/5ChP17Mxomk1Zm0MaNidDJ) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Feels Right](https://open.spotify.com/album/2a1LnnBDon4DSj9yldbLwc) | 3:00 | 2020-10-13\* | 2021-10-16 |
+| [Film Noir](https://open.spotify.com/track/7DjfpeQoZzZv2DUe0kHaLT) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Film Noir](https://open.spotify.com/album/1Kffzv98M9zDC9TlIBZFPw) | 3:48 | 2026-10-23 |  |
 | [Find an Island](https://open.spotify.com/track/4Ve0Jx7MXjU4aPrFHJRZK7) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:12 | 2021-07-18 | 2022-04-17 |
 | [Find Xanadu](https://open.spotify.com/track/0BI2JnruCf2fZt7Jp1vU3b) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Find Xanadu](https://open.spotify.com/album/10Bhnh3aMHZPWSfg4qC0LC) | 3:09 | 2025-05-02 | 2025-07-05 |
 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 | 2021-06-19 | 2021-06-26 |
@@ -289,7 +290,7 @@
 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 | 2021-07-17 | 2022-04-17 |
 | [Freak Like Me](https://open.spotify.com/track/2oGdeSXf0cnSPXG8kZiDtB) | [Sadye](https://open.spotify.com/artist/73L9ebWPXM8bSZq6EnydUf) | [Freak Like Me](https://open.spotify.com/album/523xtwqIhtFAZ9ZgBJjxRS) | 1:59 | 2023-10-27 | 2024-07-06 |
 | [Freak Show](https://open.spotify.com/track/7INybJicoIoZH7Uy2IVyOv) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Freak Show](https://open.spotify.com/album/3QMT5o7gYCcEvE4WX72Ifa) | 3:33 | 2023-09-23 | 2024-01-20 |
-| [Freaks](https://open.spotify.com/track/7bG0hRGfBwj7BgSzvdjKki) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Freaks](https://open.spotify.com/album/76ZnUEK0Fwp8SFYg5YKMTY) | 3:35 | 2025-09-27 |  |
+| [Freaks](https://open.spotify.com/track/7bG0hRGfBwj7BgSzvdjKki) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Freaks](https://open.spotify.com/album/76ZnUEK0Fwp8SFYg5YKMTY) | 3:35 | 2025-09-27 | 2026-10-23 |
 | [Free \(feat\. Emeli Sandé\)](https://open.spotify.com/track/4uNEqWV2yoHY9sMwY5cr1a) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Home \(Deluxe Edition\)](https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac) | 3:36 | 2021-11-27 | 2022-02-19 |
 | [From Down Here](https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [From Down Here](https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u) | 4:01 | 2026-05-22 |  |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2022-01-21 | 2022-04-24 |

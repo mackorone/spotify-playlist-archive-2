@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,139 likes - 80 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,149 likes - 80 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 79 | [al is mr](https://open.spotify.com/track/2ZRq6qpi3cluaFHL61Y8b1) | [SizzlePRO](https://open.spotify.com/artist/5XW6aqpVAAC7GJGvNeytdf), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [bbystps](https://open.spotify.com/artist/68fREiCxsehECNOgx2dTym) | [al is mr](https://open.spotify.com/album/2SGAjRRJ7BqJ2rq7EZGIyp) | 2:48 |
 | 80 | [Victory](https://open.spotify.com/track/5pcpmt28hIjhHYA40yhCQP) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [Victory](https://open.spotify.com/album/30Qjic9AW3hM0B3ZIGaKV5) | 2:54 |
 
-Snapshot ID: `AAAAAKx5H+8A41jOc6JoI3Yvt5otUn69`
+Snapshot ID: `AAAAAKxk/dmUOhq3q5XsA6BPyRKmRo7U`

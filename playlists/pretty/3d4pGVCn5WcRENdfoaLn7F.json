@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 905,
+  "num_followers": 914,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEB2nQxwR8JqOvHZ8uc3nwWBIYTJ94",
+  "snapshot_id": "AAAECreI9xuh0BumwPpyGcQtmIX/OdNH",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -763,6 +763,54 @@
       "duration_ms": 198754,
       "name": "Undignified",
       "url": "https://open.spotify.com/track/0ctBeZaxiKB4wLAhSRDtj6"
+    },
+    {
+      "added_at": "2026-10-22 23:29:24",
+      "album": {
+        "name": "Take It Off",
+        "url": "https://open.spotify.com/album/09Ar3ZgfMG0u02BjWUsPph"
+      },
+      "artists": [
+        {
+          "name": "Right Proper",
+          "url": "https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375"
+        }
+      ],
+      "duration_ms": 179126,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/0JK0goQyKIvGIOioaYYAcz"
+    },
+    {
+      "added_at": "2026-10-22 23:32:10",
+      "album": {
+        "name": "No Win",
+        "url": "https://open.spotify.com/album/7wCVj35diIeT3JWVsEY9rC"
+      },
+      "artists": [
+        {
+          "name": "New Delta",
+          "url": "https://open.spotify.com/artist/26cx8jdskWxVHoySlTAA7k"
+        }
+      ],
+      "duration_ms": 181034,
+      "name": "No Win",
+      "url": "https://open.spotify.com/track/2mdVQXwWx1ALhwfBHhilLt"
+    },
+    {
+      "added_at": "2026-10-22 23:32:40",
+      "album": {
+        "name": "Analog Soul",
+        "url": "https://open.spotify.com/album/6JiEvXmwnDAO0zIzo5pyNK"
+      },
+      "artists": [
+        {
+          "name": "David Barker",
+          "url": "https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Analog Soul",
+      "url": "https://open.spotify.com/track/4tP8QH7QwmLBZkez2niHVd"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

@@ -1,6 +1,6 @@
 {
   "description": "Country music's latest offerings featuring Stephen Wilson Jr., Zach Bryan, Emily Ann Roberts and more.",
-  "num_followers": 409900,
+  "num_followers": 410006,
   "original_name": "All New Country",
   "owner": {
     "name": "Spotify",
@@ -762,6 +762,10 @@
         {
           "name": "Erin Kirby",
           "url": "https://open.spotify.com/artist/04VhqLBjrpeyOTrdH1ella"
+        },
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
         }
       ],
       "duration_ms": 173846,

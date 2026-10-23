@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > Get ready to dance with the best House Music! Pulsating beats, groovy rhythms &amp; uplifting vocals from David Guetta, Fisher, Peggy Gou, Oskar, Fred Again.\. and more\. Soulful house, soulful deep house, electronic dance, garage, minimal and sounds\. Updated weekly!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,322,565 likes - 100 songs - 5 hr 24 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,322,497 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 6 | [Feel It](https://open.spotify.com/track/0V7hWDWX9IOEhShRmQ6LjC) | [MA:RK](https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Feel It](https://open.spotify.com/album/2yw7iZcEmbvTW7nhLPGVui) | 2:45 |
 | 7 | [closer](https://open.spotify.com/track/6PG0eETeevKitA28TfVsjy) | [jünn](https://open.spotify.com/artist/1CLWdsKEaYZAiQAf8iv0vU) | [closer](https://open.spotify.com/album/1tkUXQMcxNUIFoML5etMnT) | 2:56 |
 | 8 | [Falling For You](https://open.spotify.com/track/6GQ27DxYMfTB6qNuii53yK) | [DOREY](https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id), [Gusta](https://open.spotify.com/artist/1fNsy2CqJXAA2kA0dIPGFS) | [Falling For You](https://open.spotify.com/album/2nbrMSf7Vrmod6jZgFXtrb) | 4:49 |
-| 9 | [BABYLON](https://open.spotify.com/track/31SRikXLoSdhV604gxpNTs) | [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G) | [BABYLON](https://open.spotify.com/album/4rdtlBSY0WROpkzl3Uq3W1) | 2:01 |
+| 9 | [Make Love](https://open.spotify.com/track/31w6shAy30XOW089TFbb96) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Make Love](https://open.spotify.com/album/4qieawPRE14bqgLv8mwtk0) | 2:41 |
 | 10 | [Break Of Dawn](https://open.spotify.com/track/0MKg8f3MnQRtQoVX2O2q7M) | [Sickluv](https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe), [Matt Davies](https://open.spotify.com/artist/7rV4Ll81hwDGB3629I53NV) | [Break Of Dawn](https://open.spotify.com/album/5sRPUYqlsWbtj0GBDhVXCC) | 4:02 |
 | 11 | [People In The Back](https://open.spotify.com/track/3o1rdK4SipPibK1ZVPHnUO) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Charlotte Moss](https://open.spotify.com/artist/6x7zlplC8xOHkZxjOFmLxV) | [People In The Back](https://open.spotify.com/album/5WbpOoqqrM0gFIHnLTcQEX) | 2:45 |
 | 12 | [Chemical \(feat\. Ross Quinn\)](https://open.spotify.com/track/1HcMzDtW4fgP7s0BZLVNBp) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Chemical \(feat\. Ross Quinn\)](https://open.spotify.com/album/3aIYe1OHT6N6sDJGuXJmns) | 3:53 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 18 | [Tonight](https://open.spotify.com/track/4W23Trb6pbdYwHJAyAJGP1) | [Tommy Gold](https://open.spotify.com/artist/2AUIc8LBUY3YOJanUGnFoR) | [Tonight](https://open.spotify.com/album/6Rcsv5GaxtBlH9aaeFBqoS) | 3:12 |
 | 19 | [Was You \(feat\. Kali Mija\)](https://open.spotify.com/track/1KpmyIUL62T9DFHJj3tlxS) | [PAGEZ](https://open.spotify.com/artist/64EAiouFVYxpc03BBAqlJr), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Beekay Monalayzzar](https://open.spotify.com/artist/4JWpONb9Zo8S3YBFCGKmgR), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Was You \(feat\. Kali Mija\)](https://open.spotify.com/album/7jbbTZO7xXQgOslLxpxWLl) | 5:58 |
 | 20 | [i think i'm addicted](https://open.spotify.com/track/0C5G0JJLTyDexp08AiAzxy) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [feel](https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL) | 2:38 |
-| 21 | [Everything Changes \(feat\. Frýnn\)](https://open.spotify.com/track/3irieFgecxwlmogTqnvmBs) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Frýnn](https://open.spotify.com/artist/7qKTe67KmBqhVbkCwrO3Av) | [Everything Changes \(feat\. Frýnn\)](https://open.spotify.com/album/0r9cMhphd6VpzwagBz1FCx) | 3:53 |
-| 22 | [Giving U](https://open.spotify.com/track/1F0IPLyOoXYgRfjpRj1B9P) | [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Giving U](https://open.spotify.com/album/7DWQB3oUJ3GNXtnscP92oF) | 2:22 |
+| 21 | [Giving U](https://open.spotify.com/track/1F0IPLyOoXYgRfjpRj1B9P) | [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Giving U](https://open.spotify.com/album/7DWQB3oUJ3GNXtnscP92oF) | 2:22 |
+| 22 | [Can't Slow Down](https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Can't Slow Down](https://open.spotify.com/album/42nNaIlInYzrmhucRo5WG1) | 2:57 |
 | 23 | [Spend The Night \(feat\. Dannielle Gaha\) \- Rue Jay Remix](https://open.spotify.com/track/5V8izu14eYd0vgNLn4A0vF) | [Danny J Lewis](https://open.spotify.com/artist/3Z26EjrymkTLeLcJWzJT9S), [Dannielle Gaha](https://open.spotify.com/artist/7bdwPn0i43lXcJsqDjSbRE), [Rue Jay](https://open.spotify.com/artist/6PRSGfADyj9452tYywGxq7) | [Spend The Night \(feat\. Dannielle Gaha\) \[Rue Jay Remix\]](https://open.spotify.com/album/0MzYR7raC1v8940YchiQFj) | 3:14 |
 | 24 | [Born To Be Free \(feat\. Carla Monroe\) \- Extended Mix](https://open.spotify.com/track/7B1jFWqGRT5rQqr14zlOWA) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Born To Be Free \(feat\. Carla Monroe\)](https://open.spotify.com/album/28aU7JLDxmGeLTNXXePnFj) | 4:12 |
 | 25 | [One Life](https://open.spotify.com/track/5e1i4udpISXoQbYdzkMwBe) | [ConKi](https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF) | [One Life](https://open.spotify.com/album/254KFvvVq6V53UrSZFJcBy) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 99 | [Run \(feat\. O.MMY\)](https://open.spotify.com/track/1gI05lrka4qQy2p00eW7Rw) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV), [O.MMY](https://open.spotify.com/artist/03uJoULpNhZyCaXwTAWFfS) | [Run EP](https://open.spotify.com/album/3Myjvmo4PGIwAjRUrZT4ts) | 3:03 |
 | 100 | [lip service](https://open.spotify.com/track/4jyrNEv8BTSLDnmv5GDSHE) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [lip service](https://open.spotify.com/album/5hZNm3NEpofIg7WR7eI74S) | 3:28 |
 
-Snapshot ID: `AAASDwq7eFKpcLMEloBnvnwqqxbi3/Re`
+Snapshot ID: `AAASEaCVq3hsyF+urriHCmuwCnWO6Clv`

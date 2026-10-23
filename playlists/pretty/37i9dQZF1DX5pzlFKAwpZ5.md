@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,862 likes - 150 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,928 likes - 150 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 147 | [Silky Lake](https://open.spotify.com/track/1o2iyJBJNMG8kJI3dCI9aS) | [Masahiro Takahashi](https://open.spotify.com/artist/3lV9hq2ucA2hYlq4OmhhFR) | [Humid Sun](https://open.spotify.com/album/3DxHQ1mr556sKBOrQZa3ZB) | 3:44 |
 | 148 | [YASE](https://open.spotify.com/track/7gXZTMjQDyn6jNEBxMTKsV) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [YASE](https://open.spotify.com/album/4nNF4QVWfKHNYv3tFyjPV8) | 4:15 |
 | 149 | [shade](https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [shade](https://open.spotify.com/album/3T08Liy3UPVFNsus9qNexc) | 1:53 |
-| 150 | [Palimpsest](https://open.spotify.com/track/0znvgH1Kl2JZ3UZtfLYAfF) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Palimpsest](https://open.spotify.com/album/6D996zHmH91rOZyvGLFtg5) | 4:27 |
+| 150 | [Shimmer](https://open.spotify.com/track/0jTvgpEHQm15hXWJduwQMf) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 7:02 |
 
 Snapshot ID: `AAAAAKTJsfrkyNrG/Bs11SvYMEfDgjrb`

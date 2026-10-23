@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Dydy Yeman",
+  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Team Paiya",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -1664,6 +1664,24 @@
       "duration_ms": 166089,
       "name": "C\u00f4te d'Ivoire est Zo",
       "url": "https://open.spotify.com/track/5sx7LpOTySbPCcisFczEL0"
+    },
+    {
+      "album": {
+        "name": "C\u2019est pas matata",
+        "url": "https://open.spotify.com/album/5g0yK6gAZRml1VHFI1vJoZ"
+      },
+      "artists": [
+        {
+          "name": "Jolina Verdigo",
+          "url": "https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158797,
+      "name": "C\u2019est pas matata",
+      "url": "https://open.spotify.com/track/6cPLTuY7vi5spSn6IbaeCh"
     },
     {
       "album": {
@@ -4828,7 +4846,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 154462,
       "name": "OWE",
       "url": "https://open.spotify.com/track/2O7QF5MsjkVAvfKWGZfB50"

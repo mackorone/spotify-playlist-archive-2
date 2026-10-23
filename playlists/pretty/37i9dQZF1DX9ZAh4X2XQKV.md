@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAh4X2XQKV.md) - [plain]
 
 > ft\. Ezequiel Cardenas' \(@ezequiel.cardenas\) songs he's had on repeat lately.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,068 likes - 45 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,057 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

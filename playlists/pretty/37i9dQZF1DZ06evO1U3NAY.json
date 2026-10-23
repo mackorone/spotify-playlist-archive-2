@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 171134,
+  "num_followers": 171137,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAADTvaPZ6UGZ/jiZ1gOeCIzr",
+  "snapshot_id": "atavAAAAAAA4slkIf39VhVMp6lmq5VOU",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 229026,
-      "name": "Mercy Mirror",
-      "url": "https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz"
+      "duration_ms": 249360,
+      "name": "Endless War",
+      "url": "https://open.spotify.com/track/5uDWqYSiWqWTXK9CbAKIA8"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 249360,
-      "name": "Endless War",
-      "url": "https://open.spotify.com/track/5uDWqYSiWqWTXK9CbAKIA8"
+      "duration_ms": 229026,
+      "name": "Mercy Mirror",
+      "url": "https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hydra (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 331240,
-      "name": "Let Us Burn",
-      "url": "https://open.spotify.com/track/5ZMZrIPhlf5oMHwzw6RMre"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Heart Of Everything",
         "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
       },
@@ -691,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
+        "name": "Hydra (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
       },
       "artists": [
         {
@@ -700,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 253506,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z"
+      "duration_ms": 331240,
+      "name": "Let Us Burn",
+      "url": "https://open.spotify.com/track/5ZMZrIPhlf5oMHwzw6RMre"
     },
     {
       "added_at": null,
@@ -723,6 +707,22 @@
       "duration_ms": 192561,
       "name": "Sing Like A Siren",
       "url": "https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 253506,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > Relaxing jazz piano from the corner of a dim, cozy bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,413 likes - 125 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,392 likes - 125 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 124 | [Solitude Symphony](https://open.spotify.com/track/6zVc9yoZgGnEdLsqHp0787) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Solitude Symphony](https://open.spotify.com/album/3CK0uOgkGyBJHGEzlSrhMw) | 4:08 |
 | 125 | [Sleep Deprivation](https://open.spotify.com/track/1xNbrJNkuEmItjwCt2dvnM) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Early Mornings](https://open.spotify.com/album/7hYqoSorlDTgJMuIEXFepE) | 5:30 |
 
-Snapshot ID: `AAAAAHQRzoYUitB3CxbL1njclPV77YxC`
+Snapshot ID: `AAAAAA5bPAYhY5t5fsshGUZQp3b451E+`

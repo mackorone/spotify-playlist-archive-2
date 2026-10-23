@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,916 songs - 11 day 2 hr 49 min
+4,917 songs - 11 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [Broken Souls](https://open.spotify.com/track/3wnVHdfps7UG7RWDNt7ko4) | [Malcolm E Ormond](https://open.spotify.com/artist/37IitdXWKngXiu1htFAgMG) | [Broken Souls](https://open.spotify.com/album/2TnchrIaZ65GafSuOZuhe5) | 5:35 | 2025-07-02 |  |
 | [Broken Walkman](https://open.spotify.com/track/7HZMee2vHSgqh3yQpqF17C) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape Music](https://open.spotify.com/album/2X1ZnNcAoPKI9wGc2Mtt9V) | 3:42 | 2025-09-20 |  |
 | [Brooklyn](https://open.spotify.com/track/65138Uul60XoprO9yB5Wff) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Brooklyn](https://open.spotify.com/album/3qGdQr7WFALNlV3YCmGICN) | 3:09 | 2025-08-19 |  |
+| [Brooklyn](https://open.spotify.com/track/2cLyhFnnOvK997LZsOjA9i) | [Reptile Room](https://open.spotify.com/artist/2GxPyV0YIHRNi0hAaqzgER) | [Brooklyn](https://open.spotify.com/album/4QvTWqLqLYgRYxydKpFGOh) | 3:32 | 2026-10-22 |  |
 | [BRUCEWAYNE](https://open.spotify.com/track/5b8aoBB4T9VqYLwQC9SCqk) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [BRUCEWAYNE](https://open.spotify.com/album/0oeZt3vQXhs7sDyHGGcBFc) | 2:02 | 2025-07-03 |  |
 | [Brucia il Cielo](https://open.spotify.com/track/3V3c9hR9IOfGZdsdhVzTAB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italia Dance](https://open.spotify.com/album/1G91ZjYkSiRadJ1jMQJaS3) | 3:00 | 2025-09-15 |  |
 | [Brucia il Cielo \(another\)](https://open.spotify.com/track/5l9MbF9nNblZ8IZPPGb2xV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italia Dance](https://open.spotify.com/album/1G91ZjYkSiRadJ1jMQJaS3) | 2:45 | 2025-09-15 |  |
@@ -1085,7 +1086,7 @@
 | [DEVILISH GAME](https://open.spotify.com/track/1ALj8qxhXyTOAKTj8VojuO) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [DEVILISH GAME](https://open.spotify.com/album/6rgkD0IoRb7NJlW9ZXiuHX) | 2:54 | 2025-07-03 |  |
 | [Devourer of Planets](https://open.spotify.com/track/3Gqolvarh6JAnMgfTLRkvW) | [Darkwolf](https://open.spotify.com/artist/6uNsRZIH55Mg8IsnYw1FtJ) | [Swords and Planets](https://open.spotify.com/album/5Y04aS2vWcxe24Yu2etvpF) | 4:54 | 2025-10-17 |  |
 | [Dewdrops](https://open.spotify.com/track/6DJbwFgRBZBw8CICv0Lnyo) | [JONS](https://open.spotify.com/artist/20MWIi8VytCnumhEUMVCPz) | [Dewdrops](https://open.spotify.com/album/5gCEOSLcjlspCBpyoqLcwB) | 3:46 | 2025-02-27 |  |
-| [Dharma Pig](https://open.spotify.com/track/55s3bnM68o7pRq3dzLvE9v) | [Ethan Ice](https://open.spotify.com/artist/0nok7WTxJq1I27y8uSTNUW) | [Dharma Pig](https://open.spotify.com/album/4Ds7SLLQXCfq5GzQIhBEy1) | 6:26 | 2026-02-18 |  |
+| [Dharma Pig](https://open.spotify.com/track/55s3bnM68o7pRq3dzLvE9v) | [Ethan Ice](https://open.spotify.com/artist/0nok7WTxJq1I27y8uSTNUW), [Eric Bullock](https://open.spotify.com/artist/6IXoejQpSlIRw7aPW9Kbem) | [Dharma Pig](https://open.spotify.com/album/4Ds7SLLQXCfq5GzQIhBEy1) | 6:26 | 2026-02-18 |  |
 | [Di sana e robusta costituzione](https://open.spotify.com/track/1oBTMbQNpMwx1MHN8kiKXu) | [Le3corde](https://open.spotify.com/artist/3ZPASHhczjeULFB9mSTVSo) | [Na!?](https://open.spotify.com/album/6T2vR1NGPdt2N0icRAyr5W) | 2:58 | 2026-02-01 |  |
 | [DI SIRENE](https://open.spotify.com/track/24a9GLzDOwyp6Y7pyOFYdo) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [DI SIRENE](https://open.spotify.com/album/1ueDYJ37hM3StQBrHLkb07) | 3:51 | 2026-02-01 |  |
 | [DI SIRENE](https://open.spotify.com/track/6xNVN9K3t4SOM1c7BKpaLO) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [di sirene](https://open.spotify.com/album/6Tlfu8XHQgn058q8vBYPig) | 3:51 | 2026-02-01 |  |

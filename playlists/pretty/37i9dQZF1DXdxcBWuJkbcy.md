@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Pumping tracks for pumping iron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,814,674 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,814,397 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 79 | [light years \(feat\. Inéz\)](https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [light years \(feat\. Inéz\)](https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI) | 3:40 |
 | 80 | [Orla](https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Orla](https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O) | 3:25 |
 
-Snapshot ID: `AAAAAM5ppIMa0LLn6f4sjspbKsg8d+2j`
+Snapshot ID: `AAAAAA0tWIVyu7aGLftKfzGtvia+GY9+`

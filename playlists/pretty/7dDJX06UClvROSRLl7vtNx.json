@@ -1,12 +1,12 @@
 {
   "description": "Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party. For submissions: j-dosch@freenet.de",
-  "num_followers": 139075,
+  "num_followers": 139092,
   "original_name": "Beach Lounge 2026 \ud83c\udf34 IBIZA Summer Chillout",
   "owner": {
     "name": "j-dosch",
     "url": "https://open.spotify.com/user/j-dosch"
   },
-  "snapshot_id": "AABWwrkCJqADlE/1L70+jeDFFBL2WrBJ",
+  "snapshot_id": "AABWx8M+C9pUmjz47ozkoSj8U7ic9roG",
   "tracks": [
     {
       "added_at": "2023-09-22 10:40:16",
@@ -183,6 +183,22 @@
       "duration_ms": 138007,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/6BTJEauio7VgCelhJPRuGA"
+    },
+    {
+      "added_at": "2026-10-22 22:13:20",
+      "album": {
+        "name": "If You Had My Love",
+        "url": "https://open.spotify.com/album/3nLXmSqzk0AKlKbsWzwm5F"
+      },
+      "artists": [
+        {
+          "name": "Nico Sol",
+          "url": "https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "If You Had My Love",
+      "url": "https://open.spotify.com/track/45SZSlzSJ3eavNit33hF8P"
     },
     {
       "added_at": "2026-03-22 19:32:22",
@@ -677,6 +693,22 @@
       "url": "https://open.spotify.com/track/5sqU7K8fWSMvq1HbVZjA9O"
     },
     {
+      "added_at": "2026-10-22 22:15:41",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/0k0SSx18w0IoiUKiZploWW"
+      },
+      "artists": [
+        {
+          "name": "After June",
+          "url": "https://open.spotify.com/artist/54ca7OngsDRKrfApI0An72"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/08xXZwJx6QwbJXqSmaSMqL"
+    },
+    {
       "added_at": "2026-01-18 23:13:25",
       "album": {
         "name": "Runaway",
@@ -901,22 +933,6 @@
       "url": "https://open.spotify.com/track/40TFupGcXmab2iVHhcHY3s"
     },
     {
-      "added_at": "2025-12-07 22:47:46",
-      "album": {
-        "name": "Dancing On The Edge",
-        "url": "https://open.spotify.com/album/2R3GWmzz33CjB9nv1qofPM"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santoro",
-          "url": "https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz"
-        }
-      ],
-      "duration_ms": 166261,
-      "name": "Dancing On The Edge",
-      "url": "https://open.spotify.com/track/0PBPhW4ABlgEQLvDkj5Ioc"
-    },
-    {
       "added_at": "2026-07-06 19:16:51",
       "album": {
         "name": "D\u00e9j\u00e0 Vu",
@@ -931,6 +947,22 @@
       "duration_ms": 137583,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/29mFDGIEr6HmUyewk263Rr"
+    },
+    {
+      "added_at": "2025-12-07 22:47:46",
+      "album": {
+        "name": "Dancing On The Edge",
+        "url": "https://open.spotify.com/album/2R3GWmzz33CjB9nv1qofPM"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santoro",
+          "url": "https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz"
+        }
+      ],
+      "duration_ms": 166261,
+      "name": "Dancing On The Edge",
+      "url": "https://open.spotify.com/track/0PBPhW4ABlgEQLvDkj5Ioc"
     },
     {
       "added_at": "2026-07-01 23:06:28",

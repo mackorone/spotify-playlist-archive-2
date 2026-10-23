@@ -1,12 +1,12 @@
 {
   "description": "Alternative Arabic songs. Cover: Kazdoura",
-  "num_followers": 152945,
+  "num_followers": 152957,
   "original_name": "Arab Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGPGK0/eBOGMYNfHk7NozjAD9qeo",
+  "snapshot_id": "AAAAAHD0jccAZcmqSvKLaC6KR3GCID4i",
   "tracks": [
     {
       "added_at": "2026-10-01 21:14:28",
@@ -117,6 +117,22 @@
       "url": "https://open.spotify.com/track/0SVfaNq8jB4boSfBjEQhf3"
     },
     {
+      "added_at": "2026-10-22 13:50:38",
+      "album": {
+        "name": "Lulu Lady",
+        "url": "https://open.spotify.com/album/4tK3r3WdHtyFBltKz15yYc"
+      },
+      "artists": [
+        {
+          "name": "Jay Abo",
+          "url": "https://open.spotify.com/artist/1Uad5DOAyWNd3yTUsF6mP7"
+        }
+      ],
+      "duration_ms": 267541,
+      "name": "Lulu Lady",
+      "url": "https://open.spotify.com/track/6mJ74VrWJnfAKnqaC6PVmt"
+    },
+    {
       "added_at": "2025-12-26 11:37:22",
       "album": {
         "name": "MAGHNATEES",
@@ -171,6 +187,22 @@
       "duration_ms": 193384,
       "name": "Wainek Min Zaman",
       "url": "https://open.spotify.com/track/1R69Raqo1YOHxk2fOpk9xS"
+    },
+    {
+      "added_at": "2026-10-22 13:52:21",
+      "album": {
+        "name": "\u0627\u062d\u0633\u0627\u0633 \u062c\u062f\u064a\u062f",
+        "url": "https://open.spotify.com/album/1RdtnFxaKh4SdF7zmUdQim"
+      },
+      "artists": [
+        {
+          "name": "Sama Shoufani",
+          "url": "https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr"
+        }
+      ],
+      "duration_ms": 172048,
+      "name": "\u0627\u062d\u0633\u0627\u0633 \u062c\u062f\u064a\u062f",
+      "url": "https://open.spotify.com/track/2uA6IrTzirvcwHKD5INtg0"
     },
     {
       "added_at": "2026-01-21 08:42:53",
@@ -571,22 +603,6 @@
     {
       "added_at": "2025-12-26 11:37:22",
       "album": {
-        "name": "Zay El Qetar",
-        "url": "https://open.spotify.com/album/6nHndIHIHGZESiQghVRDnY"
-      },
-      "artists": [
-        {
-          "name": "Akher Zapheer",
-          "url": "https://open.spotify.com/artist/0x8vbV32RlTpfxsERAwena"
-        }
-      ],
-      "duration_ms": 262222,
-      "name": "Zay El Qetar",
-      "url": "https://open.spotify.com/track/1taIkurFqmaPmw4zSR0Hkm"
-    },
-    {
-      "added_at": "2025-12-26 11:37:22",
-      "album": {
         "name": "mech nafs el chi",
         "url": "https://open.spotify.com/album/6P5LqXQQnyGM86ckpF2Gqk"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 192000,
       "name": "mech nafs el chi",
       "url": "https://open.spotify.com/track/4kxpzN83RfuiPluSyCPXrC"
-    },
-    {
-      "added_at": "2025-12-26 11:37:22",
-      "album": {
-        "name": "Ma7boobi",
-        "url": "https://open.spotify.com/album/6DAcM9B4LarUNtSsNBPokz"
-      },
-      "artists": [
-        {
-          "name": "Idreesi",
-          "url": "https://open.spotify.com/artist/0C1T4aT8Wsli5bji343Nye"
-        }
-      ],
-      "duration_ms": 205423,
-      "name": "Al3ab",
-      "url": "https://open.spotify.com/track/2aLxkQKd73nJesKCeYdoXA"
     },
     {
       "added_at": "2026-01-22 07:39:38",

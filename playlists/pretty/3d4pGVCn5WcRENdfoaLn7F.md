@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 905 likes - 47 songs - 2 hr 43 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 914 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,5 +55,8 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 45 | [All That Glitters](https://open.spotify.com/track/0nbwTQWA3TxU9WzQE7uVwp) | [Jess & The Dropouts](https://open.spotify.com/artist/7CsN7EwwsGjyisVwjiSdKD) | [All That Glitters](https://open.spotify.com/album/4rcRbeJKS242AHZCCIwqbg) | 3:23 |
 | 46 | [Enough](https://open.spotify.com/track/58qcYoVSzf5Pvn2fGBiqaz) | [Eliza G](https://open.spotify.com/artist/5OABUFa0sKo2fj5sMCVAk4) | [Enough](https://open.spotify.com/album/25JEyZBFuByN6mJgvaGVe1) | 3:01 |
 | 47 | [Undignified](https://open.spotify.com/track/0ctBeZaxiKB4wLAhSRDtj6) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Undignified](https://open.spotify.com/album/0crFw9gXxbKoaykCmz9q7k) | 3:18 |
+| 48 | [Take It Off](https://open.spotify.com/track/0JK0goQyKIvGIOioaYYAcz) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Take It Off](https://open.spotify.com/album/09Ar3ZgfMG0u02BjWUsPph) | 2:59 |
+| 49 | [No Win](https://open.spotify.com/track/2mdVQXwWx1ALhwfBHhilLt) | [New Delta](https://open.spotify.com/artist/26cx8jdskWxVHoySlTAA7k) | [No Win](https://open.spotify.com/album/7wCVj35diIeT3JWVsEY9rC) | 3:01 |
+| 50 | [Analog Soul](https://open.spotify.com/track/4tP8QH7QwmLBZkez2niHVd) | [David Barker](https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM) | [Analog Soul](https://open.spotify.com/album/6JiEvXmwnDAO0zIzo5pyNK) | 3:13 |
 
-Snapshot ID: `AAAEB2nQxwR8JqOvHZ8uc3nwWBIYTJ94`
+Snapshot ID: `AAAECreI9xuh0BumwPpyGcQtmIX/OdNH`

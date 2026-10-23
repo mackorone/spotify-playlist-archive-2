@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Eliza Maturan",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: GEHLEE",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -302,6 +302,24 @@
       "duration_ms": 241500,
       "name": "A Series of Unfortunate Events",
       "url": "https://open.spotify.com/track/2HNjm4tIEuvBenfsqlfXVG"
+    },
+    {
+      "album": {
+        "name": "a song about space",
+        "url": "https://open.spotify.com/album/46xh7hTC6usD0spayj33KW"
+      },
+      "artists": [
+        {
+          "name": "Paolo Sandejas",
+          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "a song about space",
+      "url": "https://open.spotify.com/track/098lvkOqrM3OeZaPm02rEw"
     },
     {
       "album": {
@@ -790,7 +808,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 214067,
       "name": "Alas Dose",
       "url": "https://open.spotify.com/track/6AsLsDlKx2NCLnBm2o2E4M"
@@ -1606,6 +1624,28 @@
       "duration_ms": 297066,
       "name": "Awitin Mo, Isasayaw Ko",
       "url": "https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc"
+    },
+    {
+      "album": {
+        "name": "Awkward (feat. Clara Benin)",
+        "url": "https://open.spotify.com/album/6vymv9J9yfsmWf01ifmVUa"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        },
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Awkward (feat. Clara Benin)",
+      "url": "https://open.spotify.com/track/7INbWiQ3aKYACHdVbu0yzv"
     },
     {
       "album": {
@@ -2643,6 +2683,28 @@
     },
     {
       "album": {
+        "name": "BITUIN..",
+        "url": "https://open.spotify.com/album/3DprtIDtHS9s24lv8pNn0s"
+      },
+      "artists": [
+        {
+          "name": "Cyra Gwynth",
+          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
+        },
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "BITUIN..",
+      "url": "https://open.spotify.com/track/40viWmsjlfTJUOiGxfbxNY"
+    },
+    {
+      "album": {
         "name": "BLACK N\u2019 WHITE",
         "url": "https://open.spotify.com/album/5RgURAiikPG10alZtMwltX"
       },
@@ -3195,6 +3257,24 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2WkAmRyQh7XqtnVRUWzX30"
+      },
+      "artists": [
+        {
+          "name": "GEHLEE",
+          "url": "https://open.spotify.com/artist/1OfZxFJgP1iSUivDRJRzr7"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162244,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7D2ZnXa4KgOg68ojItelCe"
+    },
+    {
+      "album": {
         "name": "Closer to Your Heart",
         "url": "https://open.spotify.com/album/2BpCwXEN71Ma3oYGOEohef"
       },
@@ -3460,7 +3540,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 218456,
       "name": "Dahan-Dahan",
       "url": "https://open.spotify.com/track/5YEnJAZB34SWAx54Pfg5jo"
@@ -6562,7 +6642,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 213488,
       "name": "Hit and Run",
       "url": "https://open.spotify.com/track/4CSPyzqhaKX3CBkPlpsIYt"
@@ -7220,7 +7300,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 216520,
       "name": "Ikaw Lang Naman",
       "url": "https://open.spotify.com/track/4szuUf7n5YBxHDQTEXgZP3"
@@ -7618,6 +7698,24 @@
       "duration_ms": 205013,
       "name": "Isang Sandali Pa",
       "url": "https://open.spotify.com/track/48SAJX6sI7Xaeb3XH3jp84"
+    },
+    {
+      "album": {
+        "name": "Isang Tulad Mo",
+        "url": "https://open.spotify.com/album/3LSeOwRsVlU5pV32BHeMZp"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214545,
+      "name": "Isang Tulad Mo",
+      "url": "https://open.spotify.com/track/65WIhwtA96b2qzmxCYUqRM"
     },
     {
       "album": {
@@ -8438,7 +8536,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 207777,
       "name": "Kariktan",
       "url": "https://open.spotify.com/track/2gCReTH06zKzBnxYVypIpB"
@@ -11152,7 +11250,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 187848,
       "name": "mental",
       "url": "https://open.spotify.com/track/2HMrqM89l6hFM5TN06TiaI"
@@ -11604,6 +11702,28 @@
       "duration_ms": 210500,
       "name": "Mula Sa Malayo (Reimagined)",
       "url": "https://open.spotify.com/track/0hQLcUDrlUjw2mjhKpU0cH"
+    },
+    {
+      "album": {
+        "name": "Muli",
+        "url": "https://open.spotify.com/album/3r1MhKagLgXCvuYyb4BYoc"
+      },
+      "artists": [
+        {
+          "name": "jikamarie",
+          "url": "https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156106,
+      "name": "Muli",
+      "url": "https://open.spotify.com/track/6qk3GlOPZfMZ40aPv3KO23"
     },
     {
       "album": {
@@ -17627,6 +17747,24 @@
     },
     {
       "album": {
+        "name": "Cure For Loneliness",
+        "url": "https://open.spotify.com/album/7p9LQarq8dU5WR9Bc4BFI2"
+      },
+      "artists": [
+        {
+          "name": "SHANNi",
+          "url": "https://open.spotify.com/artist/46rXMWiYqSYCwidbAAWPTp"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273914,
+      "name": "Sorry Na Please",
+      "url": "https://open.spotify.com/track/7rZ0612cyDTtXVucIVzspF"
+    },
+    {
+      "album": {
         "name": "PERSONA:2000",
         "url": "https://open.spotify.com/album/7Cyor4TuAVIk5EMlTUuxLN"
       },
@@ -19984,7 +20122,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 211510,
       "name": "Two Worlds",
       "url": "https://open.spotify.com/track/3OL3jtW4C4oCLTHjq8ipgu"

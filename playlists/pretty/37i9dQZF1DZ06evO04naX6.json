@@ -1,37 +1,13 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 181727,
+  "num_followers": 181733,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAAB0wwuGLhAplEqFqsVFVTLt",
+  "snapshot_id": "atavAAAAAAA3xZKQfF+26zFS0v/r7Vcg",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movimiento",
-        "url": "https://open.spotify.com/album/6oIHoEwrm6noktaEdvxod4"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "ATLAC",
-          "url": "https://open.spotify.com/artist/4zjApLlmv1DjwnM2Yrmp98"
-        }
-      ],
-      "duration_ms": 154161,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/5CcmjQ1cZFvA63uoWwLVvt"
-    },
     {
       "added_at": null,
       "album": {
@@ -371,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cu\u00e1l Es La Necesidad",
-        "url": "https://open.spotify.com/album/5EumHLtbT0Jc90E3I8j0On"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 144546,
-      "name": "Cu\u00e1l Es La Necesidad",
-      "url": "https://open.spotify.com/track/1eIJVAmYYui2VHcQ1cmwR2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -431,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cu\u00e1l Es La Necesidad",
+        "url": "https://open.spotify.com/album/5EumHLtbT0Jc90E3I8j0On"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 144546,
+      "name": "Cu\u00e1l Es La Necesidad",
+      "url": "https://open.spotify.com/track/1eIJVAmYYui2VHcQ1cmwR2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
         "url": "https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc"
       },
@@ -459,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si no le contesto",
-        "url": "https://open.spotify.com/album/0BxECKDt2N9ls03VIC8qmr"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Si no le contesto",
-      "url": "https://open.spotify.com/track/0eQlwA2WwatBNPTMFKcs2X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alg\u00fan D\u00eda",
         "url": "https://open.spotify.com/album/4u6qq4hzHJRdRTBzHpkjH8"
       },
@@ -491,6 +451,22 @@
       "duration_ms": 189397,
       "name": "Alg\u00fan D\u00eda",
       "url": "https://open.spotify.com/track/1xsCN4M0pvYi0CkwxTUC0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si no le contesto",
+        "url": "https://open.spotify.com/album/0BxECKDt2N9ls03VIC8qmr"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Si no le contesto",
+      "url": "https://open.spotify.com/track/0eQlwA2WwatBNPTMFKcs2X"
     },
     {
       "added_at": null,
@@ -675,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SINF\u00d3NICO (En Vivo)",
-        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 94395,
-      "name": "Abusadora - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/47LpnBPn52IEyVn9JaUK5u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
@@ -707,6 +667,46 @@
       "duration_ms": 218693,
       "name": "XQ Te Pones As\u00ed",
       "url": "https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SINF\u00d3NICO (En Vivo)",
+        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 94395,
+      "name": "Abusadora - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/47LpnBPn52IEyVn9JaUK5u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movimiento",
+        "url": "https://open.spotify.com/album/6oIHoEwrm6noktaEdvxod4"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "ATLAC",
+          "url": "https://open.spotify.com/artist/4zjApLlmv1DjwnM2Yrmp98"
+        }
+      ],
+      "duration_ms": 154161,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/5CcmjQ1cZFvA63uoWwLVvt"
     },
     {
       "added_at": null,

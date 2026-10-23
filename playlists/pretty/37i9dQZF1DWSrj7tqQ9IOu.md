@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois de Septembre sélectionnés par les éditos de Spotify\. Photo : BEN plg
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,406 likes - 45 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,383 likes - 45 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 44 | [Parler pour rien dire en Am](https://open.spotify.com/track/506mNiqZNvaOOQh3eeuQg1) | [Whim Therapy](https://open.spotify.com/artist/5AKY45d5N3kOFln1vXsQ5h), [AZZZ](https://open.spotify.com/artist/5Xjz10rR5J9btPUj7CaiLq) | [Parler pour rien dire en Am](https://open.spotify.com/album/4Zf2pP5L4aAMXWzC8Kfzap) | 2:08 |
 | 45 | [Merci Michel](https://open.spotify.com/track/0syqWWuURjbVqIxAGUk4zr) | [Yirji](https://open.spotify.com/artist/0lJutluQaLSfvUX5Q7YpPu) | [Merci Michel](https://open.spotify.com/album/4N1284XkjTjLLoEZUkvD33) | 2:36 |
 
-Snapshot ID: `AAAAAOYF1ZGYNFg3rDYV4vROqK2l33R0`
+Snapshot ID: `AAAAALcz2eRMt/5OgUAac/IhodvD02KM`

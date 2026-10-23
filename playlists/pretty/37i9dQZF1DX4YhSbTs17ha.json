@@ -1,13 +1,193 @@
 {
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Car\u00edn Le\u00f3n y Ryan Castro en portada.\n",
-  "num_followers": 1768804,
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. PEDRO SAMPAIO y Kenia Os en portada.\n",
+  "num_followers": 1768452,
   "original_name": "S\u00f3lo Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM/yErggTTo+OXpRzybDxS+a+aev",
+  "snapshot_id": "AAAAAIcv7AW2t+m/fmkmOevJYuZZvCM5",
   "tracks": [
+    {
+      "added_at": "2026-10-22 23:53:01",
+      "album": {
+        "name": "KINKY",
+        "url": "https://open.spotify.com/album/2P3o7T3rBrFKd5i8wkIssO"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 123750,
+      "name": "KINKY",
+      "url": "https://open.spotify.com/track/5nzJwpQA2DiUfvNeWLp91b"
+    },
+    {
+      "added_at": "2026-10-09 06:00:15",
+      "album": {
+        "name": "hIGhLIGhTS",
+        "url": "https://open.spotify.com/album/2ih1Rsu406R41gFcOp8YZK"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 128860,
+      "name": "hIGhLIGhTS",
+      "url": "https://open.spotify.com/track/6sgXbGZdNtICgMOTbCgQWm"
+    },
+    {
+      "added_at": "2026-10-22 23:53:01",
+      "album": {
+        "name": "Ruta 77",
+        "url": "https://open.spotify.com/album/4XmMa4poqisX3V0PwTmSjR"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 210705,
+      "name": "DQTD",
+      "url": "https://open.spotify.com/track/6d7IqPuFFgP59UzuJKG0DA"
+    },
+    {
+      "added_at": "2026-10-09 06:00:15",
+      "album": {
+        "name": "MALIB\u00da",
+        "url": "https://open.spotify.com/album/6317v4hnpchTv8Xe2v5Wzp"
+      },
+      "artists": [
+        {
+          "name": "DeMasters",
+          "url": "https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 179301,
+      "name": "MALIB\u00da",
+      "url": "https://open.spotify.com/track/57IIRATtcJhbRvomaszbQS"
+    },
+    {
+      "added_at": "2026-10-22 23:53:01",
+      "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias (y el tiempo prudente)",
+        "url": "https://open.spotify.com/album/2yhcXITwUBTEAs3g3l5AXB"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 173778,
+      "name": "Todo Baila (feat. M. Ward)",
+      "url": "https://open.spotify.com/track/2rkUvywotsLZBxHg4L6YP2"
+    },
+    {
+      "added_at": "2026-10-09 06:00:15",
+      "album": {
+        "name": "El Sombrero y La Camisa",
+        "url": "https://open.spotify.com/album/3wC46e6BTDk2qPyiwIOu45"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 157478,
+      "name": "El Sombrero y La Camisa",
+      "url": "https://open.spotify.com/track/4p6fcGUvYftongzpzjTrN9"
+    },
+    {
+      "added_at": "2026-10-22 23:53:01",
+      "album": {
+        "name": "Pendiente",
+        "url": "https://open.spotify.com/album/4Oalcm1ptJAzGc9kNfSweu"
+      },
+      "artists": [
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        },
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 177886,
+      "name": "Pendiente",
+      "url": "https://open.spotify.com/track/37aGOmXQJM5gZqTmRYNNkX"
+    },
+    {
+      "added_at": "2026-10-09 06:00:15",
+      "album": {
+        "name": "SCL",
+        "url": "https://open.spotify.com/album/21TbbvXdmrymM9eopZihj2"
+      },
+      "artists": [
+        {
+          "name": "AQROSS",
+          "url": "https://open.spotify.com/artist/1tg6SNEx6wOz4muQiXLBwI"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Klich\u00e9",
+      "url": "https://open.spotify.com/track/0eblv6bud0Ae6SiCtWsSgW"
+    },
+    {
+      "added_at": "2026-10-22 23:53:01",
+      "album": {
+        "name": "Tengo Ganas 2.0",
+        "url": "https://open.spotify.com/album/68Eo39p4QARbUXE7P7SYhk"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 159419,
+      "name": "Tengo Ganas 2.0",
+      "url": "https://open.spotify.com/track/1M3VD516JAllFu09LLrbEn"
+    },
     {
       "added_at": "2026-10-09 06:00:15",
       "album": {
@@ -51,46 +231,6 @@
     {
       "added_at": "2026-10-09 06:00:15",
       "album": {
-        "name": "MALIB\u00da",
-        "url": "https://open.spotify.com/album/6317v4hnpchTv8Xe2v5Wzp"
-      },
-      "artists": [
-        {
-          "name": "DeMasters",
-          "url": "https://open.spotify.com/artist/0XOoQsnayUZuGBqY8i3KlQ"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 179301,
-      "name": "MALIB\u00da",
-      "url": "https://open.spotify.com/track/57IIRATtcJhbRvomaszbQS"
-    },
-    {
-      "added_at": "2026-10-09 06:00:15",
-      "album": {
-        "name": "hIGhLIGhTS",
-        "url": "https://open.spotify.com/album/2ih1Rsu406R41gFcOp8YZK"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 128860,
-      "name": "hIGhLIGhTS",
-      "url": "https://open.spotify.com/track/6sgXbGZdNtICgMOTbCgQWm"
-    },
-    {
-      "added_at": "2026-10-09 06:00:15",
-      "album": {
         "name": "Me Mata",
         "url": "https://open.spotify.com/album/6C4UXMBQulZpRfB3DwH89C"
       },
@@ -103,26 +243,6 @@
       "duration_ms": 186611,
       "name": "Me Mata",
       "url": "https://open.spotify.com/track/2nqwPkQNHUBMlxKRsnWMbY"
-    },
-    {
-      "added_at": "2026-10-09 06:00:15",
-      "album": {
-        "name": "El Sombrero y La Camisa",
-        "url": "https://open.spotify.com/album/3wC46e6BTDk2qPyiwIOu45"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 157478,
-      "name": "El Sombrero y La Camisa",
-      "url": "https://open.spotify.com/track/4p6fcGUvYftongzpzjTrN9"
     },
     {
       "added_at": "2026-10-09 06:00:15",
@@ -147,26 +267,6 @@
       "duration_ms": 184251,
       "name": "Dumb Boy (ojo de loca)",
       "url": "https://open.spotify.com/track/4TKBvVu4tHy7kX9ewht29n"
-    },
-    {
-      "added_at": "2026-10-09 06:00:15",
-      "album": {
-        "name": "SCL",
-        "url": "https://open.spotify.com/album/21TbbvXdmrymM9eopZihj2"
-      },
-      "artists": [
-        {
-          "name": "AQROSS",
-          "url": "https://open.spotify.com/artist/1tg6SNEx6wOz4muQiXLBwI"
-        },
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Klich\u00e9",
-      "url": "https://open.spotify.com/track/0eblv6bud0Ae6SiCtWsSgW"
     },
     {
       "added_at": "2026-10-09 06:00:15",
@@ -315,58 +415,6 @@
     {
       "added_at": "2026-10-09 06:00:15",
       "album": {
-        "name": "tuffluv - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4cJYlqWYJ2BeATpz3X29ts"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 170823,
-      "name": "tuffluv - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5dB7dt2zQ2dkmaMu4KB3Cb"
-    },
-    {
-      "added_at": "2026-10-09 06:00:15",
-      "album": {
-        "name": "Palomitas en la muela",
-        "url": "https://open.spotify.com/album/7corFIHXwhyIBKHF8Co9RE"
-      },
-      "artists": [
-        {
-          "name": "ANASOF",
-          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
-        }
-      ],
-      "duration_ms": 173547,
-      "name": "Palomitas en la muela",
-      "url": "https://open.spotify.com/track/7ItcYYRng70afXbYmypbPW"
-    },
-    {
-      "added_at": "2026-10-09 06:00:15",
-      "album": {
-        "name": "fill de la mar (2026)",
-        "url": "https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 153741,
-      "name": "preso",
-      "url": "https://open.spotify.com/track/2CVpQ2AnL2I2XvnORd7WXo"
-    },
-    {
-      "added_at": "2026-10-09 06:00:15",
-      "album": {
         "name": "ReVivo",
         "url": "https://open.spotify.com/album/7qhr8gzeZsAzZG7w1vuay2"
       },
@@ -419,22 +467,6 @@
     {
       "added_at": "2026-10-09 06:00:15",
       "album": {
-        "name": "Para Cuando Sean Mayores",
-        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 148720,
-      "name": "Chiquita",
-      "url": "https://open.spotify.com/track/33NgMBpGrhqLcsmWcpSYot"
-    },
-    {
-      "added_at": "2026-10-09 06:00:15",
-      "album": {
         "name": "Malas Ma\u00f1as",
         "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
       },
@@ -451,26 +483,6 @@
       "duration_ms": 176760,
       "name": "Malas Ma\u00f1as",
       "url": "https://open.spotify.com/track/7aHTMrcc8lme8FFkSwlL3b"
-    },
-    {
-      "added_at": "2026-10-09 06:00:15",
-      "album": {
-        "name": "Ojos Brujos",
-        "url": "https://open.spotify.com/album/6FAUpTZ5NlNBafW41tgCWH"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Ojos Brujos",
-      "url": "https://open.spotify.com/track/0nlOi8arjQH6MSaC9zKkeq"
     },
     {
       "added_at": "2026-10-09 06:00:15",

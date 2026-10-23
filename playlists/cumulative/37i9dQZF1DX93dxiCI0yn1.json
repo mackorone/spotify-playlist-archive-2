@@ -4401,6 +4401,24 @@
     },
     {
       "album": {
+        "name": "Made it Bab / How many",
+        "url": "https://open.spotify.com/album/5erVH9exDQpObphWjt6Olc"
+      },
+      "artists": [
+        {
+          "name": "JAYBAB",
+          "url": "https://open.spotify.com/artist/0kf41NpiGwCGp0YQXmeqBU"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123595,
+      "name": "Made it Bab (Prod.rxl)",
+      "url": "https://open.spotify.com/track/4jvab7zbLNNz68hetZBbhu"
+    },
+    {
+      "album": {
         "name": "6th Anniversery Best Mixtape",
         "url": "https://open.spotify.com/album/16AybzZDQLpAwJUy4KrmXu"
       },
@@ -6370,7 +6388,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 190808,
       "name": "slow down",
       "url": "https://open.spotify.com/track/40PunlWpw0QVzdEwNN1Doo"
@@ -7754,10 +7772,28 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 190344,
       "name": "\u30bb\u30ec\u30d6\u30ec\u30a4\u30c8",
       "url": "https://open.spotify.com/track/5HXKGQW6TeTsAijubKERwI"
+    },
+    {
+      "album": {
+        "name": "\u30bb\u30ec\u30d6\u30ec\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/3IwnfzivuWfZcXbj1aSTeJ"
+      },
+      "artists": [
+        {
+          "name": "SEISA",
+          "url": "https://open.spotify.com/artist/2SKIyJAgsW4mKWYRwM4xcN"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "\u30bb\u30ec\u30d6\u30ec\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/5s09VA6L81GSHp9WIubPAS"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Akshath, Osho Jain, Aanchal Tyagi and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Prateeksha Srivastava, Shreya Jain, The F16s and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -802,7 +802,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 154782,
       "name": "Aaja Re Piya",
       "url": "https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 190866,
       "name": "Ab Toh Tu",
       "url": "https://open.spotify.com/track/4UgZwamyyUCv5Gzl4xliSf"
@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 168571,
       "name": "Awaaz Hai",
       "url": "https://open.spotify.com/track/0xP7R3H2nFLyYwxwEpwefd"
@@ -3988,7 +3988,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 231285,
       "name": "Bata Zara",
       "url": "https://open.spotify.com/track/2wUvjrkR4YooAvZrXqjNKY"
@@ -4998,7 +4998,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 157758,
       "name": "Bin Tere",
       "url": "https://open.spotify.com/track/7y4DczQ6h7g2DorzHxEHvj"
@@ -5688,7 +5688,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 235636,
       "name": "Chaand Taare",
       "url": "https://open.spotify.com/track/1nInzDozug1NYuPNEac2sL"
@@ -5798,7 +5798,7 @@
       ],
       "date_added": "2026-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 179545,
       "name": "Chal Jee Lein",
       "url": "https://open.spotify.com/track/3uAJ978wyZG591s5gJxjLZ"
@@ -6316,7 +6316,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 257454,
       "name": "Cold Showers",
       "url": "https://open.spotify.com/track/6qDLLBWTYcsluamV9L3HO1"
@@ -9697,6 +9697,28 @@
     },
     {
       "album": {
+        "name": "Jogan",
+        "url": "https://open.spotify.com/album/7agaQi6kTryQDCnTCxknJ7"
+      },
+      "artists": [
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186942,
+      "name": "Gaanv",
+      "url": "https://open.spotify.com/track/7wlLtfab442Z5uV6bKM99q"
+    },
+    {
+      "album": {
         "name": "MERI JAAN PEHLE NAACH",
         "url": "https://open.spotify.com/album/0EjqvUumscGjg4Y12yalkV"
       },
@@ -10428,7 +10450,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 219718,
       "name": "Gulon se",
       "url": "https://open.spotify.com/track/2ytNIFFfzSM5Ok2rhAbGe8"
@@ -11284,7 +11306,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 228002,
       "name": "Ho Jayenge Ghum",
       "url": "https://open.spotify.com/track/0uiq5MHUD1rjpqYFsECubQ"
@@ -12674,7 +12696,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 171932,
       "name": "Jaadugari",
       "url": "https://open.spotify.com/track/1EN4WMiQwUpEiuHkXzhKJk"
@@ -12956,7 +12978,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 170890,
       "name": "Jaane Bhi Do",
       "url": "https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC"
@@ -15051,6 +15073,32 @@
     },
     {
       "album": {
+        "name": "Kaise Kahoon",
+        "url": "https://open.spotify.com/album/2xqBJ25q6lQiMMnSNfbzJx"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "Trosk",
+          "url": "https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN"
+        },
+        {
+          "name": "Akarsh Shetty",
+          "url": "https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168599,
+      "name": "Kaise Kahoon",
+      "url": "https://open.spotify.com/track/6qlZ1V2PSqcS7QrdJ6GpH0"
+    },
+    {
+      "album": {
         "name": "Ek Kamre Ki Zindagi",
         "url": "https://open.spotify.com/album/6OEnEcgbGhOONF4urn8xPU"
       },
@@ -16218,7 +16266,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 127578,
       "name": "Kho Sa Gaya Hoon",
       "url": "https://open.spotify.com/track/6f4j8tJbdca1JAjbxCpH3G"
@@ -18240,7 +18288,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 188062,
       "name": "Lakeerein",
       "url": "https://open.spotify.com/track/1NWlHkiZmo8MLoLjo6FnPK"
@@ -18993,6 +19041,28 @@
     },
     {
       "album": {
+        "name": "Magan",
+        "url": "https://open.spotify.com/album/3yxAUa4ePsrstDXk0q1X1v"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        },
+        {
+          "name": "Khushi Walia",
+          "url": "https://open.spotify.com/artist/3p6n7VUkNrX5S9eXRM8Bwt"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Magan",
+      "url": "https://open.spotify.com/track/1XY6MXPOkuDCevYz8iJqo3"
+    },
+    {
+      "album": {
         "name": "Maheen Ishq",
         "url": "https://open.spotify.com/album/42SUCYs5tZC5H6X62L9osC"
       },
@@ -19184,7 +19254,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 156000,
       "name": "Main Nashe Mein",
       "url": "https://open.spotify.com/track/14tTt2k9lfX31FebV9tYpZ"
@@ -19716,7 +19786,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 174688,
       "name": "Margot's Song",
       "url": "https://open.spotify.com/track/05xw7nOvQLxC1ROwIlwOO8"
@@ -19842,7 +19912,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 186479,
       "name": "Marz - E - Dawa",
       "url": "https://open.spotify.com/track/1o1kpJl4TuWaPBAsHTqfLa"
@@ -22685,6 +22755,24 @@
     },
     {
       "album": {
+        "name": "No Wings To Fly",
+        "url": "https://open.spotify.com/album/6OqBZWSOj3nKRIL8ERqpqi"
+      },
+      "artists": [
+        {
+          "name": "Shunya",
+          "url": "https://open.spotify.com/artist/5Oz3oUJpLWYpDMv75dkvc0"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260878,
+      "name": "No Wings To Fly",
+      "url": "https://open.spotify.com/track/32YSGxRi3MUgT2pzWIpbUl"
+    },
+    {
+      "album": {
         "name": "Noor",
         "url": "https://open.spotify.com/album/48W9iiaEHMdbUgfI4f1m1r"
       },
@@ -22744,6 +22832,24 @@
       "duration_ms": 154196,
       "name": "Noor",
       "url": "https://open.spotify.com/track/0og6yQkdya4bsYnhshXVvV"
+    },
+    {
+      "album": {
+        "name": "Noor",
+        "url": "https://open.spotify.com/album/6g8r0ytWUhav2ndFhCBjza"
+      },
+      "artists": [
+        {
+          "name": "Bharg",
+          "url": "https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162683,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/2z1yyLSJKCGVYhT64rzNIk"
     },
     {
       "album": {
@@ -22810,7 +22916,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 149725,
       "name": "Noor Ghazal",
       "url": "https://open.spotify.com/track/5twhtVTlHdhlahxb3aybn1"
@@ -25656,7 +25762,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 269013,
       "name": "Rihaa",
       "url": "https://open.spotify.com/track/1BSHXk8ZlYzL5lXepb2Shi"
@@ -28553,6 +28659,24 @@
     },
     {
       "album": {
+        "name": "All Dogs Go To Heaven",
+        "url": "https://open.spotify.com/album/2z4R4CZUKwpfpP0T2FgY2W"
+      },
+      "artists": [
+        {
+          "name": "The F16s",
+          "url": "https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C"
+        }
+      ],
+      "date_added": "2026-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253792,
+      "name": "So Unique, Utterly Special",
+      "url": "https://open.spotify.com/track/620Nhc24J2wYFrJpxokiOy"
+    },
+    {
+      "album": {
         "name": "Sochna",
         "url": "https://open.spotify.com/album/3wK1Llk9r46QZ1XFdmOu3k"
       },
@@ -29948,7 +30072,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 150000,
       "name": "Tere Ishq Mein",
       "url": "https://open.spotify.com/track/17hVMVwsCp8FQOTS8K3wkt"
@@ -32240,7 +32364,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 202235,
       "name": "Tum Dekho Na",
       "url": "https://open.spotify.com/track/6ZH04ETWQzPsj5Pl5SYNJf"
@@ -34558,6 +34682,24 @@
       "duration_ms": 182000,
       "name": "Zindagi Meri",
       "url": "https://open.spotify.com/track/1xlSWJqfdHp0vZm1kLEZ59"
+    },
+    {
+      "album": {
+        "name": "Zukhaam",
+        "url": "https://open.spotify.com/album/00BYa16yqXN55744wA19Ny"
+      },
+      "artists": [
+        {
+          "name": "Dorwin John",
+          "url": "https://open.spotify.com/artist/1WrRZqtc5zXX95BV270M1v"
+        }
+      ],
+      "date_added": "2026-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Zukhaam",
+      "url": "https://open.spotify.com/track/4UFiwbVg59bUUEqzna1cFK"
     },
     {
       "album": {

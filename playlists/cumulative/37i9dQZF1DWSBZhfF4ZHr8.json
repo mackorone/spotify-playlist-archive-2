@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Manon Lisa.\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Hoshi.\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -250,10 +250,32 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 151064,
       "name": "Aime-moi encore",
       "url": "https://open.spotify.com/track/1vfLUtLGqPmQlAFg9jChVX"
+    },
+    {
+      "album": {
+        "name": "Algorithme",
+        "url": "https://open.spotify.com/album/1XdZZ8DRVcX5LcpbjjDXOs"
+      },
+      "artists": [
+        {
+          "name": "Lena\u00efg",
+          "url": "https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb"
+        },
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171210,
+      "name": "Algorithme",
+      "url": "https://open.spotify.com/track/1LKCXDRHsyh14z8TloNHoT"
     },
     {
       "album": {
@@ -4665,6 +4687,28 @@
     },
     {
       "album": {
+        "name": "La chanson",
+        "url": "https://open.spotify.com/album/7G21XOJ3nkj7Ln7Tiphwzl"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        },
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "La chanson",
+      "url": "https://open.spotify.com/track/1rs2i4zAgHUKhUVnTWggRr"
+    },
+    {
+      "album": {
         "name": "La chanson d'amour",
         "url": "https://open.spotify.com/album/71VvbsJXaYjuYienm7G1j7"
       },
@@ -6053,6 +6097,24 @@
     },
     {
       "album": {
+        "name": "Lucifer",
+        "url": "https://open.spotify.com/album/5HlYojvlbKOTRxl5rhfGII"
+      },
+      "artists": [
+        {
+          "name": "Laura Ferr\u00e9",
+          "url": "https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163506,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/5QiwoucgVaNadWHnd8mljx"
+    },
+    {
+      "album": {
         "name": "L\u00c0-BAS",
         "url": "https://open.spotify.com/album/7A24KYpWf2LCNO6jJdIU0W"
       },
@@ -6242,7 +6304,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 158280,
       "name": "MALALAT\u00caTE",
       "url": "https://open.spotify.com/track/5193I8zZrbd4bsfp9vg7ao"
@@ -6938,6 +7000,24 @@
       "duration_ms": 212560,
       "name": "M\u00e9latonine",
       "url": "https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM"
+    },
+    {
+      "album": {
+        "name": "M\u00eame bois",
+        "url": "https://open.spotify.com/album/2pwLtHjerpGX67oFV2GWTE"
+      },
+      "artists": [
+        {
+          "name": "Asfar Shamsi",
+          "url": "https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156655,
+      "name": "M\u00eame bois",
+      "url": "https://open.spotify.com/track/4EHRdbCLmRnW2jTvaoozh5"
     },
     {
       "album": {
@@ -10290,7 +10370,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 162626,
       "name": "Tricheur",
       "url": "https://open.spotify.com/track/1pytJFt4mxfD4sMd6qjj6U"
@@ -10604,7 +10684,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 245606,
       "name": "Une seule vie",
       "url": "https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL"

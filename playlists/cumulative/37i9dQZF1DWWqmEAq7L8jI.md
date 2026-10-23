@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe  📸 Morat
 
-514 songs - 1 day 3 hr 53 min
+515 songs - 1 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [La mujer que nadie defendió](https://open.spotify.com/track/2CZxFBaUJDrD2mTxUCLjs0) | [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr), [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia), [Aguaturbia](https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc) | [La mujer que nadie defendió](https://open.spotify.com/album/5mdvYUQEGyeNA58pUVFgVF) | 3:55 | 2024-03-08 | 2024-04-16 |
 | [La Noche Sin Tí](https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:18 | 2023-08-11 |  |
 | [La Realidad](https://open.spotify.com/track/0H9390yIMrHF7IG8OnXVZB) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [La Realidad](https://open.spotify.com/album/3xSAqUkBAfqnd2TEH0ooEt) | 2:36 | 2025-06-27 | 2025-07-12 |
+| [La Renta \(en vivo\)](https://open.spotify.com/track/24wzVDsTvaM1ml5LxCamRQ) | [SER](https://open.spotify.com/artist/5Tk3cLiTSfgrMC4BxInpO9), [Morena](https://open.spotify.com/artist/5aLdbUjX00uHsIQrciD85d) | [La Renta \(en vivo\)](https://open.spotify.com/album/6bBSiCXtgPRsEemnqxtyal) | 3:25 | 2026-10-23 |  |
 | [LA SANTA](https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA SANTA](https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8) | 2:45 | 2023-03-17 | 2023-05-06 |
 | [La traición](https://open.spotify.com/track/1iofHMtGYQZY3NMEv641IQ) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [La traición](https://open.spotify.com/album/0RL5iVXxnP2IwHggO8BBgC) | 3:39 | 2025-07-18 | 2025-07-26 |
 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 | 2023-03-17 | 2023-05-16 |
@@ -408,7 +409,7 @@
 | [Respirar](https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Respirar](https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN) | 3:19 | 2024-02-23 |  |
 | [Revelación II](https://open.spotify.com/track/3wQ7k5JnWMGBaYtQUKP1Kg) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Revelación II](https://open.spotify.com/album/028zg81OZTtl4ZlaFOA5PA) | 3:42 | 2025-03-21 | 2025-04-26 |
 | [Rojo Rubí](https://open.spotify.com/track/4Q9yMb434vVpNz2QM2nQLI) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Rojo Rubí](https://open.spotify.com/album/3xzd8q2D1aPKfhuin1LidI) | 3:52 | 2026-05-22 |  |
-| [SABOR TROPICAL](https://open.spotify.com/track/3GHiyB261wDZ0idCCyPMGw) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [SABOR TROPICAL](https://open.spotify.com/album/4EwPZMPAol6owdlZlwvomg) | 2:15 | 2026-05-15 |  |
+| [SABOR TROPICAL](https://open.spotify.com/track/3GHiyB261wDZ0idCCyPMGw) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [SABOR TROPICAL](https://open.spotify.com/album/4EwPZMPAol6owdlZlwvomg) | 2:15 | 2026-05-15 | 2026-10-23 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2023-03-17 | 2023-07-08 |
 | [Safari](https://open.spotify.com/track/77Ed4iW5WLoxqQlGmN9bUY) | [Zayli](https://open.spotify.com/artist/07tY7Hto2XN2jsaAtjgQ8g) | [Safari](https://open.spotify.com/album/2rBwcxUeh9PWsZ01lHbAqI) | 2:01 | 2023-12-27 | 2024-02-24 |
 | [Santo Domingo](https://open.spotify.com/track/6EpL8McChbTODU3hCK0bGT) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Ale Sergi](https://open.spotify.com/artist/6oKLWbs4OqvmeXnREk0flZ) | [Santo Domingo](https://open.spotify.com/album/4YABLnQHfYiM21jVIQFLnk) | 2:57 | 2025-11-20 | 2026-01-15 |

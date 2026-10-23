@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1930,
+  "num_followers": 1933,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAAD4OmdJCNqUa4JiPKNmEx0e",
+  "snapshot_id": "atavAAAAAAASJDzKBtv1tXGTqowhR/K2",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promises (feat. Rochelle Jordan)",
-        "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
+        "name": "1021",
+        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
       },
       "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 208375,
-      "name": "Promises (feat. Rochelle Jordan)",
-      "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+      "duration_ms": 207906,
+      "name": "Back in the Day",
+      "url": "https://open.spotify.com/track/2sy9xj6yM79lyJaihqX9PB"
     },
     {
       "added_at": null,
@@ -295,18 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "1021",
-        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I"
       },
       "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 207906,
-      "name": "Back in the Day",
-      "url": "https://open.spotify.com/track/2sy9xj6yM79lyJaihqX9PB"
+      "duration_ms": 208375,
+      "name": "Promises (feat. Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/6Q6Pl11H9bV9f8bRld32DD"
     },
     {
       "added_at": null,
@@ -323,6 +323,38 @@
       "duration_ms": 233422,
       "name": "Love You Good",
       "url": "https://open.spotify.com/track/78UZHyUlhP71OhATPMFqZo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1021",
+        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 215186,
+      "name": "Good One",
+      "url": "https://open.spotify.com/track/6AuoUvOQDpxQdyE28xg3wT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Through The Wall",
+        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 249429,
+      "name": "Sum",
+      "url": "https://open.spotify.com/track/3MIVJlKGcLfYNLso4pp6dn"
     },
     {
       "added_at": null,
@@ -347,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Through The Wall",
-        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
       },
       "artists": [
         {
@@ -356,77 +388,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 249429,
-      "name": "Sum",
-      "url": "https://open.spotify.com/track/3MIVJlKGcLfYNLso4pp6dn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1021",
-        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 215186,
-      "name": "Good One",
-      "url": "https://open.spotify.com/track/6AuoUvOQDpxQdyE28xg3wT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What You Done",
-        "url": "https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "Keys N Krates",
-          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
-        }
-      ],
-      "duration_ms": 174048,
-      "name": "What You Done",
-      "url": "https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 226262,
-      "name": "Got Em",
-      "url": "https://open.spotify.com/track/5WBwG2deJGFR4RllTdWCej"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Through The Wall",
-        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 240099,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/2lmBzqE0LWxlzfazwJxggj"
+      "duration_ms": 226299,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/2aq9cIGfOVTB2a1DcWhzKv"
     },
     {
       "added_at": null,
@@ -447,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
+        "name": "Through The Wall",
+        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
       },
       "artists": [
         {
@@ -456,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 226299,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/2aq9cIGfOVTB2a1DcWhzKv"
+      "duration_ms": 240099,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/2lmBzqE0LWxlzfazwJxggj"
     },
     {
       "added_at": null,
@@ -472,9 +436,29 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 253462,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/3J1ZRxH4KrF1AISOkLPjtv"
+      "duration_ms": 226262,
+      "name": "Got Em",
+      "url": "https://open.spotify.com/track/5WBwG2deJGFR4RllTdWCej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What You Done",
+        "url": "https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "duration_ms": 174048,
+      "name": "What You Done",
+      "url": "https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 253462,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/3J1ZRxH4KrF1AISOkLPjtv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "never worry",
         "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
       },
@@ -531,22 +531,6 @@
       "duration_ms": 186123,
       "name": "Sumthin Crazy (with Rochelle Jordan)",
       "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 180465,
-      "name": "Next 2 You",
-      "url": "https://open.spotify.com/track/7tNkPC6JSJFY9Jwr3fooEA"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
       "duration_ms": 119443,
       "name": "Tour Bus",
       "url": "https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 180465,
+      "name": "Next 2 You",
+      "url": "https://open.spotify.com/track/7tNkPC6JSJFY9Jwr3fooEA"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
       "duration_ms": 224027,
       "name": "DREAMZ COME TRUE",
       "url": "https://open.spotify.com/track/3YLRi0SXcPwB6c2Dy3gmey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/06rUXmPBsO3uXbfYGHcmcm"
+      },
+      "artists": [
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 222344,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/19F8OeoZrLMg1O2X3KwyE4"
     },
     {
       "added_at": null,

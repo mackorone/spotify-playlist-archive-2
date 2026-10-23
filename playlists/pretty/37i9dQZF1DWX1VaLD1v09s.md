@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,173 likes - 150 songs - 11 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,166 likes - 150 songs - 11 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 142 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
 | 143 | [Fear No More](https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Fear No More](https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ) | 3:12 |
 | 144 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
-| 145 | [My Victory](https://open.spotify.com/track/1zg8rQ4pENedgx2FpHXN0o) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [My Utmost For His Highest](https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV) | 4:00 |
-| 146 | [Stay With Me Here](https://open.spotify.com/track/74Xfijo7ERntrhBdgLsicn) | [Fernando Ortega](https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp) | [The Crucifixion of Jesus](https://open.spotify.com/album/34fmXMkIlFqWXAe5vqBQZq) | 4:21 |
+| 145 | [Stay With Me Here](https://open.spotify.com/track/74Xfijo7ERntrhBdgLsicn) | [Fernando Ortega](https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp) | [The Crucifixion of Jesus](https://open.spotify.com/album/34fmXMkIlFqWXAe5vqBQZq) | 4:21 |
+| 146 | [My Victory](https://open.spotify.com/track/1zg8rQ4pENedgx2FpHXN0o) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [My Utmost For His Highest](https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV) | 4:00 |
 | 147 | [He Lives](https://open.spotify.com/track/6HRrYSbJHcy4oKdgU1pqzs) | [Jonathan Turner](https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ), [Brian Connelly](https://open.spotify.com/artist/568sD5Ea5m8svijwp9cmZe) | [He Lives](https://open.spotify.com/album/6TPj51KKvfmiRtwcEJ3Sid) | 4:24 |
 | 148 | [In The Resurrection](https://open.spotify.com/track/5y7UcB9uyzE1xZFaTLVICF) | [iAmSon](https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [In The Resurrection](https://open.spotify.com/album/0G6iRcuMTbCkvK1mtiiCXW) | 4:27 |
 | 149 | [We Shall Behold Him/Behold The Lamb](https://open.spotify.com/track/7mINdftFHnJOOO2ur4ZFzS) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE), [Autumn Nelon](https://open.spotify.com/artist/5BaM4PGPMYNtU2rH2LHgTe) | [We Shall Behold Him/Behold The Lamb](https://open.spotify.com/album/6CpNgIYmLAgZmvgPoynCzg) | 8:00 |

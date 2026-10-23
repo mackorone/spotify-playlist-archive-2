@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Mochakk
 
-1,087 songs - 2 day 11 hr 54 min
+1,088 songs - 2 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1061,6 +1061,7 @@
 | [WE NEEDED](https://open.spotify.com/track/6UUvSoHQByfOslkOJwl1iY) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [WE NEEDED](https://open.spotify.com/album/0N94Lr3uS4N2bw6bqAZ81C) | 3:17 | 2025-12-05 | 2026-03-07 |
 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 | 2024-01-19 | 2024-05-11 |
 | [Weapon of Mass Destruction](https://open.spotify.com/track/62jhF9WyEgxKoqKe26dGdg) | [Morphy](https://open.spotify.com/artist/5Q8X9AMJgCaepABZDwdZql), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [Weapon of Mass Destruction](https://open.spotify.com/album/4xFbQBsWbV0NXCc0wKt4uK) | 3:33 | 2024-09-27 | 2025-01-25 |
+| [Weekend Warriors](https://open.spotify.com/track/2NjrYeiraBAwe6MSH4x6na) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd), [ICARUZ](https://open.spotify.com/artist/4wjJNn8praUyGWRsp8LJqe) | [Weekend Warriors](https://open.spotify.com/album/2ucdscWTmU5sKCnPdDRhvE) | 3:44 | 2026-10-23 |  |
 | [Welcome The Night](https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK) | [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Welcome The Night](https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82) | 3:18 | 2023-10-27 | 2024-03-09 |
 | [What You Want](https://open.spotify.com/track/5aoy0Xf1ojp3NAaRImuEz8) | [Flux Zone](https://open.spotify.com/artist/5bc0ZhQrLswD1dDqRNvc5S), [Gustavo Koch](https://open.spotify.com/artist/3d81jYgc8CxZ0dN0KC5k6w), [A.IFF](https://open.spotify.com/artist/34qFUgffoclkPOTcCarEiC) | [What You Want](https://open.spotify.com/album/2MV109Ut6kpE4V1DeYw9kS) | 3:50 | 2024-06-21 | 2024-09-20 |
 | [When I See It \(feat\. The Vic\)](https://open.spotify.com/track/0ZNO8GpuqnGWSJAzqo3Dso) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [When I See It \(feat\. The Vic\)](https://open.spotify.com/album/0fzfB2d2fwXPjqhoKhbME1) | 3:15 | 2023-09-22 | 2024-01-20 |

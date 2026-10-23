@@ -1,6 +1,6 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47057,
+  "num_followers": 47054,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Buone Maniere Per Giovani Predatori",
-        "url": "https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp"
-      },
-      "artists": [
-        {
-          "name": "Sxrrxwland",
-          "url": "https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje"
-        }
-      ],
-      "duration_ms": 233503,
-      "name": "Lasciami Qui",
-      "url": "https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "Hasta la Muerte",
         "url": "https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0"
       },
@@ -1539,22 +1523,6 @@
       "duration_ms": 120058,
       "name": "Hasta la Muerte",
       "url": "https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
-        "name": "Semprerosa",
-        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 200153,
-      "name": "Semprerosa",
-      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1575,6 +1543,38 @@
       "duration_ms": 144187,
       "name": "ALESSIA",
       "url": "https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Semprerosa",
+        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 200153,
+      "name": "Semprerosa",
+      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Buone Maniere Per Giovani Predatori",
+        "url": "https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp"
+      },
+      "artists": [
+        {
+          "name": "Sxrrxwland",
+          "url": "https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje"
+        }
+      ],
+      "duration_ms": 233503,
+      "name": "Lasciami Qui",
+      "url": "https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr"
     },
     {
       "added_at": "2026-07-30 22:02:52",

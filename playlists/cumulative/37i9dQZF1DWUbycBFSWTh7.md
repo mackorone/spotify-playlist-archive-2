@@ -4,10 +4,11 @@
 
 > get into the groove with a selection of new underground deep house
 
-720 songs - 2 day 19 hr 40 min
+721 songs - 2 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10k](https://open.spotify.com/track/7ekIVWgfWd3WNyiPcdkQFa) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar) | [Choices Vol\. 2 \- EP](https://open.spotify.com/album/4uHKFhQ8HOgxzBPc8phcwL) | 6:04 | 2026-10-22 |  |
 | [12 O.C Riddim](https://open.spotify.com/track/0f5W7ozR9vWZ5tclCVRMe3) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [Lost In Translation EP](https://open.spotify.com/album/7IEiWQDB1kLzGhekR3tUdy) | 7:00 | 2023-02-16 | 2024-02-02 |
 | [19 \- Josh Butler Remix](https://open.spotify.com/track/5GiM1m00X51F9MpREgqy23) | [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8), [ANNNA](https://open.spotify.com/artist/6paIiBu0X4cvePrfNpD2QY), [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [19](https://open.spotify.com/album/1ZUfDvXGzk8AQCrZl1g5Dv) | 3:06 | 2022-09-15 | 2023-04-09 |
 | [2025 Anthem](https://open.spotify.com/track/79AXRrugrU4GG4fQCh1i5V) | [Your friend daao](https://open.spotify.com/artist/1YK6LlpClehFPoCkFttVdw) | [2025 Anthem](https://open.spotify.com/album/13cU1iGRpv7o58aDWkoQhl) | 3:36 | 2025-02-14 | 2025-08-31 |
@@ -610,7 +611,7 @@
 | [The Phoenix](https://open.spotify.com/track/3PafzxOF5XZgWCZ6Qu8tAg) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [The Phoenix EP](https://open.spotify.com/album/6T3gVKAY1oA0hqYf4m3cJJ) | 6:03 | 2025-04-16 | 2026-04-01 |
 | [The Piano Fix](https://open.spotify.com/track/55nywSOIMylX4RHrsK5yPf) | [Jovonn](https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V) | [Blaque Katt \- EP](https://open.spotify.com/album/5u1liL4XlRb2RlPqtZKHDR) | 6:27 | 2023-11-04 | 2024-06-07 |
 | [The Power Of Suggestion \- Original Remaster](https://open.spotify.com/track/0g6WFXr7KMOQxdRtitdLJt) | [Lance DeSardi](https://open.spotify.com/artist/7cYLfTUVc516FJmVTClnmN) | [The Power Of Suggestion \(Original Remaster\)](https://open.spotify.com/album/69ZAVbzlwOiXnbs7MtzfbZ) | 6:44 | 2026-03-31 |  |
-| [The Preacher \- Rocco Rodamaal Radio Edit](https://open.spotify.com/track/7D87cmAlqxRicQbhSEUYP9) | [PEZNT](https://open.spotify.com/artist/4nc9ASzzzNhX5x4Dttcklw), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8), [Rocco Rodamaal](https://open.spotify.com/artist/3NwffipFBRlnHBV9iQoB5l) | [The Preacher \(Rocco Rodamaal Remix\)](https://open.spotify.com/album/4D8OX6f4dKLNCD6Xht9R0K) | 3:54 | 2025-05-25 |  |
+| [The Preacher \- Rocco Rodamaal Radio Edit](https://open.spotify.com/track/7D87cmAlqxRicQbhSEUYP9) | [PEZNT](https://open.spotify.com/artist/4nc9ASzzzNhX5x4Dttcklw), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8), [Rocco Rodamaal](https://open.spotify.com/artist/3NwffipFBRlnHBV9iQoB5l) | [The Preacher \(Rocco Rodamaal Remix\)](https://open.spotify.com/album/4D8OX6f4dKLNCD6Xht9R0K) | 3:54 | 2025-05-25 | 2026-10-23 |
 | [The Present Is Always Perfect](https://open.spotify.com/track/7pIk4T4cvai7jApJKQ6M1Y) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Open](https://open.spotify.com/album/14LybCLgQLN86HTfDKK8rQ) | 3:43 | 2025-06-05 | 2026-09-11 |
 | [The Rabbit Hole \- Radio Edit](https://open.spotify.com/track/0aTQfc26cIPHsnctMuF2Y5) | [Ross Couch](https://open.spotify.com/artist/6n9tw6ZtS39CELDQAKvanX) | [The Rabbit Hole](https://open.spotify.com/album/4ijsCxeTirOVsrnVSDNsHv) | 4:36 | 2024-11-22 | 2025-02-15 |
 | [The Saw That Broke The Camels Back](https://open.spotify.com/track/41z5UyRNqFVmmGheKvgeX5) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [Return The Phavour](https://open.spotify.com/album/0DiTZwkBwEKwYCA1Bc3sIT) | 3:46 | 2025-07-24 |  |

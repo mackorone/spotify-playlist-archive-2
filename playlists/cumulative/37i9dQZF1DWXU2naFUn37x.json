@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Nerissima in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "Frezza in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "7/7",
+        "url": "https://open.spotify.com/album/1we0yt2pmpz84YEIboKAan"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155647,
+      "name": "7/7",
+      "url": "https://open.spotify.com/track/5P39MpRYjtD28Q3xPbK9E2"
+    },
+    {
+      "album": {
         "name": "BIG 5",
         "url": "https://open.spotify.com/album/4Are0mNScwygiibFFK39db"
       },
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 127499,
       "name": "7ELEVEN",
       "url": "https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq"
@@ -12268,7 +12286,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 121730,
       "name": "KILOMETRO ZERO",
       "url": "https://open.spotify.com/track/6wydOq5CrmOMPpyHh8ixQV"
@@ -18490,7 +18508,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 166776,
       "name": "Polo Emporio (feat. Flaco G)",
       "url": "https://open.spotify.com/track/3cYYukrqSD69d5jeCyYG5Y"
@@ -20755,6 +20773,36 @@
     },
     {
       "album": {
+        "name": "LA TAVOLA DELL'UMORE",
+        "url": "https://open.spotify.com/album/1XkRqSwZDuKqaEqDgD4Pra"
+      },
+      "artists": [
+        {
+          "name": "Chris Nolan",
+          "url": "https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Massimo Pericolo",
+          "url": "https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174700,
+      "name": "SECONDI DI RABBIA",
+      "url": "https://open.spotify.com/track/4fBp2Ky7Sp0a2XqjCIcvl5"
+    },
+    {
+      "album": {
         "name": "Seignosse",
         "url": "https://open.spotify.com/album/5TmDheBbiIysuxMl2Qjhfg"
       },
@@ -21934,7 +21982,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 117293,
       "name": "Splinter Cell",
       "url": "https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK"
@@ -22425,6 +22473,44 @@
     },
     {
       "album": {
+        "name": "STUPIDO (feat. Salmo, 18K, Macello, Dani Faiv, Pitta)",
+        "url": "https://open.spotify.com/album/2AxlGwK0dGdC68h6sKDJw7"
+      },
+      "artists": [
+        {
+          "name": "333 Mob",
+          "url": "https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        },
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        },
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Pitta",
+          "url": "https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213248,
+      "name": "STUPIDO (feat. Salmo, 18K, Macello, Dani Faiv, Pitta)",
+      "url": "https://open.spotify.com/track/237MIJpSpjNeApDFloqgwg"
+    },
+    {
+      "album": {
         "name": "STURDY",
         "url": "https://open.spotify.com/album/368Ku2KAei8qwbELqc1Rzl"
       },
@@ -22558,6 +22644,24 @@
       "duration_ms": 139928,
       "name": "SUITE HOTEL",
       "url": "https://open.spotify.com/track/1NRnu8LjiJM3cHcPYy6rs9"
+    },
+    {
+      "album": {
+        "name": "SUL KILO",
+        "url": "https://open.spotify.com/album/0NNqX9oru5jbkAXLymOeU9"
+      },
+      "artists": [
+        {
+          "name": "twentyone21",
+          "url": "https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177314,
+      "name": "SUL KILO",
+      "url": "https://open.spotify.com/track/7q1jcY9S2RQw83wXopl9LB"
     },
     {
       "album": {

@@ -1,29 +1,13 @@
 {
   "description": "This is Rammstein. The essential tracks, all in one playlist.",
-  "num_followers": 1450191,
+  "num_followers": 1450375,
   "original_name": "This Is Rammstein",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAACCp1KM0l6UB1IEQYte5Af/",
+  "snapshot_id": "atavAAAAAAD55mZUEA1diMDvvYwdXjkj",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Armee der Tristen (Live in Mexico City)",
-        "url": "https://open.spotify.com/album/1BHeq5pwI07VXTSD0c5SFv"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 289118,
-      "name": "Armee der Tristen - Live in Mexico City",
-      "url": "https://open.spotify.com/track/5lbqrStwpHLLhyaOHZbORO"
-    },
     {
       "added_at": null,
       "album": {
@@ -807,6 +791,22 @@
       "duration_ms": 235360,
       "name": "Wo bist du",
       "url": "https://open.spotify.com/track/2mZ7SXzf5mZkohPfDFIUET"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zeit",
+        "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 321686,
+      "name": "Zeit",
+      "url": "https://open.spotify.com/track/2KsHzM4L7ThhNJB6MHXkPx"
     }
   ],
   "unique_name": "This Is Rammstein",

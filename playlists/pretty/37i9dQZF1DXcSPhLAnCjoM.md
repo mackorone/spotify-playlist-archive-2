@@ -2,38 +2,38 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Été avec toi" d'Adèle Castillon est le Grand Hit de la semaine.
+> "Sur la piste" d'Eva est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,290 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,204 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 |
-| 2 | [Le Petit Pêcheur](https://open.spotify.com/track/7LBYUp2QeFNjNmfncY4DHU) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Le Petit Pêcheur](https://open.spotify.com/album/1jjbImjSR9gTjqmbjTA4OB) | 2:09 |
+| 1 | [Sur la piste](https://open.spotify.com/track/4bcuCoIXefyjaHK3TDe6k3) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Sur la piste](https://open.spotify.com/album/16vXhWhUZhSLmRDuljs5ui) | 2:52 |
+| 2 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 |
 | 3 | [Chaussures Roses](https://open.spotify.com/track/4cLspfLk7lebgQMDoZgSKD) | [TeddyBear](https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu) | [Chaussures Roses](https://open.spotify.com/album/7BbGTT6BxkSEK9nyIzwi8t) | 3:21 |
-| 4 | [Te rencontrer encore](https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Te rencontrer encore](https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ) | 2:50 |
-| 5 | [Soirée mondaine](https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Soirée mondaine](https://open.spotify.com/album/1N0b0dafqvqymgcper3K2m) | 3:18 |
+| 4 | [Le Petit Pêcheur](https://open.spotify.com/track/7LBYUp2QeFNjNmfncY4DHU) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Le Petit Pêcheur](https://open.spotify.com/album/1jjbImjSR9gTjqmbjTA4OB) | 2:09 |
+| 5 | [Te rencontrer encore](https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Te rencontrer encore](https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ) | 2:50 |
 | 6 | [La lune](https://open.spotify.com/track/4mNIlqifKuEfnf03MIFEOw) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [La lune](https://open.spotify.com/album/7Jb1IPLlgsMbIubX0UqeLf) | 3:28 |
-| 7 | [Sur la piste](https://open.spotify.com/track/4bcuCoIXefyjaHK3TDe6k3) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Sur la piste](https://open.spotify.com/album/16vXhWhUZhSLmRDuljs5ui) | 2:52 |
+| 7 | [Soirée mondaine](https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Soirée mondaine](https://open.spotify.com/album/1N0b0dafqvqymgcper3K2m) | 3:18 |
 | 8 | [Frérot](https://open.spotify.com/track/6aZhAyAkZDl00J7c6o35Qc) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Frérot](https://open.spotify.com/album/6Ma7L5f2hce8QCHaol5V4h) | 2:43 |
 | 9 | [Comme Caroline \(feat\. MC Solaar\)](https://open.spotify.com/track/4EWeDhIeB90lUmgsVKATi2) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Comme Caroline \(feat\. MC Solaar\)](https://open.spotify.com/album/70kgTL1sdlX06MdZ5wa4rq) | 3:05 |
 | 10 | [Juste un peu](https://open.spotify.com/track/7vNKvKNraI2IAooZMMiBzZ) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [EMMA](https://open.spotify.com/artist/0p6woNDdqjwgcl4uLuCX4V) | [Juste un peu](https://open.spotify.com/album/7A3ec7fkFbwyH6jyjPatCJ) | 2:34 |
-| 11 | [Soleil](https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Soleil](https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw) | 2:11 |
-| 12 | [Je pense à vous](https://open.spotify.com/track/0IBFKh0F3jumRYg5nIwsCa) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Je pense à vous](https://open.spotify.com/album/7nYETPT6MTJ1UcIn1x4MFF) | 2:52 |
-| 13 | [Une seule vie](https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Une seule vie](https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ) | 4:05 |
-| 14 | [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 |
-| 15 | [D'or et d'étain](https://open.spotify.com/track/7CcuCgNXUWEAyKhQGwqJzf) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [D'or et d'étain](https://open.spotify.com/album/6uZcxUFKGEVp2S6205r4s4) | 3:16 |
+| 11 | [Égaré](https://open.spotify.com/track/0cfxcc6fEDeafzlO5yNUV4) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [ADRÉNALINE, LA RÉÉDITION](https://open.spotify.com/album/1eOxvVovDuEtlCBDjdte9W) | 2:47 |
+| 12 | [Une seule vie](https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Une seule vie](https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ) | 4:05 |
+| 13 | [Soleil](https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Soleil](https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw) | 2:11 |
+| 14 | [Je pense à vous](https://open.spotify.com/track/0IBFKh0F3jumRYg5nIwsCa) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Je pense à vous](https://open.spotify.com/album/7nYETPT6MTJ1UcIn1x4MFF) | 2:52 |
+| 15 | [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 |
 | 16 | [Virile](https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Millénium](https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot) | 2:38 |
-| 17 | [Jamais](https://open.spotify.com/track/0eldDLympvtBACN1lWAA2s) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Jamais](https://open.spotify.com/album/0IDj2r98eWhp9xWirfb0tL) | 3:06 |
-| 18 | [Picasso](https://open.spotify.com/track/2A1wTYEJZkvph9zbDla67R) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Karma](https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha) | 2:43 |
-| 19 | [La recette](https://open.spotify.com/track/3KJtQJVParlVJopsz3JMnB) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Oxygène](https://open.spotify.com/album/21ykfEipigcGgtUQFRcjkJ) | 3:02 |
-| 20 | [Dis\-moi où \(feat\. OTTA\)](https://open.spotify.com/track/6FNnrwCYdfGwDiO1x76ReL) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i), [OTTA](https://open.spotify.com/artist/4NMvzpqVsDCC0Cte4GTG3d) | [Naufragé](https://open.spotify.com/album/6Tl529HhyHytN5UG1iBCMf) | 2:41 |
-| 21 | [Première fois](https://open.spotify.com/track/6dawBmrwlRk6ZRy04J2VoE) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Il faut que tu saches](https://open.spotify.com/album/7BwLmkpKWQg9CQkJ09xDIp) | 2:40 |
-| 22 | [Escroc](https://open.spotify.com/track/3yYPNVUFRHwVx5Q3HINdO9) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit \(Deluxe\)](https://open.spotify.com/album/4vMwcXo0IBEa0TsGUyw2pn) | 2:56 |
-| 23 | [Cow\-girl moderne](https://open.spotify.com/track/6YhzM0nbo6xOPzpkoEdq6A) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Les Grands Espaces](https://open.spotify.com/album/4QjwSGXRmFijZvXqtXN2Wh) | 2:49 |
-| 24 | [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 |
-| 25 | [Crash](https://open.spotify.com/track/02IIarJdHe8u4n0XcOEzHN) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Crash](https://open.spotify.com/album/20RGe7E8FpGuhkcTLa4LpG) | 2:44 |
-| 26 | [Quand même](https://open.spotify.com/track/4V9V7lUvb6DZFCa3XwJPbc) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Adrénaline](https://open.spotify.com/album/7uBRFkBVpOgW0Uub3qstIK) | 3:13 |
+| 17 | [D'or et d'étain](https://open.spotify.com/track/7CcuCgNXUWEAyKhQGwqJzf) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [D'or et d'étain](https://open.spotify.com/album/6uZcxUFKGEVp2S6205r4s4) | 3:16 |
+| 18 | [Jamais](https://open.spotify.com/track/0eldDLympvtBACN1lWAA2s) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Jamais](https://open.spotify.com/album/0IDj2r98eWhp9xWirfb0tL) | 3:06 |
+| 19 | [Tricheur](https://open.spotify.com/track/1pytJFt4mxfD4sMd6qjj6U) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Tricheur](https://open.spotify.com/album/32ZKihSHtuK9M9ZHJJdqaf) | 2:42 |
+| 20 | [Picasso](https://open.spotify.com/track/2A1wTYEJZkvph9zbDla67R) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Karma](https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha) | 2:43 |
+| 21 | [La recette](https://open.spotify.com/track/3KJtQJVParlVJopsz3JMnB) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Oxygène](https://open.spotify.com/album/21ykfEipigcGgtUQFRcjkJ) | 3:02 |
+| 22 | [Dis\-moi où \(feat\. OTTA\)](https://open.spotify.com/track/6FNnrwCYdfGwDiO1x76ReL) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i), [OTTA](https://open.spotify.com/artist/4NMvzpqVsDCC0Cte4GTG3d) | [Naufragé](https://open.spotify.com/album/6Tl529HhyHytN5UG1iBCMf) | 2:41 |
+| 23 | [Première fois](https://open.spotify.com/track/6dawBmrwlRk6ZRy04J2VoE) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Il faut que tu saches](https://open.spotify.com/album/7BwLmkpKWQg9CQkJ09xDIp) | 2:40 |
+| 24 | [Cow\-girl moderne](https://open.spotify.com/track/6YhzM0nbo6xOPzpkoEdq6A) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Les Grands Espaces](https://open.spotify.com/album/4QjwSGXRmFijZvXqtXN2Wh) | 2:49 |
+| 25 | [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 |
+| 26 | [Crash](https://open.spotify.com/track/02IIarJdHe8u4n0XcOEzHN) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Crash](https://open.spotify.com/album/20RGe7E8FpGuhkcTLa4LpG) | 2:44 |
 | 27 | [À l'imparfaite](https://open.spotify.com/track/0jRLZZLyNGdB4x2fivRfnk) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [C amir²](https://open.spotify.com/album/3aVEfRYRhlqPGRXptmVKya) | 3:15 |
 | 28 | [Ça fait mal](https://open.spotify.com/track/20TU073PqgJ2IcL9rYvhoS) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9) | 3:09 |
 | 29 | [j'me demande](https://open.spotify.com/track/2u0lUrmXGvHO2Eu2A7RFWb) | [Ambre](https://open.spotify.com/artist/28YPWin68aYoxfouVteGYQ) | [j'me demande](https://open.spotify.com/album/6oo1wbYYRmDwQWmMLWKMoP) | 3:08 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 39 | [ça pik un peu quand même](https://open.spotify.com/track/5NYys16a8WwOsNHowqVBPw) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [industry plant](https://open.spotify.com/album/0RdSN1LHK5602mFafwYu4i) | 2:17 |
 | 40 | [Systaime](https://open.spotify.com/track/03P7mOAnyLr6T8uIGGU9Pr) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Systaime](https://open.spotify.com/album/3WPu1zUqJ9nWCsjeIqTe4t) | 2:34 |
 
-Snapshot ID: `AAAAAK4BFz1+Sw65WsGqCBGa62lMYAwv`
+Snapshot ID: `AAAAAArrXh6xmYtMAIT8RxtoA8ANG6PX`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: Langa (Spotify <a href=\"spotify:playlist:37i9dQZF1DXaxwXKCsImRe\">RADAR</a>-artiest)",
+  "description": "Motion & good vibes! Cover: Bokoesam & Yssi SB",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -270,6 +270,28 @@
       "duration_ms": 187906,
       "name": "2 Sugar (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
+    },
+    {
+      "album": {
+        "name": "20 Backshot",
+        "url": "https://open.spotify.com/album/32FUI6C5zKeboWI6Bt2hch"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155253,
+      "name": "20 Backshot",
+      "url": "https://open.spotify.com/track/5R1tJMXJ5Sq0lelx4VOgRI"
     },
     {
       "album": {
@@ -1302,7 +1324,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 114705,
       "name": "alle baddies",
       "url": "https://open.spotify.com/track/2sLGd8jUJGGDTECIBV1LMY"
@@ -3462,7 +3484,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 125400,
       "name": "Ballerina",
       "url": "https://open.spotify.com/track/5cTDO7ZCsNsEVEyA2Kri8m"
@@ -3716,7 +3738,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 202000,
       "name": "BANDZ WILL MAKE HER DANCE",
       "url": "https://open.spotify.com/track/3eZcZEkUBWmPJexuA0lyaW"
@@ -8524,7 +8546,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 107000,
       "name": "Clock It",
       "url": "https://open.spotify.com/track/6HhjFgF2NZcw424Tq6Ox3y"
@@ -9402,7 +9424,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 183720,
       "name": "Cuenta (feat. Meryl & Shay)",
       "url": "https://open.spotify.com/track/1JAigfQReciQ8yK8XikLEr"
@@ -12525,6 +12547,32 @@
     },
     {
       "album": {
+        "name": "Ewa Lieffie",
+        "url": "https://open.spotify.com/album/4GQ20hdYUtL0doxTwDlf7G"
+      },
+      "artists": [
+        {
+          "name": "Freddy Moreira",
+          "url": "https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk"
+        },
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95269,
+      "name": "Ewa Lieffie",
+      "url": "https://open.spotify.com/track/4zNlU1NpdaCr2EKjkguBmg"
+    },
+    {
+      "album": {
         "name": "Ewa Safi",
         "url": "https://open.spotify.com/album/1hTb4919oA7x9I0JZCDJuE"
       },
@@ -13828,7 +13876,7 @@
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 168751,
       "name": "Freak In The Weekend",
       "url": "https://open.spotify.com/track/6cbstES4Jf6WMG15WfNiIx"
@@ -14338,6 +14386,28 @@
       "duration_ms": 156521,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/5sg4Ah65gbAtZGlR2ScD3c"
+    },
+    {
+      "album": {
+        "name": "Gass",
+        "url": "https://open.spotify.com/album/5xGITN3knqgPZxiwfjJ7d3"
+      },
+      "artists": [
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        },
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169103,
+      "name": "Gass",
+      "url": "https://open.spotify.com/track/5ZgPegQQqZquH6KZDCk8PG"
     },
     {
       "album": {
@@ -15190,6 +15260,28 @@
       "duration_ms": 174545,
       "name": "Gobe",
       "url": "https://open.spotify.com/track/3FOkzNjrTsMePdCdqoxytk"
+    },
+    {
+      "album": {
+        "name": "ZUKO!",
+        "url": "https://open.spotify.com/album/7ALh95O2ioQV7a3sW4L2CG"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171436,
+      "name": "GODDESS (feat. Lojay)",
+      "url": "https://open.spotify.com/track/4ztxrSwzvR854L7ycpuWEM"
     },
     {
       "album": {
@@ -17797,6 +17889,24 @@
     },
     {
       "album": {
+        "name": "Ik wil je zien",
+        "url": "https://open.spotify.com/album/6HzloqAyAV2NxiEzawVTsR"
+      },
+      "artists": [
+        {
+          "name": "Chavant\u00e9",
+          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133124,
+      "name": "Ik wil je zien",
+      "url": "https://open.spotify.com/track/5q6tO0ZKm9YlbLhY5cYkQa"
+    },
+    {
+      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -18198,6 +18308,28 @@
       "duration_ms": 115882,
       "name": "Injection",
       "url": "https://open.spotify.com/track/4EhwyIJlWvLsQ09JccCHPt"
+    },
+    {
+      "album": {
+        "name": "Inna Bush",
+        "url": "https://open.spotify.com/album/44ixZB28AB31BmIRfNJ1TL"
+      },
+      "artists": [
+        {
+          "name": "Alex Sargo",
+          "url": "https://open.spotify.com/artist/2rzmi9GgvLsfDZwMLRkNEG"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157400,
+      "name": "Inna Bush",
+      "url": "https://open.spotify.com/track/0IqNC1jtlK0uOwWICI7X7m"
     },
     {
       "album": {
@@ -30488,7 +30620,7 @@
       ],
       "date_added": "2026-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 308000,
       "name": "Pon Time Again - BadBox Club Remix",
       "url": "https://open.spotify.com/track/1MwIefbdmBlZgvc4Zh9jCp"
@@ -34606,6 +34738,32 @@
       "duration_ms": 141230,
       "name": "Spanje",
       "url": "https://open.spotify.com/track/5pFxWvLViHHkKBFiln1vij"
+    },
+    {
+      "album": {
+        "name": "Spatten",
+        "url": "https://open.spotify.com/album/32HkFzfou6iq5XORNIjcaY"
+      },
+      "artists": [
+        {
+          "name": "Stanga",
+          "url": "https://open.spotify.com/artist/6cnlzMlMZJtZMKROe8wNwZ"
+        },
+        {
+          "name": "Brasco",
+          "url": "https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr"
+        },
+        {
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218947,
+      "name": "Spatten",
+      "url": "https://open.spotify.com/track/6WnupeOsxcxyxwCLWtc24Z"
     },
     {
       "album": {
@@ -39242,7 +39400,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 184186,
       "name": "VIVE LA MONNAIE",
       "url": "https://open.spotify.com/track/1wNmBZcYBdIf3Dp6P96Vn8"
@@ -41892,6 +42050,24 @@
       "duration_ms": 173538,
       "name": "Zet Je Goed",
       "url": "https://open.spotify.com/track/2KEZIZyGqQPWGwy3Smg4ax"
+    },
+    {
+      "album": {
+        "name": "Qlassiek",
+        "url": "https://open.spotify.com/album/5JgmudoP2UJkXBLtFtUoxt"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Zij Kent",
+      "url": "https://open.spotify.com/track/1UtIN1u14nYKN7QpCecJVV"
     },
     {
       "album": {

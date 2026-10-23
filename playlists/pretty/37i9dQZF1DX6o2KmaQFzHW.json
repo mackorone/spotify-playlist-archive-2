@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del folklore nacional \ud83d\udcf8  Sele Vera.",
-  "num_followers": 252917,
+  "num_followers": 252948,
   "original_name": "FOLKLORE ARGENTINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJSgKj4znU/hjVHp2Hgkbj/mIucx",
+  "snapshot_id": "AAAAADLxaM3kFeVunHyYZ2F3LMsuHdHl",
   "tracks": [
     {
       "added_at": "2026-08-21 18:28:36",
@@ -39,6 +39,22 @@
       "duration_ms": 258826,
       "name": "La Noche Sin T\u00ed",
       "url": "https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5"
+    },
+    {
+      "added_at": "2026-10-23 03:00:45",
+      "album": {
+        "name": "Vale la pena",
+        "url": "https://open.spotify.com/album/3KRj2HhWqOaVWtiJcAQEqC"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 236387,
+      "name": "Vale la pena",
+      "url": "https://open.spotify.com/track/50OsSFQ77Uw7mXS5IBgCwk"
     },
     {
       "added_at": "2026-08-21 18:28:36",
@@ -139,6 +155,26 @@
       "duration_ms": 180760,
       "name": "La Tale\u00f1ita",
       "url": "https://open.spotify.com/track/4WNLvcC5EbYYCVKFCFvNU7"
+    },
+    {
+      "added_at": "2026-10-23 03:00:45",
+      "album": {
+        "name": "Parte del Cielo",
+        "url": "https://open.spotify.com/album/64rz8OGAoNmVE9ZTsZyTgK"
+      },
+      "artists": [
+        {
+          "name": "Noelia Santander",
+          "url": "https://open.spotify.com/artist/1oD6JTE5cD6H4776HOHRCH"
+        },
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "Parte del Cielo",
+      "url": "https://open.spotify.com/track/12gxcvpCjxzE2UBetra3cx"
     },
     {
       "added_at": "2026-08-21 18:28:36",

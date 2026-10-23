@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18647,
+  "num_followers": 18648,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "atVdgAAAAACv4hHHX6MN+U4YdepORPa/",
+  "snapshot_id": "atavAAAAAAB/jmuu8cJfSZ5l6U3zl68P",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 291733,
-      "name": "Your Father Would Be Proud",
-      "url": "https://open.spotify.com/track/7FFvU6Jr6sRdbP36UFBwim"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 213240,
       "name": "Carl Goes Up",
       "url": "https://open.spotify.com/track/42ZSOGIZ8AuQBFgyyicone"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 291733,
+      "name": "Your Father Would Be Proud",
+      "url": "https://open.spotify.com/track/7FFvU6Jr6sRdbP36UFBwim"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toy Story of Terror!",
+        "url": "https://open.spotify.com/album/4L6pTViOcuDnXHhpOrq9yf"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 44893,
+      "name": "The Suspension Is Killing Me",
+      "url": "https://open.spotify.com/track/4pb4UbeCqZx6lkdIsgmds4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Batman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toy Story of Terror!",
-        "url": "https://open.spotify.com/album/4L6pTViOcuDnXHhpOrq9yf"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 44893,
-      "name": "The Suspension Is Killing Me",
-      "url": "https://open.spotify.com/track/4pb4UbeCqZx6lkdIsgmds4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Star Trek Into Darkness (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Catwoman",
-      "url": "https://open.spotify.com/track/3Bd12fCAzf7NQHCtb3p2Si"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 255296,
       "name": "Exit Through the Lobby - from \"Spider-Man: No Way Home\" Soundtrack",
       "url": "https://open.spotify.com/track/5CIOy79Y5MmXeInEiVikRC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Catwoman",
+      "url": "https://open.spotify.com/track/3Bd12fCAzf7NQHCtb3p2Si"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 105746,
-      "name": "Funeral and Far Between",
-      "url": "https://open.spotify.com/track/2jVjwsysanjVbkuqu0LN6w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
       },
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
       },
       "artists": [
         {
@@ -648,25 +632,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 91680,
-      "name": "Peter Parker Picked a Perilously Precarious Profession - from \"Spider-Man: No Way Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/6hmyPabB1GtXrdM5ZM9gNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Star Trek (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 61160,
-      "name": "Star Trek",
-      "url": "https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu"
+      "duration_ms": 105746,
+      "name": "Funeral and Far Between",
+      "url": "https://open.spotify.com/track/2jVjwsysanjVbkuqu0LN6w"
     },
     {
       "added_at": null,
@@ -687,6 +655,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Star Trek (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 61160,
+      "name": "Star Trek",
+      "url": "https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 91680,
+      "name": "Peter Parker Picked a Perilously Precarious Profession - from \"Spider-Man: No Way Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/6hmyPabB1GtXrdM5ZM9gNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost: The Final Season (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4FseEgQujXndeaemvnuF7y"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 474506,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/0DNhUQCTDdAtuvxZXQ6krk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Incredibles (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 119280,
-      "name": "Off to Work",
-      "url": "https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP"
     },
     {
       "added_at": null,
@@ -735,38 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Trek Into Darkness (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 144720,
-      "name": "Sub Prime Directive",
-      "url": "https://open.spotify.com/track/0vgkEeiULt4ow0B4zjKkfI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cars 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 354080,
-      "name": "It's Finn McMissile! - From \"Cars 2\"/Score",
-      "url": "https://open.spotify.com/track/2iiOa1urBDqoKwjCLkIiG5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost: Season 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4HnYTgnefUufJTvBfOr6fZ"
       },
@@ -783,6 +735,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Incredibles (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 119280,
+      "name": "Off to Work",
+      "url": "https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Trek Into Darkness (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "Sub Prime Directive",
+      "url": "https://open.spotify.com/track/0vgkEeiULt4ow0B4zjKkfI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inside Out (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 260360,
       "name": "Nomanisone Island/National Movers",
       "url": "https://open.spotify.com/track/2R3R3dayan27EEINL55jNd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cars 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 354080,
+      "name": "It's Finn McMissile! - From \"Cars 2\"/Score",
+      "url": "https://open.spotify.com/track/2iiOa1urBDqoKwjCLkIiG5"
     },
     {
       "added_at": null,

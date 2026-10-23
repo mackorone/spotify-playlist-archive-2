@@ -1,13 +1,173 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Jessie Mazin",
-  "num_followers": 219465,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Isabel Dumaa",
+  "num_followers": 219475,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJxlUuM0osMeEk2BFTAdwGHyugMP",
+  "snapshot_id": "AAAAAO45JZHsWafz/NKG3gRfFMQlsGCH",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/0CswrY6F5nD2GCDZwOJ60T"
+      },
+      "artists": [
+        {
+          "name": "Isabel Dumaa",
+          "url": "https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv"
+        }
+      ],
+      "duration_ms": 250319,
+      "name": "Don\u2019t Stop Trying To Love Me",
+      "url": "https://open.spotify.com/track/7rnIrXzCRFNUnJtwCyPRsn"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "1.3",
+        "url": "https://open.spotify.com/album/5OkDMU2CQyUs2T26CkkDMy"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Haven\u2019t Said Many I Love You\u2019s Yet",
+      "url": "https://open.spotify.com/track/0xcHxDudApcS1z74ZYy3Gx"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "guilty conscience",
+        "url": "https://open.spotify.com/album/5FkDGe9NbBH4EeMsfBylBb"
+      },
+      "artists": [
+        {
+          "name": "Savanna Leigh",
+          "url": "https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "guilty conscience",
+      "url": "https://open.spotify.com/track/5Nn97O6u3DXa7JXeraF1ui"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "What we want and need from love",
+        "url": "https://open.spotify.com/album/6vr03B0AIqHXL597wAroV2"
+      },
+      "artists": [
+        {
+          "name": "Mila Bea",
+          "url": "https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm"
+        }
+      ],
+      "duration_ms": 253590,
+      "name": "What we want and need from love",
+      "url": "https://open.spotify.com/track/6KoBqazoogdxoa2fs42ktF"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "Are You Up Yet?",
+        "url": "https://open.spotify.com/album/0S7B7dn81lfZQKCduaEKC8"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Gallagher",
+          "url": "https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD"
+        }
+      ],
+      "duration_ms": 193408,
+      "name": "Are You Up Yet?",
+      "url": "https://open.spotify.com/track/3G7OZskk8yC1tw4vO5ces7"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "From My Side",
+        "url": "https://open.spotify.com/album/5vmJ1xWkA9gU8IBSn6gAck"
+      },
+      "artists": [
+        {
+          "name": "Karly Bowman",
+          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/0PuPIQIsX4RfzWJWjuBtRg"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "I Love You, or Whatever",
+        "url": "https://open.spotify.com/album/5HPRb2tueCP2qFJFbRLHPc"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "Hate Her Enough",
+      "url": "https://open.spotify.com/track/0oHC9pm1PuEglAIuSByBFD"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "God Forbid a Girl Gets Used To This",
+        "url": "https://open.spotify.com/album/0i44xpup3y135PLPN32jSL"
+      },
+      "artists": [
+        {
+          "name": "Emily Bear",
+          "url": "https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk"
+        }
+      ],
+      "duration_ms": 244381,
+      "name": "God Forbid a Girl Gets Used To This",
+      "url": "https://open.spotify.com/track/3T2het8iwxr3jwK2JpAyfX"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "The Cost Of Loving",
+        "url": "https://open.spotify.com/album/1HE3nq1Qwyan1ZHIdHCBPH"
+      },
+      "artists": [
+        {
+          "name": "Bradley Marshall",
+          "url": "https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "The Cost Of Loving",
+      "url": "https://open.spotify.com/track/7h3jvBrNLSEXvPpqFWXvi9"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "Shipwrecked",
+        "url": "https://open.spotify.com/album/64kuUoeQLBnDHWjxUFEwdh"
+      },
+      "artists": [
+        {
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Shipwrecked",
+      "url": "https://open.spotify.com/track/5geDH5qB7P6lT5VJwkcJLa"
+    },
     {
       "added_at": "2026-09-25 04:02:41",
       "album": {
@@ -23,6 +183,22 @@
       "duration_ms": 166276,
       "name": "love, make me a believer",
       "url": "https://open.spotify.com/track/0zU5b6zRZZk4l8FVimCtcu"
+    },
+    {
+      "added_at": "2026-10-23 04:02:28",
+      "album": {
+        "name": "Scared to Be in Love",
+        "url": "https://open.spotify.com/album/3fpPlCHqzbj1WCjeIbvJW2"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "Scared to Be in Love",
+      "url": "https://open.spotify.com/track/5KdKBH6qZLEF8TE5CFHhqr"
     },
     {
       "added_at": "2026-10-16 04:01:37",
@@ -71,22 +247,6 @@
       "duration_ms": 171066,
       "name": "stick around",
       "url": "https://open.spotify.com/track/6IlTd37lZeRsz4rSQ02PPv"
-    },
-    {
-      "added_at": "2026-10-16 04:01:37",
-      "album": {
-        "name": "I Love You, or Whatever",
-        "url": "https://open.spotify.com/album/5HPRb2tueCP2qFJFbRLHPc"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "Glad You're Happy",
-      "url": "https://open.spotify.com/track/0P8aTiBuqNTtqxgLGv8XhM"
     },
     {
       "added_at": "2026-10-09 19:51:23",
@@ -237,22 +397,6 @@
       "url": "https://open.spotify.com/track/2YeBTRYPC4bh9Nsr51IVii"
     },
     {
-      "added_at": "2026-10-09 19:51:23",
-      "album": {
-        "name": "Be My Home",
-        "url": "https://open.spotify.com/album/0Wp9ZgwTj6VvYO9eCx6bMh"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/38rAJOuFC1fBHislB0Lm8c"
-        }
-      ],
-      "duration_ms": 349830,
-      "name": "Be My Home",
-      "url": "https://open.spotify.com/track/6BsOKKIkRN2O22fvyoFklh"
-    },
-    {
       "added_at": "2026-09-25 04:02:41",
       "album": {
         "name": "Orange Colored Evenings",
@@ -271,22 +415,6 @@
     {
       "added_at": "2026-09-25 04:02:41",
       "album": {
-        "name": "Sherry Wine",
-        "url": "https://open.spotify.com/album/3VAZyVBmMCL77esrLijBkL"
-      },
-      "artists": [
-        {
-          "name": "Whitney Whitney",
-          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "Sherry Wine",
-      "url": "https://open.spotify.com/track/37BMnmcnLT63VCbAdCL307"
-    },
-    {
-      "added_at": "2026-09-25 04:02:41",
-      "album": {
         "name": "Always The Same",
         "url": "https://open.spotify.com/album/0UQd6myReEV9LZ5NcT1lJW"
       },
@@ -299,22 +427,6 @@
       "duration_ms": 201000,
       "name": "Always The Same",
       "url": "https://open.spotify.com/track/5RZomQGckBcXSH8lsKBhqD"
-    },
-    {
-      "added_at": "2026-09-25 04:02:41",
-      "album": {
-        "name": "Carbon Copy",
-        "url": "https://open.spotify.com/album/2yqzIiVXUMxFl95z4jGc8u"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 167925,
-      "name": "Carbon Copy",
-      "url": "https://open.spotify.com/track/5RUg2cdiMIj4NLjIfsMmn6"
     },
     {
       "added_at": "2026-09-04 04:02:29",
@@ -429,22 +541,6 @@
       "url": "https://open.spotify.com/track/35YsfwRJ3rC5atc0RZE8HV"
     },
     {
-      "added_at": "2026-08-28 04:03:00",
-      "album": {
-        "name": "weird feeling",
-        "url": "https://open.spotify.com/album/29vu2j5NvtQOErNhMGi2Kk"
-      },
-      "artists": [
-        {
-          "name": "Savanna Leigh",
-          "url": "https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt"
-        }
-      ],
-      "duration_ms": 229046,
-      "name": "weird feeling",
-      "url": "https://open.spotify.com/track/5q0vOrLH8fbfTYn28vwzAh"
-    },
-    {
       "added_at": "2026-08-28 05:12:42",
       "album": {
         "name": "Guilty",
@@ -539,22 +635,6 @@
       "duration_ms": 192845,
       "name": "Into the Ground",
       "url": "https://open.spotify.com/track/7qS4cZTYXHyqwJn8omn2lR"
-    },
-    {
-      "added_at": "2026-08-07 05:20:14",
-      "album": {
-        "name": "Sadder Days",
-        "url": "https://open.spotify.com/album/0O12fFnmOEBZ8HzcJV1PhZ"
-      },
-      "artists": [
-        {
-          "name": "Ruby Plume",
-          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Sadder Days",
-      "url": "https://open.spotify.com/track/6D0DwLJ40RzSyhRuuR4fSX"
     },
     {
       "added_at": "2026-08-07 05:20:14",
@@ -687,22 +767,6 @@
       "duration_ms": 201054,
       "name": "bathroom stalls",
       "url": "https://open.spotify.com/track/2dwUj2I1aek40MbhJgYz3v"
-    },
-    {
-      "added_at": "2026-07-24 04:02:41",
-      "album": {
-        "name": "i've missed you longer",
-        "url": "https://open.spotify.com/album/4CkB0GvNIsUJKtmhMtLTjd"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 199354,
-      "name": "i've missed you longer",
-      "url": "https://open.spotify.com/track/7EqfOy9UoftDjltyjjN6Wj"
     },
     {
       "added_at": "2026-08-07 05:20:14",
@@ -1091,22 +1155,6 @@
     {
       "added_at": "2026-06-05 04:01:05",
       "album": {
-        "name": "you're still mine",
-        "url": "https://open.spotify.com/album/1Yi6MsmowUiIXffPDCsK9D"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "you're still mine",
-      "url": "https://open.spotify.com/track/4E7hZdPtD5BEB1XdyS9dDl"
-    },
-    {
-      "added_at": "2026-06-05 04:01:05",
-      "album": {
         "name": "Satisfied Girl",
         "url": "https://open.spotify.com/album/1HeDYeHN3FHp7ilKKxEpYP"
       },
@@ -1119,22 +1167,6 @@
       "duration_ms": 211184,
       "name": "Undiscovered",
       "url": "https://open.spotify.com/track/6KZNvMmJA40X5IdEywrV0W"
-    },
-    {
-      "added_at": "2026-06-16 12:21:12",
-      "album": {
-        "name": "My Baby Loves Me for Free (demo)",
-        "url": "https://open.spotify.com/album/7pn4oUMpRiHNvVPc9b6cBd"
-      },
-      "artists": [
-        {
-          "name": "Tadhg Nolan",
-          "url": "https://open.spotify.com/artist/4yUZ8bF7Zu3tkUoUmLiI6B"
-        }
-      ],
-      "duration_ms": 121544,
-      "name": "My Baby Loves Me For Free - demo",
-      "url": "https://open.spotify.com/track/2QNhVsgY7qQ2yEu4lkhgAv"
     },
     {
       "added_at": "2026-06-19 04:00:32",
@@ -1167,134 +1199,6 @@
       "duration_ms": 178262,
       "name": "Favorite Things",
       "url": "https://open.spotify.com/track/641lcPWbNcmdnshN4RWp6D"
-    },
-    {
-      "added_at": "2026-06-05 04:01:05",
-      "album": {
-        "name": "hate 2 hate u",
-        "url": "https://open.spotify.com/album/322qPfO5WjnNYmgpDcMtes"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Bee",
-          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "hate 2 hate u",
-      "url": "https://open.spotify.com/track/2xkRBMlUc4Hxy1kHFfdrWd"
-    },
-    {
-      "added_at": "2026-06-05 04:01:05",
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/5CJ5lgjlSEVTrcbgLBDSKE"
-      },
-      "artists": [
-        {
-          "name": "Alex Sampson",
-          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
-        }
-      ],
-      "duration_ms": 180347,
-      "name": "Thank You For Loving Me",
-      "url": "https://open.spotify.com/track/3N7cmRE1ZUKfp4ZmMVJuuc"
-    },
-    {
-      "added_at": "2026-05-26 19:15:06",
-      "album": {
-        "name": "Good Ones",
-        "url": "https://open.spotify.com/album/1RK7afQN4wTu90lEqbVDou"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Good Ones",
-      "url": "https://open.spotify.com/track/5AuqGkHqaX9qdn9aZlvBUb"
-    },
-    {
-      "added_at": "2026-05-22 04:49:40",
-      "album": {
-        "name": "Songs I Wrote Since She Left",
-        "url": "https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP"
-      },
-      "artists": [
-        {
-          "name": "GRESLEY",
-          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
-        }
-      ],
-      "duration_ms": 205225,
-      "name": "Piece of Your Love",
-      "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
-    },
-    {
-      "added_at": "2026-05-22 04:49:40",
-      "album": {
-        "name": "Nothing Lasts Forever",
-        "url": "https://open.spotify.com/album/5ATBHthIlq9ouTm6NlPsMG"
-      },
-      "artists": [
-        {
-          "name": "Jules Paymer",
-          "url": "https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS"
-        }
-      ],
-      "duration_ms": 236744,
-      "name": "Nothing Lasts Forever",
-      "url": "https://open.spotify.com/track/6YUZYGMzBw8VXmXmeOcxv2"
-    },
-    {
-      "added_at": "2026-04-24 04:00:14",
-      "album": {
-        "name": "Birthday Makeup",
-        "url": "https://open.spotify.com/album/5GEtta9qkKWmoWVZxbsq8t"
-      },
-      "artists": [
-        {
-          "name": "Mulaa Joans",
-          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
-        }
-      ],
-      "duration_ms": 174945,
-      "name": "Birthday Makeup",
-      "url": "https://open.spotify.com/track/3dV2zlpwJBCyQ9saGkBExd"
-    },
-    {
-      "added_at": "2026-04-24 04:00:14",
-      "album": {
-        "name": "Stella",
-        "url": "https://open.spotify.com/album/2NmgZJHvp5AJvFylC4E3Ur"
-      },
-      "artists": [
-        {
-          "name": "Kathryn Gallagher",
-          "url": "https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Stella",
-      "url": "https://open.spotify.com/track/4tunPd5wjImciMBStM3NxL"
-    },
-    {
-      "added_at": "2026-04-17 04:01:18",
-      "album": {
-        "name": "From My Side",
-        "url": "https://open.spotify.com/album/5vmJ1xWkA9gU8IBSn6gAck"
-      },
-      "artists": [
-        {
-          "name": "Karly Bowman",
-          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
-        }
-      ],
-      "duration_ms": 186334,
-      "name": "Next To Me",
-      "url": "https://open.spotify.com/track/2JkJ3ju8snOnciAw7YRC92"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

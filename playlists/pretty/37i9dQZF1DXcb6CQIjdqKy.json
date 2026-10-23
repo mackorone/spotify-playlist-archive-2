@@ -1,13 +1,77 @@
 {
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Tori Kelly & Jamie MacDonald",
-  "num_followers": 1665078,
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Josiah Queen",
+  "num_followers": 1665224,
   "original_name": "Top Christian & Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFuJZPwz7aVLKt8XnX3buAgOdARL",
+  "snapshot_id": "AAAAAM/yY3weMMrccYRS1QvTEmxn1DXH",
   "tracks": [
+    {
+      "added_at": "2026-10-23 04:00:06",
+      "album": {
+        "name": "Damascus Road",
+        "url": "https://open.spotify.com/album/4X7OVZ40bdXlArLiO2PYUY"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 164213,
+      "name": "out of breath",
+      "url": "https://open.spotify.com/track/54REGEH2eXUz959sUIEmwb"
+    },
+    {
+      "added_at": "2026-10-23 04:00:06",
+      "album": {
+        "name": "Soon The Streets Of Gold",
+        "url": "https://open.spotify.com/album/7ufnY8WFPIPW9Jra85UMZa"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 199937,
+      "name": "Heaven Here I Come",
+      "url": "https://open.spotify.com/track/41ZH0iMu6Ix0d5t9bf6Qzm"
+    },
+    {
+      "added_at": "2026-10-09 04:04:30",
+      "album": {
+        "name": "Have You Ever Looked Around And Realized Everything You Ever Wanted Is Right In Front Of Your Eyes",
+        "url": "https://open.spotify.com/album/21Uh4WXwyUosULfM1gqI5L"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "duration_ms": 202149,
+      "name": "Everything You Ever Wanted",
+      "url": "https://open.spotify.com/track/4Ndgwg8fEtOqrWlvqVV1Tj"
+    },
+    {
+      "added_at": "2026-10-09 04:04:30",
+      "album": {
+        "name": "the most beautiful colours",
+        "url": "https://open.spotify.com/album/5DWJBDPWprxOLTlpje2nW9"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 215664,
+      "name": "the most beautiful colours",
+      "url": "https://open.spotify.com/track/3teC9tCB847HFQW2Evh1SW"
+    },
     {
       "added_at": "2026-10-16 04:39:23",
       "album": {
@@ -31,38 +95,6 @@
     {
       "added_at": "2026-10-09 04:04:30",
       "album": {
-        "name": "the most beautiful colours",
-        "url": "https://open.spotify.com/album/5DWJBDPWprxOLTlpje2nW9"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 215664,
-      "name": "the most beautiful colours",
-      "url": "https://open.spotify.com/track/3teC9tCB847HFQW2Evh1SW"
-    },
-    {
-      "added_at": "2026-10-09 04:04:30",
-      "album": {
-        "name": "Have You Ever Looked Around And Realized Everything You Ever Wanted Is Right In Front Of Your Eyes",
-        "url": "https://open.spotify.com/album/21Uh4WXwyUosULfM1gqI5L"
-      },
-      "artists": [
-        {
-          "name": "Abbie Gamboa",
-          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
-        }
-      ],
-      "duration_ms": 202149,
-      "name": "Everything You Ever Wanted",
-      "url": "https://open.spotify.com/track/4Ndgwg8fEtOqrWlvqVV1Tj"
-    },
-    {
-      "added_at": "2026-10-09 04:04:30",
-      "album": {
         "name": "Forever Now",
         "url": "https://open.spotify.com/album/1EGLxrX13pQItu7b9kjASi"
       },
@@ -75,6 +107,22 @@
       "duration_ms": 234400,
       "name": "Beautiful Life",
       "url": "https://open.spotify.com/track/2SEKMZuNE4e3sckh8WUo1K"
+    },
+    {
+      "added_at": "2026-10-23 04:00:06",
+      "album": {
+        "name": "Falls Through",
+        "url": "https://open.spotify.com/album/2SIbZtKQxxQxHWE31EporE"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "duration_ms": 216461,
+      "name": "Falls Through",
+      "url": "https://open.spotify.com/track/0zKCjH1NmnXA3usBmh4Owh"
     },
     {
       "added_at": "2026-10-09 04:04:30",
@@ -225,20 +273,36 @@
       "url": "https://open.spotify.com/track/22Re1fccDxlcAE3wWPWsD5"
     },
     {
-      "added_at": "2026-10-09 04:04:30",
+      "added_at": "2026-10-23 04:00:06",
       "album": {
-        "name": "Mad Big World",
-        "url": "https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4"
+        "name": "Just Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0D41g4dvxr9KFRuxQJm8t3"
       },
       "artists": [
         {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
         }
       ],
-      "duration_ms": 169591,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC"
+      "duration_ms": 208000,
+      "name": "hey God",
+      "url": "https://open.spotify.com/track/6KVagN1ypGvF1obmc9s9Lb"
+    },
+    {
+      "added_at": "2026-10-23 04:00:06",
+      "album": {
+        "name": "MATT CROCKER - in lieu of me (Vol. 2)",
+        "url": "https://open.spotify.com/album/41ANwyjke7x5MtyyK6ZEm1"
+      },
+      "artists": [
+        {
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+        }
+      ],
+      "duration_ms": 379146,
+      "name": "Let There Be Light - in lieu of me",
+      "url": "https://open.spotify.com/track/5X3vJE1gKlTDRIcgHkOAGP"
     },
     {
       "added_at": "2026-10-09 04:04:30",
@@ -255,6 +319,22 @@
       "duration_ms": 179735,
       "name": "Honest To God",
       "url": "https://open.spotify.com/track/7wtjMjxPbKlWikgmTtO6Dt"
+    },
+    {
+      "added_at": "2026-10-09 04:04:30",
+      "album": {
+        "name": "Mad Big World",
+        "url": "https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 169591,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC"
     },
     {
       "added_at": "2026-10-09 04:04:30",
@@ -321,20 +401,20 @@
       "url": "https://open.spotify.com/track/40xGk16dv7qenrTfHLiabe"
     },
     {
-      "added_at": "2026-10-09 04:04:30",
+      "added_at": "2026-10-23 04:00:06",
       "album": {
-        "name": "when I see You",
-        "url": "https://open.spotify.com/album/5fYopqxWxIIVGQ1kOA5FTq"
+        "name": "Thank You For My Whole Life",
+        "url": "https://open.spotify.com/album/6sgOLs6PlF2tk2GH4stsyQ"
       },
       "artists": [
         {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
         }
       ],
-      "duration_ms": 196210,
-      "name": "when I see You",
-      "url": "https://open.spotify.com/track/03KVswSwpG2FvrRHsfzmqs"
+      "duration_ms": 232145,
+      "name": "Thank You For My Whole Life",
+      "url": "https://open.spotify.com/track/4NPP9gTDmgs8mg5roPeQTG"
     },
     {
       "added_at": "2026-10-09 04:04:30",
@@ -387,22 +467,6 @@
       "duration_ms": 192722,
       "name": "Living Miracle",
       "url": "https://open.spotify.com/track/0Hys9jXYn0TuGgw9kQpagc"
-    },
-    {
-      "added_at": "2026-10-09 04:04:30",
-      "album": {
-        "name": "I Won't Forget",
-        "url": "https://open.spotify.com/album/5ucv5DKvRC08C5szcMyoiR"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 235624,
-      "name": "I Won\u2019t Forget",
-      "url": "https://open.spotify.com/track/08080M9ELtAuoUMlFRvD89"
     },
     {
       "added_at": "2026-10-16 04:39:23",
@@ -597,6 +661,22 @@
       "url": "https://open.spotify.com/track/6sBqTPsiudzkESXDpPI6t5"
     },
     {
+      "added_at": "2026-10-23 04:00:06",
+      "album": {
+        "name": "Take It To The Throne",
+        "url": "https://open.spotify.com/album/5932JNQ1Qei0mFe1eMq28j"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "duration_ms": 248592,
+      "name": "Take It To The Throne",
+      "url": "https://open.spotify.com/track/2A5pSLvuyoB0Z7yogdIBDw"
+    },
+    {
       "added_at": "2026-10-09 04:04:30",
       "album": {
         "name": "Tell Somebody",
@@ -675,22 +755,6 @@
       "duration_ms": 190334,
       "name": "Who I Am To You",
       "url": "https://open.spotify.com/track/0m8LZQ4U90ztxmsanrSx9g"
-    },
-    {
-      "added_at": "2026-10-09 04:04:30",
-      "album": {
-        "name": "My Victory's Coming",
-        "url": "https://open.spotify.com/album/7yPY0qyaD1R1uBgGNv74G1"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 207479,
-      "name": "My Victory's Coming",
-      "url": "https://open.spotify.com/track/0q81m7cmZBGikRTv9L1lPD"
     },
     {
       "added_at": "2026-10-09 04:04:30",
@@ -935,30 +999,6 @@
       "duration_ms": 184470,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/4DZ6c0JgnL6HPQ2VTM4JFX"
-    },
-    {
-      "added_at": "2026-10-09 04:04:30",
-      "album": {
-        "name": "EAT",
-        "url": "https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        },
-        {
-          "name": "The New Respects",
-          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
-        }
-      ],
-      "duration_ms": 167254,
-      "name": "Watchmen",
-      "url": "https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ"
     },
     {
       "added_at": "2026-10-09 04:04:30",
@@ -1243,22 +1283,6 @@
       "duration_ms": 231910,
       "name": "The War I\u2019m In",
       "url": "https://open.spotify.com/track/2cQxYwr4sVzWJR7Nq79W3J"
-    },
-    {
-      "added_at": "2026-10-09 04:04:30",
-      "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/08oXopCW2RCdYqNdHiTrit"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 233961,
-      "name": "listening",
-      "url": "https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj"
     },
     {
       "added_at": "2026-10-09 04:04:30",
@@ -1571,22 +1595,6 @@
     {
       "added_at": "2026-10-09 04:04:30",
       "album": {
-        "name": "The Reminder (Deluxe)",
-        "url": "https://open.spotify.com/album/4hKwQol85g8wIeXvrG1Lct"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 262607,
-      "name": "Simply Worthy",
-      "url": "https://open.spotify.com/track/7s5Ws4BYoXLh8M3Bfjis09"
-    },
-    {
-      "added_at": "2026-10-09 04:04:30",
-      "album": {
         "name": "The Resurrection Of A King",
         "url": "https://open.spotify.com/album/4wLFc5K7ODnAYiFD9bXOfK"
       },
@@ -1651,26 +1659,6 @@
       "duration_ms": 235438,
       "name": "How Great Thou Art - Spotify Single",
       "url": "https://open.spotify.com/track/3L9nwP3kwbpf8wkgfmVrdS"
-    },
-    {
-      "added_at": "2026-10-09 04:04:30",
-      "album": {
-        "name": "usher in the spirit",
-        "url": "https://open.spotify.com/album/4SgKrliseSqVRxEFD6INPy"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Tenroc",
-          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "usher in the spirit",
-      "url": "https://open.spotify.com/track/7mbRGvaiD1NCDAIDqErCBT"
     },
     {
       "added_at": "2026-10-09 04:04:30",

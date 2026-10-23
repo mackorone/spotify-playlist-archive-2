@@ -1,13 +1,29 @@
 {
-  "description": "Rock, indie e punk dall'Italia \ud83e\udd41 GIIN in cover ",
-  "num_followers": 83228,
+  "description": "best cover dell'anno super bellissima va ai \ud83c\udf44 Ninos Du Brasil \ud83c\udf44",
+  "num_followers": 83223,
   "original_name": "Rock Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADw3p9C/zQX4dBptayJdBMwrYMnr",
+  "snapshot_id": "AAAAAFTKhPAJP3L4tdI9S9Mv5RjCqIHw",
   "tracks": [
+    {
+      "added_at": "2026-10-22 22:02:39",
+      "album": {
+        "name": "Innaya Som",
+        "url": "https://open.spotify.com/album/67zH42QlkLrTRPsxSpoK1m"
+      },
+      "artists": [
+        {
+          "name": "Ninos Du Brasil",
+          "url": "https://open.spotify.com/artist/2ALx5yXpSTe5aPEF2vLeGa"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Innaya Som",
+      "url": "https://open.spotify.com/track/11eSwCGbpTdb6pszB6LpHy"
+    },
     {
       "added_at": "2026-10-15 22:02:44",
       "album": {
@@ -71,6 +87,22 @@
       "duration_ms": 171480,
       "name": "vou",
       "url": "https://open.spotify.com/track/7lyvCKr8ABKYPJ0nwZItD8"
+    },
+    {
+      "added_at": "2026-10-22 22:02:39",
+      "album": {
+        "name": "Nascondino",
+        "url": "https://open.spotify.com/album/0Cxs744u0h9OZmYF3efgzy"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Nascondino",
+      "url": "https://open.spotify.com/track/47JQBPpkrhKmiaW26zgJRq"
     },
     {
       "added_at": "2026-10-15 22:02:44",
@@ -141,6 +173,22 @@
       "url": "https://open.spotify.com/track/6AEquNwb03Q2E8qn0hL2Fy"
     },
     {
+      "added_at": "2026-10-22 22:02:39",
+      "album": {
+        "name": "Caro Mondo Crudele (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/338hc7RUne8LIdUFUnhMsC"
+      },
+      "artists": [
+        {
+          "name": "Giancane",
+          "url": "https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B"
+        }
+      ],
+      "duration_ms": 175405,
+      "name": "La Notte - CMC Version",
+      "url": "https://open.spotify.com/track/5ZJVtmqa2MsXOt0hEObCHY"
+    },
+    {
       "added_at": "2026-10-15 22:02:44",
       "album": {
         "name": "Legno",
@@ -203,6 +251,26 @@
       "duration_ms": 110900,
       "name": "Sissignora",
       "url": "https://open.spotify.com/track/615GIK16FPpeHLvL2qsGqR"
+    },
+    {
+      "added_at": "2026-10-22 22:02:39",
+      "album": {
+        "name": "Unghie",
+        "url": "https://open.spotify.com/album/3HSAcUPPgtuoT6PRfqJf8u"
+      },
+      "artists": [
+        {
+          "name": "Cosmetic",
+          "url": "https://open.spotify.com/artist/4C6fXZ7soCX4ycsXguZ1zE"
+        },
+        {
+          "name": "Quercia",
+          "url": "https://open.spotify.com/artist/5AQAAs2emLmGYAd8UuNmbK"
+        }
+      ],
+      "duration_ms": 233956,
+      "name": "Unghie",
+      "url": "https://open.spotify.com/track/3PgHmWQk9etwa1x0hzjpxO"
     },
     {
       "added_at": "2026-10-15 22:02:44",
@@ -269,6 +337,38 @@
       "url": "https://open.spotify.com/track/6m7BgDocZEWq9aP6qcqwN2"
     },
     {
+      "added_at": "2026-10-22 22:02:39",
+      "album": {
+        "name": "Chi volevi diventare",
+        "url": "https://open.spotify.com/album/5awjgxwsokMUZvkwjZObxU"
+      },
+      "artists": [
+        {
+          "name": "OHLE",
+          "url": "https://open.spotify.com/artist/12A4W5q1khtGgkt8z69rIC"
+        }
+      ],
+      "duration_ms": 310002,
+      "name": "Chi volevi diventare",
+      "url": "https://open.spotify.com/track/2V94R2WvLrzNJaY3NAO3iV"
+    },
+    {
+      "added_at": "2026-10-22 22:02:39",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/2sMqRwZhftmftbrkaaWQwP"
+      },
+      "artists": [
+        {
+          "name": "Novanta",
+          "url": "https://open.spotify.com/artist/4R7cSzZwMv7sXEuf7kq61Z"
+        }
+      ],
+      "duration_ms": 270863,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/6e8wJnffAcE14aoWGlGCjA"
+    },
+    {
       "added_at": "2026-10-15 22:02:44",
       "album": {
         "name": "Da Non Ascoltare",
@@ -331,6 +431,58 @@
       "duration_ms": 117581,
       "name": "Spiccio",
       "url": "https://open.spotify.com/track/6Ddots1x5MAnnXvXq7eCJG"
+    },
+    {
+      "added_at": "2026-10-22 22:02:39",
+      "album": {
+        "name": "FUCK, MARRY, DIE",
+        "url": "https://open.spotify.com/album/5O9pfUZp1OOx6LGCo5SNHd"
+      },
+      "artists": [
+        {
+          "name": "Gloria Tricamo",
+          "url": "https://open.spotify.com/artist/58lKFq1ZTU6IH6NWkmObn0"
+        }
+      ],
+      "duration_ms": 166280,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/7vRjQiKm38MfavaZm6Polx"
+    },
+    {
+      "added_at": "2026-10-22 22:02:39",
+      "album": {
+        "name": "Muri",
+        "url": "https://open.spotify.com/album/52waBbPFv01r6bTXSFZQfe"
+      },
+      "artists": [
+        {
+          "name": "Monteluna",
+          "url": "https://open.spotify.com/artist/6HWN4ZzmkY3LjJwqS4CFRb"
+        }
+      ],
+      "duration_ms": 141916,
+      "name": "Crocetta",
+      "url": "https://open.spotify.com/track/6vuXYFYdZy6OiWqocfvkb9"
+    },
+    {
+      "added_at": "2026-10-22 22:02:39",
+      "album": {
+        "name": "Ascendente Aquario",
+        "url": "https://open.spotify.com/album/3xC0tt6ecHxrXSezTLLqAM"
+      },
+      "artists": [
+        {
+          "name": "Altro",
+          "url": "https://open.spotify.com/artist/4ANK4BQnzUEvDqYSm6TLjt"
+        },
+        {
+          "name": "Jacopo Lietti",
+          "url": "https://open.spotify.com/artist/4ZHmLafSzqDkWdbQZmLeAu"
+        }
+      ],
+      "duration_ms": 154686,
+      "name": "Meriti pi\u00f9",
+      "url": "https://open.spotify.com/track/5hcIYks1MwBTV0SFD56yFt"
     },
     {
       "added_at": "2026-10-15 22:02:44",
@@ -655,38 +807,6 @@
     {
       "added_at": "2026-10-15 22:02:44",
       "album": {
-        "name": "get go",
-        "url": "https://open.spotify.com/album/4oF0hOCllVh8ntdtEJgFVK"
-      },
-      "artists": [
-        {
-          "name": "a nice noise",
-          "url": "https://open.spotify.com/artist/0DLoI8l8Q2Pm4iPnk6H6RJ"
-        }
-      ],
-      "duration_ms": 163546,
-      "name": "get go",
-      "url": "https://open.spotify.com/track/2CFiBJsk7XF0uKZWS4vag5"
-    },
-    {
-      "added_at": "2026-10-15 22:02:44",
-      "album": {
-        "name": "Disillusionment",
-        "url": "https://open.spotify.com/album/0Oqsu9U1l4J78aNqOf81Bz"
-      },
-      "artists": [
-        {
-          "name": "Danxgerous",
-          "url": "https://open.spotify.com/artist/0Gt3wzw2zPVUVVAhGkeLuT"
-        }
-      ],
-      "duration_ms": 195680,
-      "name": "Disillusionment",
-      "url": "https://open.spotify.com/track/43vwxsGqUXexL9tFjzOMZw"
-    },
-    {
-      "added_at": "2026-10-15 22:02:44",
-      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/0bv2wwyZQ3qs0SXvasH8mU"
       },
@@ -699,22 +819,6 @@
       "duration_ms": 427746,
       "name": "Elements",
       "url": "https://open.spotify.com/track/69HogXzTdRD4IKNcfirFKH"
-    },
-    {
-      "added_at": "2026-10-15 22:02:44",
-      "album": {
-        "name": "Kings Without a Crown",
-        "url": "https://open.spotify.com/album/64V5SJRei1ljbVCh6AKlul"
-      },
-      "artists": [
-        {
-          "name": "Yuppie Flu",
-          "url": "https://open.spotify.com/artist/1qTOyH1u1IfmKKx8LzF8KW"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "We're real (in Neverland)",
-      "url": "https://open.spotify.com/track/2OKAc68Hzxb973tvDdknKz"
     },
     {
       "added_at": "2026-10-15 22:02:44",
@@ -771,22 +875,6 @@
     {
       "added_at": "2026-10-15 22:02:44",
       "album": {
-        "name": "Unshattered",
-        "url": "https://open.spotify.com/album/0TS0BvaXpGnB5teNhkLNGf"
-      },
-      "artists": [
-        {
-          "name": "Halflives",
-          "url": "https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID"
-        }
-      ],
-      "duration_ms": 196039,
-      "name": "Unshattered",
-      "url": "https://open.spotify.com/track/1bG7QLRyiMVMoAoovh93Ti"
-    },
-    {
-      "added_at": "2026-10-15 22:02:44",
-      "album": {
         "name": "DEJAVU",
         "url": "https://open.spotify.com/album/4OPD15l7VWt44Zd4VeTr45"
       },
@@ -819,38 +907,6 @@
       "duration_ms": 179250,
       "name": "Me x you",
       "url": "https://open.spotify.com/track/5dCujshnqh4kPgsj3TQ6lT"
-    },
-    {
-      "added_at": "2026-10-15 22:02:44",
-      "album": {
-        "name": "What Went Wrong",
-        "url": "https://open.spotify.com/album/2hcwQ1z9FI5QSfs7rtVyTb"
-      },
-      "artists": [
-        {
-          "name": "Threestepstotheocean",
-          "url": "https://open.spotify.com/artist/4gmxGXxgEmGVrEgiFJYGv3"
-        }
-      ],
-      "duration_ms": 256306,
-      "name": "What Went Wrong",
-      "url": "https://open.spotify.com/track/7fmuHqq4rYIl0fr1X7DtWQ"
-    },
-    {
-      "added_at": "2026-10-15 22:02:44",
-      "album": {
-        "name": "My Blood My Dear",
-        "url": "https://open.spotify.com/album/0J4LZVB6a1pjSziKITMjix"
-      },
-      "artists": [
-        {
-          "name": "Novanta",
-          "url": "https://open.spotify.com/artist/4R7cSzZwMv7sXEuf7kq61Z"
-        }
-      ],
-      "duration_ms": 200489,
-      "name": "My Blood My Dear",
-      "url": "https://open.spotify.com/track/6uw3bXVSShURdZFrm9VbjK"
     },
     {
       "added_at": "2026-10-15 22:02:44",
@@ -935,26 +991,6 @@
     {
       "added_at": "2026-10-15 22:02:44",
       "album": {
-        "name": "Black Syrup",
-        "url": "https://open.spotify.com/album/4bLKfQT7mluiTDv1h5RDdM"
-      },
-      "artists": [
-        {
-          "name": "Threestepstotheocean",
-          "url": "https://open.spotify.com/artist/4gmxGXxgEmGVrEgiFJYGv3"
-        },
-        {
-          "name": "Dalila Kayros",
-          "url": "https://open.spotify.com/artist/3KNlPVoadiJ2FDS9w77c2a"
-        }
-      ],
-      "duration_ms": 405613,
-      "name": "Black Syrup",
-      "url": "https://open.spotify.com/track/4o6F6jyKkCVVpVsPhLVtZm"
-    },
-    {
-      "added_at": "2026-10-15 22:02:44",
-      "album": {
         "name": "La mia stella aggressiva si nasconde nelle virgole e nei punti",
         "url": "https://open.spotify.com/album/6UXP2nbjsFsFBqB8dKKlFt"
       },
@@ -967,54 +1003,6 @@
       "duration_ms": 175000,
       "name": "Le tue dita ferme",
       "url": "https://open.spotify.com/track/6Oc19Mr1LOsLpeGijtdWAU"
-    },
-    {
-      "added_at": "2026-10-15 22:02:44",
-      "album": {
-        "name": "Radio Sacramento",
-        "url": "https://open.spotify.com/album/0fMqyqaMjnmk903cmcCDMK"
-      },
-      "artists": [
-        {
-          "name": "Sacramento",
-          "url": "https://open.spotify.com/artist/0ovT4fn9cuMxfhRNGPUzON"
-        }
-      ],
-      "duration_ms": 210864,
-      "name": "Hand in Hand",
-      "url": "https://open.spotify.com/track/0qV6NB26LbSjclEGKCl5o4"
-    },
-    {
-      "added_at": "2026-10-15 22:02:44",
-      "album": {
-        "name": "Valentine's",
-        "url": "https://open.spotify.com/album/4Dy4etCPt96k6oBSEyz8tE"
-      },
-      "artists": [
-        {
-          "name": "Yuma Birch",
-          "url": "https://open.spotify.com/artist/3z7uHEYWbHqGBxoV7OAKfC"
-        }
-      ],
-      "duration_ms": 191007,
-      "name": "Valentine's",
-      "url": "https://open.spotify.com/track/3igolrukTRdK8or0pvm8pN"
-    },
-    {
-      "added_at": "2026-10-15 22:02:44",
-      "album": {
-        "name": "MUFFA",
-        "url": "https://open.spotify.com/album/4DwtAPuy6n4lpwQ6E3CX7Q"
-      },
-      "artists": [
-        {
-          "name": "SAMO\u00a9",
-          "url": "https://open.spotify.com/artist/0BSVkgbK4dZXejRH2dEk9a"
-        }
-      ],
-      "duration_ms": 159954,
-      "name": "Treni",
-      "url": "https://open.spotify.com/track/2CqnINSCOge9ot87BIDTcu"
     },
     {
       "added_at": "2026-10-15 22:02:44",
@@ -1283,22 +1271,6 @@
     {
       "added_at": "2026-10-15 22:02:44",
       "album": {
-        "name": "Roma mi vuoi bene",
-        "url": "https://open.spotify.com/album/4lX67hqIsSGtXpyXnq4snw"
-      },
-      "artists": [
-        {
-          "name": "GIIN",
-          "url": "https://open.spotify.com/artist/5FqDKPJK3RSwGTW4rlBJFM"
-        }
-      ],
-      "duration_ms": 215767,
-      "name": "Roma mi vuoi bene",
-      "url": "https://open.spotify.com/track/0IivL40udxE62iThmodCYU"
-    },
-    {
-      "added_at": "2026-10-15 22:02:44",
-      "album": {
         "name": "Melograno",
         "url": "https://open.spotify.com/album/7q9eKsOPWe6qwZ6Yz9laSv"
       },
@@ -1395,22 +1367,6 @@
       "duration_ms": 191925,
       "name": "Before The Fall",
       "url": "https://open.spotify.com/track/09p23iHIwwU43GLgqtRaZq"
-    },
-    {
-      "added_at": "2026-10-15 22:02:44",
-      "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/0sTIIVznvy35B7s6JrNzA0"
-      },
-      "artists": [
-        {
-          "name": "SPEAKEASY",
-          "url": "https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx"
-        }
-      ],
-      "duration_ms": 191688,
-      "name": "Sostanze",
-      "url": "https://open.spotify.com/track/65ZHdcNilus1K5AfQZXV18"
     },
     {
       "added_at": "2026-10-15 22:02:44",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Lagu-lagu yang wajib ada dalam playlist. Cover: Ammar Haikal",
+  "description": "Lagu-lagu yang wajib ada dalam playlist. Cover: Tulus",
   "name": "Carta Malaysia 50",
   "tracks": [
     {
@@ -908,7 +908,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 189141,
       "name": "Akur",
       "url": "https://open.spotify.com/track/3WAWyf9Kbz0HBuuc7F8mw2"
@@ -4057,6 +4057,24 @@
     },
     {
       "album": {
+        "name": "Cara Aku Berkorban",
+        "url": "https://open.spotify.com/album/26n5R1qXjCnXrw86YSJk8K"
+      },
+      "artists": [
+        {
+          "name": "Reedzwann",
+          "url": "https://open.spotify.com/artist/4w9Ukwue8Yj5zmMGPd1jok"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255060,
+      "name": "Cara Aku Berkorban",
+      "url": "https://open.spotify.com/track/3SFkYURk4nY2fpUvg8oltk"
+    },
+    {
+      "album": {
         "name": "Cari",
         "url": "https://open.spotify.com/album/6WjIcxK3PneU3eze5r2hPP"
       },
@@ -4640,7 +4658,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 166874,
       "name": "Cukup Sampai Sini",
       "url": "https://open.spotify.com/track/71CvlLJmBCzfywvPgmdidC"
@@ -12157,6 +12175,24 @@
     },
     {
       "album": {
+        "name": "Menang",
+        "url": "https://open.spotify.com/album/4B8KHBXkKE9hONK9vGHYEN"
+      },
+      "artists": [
+        {
+          "name": "Mimifly",
+          "url": "https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Menang",
+      "url": "https://open.spotify.com/track/60h143mRVwboZs5IQ4KVkg"
+    },
+    {
+      "album": {
         "name": "Menang Atau Kalah (From \"Skuad X\")",
         "url": "https://open.spotify.com/album/1E59jI874VLS8rVsa9TF5e"
       },
@@ -13801,6 +13837,24 @@
     },
     {
       "album": {
+        "name": "Paling Indah",
+        "url": "https://open.spotify.com/album/68FUdRNCzzW86ZtwKEOiwo"
+      },
+      "artists": [
+        {
+          "name": "Sarah Suhairi",
+          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199127,
+      "name": "Paling Indah",
+      "url": "https://open.spotify.com/track/3GVZtAA6Jn6cBI5E2jhbtT"
+    },
+    {
+      "album": {
         "name": "Pandai Bicara",
         "url": "https://open.spotify.com/album/2M1LHvoFgQQA0gPXX08Gx2"
       },
@@ -14430,6 +14484,24 @@
       "duration_ms": 204473,
       "name": "Pilihan",
       "url": "https://open.spotify.com/track/5r7cUjmlQT0YiXfzFTiRfS"
+    },
+    {
+      "album": {
+        "name": "ATMA",
+        "url": "https://open.spotify.com/album/1A3pNdgvbgIHP4df6f9nnM"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245930,
+      "name": "Pinta",
+      "url": "https://open.spotify.com/track/4px0J9gnerS8ecx1mMYO5G"
     },
     {
       "album": {
@@ -16100,7 +16172,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 278000,
       "name": "Salam Kaut",
       "url": "https://open.spotify.com/track/6g492AA4MDZqgMIf4kgZLY"
@@ -16858,7 +16930,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 205708,
       "name": "Sedikit Lebih Lama",
       "url": "https://open.spotify.com/track/01tIOCXKf5zlXTW34Nm0Tw"
@@ -16894,7 +16966,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-23",
       "duration_ms": 198719,
       "name": "Sejambak Bunga",
       "url": "https://open.spotify.com/track/4CYGBC1ElT0ZiL0tDa4DSJ"
@@ -17836,6 +17908,28 @@
       "duration_ms": 234835,
       "name": "Sesal Tak Bermakna",
       "url": "https://open.spotify.com/track/21QziOU4cWjn1CWavEeSmZ"
+    },
+    {
+      "album": {
+        "name": "Sesi Potret",
+        "url": "https://open.spotify.com/album/25hlG9lEbc2ARvZXY4ZDhv"
+      },
+      "artists": [
+        {
+          "name": "e\u0144au",
+          "url": "https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u"
+        },
+        {
+          "name": "Ari Lesmana",
+          "url": "https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Sesi Potret",
+      "url": "https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G"
     },
     {
       "album": {

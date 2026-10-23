@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebieOeeSXw0.md) - [plain]
 
 > The amazing sounds of the tropics 🌴🥥🥭🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,462 likes - 335 songs - 1 day 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,467 likes - 335 songs - 1 day 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,9 +159,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebieOeeSXw0.md) - [plain]
 | 149 | [Talkin' Talkin'](https://open.spotify.com/track/5HJtrcm1ey4vR1KacKE1bx) | [Matata](https://open.spotify.com/artist/3wM3kzh5jEJwnsCaJIVtwU) | [Feelin' Funky](https://open.spotify.com/album/2k25m9vcKrYhkTcRUYYzQg) | 4:37 |
 | 150 | [Ngyegye No So](https://open.spotify.com/track/66XLPrcE1T4BOFMJXZGXoQ) | [African Brothers Band](https://open.spotify.com/artist/1KGogAXXY37FBZn0hkclNV) | [Afro\-Beat Airways: Ghana & Togo 1974\-1978 \(Analog Africa No\. 8\)](https://open.spotify.com/album/4ogePZ3mtDw3frtBFbkhGZ) | 6:29 |
 | 151 | [La Mentecata](https://open.spotify.com/track/5UgJ50OthYUiX7TBpRdFJn) | [Los Wembler's de Iquitos](https://open.spotify.com/artist/09o5k3t1L2ZxhJBnIERJxT) | [Ikaro del Amor](https://open.spotify.com/album/6Lh7dNpwKlQ64i07eFBbvA) | 7:27 |
-| 152 | [Belew Beduby](https://open.spotify.com/track/306W6rDEttKB2AS8YeIAry) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm) | [Hailu Mergia & His Classical Instrument: Shemonmuanaye](https://open.spotify.com/album/1wqrY1fT3Mwtxfm0wP1dNZ) | 4:25 |
-| 153 | [Mumunde](https://open.spotify.com/track/3EgwFlVYFkyzD76vs0GdUC) | [Apagya Show Band](https://open.spotify.com/artist/0ZbDjPBGTUB5gX5H0OnCHC) | [Afro\-Beat Airways: Ghana & Togo 1974\-1978 \(Analog Africa No\. 8\)](https://open.spotify.com/album/4ogePZ3mtDw3frtBFbkhGZ) | 3:04 |
-| 154 | [La Bestia](https://open.spotify.com/track/6zFY4U2AbpjoF8mlhzzFKe) | [QUITAPENAS](https://open.spotify.com/artist/64NFwIwtxjxfrmg8Fro1HD) | [Ya Veran](https://open.spotify.com/album/5Enfa6tWuVcbTvCyksdQBL) | 5:06 |
+| 152 | [Mumunde](https://open.spotify.com/track/3EgwFlVYFkyzD76vs0GdUC) | [Apagya Show Band](https://open.spotify.com/artist/0ZbDjPBGTUB5gX5H0OnCHC) | [Afro\-Beat Airways: Ghana & Togo 1974\-1978 \(Analog Africa No\. 8\)](https://open.spotify.com/album/4ogePZ3mtDw3frtBFbkhGZ) | 3:04 |
+| 153 | [La Bestia](https://open.spotify.com/track/6zFY4U2AbpjoF8mlhzzFKe) | [QUITAPENAS](https://open.spotify.com/artist/64NFwIwtxjxfrmg8Fro1HD) | [Ya Veran](https://open.spotify.com/album/5Enfa6tWuVcbTvCyksdQBL) | 5:06 |
+| 154 | [Belew Beduby](https://open.spotify.com/track/306W6rDEttKB2AS8YeIAry) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm) | [Hailu Mergia & His Classical Instrument: Shemonmuanaye](https://open.spotify.com/album/1wqrY1fT3Mwtxfm0wP1dNZ) | 4:25 |
 | 155 | [Obsecion](https://open.spotify.com/track/1cqwlpDbxFswOg5Ar4Ohja) | [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [The Last Mambo](https://open.spotify.com/album/15pxNp96HFwWq2FQI8J9Ym) | 12:45 |
 | 156 | [Colibrí](https://open.spotify.com/track/5fKMoJbCV35newQCaGOChk) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Sombras De Oro](https://open.spotify.com/album/4RaT9wHZ3BtLSQaRRVTcmR) | 3:46 |
 | 157 | [El Bicarbonato](https://open.spotify.com/track/1w6k1dCxirHIZxTR7SFsi4) | [Charles King](https://open.spotify.com/artist/3oOresfoyogzToPBpLUWJL) | [Champetas de Mi Pueblo, Vol\. 1](https://open.spotify.com/album/5YX9NaiwLqAxlMsKX9v3US) | 3:53 |

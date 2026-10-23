@@ -1,13 +1,29 @@
 {
-  "description": "next level pop \ud83e\udee7 cover: say now",
-  "num_followers": 197444,
+  "description": "pushing pop forwards <3!! \ncover: kim petras",
+  "num_followers": 197416,
   "original_name": "Evolver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOBtHK7Tkgh/5K3KD/RqhP7KGyaK",
+  "snapshot_id": "AAAAADMgCDWbY8zSr4LnpB0pzK/zSp4u",
   "tracks": [
+    {
+      "added_at": "2026-10-15 23:00:27",
+      "album": {
+        "name": "Detour (Rare N' Deluxe)",
+        "url": "https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 160303,
+      "name": "Rare N' Deluxe",
+      "url": "https://open.spotify.com/track/6xK6JHpASzcEF9zzLx1pI0"
+    },
     {
       "added_at": "2026-10-15 23:00:27",
       "album": {
@@ -23,6 +39,74 @@
       "duration_ms": 191440,
       "name": "Hot & talking",
       "url": "https://open.spotify.com/track/2P9AVxACR93BZDs3l79cfl"
+    },
+    {
+      "added_at": "2026-10-15 23:00:27",
+      "album": {
+        "name": "Club To Your Arms",
+        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 191596,
+      "name": "Club To Your Arms",
+      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
+    },
+    {
+      "added_at": "2026-10-22 23:00:38",
+      "album": {
+        "name": "lalalalala",
+        "url": "https://open.spotify.com/album/1wpB6e4J6uy6XRgEvrM4OB"
+      },
+      "artists": [
+        {
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
+        },
+        {
+          "name": "Lynks",
+          "url": "https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD"
+        }
+      ],
+      "duration_ms": 176253,
+      "name": "lalalalala",
+      "url": "https://open.spotify.com/track/2thc5F5x0tRomE9bIQT8hd"
+    },
+    {
+      "added_at": "2026-10-15 23:00:27",
+      "album": {
+        "name": "2 GIRLS",
+        "url": "https://open.spotify.com/album/3dcrNG6wMjUXrxi59o4p8X"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "duration_ms": 129206,
+      "name": "2 GIRLS",
+      "url": "https://open.spotify.com/track/7wUMNeJha8EZXlJyTvTV60"
+    },
+    {
+      "added_at": "2026-10-22 23:00:38",
+      "album": {
+        "name": "SAVIOUR/FATHER/PRINCE",
+        "url": "https://open.spotify.com/album/3jeGEPOF8ojmq7iQhJM0PK"
+      },
+      "artists": [
+        {
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "SAVIOUR/FATHER/PRINCE",
+      "url": "https://open.spotify.com/track/7chamz6dxAWiTsZW7AWgjx"
     },
     {
       "added_at": "2026-10-15 23:00:27",
@@ -49,6 +133,26 @@
       "url": "https://open.spotify.com/track/5AdL0XU6R5bN6RweaQsCHr"
     },
     {
+      "added_at": "2026-10-22 23:00:38",
+      "album": {
+        "name": "kisses (Ethanplus remix)",
+        "url": "https://open.spotify.com/album/7okdgIY300eC7cDZIsaFhv"
+      },
+      "artists": [
+        {
+          "name": "Coupdekat",
+          "url": "https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0"
+        },
+        {
+          "name": "Ethanplus",
+          "url": "https://open.spotify.com/artist/6BjkYyzfLLbbHn8SBpjh6s"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "kisses (Ethanplus remix)",
+      "url": "https://open.spotify.com/track/4OM7XTHAsCpQ1RtY3ME1us"
+    },
+    {
       "added_at": "2026-10-15 23:00:27",
       "album": {
         "name": "NOSTALGIA",
@@ -73,6 +177,22 @@
       "url": "https://open.spotify.com/track/4jRCHwLDVuHguDMODWwIF7"
     },
     {
+      "added_at": "2026-10-22 23:00:38",
+      "album": {
+        "name": "COBRAH",
+        "url": "https://open.spotify.com/album/04R6IwuwZyNWuBv891vMGv"
+      },
+      "artists": [
+        {
+          "name": "Cobrah",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 185417,
+      "name": "GOOEY FLUID GIRLS",
+      "url": "https://open.spotify.com/track/7mTl24TjsNO5jGjbcbk4xS"
+    },
+    {
       "added_at": "2026-10-15 23:00:27",
       "album": {
         "name": "She\u2019s the Best",
@@ -89,6 +209,90 @@
       "url": "https://open.spotify.com/track/7vXhXO3uyAer5brrrTGkTC"
     },
     {
+      "added_at": "2026-10-22 23:00:38",
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/3lFbZtsQeyRcgBpwBcV5ns"
+      },
+      "artists": [
+        {
+          "name": "Adult Woman",
+          "url": "https://open.spotify.com/artist/7EE9TBEkPAqCMgv3s6Penk"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/1l5VVJ9Jpu0CQLvEgOm2Lc"
+    },
+    {
+      "added_at": "2026-10-15 23:00:27",
+      "album": {
+        "name": "BULLDOZER!!",
+        "url": "https://open.spotify.com/album/0ob10johhogCNiWerZeWkj"
+      },
+      "artists": [
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 210101,
+      "name": "GARGANTUAN!!",
+      "url": "https://open.spotify.com/track/7gCGEmplLzjjV0rG2YbLfZ"
+    },
+    {
+      "added_at": "2026-10-22 23:00:38",
+      "album": {
+        "name": "confidence",
+        "url": "https://open.spotify.com/album/7zwsNisF4SguWWx7NwJQqV"
+      },
+      "artists": [
+        {
+          "name": "girl_irl",
+          "url": "https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "confidence",
+      "url": "https://open.spotify.com/track/5e4nEaalM2d87Zs56wbt8n"
+    },
+    {
+      "added_at": "2026-10-22 23:00:38",
+      "album": {
+        "name": "CRAVE",
+        "url": "https://open.spotify.com/album/1NTxx4EcslkUHBrpvj27GW"
+      },
+      "artists": [
+        {
+          "name": "Meg Stalter",
+          "url": "https://open.spotify.com/artist/2uz4LewowsAwg9k88MRDzG"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "GAY - MUNA Remix",
+      "url": "https://open.spotify.com/track/7HeVrWQJsirlXskgsjRP2s"
+    },
+    {
+      "added_at": "2026-10-22 23:00:38",
+      "album": {
+        "name": "For Me / The Principle",
+        "url": "https://open.spotify.com/album/40qVKGh58oLwUxyViNT0jx"
+      },
+      "artists": [
+        {
+          "name": "iKeda",
+          "url": "https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt"
+        }
+      ],
+      "duration_ms": 202042,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/2gWIeHVzV6NoVcQ8M8oXdD"
+    },
+    {
       "added_at": "2026-10-15 23:00:27",
       "album": {
         "name": "Mantra",
@@ -103,22 +307,6 @@
       "duration_ms": 185330,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/6FRKbLeBePLS0KTZqhVMgR"
-    },
-    {
-      "added_at": "2026-10-15 23:00:27",
-      "album": {
-        "name": "2 GIRLS",
-        "url": "https://open.spotify.com/album/3dcrNG6wMjUXrxi59o4p8X"
-      },
-      "artists": [
-        {
-          "name": "EARTH TO EMILY",
-          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
-        }
-      ],
-      "duration_ms": 129206,
-      "name": "2 GIRLS",
-      "url": "https://open.spotify.com/track/7wUMNeJha8EZXlJyTvTV60"
     },
     {
       "added_at": "2026-10-15 23:00:27",
@@ -187,22 +375,6 @@
     {
       "added_at": "2026-10-15 23:00:27",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 201331,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
-    },
-    {
-      "added_at": "2026-10-15 23:00:27",
-      "album": {
         "name": "BULLSEYE",
         "url": "https://open.spotify.com/album/6cBdLtktEMZP9m3e0jKytE"
       },
@@ -219,18 +391,18 @@
     {
       "added_at": "2026-10-15 23:00:27",
       "album": {
-        "name": "BULLDOZER!!",
-        "url": "https://open.spotify.com/album/0ob10johhogCNiWerZeWkj"
+        "name": "Party",
+        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
       },
       "artists": [
         {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 210101,
-      "name": "GARGANTUAN!!",
-      "url": "https://open.spotify.com/track/7gCGEmplLzjjV0rG2YbLfZ"
+      "duration_ms": 201331,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
     },
     {
       "added_at": "2026-10-15 23:00:27",
@@ -269,20 +441,56 @@
       "url": "https://open.spotify.com/track/0kxVzs9nqmLJoVxic6QlMs"
     },
     {
-      "added_at": "2026-10-15 23:00:27",
+      "added_at": "2026-10-22 23:00:38",
       "album": {
-        "name": "Detour (Rare N' Deluxe)",
-        "url": "https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh"
+        "name": "Innocent",
+        "url": "https://open.spotify.com/album/0xmWPQgtwCCirjuL42f9Zh"
       },
       "artists": [
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Loveday",
+          "url": "https://open.spotify.com/artist/1jshSvQwxlZL9W1FF07pwz"
         }
       ],
-      "duration_ms": 160303,
-      "name": "Rare N' Deluxe",
-      "url": "https://open.spotify.com/track/6xK6JHpASzcEF9zzLx1pI0"
+      "duration_ms": 150752,
+      "name": "Innocent",
+      "url": "https://open.spotify.com/track/7CpaRGBG4FZXJrLl6Ktrvr"
+    },
+    {
+      "added_at": "2026-10-22 23:00:38",
+      "album": {
+        "name": "HISTORY",
+        "url": "https://open.spotify.com/album/3UXLBqcmeadho9ewOdbwwn"
+      },
+      "artists": [
+        {
+          "name": "Andrea Di Giovanni",
+          "url": "https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa"
+        },
+        {
+          "name": "Tiiva",
+          "url": "https://open.spotify.com/artist/7xPH48skEkdWGdzNzZwVKF"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "HISTORY",
+      "url": "https://open.spotify.com/track/7I4IHmxQRONtR34JQF5Pae"
+    },
+    {
+      "added_at": "2026-10-22 23:00:38",
+      "album": {
+        "name": "Wish For Me",
+        "url": "https://open.spotify.com/album/0gALHy8XkzlLDYJGx8oyuZ"
+      },
+      "artists": [
+        {
+          "name": "SMOORIBA",
+          "url": "https://open.spotify.com/artist/1CMsNzudMd14qTGeFs2Uvk"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Wish For Me",
+      "url": "https://open.spotify.com/track/3FW2GSzxlfiJIReuUwJKpY"
     },
     {
       "added_at": "2026-10-15 23:00:27",
@@ -339,6 +547,22 @@
       "duration_ms": 153739,
       "name": "Oscillate",
       "url": "https://open.spotify.com/track/3mgsTxXHXByKmEaNeaFCmo"
+    },
+    {
+      "added_at": "2026-10-22 23:00:38",
+      "album": {
+        "name": "vapes n glitter",
+        "url": "https://open.spotify.com/album/6Bjvx1mXAcd39JqAKpKtGZ"
+      },
+      "artists": [
+        {
+          "name": "cece",
+          "url": "https://open.spotify.com/artist/43o5hk3yCtKNdozVOvGCcf"
+        }
+      ],
+      "duration_ms": 157142,
+      "name": "vapes n glitter",
+      "url": "https://open.spotify.com/track/5mg5ER3RsE1Domzib7Mfvr"
     },
     {
       "added_at": "2026-10-15 23:00:27",
@@ -1039,22 +1263,6 @@
     {
       "added_at": "2026-10-15 23:00:27",
       "album": {
-        "name": "Club To Your Arms",
-        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 191596,
-      "name": "Club To Your Arms",
-      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
-    },
-    {
-      "added_at": "2026-10-15 23:00:27",
-      "album": {
         "name": "melody",
         "url": "https://open.spotify.com/album/2QhAdqbrpkCBhVcnKpdaJg"
       },
@@ -1507,22 +1715,6 @@
       "duration_ms": 165935,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5s7xCUGbNucmHPiR1Wa6bs"
-    },
-    {
-      "added_at": "2026-10-15 23:00:27",
-      "album": {
-        "name": "fall in love with the dj (deluxe)",
-        "url": "https://open.spotify.com/album/1KgxaU2u9eZoJ6TZO11Evo"
-      },
-      "artists": [
-        {
-          "name": "Lucky Iris",
-          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
-        }
-      ],
-      "duration_ms": 198411,
-      "name": "heart 4 heart",
-      "url": "https://open.spotify.com/track/0xmfyVJFrFSTWcUxjnNo9D"
     }
   ],
   "unique_name": "Evolver",

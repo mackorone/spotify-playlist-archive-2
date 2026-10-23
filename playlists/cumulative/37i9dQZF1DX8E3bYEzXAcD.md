@@ -4,7 +4,7 @@
 
 > "ik ben terug van weggeweest ze bleven me vragen waar was je"\. cover: Boufi
 
-84 songs - 3 hr 48 min
+86 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Bump & Cruise](https://open.spotify.com/track/0hjR8cYla9P40bzNSIPPx5) | [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk) | [Verloren in Passie](https://open.spotify.com/album/4exmmTyyqd1udQyjfJP5Bl) | 2:29 | 2026-07-07 | 2026-09-08 |
 | [Champagne](https://open.spotify.com/track/7tyFgPXKS935sdmT9kQ9tA) | [HIGH SOCIETY](https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps), [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk), [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk), [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp) | [Springplank 2](https://open.spotify.com/album/5RBDnynhE6JzqTX7crUAXd) | 2:47 | 2026-07-07 | 2026-09-08 |
 | [Chanel \(feat\. Asake\)](https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Chanel \(feat\. Asake\)](https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT) | 2:30 | 2026-07-07 | 2026-09-08 |
-| [Cullinan](https://open.spotify.com/track/62PDXg9UDd0q4N6hCl0fI7) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6) | [Cullinan](https://open.spotify.com/album/04MPrXHuTkaGeSVmtWp9j7) | 3:03 | 2025-06-27 |  |
+| [Cullinan](https://open.spotify.com/track/62PDXg9UDd0q4N6hCl0fI7) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6) | [Cullinan](https://open.spotify.com/album/04MPrXHuTkaGeSVmtWp9j7) | 3:03 | 2025-06-27 | 2026-10-23 |
 | [Dakje Open](https://open.spotify.com/track/1qsMR2r9IiJ7Ow6ewNbFaI) | [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp) | [Dakje Open](https://open.spotify.com/album/2WvRupQncVmgisPHHDdjYF) | 2:14 | 2025-06-27 |  |
 | [Dakje Open](https://open.spotify.com/track/1L3afn6UtXaEsFqYAKhhuW) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Lente](https://open.spotify.com/album/3Dq3aa7HAffv6z9N3OAc2x) | 3:44 | 2026-07-07 | 2026-09-08 |
 | [De Hele Week](https://open.spotify.com/track/4risNF5w5hvxyrtphmcbBM) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Avenue](https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw) | [De Hele Week](https://open.spotify.com/album/2GaRJuSmBfVjseyrgrqlTG) | 2:22 | 2026-09-24 |  |
@@ -62,7 +62,7 @@
 | [New Bestie](https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 4:19 | 2026-07-07 | 2026-09-08 |
 | [Niet Beefen](https://open.spotify.com/track/5MzDa2q3jCJlIz008pW9ue) | [Bigidagoe](https://open.spotify.com/artist/3LIf7xkBp0kqBy9P5vUkFC) | [Zes Gangen Menu](https://open.spotify.com/album/4nD1iPRy6jhO8bvtHgCFFE) | 2:19 | 2025-06-27 | 2026-03-04 |
 | [No Mileage](https://open.spotify.com/track/5bu3osUhTayJQfo4J0MWAf) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [No Mileage](https://open.spotify.com/album/0VjKpppUCarjzywISaeYXz) | 2:13 | 2026-07-07 | 2026-09-08 |
-| [Nooit Thuis](https://open.spotify.com/track/0jGExV1jNFFC6rwWANc5UH) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [Allemaal Een Droom](https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J) | 2:40 | 2025-06-27 |  |
+| [Nooit Thuis](https://open.spotify.com/track/0jGExV1jNFFC6rwWANc5UH) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [Allemaal Een Droom](https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J) | 2:40 | 2025-06-27 | 2026-10-23 |
 | [Noord Africano](https://open.spotify.com/track/0l1sQbnwbLIWzGcSVAgmPO) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Noord Africano](https://open.spotify.com/album/0QlNKFqSnmpdzcuqBYY4x0) | 2:47 | 2025-09-25 |  |
 | [Op De Strip](https://open.spotify.com/track/3rXvuORfigmA83I00PWbBQ) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Op De Strip](https://open.spotify.com/album/6X74hQtHRyQURvw3Jl5DkY) | 2:34 | 2025-06-27 | 2026-02-27 |
 | [Orkest](https://open.spotify.com/track/6YlSycjgTKCA3GQGgxjMhc) | [Bigidagoe](https://open.spotify.com/artist/3LIf7xkBp0kqBy9P5vUkFC), [Vic9](https://open.spotify.com/artist/7FGPqGAnNztJ6mQniyFLt9), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Zes Gangen Menu](https://open.spotify.com/album/4nD1iPRy6jhO8bvtHgCFFE) | 3:22 | 2025-06-27 | 2026-03-20 |
@@ -77,6 +77,7 @@
 | [RATATA](https://open.spotify.com/track/1aQ3ZES9ITvoMrPdYJ0acT) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [93](https://open.spotify.com/album/5tEjoImmdtJeQVYQx9Ogy4) | 2:50 | 2025-06-27 | 2025-10-03 |
 | [Ready 4 War](https://open.spotify.com/track/4ZT0SLVKbIL3M5HreJTyLI) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8) | [Ready 4 War](https://open.spotify.com/album/4Jyi5of9SsyQmpXmhF6z3S) | 2:25 | 2025-06-27 | 2026-03-04 |
 | [Rennen op Nikes](https://open.spotify.com/track/5YbVM3iiKMkTEEjNceOz8I) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Rennen op Nikes](https://open.spotify.com/album/2VGz9VEVizwT9DkIoXRBf1) | 2:47 | 2026-06-17 |  |
+| [Safi](https://open.spotify.com/track/5rLme8r9UjeQgmgcBiMYKc) | [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Omachh](https://open.spotify.com/artist/3aOOX1imR5rxI4Gx7BiPbK) | [Safi](https://open.spotify.com/album/0Sg8Q8EKjRcD9uXPIL70yK) | 3:24 | 2026-10-22 |  |
 | [Smalle Wegen](https://open.spotify.com/track/6eL0xjEi0wuliOHy4VEhu7) | [Zarfani](https://open.spotify.com/artist/3jU0uVi2Njx9HZ59lSk3H1) | [Smalle Wegen](https://open.spotify.com/album/7zeehn9vOJGj1iUwiZbM0H) | 2:33 | 2025-06-27 | 2026-03-04 |
 | [Sohlala Sisonke](https://open.spotify.com/track/7hO6BIPeHb0Y5v9bgXoxKg) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zeh McGeba](https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8) | [Finally Famous Too](https://open.spotify.com/album/2fJHuylS0WyxccTNW1nwU9) | 5:27 | 2026-07-07 | 2026-09-08 |
 | [Soldier](https://open.spotify.com/track/5tdppmnunAggNDFPkpM1fe) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Soldier](https://open.spotify.com/album/5GyDKLFgmm6anhrarefEqv) | 2:34 | 2025-06-27 |  |
@@ -91,6 +92,7 @@
 | [WHAT THE HELLY](https://open.spotify.com/track/3PrlxQtFCyAlKFC0uZwSXf) | [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT), [YG24](https://open.spotify.com/artist/3A16zm3oPSNnetOrwp0TU6) | [WHAT THE HELLY](https://open.spotify.com/album/5ESn5GFLsSdYanFcoBxwQl) | 2:10 | 2025-09-15 |  |
 | [Winstmarge](https://open.spotify.com/track/4S5DteUzRbxYwbn78OLLLW) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Winstmarge](https://open.spotify.com/album/3GWsFQce7dHjU3EpGZmlHK) | 2:24 | 2025-06-27 | 2026-03-13 |
 | [Yolo](https://open.spotify.com/track/3nwPqKLNPaPmEu3KLEdzpH) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Most Hated](https://open.spotify.com/album/0A9Tl2UXFxbCwMMcFoNN8g) | 3:24 | 2025-06-27 |  |
+| [Zak Je Toon](https://open.spotify.com/track/6fOOkOY5QtP31t5Q9kWy32) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Zak Je Toon](https://open.spotify.com/album/4qiyiYgtZdz3MBTNAcivar) | 2:05 | 2026-10-22 |  |
 | [ZIDANE](https://open.spotify.com/track/4o943cZWj08kb6qSc4UpCt) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [ZIDANE](https://open.spotify.com/album/6EOa9BfPjQ3plNa3lkdYIx) | 2:48 | 2025-06-27 | 2025-09-11 |
 
 \*This playlist was first scraped on 2025-08-19. Prior content cannot be recovered.

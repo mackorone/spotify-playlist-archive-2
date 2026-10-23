@@ -1,12 +1,12 @@
 {
   "description": "Top Sharqi hits right now. Cover: AL SHAMI",
-  "num_followers": 120451,
+  "num_followers": 120501,
   "original_name": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKWSqqGEdS4R9dN0NbMJfoYK76MI",
+  "snapshot_id": "AAAAAMkDDURMT8sf4CFhGLa7y3UTnmT8",
   "tracks": [
     {
       "added_at": "2026-07-23 05:42:38",
@@ -219,6 +219,22 @@
       "duration_ms": 173207,
       "name": "Maleket Gamal El Kon",
       "url": "https://open.spotify.com/track/2UaswhFiFjhWfIBpiVSfEt"
+    },
+    {
+      "added_at": "2026-10-22 13:51:46",
+      "album": {
+        "name": "Hawa",
+        "url": "https://open.spotify.com/album/1r6qDwXqHrQfoXmEJx6Dl3"
+      },
+      "artists": [
+        {
+          "name": "Amjad Jomaa",
+          "url": "https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU"
+        }
+      ],
+      "duration_ms": 156318,
+      "name": "Hawa",
+      "url": "https://open.spotify.com/track/4g1GQLq90ckD8OkOApb8eq"
     },
     {
       "added_at": "2026-07-23 05:42:38",
@@ -567,22 +583,6 @@
       "duration_ms": 151426,
       "name": "\u0627\u062a\u0646\u0633\u064a\u0646\u0627",
       "url": "https://open.spotify.com/track/0kZtRxxBDbMO4vZApAiNOZ"
-    },
-    {
-      "added_at": "2026-07-23 05:42:38",
-      "album": {
-        "name": "NANCY 11",
-        "url": "https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX"
-      },
-      "artists": [
-        {
-          "name": "Nancy Ajram",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        }
-      ],
-      "duration_ms": 176064,
-      "name": "Baddi Oul Bhebak\u200b",
-      "url": "https://open.spotify.com/track/68rum1vdA8KtzbxWURpZWU"
     },
     {
       "added_at": "2026-07-23 05:42:38",
